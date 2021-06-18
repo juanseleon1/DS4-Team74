@@ -1,0 +1,8 @@
+2018/04/09 RUBEN ARBOLEDA
+Se crea ésta OT para realizar el recorte de papel de los polos del rotor U7.
+
+2018-04-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3709348, PASO:1          
+Se inició con el recorte de papel de los polos Rotor Unidad 7, con el fin de dejarlo a ras y pintarlo para que en los mantenimiento predictivos se pueda realizar una fibroscopia y determinar si se ha presentado movimiento de éste papel.
+
+2018-04-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3709348, PASO:2         
+ Se continuó con el recorte de papel de los polos

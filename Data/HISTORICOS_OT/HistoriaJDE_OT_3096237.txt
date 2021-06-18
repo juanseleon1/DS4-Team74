@@ -1,0 +1,14 @@
+01 de mayo de 2016 
+Referente a la unidad # 3
+Se da paro rápido estando cargada con 135 MW, se observa comportamiento anormal en el PLC el cual manda a sacar y entrar los subsistemas de unidad, manda a cerrar la válvula esférica lo cual genera el paro rápido. Para normalizar la unidad es necesario parar manualmente los subsistemas ya que la secuencia de paro los deja en funcionamiento, y no permite que la unidad pare correctamente.
+Se normaliza y se carga con 135 MW.
+
+02/05/2016
+Se realiza verificacion de los evento en la IHM, el personal de operacion evidencia un paro de algunos procesos con la unidad generando lo cual ha presentado anteriormente esta unidad, la IHM de esta unidad presenta problemas de memoria para ejecutar la aplicacion se normaliza liberando espacion pero la tarjeta de comunicaciones en el PLC esta detenida la comunicacion razon por la cual no se pueden visualizar eventos y ejecutar programas desde la IHM.  se espera desicion de los ingenieros para solicitar la unidad y verificar esta comunicacion, la unidad queda operando solo por control de botonera y los operadores toman los datos fisicos de los procesos y no se tienen registros de alarmas mientras continue este evento.
+Realizado por Wtobonl
+
+03/05/2016
+Se realiza verificacion del programa y rutina en el PLC ademas de verifica la comunicacion  la IHM y el sistema Scada se encuentra  falla en la tarjeta ETHWAY se solicita redespacho los periodos 13, 14 y 15 para normalizar la comunicación de la IHM y el SCADA, se cambia la tarjeta ETHWAY, se normaliza la unidad y la comunicación.
+Realizado por Wtobonl
+TERMINADA CERRAR
+

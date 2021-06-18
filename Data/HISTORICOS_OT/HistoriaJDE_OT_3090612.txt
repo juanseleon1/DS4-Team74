@@ -1,0 +1,5 @@
+TAREA: 
+Realizar inspección termografica a los cables de alta tensión del banco 1, desde casa de maquinas, empalme 1, 2 y 3 en tunel de cables, portal y subestación. 
+
+2016/04/25 - 2016/04/26 GIOVANNY DIAZ - JUAN JOSE LOPEZ
+Se realizo toma de imagenes termograficas en las zonas establecidas, no se evidenció puntos calientes, se anexa informe a esta OT: 3090612

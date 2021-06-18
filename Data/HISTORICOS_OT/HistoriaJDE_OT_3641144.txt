@@ -1,0 +1,8 @@
+MP:
+3325DISTRIBUIDOR TURBINA U1 G43326DISTRIBUIDOR TURBINA U2 G43327 DISTRIBUIDOR TURBINA U3 G4
+
+Programador: Camilo Montagut - 27/11/2017 
+
+Se realiza limpieza general en el distribuidor de la turbina. Además se realiza engrase en cada uno de los álabes y patines dispuestos para tal fin. Finalmente se remueve el exceso de grasa
+
+Ejecuta: equipo mantenimeinto mecánico UOG

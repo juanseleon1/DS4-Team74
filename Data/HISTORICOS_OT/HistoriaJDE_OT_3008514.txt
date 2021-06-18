@@ -1,0 +1,19 @@
+2016/01/23 ADONIS CADAVID
+Grupo de mantenimineto electrico:
+Realizar limpieza general al transformador de neutro, 
+Realizar vericicación, medida y limpieza a las resistencias de disipación.
+Realizar pruebas de: Resistencia Óhmica, Aislamiento en alta y baja tensión, 
+Verificar ajuste de tornillería y conexiones electricas.
+Extraer y analizar muestra de aceite por cromatografía.
+
+2016/02/08 JHONATA USME - DIEGO PERLAZA (PRACTICANTE) - PROGRAMO: RARBOLG
+Se realizó analisis de contenido de gases a muestra de aceite con el equipo KELMAN y arrojó los siguientes resultados:
+"HIDROGENO (H2)" 140
+"AGUA (H2O)" 56
+"DIOXIDO DE CARBONO CO2" 3534
+"MONOXIDO DE CARBONO CO" 184
+"ETILENO C2H4" 44
+"ETANO C2H6" 69
+"METANO CH4" 311
+"ACETILENO C2H2" 0
+OBSERVACIONES Se evidencia particulacion en el aceite

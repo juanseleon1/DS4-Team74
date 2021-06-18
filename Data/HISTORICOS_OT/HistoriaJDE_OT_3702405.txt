@@ -1,0 +1,25 @@
+
+2018/03/20 DIEGO BEDOYA
+Se inicia con el desarme de la motobomba CW5, con el fin de montar la motobomba nueva.
+
+2018/04/28 DIEGO BEDOYA
+En el día de hoy se realizó adecuación de bornera para las terminales del motor de la motobomba CW5, se realizó la conexión de potencia y conexión de la bobina, se midió aislamiento con 2.3GOhm a 500Vdc, se coordinó el arranque en compañía del personal de mantenimiento mecánico, Corriente de servicio: 114,6 Amperios.
+Notas: 
+La alimentación de 480VAC de esta motobomba proviene de la DP1 Celda 6.
+La alimentación de control de esta motobomba está tomada desde el tablero de Servicios Auxiliares esenciales 208Vac, esta alimentación es compartida para la CW4 y CW5.
+OT: 3360238
+Las vibraciones de la motobomba en el arranque fueron las siguientes:
+1 Horizontal X: 2.6 mm/seg
+1 Horizontal Y: 2.4 mm/seg
+2 Horizontal X: 1.1 mm/seg
+2 Horizontal Y: 1.1 mm/seg
+2 Axial V: 0.4 mm/seg
+La presión de salida de la motobomba es de 3.5 bar y la del sistema es de 3.2 bar.
+En la medición de caudal a la salida de la motobomba CW5, nos da 8.2 m3/min, y realizando la conversión a galones por minuto nos da 2166.21 Gal/min (galón EEUU)
+
+Realizó Arranque: Diego Bedoya - Fabio Herrera - Juan Carlos Duarte - Oscar Giraldo - Juan D. García - Rubén Arboleda
+
+
+OT cerrada
+queda el equipo en condiciones normales de operación.
+Andres Ramirez.

@@ -1,0 +1,17 @@
+
+FECHA: MARZO 20 DE 2014 
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Siendo las 19:37 se presenta disparo de los circuitos de 13,8 KV, se normalizan los servicios auxiliares y grupo 1 de aerogeneradores, el grupo 2 presentó disparo por fase T a Tierra, se dio Reset y se trato de cerrar y continuo el disparo, se procede a abrir todos los interruptores de las estaciones de transformación de las maquinas 9 al 15, se realiza otro intento de cierro pero rechazo nuevamente, se deja fuera de servicio la línea 2 de aerogeneradores hasta mañana que se realice una inspección visual.
+
+
+FECHA: MARZO 20 DE 2014 
+
+RESPONSABLE:  PEDRO ROBAYO, DIOMER DIAZ, PEDRO SOLANO, ALVARITO PUSHAINA, ELIECER PUSHAINA Y HENRY GIRALDO
+
+
+Se realiza inspección visual y superficial por donde van enterrados los cables de 13,8KV y se encuentra entre el AG 10 y AG11 en una caja de registro un cable con signos de  descarga a tierra.
+
+Se procede a revisar el cable y se encuentra que la falla se dio en el protector de un empalme que hay en este cable se presento una fuga de corriente que entro en contacto con la tierra del propio cable, se procedió a corregir dicho protector con cintas auto fundentes y aislantes se realizaron los respectivos meggeos dando medidas satisfactorias, se procede a normalizar y se cierra el circuito del grupo 2 a las 19:20. Se procede luego a normalizar los aerogeneradores.

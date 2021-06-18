@@ -1,0 +1,7 @@
+FECHA: 20/04/2018 
+SOLICITADO POR: Natalia Urrea - Francisco González - Operación G4
+DESCRIPCIÓN: Se presenta alarma en estación de Operación Guadalupe IV por disparo de térmico ventilador de la fase R del Banco de transformadores N° 2. Se verifica en sitio evidenciando que es una falla real ya que se encuentra disparado el térmico 88F3, se resetea pero se vuelve a disparar.
+
+ABRIL 21 DE 2018
+se atiende solicitud 3715059 por presentar disparo de la protección térmica del motor, se revisa encontrando una de las bobinas del motor abierta, lo que estaba ocasionado que el motor se quedara frenado, también se encontró el relé térmico correspondiente a este abierta una de las fases, se procedió a desmontar uno de los ventiladores del transformador que se tiene de reserva junto con el relé térmico y se instalaron en el de la fase R de G43 mientras se compran estos repuestos. Se verifica corrientes de trabajo en las 3 fases del motor quedando en 2.5 Amperios, y quedan los 3 ventiladores trabajando en condiciones normales.
+Informó: William Lopera.

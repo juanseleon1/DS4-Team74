@@ -1,0 +1,4 @@
+2018/02/25. GUILLERMO ECHEVERRY.
+SE GENERA ESTA OT PARA LA EXPLICACIÓN Y PROGRAMACIÓN DEL MODULO CONVERSOR SINTRANS TH400 DE SIEMENS PARA LA RTD DEL SELLO DEL TAST.
+
+Dada la importancia de atender eventos correctivos de la parte de instrumentación ante fallas de los mismos, se recibe capacitación por parte de Walter Tobón y Carlos Sánchez, para la configuración de los Módulos conversores Profibus Sitrans TH400 de Siemens, se hacen varias simulaciones con el programa y el conversor y se toman los datos necesarios para la programación de los mismos

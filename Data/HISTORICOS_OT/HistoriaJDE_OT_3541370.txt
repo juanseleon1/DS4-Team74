@@ -1,0 +1,5 @@
+Solicitante-Planeador: Jeison Julian Suarez Rios
+Aprobador: CARLOS ANDRES ANDRADE
+Fecha de solicitud: 14 de Julio de 2017
+Tipo de mantenimiento: Preventivo.
+Acciones de mantenimiento: Instalar radio de comunicaciones en la presa.

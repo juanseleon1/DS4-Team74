@@ -1,0 +1,12 @@
+MARTES 17 FEBRERO 2015
+
+14:09 Sale de Sincronismo la Unidad N° 2, por paro rápido. Alarma prioridad 1:detencion de agua en aceite en el TRV. Disparo TRV 86 R
+
+14:36 Entra en Sincronismo la Unidad N° 2
+
+SALE DE SINCRONISMO LA UNIDAD 2 CON 145 MW EN REGULACION, SE DA PARO RAPIDO, AL BUSCAR EN EL SCADA LA SALIDA NO SE ENCONTRO NINGUN EQUIPO RELACIONADO CON LA MISMA, SOLO PARO RAPIDO REGULADOR DE VELOCIDAD , ESTA ALARMA ES COMUN PARA TODOS LOS PAROS DE LA UNIDAD, ES DE NOTAR QUE DURANTE EL TURNO EN REITERADAS OCACIONES SALE LA ALARMA FALLA RECTIFICADOR 1 DEL SISTEMA TRE DE ESTA UNIDAD.
+
+
+Unidad N° 2 TUH, después de identificada la causa de los paros rápidos ocasionados por el sensor de contaminación en le aceite, se realiza verificación de este sensor y se encuentra fallas en su conexión debido a vibraciones. Para realizar seguimiento de esta falla se bloquea este disparo en la rutina del PLC, lo cual será por un corto periodo. Además se recomienda que el ´personal mecánico realice las verificaciones del aceite de la estación hidráulica. Realizo: Grupo operación, Eladio Piedarahita, Walter Tobon.
+2015/04/09. CARLOS SANCHEZ
+SE ENVIAN MUESTRAS DE ACEITE PARA SU ANALISIS, ESTAMOS PENDIENTES DE LOS RESULTADOS PARA DESCARTAR ESTE Y PROCEDER CON LA EXTRACION Y REVISION DEL SENSOR DE AGUA EN EL ACEITE.

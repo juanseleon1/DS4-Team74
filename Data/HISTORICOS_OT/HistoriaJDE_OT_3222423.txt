@@ -1,0 +1,155 @@
+- FECHA : LUNES OCTUBRE 05 DE 2016
+- PROGRAMÓ : MARIO. G. B.
+- REALIZÓ : MARIO RESTREPO - FRANCISCO QUINTERO - JEISON ORTEGA
+- ASOCIADO A LA OT : 3222423
+- ASUNTO : HACER MANTTO PREVENTIVO / CORRECTIVO GRÚA DERRICK COMPUERTA
+
+** MOTOR GANCHO 
+
+    - Datos de placa 
+       * Potencia : 30 Kw
+       * Voltaje : 480 v
+       * Corriente : 48 a
+   
+    - MANTTO CONTROLES :
+      * Mantto interruptor : sí
+      * Mantto contactor : sí
+      * Revisión cableado : sí
+      * Revisión conexiones y tornillería bornes control y potencia: sí
+
+** MTTO MOTOR 
+    
+    - Aislamiento con respecto a tierra : 14.0  Moh
+
+** VALORES DE VOLTAJE 
+    
+    - RS : 461 V
+    - ST : 461 V
+    - RT : 462 V
+
+** VALORES DE CORRIENTE 
+
+    - ARRANQUE FASE R : 84.6 A
+    - FASE R : 25.7 A
+    - FASE S : 26.3 A
+    - FASE T : 25.8 A
+
+** VARIABLES MECÁNICAS
+
+    - Temperatura excesiva carcaza : nó
+    - Temperatura excesiva cojinetes : nó
+    - Vibración anormal : nó
+    - Ruido anormal
+
+** CALIBRACIÓN TÉRMICOS 
+
+    - Calibración térmico de control : 10 A
+    - Calibración térmico de potencia : 66.0 A
+
+** Funcionamiento de control normal : sí
+
+** HORÓMETRO : N/A
+
+** OBSERVACIONES : Las corrientes tomadas al motor MSG , son muy parejas subiendo como bajando. El aislamiento del motor
+                                          de frenado es de 44 Moh, aplicando 500 vdc.
+
+
+** MOTOR BRAZO 
+
+    - Datos de placa 
+       * Potencia : *****
+       * Voltaje : *****
+       * Corriente : ***** 
+   
+    - MANTTO CONTROLES :
+      * Mantto interruptor : sí
+      * Mantto contactor : sí
+      * Revisión cableado : sí
+      * Revisión conexiones y tornillería bornes control y potencia: sí
+
+** MTTO MOTOR 
+    
+    - Aislamiento con respecto a tierra : 13.7  Moh
+
+** VALORES DE VOLTAJE 
+    
+    - RS : 461 V
+    - ST : 462 V
+    - RT : 462 V
+
+** VALORES DE CORRIENTE 
+
+    - ARRANQUE FASE R : 188.0  A
+    - FASE R : 22.0 A
+    - FASE S : 23.0 A
+    - FASE T : 22.5 A
+
+** VARIABLES MECÁNICAS
+
+    - Temperatura excesiva carcaza : nó
+    - Temperatura excesiva cojinetes : nó
+    - Vibración anormal : nó
+    - Ruido anormal
+
+** CALIBRACIÓN TÉRMICOS 
+
+    - Calibración térmico de control : 10 A
+    - Calibración térmico de potencia : 48.0 A
+
+** Funcionamiento de control normal : sí
+
+** HORÓMETRO : N/A
+
+** OBSERVACIONES : Las corrientes tomadas al motor MB , son muy parejas subiendo como bajando. El aislamiento del motor
+                                          de frenado es de 16.5  Moh, aplicando 500 vdc.
+
+
+
+** MOTOR ROTACIÓN BRAZO CABINA 
+
+    - Datos de placa 
+       * Potencia : 4  Kw
+       * Voltaje : 480 v
+       * Corriente : 5.2  a
+   
+    - MANTTO CONTROLES :
+      * Mantto interruptor : sí
+      * Mantto contactor : sí
+      * Revisión cableado : sí
+      * Revisión conexiones y tornillería bornes control y potencia: sí
+
+** MTTO MOTOR 
+    
+    - Aislamiento con respecto a tierra : 0.44 Moh
+
+** VALORES DE VOLTAJE 
+    
+    - RS : 462 V
+    - ST : 463  V
+    - RT : 460  V
+
+** VALORES DE CORRIENTE 
+
+    - ARRANQUE FASE R : 13.0 A
+    - FASE R : 4.6 A
+    - FASE S : 4.5 A
+    - FASE T : 4.8 A
+
+** VARIABLES MECÁNICAS
+
+    - Temperatura excesiva carcaza : nó
+    - Temperatura excesiva cojinetes : nó
+    - Vibración anormal : nó
+    - Ruido anormal
+
+** CALIBRACIÓN TÉRMICOS 
+
+    - Calibración térmico de control : 10 A
+    - Calibración térmico de potencia : 6.0 A
+
+** Funcionamiento de control normal : sí
+
+** HORÓMETRO : N/A
+
+** OBSERVACIONES : Las corrientes tomadas al motor MSG , son muy parejas subiendo como bajando. El aislamiento del motor
+                                          de frenado es de 0.44 Moh, aplicando 500 vdc.

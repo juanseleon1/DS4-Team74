@@ -1,0 +1,11 @@
+BUENAS TARDES.
+
+SE REQUIERE VERIFICAR LAS COMUNICACIONES DE LA BOMBA DE REFRIGERACION DE LA UNIDAD #2 DE GUADALUPE 4, YA QUE POR PRESENTARSE UNA FALLA GENERAL EN DICHAS COMUNICACIONES, LA BOMBA DE REFRIGERACION SE DETUVO, HACIENDO QUE SUS COJINETES SE CALENTARAN HASTA LLEGAR AL DISPARO DE UNIDAD #2 POR TEMPERATURAS ALTAS EN DICHOS COJINETES.
+
+EN EL MOMENTO SE ENCUENTRA FUNCIONANDO LA BOMBA DE REFRIGERACION EN MANUAL HASTA NUEVA ORDEN.
+
+INFORMA: OPERACION G4.
+
+Bombas refrigeración G IV. Referente a las señales de la refrigeración bombas 1 , 2  y 3 ON  y los comandos para arrancar en automático estas bombas.
+Se trasladan estas señales de la rio 24 del control de comunes a las rio 02  de cada una de las 3 máquinas se cablean y conexionan, se instalan y configuran en el control módulos de salidas y entradas digitales, se configuran estas señales también en el control de las unidades, se hacen pruebas girando las máquinas y comprobando que las bombas de refrigeración entran en automático.
+Informa: Juan Alberto Caicedo Henao, José Montoya, Andrés Arenas

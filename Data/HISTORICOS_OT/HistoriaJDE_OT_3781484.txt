@@ -1,0 +1,15 @@
+04 NOVIEMBRE DE 2018 GUILLERMO LEÓN ECHEVERRY VÉLEZ
+
+Referente al TAST Sello de Turbina Unidad N°4: La temperatura del Sello CT02 presenta un incremento de 6° con respecto a la RTD CT01.
+
+
+05/11/2018
+
+Se da paro rápido la unidad 4 por alta temperatura sello indicación CT002 , se realiza verificación de esta medida en las conexiones locales y este indica valores de resistencia dentro de los parámetros, además se verifica el cableado y conexión no se encuentra falla en su indicación, se normaliza la unidad y se incrementa el ajuste de disparo de esta medida de 45 °C a 80 ° para realizar monitoreo de la indicación debido a que ya este proceso posee una indicación bloqueada la CT01A y además se observa que el indicador de medida desgaste sello no oscila o se registra movimiento permaneciendo en 2.3 mm.
+
+La unidad se normaliza y queda en observación esta indicación 
+
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR

@@ -1,0 +1,7 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE TERMOMETRO 2 TRAFO NIQUIA
+
+28/06/19 OT: 3858658 PLANEADOR: WGARCIAC EJECUTO: A. YEPES
+SE REALIZA VERIFICACIÓN DE SEÑALES ALARMAS Y DISPAROS DEL TRANSFORMADOR DE POTENCIA LAS CUALES SE ENCUENTRAN EN BUEN FUNCIONAMIENTO.
+
+Temperaturas de:  Transformador de Potencia U1 NQEquipo 20°C 40°C 60°C 80°C 100°C 120°CTemp. Aceite 60 81 101Temp. Devanado Alta 58 77 95 118Temp. Devanado Baja 59 77 94 117Valor programado Alarma: T. aceite = 75 / T. devanado 100Valor programado Disparo: T. aceite = 85 / T. devanado 110Comentarios: Sin novedades

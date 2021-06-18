@@ -1,0 +1,4 @@
+CE: LIMPIEZA Y REVISION CONTR CAMPO 44 kv
+
+2015/10/20 JUAN DAVID GARCIA - OSCAR GIRALDO, PROGRAMO: RARBOLG
+Se realizó revision de los sensores de la valvula esférica, se encontró en condiciones normales. 

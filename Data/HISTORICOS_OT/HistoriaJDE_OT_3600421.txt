@@ -1,0 +1,8 @@
+AE: PRUEBAS ELECTRICAS Y MTTO DEL BANCO 
+
+
+
+SEPTIEMBRE 26 DE 2017.
+Se abren barrajes por el lado de alta y baja de los tres transformadores, se realiza su respectivo mantenimiento general según instructivo.
+Una vez realizado el mantenimiento se realizó pruebas de índice de polarización (IP), resistencia bajo devanados y pruebas de corto circuito puenteando a la salida de los CT’ s de corrientes del transformador, esto se realiza para probar los CT’ s de corrientes que se instalaron en el barraje de salida del generador.
+William Lopera.

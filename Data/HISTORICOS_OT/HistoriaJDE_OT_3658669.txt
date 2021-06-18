@@ -1,0 +1,18 @@
+FECHA DE CIERRE:2017/12/13
+PROGRAMADOR: CRISTIAN A GÓMEZ H
+OT:3658669 
+
+SE REALIZA MANTENIEMTO Y MEDIDAS A BANCOS DE BATERIAS HUMEDAS. ADICIONAL, SE REALIZA AJUSTE DE AGUA DESIONIZADA.
+LOS DATOS DE DENSIDAD Y VOLTAJE DE LOS BANCOS Y LAS BATERIAS SE REGISTRAN EN LAS PLANILLAS.
+
+SE ENTREGA EL BANCO A OPERACIÓN. OK
+
+Referente al banco de baterías húmedas C/M Porce II.
+Se realiza mantenimiento a los bancos de baterías se ajustan niveles de agua des ionizada, se realizan medidas de corriente, voltaje y densidad. No se encuentran baterías en falla.
+Voltaje promedio: bacterias: 2.3 vdc banco: 117 vdc.
+Ejecuto: equipo eléctrico U.O.P.
+Informo: Cristian Gómez.
+12/12/2017
+
+Referente a los bancos de baterías C/M Porce II:
+Se revisan los bancos de baterías y se encuentra que el banco # 4 - UPS 1 tiene bajo nivel de agua por debajo del nivel mínimo, y el banco # 5 - UPS 2 tiene bajo nivel de agua cercano nivel mínimo.

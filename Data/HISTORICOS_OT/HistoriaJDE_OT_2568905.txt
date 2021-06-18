@@ -1,0 +1,9 @@
+Revisar falla de medida frecuencia, la unidad 1 aumenta de potencia por encima de la consigna enviada
+
+23/07/2014
+
+Se realizan pruebas y verificaciones en el TRV de la unidad 1, se encuentra falla en la tarjeta de entrada análogas AI3.1 la cual presentaba falla en los canales 0 y 1, además se encontró borne flojo en la tarjeta AI4.1 borne 3 razón por la cual la unidad fluctuaba o modificaba la potencia intempestivamente.
+
+terminada cerrar 
+
+Realizado Por Wtobonl

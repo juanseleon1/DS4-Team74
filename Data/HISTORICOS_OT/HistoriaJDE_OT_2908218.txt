@@ -1,0 +1,14 @@
+2015-10-18. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR EN LA O.S. LA SEÑAL "AS-8.73 DP2 QF1 INT CERRADO". LA SEÑAL APARECE (EN CASCADA) EN LA LISTA DE EVENTOS. 
+
+SE CONFIRMA ESTADO DEL INTERRUPTOR QF1 CERRADO EN LA DP2 Y, EN EL PANEL DE LA LISTA DE EVENTOS NO HAY REGISTRO DE MANIOBRAS.
+
+2015/10/24 GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizó el cambio del relé K245 correspondiente a la señal de entrada al computador el relé estaba aparentemente desgastado. 
+
+La señal apareció nuevamente, se realizó instalación de multímetro a la entrada del relé, salió la alarma y el voltaje no cambió, se realizó instalación y seguimiento de voltaje a la salida del relé, la alarma salió y el voltaje no cambio. 
+
+Se evidenció que la entrada al computador 8.73 en la +U12-161.9 presenta opacidad en su indicación, se recomienda cambiar la entrada a una disponible y cambiar la programación en el SCADA.  
+
+Se cambia de canal por presentar problemas la tarjeta

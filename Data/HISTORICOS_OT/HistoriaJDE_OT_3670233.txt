@@ -1,0 +1,10 @@
+2018/01/11 RUBEN ARBOLEDA OT: 3670233
+Siendo las 17:17, sale de servicio la Unidad 2 con falla en el regulador de velocidad. 
+
+2018/01/11 CESAR HOYOS - RUBEN ARBOLEDA OT: 3670233
+Se pidio un redespacho 19:00-20:00
+Se apaga el regulador, se esperó durante unos 5 minutos, se encendió y arrancó normalemente
+Hora de entrada: 17:36
+
+2018/01/11 DIEGO BEDOYA - RUBEN ARBOLEDA OT: 3670233
+Durante el redespacho se realizo ajuste de las valvulas MOOG quedando en operacion normal.

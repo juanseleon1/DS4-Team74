@@ -1,0 +1,6 @@
+FECHA: 10/12/2017    SOLICITADO POR: Natalia Urrea- Francisco Córdoba- Operación G4
+DESCRIPCIÓN: Revisar alarma de nivel de aceite en el cojinete guía superior de la unidad 3 de Guadalupe 4. TAG: G4U3BRG1NIVAC 
+Según el Scada para esta unidad, los valores con máquina parada son:
+Nivel actual: 755 mm
+Referencia de nivel patrón: 725mm
+Alarma nivel bajo: 670 mm

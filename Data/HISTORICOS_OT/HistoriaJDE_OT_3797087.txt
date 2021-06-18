@@ -1,0 +1,4 @@
+
+DICIEMBRE 24/2018 OT: 3797087  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se verifican las conexiones del relé Buchholz, se cablean por separado los contactos abiertos y cerrados, y se lleva al control la señal de contacto cerrado, se verifica desconectando el cable de llegada al módulo de control, pero solo sale alarma, como se tiene configurada solo sale alarma no da paro al aerogenerador, se deja en servicio el aerogenerador. 

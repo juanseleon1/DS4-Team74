@@ -1,0 +1,36 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Verificar transductores de 4 - 20 mA. Configurar o cambiar transductores de temperatura de los transformadores de 13,2 a 480 Vac, Verificar transferencia
+
+FECHA: 16/07/2018 OT: 3678558 PROGRAMADOR: NESTOR OCHOA EJECUTA: JENIFFER  GARCIA
+
+se realiza la orden y se encontró lo siguiente.
+ el interruptor de acople y pronciplaes de los servicios miselaneos funcionan correctamente 
+ las celdas N02 y N03 tienen el bombillo malo
+ se realiza verficación del cableado interno y limpieza del tablero.
+ el conector de la IHM se encuentra desconectado.
+ los equipos 1FT4B y  1FT1B se encuntran sin tapa
+ las baterias d elos plc estan ok, no se visualizan alarmas en los modulos y tarjetas asociados a este.
+ la celda +N09 se encuantra sin fuente de aliemntación el plc y sin cpu, el bombillo de la celda malo.
+ la celda N08 la bateria del plc se encuantra fallada y el bombillo malo.
+
+se realizan pruebas de tranferencia. se obtuvo el siguiente resultado.
+ alimentador SAU-1 transferencia OK
+ alimentador SAU-2 transferencia OK
+ alimentador SAU-3 transferencia OK
+ alimentador TDP-1 transferencia OK
+ alimentador TDP-2 transferencia OK
+ alimentador miselaneos transferencia OK
+ alimentador CCM-5 no hace transferencia 
+ alimentador barra 2 con problemas, se debe realizar manual. 
+ miselaneos y auxiliares SU1 no realizan la tranferencia cuando se abre el interruptor de barra 2.
+ transferencia de barra 2 a barra 1 con problemas. 
+
+OT realizada por:
+Jennifer garcía 
+Julio parra.
+
+informa.
+Néstor Fabián Ochoa

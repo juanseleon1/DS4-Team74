@@ -1,0 +1,8 @@
+
+FECHA: OCTUBRE 08 DE 2014
+
+
+EJECUTADO POR: GERMAN ECHAVARRIA, ELIECER PUSHAINA, ELISAUL FUENTES Y HENRY GIRALDO
+
+
+Se presenta salida de la maquina por corrientes asimétricas, se observa desbalance en las corrientes, se realiza prueba de condensadores y se encuentran deficientes los 6 que habian trabajando, se procede a cambiar los 6 condensadores por otros usados pero en buenas condiciones, en las posiciones de los 2 últimos Rack se colocan los 2 que llegaron en el pedido de Nordex este año, se deja funcionando el aerogenerador con los 10 condensadores buenos.

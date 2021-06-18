@@ -1,0 +1,10 @@
+2016-05-10. FERNANDO CASTRILLON MORALES.
+VERIFICAR PORQUE NO SE CONECTA LA EXCITACIÓN.
+
+2016/05/14 ANGEL ADONIS CADAVID OCHOA
+OT SE DIRECCIONA AL EQUIPO ELECTRONICO.
+
+2015/05/10 JUAN CARLOS GRANADOS, GIOVANNY DIAZ, JUAN GARCÍA, RUBEN ARBOLEDA, JOHNSON GOMEZ
+Se realizó revision general se encontró falla en relé de control 7d15 en +DU2.2. a causa del ácido sulfhidrico, se realizó cambio y se dejó en condiciones normales. 
+
+ 

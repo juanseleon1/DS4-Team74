@@ -1,0 +1,14 @@
+MP ANUAL, EQUIPOS:
+263524 REGULADOR TENSION 1 TRT4 U4 G3
+263525 REGULADOR TENSION 2 TRT4 U4 G3
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: 02/10/2018 
+
+se realiza una verificación a todos los transductores del regulador de tensión, esta verificación se hace simulando los valores correspondientes a cada uno de los transductores y comprobando su correcto funcionamiento.
+
+se realiza inspección y limpieza al tablero, borneras y cableado asociados al regulador de tensión.
+
+PROGRAMO: LUIS ADRIAN CARDONA

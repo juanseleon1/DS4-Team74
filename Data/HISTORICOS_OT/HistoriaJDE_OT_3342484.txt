@@ -1,0 +1,14 @@
+
+2016/12/26 _ CARLOS ENRIQUE MONCADA. OT N° 342484.
+Referente a la unidad # 3.
+Se encuentra falla en el controlador de unidad el cual bloquea la CPU y el programa con errores que colocan un stop en el proceso. Se cambia el RACK, se cambia la memoria RAM, se realizan actualizaciones del programa en la memoria RAM y la CPU.
+ 
+Se realizan pruebas quedando esta disponible para la generación.
+
+REALIZO: GRUPO ELECTRONICO: NEIRO FABIAN PEREZ,JENIFFER GARCIA, WALTER TOBON, CARLOS MONCADA, JORGE RODRIGUEZ
+
+
+2016/12/14
+REVISAR CONTROLADOR (PLC) DE LA UNIDAD #3, SE ESTA QUEDANDO LA CPU EN FALLA Y GENERO PARO DE EMERGENCIA 
+
+INFORMA : FEDERICO MONTOYA - ADRIÁN NARVÁEZ 

@@ -1,0 +1,9 @@
+05/30/2017
+SOLICITANTE: RAMIRO A TORRES
+
+POR TORMENTA EN LA ZONA, SE ALARMA LA RTU DE PRIMERA ETAPA EN CAMARA DE VALVULAS.
+
+06/01/2017 Luis Eduardo Arcila
+
+Se atiende falla RTU cámara de válvulas, se reemplazan resistencias quemadas, quedando en condiciones normales de operación.
+También quedan trabajando los ventiladores S7 y S10.

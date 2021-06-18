@@ -1,0 +1,14 @@
+OCTUBRE 07 DE 2017
+MP ANUAL EQUIPOS:
+- 644200 ALARMAS DISPAROS +TDM3 U3 G3
+
+Se realiza protocolo de alarmas y disparos, verificando el correcto funcionamiento de las protecciones electricas de la unidad. En estas pruebas se activan los siguientes paros:
+
+ Paro de emergencia 1
+ Paro de emergencia 2
+ Paro parcial 1
+ Paro parcial 2
+ Paro por banco de transformadores fase R, S y T. 
+
+Programo: Oscar Arango
+Ejecuto: Alirio Hernandez

@@ -1,0 +1,6 @@
+FECHA: Agosto 17 DE 2015
+
+Sale en el despliegue de alarmas las señales digitales del banco 3 como "Señal Error" se revisa y se encuentra el modem DSDI 452 en falla.
+
+Se repara módulo quedando las señales en condiciones normales.
+Learcilas.

@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 29/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ.
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de vapores de aceite CVA2, siguiendo las instrucciones de la orden de trabajo.
+Trabajo ejecutado por: Yoanis Rodriguez, Julio Parra y Jorge Parra.
+
+XE: VERIFICAR Y LIMPIAR COLECTORES VAPORES DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

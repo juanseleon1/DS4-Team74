@@ -1,0 +1,11 @@
+24/10/2018
+ALEJANDRO VERGARA
+
+Revisar la zapata #2 de frenos de unidad ya que durante varios arranques se evidencia que la zapata no termina de desaplicar bien, se queda en una posición intermedia y el sensor la ve como si estuviera aplicada.
+En varias ocasiones se aplica y desaplicaron frenos y no cambiada de estado toco hacerlo manualmente con una palanca para dar condiciones de maquina es de anotar que este evento a ocurrido en varias ocasiones
+FECHA: MARTES 30/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RODOLFO GARCES, MAURICIO PINO, FRANCISCO QUINTERO, EMILIO PAMPLONA
+ASOCIADO A LA OT: 3777461
+ASUNTO: SE INTERVINO LA PLATINA DE ACCCIONAMIENTO DEL SENSOR DEL GATO N°2 DE FRENADO DE LA U N°2, FUE NECESARIO    SODARLA POR QUE SE ENCONTRO FRACTURADA, ESTO CAUSABA MAL POSICIONAMIENTO DEL SENSOR. SE MONTA DE NUEVO Y SE    ENSAYA LA APLICACION DE LOS GATOS CON PERSONAL DE OPERACION. EL SISTEMA DE FRENADO QUEDA EN CONDICIONES    OPERATIVAS.
+NOTA: EL GATO ESTA OPERANDO NORMALMETE, EL DESAJUSTE ERA CAUSADO POR LA DEFORMACION DE LA PLATINA ANTES MENCIONADA.   

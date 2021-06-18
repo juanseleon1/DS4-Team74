@@ -1,0 +1,10 @@
+
+
+Referente a la unidad N°3.
+Se da paro rápido estando la unidad sincronizada se presenta frecuencia anormal en el controlador de unidad la cual manda a parar los auxiliares de la unidad  generando paro rápido cuando la unidad para totalmente se genera nuevamente secuencia anormal por parte del controlador  dándole apertura a la válvula esférica lo cual genera una falla hidráulica en el circuito.
+Se procede a normalizar la unidad en forma manual se sincroniza nuevamente con 80 MW  y pasa  AGC 
+
+FECHA: 14/08/2015 OT# 2845903 PROGRMADOR: CMONCADA EJECUTA: JENIFFER GARCIA - NEIRO FABIAN PEREZ
+Se verifica funcionamiento del controlador de unidad, no se observan comportamientos anormales en su funcionamiento, se verifican señalizaciones de diferentes equipos asociados a los servicios auxiliares de la unidad, se gira nuevamente la unidad sincronizando y cargandola con 80 MW, queda en observación y hacer seguimiento a las diferentes variables de la unidad.
+Realiza: Grupo Electrónico.
+Informa: Carlos Moncada. 

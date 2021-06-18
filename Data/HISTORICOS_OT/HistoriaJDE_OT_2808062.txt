@@ -1,0 +1,10 @@
+5 DE JULIO DE 2015 IVAN DARIO ZAPATA GOMEZ
+REVISAR LA INDICACION DE TEMPERATURA METAL 1 DEL COJINETE INFERIOR DE LA UNIDAD 1 DE TRONERAS.  DESDE LA ESTACION DE INGENIERIA ESTA BLOQUEADA LA INDICACION DE TEMPERATURA METAL 1 DEL COJINETE INFERIOR POR PRESENTAR OSCILACION CONSTANTE Y SACANDO ALARMA PERMANENTEMENTE.
+
+15/AGOSTO/2015
+Se revisa con el calibrador de procesos la medida que entrega la RTD y se observa que marca 110 ohmios, quiere decir que la RTD no presenta problemas. Luego se inyecta el transmisor de temperatura para descartar un problema con este instrumento y tambien se evidencia un comportamiento normal. Despues de seguir todo el lazo se encuentra un conector de empalme de esta medida flojo.
+Se procede a reapretar y la medida normaliza.
+Este pendiente de cambiar este sistema de conexion por borneras libres de mantenimiento, lo cual eliminaria este tipo de fallas en el futuro.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

@@ -1,0 +1,29 @@
+MP ANUAL:- 3619 ANILLOS ROZANTES U2 TR
+17/09/2017
+MANTENIMIENTO PREVENTIVO ANUAL.
+Se realiza mantenimiento preventivo segun instructivo anual.
+- Se retiran las escobillas, se miden una por una para verificar cuales estan de cambio y cuales no.
+- Se realiza prueba de aislamiento antes de lavar, para conocer el estado actual del aislamiento del rotor, se anexa los resultados:
+
+ANTES DE LIMPIARAISLAMIENTO / TIERRAANILLO MSUPERIOR13.25INFERIOR12.92
+- Se retiran las medias lunas, para realizar mantenimiento y pruebas de aislamiento, se anexan los resultados:
+-- media luna superior 1.128 G-518 VDC
+-- media luna inferior   1.508 G-518 VDC
+- Se retiran los bujes que soportan las medias lunas, para realizar mantenimiento y pruebas de aislamiento, se anexan los resultados:
+-- buje longitud menor 35.1 G-518 VDC
+-- buje longitud mayor 75.6 G-518 VDC
+
+- Se realiza lavado de la excitatriz y los anillos rozantes.
+- Despues de secado se repite la medida de aislamiento al rotor, se anexan los resultados:
+
+DESPUES DE LIMPIARAISLAMIENTO / TIERRAANILLO MSUPERIOR8.76INFERIOR9.71
+- Se instalan de nuevo las medias lunas, con sus porta escobillas.
+- Se instalan de nuevo las escobillas.
+
+Nota: no es necesario el cambio de ninguna escobilla, ya que las medidas tomadas estan entre los parametros normales para su correcto funcionamiento.
+
+Se normaliza la excitacion. 
+
+Ejecuto: Daniel Arango-Sergio Areiza-Tatiana Almario
+Programo: Carlos Andres Forero
+

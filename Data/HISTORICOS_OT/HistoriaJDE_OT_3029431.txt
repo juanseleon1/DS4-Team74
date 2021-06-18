@@ -1,0 +1,2 @@
+Fecha:2016/02/26
+El digitalizador de roca de riogrande II, no permite comunicacion remota por via ethernet

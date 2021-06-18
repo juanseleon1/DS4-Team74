@@ -1,0 +1,11 @@
+03/10/2016. MAURICIO RUIZ.
+
+SE ENCUENTRA IHM TCIG APAGADA Y MINIBREAKER DISPARADO.
+
+03/10/2016
+
+Se realiza verificacion de la IHM, se encuentra el sistema apagado, se encuentra fuente en corto, se instala una nueva fuente y ademas se encuentra falla en COOLER del procesador, este se cambia. el proceso queda normalizado y operativo 
+
+Realizado por Wtobonl
+
+terminada cerrar 

@@ -1,0 +1,4 @@
+NOV15/2018 OT:3776575 PROGRAMO: JGUINGUER EJECUTO: A.YEPES, A. VILLA
+SE REALIZA VERIFICACIÓN DE SEÑALES ALARMAS Y DISPAROS DEL TRANSFORMADOR DE POTENCIA LAS CUALES SE ENCUENTRAN EN BUEN FUNCIONAMIENTO.
+
+Activación Alarma y Disparo SCADA Descripción  Activación Bajo nivel de aceite OKAlto nivel aceite OKVálvula sobrepresión  OKAlarma Buchholz OKDisparo Buchholz OKActivación Ventiladores (50°C) OKAlarma °T Aceite (95°C) OKDisparo °T Aceite (105°C) OKAlarma °T Devanado (110°C) OKDisparo °T Devanado (120°C) OK

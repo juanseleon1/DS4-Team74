@@ -1,0 +1,6 @@
+ENE 30/2015 OT: 2673540 PROGRAMÓ: Javier Giraldo EJECUTÓ: Diego Quiceno.
+Fueron cambiadas tres resistencias por estar quemadas.
+
+
+SOLICITNTE: Javier Giraldo Fecha Enero 9/2015.
+Cambiar resistencias falladas.

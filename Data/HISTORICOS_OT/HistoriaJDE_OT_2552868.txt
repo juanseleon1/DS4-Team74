@@ -1,0 +1,9 @@
+
+FECHA:  JUNIO 22 DE 2014
+
+EJECUTO. DIOMER DIAZ 
+
+Se hace el cambio de modulo 1.0 en la botton box por estar saliendo y disparado el   minibreker 153F4 este modulo era uno usado 
+
+
+

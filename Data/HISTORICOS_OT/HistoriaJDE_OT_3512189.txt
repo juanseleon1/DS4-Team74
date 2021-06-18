@@ -1,0 +1,14 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+20-06-2017
+PROGRAMO JOSE MONTOYA
+Se realiza mantenimiento al regulador hidráulico.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador.
+Los movimientos de las agujas se realizaron con la válvula de admisión abierta para que abrieran al 100%
+Se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+
+AGUJA 1: 5.6Amp - 115mm a 75% - 75mm a 50% - 35mm a 25%
+AGUJA 2: 5.3Amp - 135-mm a 75% - 90mm a 50% - 45mm a 25%
+AGUJA 3: 5.4Amp - 120-mm a 75% - 80mm a 50% - 40mm a 25%
+AGUJA 4: 5.8Amp - 130 mm a 73% - 75mm a 50% - 35mm a 25%
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.

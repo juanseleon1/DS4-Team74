@@ -1,0 +1,11 @@
+
+DICIEMBRE 02 DE 2016 / JEOVANNY CORREA G
+La tubería hidráulica del deflector de la unidad G34 presenta fuertes oscilaciones. Se deben verificar los lazos de control de la valvula deflectora y el deflector y/o cambiar valvula de control TR10.
+Planeador: Oscar Arango
+
+SE HACE UNA VERIFICACION DEL LAZO DE CONTROL DANDOLE MANDOS DESDE EL REGULADOR DE VELOCIDAD, SE DESMONTA LA VALVULA SE LE HACE UNA INSPECCION FISICA Y  SE LE REALIZA UNA LIMPIEZA, SE INSTALA NUEVAMENTE Y DESAPARECE LA VIBRACION DE SIATEMA HIDRAULICO.
+
+
+REALIZO: GRUPO DE ELECTRONICA.
+
+

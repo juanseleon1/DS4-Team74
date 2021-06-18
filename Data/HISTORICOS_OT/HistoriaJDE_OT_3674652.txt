@@ -1,0 +1,2 @@
+2018/01/19 OT3674652 VICTOR ZULETA, WILFER HINCAPIE
+Se realiza cambio del sensor de temperatura de agua cojinete de turbina de la unidad.

@@ -1,0 +1,16 @@
+BM: Medir vibraciones motobombas cw refrigeración unidades generadoras, la clara Guatape, affa, acra, aca. Este equipo debe estar en línea.
+ 
+2015/09/28 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba CW8 y se obtienen los siguientes resultados:  
+
+Sistema de medición (RMS)
+
+1 Horizontal X: 21 mm/seg
+1 Horizontal Y: 10.3 mm/seg
+2 Horizontal X: 11 mm/seg
+2 Horizontal Y: 4.3 mm/seg
+2 Axial V: 3.9 mm/seg
+
+
+
+   

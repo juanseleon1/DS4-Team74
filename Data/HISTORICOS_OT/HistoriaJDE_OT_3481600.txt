@@ -1,0 +1,3 @@
+Referente a los compresores de la planta diésel subestación tablón
+
+el compresor # 2 presenta fuga considerable de aceite, por lo cual se deja fuera de servicio. Se requiere revisar por parte del grupo de mantenimiento para evaluar el evento y habilitarlo nuevamente.

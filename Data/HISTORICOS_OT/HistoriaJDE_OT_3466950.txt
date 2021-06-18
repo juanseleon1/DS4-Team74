@@ -1,0 +1,10 @@
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios
+EJECUTO:Julian Giraldo.
+PLANEADOR: RMONTOYG
+OT PADRE: 3466843
+CONSIGNACIÓN: 135887
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de frenos, se toma medida de aislamiento del motor del equipo y se llena planilla con estos datos.
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

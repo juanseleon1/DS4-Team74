@@ -1,0 +1,15 @@
+14/07/2016. MAURICIO RUIZ.
+
+PARO RAPIDO POR CAMBIO DE PRIORIDAD DE LA BOMBA 1 AL PRESENTARSE ALARMA NIVEL DE ACEITE MUY ALTO CUBA
+
+
+
+
+14/07/2016
+
+Se realiza verificación de este evento en el sistema SCADA,  el nivel alto aceite en el sistema TCCS de la unidad se encontraba desde hace más de dos días oscilando en el rango de 59.2 y 60 , este último es el rango de disparo el cual se debe mantener por más de un minuto, el paro se ocasiona cunado el operador cambio de prioridad pasando de bomba 1 a bomba 2 por esta situación el sistema se da paro rápido.
+
+
+Realizado por Wtobonl 
+
+Terminada Cerrar

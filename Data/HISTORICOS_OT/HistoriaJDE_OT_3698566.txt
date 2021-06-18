@@ -1,0 +1,15 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3698566.
+Se realiza mantenimiento general, limpieza y verificación al control de unidad de la MINICENTRAL P3.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizo: Julio Cesar Parra, Iván Darío Cano.
+
+PLANEADOR: RMONTOYG
+FECHA: 14-03-2018
+PROGRAMADOR: CARLOS ENRIQUE MONCADA
+OT PADRE: 3698544
+CONSIGNACION: @180304
+
+REALIZAR MANTENIMIENTO PREVENTIVO SEMESTRAL

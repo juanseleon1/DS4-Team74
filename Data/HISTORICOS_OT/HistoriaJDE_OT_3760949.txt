@@ -1,0 +1,15 @@
+2018/09/06 _ CARLOS ENRIQUE MONCADA. OT N° 3760949.
+Se realiza el montaje y verificación de los instrumentos de control de temperatura de la turbina de la unidad 2 de Porce 3.
+La RTD CT001: 22.1 °C
+La RTD CT002: Dañada
+La RTD CT001A: 23.3°C
+La RTD CT 002A: Dañada
+Realizo: Jeniffer García, Ivan Dario Cano.
+
+2018/09/03 _ CARLOS ENRIQUE MONCADA. OT N° 3760949.
+Se desmonta de la instrumentación de la turbina de la unidad 2 para realizar inspección y cambio de bujes y patines del distribuidor.
+Realizo: Julio Cesar Parra.
+
+
+2018/09/02 CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA DESMONTAR LA INSTRUMENTACION PARA QUE LOS MECANICOS PROCEDAN CON LA INSPECCION Y EL CAMBIO DE LOS BUJES Y PATINES DEL DISTRIBUIDOR Y POSTERIORMENTE INSTALARLA NUEVAMENTA DE MANERA QUE LA MAQUINA QUEDE DISPONIBLE PARA SU EXPLOTACION COMERCIAL.

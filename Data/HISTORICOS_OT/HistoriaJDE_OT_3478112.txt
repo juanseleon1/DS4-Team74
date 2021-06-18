@@ -1,0 +1,12 @@
+
+2017/05/05 LUIS EDUARDO ARCILA, RUBEN ARBOLEDA, ANGEL ADONIS CADAVID OCHOA, CESAR HOYOS, JUAN CARLOS GRANADOS.
+En revisión realizada al control de la válvula mariposa de segunda etapa  se encuentra o siguiente:
+·El disparo de las unidades se presenta por orden desde cámara de válvulas al momento de llevar a 70 MW las unidades de la segunda etapa.
+·El disparo de las unidades se da al activarse el relé 30MV.
+·La válvula mariposa no se cierra  a pesar que la orden llega de esta.
+·En la revisión en cámara de válvulas se encuentra que  el soporte que va adherido al  sistema de sobre flujo Bopp Reuther donde se encuentra el bulbo de mercurio que lleva el disparo a casa de máquinas se encontraba flojo y descalibrado.
+Se realizan pruebas localmente, se calibra y ajusta  el bulbo de mercurio a la posición de disparo, se realizan prueba cargando las unidades a 70 MW cada una sin activarse el disparo.
+Queda pendiente mantenimiento al sistema de sobrevelocidad y la conexión del disparo que este genera.
+Es de aclarar que al desconectar este disparo la protección no se deshabilita ya que esta es redundante con la activación mecánica.
+
+

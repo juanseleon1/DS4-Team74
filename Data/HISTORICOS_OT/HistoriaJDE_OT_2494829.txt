@@ -1,0 +1,7 @@
+23/03/2014 EN REPETIDAS OCASIONES EL INSTRUMENTO CF002 DEL COJINETE DE TURBINA CONGELA LA MEDIDA O INDICA MEDIDA ERRONEA O FUERA DE RANGO GENERANDO PERDIDA DE CONDICIONES EN LA UNIDAD. INF:JFOREROA.
+
+fue antedida con otra OT y se cierra por haber terminado, le medida en la actulidad no presenta problemas
+
+CERRAR TERMINADA
+
+Realizado por Wtobonl

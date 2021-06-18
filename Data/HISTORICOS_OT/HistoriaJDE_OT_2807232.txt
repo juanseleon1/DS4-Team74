@@ -1,0 +1,13 @@
+
+JULIO 2 - 2015 - 
+JHON JAIRO MENESES - WILSON ARANGO
+
+DEFLECTOR DE LA UNIDAD PRESENTA OSCILACION DE HASTA 7 mm,  PERMANENTE MIENTRAS LA UNIDAD ESTA CARGADA,ES ANORMAL PUES LAS OTRAS UNIDADES NO PRESENTAN DICHA NOVEDAD.
+
+ 26/SEPTIEMBRE/2015
+Se realizo la verificacion en el regulador de velocidad, midiendo los voltajes de calibracion en la tarjeta AMP3 (+8vdc - 8vdc), tanto para el deflector como para la valvula deflectora. Se modifican algunos parametros de ganancia Ki y Kp y un tiempo de respuesta en el regulador, se mide la señal de posicion de la valvula y el deflector y se realizan los ajustes respectivos.
+Despues se normalizan los mandos directos y se gira la unidad para comprobar el correcto funcionamiento del deflector. Se observa mejora en el comportamiento y no se observa oscilacion en el servo del deflector.
+Se va a seguir monitoreando su comportamiento, antes de cerrar el asunto.
+
+Ejecuto: Fredy Duarte
+Programador: Oscar Arango

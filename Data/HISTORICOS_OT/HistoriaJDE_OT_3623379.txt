@@ -1,0 +1,10 @@
+
+2018/01/31 _ CARLOS ENRIQUE MONCADA. OT N° 3623379.
+Se realiza Protocolo de pruebas de la Instrumentación del cojinete de turbina verificando alarmas y disparos en los IJ1, IC1, IH1, IH2, PO, IQ 1, IQ 2, se adjunta tabla en la carpeta de registros e informes. Se habilitan los disparos de temperatura de aceite de la cuba temperatura del sello del Eje desde el Transductor Tillquist en el contro l de unidad.
+
+REALIZO: NEIRO FABIAN PEREZ, JULIO CESAR PARRA, JENIFFER GARCIA
+
+---------------------------------
+
+MANTENIMIENTO GENERAL BANCO TRANSFORMADORES CENTRAL PORCE 2.
+

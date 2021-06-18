@@ -1,0 +1,5 @@
+AM: ANUAL MECANICO INSPECCIONAR Y COMPROBAR EQUIPO HIDRAULICO AEROGENERADOR, TIPO 3 - 8200 HORAS.
+
+ACTIVIDAD:
+
+Se realiza limpieza y se verifica la ausencia de fugas de aceite, se le adiciona aceite hidráulico Mobil DTE24 y se cambia el filtro del sistema.

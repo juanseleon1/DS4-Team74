@@ -1,0 +1,8 @@
+FECHA: MARZO 31 DE 2015
+
+SOLICITANTE: DIOMER IGNACIO DIAZ 
+
+EJECUTANTE: HENRY GIRALDO
+
+Se presenta falla en la presión de los frenos, se pensó que era uno de los frenos principales pero estos se encontraban bien.
+Se escuchaba como la presión pasaba directamente a tanque, se revisó el sistema hidráulico y se encuentra flojo el conector de la señal del modulo 7.14, esta señal llega directamente a la válvula proporcional, se aprieta (presenta problemas el conector) y se deja en servicio el aerogenerador.

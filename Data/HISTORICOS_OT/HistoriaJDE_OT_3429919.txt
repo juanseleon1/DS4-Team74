@@ -1,0 +1,13 @@
+FECHA: VIERNES 17/03/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, DARIO ATEHORTUA, CAMILO FLOREZ, FABIO HERRERA, RODOLFO GARCES, ANDRES            ALZATE, LEON PARRA, JESUS GARCIA, EMILIO PAMPLONA,WILDER HERRERA, LEONEL ALZATE. 
+ASOCIADO A LA OT: 3429919
+ASUNTO: REPARAR GATOS DE FRENADO POR ROTURA DE EMPAQUES
+
+Al realizar levantamiento del rotor para bloquearlo se presenta fuga de aceite en los gatos de frenado numero 1,2 y 5. Se procede al desarme de estos encontrando fracturado el empaque del N°2, los otros dos presentan abolladuras leves.
+
+Se adquieren 3 sellos  referencia 7K SUPERCUP CHESTERTON.
+Se realizan pruebas no destructivas en un cilindro de repuesto inyectandole aire comprimido a 100lb  de presión.El cilindro no retornaba totalmente por la accion del resorte.
+Fue necesario mecanizar los sellos realizando un desbaste de 1.2mm en el diametro de contacto.
+los gatos quedan operando bien en la funcion de frenado, se deben probar en posteriores desarmes al levantar rotor.
+Se deben adquirir los sellos para cambio en los otros 3 gatos.

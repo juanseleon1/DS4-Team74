@@ -1,0 +1,32 @@
+- FECHA : LUNES MARZO 02 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - WILDER HERRERA
+- ASOCIADO A LA OT : 2708723
+- ASUNTO : EL CONTRATISTA DE SERVICIOS DE APOYO FRANCISCO USME , REPORTA QUE CUANDO BAJÓ HOY LUNES A LA REVISIÓN DE 
+           RUTINA DEL ACUEDUCTO , ENCONTRÓ LA BOMBA QUE ESTÁ EN SERVICIO CON EL TERMICO ACTIVADO Y LOS TANQUES 
+           VACIOS .
+           SE ENVÍA PERSONAL DE MANTTO ELÉCTRICO AL SITIO A REVISAR .
+
+Buenas tardes
+
+Hoy en la mañana el señor Francisco Monsalve , y quien es la persona de servicios de apoyo que hace  los manttos e inspecciones al acueducto de cumbre , reporta que la bomba que se tiene trabajando ( B1 ) actualmente  , está apagada. Presenta un bombillo amarillo prendido y donde dice FALLA SOBRECORRIENTE . Igual los tanques están vacíos. Al sitio se envían los electricistas Wilfer Hincapié y Wilder Herrera , y encuentran lo siguiente :
+1. Térmico de control : activado . Disparado por sobre corriente
+2. Se repone el térmico y se arranca la motobomba.
+3. Se miden corrientes y se encuentra que las corrientes que se miden hoy lunes están más altas que las que se miden regularmente.
+3.1 Corrientes anteriores tomadas : datos entre 27 y 29 amperios y con un térmico calibrado en 32 amp.
+3.2 Corrientes tomadas hoy lunes : datos entre 34 y 34.5  amp. Con base en lo anterior, se necesitó recalibrar el térmico 35 amp.  , pero donde ya es evidente que la bomba incrementó sus consumos de corriente por alguna razón.
+3.3 Después de ponerse la bomba a trabajar , pasa lo siguiente : 
+3.3.1 Se vacía el tanque de  succión : está entrando menos agua …la bomba tiene mayor capacidad de succión y de bombeo que la cantidad de agua que está entrando
+3.3.2 Con base en lo anterior , la bomba comenzó a generar un ruido mecánico muy fuerte. Se quedó trabajando sin agua…
+3.3.3 Por la situación anterior , la bomba se queda trabajando en vacío  porque el  presóstato que la protege contra esta falla , no actuó. Este se colocó siendo un instrumento reutilizado,  y el cual y como era de esperase , podía fallar en cualquier momento. Así sucedió.
+3.3.4 Aparte de lo anterior , sucedió que la pera del sensor de nivel , al caer al nivel más bajo el pozo de succión , quedó atrapada en una posición que no le permitió apagar la bomba  por NO TENER NIVEL DE AGUA para bombear.  No siempre pasa , pero hoy , pasó.
+4. Con base en lo anterior expuesto , se sugiere :
+4.1 Mecánicos : ir al sitio y revisar todo este sistema . Es muy posible que haya sufrido alguna afectación; las corrientes se incrementaron.
+4.2 Instrumentación : instalar , previa calibración, un presóstato por bomba, y nuevo en lo posible, con base en los valores de presión de cada una de ellas …en el diseño quedó esta parte como la protección primaria para que no se fuera a dañar la bomba por falta de agua para bombear.
+4.3 Servicios de apoyo : definir , y cuando su personal baje al sitio a hacer el mantto de lavado de los tanques de alimentación  y de succión ,  no colocar la tapa que le ponen al tubo para controlar el caudal de agua ( entiendo que esto lo solicitó CORNARE )  de manera indiscriminada …sin ninguna medida , posición o marca  , para que no afecte el tanque de succión sea porque no es capaz de suministrar agua suficiente para bombear o porque entre más de la necesaria , se rebose y la bote.
+4.4 Ya con lo anterior solucionado , entramos los electricistas a terminar , y en lo que a control falta por organizar , y entregarle a servicios de apoyo  este sistema y donde es importante que los electricistas que ellos tienen ( Fredy Zapata y los dos contratistas ) , se vayan apersonando de este sistema.
+
+          RELACIONADO CON LOS TRABAJOS MECÁNICOS 
+           1. Durante los trabajos realizados por los mecánicos en el MP de la OT 2703100 se encontró que había necesidad de realizar el
+               siguiente correctivo :
+               1.1 Se cambió toma para el manómetro de la descarga de la bomba
+               1.2 Se baja válvula cheque para inspeccionar y mantener .

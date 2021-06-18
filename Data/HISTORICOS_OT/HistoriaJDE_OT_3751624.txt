@@ -1,0 +1,8 @@
+04/08/2018
+se crea esta OT para revisar la RTD 1 cojinete de turbina de la unidad número 2. 
+nestor fabian ochoa
+
+04/08/2018
+se revisa la RTD, emcontrandose el sensor en buenas condicones, el problema radicaba en la bornera 60 de la regleta BN 31 del tablero TCS. se reajusta borne normalizando así la medida. 
+
+Nestor Fabián Ochoa.

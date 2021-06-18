@@ -1,0 +1,9 @@
+12-05-15  CÉSAR AUGUSTO HOYOS HENAO
+
+En la revisión realizada en las pruebas de estatismo de la unidad se identificaron  2 problemas a saber:
+
+
+1. Al darle un seting de potencia activa remotamente desde la estación de operación la referencia de potencia no seguía la potencia real, hecho que se comprobó en la estación de operación con las gráficas. Se cambió en la programación la señal U7-6.9 referencia de potencia por que no estaba programada, no existía. (Informe y acción realizada por César Tulio Jiménez)
+2. Se encuentra descalibrado transductor de frecuencia en el regulador de velocidad, se da ajuste llevándolo a 60Hz.
+
+Ver informe de la OT 2621939 el cual también es referente al mismo problema.

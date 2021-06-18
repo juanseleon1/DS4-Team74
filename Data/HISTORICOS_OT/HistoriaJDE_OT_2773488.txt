@@ -1,0 +1,22 @@
+XI: VERIFICAR, MEDIR, COMPROBAR INSTRUMENTACION COJINETE INFERIOR GENERADOR TRONERAS
+
+04/06/2015.
+
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+
+
+Se realizo mantenimiento según instructivo, no se encontró novedades, se inyectaron  con el calibrador de procesos los transmisores de temperatura Aceite 1, segmento Guia1 y segmento Guía 3  y se verificaron sus puntos de alarma y disparo y respondieron correctamente.
+El nivel de aceite se encontró en 1578 mm su nivel patrón es de 1600 mm,  En la referencia mecánica se encontró en su valor normal.
+
+VIBRACIONES.
+CIL:8.74 VDC
+CIP:9.38 VDC
+AXIAL: 5.82 VDC. Se ajusto y quedo en 8.74 VDC
+KPH: 8.31 VDC.
+
+
+
+
+
+                        

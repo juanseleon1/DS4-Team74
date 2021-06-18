@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Jhon Jader Orrego.
+Se realiza inspección, limpieza y mantenimiento al transformador de potencia a las válvulas motorizadas y al tablero de control TCIT. Se verifica si hay presencia de fugas para intentar corregirlas.
+
+XE: INSPECCIONAR Y LIMPIAR TRANSFORMADORES DE POTENCIA BCO 2 DE LAS UNIDADES 3 Y 4

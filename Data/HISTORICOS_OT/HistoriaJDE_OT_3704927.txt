@@ -1,0 +1,5 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-05-22 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704927, PASO:1          
+Se realizó limpieza general del tablero de protecciones +TG7,3, se ajustó las borneras y se realizó limpieza general.

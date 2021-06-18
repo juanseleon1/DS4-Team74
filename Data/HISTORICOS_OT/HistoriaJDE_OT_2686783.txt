@@ -1,0 +1,8 @@
+
+FECHA: ENERO 29 DE 2015
+
+EJECUTANTE: GERMÁN ECHAVARRÍA Y PEDRO ROBAYO
+
+Se realizan pruebas en las alimentaciones del tablero de control de la modernización de control, esto con el propósito de aclarar dudas con respecto al paro por Safety Chain cuando se producen pérdidas de alimentación de voltaje.
+
+Durante la puesta en servicio del aerogenerador aparece una falla en el incremento de la presión de los Tip´s y del sistema y aparece falla en el RFC 9,0. Lo único que se encontró fue que al mover los cables que entran a la Top Box 3 se solucionó el problema, después se verificara el estado de los cables. Se deja en servicio el aerogenerador.

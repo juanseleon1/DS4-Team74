@@ -1,0 +1,25 @@
+FECHA: AGOSTO 31/2016  
+
+Revisión los equipos electromecánicos de las compuertas con el fin de realizar la apertura y cierre,  por oportunidad que el nivel del embalse está bajo teniendo presente las recomendaciones del instructivo y planos (Información técnica) con el fin de realizar la maniobra con la mayor prontitud. Fecha propuesta: 8 de septiembre.
+
+ Hacer preventivo a los motores de las bombas (Estaciones hidráulicas ): medir aislamiento, resistencias de calefacción, Inspección de las borneras (tableros y motores), limpieza de los equipos, verificar niveles de tensión y documentar en la OT los resultados . (Cuadrilla eléctrica)
+ 
+ Verificar acoples, presiones en las líneas y equipos asociados: (cuadrilla mecánica) Documentar resultados en la OT
+ 
+ Verificar IHM, señales de control e instrumentación. (Cuadrilla Electrónica) Documentar resultados en la OT.   
+
+Elaborar permiso de trabajo por disciplina.
+
+
+04/09/2016
+
+Se realiza verificación de los sistemas en la compuerta de vertedero 2 acompañados con las demás especialidades, se realiza verificación del programa en el PLC y la correcta operación en la IHM del sistema, además se verifican los módulos de entradas y salidas, además de la comunicación de la red propietaria del sistema como hacia el sistema de SIEMENS. 
+Se realizan maniobras de verificación en los ajustes de presión de carga y descarga del sistema con el sistema de la solapa, este sistema carga y para en 6 Mpas y 11.5 Mpas además de visualizar el correcto funcionamiento de este sistema al presurizar las bombas en 12. Mpas visualizadas en la manómetro 12 y la IHM del sistema.
+El sistema de control funciona en óptimas condiciones, se espera el día de la pruebas con los movimientos programados por el ingeniero encargado de esta prueba.
+Se observa el sistema de nitrogeno en 170 bar , pendiente verificar por los mecanicos esta indicacion en protocolos de prueba   
+
+Realizado por Wtobonl
+Terminada cerrar
+
+
+

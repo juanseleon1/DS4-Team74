@@ -1,0 +1,12 @@
+08/10/2017. 15:15.
+
+Se encuentra IHM que no muestra datos de: Porcentaje del distribuidor en %, frecuencia en ceros, Potencia Activa en ceros.
+
+Se solicita actualizar y normalizar.
+
+Inoforma: Wilson Arango Bedoya - operador Troneras.
+
+SE HACE UNA REVISION DEL CONTROL DEL REGULADOR, SE DESCARGA EL PROGRAMA Y SE ACTUALIZA LA IHM DEL REGULADOR QUEDANDO EN CONDICIONES NORMALES.
+
+
+REALIZO: GRUPO DE ELECTRONICA.

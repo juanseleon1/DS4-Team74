@@ -1,0 +1,14 @@
+Se crea ot para el registro de tiempos y actividades que relacionan las siguientes correcciones mecánicas a realizar en el campamento de los Cedros:
+
+- Corrección con soldadura en cama de zona B
+- Adecuación mecánica en la puerta principal de zona B
+
+
+Programador: Camilo Montagut - 31/01/2018
+
+Se realizan las correcciones mecánicas que relacionan:
+
+- Corrección con soldadura en cama de zona B
+- Adecuación mecánica en la puerta principal de zona B
+
+Ejecuta: equipo mantenimiento UOG

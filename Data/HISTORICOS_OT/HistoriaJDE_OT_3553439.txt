@@ -1,0 +1,4 @@
+AGOSTO 30/2017 OT: 3553439 PLANEO: WGARCIAC EJECUTÓ: VILLA
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS Y ACTIVACIÓN DE ALARMA Y DISPARO MEDICIÓN DE RESISTENCIA ÓHMICA DE LAS RTD`S EN TEMPERATURA AMBIENTE.
+Temperaturas de: COJINETE LADO TURBINA U2 HEEquipo 60C 80C 100CT Ambiente Ohmios ()S38 (Axial) 60.1 80.1 100 38.6 118.7/4.201S40 (Axial)  60 80.1 100 39.3 119.1/4.266S42 (Radial) 60 79.9 100 39.3 118.9/4.233S43 (Radial) 60 80.1 100.1 39.7 119.0/4.252Valor programado Alarma: 87CValor programado Disparo: 92CComentarios:Sin novedades
+Temperaturas de: ACEITE COJINETES U2 HEEquipo 40C 50C 60C 70C 100CT Ambiente Ohmios ()Sensor Aceite 39.35 49.39 59.44 69.44 99.04 30.4 114.0/2.238Valor programado Alarma: 87CValor programado Disparo: 92CComentarios:La Verificación se realiza con el bloque seco y el calibrador de procesos  

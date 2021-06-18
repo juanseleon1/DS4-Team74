@@ -1,0 +1,6 @@
+
+FECHA: MARZO 01 DE 2015
+
+RESPONSABLE:  HENRY GIRALDO  
+
+En la noche se para el aerogenerador y se pierde la visualización desde el Scada, se inspecciona en sitio y se encuentra todo apagado, la UPS estaba apagada y no prendió, se colocan directamente la alimentación y la salida de esta y se energiza el control, dado que por el momento no tenemos baterías se procede a dejar funcionando el aerogenerador de esta manera.

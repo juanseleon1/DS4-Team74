@@ -1,0 +1,22 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:JOHN ESTEBAN HURTADO
+
+
+OCTUBRE 12 DE 2017
+
+
+CE: TERMOGRAFIA EQUIPOS ANEXOS A LA UNIDAD
+
+   ESTE PROCEDIMIENTO APLICABLE A LOS SIGUIENTES EQUIPOS DE LAS UNIDADES    GENERADORAS Y SE REALIZA EN LINEA: - ANILLOS ROZANTES - BARRAJE SALIDA ESTATOR - NEUTRO TIERRA  - INTERRUPTOR CAMPO - EXCITACIÓN PRINCIPAL - TRANSFORMADOR S. AUX - TABLERO DIST PPAL S.AUX  - REGULADOR HIDRAULICO   - MOTOBOMBAS REFRIGERACION - MOTOBOMBAS CIRC ACEITE CGS - MOTOBOMBAS REFRIG COJINETE  - BANCO TRANSFORMADOR - SECCIONADORES
+Se realiza ajuste en los puntos donde fue necesario, para corregir puntos calientes identificados en la termografia.
+
+Ejecuto: Edgar Rodas-Edinson Hernandez
+Programo: Carlos Andres Forero
+
+
+Planeador:Oscar Restrepo Alvarez
+
+Novuiembre 28 de 2017
+
+Nota: Por el tamaño se guardan las termografías con su ruta

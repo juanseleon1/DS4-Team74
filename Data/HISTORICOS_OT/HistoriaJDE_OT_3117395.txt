@@ -1,0 +1,17 @@
+2016/05/18 WALTER TOBON.
+
+Se realiaza procedimiento para migrar los programa de las IHM de ABB en el cojinete TCCS de la  unidad 
+
+
+19/05/201
+.
+se inicia con la configuracion y pruebas del programa ABB PGP 
+
+Realizado por Wtobonl
+
+
+2016/06/04
+
+Se inicia continua con las pruebas de configuracion para la migracion del programa a la nueva IHM, se realiza consulta a ABB sobre los problemas en la migracion de este programa, se espera realizar pruebas para verificar el programa e instalar el nuevo equipo .
+
+Realizado por Wtobonl

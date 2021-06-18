@@ -1,0 +1,10 @@
+2018/02/27 OT: 3676762 EJECUTÓ: VICTOR ZULETA; WINDER ATEHORTUA (PRACTICANTE)
+SE RETIRÓ EL RADIADOR NÚMERO SEIS DEL RECINTO DEL GENERADOR DE LA UNIDAD NÚMERO 1 PARA INSPECCIONAR EL ESTADO INTERNO DE LA RTD; ENCONTRANDOSE BORNE FLOJO EN UNA DE SUS TERMINALES. SE NORMALIZA EL SISTEMA Y SE DA AVISO A SALA DE OPERACIÓN.
+
+WILFER A HINCAPIE M.  25 de enero de 2018
+Se crea orden de trabajo para la verificacion de la RTD devanado c3 del estator, para este trabajo es necesario desmontar el radiador numero 6 del recinto generador de la unidad N°1. 
+
+Programo: Yovanny Rivera
+Ejecuto: Ricaurte Lopez, Dario Atehortua, Rodolfo Garces, Emilio Pamplona, Victor Zuleta.
+Asociado a la OT: 3676762
+Asunto:desmontar radiador N°6 de la U N°1

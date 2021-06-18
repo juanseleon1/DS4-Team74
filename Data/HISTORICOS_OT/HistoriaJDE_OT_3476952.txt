@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: JAIRO TORRES.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza mantenimiento eléctrico general al tablero +TCV y a las acometidas de los motores y electroválvulas asociadas a él. A los motores (6) se les realiza chequeo de aislamiento/tierra y se llenan planillas. Los equipos se dejan en condiciones operativas.
+
+XE: VERIFICAR Y LIMPIAR EQUIPO HIDRAULICO VALVULA ADMISION Y TABLERO +TCV DE LA UNIDAD

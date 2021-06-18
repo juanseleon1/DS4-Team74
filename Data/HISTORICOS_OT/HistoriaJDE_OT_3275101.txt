@@ -1,0 +1,16 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 10-10-2016
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento: 
+
+Realizar las siguientes acciones de mantenimiento preventivo:
+                Inspección general del estado de la estación
+                Limpieza de estación
+                Cambio de desecante de gabinetes
+                Descarga y verificación de datos de la estación
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+                Verificación del nivel de mira vs. sensor
+                Verificación del emplazamiento de la estación
+                Realización de prueba de calidad

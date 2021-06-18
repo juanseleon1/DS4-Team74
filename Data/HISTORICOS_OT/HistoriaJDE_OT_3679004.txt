@@ -1,0 +1,19 @@
+SOLICITANTES: OPERACIÓN TURNO 3 FG - ARFECHA: 29/01/2018
+
+La unidad TR2 presenta vibración axial alta (alarma), entre 290 y 300 micrones, siendo el punto de alarma por alto 234 micrones y disparo por alto 466 micrones. Requiere revision y correctivo.
+
+
+PLANEADOR.GABRIEL TAMAYO.
+
+
+PROGRAMADOR:CAMILO MONTAGUT.
+
+ENERO 29 DE 2018.
+
+Ot: 3679004 - Vibración axial alta - Programador: Camilo Montagut - 22/08/2018
+
+Se cierra la ot sin tiempos ni registro debido a que se está esperando la respuesta de la unidad de Operación y Mantenimeinto al correo que se le solicito las causas de las vibraciones bajo el análisis de vibraciones de esa unidad.
+
+Actualmente la vibración del cojinete se encuentra en el intervalo de aceptación "alerta". Esta prueba de vibraciones fue realizada por el equipo de operación y mantenimiento, y el informe fue entregado por el ingeniero Julio Zapata el 10 de agosto de 2018.
+
+Ejecuta: equipo mantenimiento mecánico UOG

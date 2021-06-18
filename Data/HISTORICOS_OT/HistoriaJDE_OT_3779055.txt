@@ -1,0 +1,9 @@
+- FECHA : JUEVES NOVIEMBRE 08 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - ANDRES BARRIGA - VICTOR MESA.
+- ASOCIADO A LA OT : 3779055
+- ASUNTO : HACER MEDIDAS DE RESISTENCIA OHMICA Y DE AISLAMNIENTO
+                       * EL ROTOR  ESTABA , AL PARAR LA UNIDAD , EN 280 Moh..SUCIO
+                       * SE DEJA , Y DESPUÉS DE LIMPIAR 456 Moh
+                       * LA MEDIDA DE RESISTENCIA OHMICA ESTÁ EN 160.5 milioh
+                       * NOTA : todos los datos tomados quedan registrados en la planilla correspondiente.

@@ -1,0 +1,38 @@
+- FECHA : SÁBADO SEPTIEMBRE 24 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - FRANCISCO QUINTERO
+- ASOCIADO A LA OT : 3222527
+- ASUNTO : HACER MANTTO MP
+
+1. Mantenimiento controles.
+
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 10.5 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 475.0 v 
+       ST = 473.0 v                                                                  
+       RT = 471.0 v
+       Corriente de arranque:  
+Fase R = 55.5 a
+       Corriente de marcha:  
+Fase R = 7.3 a
+Fase S = 7.2 a
+Fase T =  7.1 a
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal:nó 
+
+3. Calibración térmico potencia : 100 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 796.0H
+
+6. Observaciones: Medida de aislamiento tomada con Megger MI3121H 500 vdc con acometida incluida .

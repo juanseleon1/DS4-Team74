@@ -1,0 +1,100 @@
+29-08-17 CESAR AUGUSTO HOYOS HENAO.
+Se realizará por parte dl grupo electrónico pruebas de funcionamiento al sistema contra incendio de los 12 transfomadores.
+
+06/09/2017
+Se encontraron 103 problemas en el sistema contraincendios nodo 3 transformadores
+Uno de ellos era el corto circuito en el loop 4, el problema se encontró en una caja de paso del transformador 1.
+Se cambiaron tres dispositivos por presentar problemas internos:
+· DCP-R2ML-I en la caja de integración trafo 1
+· DCP-DIMM en las puertas de los trafos 4 y 6
+Se encontró sulfatación en las puntas de los cables que van a las borneras y a los dispositivos, el cual no permite un buen contacto para su conexión.
+Se encontraron borneras flojas en tablero principal de control.
+  
+FALLAS EN EL MOMENTO
+· Problemas de desconexión 
+· El nodo 3 aparece deshabilitado
+· Dispositivos sin reconocer
+· Dispositivos incorrectos
+· Problemas de tierra
+· Corto circuito en la línea del esclavo
+Se está destapando todas las cajas de paso donde se encuentran alojados los dispositivos para encontrar estos problemas.
+Quedan en el momento 31 problemas generales en el sistema contraincendios nodo 3 transformadores.
+07/09/2017
+Con el técnico William Uribe de General Fire Control y personal de la central se empieza a revisar el sistema contra incendios nodo 3 transformadores.
+En el momento este nodo presenta 28 alarmas entre las cuales las más preocupantes serian: 
+· Problemas de desconexión 
+· Nodos deshabilitados
+· Dispositivos sin reconocer
+· Dispositivos incorrectos
+· Problemas de tierra
+· Corto circuitos
+Se destapa una a una las cajas 4 x 4 donde se alojan los dispositivos de control evidenciando problemas de sulfatación y mal contacto en las borneras y conexiones.  
+Para atacar este problema, se lija el cable para buen contacto en las borneras.
+En los cables que se encuentran pelados se coloca cinta termo incogible para garantizar su aislamiento.
+Se normaliza el controlador del nodo 3, evidenciando la corrección de 14 alarmas
+ 08/09/2017
+En el momento el nodo presenta 14 alarmas asociadas 
+Se continua con la rectificación de los contactos, empalmes y cableado en las cajas 4 x 4 de los transformadores.
+Se encontraron varios módulos DCP-DIMM en falla de los cuales se cambiaron 5, queda pendiente la compra de más módulos de este tipo, ya que en el almacén están agotados.
+09/09/2017
+Se encontraron más módulos DCP-DIMM y DCP-FRCME-M en falla
+Se recuperan los módulos que están por fuera de servicio en el túnel de cables para utilizarlos como repuestos en el mantenimiento del nodo 3
+10/09/2017
+Se retiran los módulos que se encuentran el túnel de cables para utilizarlos como repuestos ya que no tenemos existencia de ellos en el almacén.
+Se sigue con la limpieza de las puntas de los cables que llegan a las borneras. 
+11/09/2017
+Se sigue con la limpieza de las puntas de los cables que llegan a las borneras y con la rectificación de los contactos, empalmes y cableado en las cajas 4 x 4 de los transformadores.
+12/09/2017
+Hasta el momento se han cambiado 11 módulos DCP-DIMM y 10 DCP-FRCME-M que se encontraban en falla e inhabilitaban el sistema.
+Se comienzan las pruebas de disparo desde las estaciones manuales con resultados negativos, se revisan módulos de disparo de solenoides para definir su estado.
+13/09/2017
+Se revisa el cableado en el tablero principal realizando pruebas de funcionamiento y mantenimiento a las borneras de los dispositivos.
+El problema según el personal de General Fire, parece ser de programación.
+Se estará revisando el dia lunes 18 de septiembre con un ingeniero conocedor de este programa.  
+18/09/2017
+Con los tecnólogos de General Fire Control William Uribe y Yhonatan Marin se sigue revisando el nodo 3 transformadores.
+La fuente AC/DC 24 v falla en el nodo 3, se cambia por la fuente del nodo 4 críticos y se envía a RPM para su respectiva reparación.
+Al reiniciar el controlador del nodo 3 quedan pendiente 14 errores nuevos, se está revisando para solucionarlos.
+Se trata de descargar el programa del nodo 3 trafos sacando varios errores.
+
+19/09/2017
+se sigue con los correctivos del nodo 3 encontrando más problemas en el control.
+Se descargó el programa del controlador para revisar algún error en el programa.
+Al reiniciar el controlador entraros en este nodo los problemas de los nodos de generadores y críticos sin razón alguna.
+Se realizan las pruebas de disparo desde las estaciones manuales, también desde los térmicos y los detectores de humo con resultados negativos.
+El personal de General Fire debe viajar mañana jueves a Medellín para otros compromisos, pero el jueves llegan 5 funcionarios para seguir con los mantenimientos correctivos en el SCI Guatapé.  
+
+21/09/2017
+Se reinician trabajos de mantenimientos correctivos con personal de General Fire 
+William Uribe 
+Luis Fernando García
+Edwin Pinzón Castellanos
+William Alexander Guzmán
+Hernando Jurado López
+
+Se cambian 3 módulos DCP-DIMM que se encontraron con problemas en el tablero principal de control 
+
+22/09/2017
+El sistema contraincendios nodo 3 transformadores se le está haciendo pruebas de automatismo con resultados positivos.
+Se realiza prueba de disparo desde zona cruzada (Humo y Térmico) y desde la estación manual de descarga en los transformadores 6 y 10, activando las solenoides que disparan los cilindros de nitrógeno y CO2.
+En el día de hoy se terminó de programar el controlador, borrando del programa los dispositivos de las puertas de los trafos y los dispositivos que se encontraban en los cables de potencia supervisando los Cables BICC
+Se le está dando una capacitación a los operadores de turno, donde se les explica el funcionamiento de los paneles de control y las maniobras a realizar para la descarga en manual del SCI de los transformadores.
+
+23/09/2017
+Se realiza prueba de disparo desde zona cruzada (Humo y Térmico) y desde la estación manual de descarga con resultados positivos en los 12 transformadores.
+Al reiniciar el controlador, fallan dos modulos DCP-DIMM bloqueando el disparo, se cambian quedando el sistema sin alarmas.
+Se sigue con la rectificación de terminales sulfatadas.
+
+24/09/2017
+Se comienza con el pesaje de los cilindros de CO2 y con la rectificación de terminales sulfatadas.
+
+25/09/2017
+Se continua con el mantenimiento correctivo, encontrando varias fallas en el control y en el cableado.
+Se deja el nodo 3 transformadores en automático, trabajando en condiciones normales de operación.
+
+
+
+
+
+
+

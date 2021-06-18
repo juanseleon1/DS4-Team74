@@ -1,0 +1,21 @@
+
+Mayo 14/2018
+
+El regulador de tension de la Unidad 2_PL, presenta falla por lectura erronea de temperatura tiristor #6, puente 1, indica 117°c mientras las demas RTDs indican 45°
+
+cambiar RTD ya que esta oscilacion se ha viene presentando con frecuencia.
+
+informa: Turno 2 Operacion.
+
+Trabajo realizado: 
+1- OT: 3724242: Regulador Tensión U2_PL, puente 1, tiristor 6  
+
+R/: Se realiza revisión general a la resistencia, cableado y todos los puntos de conexión correspondiente, encontrando un cable flojo en la llegada a la multican, relacionada a esta RTD, se corrige el problema  y con el bloque seco  AMETEK CTC-155 se le realizaron pruebas de temperatura a la RTD, corroborando la información con el IHM del regulador, dando medidas correctas, luego se inicia generación hasta llevar la maquina a excitada y se deja así un buen tiempo, donde como resultado una buena lectura en la RTD del tiristor 6 del puente 1. OK
+
+
+
+
+
+
+
+   

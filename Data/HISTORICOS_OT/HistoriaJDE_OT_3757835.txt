@@ -1,0 +1,7 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 13-08-2018-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación.
+Análisis de datos de estado del datalogger y transmisor, Verificación de sistema de potencia y puesta a tierra
+Se realiza mejotras en el cerramiento de la estacion, se cambia tablon de mira, se cambia gabinete.

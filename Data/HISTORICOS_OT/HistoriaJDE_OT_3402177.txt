@@ -1,0 +1,13 @@
+21 DE FEBRERO 2017  GUILLERMO ECHEVERRY
+
+EN PROCESO DE PARO DE LA UNIDAD SE QUEDA  SIN COMUNICACION EL TCF POR LO TANTO  NO APLICA LOS FRENOS
+OT: 3402177
+21/02/2017
+Se encuentra problemas de comunicacion con el sistema SIEMENS y el control o PLC de ABB en este proceso, se realizan varios procedimientos para restablecer la comunicacion con el PLC debido a los bloqueos del fabricante, despues de realizados y agotados los recursos se consigue normalizar la comunicacion con el PLC y por ende las demas conexiones de red existentes en el sistema SCADA, control de unidad, IHM control de unidad.
+
+07/03/2017
+Se encuentra problemas de comunicacion con el sistema el control o PLC de ABB en este proceso, se encuentra problemas con las tarjetas de red en la IHM, se normalizan y queda operativo el sistema. Se realiza verificacion del sistema con la secuencia de la unidad.
+NOTA: Este sistema ya ha tenido varios problemas en el mismo mes, se le hara un seguimiento al comportamiento del sistema de frenado.
+Realizado: Walter Tobón. 
+
+Terminada Cerrar

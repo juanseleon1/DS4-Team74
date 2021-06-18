@@ -1,0 +1,5 @@
+2017/11/22 RUBEN ARBOLEDA
+Se crea OT para la adecuación de alimentación de unidades de purga en cada uno de los chiller se inicia con el chiller 3.
+
+2017-11-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3649004, PASO:1          
+Se realizó adecuación de un toma a 110VAC para alimentar caja de purga en los 3 chiller.

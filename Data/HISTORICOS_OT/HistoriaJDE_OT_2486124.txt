@@ -1,0 +1,22 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+DESMONTAR  INSTRUMENTACION COJINETE INFERIOR
+
+11/ABRIL/2014
+Se realiza la limpieza y mantenimiento preventivo en el laboratorio de las RTD´s Guia y Aceite del Cojinete Inferior.
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+12/ABRIL/2014
+Se realizo limpieza de toda la instrumentacion desmontada, RTD´s cojinete Inferior, con el fin de dejarlas sin aceite para comenzar con las actividades de metrologia de dichas RTD´s.
+Ejecuto: Fredy Duarte
+
+13/ABRIL/2014
+Verificacion y curva metrologica en el laboratorio de las RTD´s de Temperatura de Aceite y Temperatura segmentos guia/Metaldel cojinete Inferior.
+
+Como resultado se obtienen los siguientes datos:
+
+ÁREA GUADALUPEMANTENIMIENTO ESPECIAL G36 2014VERIFICACIÓN INSTRUMENTACIÓN TEMPERATURA COJINETESEQUIPOS UTILIZADOS: BAÑO TÉRMICO TECHNECOJINETE INFERIORPATRÓN °C ACEITE 1  ACEITE 2 METAL 1 METAL 6 METAL 10 METAL 1540 41,0 41,0 40,0 40,0 40,0 40,050 51,5 51,2 50,9 50,4 51,0 50,960 60,8 60,8 60,5 60,5 60,6 60,770 70,9 70,8 70,9 70,8 70,8 70,880 80,1 81,0 80,6 80,9 80,9 80,9ALARMADISPAROOBSERVACIONES: 
+Ejecuto: Fredy Duarte
+
+25/ABRIL/2014
+Se realiza verificacion con el peso muerto a los sensores de nivel de aceite (presion diferencial) del cojinete Inferior.
+Ejecuto: Francisco Gonzalez

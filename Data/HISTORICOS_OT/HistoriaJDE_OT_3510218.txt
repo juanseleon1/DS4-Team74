@@ -1,0 +1,7 @@
+EJECUTOR: VICTOR ZULETA - CESAR TULIO JIMENEZ 
+FECHA: 2017/06/07
+Se hace inspeccion de la alarma presente presion/nivel tanque regulador, verificando la señal de salida de cada una de los transmirores asociados a cada varible y se evidencia que los equipos estan trabajando de forma idonea, ademas, se verifica en la estacion de ingenieria el comportamiento de las variables encontrandose una mala escalizacion de la misma, queda pendiente para escalizar las señales de forma correcta.
+
+EJECUTOR: VICTOR ZULETA
+FECHA: 2017/06/07
+ALARMA DE PRESION-NIVEL DE LA ESTACION HIDRAULICA REGULADOR TANQUE PRESION.

@@ -1,0 +1,7 @@
+FECHA: 31/07/2017    SOLICITADO POR: Natalia Urrea - Operación G4
+DESCRIPCIÓN: La junta inflable de operación no se encuentra operativa, el control envía mando de aplicación,  pero no de desaplicación. Para evitar daños físicos en la junta; el grupo de mantenimiento decide dejar desconectado el mando de la electroválvula y forzada la señal de confirmación en las secuencias de arranque y paro.
+El grupo de operación debe aplicar junta inflable de mantenimiento mientras la unidad está en reserva.
+Miércoles 02 de 2017
+REFRENTE A LA JUNTA INFLABLE DE G43.
+Se realiza cambio en control de la junta inflable, se cambia lógica cableada por lógica en control de unidad teniendo en cuenta la protección para evitar que la junta aplique y desaplique en momento NO adecuado, además se programa paro de emergencia por aplicación de la junta con maquina girando, se realiza pruebas y se corrobora el correcto funcionamiento de la junta a la aplicación y desaplicación con giro real.
+Informó. Juan Caicedo, José Montoya.

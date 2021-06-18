@@ -1,0 +1,26 @@
+
+Víctor Zuleta / Luis Eduardo Arcila
+
+Se realizan las actividades:
+
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+4. Limpieza de intercambiador de aire.
+5. Limpieza general al tablero del regulador.
+6. Se calibraron transductores de posición de los comandos de agujas y deflector.
+
+Los paramentaros de calibración queda dentro de los rangos normales de operación.
+
+Víctor Zuleta / Luis Eduardo Arcila      2019/01/31
+Se realiza recorrido de agujas  y deflector despues de probar la valvula del bloque nuevo de comando de deflector.
+Este sigue en verificacion mecanica ya que aun no cumple con los resultados.
+Se deja normalizado el regulador hidraulico en la unidad 4.
+Adicional se realiza:
+
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+4. Limpieza de intercambiador de aire.
+5. Limpieza general al tablero del regulador.
+6. Se calibraron transductores de posición de los comandos de agujas y deflector.

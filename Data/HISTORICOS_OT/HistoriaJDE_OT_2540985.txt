@@ -1,0 +1,14 @@
+TE: REALIZAR BUSQUEDA DE FALLAS Y MONITOREO DE CONDICION DEL AISLAMIENTO, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE RESPALDO CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+2014/08/19 EDWAR LONDOÑO - JHONATAN USME - OT: 2540985
+Se aplico procedimeinto de mantenimiento trimestral debido a que este equipo estaba parado, se realizó medida de los siguientes valores: 
+Voltaje: 
+RS:449  
+ST: 447
+TR: 449
+Corriente de cuncionamieto: 
+R:52.7
+S: 50.1
+T: 51.6
+Aislamiento Motor: 123MOhm
+Se realizó liempieza general al sitio, se encontro bastante suciedad en el piso. 
+Se encontro en condiciones normales de funcionamiento. 

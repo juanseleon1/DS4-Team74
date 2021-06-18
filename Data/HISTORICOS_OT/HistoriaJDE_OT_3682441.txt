@@ -1,0 +1,14 @@
+FEBRERO 28 DEL 2018, PROGRAMO:JAIRO GUINGUER, EJECUTO:ANDRES YEPES 
+Se realiza limpieza a todos los tableros de la central e inyección de mA a cada indicador.
+*Rvx.Power sistema de regulador de velocidad
+1. Posición distribuidor (%)
+2. Posición del limitador (%)
+3. Potencia activa (MW)
+4. Rotación rpm
+Inyec.mA 4 8 12 16 20Inst. 1 0 24 48 74 100Inst. 2 0 24 46 70 96Inst. 3 0 7 14.5 22 29.5Inst. 4 0 250 500 750 980Inst. 5
+*Rvx.Power sistema de excitación y regulación de tensión 
+1. Potencia activa (MW)
+2. Tensión terminal (V)
+3. Tensión de campo (V)
+4. Corriente de campo (A)
+Inyec.mA 4 8 12 16 20Inst. 1 0 7.5 15 26 30Inst. 2 0 2200 4400 6700 8900Inst. 3 -580 -300 0 300 600Inst. 4 0 190 375 575 750Inst. 5

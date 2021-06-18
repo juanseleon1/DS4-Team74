@@ -1,0 +1,6 @@
+MANTENIMIENTO ANUAL SERVICIOS AUXILIARES 480VAC
+OCTUBRE 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo a los gabinetes del tablero TPU, realizando limpieza, ajustes en las conexiones de control y potencia, verificación visual e inspección en todo el sistema de potencia; se desarman los interruptores Q1 y Q2 se limpian los cotactos de potancia y de control, ademas se realizaron pruebas de cambio de servicios, simulando la maquina sincronizada y responden correctamente al cambio.
+
+Programo: Carlos Andres Forero
+Ejecutaron: Daniel Arango-Sergio Areiza

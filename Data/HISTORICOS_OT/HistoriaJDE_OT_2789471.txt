@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2015/06/16 FERNANDO RUIZ - SEBASTIAN HINCAPIE OT:2789471
+EQUIPO: VENTILADOR S5 CORRIENTE: R:0, S:0, T:0, VOLTAJES RS:0, ST:0, TR:0, AISLAMIENTO DE MOTOR: 141,5 M Se encuentra indisponible por parte de mantenimiento mecanico, eje desarmado y bandas sueltas, se evidenció pintura corroida se hizo OT correctiva: 2795297, 

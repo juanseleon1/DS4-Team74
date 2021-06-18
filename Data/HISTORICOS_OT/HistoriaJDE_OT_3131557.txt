@@ -1,0 +1,5 @@
+16/05/16. CESAR AUGUSTO HOYOS HENAO
+En el tablero de control nodo 1, se registra evento de fuego en el pasillo de cables “ SCI-GTP-SG-05” .
+31/05/16 CESAR AUGUSTO HOYOS HENAO.
+Se revisa sensor y se detecta en mal estado, se cambia por uno nuevo y se reprograma. Para que el sistema borre la alarma hay que reiniciar el sistema desde el nodo 1.
+

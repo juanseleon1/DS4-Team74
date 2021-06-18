@@ -1,0 +1,16 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CT R1
+
+ABRIL 03/2017 PROGRAMO: JGUINGUER EJECUTO: AYEPES
+SE HACE VERIFICACION DE RTDs LOS VALORES SON LOS SIGUIENTES:
+Temperaturas de: Cojinete de EmpujeEquipo 0°C 20°C 40°C 60°C 80°C 100°C 120°CSensor 10.4 20.4 40.4 60.5 80.7 100 117.3 5.99Sensor 20.2 20.2 40.4 60.2 80.3 100 115.8 5.83Valor programado Alarma:75°CValor programado Disparo:80°C
+    
+
+
+    
+
+                                 
+
+
+
+

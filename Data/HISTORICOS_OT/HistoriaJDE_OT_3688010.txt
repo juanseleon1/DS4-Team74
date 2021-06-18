@@ -1,0 +1,19 @@
+FECHA: 14/02/2018
+DESCRIPCION:Variador de frecuencia de la motobomba 2 de refrigeración de reserva, actuó protección fusible fallado y no fue posible reponer dicha falla.  Esta motobomba se encontraba trabajando para la refrigeración de la unidad G43, por estar la bomba principal en mantenimiento.
+INFORMÓ: TURNO 2  (mario Zapata - Javier Córdoba)
+FECHA: 19/02/2018
+se realiza revision de la falla al variador de frecuencia en Laboratorio de GIV, con el apoyo Sr Ivan Ramires de la UOP. En la inspeccion, se encontraron el fusible de potencia y 2 IGBT malos, queda pendiente la compra de dichos elementos para la reparacion.
+programo: Esteban Hurtado
+ejecuto: Grupo electrico y Grupo electronico.
+
+FECHA: 10/07/2018
+Después de ser comprado y cambiados dichos repuestos se procede a energizar el variador y a verificar su funcionamiento en vacío. Esta prueba sale satisfactoria.
+Se procede a realizar el montaje del variador en su respectivo gabinete, se realiza la conexión de control y la potencia, hacia el motor de la bomba. Se hacen pruebas de autoajuste y arranques manuales con el fin de verificar su funcionamiento. Esta prueba sale satisfactoria.
+Nota: como se tenía la bomba de reserva #1 funcionando para las unidades #1 y #2 se hace el cambio por la bomba de reserva #2 para hacer mejor seguimiento del funcionamiento del variador. Queda el variador en automático
+Programo: Esteban Hurtado
+Realizo: Equipo Mtto electrónico y electricista - Iván Ramírez (UOP)
+
+FECHA: 31/07/2018
+Para atender este evento y dar solucion al mtto corretivo se genera una orden de compra N° 1425987 por valor de 3´000.000 para la adquisicion de los repuestos del variador.
+
+Informa: Sandra Carmona 

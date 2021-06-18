@@ -1,0 +1,24 @@
+MP ANUAL, EQUIPOS:
+384782 RODETE PELTON U1 G3
+2359 RODETE PELTON U2 G3
+751203 RODETE PELTON U3 G3
+751204 RODETE PELTON U4 G3
+2362 RODETE PELTON U5 G3
+751205 RODETE PELTON U6 G6
+
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:SERGIO RAMÍREZ
+
+
+31/07/2018
+
+A las 111003.28 horas de servicio del Rodete Pelton 2-7234-7236 marca Neyrpic se revisaron cangilones alternados encontrando poros en los cangilones 16 y 17, los demás cangilones se encuentran en buen estado
+(ver registro archivado en la planoteca de G3).
+Se realizó inspección visual, chequeo de fisura con líquidos penetrantes y partículas magnéticas por parte de ASTECO no encontrando fisuras.
+ (ver informe archivado en el servidor de la central).
+Se repara el piso o rejas de inspección soldando platinas faltantes.
+Nota: El Rodete tiene 3907.04 horas de servicio para
+ la unidad 2. 
+Se instala tapón en el agujero del eje de turbina para evitar humedad a través de este orificio hacia el dispositivo de conexión a los polos.   

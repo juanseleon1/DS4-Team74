@@ -1,0 +1,8 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO.
+
+04 DE MARZO DE 2015.
+
+Se realiza mantenimiento al tablero de control del regulador de velocidad, se reaprietan los bornes, mantenimiento al transductor de potencia, se realiza la verificación de lazo de control y calibración de la tarjeta MP2.
+Se encontró en condiciones normales.
+
+William Lopera.

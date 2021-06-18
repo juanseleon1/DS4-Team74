@@ -1,0 +1,7 @@
+
+FECHA: ABRIL 22 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y DIOMER DIAZ
+
+
+Debido a que se estaba presentando perdida de presión en el sistema hidráulico se procedió a inspeccionar la góndola, no se encontraron fugas se revisaron los módulos y se encontró una posible falla en el 7,16 se logró apreciar que se falló en el momento que giro la Yaw, se decide dejar en manual la Yaw hasta mañana que se realice una búsqueda mejor.

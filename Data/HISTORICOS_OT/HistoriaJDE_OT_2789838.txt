@@ -1,0 +1,17 @@
+- FECHA : MARTES JUNIO 09 DE 2015
+- REALIZÓ : ANDRÉS ZAPATA - FRANCISCO QUINTERO
+- ASOCIADO A LA OT : 2789838
+- ASUNTO : POR SOLICITUD DEL SEÑOR FRAN VILLA SE PROCEDE A REVISAR Y VERIFICAR EL AIRE ACONDICIONADO DE LA CASETA 
+           110 KV.
+Después de revisar el aire funcionando ( tenía breaker potencia abierto ) , se detecta :
+
+1. Que la corriente está muy baja ( 8.9 amp. )  y la teórica es de 12 amp. A 203 v )
+2. Que el voltaje real es de 209 v donde la corriente de trabajo debe ser mayor a 12 amp. En condiciones normales de operación
+3. Que el condensador  no muestra ninguna temperatura… no hay circulación de gas a presión … 
+4. Conclusión : el equipo se descargó ..se quedó sin gas..
+5. Se procede a realizar los pasos normales ( ubicar la fuga , hacer el sellado con soldadura , hacer vacío y cargar ) hasta ponerlo de nuevo en servicio .
+6. OT  2789838
+
+
+  IMPORTANTE : DE COMÚN ACUERDO CON PERSONAL DISTRUBUCIÓN ( FRAN YESID ) EL PERSONAL MANTTO EDIFICIOS SE ENCARGARÁ
+               A PARTIR DEL PROXIMO MANTTO DE TODOS LOS AIRES DE S/E ASOCIADOS A DISTRIBUCIÓN.

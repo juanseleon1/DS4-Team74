@@ -1,0 +1,7 @@
+FECHA: JUNIO 02 DE 2016 OT 3133647
+
+EJECUTANTE: HGIRALRI Y PROBAYO
+SOLICITANTE: HENRY GIRALDO
+
+
+Para descartar la falla de comunicación en controlador superior que se ha presentado últimamente, se procede a cambiar los módulos 7,0 y se deja en servicio bajo observación.

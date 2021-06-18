@@ -1,0 +1,8 @@
+Recuperar nivel de electrolito, Segun informe diario el nivel se encuentra bajo. 
+
+Se realizó recuperación de nivel y adicionalemnte se encontró falla en iluminación en cableado de suiche y sensor de movimiento,  por sulfatación en el cableado. 
+
+Se realizó cambio y se dejó en funcionamiento normal. 
+
+Realizó: Fernando Ruiz - Ivan Suarez
+Planeó: Ruben Arboleda

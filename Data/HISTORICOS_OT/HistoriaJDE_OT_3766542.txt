@@ -1,0 +1,11 @@
+SOLICITANTE: MARTA PARRA ROJAS
+FECHA:17/09/2018
+
+LA VALVULA MARIPOSA DE LA UNIDAD 1 DE TRONERAS TIENE FUGA DE AGUA POR EL SERVOMOTOR.
+
+
+Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG

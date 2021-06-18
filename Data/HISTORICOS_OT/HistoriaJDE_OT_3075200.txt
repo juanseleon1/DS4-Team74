@@ -1,0 +1,13 @@
+ENERO 2015
+REALIZAR VERIFICACION METROLOGICA A TEMPERATURA GUIA RADIAL 2 PAJARITO.
+
+ENERO 19/2016 OT: 2744486 PLANEADOR: WGARCIAC
+COJINETE GUIA RADIAL 2
+PATRON           METAL 
+40ºC                    39ºC                  
+70ºC                    64ºC                  
+80ºC                    78ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75 ºC
+
+NOTA: NO SE REPORTA TIEMPO YA QUE ES PARA REGISTRO DEL SISTEMA DE CALIDAD

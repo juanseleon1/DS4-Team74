@@ -1,0 +1,9 @@
+2018/10/31 RUBEN ARBOLEDA
+Se crea OT para realizar revisión y ajuste a las borneras del regulador de velocidad Unidad 2, durante el cambio de transformadores del Banco 1
+
+2018/10/31 DIEGO BEDOYA OT: 3780600
+Se aprovecha esta OT para reportar tiempo y trabajo realizado por la parte mecánica. 
+se saca el aceite de los tanques sumidero y acumulador , con el fin de realizar la limpieza de estos, ademàs del mantenimiento a todas los bloques de válvulas que se encuentran en el regulador.
+
+2018-10-31 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3780600, PASO:1          
+Se realizó limpieza general de las borneras en la caja de control del regulador de velocidad Unidad 1.

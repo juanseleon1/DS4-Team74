@@ -1,0 +1,6 @@
+FECHA: JULIO 18 DE 2016
+
+EJECUTANTE: HENRY GIRALDO, ELISAUL FUENTES Y ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+Después de un Grid Error se queda pegado el contactor 24K2 (Bypass); se retiran los contactos y se encuentra pegado el puente pequeño en la fase S, se realiza mantenimiento a los contactos y se deja en servicio el aerogenerador.

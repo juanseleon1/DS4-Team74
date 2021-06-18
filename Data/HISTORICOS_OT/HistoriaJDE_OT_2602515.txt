@@ -1,0 +1,13 @@
+2014/09/17 Reporto: Carlos Andres Mejia
+
+Buen dia, favor verificar el funcinamiento del computador siemens de la DP1, ya que se apaga constantemente y no deja que este se reinicie.
+Gracias. 
+
+2014/09/18 EL TRABAJO SE EJECUTÓ EN LA OT: 2602769 - RUBEN ARBOLEDA
+
+2014/09/17 GIOVANNY DIAZ - JUAN DAVID GARCIA - OSCAR GIRALDO - RUBEN ARBOLEDA
+Se realizó cambio de fuente a la pantalla (IHM) la cual estaba presentando falla en el inicio de Windows. 
+Se presentaba un reinició automático muy inmediato, para lo cual se realizo medida de voltaje de salida de la fuente de 120VAC/24VDC,  y se identificó una oscilacion de voltaje, se instaló una fuente que estaba en el puente grúa, disponible para la modernización. 
+
+En esta OT se envió a repararar la fuente dañarada. 
+Autorizó: Adonis Cadavid

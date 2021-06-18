@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2017/08/22
+Síntoma: Estacion sin transmision, ultimos datos muestran bateria agotada. posiblemente se debe ajustar el panel solar en la conexion correcta

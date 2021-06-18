@@ -1,0 +1,8 @@
+XE: MEDIR LIMPIAR Y REVISAR NEUTRO GENERADOR
+
+16/03/2017
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizó el mantenimiento según el instructivo GCTRE0008. Se revisó el barraje del neutro, se revisan y se reaprietan conexiones, transformador, resistencias de disipación y se realizó limpieza en toda la barra en general. No se evidencian anomalías.
+
+Ejecuto: Jorge Echeverry 
+Programador: Carlos Andres Forero.

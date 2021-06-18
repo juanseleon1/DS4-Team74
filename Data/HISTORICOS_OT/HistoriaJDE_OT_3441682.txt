@@ -1,0 +1,5 @@
+2017-05-26 REALIZÓ: JHONATAN ANDRES USME - DAVER MIRA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3441682, PASO:1-1,1          
+Se realizó revisión y mantenimeinto general al transofmrador del generador asincrónico, se realizó medida de aislamiento con los siguientes resultados: 
+Lado de baja tensión - 500VDC: 132,2GOhm
+Lado de Alta tensión - 5000VDC: 246MOhm
+Se entrego disponible a Operación

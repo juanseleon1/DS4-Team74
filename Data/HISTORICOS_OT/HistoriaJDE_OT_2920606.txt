@@ -1,0 +1,16 @@
+SOLICITANTE:
+SE SOLICITA REVISAR EL REGULADOR DE VELOCIDAD DE LA UNIDAD NIQUÍA. HA CAUSADO TRES  PAROS DE UNIDAD EN EL ULTIMO MES CON LA ALARMA "FALLA MAYOR REGULADOR TURBINA".  REPORTA:  CARLOS ESTEBAN ORTIZ.
+
+JUNIO 8/2016 PLANEADOR: WGARCIAC
+SE CIERRA LA OT Y SE CONTINUARÁ ATENDIENDO CON LA OT: 3006969 PARA NO MANTENER DOS ORDENES DE TRABAJO POR LA MISMA FALLA, ES DECIR OT REPETIDA  
+
+Se realiza verificación del regulador de velocidad y chequeos del conector ( J 35 ), se realiza verificación de continuidad en todos los contactos
+encontrando buena conexión en todos.
+Se realiza verificación de una de las tarjetas electrónicas internas, la cual envía la señal de falla mayor del regulador (Relé R 29). Esta tarjeta presenta 
+Una operación con posible falla; ya que uno de los relés de interfaz parece estar fallado. Luego de verificar conexiones y operación del relé interno se
+Normaliza la falla.
+Queda en observación la operación de esta tarjeta y se recomienda por ahora NO manipular el conector (J35) el cual opera adecuadamente:
+
+Informa; Ingeniero Fernando Vásquez R
+
+EN ESTA OT SE MONTA LA OR PARA LA REPARACION DE LA BOMBA PRESTADA POR TASAJERA  DEJARLA ABIERTA INF: FARFREY OSPINA 

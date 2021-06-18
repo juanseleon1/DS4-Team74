@@ -1,0 +1,35 @@
+REALIZAR MANTENIMIENTO Y METROLOGIA AL TRANSFORMADOR DE POTENCIA.
+
+
+ENE 31/2018 PROGRAMO: JGUINGUER EJECUTÒ: ANDRES YEPES
+SE REALIZO MANTENIMIENTO E INSPEPECCION A LA INSTRUMENTACION  DEL TRANSFORMADOR DE POTENCIA, SE REALIZA METROLOGIA  IMAGEN TERMICA DEVANADO DE ALTA 
+PATRON            ACEITE        DEVANADO
+65ºC                    64ºC               66ºC             
+85ºC                    84ºC               85ºC             
+100ºC                  99ºC               100ºC    
+Valor programado alarma aceite: 80ºC
+Valor programado disparo aceite: 90ºC 
+Valor programado alarma devanado: 90ºC
+Valor programado disparo devanado: 95ºC  
+
+
+Descripción Verificación  Relé U+GU3  Anuncio U+GC1Alta Temperatura Devanado AV 85°C  OK K19   Protección Unidad Alarma Alta Temperatura Devanado BV 85°C  OK K17    Protección Unidad Alarma Relé Buchholz Alarma OK K11   Protección Unidad Alarma Alta Temperatura Aceite 75°C  OK K15   Protección Unidad Alarma Nivel Aceite Máximo  OK K13   Protección Unidad Alarma Nivel Aceite Mínimo  OK K14   Protección Unidad Alarma 
+DISPAROS PROTECCIONES MECANICAS
+
+Descripción  Verificación  Relé U+GU3  Anuncio U+GC1Muy Alta Temperatura Devanado AV 95°C OK K20   Protección Unidad Activada  Muy Alta Temperatura Devanado BV 95°C OK K18   Protección Unidad ActivadaRelé Buchholz Disparo OK K12   Protección Unidad ActivadaMuy Alta Temperatura Aceite 85°C OK K16 Protección Unidad ActivadaDisparo Alivio Presión (Válvula Sobrepresión)  OK K21 Protección Unidad Activada
+
+FEB 16/2016 PROGRAMO: JGUINGUER EJECUTÒ: ALEXANDER VILLA
+SE REALIZO MANTENIMIENTO E INSPEPECCION A LA INSTRUMENTACION  DEL TRANSFORMADOR DE POTENCIA, SE REALIZA METROLOGIA TERMOMETRO DE ACEITE E IMAGEN TERMICA DEVANADO DE ALTA.
+PATRON            ACEITE        DEVANADO
+60ºC                    59ºC               62ºC             
+80ºC                    79ºC               80ºC             
+100ºC                  99ºC               100ºC    
+valor programado alarma aceite:80ºC
+valor programado disparo aceite:90ºC 
+valor programado alarma devanado:90ºC
+valor programado disparo devanado:95ºC        
+
+ENERO 19/2016  OT: 2986249 PROGRAMÓ: FARFREY OSPINA  EJECUTÓ: YEISON HINCAPIE.
+SE REALIZÓ MANTENIMIENTO E INSPECCION Y PRUEBAS ELECTRICAS AL TRANFORMADOR DE POTENCIA DE LA CENTRAL PAJARITO, SE REALIZA PRUEBA DE SISTEMA CONTRAINCENDIO, OPERO CORRECTAMENTRE.
+QUEDA REGISTRO ESCRITO DE PRUEBAS REALIZADAS 
+EN EL MOMENTO DEL ARRANQUE  LA UNIDAD PRESENTO PROBLEMAS CON LA PROTECCION DEL GENERADOR SACANDO DISPARO INADVERTIDO, SE DESABILITA LA PROTECCION  PARA PODER ENTRAR EN SERVICIO LA UNIDAD ESTE PROCEDIMIENTO LO REALIZO EL PERSONAL DE PROTECCIONES.   

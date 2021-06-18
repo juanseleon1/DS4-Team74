@@ -1,0 +1,9 @@
+MP ANUAL:
+2281BANCO DE TRANSFORMADORES C/M G3 U1.2282BANCO DE TRANSFORMADORES C/M G3 U2.2283BANCO DE TRANSFORMADORES C/M G3 U3.2284BANCO DE TRANSFORMADORES C/M G3 U4.2285BANCO DE TRANSFORMADORES C/M G3 U5.2286BANCO DE TRANSFORMADORES C/M G3 U6.
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+JULIO 19 DE 2018
+Se realizó el mantenimiento al banco de transformadores, Inspección visual del estado de los bujes y aisladores, calibración de seccionadores de linea y tierra, mantenimiento al tablero de control, puestas a tierra, cambio de la silica en la fase T, corrección de fuga de aceite en el buje del neutro fase T, mantenimiento a los ventiladores, tablero de control y tablero de borneras de corriente de la linea 115 KV.
+William Lopera.

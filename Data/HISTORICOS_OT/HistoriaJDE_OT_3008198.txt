@@ -1,0 +1,13 @@
+2016/04/29_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO.
+
+2016/04/13_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION DE LA INSTRUMENTACION EN LOS SERVICIOS AUXILIARES MISCELANEOAS DE C/M. 
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Verificar transductores de 4 - 20 mA. Configurar o cambiar transductores de temperatura de los transformadores de 13,2 a 480 Vac,Verificar transferencia.

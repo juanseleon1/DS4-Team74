@@ -1,0 +1,20 @@
+PLANEADOR : CESAR A.GIRALDO R
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 19/02/2018
+
+REALIZAR CAMBIO DEL TRANSFORMADO DE LA FASE T, ID:01.2.4003 POR EL TRANSFORMADOR REPARADO ID 01.2.4002.
+
+INCLUYE LAS SIGUIENTES ACTIVIDADES
+ VESTIR EL TRANSFORMADOR REPARADO, EXPLORER REALIZA ESTA ACTIVIDAD CON EL APOYO DE EPM
+ MANIOBRAS CON EL PUENTE GRUA, PARA IZAR TRANSFORMADOR HACIA EL PATIO DE LOS TRANSFORMADORES.
+ DESCONEXION DE POTENCIA Y CONTROL, DEL TRANFORMADOR DE LA FASE S.
+ MOVIMIENTOS DE RETIRAR EL TRANSFORMADOR A REPARAR.
+ UBICAR EL TRANFORMADOR REPARADO EN LA FASE S.
+ CONEXIONADO DE POTENCIA Y CONTROL DEL TRANSFORMADOR REPARADO.
+ PRUEBAS ELECTRICAS DEL TRANSFORMADOR REPARADO, ANTES DE ENERGIZAR.
+
+FEBRERO 23 DE 2018
+Antes de retirar el transformador que sale para su reparación con serie 01.2.4003 se realizan los bloqueos y medidas de seguridad requeridas y se procede con el levantamiento de cableado de control antes de desconectar, se desconecta por lado de alta, baja y cables de tierras de la cuba, se libera el transformador para poder ser retirado de la celda.
+Una vez desconectado el transformador se procede a retirar de la celda con el apoyo del grupo mecánico, utilizando dispositivo electromecánico para retirarlo y ubicarlo en la celda de los transformadores de reserva para ser entregado al personal de EXPLORER, que es la empresa contratista encargada de la reparación del bobinado de baja tensión y mantenimiento del transformador.
+
+William Lopera.

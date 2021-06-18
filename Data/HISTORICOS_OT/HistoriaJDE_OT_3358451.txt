@@ -1,0 +1,8 @@
+2017/01/04. CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA REVISAR FALLA EN LA ESTACION HIDRAULICA DE LA HB PARA HABILITAR EL CONTROL DE ESTE SISTEMA
+
+04/01/2017
+
+se realiza adecuacion de control para la estacion hidraulica de la HB y poder realizar maniobras automaticas de este sistema y de esta manera dar mas eficiencia y confiabilidad al caudal ecologico, mientras se realizan las labores de compra de los nuevos equipos.
+
+Realizado por Wtobonl

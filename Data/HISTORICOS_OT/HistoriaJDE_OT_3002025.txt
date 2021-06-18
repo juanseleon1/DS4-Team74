@@ -1,0 +1,20 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CE UNIDAD 1 R1
+
+FEB 18/2016 PROGRAMO: JGUINGUER    EJECUTO: ALEXANDER VILLA
+SE HACE VERIFICACION DE RTD METAL 1,2 Y ACEITE  COJINETE DE EMPUJE LOS VALORES SON LOS SIGUIENTES:
+PATRON          METAL 1             METAL 2           ACEITE
+20ºC                 18,21ºC               16,50ºC             20,9ºC                  
+40ºC                 40,2ºC                 38.37ºC             40,99ºC                 
+60ºC                 60,12ºC               58,29ºC             61,9ºC                  
+80ºC                 80,11ºC               80,21ºC             80,86ºC                  
+100ºC               100ºC                  100ºC                100ºC                 
+Valor programado alarma metal 75ºC                   
+Valor programado disparo metal 80ºC 
+Valor programado alarma  aceite 65ºC 
+Valor programado disparo  aceite70ºC   
+
+                 
+
+
+

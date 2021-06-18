@@ -1,0 +1,9 @@
+06-12-2017 EL COMPRESOR REGULADOR 1 AIRE FRENADO ACUMULADOR UNIDADES 5-6 G3 PRESENTA MUCHO RUIDO Y VIBRACIÓN ANORMAL AL MOMENTO DE TRABAJAR, SE DEBE PROGRAMAR REVISIÓN.
+INFORMA: TURNO 1  
+
+Programador: Camilo Montagut - 28/12/2017 
+
+Se cierra la ot cómo finalizada ya que el trabajo se ejecutó con la ot: 3660735 
+
+Ejecuta: equipo mantenimiento mecánico UOG
+

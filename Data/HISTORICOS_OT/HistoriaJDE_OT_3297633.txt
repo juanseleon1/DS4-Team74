@@ -1,0 +1,7 @@
+XM: CHEQUEAR Y VERIFICAR FUNCIONAMIENTO DISTRIBUIDOR TURBINA UNIDAD
+
+se realiza mantenimiento al equipo de acuerdo a la secuencia del procedimiento. la presion de los servomotores se encuentra normal, no se escuchan ruidos extraños al abrir y cerrar el distribuidor, se galguean los 20 alabes en K1,K2,L1 y L2 no se encontro anomalia alguna en los alabes ni en el liner partes superiores ni inferiores, en el predistribuidor se encontro cabitacion en el sector del alabe movil # 17 y en la parte final del predistribuidor.
+Se revisan los patines axiales y radiales como tambien el anillo de regulacion sin novedad alguna.
+Se normaliza el equipo.
+
+Ejecuto: Francisco Guinguer, Carlos Valdes, Manuel Perlaza.

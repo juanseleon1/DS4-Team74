@@ -1,0 +1,25 @@
+07/07/2017
+
+FALLA EN LAS MEDIDAS DE PROTECCIONES, EN EL MOMENTO DE UN DISPARO POR PROTECCIONES LOS EVENTOS NO SE VISUALIZAN 
+
+INFORMA TURNO 2 OPERACION
+
+PLANEADOR    WTOBONL
+PROGRAMADOR  WTOBONL
+OT#3540797  
+
+
+07/07/2017
+
+Se realiza verficacion de los eventos en el sistema de los controladores y los modulos de vibraciones , ademas se compara la base de datos y se sincronizan los datos y la estampa de tiempos en la tarjeta PROSOFT. ademas se instalan medidas de pruebas para los sensores de posicion de los cojinetes LAO y LA para el monitoreo local del personal mecanico solicitud del ingeniero Santiago Ramirez.
+
+
+Realizado por Wtobonl
+
+TERMINADO CERRAR
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

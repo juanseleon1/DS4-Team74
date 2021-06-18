@@ -1,0 +1,7 @@
+
+FECHA: FEBRERO 21 DE 2014 
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presenta falla por comunicaciones, se da reset y se espera que falle nuevamente para ver que alarma muestra el RFC, ya que sale y de inmediato se repone, en el instante del paro salió el 7,18, se procedió a cambiarlo pero la falla salió nuevamente, se cambia el 7,0 y transcurridos unos minutos de funcionamiento se presenta la falla, en este paro si se quedo un modulo intermitente, el 7,3 se cambia pero el problema persiste, se cambia el 7,2 se repone la falla y queda en funcionamiento.

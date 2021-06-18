@@ -1,0 +1,4 @@
+FECHA: MAYO 23/2017PROGRAMO: DANIEL PALACIOSEJECUTO: FREDY ECHEVERRI.
+Se realizan al rotor las siguientes pruebas: Medida del índice de absorción (DAR), Medida de resistencia óhmica del rotor. Al estator se le hacen las siguientes pruebas: Medida del índice de polarización (IP), Medida de resistencia de aislamiento del estator, Medida de resistencia óhmica del estator. 
+
+XE: XE: REVISIÓN Y PRUEBAS ELECTRICAS ROTOR GENERADOR UNIDAD 3

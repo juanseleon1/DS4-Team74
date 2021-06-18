@@ -1,0 +1,8 @@
+JHON MARIO PEREZ ARENAS. AGOSTO 8 DE 2017
+
+la sumatoria de la potencia activa, actualmente tiene en cuenta el valor de la unidad 1 y cuando el programa de generación es menor a 560, esta sumatoria siempre suma estos 70 MW. Se solicita que la sumatoria para el valor total de megavatios sea tomada por bancos. 
+
+REALIZO: CESAR T. JIMENEZ
+FECHA: 08/08/2017 OT 3560955
+
+SE REALIZA SUMATORIA POR LOS MW DE LOS BANCOS DE SUBESTACION, SE REALIZA LA SUMATORIA EN EL CONTROLADOR 11,45 BS/BT POR QUE HAY DISPOSICION DE SEÑALES, SE LLEVAN LAS SEÑALES DE MW DE BANCOS A ESTE CONTROLADOR, SE REALIZA SUMATORIA, SE MODIFICA FORMA DE ADMINISTRACION PARA OPERADORES DE DICHA SEÑAL, QUEDA EN FUNCIONAMIENTO.

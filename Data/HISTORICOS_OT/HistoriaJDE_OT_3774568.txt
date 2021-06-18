@@ -1,0 +1,3 @@
+14 DE OCTUBRE DE 2018.
+Se cambia el subsistema de refrigeración #1 por presentar alta temperatura.
+Entrada 37 °C, salida 35°C, cojinete combinado (empuje) 89 °C, aceite cuba cojinete combinado 53 °C, con el intercambiador #2 queda la temperatura de entrada de agua en 31 °C y la salida en 27 °C, cojinete de empuje en 86 °C, aceite de la cuba del cojinete combinado en 46 °C.

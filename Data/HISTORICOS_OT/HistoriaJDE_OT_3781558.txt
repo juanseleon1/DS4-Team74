@@ -1,0 +1,10 @@
+GERARDO AUGUSTO PEREZ ATEHORTUA 
+NOVIEMBRE 5 - 2018
+SE NOTA INCREMENTO DE TEMPERATURA EN LOS ELEMENTOS DEL COJINETE DE TURBINA DEL UNIDAD TRU1 TANTO ACEITE COMO METAL. ALPARECER POR SUCIEDAD EN EL SISTEMA DE REFRIGERACION. SE PRESENTA ALARMA POR TEMPERATURA ALTA EN AGUA DE SALIDA REFRIGERACION.
+
+
+Ot: 3775634 - Lubricante unidad de mantenimiento - Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG

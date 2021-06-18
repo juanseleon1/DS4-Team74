@@ -1,0 +1,13 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:CARLOS FORERO
+
+OCTUBRE 27 DE 2017
+SE ATIENDE LA SOLICITUD PARA AJECUTAR EL FUNCIONAMIENTO EN MODO AUTOMÁTICO DE LOS VENTILADORES DE ESTE TRAFO DE POTENCIA.
+
+Los ventiladores del transformador del banco 6 fase t quedan funcionando en manual ya que en modo automatico se dispara los térmicos de alimentación.
+
+Nota: Se reviso todo el lapso de control de los ventiladores no encontrando anomalias, se realizaron pruebas en manual y automatico y estos respondieron correctamente. 
+
+Realizo: Carlos Andres Forero
+Informo: Carlos Andres Forero

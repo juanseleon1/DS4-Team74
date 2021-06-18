@@ -1,0 +1,5 @@
+2018/11/02 RUBEN ARBOLEDA
+Se crea OT para realizar mantenimiento correctivo por falla en los patines del puente gría Vevey.
+
+2018-11-02 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3781373, PASO:1          
+Se realizó revisión de los patines del puente grúa vevey, éste puente grúa falló durante el mantenimiento mayor de la Unidad 1, después de ubicar las plataformas en el estator para realizar el mapeo, se abrió el interruptor en la DG1 y se desmontó los patines, se encontró falla en un cable que va desde los patines hacia la borneras, se realizó limpieza general y se encontró dos patines pegados, se cambiaron y se dejó en condiciones normales, se instaló los patines, se normalizó los interruptores y se realizó prueba quedando operativo.

@@ -1,0 +1,7 @@
+
+
+ABRIL 30 DEL 2014 - JEOVANNY CORREA G
+El transformador G35 fase T esta alarmado el devanado de alta, sus temperaturas en el instrumento del trafo está en 82 ºC y en la pantalla de operación está en 90 ºC y su punto de alarma es 90 ºC y el disparo esta en 100 ºC. Tiene aproximadamente un des fase de 10 º C
+  Se realiza una  verificación de temperatura  y una prueba  de imagen térmica   al  DEV. AT del  transformador de potencia de la fase T de la unidad 5 de Guadalupe 3 . el comportamiento fue  bueno.  A las RTD"S también se les realizo mantenimiento.
+
+Realizo: Fredy Duarte  y Francisco Gonzalez

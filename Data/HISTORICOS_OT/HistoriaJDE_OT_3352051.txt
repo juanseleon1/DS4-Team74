@@ -1,0 +1,17 @@
+Fecha: 2016/12/21 Hora: 02:33 Categoría: Condición Subestandar
+Usuario: Jorge Albeiro Garzon Estrada
+en generales etapa 2 sale la alarma falla ventilador en revisión se encuentra ventilador 6 parado
+
+2016-12-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3352051, PASO:1          
+Se realizó el desmontaje del ventilador de la UPS 2, se realizó limpieza general
+
+2016-12-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3352051, PASO:2         
+Se realizó el cambio de rodamientos para el ventilador de la UPS 2, se probó y se dejó en condiciones normales, se recomienda realizar limpieza a todos los demás ventiladores, se crea OT preventiva: 3352055Fecha: 2016/12/21 Hora: 02:33 Categoría: Condición Subestandar
+Usuario: Jorge Albeiro Garzon Estrada
+en generales etapa 2 sale la alarma falla ventilador en revisión se encuentra ventilador 6 parado
+
+2016-12-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3352051, PASO:1          
+Se realizó el desmontaje del ventilador de la UPS 2, se realizó limpieza general
+
+2016-12-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3352051, PASO:2         
+Se realizó el cambio de rodamientos para el ventilador de la UPS 2, se probó y se dejó en condiciones normales, se recomienda realizar limpieza a todos los demás ventiladores, se crea OT preventiva: 3352055

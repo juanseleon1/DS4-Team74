@@ -1,0 +1,25 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+JULIO 24 DE 2017
+
+24/07/2017. 6:30.
+En pantalla de control aparece a las 2:53. alarma por disparo TCB interruptor Q2 Bomba de Infiltraciones Disparo.
+
+Se verifificò en gabinete de control de Infiltraciones y efectivamente aparece el arrancador de la Bomba 2 alarmado, se cambio a prioridad la bomba 2 por la bomba 1, se trato de resetear pero el arrancador no resetea.
+
+se solicita verificar posible daño en arrancador.
+
+WILSON ARANGO BEDOYA - ALEX JOHN RESTREPO.
+Tecnologos Operadores.
+
+JULIO 24 DE 2017.
+Se atiende la OT 3548395, se revisa y se resetea el arrancador, normalizando el control, se realiza pruebas de funcionamiento verificando corrientes de trabajo y voltajes encontrandose con corriente de trabajo en 43 amperios cada fase, con voltaje de 480 vac, el motor es para trabajar a carga plena en 66 amperios. la bomba se deja trabajando como prioritaria y queda en monitoreo para verificar si se vuelve alarmar el termico.
+Informó: William Lopera
+
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+JULIO 27 DE 2017
+
+La OT requiere trabajos adicional desde el punto de vista mecánico, los cuales se registrarán en la OT 3549370

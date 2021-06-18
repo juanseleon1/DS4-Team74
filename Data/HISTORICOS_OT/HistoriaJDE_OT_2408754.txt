@@ -1,0 +1,5 @@
+MANTENIMIENTO GENERAL COMPUTADOR UNIDAD CENTRAL PORCE 2.
+
+Se realizo limpieza y se revisaron las borneras de control.
+Se reviso los servicios misceláneos del tablero.
+Se realizo mantenimiento externo a los rack del PLC y la IHM principal de unidad. 

@@ -1,0 +1,11 @@
+ENERO 31-2014
+
+MANTENIMIENTO PREVENTIVO AL BANCO
+
+ LIMPIAR
+ RECUPARAR NIVEL (SI APLICA) 
+ MEDIR TENSIÓN A CADA CELDA
+ PRUEBA DE AUTONOMIA...(Esta prueba debe ser cordinada con el equipo electronico y operación)
+FECHA: 07-FEBRERO-2014 OT# 2462789, PROGRAMADOR: R JIMENEZ, EJECUTANTE:G ECHEVERRI
+Se realiza limpieza y mantenimiento al cargador de baterias de baterias,se encontraron en condiciones normales de operacion
+

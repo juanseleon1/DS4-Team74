@@ -1,0 +1,13 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación y limpieza del rodete de la unidad. Además se incluye registros de la ejecución de los ensayos no destructivos que se le realizarán al rodete por parte de la empresa contratista ASTECO S.A.
+
+Ot: 3579904 - Inspección rodete pelton - Programador: Camilo Montagut - 02/10/2017
+
+Se realiza la adecuación mecánica y la inspección del rodete Hytachi M-844 perteneciente a la unidad 6. Se registra las actividades correspondientes a la tarea:
+
+- Montaje de andamio para inspección de rodete
+- Limpieza y pulido de cangilones con el fin de remover el lodo presente
+- Inspección y ensayos no destructivos al rodete pelton por parte de la empresa ASTECO S.A.
+
+El registro del informe queda a cargo del ingeniero Gabriel Tamayo 
+
+Ejecuta: equipo mantenimiento UOG

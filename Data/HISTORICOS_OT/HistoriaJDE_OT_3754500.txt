@@ -1,0 +1,7 @@
+Fecha de solicitud: 13-08-2017
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento: 
+Realizar las siguientes acciones de mantenimiento correctivo:
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+Reparación sistema de sensores y protectores
+Realizar cambios en el sensor de humedad y temperatura.

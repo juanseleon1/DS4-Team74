@@ -1,0 +1,34 @@
+DICIEMBRE 02 DE 2016
+
+
+SE ALMACENA EN ESTA OT Y EN NOTAS DE EQUIPO 2 EL INFORME (RUTA):
+
+
+<\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\9. INFORMES\NORMALIZACION BANCO 33 GIII - 05-11-126.doc>
+
+
+
+
+
+NORMALIZACION BANCO DE TRANSFORMADORES G33
+
+
+- MOVIMIENTO Y REUBICACION DE TRANSFORMADOR
+- CONEXION DE CONTROL Y PROTECCION
+- CONEXION ALTA Y BAJA
+
+NOVIEMBRE 11 DE 2016
+Se realiza la desconexión por alta y baja con su respectivo cableado de control del transformador (ASEA) que estaba en la fase R) que se tenía para esta fase mientras se reparaba el transformador (PAWELS), se retira y se hace la inserción del transformador por medio de un mecanismo llamado tirfor y con la ayuda del personal mecánico de Unidad Operaciones Guadalupe,  
+Se hace mantenimiento general a los barrajes, ductos de barras bujes de alta y baja a todo el banco de transformadores, se hace mantenimiento a aisladores, pararrayos y cambio de herrajes en la línea de 115 KV con el personal de subestaciones y líneas.
+
+NOTA: Queda pendiente para otro paro de cadena y por recomendación del personal de subestaciones y líneas revisar y cambiar aisladores y herrajes en las líneas de 115 KV que van desde la salida de los transformadores de potencia hasta la subestación del Salto para los 6 campos de las unidades de G3.
+En el transformador de la fase R fue reparado por la empresa contratista EXPLORER fue ingresado con válvula de sobre presión y relé bucholz nuevo, fueron realizadas las pruebas eléctricas a todo el banco de transformadores de potencia con el personal de operación y mantenimiento, los resultados están almacenados en el siguiente Link.
+
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\3. DIAGNOSTICO\ELECTRICISTAS>
+
+Se cablea la caja de control y todas las señales al sistema de control (RIO13 Y 14), se verifica señales, y se cierran barrajes por alta y baja.
+Después de realizar todos los trabajos correctivos y preventivos, se normaliza, se buscan condiciones de giro reseteando los relés de protección, se le realiza la verificación con el protocolo de alarmas y disparos al banco de transformadores con las protecciones requeridas, se gira la unidad, se modifican algunos parámetros para energizar de modo manual con el regulador de tensión por porcentajes, se energiza la unidad siguiendo el protocolo de energización obteniendo buenos resultados, este pruebas están en el Link antes mencionado.
+
+En el siguiente link se encuentran los registros fotográficos.
+
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\6. REGISTRO GRAFICO\ELECTRICISTAS\BANCO G33\CONTROL FASE R-G33>

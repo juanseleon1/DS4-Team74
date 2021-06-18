@@ -1,0 +1,9 @@
+2017/05/30 RUBEN ARBOLEDA
+Tarea: Se realizará extracción de muestra de aceite de marmita y aceite para chiller's usado para analisis de de policlorobifenilos (PCB) o bifenilos policlorados, con el fin de realizar proceso de destinación final con personal de Ambiental.
+
+
+2017-05-30 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3499820, PASO:1          
+Se realizó extracción de 2 muestras de aceite de los chiller's (muestra 5 y muestra 6), tambien se enviaron 2 muestras de aceite PRYSMIAN (Muestra 7 y muestra 8) los cuales se encuentran para desechar, ésta muestra es para análisis de PCB's, se enviará al laboratorio el jueves 01 de Junio de 2017, se deja la OT en estado 35 en espera de resultados.
+
+2017/07/15 RUBEN ARBOLEDA
+Se reciben los resultados, se anexan a la OT, PPM=2.08, se cierra la OT.

@@ -1,0 +1,14 @@
+REVISAR VALVULA PROPORCIOINAL
+
+FECHA PLANEACION MANTENIMIENTO: 20/01/2014
+PLANEADOR: SANDRA MARCELA CARMONA
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V.
+
+Sale de sincronismo la unidad N°1, por paro rapido 86 R; Por falla en la valvula proporcional ,tambian sale alarma posicion servomotor no alcanzada
+
+
+22 de enero: Se revisa valvula proporcional y pickup de la unidad 1. Se ajustan conexiones en el tablero caja de bornees unidad hidraulica en el TRV. Se encontro bornes flojos en el modulo U0357. Se dejo en seguimiento y pendienete para realizar pruebas.
+
+Informa: Sandra Carmona
+Ejecuta: Gabriel Naranjo -  Carlos Sanchez

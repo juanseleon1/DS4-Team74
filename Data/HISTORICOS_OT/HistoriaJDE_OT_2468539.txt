@@ -1,0 +1,17 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+19/FEBRERO/2014
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL 
+
+Se realizo limpieza, reapreté de borneras e inspecciones visual del control del tablero principal de cada fase y sus servicios misceláneos. 
+Se realizó mantenimiento y limpieza al tablero asociado al  sistema contra-incendio del transformador de Potencia de la unidad.
+Se realizó inspección visual, limpieza y verificación a los  sensores de temperatura Fase R-S-T y las caratulas de los termómetros.
+Se probaron alarmas y disparos de temperatura de los trafos hacia las protecciones del generador.
+Se realizó limpieza a las RIO asociadas a los trafos.
+
+NOTA: En la Fase S-T se venía presentando un problema con la temperatura del Devanado de Alta, se procedió a realizar Mtto a los termopozos, resistencias de calefacción y medición de los CT´s. En la siguiente ruta se encuentra el archivo grafico:
+
+\\Wperezg5\MTTO UNIDADES GPEPORCE\2014\CORRECTIVO CT´S FASE S-T G33 19-02-2014
+
+Programador: Oscar Arango
+Ejecuto: Francisco Gonzalez -  Fredy Duarte

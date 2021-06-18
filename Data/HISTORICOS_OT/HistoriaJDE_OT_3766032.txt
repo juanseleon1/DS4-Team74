@@ -1,0 +1,15 @@
+14/09/2018
+Referente al sistema de refrigeración unidad # 1:
+Se cambia subsistema # 1 por el # 2, por presentar alta temperatura en el estator 119 °C. 
+Horometro: ATRU # 1: 50796
+                         ACRU # 1: 50278
+Informa: grupo de operación - turno 2 
+PROGRAMADOR: JUAN G TOBON, 2018-09-29
+
+NOTA: SE LAVA INTERCAMBIADOR DE PLACAS, FILTRO AUTOLIMPIANTE SE INSPECCIONA VALVULA 4 VIAS PARA VERIFICAR SU ESTADO Y EMPAQUETADURA.
+
+QUEDA EN CONDICIONES OPERATIVAS
+
+REALIZO: ALEXANDER MORA, FRANCISCO GUINGUER
+
+INFORMO: JUAN G TOBON

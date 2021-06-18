@@ -1,0 +1,2 @@
+2014/10/21 GIOVANNY DIAZ - JHONTAN USME
+Se realizó revision de los sensores, se evideció que el gato Numero 4 se queda pegado mecanicamente en algunas ocasiones, se encontró puenteado en los bornes bornes 78-79, se retiró el puente y se realizó tensión de resortes por parte mecánica, se dejó en condiciones normales. 

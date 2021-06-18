@@ -1,0 +1,11 @@
+Favor realizar mantenimiento y adeacuacioin de los servidores de repuesto para el sistema SCADA
+
+
+
+08/09/2014
+
+Se realiza consecucion de servidores dados de baja por informatica para utilizar como repuesto para el sistema SCADA de la central, se inicia con su mantenimiento y adecuacion.
+
+Realizado por Wtobonl
+
+terminada cerrar

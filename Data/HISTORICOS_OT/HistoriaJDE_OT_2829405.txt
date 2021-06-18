@@ -1,0 +1,4 @@
+ CAMBIAR AISLAMIENTOS A LOS CABLES TRACTOR Y CONTRACABLE EN SU CONEXION CON LA CABINA
+
+se cambian los aislamientos en la cabina 1 y en la cabina 2 se cambio el aislamiento del cable tractor
+no se cambio el del contracable en la cabina 2 por encontrar en el buena medida de aislamiento

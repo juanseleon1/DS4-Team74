@@ -1,0 +1,12 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+2015/03/21. SERGIO OLIVARES D.
+Aislamiento antes limpieza:
+Rotor + Barraje = 227 M
+Rotor                  = 257  M
+ Barraje               = 1.28 G
+ Aislamiento después de limpieza:
+Rotor + Barraje = 654   M
+ Rotor                  = 1.38  G
+ Barraje               = 1.11  G
+SE ASPIRO INICIALMENTE. SE HIZO LIMPIEZA CON LIENCILLO CON DIELECTRIC Y LUEGO CON LIENCILLO SECO.

@@ -1,0 +1,9 @@
+SOLICITANTE: PEDRO ROBAYO
+
+FECHA: AGOSTO 12 2016
+
+EJECUTANTE: PEDRO ROBAYO
+
+Se hace el cambio del módulo de fibra optica del AG4 por falla de comunicaciones y se cierra la puerta de la botton box.
+
+El aerogenerador queda en operación.

@@ -1,0 +1,6 @@
+
+FECHA: NOVIEMBRE 5 DE 2014
+
+EJECUTANTE: GERMÁN ECHAVARRIA 
+Se verifican los torque de las borneras de los diferentes elementos que están en el tablero del controlador inferior, también se corroboran los torques de los tiristores y de los condensadores.
+.

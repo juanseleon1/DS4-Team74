@@ -1,0 +1,12 @@
+SE CREA OT PARA REGISTRAR INFORMACION SOBRE LAS SIGUIENTES MEJORAS MECANICAS QUE SERAN EJECUTADAS EN LA ESTACION SUPERIOR DEL TELEFERICO::        
+                                                                                                                                                                                                                       
+- MEJORA EN EL SOPORTE DEL TORNO. (POLEAS NIVEL SUPERIOR)
+- DISPOSICION DE GUARDAS DE SEGURIDAD EN PLATAFORMAS  (NIVEL SUPERIOR)
+- ADECUACION DE BISAGRAS EN LAS GUARDAS DE PROTECCION DEL SISTEMA DE TRACCION. (NIVEL SUPERIOR)
+- CORRECION EN EL MOTOR N°2 DEL SISTEMA DE FRENADO
+
+SOLICITANTE: CAMILO MONTAGUT
+EJECUTANTES: ALBEIRO FERNANDEZ
+                                 LUIS MONSALVE 
+          SEBASTIAN SEPULVEDA                 
+          

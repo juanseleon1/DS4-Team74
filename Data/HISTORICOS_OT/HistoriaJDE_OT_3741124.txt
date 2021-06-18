@@ -1,0 +1,8 @@
+2018/07/01 PROGRAMO MAURICIO QUIJANO
+REPORTA OPERACION QUE LA AGUJA 4 DE LA UNIDAD 3 SE CIERRA A CERO, GENERANDO UNA DISMINUCION DE CARGA EN EL GENERADOR, OPERACION REALIZA MOVIMIENTOS EN LOS FILTROS Y VUELVEN A ABRIR LA AGUJA. PERO NO LLEGA A LA APERTURA MAXIMA.
+REVISAR OPERACION AGUJA 4.
+
+
+2018/07/01 DIEGO BEDOYA
+Se realiza cambio del microfiltro de la válvula MOOG de la aguja N°4, se realiza recorrido y se le da un poco de tendencia a la apertura quedando la aguja en condiciones normales de operación, también se le da tendencia a la apertura al servomotor de deflectores.
+el trabajo fue realizado por: Cesar Tulio Jiménez, Juan David Flórez y Diego Bedoya

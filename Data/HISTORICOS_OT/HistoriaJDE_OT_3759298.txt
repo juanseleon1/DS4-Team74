@@ -1,0 +1,12 @@
+
+2018/09/29 _ CARLOS ENRIQUE MONCADA. OT N° 3759298.
+Se verifica la alimentación de la IHM, igualmente la alimentación de los Relés, se verifica el cableado de las borneras.
+En la parte de atras del tablero se encontró desconectado los cables 19 y 20 de la bornera X304.
+Se encuentran alarmados los Relés 21 de la tarjeta XK32A y los Relés 1, 3 y 5 de la tarjeta XK32B.
+Realizo: Iván Darío Cano, Jeniffer Andrea García.
+
+
+FECHA:SEPTIEMBRE 11 DEL 2018 PLANEO:LUIS FEDERICO ALVAREZ ALVAREZ, PROGRAMO: CARLOS ENRIQUE MONCADA
+
+SE REALIZA MANTENIMIENTO ANUAL ELECTRONICO AL REGULADOR ELECTRONICO DE VELOCIDAD DE TURBINA DE LA MINICENTRAL.
+SE REALIZAN PRUEBAS DE TIEMPOS DE APERTURA Y CIERRE DE DISTRIBUIDOR, REALIZADAS POR WALTER TOBON LONDOÑO.

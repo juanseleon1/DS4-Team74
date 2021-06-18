@@ -1,0 +1,21 @@
+2018/10/22 RUBEN ARBOLEDA
+Se crea OT para realizar mantenimiento preventivo al transformador de excitación U2.
+
+2018-10-22 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3776997, PASO:1          
+Se inició con el mantenimiento preventivo al transformador de excitación de la Unidad 2, se realizó limpieza.
+
+2018-10-24 REALIZÓ: OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3776997, PASO:2          
+Se continuó con la limpieza del transformador de excitación de la Unidad 2, se realizó medida de aislamiento con los siguientes resultados: 
+Alta-Tierra: 1,6MOhm
+Baja-Tierra: 1,3MOhm
+Alta-Baja: 1 GOhm. 
+Se instalaron calefactores para dejar calentando el transformador, el barraje de llegada queda abierto. 
+
+2018-12-09 REALIZÓ: JHONATAN ANDRES USME - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: FDIAZ OT: 3776997, PASO:3          
+se conecta cable en trafo de excitación para pruebas del regulador electrónico en la unidad 2.                    se cambia interruptor 52Q1 grupo de bombas banco 2 fallado, por el 52Q1 grupo de bombas banco 1.
+
+2018-12-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JUAN DAVID GARCIA-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3776997, PASO: 4         
+se realizan pruebas de corto circuito banco 2 S/E
+
+2018-12-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3776997, PASO:5          
+se hace acompañamiento en pruebas de corto circuito unidad 2.

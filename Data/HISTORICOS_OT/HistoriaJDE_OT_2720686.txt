@@ -1,0 +1,6 @@
+2015/03/17 GIOVANNY DIAZ - YEISON ORTEGA
+Despues de la instalación del transformador de 13.3Kv/480V OT: 2694054 y el día 2015/03/17 se presentó un evento en la Subestación Guatapé donde se abrió por sobrecorriente el circuito R50-11, se identificó falla que la transferencia del circuito en camara de valvulas no se ejecutó hacia el circuito de Guatapé - Alejandría, Se procedio a subir para verificar su funcionamiento, se identificó apertura de las cuchillas a la entrada del tunel, se coordinó con el personal de Distribución Energía para realizar el cierre, se ejecutó el cierre e inmediatamente se escucho una explosión, se realizó revisión y se encontró fallado un pararayos, se planea para cambiarlo proximamente. 
+ 
+
+2016/08/25 RUBEN ARBOLEDA
+Se ejecuto en la OT: 2842498

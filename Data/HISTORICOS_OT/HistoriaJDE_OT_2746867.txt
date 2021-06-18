@@ -1,0 +1,10 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CE R1
+
+ENERO 22/2015 OT: 2746867 PLANEO: WGARCIAC  
+ PATRON                             PANTALLA                                DYSPLY     TREETEH
+0°c 0.5 0.8460°c 59 60.58120°c 119 120
+EN EL INDICADOR (TRETECH) UBICADO EN EL TRAFO  (GABINETE) LAS TEMPERATURAS FUERON IGUALES A LAS  INYECTADAS CON EL CALIBRADOR DE PROCESOS
+Alarma: 80.00°c                                                           Alarma: 106.04°c
+Disparo: 95.61°c                                                          Disparo: 127.82°c 
+NOTA: OT PARA SEGUIMIENTO METROLOGICO

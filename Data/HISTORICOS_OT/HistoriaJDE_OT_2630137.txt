@@ -1,0 +1,18 @@
+
+SOLICITANTE:Equipo Operacion Troneras    FECHA:2014/10/30
+
+FAVOR REVISAR IHM REGULADOR DE TENSION U2 DE TRONERAS,ESTA APAGADA.
+
+FECHA:2014/10/30
+Referente a unidades TR1 y TR2:  
+Se retiran fuentes de las IHM de los reguladores de tensión con el fin de revisarlas en el laboratorio ya que las IHM no prenden.                                                      
+Informó: Uaimer diaz.
+ 
+FECHA:2014/10/31
+Referente Pantallas Regulador de Tensión de las~ unidades de Troneras:
+Inicialmente se reporta que la pantalla de control del regulador de tensión Reivax no encendía,  se revisó y se encontró problemas  en la fuente de la pantalla de la U2, se llevó al laboratorio y se reparó.
+Se revisó la pantalla de la U1 y se encontraron 2 memorias eeprom falladas y un integrado controlador del video, queda pendiente de comprar  los repuestos para su reparación. Se debió sacar una pantalla  de repuesto del almacén  y se instaló en la U1. Se normalizo las pantallas y se realizaron pruebas de navegación por los diferentes despliegues.
+Quedan los reguladores operativos y sus componentes sin problemas.
+
+Realizo: Uaimer Díaz, Francisco González, Marlon Carmona.
+Programador:Oscar Arango

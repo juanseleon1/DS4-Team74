@@ -1,0 +1,3 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION _____  DE LA CENTRAL TRONERAS
+
+TRN-02 (23-DIC-16) OVERALL SUBHARMONICS 1xRPM 2xRPMCSL 51.25 Microns 3.881 Microns 35.33 Microns 2.360 MicronsCSP 61.02 Microns 3.996 Microns 51.17 Microns 1.964 MicronsCIL 77.60 Microns 2.232 Microns 56.07 Microns 4.831 MicronsCIP 80.92 Microns 2.708 Microns 54.72 Microns 5.063 MicronsCTL 130.9 Microns 7.064 Microns 106.9 Microns 2.351 MicronsCTP 120.0 Microns 7.088 Microns 100.6 Microns 4.075 MicronsAXI 289.7 Microns 2.919 Microns 258.4 Microns 12.16 Microns

@@ -1,0 +1,8 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2015/21/01 GIOVANNY DIAZ - JEISON ORTEGA OT:2641696
+EQUIPO: CW9 CORRIENTE: R:53,6, S:52,9, T:54,7, VOLTAJES RS:466, ST:467, TR:464, TEMPERATURA MAXIMA DE MOTOR 85°C , se evidencia en condiciones normales en el motor. 
+
+En los bornes de conexión de potencia La temperatura de la peineta de salida se encuentra en el nivel 3 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 37.1°C, lo cual implica una deficiencia en su operación, se recomienda reparar tan pronto sea posible. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+Se realizó limpieza inmediata ya que se encontró sulfatamiento en los bornes, se deja en condiciones normales. 

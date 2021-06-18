@@ -1,0 +1,8 @@
+Se cierra con los siguientes pendientes:
+Realizar pruebas de sincronismo a la planta despues de montado el varistor fallado.
+Comprar los transformadores de corriente que se requierne para el montaje del rele de rpoteccion SEL 300G.
+Realizar planos y montaje de estos.
+realizar pruebas de ajuste a las protecciones.
+
+
+Adonis Cadavid

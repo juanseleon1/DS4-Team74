@@ -1,0 +1,8 @@
+Favor realizar mantenimiento preventivo en el control de la planta de tratamiento de aguas residuales e instalar sensor nuevo de Oxigeno
+
+
+03/12/2013
+
+Se realiza mantenimiento preventivo del control en la planta de aguas residuales en el tablero , PLC e IHM ademas se  instala nuevo sensor de deteccion de Oxigeno en el agua , fue necesario de modificar los ajustes de arranque y paro para este sistema de 1.4 a 2.5 por los de 1.4 a 6 
+
+Realizado por Wtobonl

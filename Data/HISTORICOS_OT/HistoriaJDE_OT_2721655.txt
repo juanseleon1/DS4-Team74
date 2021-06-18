@@ -1,0 +1,12 @@
+19-03-2015 
+
+Revizar el paro del ventilador en el inversor principal. 
+Queda parado y pendiente la alarma falla ventilador UPS en generales de II etapa.
+
+19-03-2015   Luis Eduardo Arcila
+
+Se imprime autorización de pedido para la compra de 10 rodamientos 608-2RS
+
+09-05-2015
+
+Se cambian rodamientos al motor ventilador, quedando en condiciones normales

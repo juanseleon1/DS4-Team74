@@ -1,0 +1,6 @@
+FECHA:SEPTIEMBRE 11 DEL 2018 PLANEO:LUIS FEDERICO ALVAREZ ALVAREZ, PROGRAMO: CARLOS ENRIQUE MONCADA
+SE REALIZA MANTENIMIENTO ANUAL ELECTRONICOS AL TABLERO DE CONTROL UNIDAD CUG.
+
+2018/09/29 _ CARLOS ENRIQUE MONCADA. OT N° 3759293.
+Se realiza el mantenimiento anual al control de unidad de la Minicentral Porce 3, se hace limpieza general, inspección y se verifica el conexionado; igualmente verificación y estado del PLC y la IHM.
+Realizo: Iván Darío Cano, Jeniffer Andrea García.

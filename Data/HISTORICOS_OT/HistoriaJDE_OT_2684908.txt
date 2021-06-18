@@ -1,0 +1,15 @@
+2015/01/27 RUBEN ARBOLEDA
+EN LA OT: 2641689, SE EVIDENCIO UN PUNTO CALIENTE 
+La temperatura del contactor se encuentra en el nivel 3 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 26.9° C, lo cual implica una deficiencia en su operación, se recomienda reparar tan pronto como sea posible. Las corrientes y voltajes
+medidos están dentro de los parámetros normales de operación.
+REGISTROS DE VOLTAJE FASE 
+RS = 453 V
+FASE ST = 453 V
+FASE RT = 452 V
+REGISTRO DE CORRIENTES 
+FASE R = 44 A
+FASE S = 45 A
+FASE T = 43 A
+
+2015/01/27 GIOVANNY DIAZ - JHONATAN USME
+Se realizo cambio de cable fase S a la entrada del contactor, ya que presento calentamiento, se verificó el ajuste de los contactos de potencia y se mejoró los contactos de las peinetas se puso en servicio la motobomba.

@@ -1,0 +1,7 @@
+XL: VERIFICAR Y LIMPIAR, EL TABLERO Y SUS PARTE, INSPECCIÓN SENSORICA Y SUS TRANSDUCTORES RV.
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR: LUIS CARDONA
+
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados a este sistema, no se encontró novedades, también se realiza una verificación y limpieza a las borneras de control en el interior del tablero.

@@ -1,0 +1,12 @@
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+JUNIO 19 DE 2014
+SE PLANEAN LOS TRABAJOS DE TIPO MECÁNICO Y ELECTRÓNICO PARA CORREGIR LA FALLA EN EL SISTEMA HIDRAULICO DE LA UNIDAD G32
+
+Jueves junio 19 de 2014
+Operación Glll
+Revisar y corregir falla en este sistema.
+
+
+Se da paro de emergencia la unidad 2 de Gpe3  con 45 Mw por bajo nivel aceite acumulador de regulador de velocidad. Se subió la presión de éste a 26 Bar y esto hizo que el nivel bajara rápidamente hasta darse paro la unidad. Al parecer la electroválvula de inyección de aire abrió automáticamente y  se quedó pegada  ya que hubo que sacarle mucho aire al acumulador para normalizar el sistema. Se informa al Ing. Oscar Restrepo. Esta salida causo desviacion al programa de generacion de 64MW en el periodo 03 y de 75Mw en el periodo 4
+Se encontró que el nivel del tanque acumulador bajó el nivel hasta 130 mm y la presión subió hasta 26 Bar, se recuperó el nivel y la presión en forma manual hasta llegar a los valores patrones ( 600mm y 20 Bar) el sistema no recuperó en automático.  Se inicia la secuencia de arranque de la unidad  y se estabiliza el sistema conservando los valores de nivel y presión. La unidad queda trabajando con 45 MW.  Informó: Yofred Rodríguez, Juan Caicedo y Uaimer Díaz

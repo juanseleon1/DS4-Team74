@@ -1,0 +1,5 @@
+AM: ANUAL MECANICO VERIFICAR E INSPECCIONAR SISTEMA REFRIGERACIÓN AGUA AEROGENERADOR, TIPO 3 - 8200 HORAS.
+
+ACTIVIDAD:
+
+Se le adiciona agua al sistema de refrigeración y se deja en 2,7 bar, además, se comprueba el correcto funcionamiento de este sistema, se descartan fugas en mangueras, acoples y equipos.

@@ -1,0 +1,33 @@
+PLANEADOR: BIANEY BRAVO VALENCIA 26/09/2014
+
+MONTAR INSTRUMENTACION COJINETE SUPERIOR
+
+MONTAR INSTRUMENTO NUEVO (SENSOR NIVEL ACEITE; MARCA ENDRESS + HAUSER)
+
+PROGRAMADOR: CAMILO MONTAGUT - 01/11/2014
+
+SE INSTALA VARILLA DEL SENSOR DE NIVEL EN EL COJINETE SUPERIOR
+
+EJECUTA: EQUIPO MANTENIMEINTO MECANICO GIII
+
+02/12/2014
+SE REALIZA LA INSTALACIÓN EN LOS SEGMENTOS DE EMPUJE DE LAS RTD´S DE TEMPERATURA PARA TENERLAS LISTAS AL MOMENTO DE ACOPLAR LA MÉNSULA.
+09/12/2014
+INSTALACION NUEVOS SENSORES DE NIVEL
+
+Se realizo la adecuacion del display de los nuevos sensores de nivel. Se perforo el recinto de la excitacion en la parte externa para instalar el soporte del sensor, tambien se organiza el cableado y adecuan las conexiones para la red profibus.
+
+10-11/12/2014
+INSTALACION Y ADECUACION RTD´S
+ACOMPAÑAMIENTO RUN-OUT
+
+Se realizo la adecuacion de la RTD´s y el montaje/desmontaje de los patines Guia del cojinete superior para que el grupo mecanico realiza adecuadamente y sin problemas las maniobras de Run-out de la unidad.
+
+13/12/2014
+ESCALIZACION
+Se realiza la escalizacion para el nuevo sensor de nivel de Aceite de la cuba del cojinete superior, identificando los set de alarma y disparo.  
+
+
+
+
+

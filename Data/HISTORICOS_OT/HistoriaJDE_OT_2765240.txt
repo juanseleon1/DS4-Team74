@@ -1,0 +1,5 @@
+Fecha: 2015/05/13.
+Solicitante: Fredy Aguirre P.
+Descripción: Se realiza cambio del ventilador # 1 del puente de tiristores # 1, debido a que se evidencia ruído anormal.
+- REALIZÓ : FRANCISCO QUINTERO - ANDRES ZAPATA 
+- ASOCIADO A LA OT : 2765240

@@ -1,0 +1,5 @@
+XM: VERIFICAR, LAVAR Y AJUSTAR EL COJINETE INFERIOR DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 25/11/2014 - CONSIGNACIÓN @C098557
+
+Se realiza según procedimiento. Se verifica su nivel el cual se encontró en el instrumento digital en +4 mm y en el instrumento análogo en +5.2. Se verifica el nivel en la tapa superior de la cuba del cojinete combinado el cual se encontró en +10 mm. Este nivel es el que fue dejado por los fabricantes de TOSHIBA.

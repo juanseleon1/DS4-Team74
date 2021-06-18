@@ -1,0 +1,19 @@
+
+
+SOLICITANTE: EQUIPO OPERACION                      FECHA:24 DE DICIEMBRE 2015
+
+
+FAVOR REVISAR IHM CONTROL UNIDAD TRU2, LA CUAL SE ENCUENTRA FUERA DE SERVICIO (APLICACION POR FUERA)
+
+INFORMA: GERARDO PEREZ
+
+FECHA: 30/12/2016
+FALLA COMUNICACION PLC DE CONTROL
+
+Inicialmente se evidencio problemas de bloqueo y visualizacion de variables en la pantalla, esto lo esta ocasionando dos cosas:
+1. Temperatura alta dentro del tablero de control; en el momento se esta realizando la compra de 4 unidades de Aire Acondicionado y uno de ellos se instalara en el tablero de control para evitar futuros bloqueos.
+2. Se cambiaran los condensadores electroliticos de 1500 micro F a 6.3vdc pues se encontraron algunos fallados, por esta razon se decidio cambiarlos.
+3. En la ranura PCI disponible se le agrega una tarjeta RAM de 256MB para quedar con un total de 512MB para que la aplicacion Freelance corra sin dificultad y no se presenten futuros bloqueos.
+
+Programador: Oscar Arango
+Ejecutante: Francisco Gonzalez

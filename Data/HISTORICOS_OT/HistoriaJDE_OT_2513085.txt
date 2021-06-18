@@ -1,0 +1,5 @@
+OT 2513085 Realizó: Oscar GIraldo - Ivan Suarez 2014/04/12
+Se realizó cambio de acometida de instalación de tinas en la parte de atras de mayoría, para lo cual se instaló una caja de 8 circuitos de dos fases, 6 breakers de 15 amperios cada uno, y 3 tomas (1 para cada tina), de manera empotrada en la pared, adicionalemnte a cada tina se instaló un toma hembra y uno macho. 
+Planeó: Ruben Arboleda
+Solicitó: juan Carlos Granados. 
+Compro elementos: Gabriel Yarce

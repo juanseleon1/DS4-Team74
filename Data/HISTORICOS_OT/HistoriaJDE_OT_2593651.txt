@@ -1,0 +1,21 @@
+2014/09/03 RUBEN ARBOLEDA
+Se realizará limpieza del pozo de segunda etapa. 
+
+2014/09/03 GIOVANNY DIAZ - YEISON ORTEGA
+Se realizo adecuación electrica de una motobomba sumergible, con el fin de validar la posibilidad de utilizarla para drenar el pozo, a esta motobomba se le realizaron medidas electricas así: 
+Medición de Aislmiento: 0.66MOhm
+Medición de resistencia ohmica: 
+RS: 391mOhm
+ST: 389 mOhm
+TR: 392 mOhm
+Se evidenció un bajo aislmiento, por lo tanto se pondrá a calentar la motobomba para el mejoramiento del aislamiento, para calentarla se utilizará el horno de reparación de polos de la central Guatapé. 
+
+2014/09/03
+el pozo fue lavado en un 90 % ya que no fue posible secarlo totalemente por encontrarse una fuga de agua considerable por la compuerta de cierre  desde la descarga hacia el pozo , 
+se saco mucho material solido y mucho material organico ( pantano ) 
+se observa que las dos escaleras de acceso al pozo estan totalmente destruidas  ( se debe planear su fabricacion ) 
+las rejas separadoras entre el  tanque desarenador y la zona de succion de las bombas  se encontraron totalmente destruidas   
+en las bombas tambien se observo una diferencia de nivel  considerable ntre las cw y las bombas acra  las cw estan entre 28 y 32 centimetros del piso y las bombas acra una paroximadamente 2 metros y la otra  a 2,5 metros
+se lavaron las paredes del pozo y se normalizo todo el dia  domingo en las horas de la mañana.
+jaime a ramirez 
+

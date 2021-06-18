@@ -1,0 +1,5 @@
+
+17/06/2017 Luis Eduardo Arcila
+
+Se atiende falla RTU cámara de válvulas, se reemplazan resistencias quemadas, quedando en condiciones normales de operación.
+Se dejan trabajando los ventiladores S7 y S10 parados por el evento.

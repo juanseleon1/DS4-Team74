@@ -1,0 +1,5 @@
+2019/04/15 RUBEN ARBOLEDA
+OT creada para realizar la revisión de plancha en la cocina y nevera de conservación.
+
+2019-04-15 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3828842, PASO:1          
+En Mayoría se realizó la revisión de la nevera de conservacion, se realizaron medidas eléctricas, se apagó el controlador y se encendió nuevamente, quedando en operación normal, se desconoce la causa de paro se monitoreo por un rato y quedó en funcionamiento normal, adicionalmente en horas de la tarde se realizó la revisión de una de las planchas la cual no estaba trabajando se evidenció falla en 2 perillas. 

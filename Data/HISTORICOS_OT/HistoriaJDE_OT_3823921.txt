@@ -1,0 +1,5 @@
+2019/03/30 REALIZO: VICTOR ZULETA
+Unidad 4 presenta temperaturas del banco 2 congeladas, se resetea encontrando módulo de ABB master de entradas análogas del tablero +Y2 en falla ya que no sube la comunicación con el SCADA, estas señales quedan por fuera de la integración ya que se retira dicho modulo para su revisión.
+
+
+

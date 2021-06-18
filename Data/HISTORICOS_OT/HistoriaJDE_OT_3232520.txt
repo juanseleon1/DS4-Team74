@@ -1,0 +1,11 @@
+09/03/2016. MAURICIO RUIZ.
+
+EN EL PROCESO DE PARO NORMAL DE LA UNIDAD LA BOMBA NO APAGA POR PERDIDA DE COMUNICACION CON IHM
+
+
+09/03/2016
+
+Se realiza verificación de la IHM del proceso, se encuentra con problemas en la fuente de alimentación, se realiza cambio de esta fuente, además se verifica que el programa quede operativo y con comunicación con el sistema ABB y Siemens.
+
+Realizado Por Wtobonl 
+Terminada Cerrar

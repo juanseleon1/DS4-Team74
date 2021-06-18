@@ -1,0 +1,18 @@
+Se crea ot para el registro de tiempos y actividades en el desmonte, adecuación y/o corrección en el compresor #1 del banco 3 de la central de Guadalupe 3. Es de aclarar que este compresor genera ruido excesivo y altas vibraciones en el arranque, además presenta demoras al moemnto de ganar presión
+
+Programador: Camilo Montagut - 28/12/2017
+
+Se realiza el mantenimiento preventivo y correctivo del compresor registrándose las siguientes actividades:
+
+Mantenimiento correctivo
+
+- Cambio de los dos rodamientos ubicados en la chumacera del compresor ya que presentaban alto desgaste y pega mecánica
+- Adecuación del prisionero ya que por tiempo y temperatura se había fundido en el material base
+
+Mantenimeinto preventivo
+
+- Cambio del aceite sintético (Select T 30) ya que se encontraba emulsionado. Además se realiza limpieza del carter
+- Inspección y limpieza de las correas de transmisión de fuerza
+- Ajuste de la carcaza de protección
+
+Ejecuta: equipo mantenimiento mecánico UOG

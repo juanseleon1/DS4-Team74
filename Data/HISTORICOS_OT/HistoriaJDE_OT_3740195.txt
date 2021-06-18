@@ -1,0 +1,8 @@
+11 DE JULIO DEL 2018
+PREVENTIVO ELECTRICO BARRAJE SALIDA ESTATOR GENERADOR GUADALUPE III
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR:CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo según instructivo GCG3E0001. Se revisan el estado de los aisladores de apoyo, juntas de dilatación, estado de ajuste de las conexiones. Se revisan los CT's (se petrolizan con dieléctrico como mejora implementada) verificando estado de porcelanas, cableado y conexiones, se limpian los pararrayos y sus alrededores. Se revisan los PT's, los fusibles, conexiones, se revisan los puntos de conexión en la salida del generador. No se evidencian anomalías. 
+
+Ejecutaron: Mateo Perez-Luis Correa

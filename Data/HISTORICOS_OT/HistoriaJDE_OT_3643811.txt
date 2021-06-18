@@ -1,0 +1,10 @@
+10/11/17 CESAR AUGUSTO HOYOS HENAO.
+Revisión del cierre de la válvula de admisión, al darle orden de cierre o presentarse un paro no cierra.
+2017/11/11 DIEGO BEDOYA
+En revisión realizada a la válvula de admisión de la Unidad Nº3, se encontró la válvula manual de entrada de agua al servomotor cerrada, razón por la cual no cerraba la válvula de admisión en una falla o proceso de paro.  Se abre la válvula y se realizan pruebas de apertura y cierre de la válvula de admisión con resultados satisfactorios.
+Se entrega al turno de operación en condiciones normales de trabajo.
+el trabajo fue realizado por: Orlando Zuleta, Jorge Duque, Diego Bedoya.
+
+NOVIEMBRE 19 DE 2017 
+OT CERRADA
+ANDRES RAMIREZ 

@@ -1,0 +1,32 @@
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:           
+1.2. Revisión cableado: 
+1.3.  Mantenimiento contactor:
+1.4. Revisión conexión: 
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  
+       ST =                                                                   
+       RT =  
+       Corriente de arranque:  
+Fase R =
+       Corriente de marcha:  
+Fase R = 
+Fase S =   
+Fase T =                                                                                 
+2.3. Temperatura excesiva carcaza:
+        Temperatura excesiva cojinetes: 
+        Vibración anormal: 
+        Ruido anormal: 
+
+3. Calibración térmico control: 
+
+4. Funcionamiento control normal: 
+
+5. Horómetro = 
+
+6. Observaciones:
+

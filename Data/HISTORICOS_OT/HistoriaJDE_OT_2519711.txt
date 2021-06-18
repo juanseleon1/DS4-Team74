@@ -1,0 +1,4 @@
+
+  MAYO 02 DEL 2014 - FRANCISCO CORDOBA 
+
+ El sistema de aire comprimido interruptores G4, en el panel de alarmas de la estación de operación está presente la alarma "Atención compresores interruptores"  y en el tablero de los compresores aparece la bandera correspondiente a baja presión.

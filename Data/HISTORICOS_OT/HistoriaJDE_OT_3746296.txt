@@ -1,0 +1,5 @@
+
+
+JULIO 16/2018 OT: 3746296  PROGRAMÓ: HGIRALRI EJECUTÓ:  HENRY GIRALDO
+
+Se presenta falla por Alarm medium Voltaje System y se presenta Safety Chain, se verifica y se encuentra en el tablero de condensadores 5 fusibles quemados y cables quemados, se realizan los cambios de elementos fallados, se mide la capacitancia de los condensadores y se encuentran bien, fue necesario cambiar el relé 163K2 que se encontraba malo y dejaba accionado el contactor del condensador 2, también se verifica en el generador los cables reparados y se encuentran bien, se aprovecha y se colocan los soportes de refuerzo en veleta falto el anemómetro, en esta máquina no se encuentra ningún cable de potencia destemplado. se deja en servicio el aerogenerador.

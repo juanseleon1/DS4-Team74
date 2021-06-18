@@ -1,0 +1,12 @@
+26/08/2017
+
+ALEJANDRO VERGARA
+
+CUANDO SE REALIZAN TRANSFERENCIA DE SERVICIOS AUXILIARES POR TSA3 ESTAS BOMBAS NO TRABAJAN ES 
+NECESARIO IR AL CONTROLADOR A DARLES RESET Y ASI SI TRABAJAN REVIZAR
+
+
+26/08/2017 OT 3578777 Luis Eduardo Arcila
+
+Este controlador se programó para que, si existe pendiente alguna alarma no arranque las bombas.
+Antes de arrancar la unidad se debe comprobar que no tenga alarmas pendientes en el control de las bombas.

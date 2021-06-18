@@ -1,0 +1,5 @@
+MANTENIMIENTO GENERAL COJINETE TURBINA CENTRAL PORCE 2.
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 19/04/2017
+Se realiza según instructivo. Se revisa nivel encontrándose en el patrón.  Se limpia tapa de cojinete de turbina y se normaliza. Nivel 270mm.
+Se realiza trabajo de cambio de tipo y posición del sensor de nivel del cojinete, pero continúa con fallas de medida, pendiente de solucionar por el Equipo Electrónico de la UOP.

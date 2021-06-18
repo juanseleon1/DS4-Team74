@@ -1,0 +1,13 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 31-08-2018
+Tipo de mantenimiento: Correctivo
+
+                Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+                Reparación sistema de transmisión
+                Reparación sistema de potencia 
+En segunda visita: Instalación de panel solar y de cargador regulador
+Relización de aforo
+Verificación de mira versus radar
+
+               

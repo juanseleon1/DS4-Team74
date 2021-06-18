@@ -1,0 +1,7 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-10-29
+OT PARA REALIZAR TRABAJO DE INYECCION DE RESINA EN PISADOR DE SELLO DE LABIO MUÑON LATERAL DERECHO VALVULA DE ADMISION
+CAMBIO DE RETENEDOR SERVOMOTOR SELLO DE MANTENIMIENTO
+CAMBIO DE VALVULA BY-PASS AGUAS ABAJO
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-11-09
+Se realiza perforación y rosca para aplicación de SEAL PACK de EMPAQUETADURAS Y EMPAQUES para EL muñón lateral derecho que presentaban fuga. Se desmonta y se corrige fuga de aceite del servomotor de aplicación y desaplicación del sello de operación y mantenimiento. Se cambia válvula de by-pass aguas abajo desmontando la redundante del drenaje del manguito aguas abajo.

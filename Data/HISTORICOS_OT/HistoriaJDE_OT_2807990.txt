@@ -1,0 +1,11 @@
+2015-07-04. JUAN CARLOS DUARTE MUÑOZ. OT: 2807990
+
+REVIZAR EL RELÉ DIFERENCIAL TRAFO PP3- SEL 387 (CASA MÁQUINAS). QUE SE ENCUENTRA FALLADO. EN EL SACO SALE ALARMA "FALLA INTERNA RELÉ PROTECCIÓN TRAFO". EN LA O.S. NO SE REGISTRA ALARMA Y/O EVENTO.
+
+2015/07/07 RUBEN ARBOLEDA OT: 2807990
+Se recibió en Casa de Maquinas Guatapé un relé de iguales caracteristicas ya programado por parte de Juan David Granada y probado.
+
+2015/07/09 JUAN DAVID GARCÍA - OSCAR GIRALDO - RUBEN ARBOLEDA
+Se realizó montaje de el Relé SEL387, fue necesario desenergizar el banco, adicionalmente se probaron señales desde el relé hacia los diferentes elelementos. 
+
+Queda pendiente revisar la señal que va al computador de estación, no solo de este relé sino tambien de los demás bancos, debido a falta de llegada de la señal, se evidencio conexiones erroneas en la caja de integración detras de los tableros del computador de estación, se hace OT: 2819451

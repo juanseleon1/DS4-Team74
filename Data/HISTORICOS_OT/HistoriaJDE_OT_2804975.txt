@@ -1,0 +1,5 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: JUNIO 28-2015
+EJECUTANTE: PEDRO ROBAYO
+
+Se sube al AG10 y se verifican la conexión de los modulos 4.1 y 4.2 por estar sacando falla comunicaciones y en el RFC muestra 4.2 pero al momento queda en RUM 

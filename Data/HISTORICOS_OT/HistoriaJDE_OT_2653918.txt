@@ -1,0 +1,11 @@
+MANTENIMIENTO GENERAL REGULADOR ELECTRONICO CENTRAL PORCE 2.
+
+
+22/12/2014
+
+Se realiza verificación de los instrumentos de presión y nivel de la estación hidráulica, además de verificación de la indicación de posición del servo motor, no fue posible verificar los lazos de control de esta unidad.
+
+
+Realizado por Wtobonl
+
+Terminado Cerrar

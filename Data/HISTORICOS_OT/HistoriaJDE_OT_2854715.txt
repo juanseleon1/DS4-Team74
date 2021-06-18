@@ -1,0 +1,6 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES GUADALUPE 4
+
+PROGRAMADOR: JOSE MONTOYA
+02/09/2015
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados y las RTD de los radiadores. No se encontró ninguna novedad.
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS

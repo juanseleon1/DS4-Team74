@@ -1,0 +1,2 @@
+2016/09/10 RUBEN ARBOLEDA
+Se realiza el cierre sin costos, el informe y tiempos estan registrados en la OT:3089234, esta OT estaba repetida

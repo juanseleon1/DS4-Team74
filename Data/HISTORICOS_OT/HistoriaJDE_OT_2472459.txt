@@ -1,0 +1,16 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AL: MANTENIMIENTO Y LIMPIEZA
+
+Reapretar tornilleria del tablero de protecciones, verificar RTD de los reles multilin.
+
+GARANTIZAR LA DISPONIBILIDAD Y EL CORRECTO FUNCIONAMIENTO DE LOS PLC Y LOS   TABLERO DE CONTROL
+
+
+01/09/2014
+
+Esta orden no se puede realizar por que las protecciones se estan modernizando
+
+TERMINADA CERRAR
+
+Realizado por Wtobonl

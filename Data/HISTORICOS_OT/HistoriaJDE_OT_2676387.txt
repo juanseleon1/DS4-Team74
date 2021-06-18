@@ -1,0 +1,11 @@
+14/1/2015 CESAR AUGUSTO HOYOS
+
+Se realizará pruebas de apertura y cierre al interruptor y medida de resistencia de contactos.
+
+14/1/2015 CESAR AUGUSTO HOYOS
+
+Se realizará pruebas de apertura y cierre al interruptor y medida de resistencia de contactos.
+
+23/1/2015 CESAR AUGUSTO HOYOS-JUAN DAVID GARCIA-JHONATAN USME.
+
+Fecha:19/10/13Fasa R Fasa S Fasa TTiempo cierre (ms) 121,6 120,6 121,4Tiempo apertura (ms) 52,8 52 53,2Resistencia estática () 31 34 17I bobina cierre (A) 1,122I bobina apertura (A) 1,099Fecha:20/01/15Fasa R Fasa S Fasa TTiempo cierre (ms) 119.6 118.6 119.4Tiempo apertura (ms) 52,4 54.4 52.6Resistencia estática () 51 42 44I bobina cierre (A) 1,122I bobina apertura (A) 1,109

@@ -1,0 +1,23 @@
+- FECHA : LUNES FEBREO 02 DE 2015
+- REALIZÓ : ANDRÉS ZAPATA - WILDER HERRERA 
+- ASOCIADO A LA OT : 2689202
+- ASUNTO : EL OPERADOR DE LA S/E ELINEL MARTINEZ REPORTA QUE LA S/E ESTÁ SISN SISTEMAS DE AIRE ACONDICIONADO, PUES
+           EL SISTEMA N° 1 QUE ESTABA OPERANDO COMO PRINCIPAL , DEJÓ DE FUNCIONAR. EL SISTEMA N°2 AUNQUE SE PUEDE 
+           OPERAR , PRESENTA UN PROBLEMA MECÁNICO EN EL VENTILADOR Y AL CUAL LE FALTA UNA DE LAS ASPAS Y ESTO 
+           GENERA MUCHA VIBRACIÓN.
+           * SE SUBE AL SITIO A REVISAR Y SE ENCUENTRA :
+             1. COMPRESOR N° 1 DESCARGADO. SIN GAS EN EL SISTEMA
+             2. SE REVISA Y SE ENCUENTRA QUE AL PARECER CON EL TUBO CAPILAR SE PERFORÓ LA TUBERÍA POR DONDE ESTE 
+                CIRCULA.
+             3 SE PROCEDE A HACER VACÍOY A PRESURIZAR CON GAS NITRÓGENO  PARA RECONFIRMAR LO ENCONTRADO Y OBSERVAR
+               ALGUNA OTRA FALLA EN EL SISTEMA
+             4. COMO LOS MANÓMETROS ESTAN EN EL ALMACÉN DE LA S/E Y NO HAY ALMACENISTA EN EL SITIO, SE PREPARA TODO
+                PARA INICIAR PRUEBAS EL MIÉRCOLES PORQUE EL MARTES 03 DE FEBRERO HAY NANTTO EN LA PLANTA.
+
+INFORME DE REPARACION DE FUGA EN AIRE ACONDICIONADO S/E
+ Se revisó el sistema de aire acondicionado de la S/E el cual se encontró alarmado el sistema número uno con la falla en pantalla de “ falla compresor 1 sistema número  1”
+Se verifica en la unidad condensadora del sistema número 1  y se encuentra el compresor número uno totalmente descargado.
+Se procede a la  revisión de búsqueda  de fuga haciendo una inspección visual de tuberías y componentes y en la unidad manejadora se evidencio un tallón en la tubería después de la válvula de expansión  ocasionado por el bulbo de la válvula  por estar pegando con la tubería y un escape de aceite por esta zona.
+Para estar seguro de lo encontrado se procede a cargar con nitrógeno  y buscar con detalles fugas de refrigerante, al estar seguro de la fuga y revisar con agua  y jabón otros puntos, se procede a realizar la soldadura  y se carga con nitrógeno nuevamente y se verifica
+Ya corregido el escape se realiza vacío y se carga nuevamente con gas refrigerante R22 a una presión por baja de 65 psi y 29 amp.                                                                                                                 
+Nota se anexan fotos  del punto donde se encontró la fuga: 

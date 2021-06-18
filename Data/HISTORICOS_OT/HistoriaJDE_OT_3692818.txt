@@ -1,0 +1,9 @@
+XL: REVISAR Y LIMPIAR REGULADOR DE TENSIÓN.
+
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR: LUIS CARDONA
+
+Se realiza mantenimiento a los regulados de tensión, se aspira el tablero y se inspeccionan las borneras de control y se realiza mantenimiento preventivo y limpieza a la pantalla del tablero.
+NOTA: se realiza seguimiento a señal de indicación en secuencia de arranque de tensión> 90%, debido a que han reportado problemas ocasionalmente en dicha señal, se realiza inyección con el calibrador de procesos al acoplador IE2, verificando su correcto funcionamiento y se reaprietan cables y borneras correspondientes a dicha señal. Al momento del arranque de la unidad, esta señal funciona correctamente

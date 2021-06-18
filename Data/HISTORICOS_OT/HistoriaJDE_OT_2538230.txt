@@ -1,0 +1,15 @@
+XI: VERIFICAR, MEDIR, COMPROBAR INSTRUMENTACION COJINETE INFERIOR GENERADOR TRONERAS
+
+4/06/2014
+
+se realizo mantenimiento segun instructivo, no se encon tro novedades, se inyectaron  con el calibrador de procesos los transmisores de temperatura Aceite 1, segmento Guia  1 y segmento Guia  3  y se verificaron sus puntos de alarma y disparo y respondieron correctamente.
+El nivel de aceite se encontro en 1564 mm su nivel patron es de 1600 mm, se dreno el instrumento y quedo marcando 1564 mm. En la referencia mecanica se encontro en su valor normal.
+
+VIBRACIONES.
+CIL:8.75 VDC
+CIP:9.71VDC
+AXIAL:5.99 VDC. Se ajusto y quedo en 9.33 VDC
+KPH: 10.13 VDC. Se ajusto y quedo en 9.30 VDC
+
+
+EJECUTO: FREDY DUARTE , MARLON CARMONA,  FRANCISCO GONZALEZ Y ANA MARIA PALACIO

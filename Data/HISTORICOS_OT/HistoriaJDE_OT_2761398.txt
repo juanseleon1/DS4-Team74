@@ -1,0 +1,7 @@
+
+FECHA: MAYO 6 DE 2015 OT: 2761398
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Después de reponer la potencia del aerogenerador quedo fallado por comunicaciones, se observa en el módulo de fibra óptica del controlador inferior que no llegaba señal de la Top Box, se procedió a inspeccionar y se encontró disparado el Mcb de alimentación del módulo de fibra óptica del controlador superior, se repone y se deja en servicio el aerogenerador.

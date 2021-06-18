@@ -1,0 +1,7 @@
+FECHA: 22/01/2015 SOLICITANTE: JUAN DAVID GUTIERREZ
+
+DESCRIPCION: Se presenta falla en el variador de frecuencia de la motobomba N°1 de refrigeracion de la unidad 1, impidiendo el reset de la misma, para lo caual es necesario quitar la alimentacion de este, del breaker Q1 para normalizar la falla.
+La  alarma que se presenta en el display del variador es CPS21 op err CPU.
+
+23-01-2015 se revisa y teniendo encuenta el manual del variador se cambia targeta de comunicaion y queda trabajando bien.
+Andres Arenas, Marlon Carmona, Jose montoya

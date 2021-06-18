@@ -1,0 +1,22 @@
+SE PRESENTO DISPARO DEL ARRANCADOR DE ESTA MOTOBOMBA POR SOBRECARGA Y APERTURA DEL BREAKER PRINCIPAL DE 480VAC EN EL TABLERO DE SERVICIOS AUXILIARES DE LA UNIDAD N°6, 
+ESTA MOTOBOMBA TRABAJO CON UN RUIDO MECANICO FUERTE Y SE PARO POR ESTA RAZON, AL VOLVERLA A PONER EN OPERACIÓN PRESENTO EL DISPARO POR SOBRECARGA CON OLOR A QUEMADO, SE REVISO EL MOTOR ENCONTRANDOSE UNA BOBINA EN CORTO A TIERRA, A ESTE MOTOR YA SE LE HABIA REPARADO UNO DE SUS DEVANADOS. 
+SE DECIDE COMPRAR OTRO MOTOR.
+
+JUAN CARLOS GRANADOS.
+
+2014/09/17 JUAN CARLOS GRANADOS -RECEPCIÓN DE MOTORES
+El día martes 16 de septiembre se recibió los motores de la OR N° 1378304, pero estos no cumplen con el tipo de montaje: B5, por lo que nos vemos en la necesidad de rechazarlos. 
+Hay que devolverlos al proveedor IME Ingeniería de máquinas Eléctricas.
+Los motores que se solicitaron son de fijación con brida B5, sin patas o base. El que nos entregó este proveedor viene con base de sujeción y eje para colocar una polea, por lo que no cumple con lo solicitado.
+
+2014/11/05 RUBEN ARBOLEDA
+Se realizó la recepción de las bridas, queda pendiente realizar compra por parte del grupo de mantenimiento mecánico de un acople tipo mariposa para hacer acople entre el eje del motor y la bomba.
+
+2015/03/02 GIOVANNY DIAZ - SEBASTIAN HINCAPIE
+Se realizó la conexion del motor, despues de que el grupo de mantenimeinto mecánico realizo la compra y el montaje del acople. 
+
+Queda pendiente realizar prueba de sentido de giro y prueba de funcionamiento. 
+
+2015/06/01 RUBEN ARBOLEDA
+Se ha intentato varias veces realizar la prueba de funcionamiento, pero el PLC no ha respondido al toque de la pantalla, el señor Giovanny Diaz intentará realizar seguimiento a la pantalla para verificar su funcionamiento, continua en la OT: 2751304
+

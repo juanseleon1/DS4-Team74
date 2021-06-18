@@ -1,0 +1,12 @@
+OCTUBRE 16/2013
+
+AJUSTAR LA POSICION DEL INYECTOR #4 EN EL CONTROL, YA QUE SE ENCUENTRA ABIERTO CON LA UNIDAD PARADA.
+
+INFORMA
+
+OPERADORES GUADALUPE 3.
+
+Esta ot se ejecuta mediante la ot 2400949 en el mantenimiento cuatrimestral del regulador
+Nota:
+Se cambio actuador hidráulico ED 25 al inyector 4 por problemas en el cierre.
+Una vez montado el nuevo actuador se realizaron pruebas de apertura y cierre observando normalidad en los movimientos.

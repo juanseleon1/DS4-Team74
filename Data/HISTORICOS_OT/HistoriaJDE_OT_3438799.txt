@@ -1,0 +1,81 @@
+- FECHA : JUEVES MARZO 30 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - VÍCTOR ZULETA 
+- ASOCIADO A LA OT : 3438799
+- ASUNTO : HACER MANTTO MP
+
+- DATOS DE PLACA 
+  * Datos datos de placa motor ventilador
+     - Potencia : 3 HP
+     - Voltaje : 460 v
+     - Corriente : 4.05 amp.
+   * Datos de placa motor compresor
+     - Potencia : 60 HP
+     - Voltaje : 460 v
+     - Corriente : 72.13 amp.
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí        
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor:sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 
+        ** Motor ventilador : 4.8 Goh
+        ** Motor compresor :9.0 Goh
+
+2.2. Valores de voltaje y corriente:
+
+      * Voltaje ventilador:          
+       RS =  480.0 v
+       ST =   479.9 v                                                                
+       RT =   480.1 v
+
+      * Voltaje motor compresor
+             RS = 479.8 v
+             ST = 480.0 v
+             RT = 480.0 v
+
+       Corriente de arranque:  
+        * Corriente arranque motor ventilador 
+Fase R = 33.0  amp.
+
+       Corriente arranque motor compresor 
+* Fase R = 165.0 amp.
+
+
+       Corriente de marcha:
+
+        * Corriente marcha motor ventilador  
+Fase R = 6.0 a
+Fase S = 5.9 a 
+Fase T = 6.0 a   
+
+* Corriente de marcha motor compresor : en vacio 
+Fase R = 43.0  a
+Fase S = 39.0  a
+Fase T =  38.0  a
+
+                                                                           
+2.3. Temperatura excesiva carcaza: nó
+      Temperatura excesiva cojinetes: nó
+      Vibración anormal: nó
+      Ruido anormal: nó
+
+3. Calibración térmico control: 
+     * Ventilador : 2.5 a
+     * Compresor : 3.0 a
+   
+     Calibración térmico potencia:
+     * Ventialador : 5 a
+     * Compresor : 42 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 2933.0 H
+
+6. Observaciones: se realiza limpieza y mantto a todo el equipo y no se encuentra ninguna novedad
+    * Equipo utilizado para medida de aislamiento : Megger MI 3121H y se aplicaron 500 Vdc, medidas tomadas con acometida
+    * Se instala iluminación en el recinto compresores 
+    * Queda para operar como respaldo

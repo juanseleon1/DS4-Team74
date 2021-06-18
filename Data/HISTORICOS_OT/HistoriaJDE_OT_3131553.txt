@@ -1,0 +1,32 @@
+
+Se ha presentado un bajo aislamiento en la fase R, se realiza seguimiento:
+
+ *MAYO 27/2016. SERGIO OLIVARES D.
+
+ Se realizó Ip = 1.2
+
+ *MAYO 29/2016. SERGIO OLIVARES D.
+
+ Se realizo Ip = 1.12
+
+ *MAYO 30/2016. SERGIO OLIVARES D.
+
+ Se realizo Ip = 1.14
+
+ *MAYO 31/2016. SERGIO OLIVARES D.
+
+ Se realizo Ip = 1.76
+
+ *JUNIO 01/2016. SERGIO OLIVARES D.
+
+ Se realizo Ip = 1.81
+
+ *JUNIO 02/2016. SERGIO OLIVARES D.
+
+ Se realizo Ip = 1.62
+
+2016/06/08 REALIZÓ: EDWAR LONDOÑO - JUAN GARCIA - JOHNSON GOMEZ - RUBEN ARBOLEDA, PROGRAMO: RARBOLG OT: 3131553, 
+MEDIDA DE IP GENERAL: 
+30 SEGUNDOS 1 MINUTO 10 MINUTOS DAR IP
+311 M 471 M 757 M 1,51 1,61
+Se desarmo el barraje del transformador de excitación por el lado del barraje de los PT's, no fue necesario desconectar la tierra del transformador de excitación, la medida se realizó desde el cable de llegada al punto neutro.

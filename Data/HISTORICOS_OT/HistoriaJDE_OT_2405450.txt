@@ -1,0 +1,12 @@
+
+AGOSTO 25 DEL 2013 /  JEOVANNY CORREA G
+
+
+ Las unidades 4,5 y 6 de guadalupe III presentan alarmas y disparos por vibraciones. 
+
+20/NOVIEMBRE/2013
+Se realizo una ruta para revisar todos los sensores de vibracion de las unidades de generacion de la planta Guadalupe III. En general se encontaron en buen estado, se ajustaron para dejarlos dentro del rango exacto de funcionamiento 9.0vdc.
+Cabe anotar que en la unidad 5 sensor CSP no registra medida, pero es porque el canal en el modulo de vibraciones principal esta fallado. Ya esta informado el personal de medellin.
+
+Programador: Oscar Arango
+Ejecuto: Francisco Gonzalez - Fredy Duarte

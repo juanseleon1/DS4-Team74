@@ -1,0 +1,6 @@
+
+FECHA: ENERO 08 DE 2015
+
+EJECUTANTE: HENRY GIRALDO
+
+Se verifica que el nivel del aceite de la caja multiplicadora se encuentre bien, esto se realiza ya que no hay sensor de nivel trabajando.

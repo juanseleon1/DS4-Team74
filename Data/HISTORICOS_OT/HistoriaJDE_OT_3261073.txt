@@ -1,0 +1,8 @@
+
+FECHA: SEPTIEMBRE 28 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta paro por alta presión en el aceite de la caja multiplicadora, se observa en el Scada la presión del filtro muy alta (7,9 bares), se realiza el cambio del filtro de la bomba 1 y se deja en servicio el aerogenerador.

@@ -1,0 +1,22 @@
+
+2017/04/29 _ CARLOS ENRIQUE MONCADA. OT N° 3469758.
+Unidad 2 TRE(Regulador de tensión): Se encuentra falla en AVR 1 y AVR 2 abriendo los 6 fusibles de AC, se realiza verificación y la falla provino del AVR 2 corto circuitando los tiristores de la fase R, se realizan verificaciones y pruebas en el AVR 1 se cambian los fusibles de este banco y se realizan pruebas de aislamiento en el banco1, barraje de DC y barraje de AC se encuentra bajo aislamiento en barra DC 340 Kohmios, se normaliza y queda en mas o menos 20 Giga ohmios, se ajustan lazos control PID de voltaje de excitación y corriente, ajustado los valores Vm-min:93,3% ie-scl:530 Ve-scl:4600 , además se verifican los pulsos de los tiristores, se realizan pruebas y ajustes en vacío y con la unidad sincronizada. El banco 2 de tiristores queda deshabilitado.
+
+La maquina queda disponible desde las 21:50.
+
+Realizado por: Grupo electrico,Grupo operación, Grupo electrónico.
+
+Informó: Carlos Moncada - Jorge Rodriguez - Richard Jiménez - Walter Tobón.
+
+
+2017/04/29 _ CARLOS ENRIQUE MONCADA. OT N° 3469758.
+SE CREA ESTA OT EN REEMPLAZO DE LA OT 3469209 PARA ATENDER LA FALLA DEL REGULADOR DE TENSION DEL A U2.
+-----
+
+LA UNIDAD SE DA PARO PARCIAL 2 Y PARO DE EMERGENCIA. 
+FALLA FUSIBLES TIRISTORES CONVERTIDORES 1 Y 2 (AVRS).
+
+ABRIL 28 - 2017.
+
+SOLICITANTANTE: TURNO 1.
+

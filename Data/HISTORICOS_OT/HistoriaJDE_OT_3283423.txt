@@ -1,0 +1,16 @@
+MANTENIMIENTO PREVENTIVO MECANICO RUEDA PELTON GUADALUPE 3
+
+
+Ot: 3288423 - CM: rodete pelton - Programador: Camilo Montagut - 2016/11/01
+
+A las 24736.59 horas de servicio del rodete Pelton 65571 marca Voith, se realiza inspección en el mismo equipo y no se evidencia cavitación en los cangilones. La mayoría de los cangilones presentan sombras en la parte posterior del escote medio
+
+Se evidenció cavitación en los 4 rompeolas de los inyectores
+(Ver registro archivado en le planoteca de Gpe 3).
+
+ Los líquidos penetrantes aplicados no revelaron fisura
+Se verifica que el andamio para inspección se encuentra en muy buen estado. Faltan 42 platinas en el andamio
+
+Se engrasa las toberas en el compartimiento de rodete
+
+Ejecuta: equipo manteninimiento mecánico GIII

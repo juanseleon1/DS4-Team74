@@ -1,0 +1,7 @@
+A causa de proceso de salida de cama baja desde casa de máquinas, la cual vino con tranformador del banco 1, fase R, reparado en EXPLORER, Duitama, se retrazo el inicio de las pruebas predictivas, ya que el vehiculo salio en reversa, por su tamaño para voltear en C/M. 
+
+Se realizó pruebas predictivas por parte del Ingeniero Gabriel Santiago, se encontró aceite en las cabezas de bobinas inferior. 
+
+No se realizó IP al estator. 
+
+Realizó: Fernando Ruiz - Edwar Londoño. 

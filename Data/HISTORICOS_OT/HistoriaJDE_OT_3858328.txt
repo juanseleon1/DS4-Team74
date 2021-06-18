@@ -1,0 +1,16 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO DEVANADO DE ALTA Y ACEITE FASE S TRANSFORMADOR DE POTENCIA.
+
+MAYO 10/2019  PROGRAMO:WGARCIAC
+Patrón 40 °C 60 °C 80 °CA/T 40.5   60 80B/T 40.7 59.1 79Aceite 40 61 79
+  Alarma DisparoDev. Alta 105 °C 110 °CDev. Baja 105 °C 110 °CAceite 75 °C 80 °CVentiladores sub. 60 baj. 40
+              
+
+
+
+                    
+
+
+
+
+ 

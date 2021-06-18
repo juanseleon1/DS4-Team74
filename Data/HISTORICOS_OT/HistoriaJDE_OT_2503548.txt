@@ -1,0 +1,7 @@
+
+FECHA: ABRIL 06 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se retira el contactor 24K2  para colocarlo en la top box del AG13 en remplazo del 17K2 que tiene problemas, se dejo abierto interruptor y aterrizado en el modulo de transformación.

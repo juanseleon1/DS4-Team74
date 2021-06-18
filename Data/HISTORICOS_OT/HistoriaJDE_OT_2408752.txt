@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL TABLERO CONTROL UNIDAD CENTRAL PORCE 2.
+
+Se realizo inspección visual, verificación y limpieza del tablero de control.
+Se reviso la conexión de los cables y se reviso la bornera de control.
+Se realizo verificación y revisión de  los bornes de c/u de los displays de temperatura del tablero +TIG. Se realizo inyección de señales de temperatura comprobando la alarma y el disparo hacia las protecciones, según formato de inyección de señales, que se encuentra en la siguiente ruta: \\Wperezg5\MTTO UNIDADES GPEPORCE\MTTOPII2013 <file:///\\Wperezg5\MTTO%20UNIDADES%20GPEPORCE\MTTOPII2013>.
+
+
+

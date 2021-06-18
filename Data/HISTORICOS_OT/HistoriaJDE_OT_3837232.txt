@@ -1,0 +1,7 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud: 15 mAYO 2019
+Tipo de mantenimiento: (correctivo) 
+Realizar las siguientes acciones :
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ CAMBIAR PVM, PINTAR BASE

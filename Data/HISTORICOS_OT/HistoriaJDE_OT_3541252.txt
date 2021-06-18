@@ -1,0 +1,12 @@
+
+2017/07/15 _ CARLOS ENRIQUE MONCADA. OT N° 3541252.
+Referente al pozo de drenaje CCM4:
+Se baja nivel del agua hasta el mínimo, se procede con la revisión de los sensores encontrando el K11 obstruido, este se limpia, se calibra la posición del flotador para que pueda funcionar correctamente. Se realizan pruebas de llenado, vaciado con arranque y paro de bombas en automático.
+El sistema queda en operación normal.
+
+Realizó:Turno 3: Adrian Narvaez, Federico Montoya.Grupo Electronico: Julio Cesar Parra, Carlos Moncada
+
+
+2017/07/14
+REVISAR SENSOR DE NIVEL (FLOTADOR) DE NIVEL MINIMI YA QUE LAS BOMBAS DEL POZO DE INFILTRACIONES NO ARRANCAN POR QUE ESTE SENSOR SE QUEDO ABIERTO , NO CONMUTA LA SEÑAL 
+INFORMA :FEDERICO MONTOYA - ADRIÁN NARVÁEZ

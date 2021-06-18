@@ -1,0 +1,12 @@
+2014/04/28 Realizó: Edwar Londoño - Sebastain Hincapie. 
+
+la motomboba 2 del regulador se encontraba pegada mecanicamente y la motobomba 1 se encontraba trabajando muy seguido. 
+
+Se realizó revision y se desconecto y descoplo la motobomba 2, luego se drenó el aceite a presión que habia en la bomba por causas desconocidas. 
+
+Se puso en servicio la bomba 2 sin problemas. 
+
+Para la bomba 1 se encontró que el asiento de la valvula MOOG del servomotor de deflectores presetaba fuga interna, se realizó correctión, se cambio la MOOG y se dejo en operacion normal. 
+
+Realizó: Edwar Londoño - Sebastain Hincapie. 
+Planeó: Ruben Arboleda

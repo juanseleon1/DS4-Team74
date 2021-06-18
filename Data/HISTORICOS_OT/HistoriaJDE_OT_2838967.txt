@@ -1,0 +1,8 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DEL RECINTO DE TURBINA
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico del recinto de turbina con la adecuación del andamio para inspección de rodete y el andamio para desmonte y montaje de rodete
+
+Ejecuta: equipo mantenimiento mecánico GIII

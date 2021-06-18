@@ -1,0 +1,21 @@
+ORIGINA:VICTOR LONDOÑO. REVISAR INSTRUMENTO SEÑAL DE MEDIDA NIVEL COJINETE INFERIOR G35, NO ESTA MOSTRANDO NINGUNA MEDIDA CORRESPONDIENTE AL NIVEL EN EL INSTRUMENTO.
+
+02/03/2015 
+
+SE REVISA LA LINK QUE RECIBE LA SEÑAL DE LOS INSTRUMENTOS DEL RECINTO DE LA TURBINA YA QUE PRESENTABA PERDIDA DE LA  MEDIDA DE TEMPERATURAS Y NIVELES, SE ENCONTRO UN MODULO QUEMADO, SE CAMBIA DICHO MODULO Y SE NORMALIZAN LAS SEÑALES TANTO DE TEMPERATURA COMO DE NIVELES.
+
+REALIZO: GRUPO DE ELECTRONICA.
+
+
+
+
+ 
+
+
+
+
+        Referente a la Unidad N°5 se revisa la LINK que recibe la señal de los instrumentos del recinto de turbina ya que presentaba pérdida de medida de temperaturas y niveles, se encontró un módulo quemado, se cambia dicho módulo  y se normalizan las señales tanto de temperatura como de nivel. 
+
+Informa: Uaimer de Jesús Días 
+
+

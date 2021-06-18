@@ -1,0 +1,14 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 22/03/2018
+
+ELABORAR INSTRUCTIVO  DE LOS BANCOS (BATERIAS), CON EL FIN DE INSPECCIONAR Y REALIZAR MANTENIMIENTO.
+INCLUIR TABLA DE VOLTAJES, SEGUN EL NUMERO DE BATERIAS, CORRIENTE Y VOLTAJE TATAL
+
+
+
+AGOSTO 28 DE 2018
+Continuando con el plan de productividad en campo se realiza el instructivo electrico para que las OT salgan de modo automaticas y cumplir con el mantenimiento electrico a los sistemas perifericos.
+William Lopera.
+
+

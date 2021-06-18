@@ -1,0 +1,6 @@
+27-01-16 CESAR AUGUSTO HOYOS HENAO
+
+Se inicia el proceso de compra por caja de menor de 5 baterías.
+
+08/02/16. FERNANDO RUIZ-CESAR AUGUSTO HOYOS HEANO.
+Se realiza cambio de las 2 baterías en Nodo1, Nodo 4 y se cambia 1 en Nodo 3. Las baterías de Nodo 2 se encuentran buenas, queda pendiente el cambio de 1 de las baterías de Nodo 3.

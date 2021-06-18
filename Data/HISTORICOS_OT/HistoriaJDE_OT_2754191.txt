@@ -1,0 +1,23 @@
+PLANEADOR: BIANEY BRAVO VALENCIA MAYO 01/2015
+DESMONTAR INSTRUMENTACION ESTATOR.
+
+09/MAYO/2015
+MANTENIMIENTO MAYOR - OVERHALL ELECTRONICO
+
+Se comienza la marcacion de la bandeja portacables alrededor del estator, RTD´s y cables encauchetados.                                      
+Se retiran las 8 RTD´s de entrada/salida de aire de los radiadores.
+
+
+REALIZO: GRUPO DE ELECTRONICA
+
+
+
+10/05/2015
+
+Se comienza la marcacion de cables, retiro de cajas de paso y conectores de la instrumentacion alrededor del estator.                                                       Se desconectan y retiran los sensores de temperatura del sistema contra-incendio, ubicados cerca de los radiadores.                                               Se desconectan de la caja de conexion de RTD´s los cables encauchetados   para permitir la extraccion de la mensula.
+
+Se desconectan  las 12  RTD"S  de temperatura del devanado  y  las 12  RTD"S  de temperatura del nucleo del estator y se retiran los  cables encauchetados para permitir la retirada del estator.
+
+11/05/2015
+
+se retira la bandeja portacables ubicada al rededor del estator.

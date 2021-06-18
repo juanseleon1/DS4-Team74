@@ -1,0 +1,3 @@
+2014/07/14 Carlos Mejia 
+
+Fue necesario cambiar la alimentacion de las bombas de circulacion de aceite del Banco 2, en DG2 celda 2 de interruptor(Breaker 8), para uno de reserva(Breaker 10), ya que una de las fases se encontro floja y se daño el interruptor, cabe anotar que estos interruptores ya cumplieron su vida util, favor evaluar la reposicion de estos interruptores, con el fin de prevenir este tipo de fallas.

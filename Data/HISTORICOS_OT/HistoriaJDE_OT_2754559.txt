@@ -1,0 +1,7 @@
+2 DE MAYO DE 2015 IVAN DARIO ZAPATA GOMEZ
+UNIDAD 5 DE GUADALUPE III
+EL TPU5 SERVICIOS AUXILIARES 440 VAC NO CONMUTA POR EL Q01
+
+SEPTIEMBRE 09 DE 2015.
+Referente a la transferencia de los servicios auxiliares de la unidad G35, po oportunidad se revisa todo el sistema de control y se observó el motorizado del interruptor Q01 en mal funcionamiento a la apertura lo cual estaba bloqueando la transferencia, para solucionar dicho problema se instala uno de los interruptores de la unidad G31 ya que esta se encuentra en mantenimiento mayor y no se tiene repuesto mientras se revisa y se repara el motorizado que fue retirado de la unidad G35.I
+nformó: William Lopera

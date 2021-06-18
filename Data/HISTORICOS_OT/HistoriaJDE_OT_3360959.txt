@@ -1,0 +1,31 @@
+JHON MARIO PEREZ. ENERO 7 DE 2017
+
+REVISAR CONTADOR DE EXCITACIÓN EN LA UNIDAD 4. SE ENCUENTRA APAGADO. 2017/01/07 ANGEL ADONIS CADAVID OCHOA  SE DIRECCIONA OT AL EQUIPO ELECTRICISTA.
+
+El 2017-04-14 En la OT: 3360961, 
+Se retiró el Analizador de Redes (Gestión de energía) del transformador de excitación  de la Unidad 6, éste equipo presentó falla en el display, se enviará a identificar la falla y la posible reparación.
+
+
+2017/05/11 RUBEN ARBOLEDA
+Se crea OT: 3479503, con el fin de tramitar la compra del analizador de red, se cuenta con falla en los analizadores de las unidades 4, 6 y 7
+
+2017/07/25 RUBEN ARBOLEDA
+Se recibe la compra del analizador de red, queda pendiente la instalación
+
+2017-07-28 REALIZÓ: EDWAR ALEXANDER LONDOÑO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3360959, PASO:1          
+Se realizó el cambio del contador de exitación de la Unidad 4, se parametrizó conforme a la unidad 3, se dejó en condiciones normales.JHON MARIO PEREZ. ENERO 7 DE 2017
+
+REVISAR CONTADOR DE EXCITACIÓN EN LA UNIDAD 4. SE ENCUENTRA APAGADO. 2017/01/07 ANGEL ADONIS CADAVID OCHOA  SE DIRECCIONA OT AL EQUIPO ELECTRICISTA.
+
+El 2017-04-14 En la OT: 3360961, 
+Se retiró el Analizador de Redes (Gestión de energía) del transformador de excitación  de la Unidad 6, éste equipo presentó falla en el display, se enviará a identificar la falla y la posible reparación.
+
+
+2017/05/11 RUBEN ARBOLEDA
+Se crea OT: 3479503, con el fin de tramitar la compra del analizador de red, se cuenta con falla en los analizadores de las unidades 4, 6 y 7
+
+2017/07/25 RUBEN ARBOLEDA
+Se recibe la compra del analizador de red, queda pendiente la instalación
+
+2017-07-28 REALIZÓ: EDWAR ALEXANDER LONDOÑO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3360959, PASO:1          
+Se realizó el cambio del contador de exitación de la Unidad 4, se parametrizó conforme a la unidad 3, se dejó en condiciones normales.

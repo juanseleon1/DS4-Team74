@@ -1,0 +1,8 @@
+25/07/2015
+Referente a la unidad # 3:
+Se da paro rápido la unidad, estando la unidad parada el PLC le da orden de apertura a la válvula esférica, lo cual genera una falla en el circuito hidráulico. Esta falla se genera porque la estación hidráulica esta parada y no tiene como alimentar el circuito hidráulico.
+Al pasar esto no tiene como abrir bypass, desactivar sello de operación y abrir válvula esférica lo cual genera una discrepancia de válvula esférica. Verificando panel de alarmas se encuentra que constantemente se generan alarmas de (FIS 1, FIS 4 Y FIS 5 ausencia de flujo en intercambiadores de la refrigeración)
+Se normaliza unidad operando la válvula esférica en modo manual.
+2015/12/02 CARLOS ENRIQUE MONCADA
+SE REALIZA INSPECCION A LOS MICROSUICHES Y CALIBRACION A LAS LEVAS DE CONFIRMACION EN LA VALVULA ESFERICA. ESTA APLICA CORRECTAMENTE EL SELLO DE OPERACION.
+SE HACEN PRUEBAS A SATISFACCION CON EL TURNO DE OPERACION #3.

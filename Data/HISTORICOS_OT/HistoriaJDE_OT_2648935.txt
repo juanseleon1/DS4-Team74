@@ -1,0 +1,16 @@
+2014-12-10 EDWAR LONDOÑO - SEBASTIAN HINCAPIE
+Se realizó revisión y medidas electricas, se tomó los siguientes registros: 
+
+UMA 11
+OT 2648935
+CORRIENTES:
+R 3,4
+S 3,4
+T 3,4
+VOLTAJES:
+RS 460
+ST 460
+TR 458
+
+
+No funciona en Automático a causa de falla en calibracion del termostato. 

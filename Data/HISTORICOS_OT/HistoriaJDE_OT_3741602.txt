@@ -1,0 +1,5 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 26-06-2018
+Tipo de mantenimiento: CorrectivO
+Acciones de mantenimiento: Diagnosticar modo de falla, causa inmediata y causa básica en la estación,Reparación sistema de potencia

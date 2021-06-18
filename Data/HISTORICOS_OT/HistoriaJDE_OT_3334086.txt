@@ -1,0 +1,24 @@
+
+FECHA: DICIEMBRE 02 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se empieza a presentar falla comunicación, en el RFC se observa y se encuentra la falla E6, se apaga todo el sistema de control y se reinicia nuevamente le RFC y queda en Run, después de unos minutos sale de nuevo la falla y se alcanza a observar en el RFC 7,18. Se procede a cambiar este módulo pero la falla continuaba, se cambia el 7,17 y el 7,0 pero la falla no se reponía, por último se intercambian las fuentes para descartar problemas en una de ellas pero el problema continuo, se deja detenida máquina.
+
+FECHA: DICIEMBRE 03 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se continúa tratando de resolver el problema de comunicación, se cambia la fuente que alimenta el control del LOOP, pero continua la falla, se cambian nuevamente los módulos 7,0; después de un rato la falla se borra y queda en Run el RFC; se des energiza toda la máquina y luego se normaliza, se deja en servicio el aerogenerador, después de 4 horas volvió a fallar. se aprovecha este paro para cambiar la bomba de 40L
+
+
+FECHA: DICIEMBRE 04 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se da arranque nuevamente al aerogenerador, durante el día tuvo dos paros por comunicación. Despues de algunas horas de servicio la máquina se normaliza y queda en operación continua.

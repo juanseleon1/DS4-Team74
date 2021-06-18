@@ -1,0 +1,12 @@
+09/04/2014.
+FAVOR REVISAR LOS SELLOS AGUAS ABAJO DE LA VÁLVULA ESFÉRICA DE LA UNIDAD 8, YA QUE AL MOMENTO DE ARRANCAR EN REMOTO ABORTA LA SECUENCIA EN EL PASO DE DAR LA ORDEN DE APERTURA DE ESTA.
+REPORTO: CARLOS ANDRES MEJIA.
+
+
+abril 04 de 2014 
+
+se revisan los sellos y lo unico que se encuentra anormal es que en el  momento de la valvula esferica al  llegar a su limite  durante un proceso de cierre  no aplica los sellos automaticos, por descalibracion del tornillo en el muñon, por tal razon da la señal como si los sellos estuvieran desaplicados .
+
+solucion se corrigio calibracion del tornillo de aplicacion y se realizaron pruebas de apertura y cierre manual de valvula esferica  quedando en operacion normal .
+
+jaime a ramirez  

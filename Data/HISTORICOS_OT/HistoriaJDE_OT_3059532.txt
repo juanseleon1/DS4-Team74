@@ -1,0 +1,16 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Estaciones de operación y de ingeniería en casa maquinas y subestación.
+
+Realizar mantenimiento y limpieza a monitores y CPU de las estaciones de operación y de ingeniería, archivar la información  del histórico de eventos HDSR. Realizar mantenimiento de los CIV´s y actualización de variables y depuración de alarmas en estación
+
+
+12/08/2016
+
+Se realiza mantenimiento de la estacion de operacion en la casa de maquinas, verificacion de interface de video, CPU y perifericos, el equipo presenta algunos problemas en la etapa de video se cambia la tarjeta de video, queda operativo 
+
+Realizado por Wtobonl
+
+terminada cerrar

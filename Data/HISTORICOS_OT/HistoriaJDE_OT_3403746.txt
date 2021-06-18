@@ -1,0 +1,11 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2017-02-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3403746, PASO:1-2         
+ Se realizó mantenimiento al motor de ventilador s5    CORRIENTE: R:46,5, S:48,2, T:48,6, VOLTAJES RS:443,3, ST:443,9, TR:444,2,TEMPERATURA MAXIMA DE MOTOR 43,9°C Se encontró deficiencia en las conexiones de la peineta de entrada, salida y breaker de potencia, Se realizó ajuste a las peinetas y limpieza tratando de mejorar la conexión, se revisaron los bornes del breaker y se ajustaron. queda pendiente probar, se realiza OT correctiva para probar # 3409314.
+
+Se anexa el informe a la OT.TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2017-02-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3403746, PASO:1-2         
+ Se realizó mantenimiento al motor de ventilador s5    CORRIENTE: R:46,5, S:48,2, T:48,6, VOLTAJES RS:443,3, ST:443,9, TR:444,2,TEMPERATURA MAXIMA DE MOTOR 43,9°C Se encontró deficiencia en las conexiones de la peineta de entrada, salida y breaker de potencia, Se realizó ajuste a las peinetas y limpieza tratando de mejorar la conexión, se revisaron los bornes del breaker y se ajustaron. queda pendiente probar, se realiza OT correctiva para probar # 3409314.
+
+Se anexa el informe a la OT.

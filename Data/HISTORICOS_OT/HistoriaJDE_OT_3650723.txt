@@ -1,0 +1,13 @@
+La unidad 2 de guadalupe 3 en el proceso de paro al aplicar frenos esta produciendo descarga repetitiva de aire ocacionando que se despresurice el sistema.
+
+
+29/11/2017
+
+Se pasa a estado 35 en espera de ejecucion, porque para poder intervenir se necesita la unidad parada y asi poder activar los frenos y encontrar la razón de la despresurización
+
+08/01/2018
+
+Se identifica la fuga a travez de uno de los gatos de freno, para su intervención es necesario programarla en un mantenimiento cuatrimestral; por lo tanto queda en estado 35
+
+Esta ot se atiende en el aplicativo de Maximo.
+   

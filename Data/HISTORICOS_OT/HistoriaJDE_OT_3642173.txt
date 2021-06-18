@@ -1,0 +1,10 @@
+MANTENIMIENTO CORRECTIVO
+Fecha de reporte falla: 03/11/2017 Reporta: Carlos Andrade    Síntoma en Oficina: Sin conexión remota
+Fecha de atención falla: 09/11/2017 Atiende: Raúl Mauricio Álvarez
+
+Diagnóstico de Oficina: Pérdida de datos de sensor de nivel de TDPI-2
+Modo de Falla: Error de transmisión de datos  
+Falla Inmediata: No hay comunicación entre dataloger y sensor
+Falla básica: daño de datalogger
+
+Anomalías encontradas: Daño asociado a descarga eléctrica

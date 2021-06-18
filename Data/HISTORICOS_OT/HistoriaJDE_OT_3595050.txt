@@ -1,0 +1,10 @@
+MP ANUAL, EQUIPOS:
+384782 RODETE PELTON U1 G3
+2359 RODETE PELTON U2 G3
+751203 RODETE PELTON U3 G3
+751204 RODETE PELTON U4 G3
+2362 RODETE PELTON U5 G3
+751205 RODETE PELTON U6 G6
+
+03/10/2017
+Se instala andamio en el recinto del Rodete Pelton 65571 VOITH con 30304.31 horas de servicio para su inspección en lo relacionado a ensayos no destructivos, además se esmerilaron sombras y cavitación para control y reparación posterior.

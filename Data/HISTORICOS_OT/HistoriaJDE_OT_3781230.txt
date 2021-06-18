@@ -1,0 +1,11 @@
+Se crea ot para el registro de tiempos y actividades en la fabricación del soporte para el rodete francis ubicado en la sala de montaje de la central de Troneras
+
+
+
+Programador: Camilo Montagut - 27/12/2018
+
+La ot se da por terminada pero incompleta debido a que requiere más trabajo para finalizarla como completa. Queda en espera la fabricación de algunos elementos en el taller industrial de la UOG.
+
+Se espera comenzar nuevamente el trabajo el próximo año gestionando la ot desde la plataforma MÁXIMO
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,8 @@
+08 DE MARZO DEL 2018
+PREVENTIVO ELECTRICO CALEFACCION GENERADOR GUADALUPE III
+PLANEADOR:OSCAR ARANGO
+PROGRAMADOR:CARLOS FORERO
+
+Se realiza mantenimiento preventivo según instructivo GCG3E0002. Se revisaron las resistencias de calefacción, midiendo continuidad entre ellas, se midió el valor óhmico de cada una de ellas, se realizó limpieza con dieléctrico, se revisó el gabinete de control, conexiones y demás elementos.
+
+Ejecutaron: Mateo Perez-Luis Correa

@@ -1,0 +1,6 @@
+JULIO 31 DE 2017     OT NÚMERO: 3527807     PROGRAMÓ: JGUINGUL     EJECUTARON: ANDRÉS YEPES 
+Se realiza inyección señal de temperatura con el calibrador de procesos y se activa Alarma - Disparo 
+
+Temperaturas de: Núcleo Estator Equipo 20°C 40°C 60°C 80°C 100°CTemperatura 1 19.07 39.49 59.90 80.32 100.74Temperatura 2 19.18 39.60 60.01 80.43 100.84Temperatura 3 19.07 39.49 59.90 80.32 100.74Valor programado Alarma:92°CValor programado Disparo:97°CComentarios:Sin novedades  
+
+Temperaturas de: Devanado Equipo 20°C 40°C 60°C 80°C 100°CFase R 18.54 38.95 59.37 79.89 100.20Fase S 18.64 39.06 59.47 79.89 100.20Fase T 18.75 39.17 59.47 79.89 100.31Valor programado Alarma:92°CValor programado Disparo:97°CComentarios:Sin novedades

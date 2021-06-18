@@ -1,0 +1,9 @@
+Favor revizar la RTD CTC18 de entrada aceite intercmabiador cojinete turbina, presenta problemas y se pierde la medida constantemente.
+
+
+10/01/2014
+
+se realiza verificacion de la RTD entrada aceite intercambiador cojinete turbina, se verifica la RTD y el transductor Profibus se cambian ambos devido a falla o saturacion del transductor Profibus, ademas de realizar curva de verificacion de la RTD en los rangos de 40°C, 60°C y 80°C
+
+
+Realizado por Wtobonl

@@ -1,0 +1,4 @@
+
+6/10/2017 OT 3476836 Cesar Tulio / Luis Eduardo
+se realiza mantenimiento preventivo a todo el sistema.
+al momento de darle servicio, falla el inversor principal quedando por fuera y trabajando por el inversor y UPS stand by 

@@ -1,0 +1,49 @@
+FECHA: MARTES 04/09/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: DARIO ATEHORTUA, JESUS GARCIA.
+ASOCIADO A LA OT: 3759057
+ASUNTO:  EJECUTAR MANTENIMIENTO PREVENTIVO A MOBOMBA N°3 DEL POZO DE DRENAJES DE CASA DEMAQUINAS.
+   - SE REALIZA LA INSPECCION, ENCONTRANDO EL EQUIPO EN CONDICIONES OPERATIVAS Y CON LOS SIGUIENTES       PARAMETROS:       
+      VIBRACIONES EN mm/seg 
+      MOTOR:
+      RODAMIENTO SUPERIOR HORIZOTAL 1: 3.0
+      RODAMIENTO SUPERIOR HORIZOTAL 2: 1.7
+      RODAMIENTO INFERIOR HORIZOTAL 1: 1.1
+      RODAMIENTO INFERIOR HORIZOTAL 2: 8.3
+      POCISION AXIAL 1: 5.9
+      POCISION AXIAL 2: 4.2
+      TIEMPO DE TRABAJO:     , EN ESTE TIEMPO NO SE TIENE EN CUENTA EL APORTE DE AGUA DE LOS TRANSFORMADORES       DE POTENCIA DE LAS UNIDADES, ESTOS ESTAN OPERANDO POR FUERA DE CASA DEMAQUINAS DEBIDO AL INCENDIO DEL       2017 
+      
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______________
+
+HOROMETRO:( H )____________
+
+TIEMPO DE TRABAJO:( min.)____________
+
+MW PLANTA: _______________
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

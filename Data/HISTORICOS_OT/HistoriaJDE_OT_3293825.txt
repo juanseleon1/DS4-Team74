@@ -1,0 +1,12 @@
+FECHA: 27 OCTUBRE 2016 SOLICITANTE: FRANCISCO CORDOBA - NATALIA URREA
+
+Revisar coordinacion de protecciones del tablero de los servicos auxiliares a 480V ac de la Central Guadalupe 4, ya que los alimentadores 1 y 2 de este tablero se abren cada que en el circuito R53- 43 (44kv Porce 3) opera la proteccion por sobre corriente.
+Se hace necesario normalizar los servicios de la siguiente manera:
+
+· Resetear alarmas en tablero de servicios auxiliares 480VAC CM.
+· Resetear alarmas en tablero servicios auxiliares 208VAC CM y S/E 230KV.
+· Resetear y energizar filtro del sistema de refrigeración.
+· Resetear sistema de drenajes.
+· Resetear y energizar compresores de servicios generales.
+
+La apertura indeseada de los servicios auxiliares de 480V ac, ocasiona que se alarmen el tablero de las bombas de drenaje, los compresores de servicios generales, los filtros de la refrigeraicon y los servicios auxiliares a 208V ac de la subestacion de 230Kv.

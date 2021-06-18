@@ -1,0 +1,5 @@
+PREVENTIVO EXCITACION PRINCIPAL UNIDAD GENERACION GUADALUPE 4
+
+OT:3129537
+Se hace mantenimiento según instructivo, al tablero de control de la excitación, se revisan los bancos de tiristores, se limpian y se aplica limpiador de contactos, se hace mantenimiento al control.
+Se realiza limpieza al recinto del transformador de excitación, la calefacción se encuentra bien, la iluminación bien, bobinas de alta y de baja ok, tornillería y bornes ok, gabinete de control y tiristores en buenas condiciones.

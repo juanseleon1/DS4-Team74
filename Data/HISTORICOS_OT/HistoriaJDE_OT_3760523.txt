@@ -1,0 +1,13 @@
+30/08/2018 - 10:30 am.
+
+Al entrar las Unidades de Guadalupe 3 al S.I.N, y en rutina de observación de mensajes se detecta que la Unidad 3 presenta alarmas en el Banco de Transformadores, con termicos de ventiladores no normal en las tres fases, inicialmente se hace una revisión visual en los tableros de control de cada uno de los transformadores de esta Unidad y se detecta que esta todo normal, luego el compañero Mauricio Caicedo acompañado por el Ingeniero Cesar Giraldo y hacen seguimiento hasta encotnrar la Fase S con bajo volyaje en el Interruptor Q02 ubicado en el gabinete de Servicios Auxiliares + TPU3 - SAU3 U3 G3.
+
+Se solicita mantenimiento correctivo para tener con el verdadero respaldo la Unidad.
+
+Realiza e informa Turno 3.
+
+Mauricio Caicedo Henao - Wilson Arango Bedoya. 
+
+AGOSTO 31 DE 2018
+Se desmonta el el interruptor Q02 para realizar mantentimiento y verificar os contactos de potencia del interruptor, se encuenta el contacto correspondiente al polo de la fase S, sulfatodo lo que estaba ocasionando mal contacto, y por ende los motores de los subsistemas trabajaran en dos fases sacando falla térmico, se corrige se monta nuevamente el interruptor y queda trabajando normal.
+Informó: William Lopera.

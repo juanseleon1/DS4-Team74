@@ -1,0 +1,23 @@
+Miercoles 15 de Marzo / 2018
+
+
+Referente al TLCT U 4: Los segmentos 2, 3, y 5 presentan un incremento de temperatura de hasta 5 °C aproximadamente con respecto a los demas segmentos, datos tomados con potencia de 148MW, segmento 2 registra 57.7°C - segmento 3 registra 55,3°C, segmento 5 registra 55,5°C, con respecto a los demas que se encuentran en 52°C, la alarma por temperatura de este sistema esta setiada en 60°C  el disparo de este sistema por temperatura esta setiado en 65°C, se solicita revision de las RTDS grupo electronico y en coginete por grupo mecanico.
+
+Turno 2
+
+Jorge Peñaranda
+
+Sabado 17 de Marzo con la unidad parada se evidencia que todos los segmentos estan en la misma temperatura, entonces al parecer el problema es mecanico y no de las RTDS, aun que de igual manera se deberian inyectar para mayor seguridad. Despues retimitir esta OT al grupo mecanico.
+
+
+17/03/2018
+
+Verificados los datos y ajustes por el personal de instrumentacion, se transmite al personal mecanico para hacer verificacion de niveles y vibraciones en esta unidad.
+
+Nota realizada por Wtobonl
+
+*******************************************************************************************************************
+17/03/2018
+SE REVISAN NIVELES DE ACEITE ENCONTRANDOSE UN POCO BAJO, SE ADICIONADN 30 LITROS DE ACEITE SHELL TURBO T46 Y SE REGISTRAN NIVELES NORMALES; LA TEMPERATURA DECIENDE EN LOS SEGMENTOS, SE REVISAN POSIBLES FUGAS NO ENCONTRANDOSE ALGUNA, SE DEJA EL SISTEMA EN SUPERVISION
+
+INFORMA: OSCAR PARRA

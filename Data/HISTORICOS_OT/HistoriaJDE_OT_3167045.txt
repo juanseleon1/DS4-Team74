@@ -1,0 +1,23 @@
+2016/07/06 EDWAR LONDOÑO - FERNANDO RUIZ, PROGRAMO: RARBOLG, PASO 1
+Por solicitud de Jaime Ramirez se realiza la desconexión del compresor para realizar cambio de éste, 
+Se desconecto el cableado de control y de potencia, se colocó tarjeta de seguridad, queda pendietne de realizar el desmontaje de el compresor por parte del grupo de mantenimeinto mecánico. 
+
+2016/07/12 RUBEN ARBOLEDA
+Se deja la OT en estado 35 a la espera de que el grupo de mantenimiento mecanico coordine la visita por parte del proveedor para la puesta en servicio del compresor.
+
+2016-08-18 REALIZÓ: JUAN JOSE LOPEZ (PRACTICANTE) - JHONATAN USME,  PROGRAMO: ELONDOOC OT: 3167045, PASO:3          
+Se realizó adecuación de la acometida de potencia del compresor de los reguladores, con el fin de instalar el compresor nuevo, esta acometida se conecto desde la parte superior del contactor del control viejo, por lo tanto este control quedaría deshabilitado y a la espera de definir que se va a realizar con el control viejo, queda pendiente de realizar la visita para entregar el compresor por parte del proveedor y posteriormente realizar la perforación de la caja para conectar la potencia.
+
+2016-11-15 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3167045, PASO:4          
+Se realizó un adecuación de la acometida que alimenta el compresor de reguladores, después de haberlo recibido por parte del proveedor, se realizó la perforación de la caja del control del compresor en la cual se pasó la acometida de potencia, se dejó en servicio el compresor y en condiciones normales2016/07/06 EDWAR LONDOÑO - FERNANDO RUIZ, PROGRAMO: RARBOLG, PASO 1
+Por solicitud de Jaime Ramirez se realiza la desconexión del compresor para realizar cambio de éste, 
+Se desconecto el cableado de control y de potencia, se colocó tarjeta de seguridad, queda pendietne de realizar el desmontaje de el compresor por parte del grupo de mantenimeinto mecánico. 
+
+2016/07/12 RUBEN ARBOLEDA
+Se deja la OT en estado 35 a la espera de que el grupo de mantenimiento mecanico coordine la visita por parte del proveedor para la puesta en servicio del compresor.
+
+2016-08-18 REALIZÓ: JUAN JOSE LOPEZ (PRACTICANTE) - JHONATAN USME,  PROGRAMO: ELONDOOC OT: 3167045, PASO:3          
+Se realizó adecuación de la acometida de potencia del compresor de los reguladores, con el fin de instalar el compresor nuevo, esta acometida se conecto desde la parte superior del contactor del control viejo, por lo tanto este control quedaría deshabilitado y a la espera de definir que se va a realizar con el control viejo, queda pendiente de realizar la visita para entregar el compresor por parte del proveedor y posteriormente realizar la perforación de la caja para conectar la potencia.
+
+2016-11-15 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3167045, PASO:4          
+Se realizó un adecuación de la acometida que alimenta el compresor de reguladores, después de haberlo recibido por parte del proveedor, se realizó la perforación de la caja del control del compresor en la cual se pasó la acometida de potencia, se dejó en servicio el compresor y en condiciones normales

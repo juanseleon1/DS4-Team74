@@ -1,0 +1,3 @@
+Reporte: Jeison J. Suarez
+Fecha: 2 de Mayo de 2016
+Síntoma: Falla en comunicaciones de la presa RGII, no hay enlace.

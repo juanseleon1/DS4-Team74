@@ -1,0 +1,7 @@
+
+FECHA: AGOSTO 16 DE 2015  OT: 2846860
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Después de cambio de generador se presenta falla por sobre velocidad, se verifican las gráficas de las velocidades en el momento de la falla y se observa oscilando la medida de baja velocidad, se procedió a cambiar el sensor de dicha velocidad y se deja en servicio el aerogenerador.

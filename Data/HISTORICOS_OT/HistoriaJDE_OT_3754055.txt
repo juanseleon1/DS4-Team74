@@ -1,0 +1,20 @@
+2018/08/11
+
+FAVOR VERIFICAR LA INDICACION DE TEMPERATURA RTD 39 SEGMENTO GUIA 2 COJINETE SUPERIOR, SE ENCUENTRA CON UNA DIFERENCIA DE 10 GRADOS CON RELACION A LAS DEMAS INDICACIONES 
+
+INFORMA TURNO 2 , J GONZALEZ/O. LOPERA 
+
+
+FECHA: 11/08/2018
+
+
+MEDIDA DE TEMPERATURA SEGMENTO 2 RTD 39 DESVIACION DE MEDIDA 
+
+Se realiza verificacion de la medida en el tablero +TCU en el transductor de la RTD 39 la cual indica bien   con un valor de resitencia de 120 ohmios, este valor corresponde a +/- 48 °C, se verifica el conexionado y se encuentra falla en la conexion del transductor TILLQUIS se cambia este y se configura con los valor de ajuste, el sistema queda normalizado y en pruebas , por pruebas se realiza el bloqueo del disparo en este transductor para evidenciar el comportamiento del sistema. se retira el bloqueo encontrado en el rele TEMA-X .
+  
+REALIZADO POR WTOBONL
+
+ TERMNADA CERRAR
+
+
+

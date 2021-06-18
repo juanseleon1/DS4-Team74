@@ -1,0 +1,9 @@
+
+
+FECHA: ABRIL 12 DE 2016 OT 3075269
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se desmonta el LPC del AG3 con el propósito de retirarle la fuente y colocársela al LPC del AG2, también se retira el RFC del AG3 y se instala con la memoria del AG2 y queda en RUN, el LPC del AG3 se encuentra en subestación.

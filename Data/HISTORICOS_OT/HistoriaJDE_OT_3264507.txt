@@ -1,0 +1,15 @@
+30/09/2016
+
+23:29: PARO RÁPIDO U2 EN INICIO DE SECUENCIA GIRO MECANICO POR FALLA DE AMBOS CANALES DE VELOCIDAD 
+
+Se solicitó redespacho de los periodos 1,2 y 3 del 1 de Octubre para verificación de los canales de velocidad mecánica.
+
+01/10/2016
+
+Se realiza verificacion de los pickup en la unidad, se ajustan y verifican en el programa del regulador la unidad queda en observación.
+
+A las 2:35 am se sincroniza la unidad 2 sin presentar novedad en la secuencia de arranque.
+
+Realizado por Wtobonl
+
+Informó: Walter Tobón y Santiago Ramírez.

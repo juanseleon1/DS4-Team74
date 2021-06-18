@@ -1,0 +1,5 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA SEPTIEMBRE 20 2015
+EJECUTANTE: GERMAN Y PROBAYO
+
+ Se organiza cable del sensor de la yaw  del AG14 y se sube y se coloca y se hacen pruebas quedando muy bueno

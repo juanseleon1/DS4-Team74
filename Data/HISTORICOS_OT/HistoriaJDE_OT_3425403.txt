@@ -1,0 +1,22 @@
+MANTENIMIENTO GENERAL MOTOBOMBA ATRU 1 U1 CENTRAL PORCE 2.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones. 
+4. Inspeccionar fugas 
+5. Verificar estado general exterior (pintura) 
+6. LIMPIAR VENTILADOR
+7. VERIFICAR ESTADO DE ACOPLE
+INFORMACION ACERCA DE LA EJECUCION DE LA OT
+- TEMPERATURA DEL MOTOR 46°C
+- TEMPERATURA DE LA BOMBA 32°C
+- TORNILLERIA Y ANCLAJE EN BUEN ESTADO
+- SE REALIZA LIMPIEZA GENERAL
+- PINTURA EN REGULAR ESTADO
+
+

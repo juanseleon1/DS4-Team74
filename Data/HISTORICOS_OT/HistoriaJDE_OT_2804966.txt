@@ -1,0 +1,7 @@
+INTERRUPTOR DE POTENCIA U5
+La unidad presenta problemas al sincronismo debido a falla en uno de los sensores de las puertas del interrupotor. Fue necesario realizar puente entre los sensores para poder realizar sincronismo a la unidad.
+
+Jhon Mario Pérez Arenas.
+
+2016/08/21 RUBEN ARBOLEDA
+Esta OT se ejecutará en la: 3201398, 

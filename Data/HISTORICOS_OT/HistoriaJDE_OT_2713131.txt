@@ -1,0 +1,6 @@
+MAR 18/2015 OT: 2713131 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edgar Rodas.
+Se realizó el mantenimiento según el instructivo GCTRE0002
+Se realizaron las pruebas eléctricas a las resistencias.
+Ver registros en el archivo de Troneras.
+
+XE: REVISAR Y MEDIR CALEFACCIÓN GENERADOR

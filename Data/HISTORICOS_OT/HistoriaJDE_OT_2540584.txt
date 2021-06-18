@@ -1,0 +1,7 @@
+
+FECHA: MAYO 31 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ACHAVARRIA
+
+
+En las dos ultimas noches se presentaron paros por comunicaciones, en la mañana de hoy la falla no borró, 4,0 0C16, se procedió a revisar el estado del modulo 4,0 y el de fibra óptica, se encuentra que el módulo de fibra no emite luz por la transmisión, se ensayaron unos módulos que habían en subestación pero el problema continuaba, se chequearon unos módulos 4,0 que habían en subestación y de ellos solo uno funcionó y se dejo puesto en la bottom y el que estaba allí se coloco en la top box, la luz no se emite si el modulo 4,0 esta malo, se aprovecho para colocar un modulo de fibra óptica nuevo en la Bottom box y dejar el otro para futuros cambios, se deja en servicio el aerogenerador, después de un par de horas de servicio el aerogenerador se detiene nuevamente, se prueba otro modulo y se cambia por el 1,0 y queda en servicio. este ultimo modulo se saco de la habitación donde esta la tornillería.

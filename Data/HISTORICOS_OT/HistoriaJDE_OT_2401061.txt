@@ -1,0 +1,11 @@
+
+06/03/2014 9:27:35
+int p ccm8.IS2
+
+Anotaciones de la imagen principal
+Esta imagen muestra un calentamiento en la
+carcaza del interruptor entre las fases RyS que
+se podria dar por un mal contacto en los bornes
+de entrada.
+
+Se hizo OT correctiva numero 2485410 para atención del punto caliente

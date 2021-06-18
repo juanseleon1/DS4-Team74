@@ -1,0 +1,37 @@
+
+FECHA: 17/05/2018
+PROGRAMO: WILMER DAVID MENDEZ CARO
+EJECUTO: 1997 / 6953
+NUMERO DE OT: 3717653
+ASUNTO: SE EJECUTA REVISION, NO ES POSIBLE EJECUTAR MANTENIMENTO, YA QUE NO EXISTE MEDIO PARA EXTRAER BOMBA SUMERGIBLE, POR TAL MOTIVO NO SE TOMAN DATOS DE VIBRACIONES, EL TIEMPO DE EVACUACION DE ESTA 5 MINUNOS CON 48 SEGUNDOS.
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______________
+
+HOROMETRO:( H )____________
+
+TIEMPO DE TRABAJO:( min.)____________
+
+MW PLANTA: _______________
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

@@ -1,0 +1,14 @@
+Se crea ot para el registro de tiempos y actividades en la limpieza y lubricación del teleférico del mes de noviembre
+
+Programador: Camilo Montagut - 03/11/2015
+
+Se realiza lubricación y limpieza mensual de los equipos mecánicos del teleférico. A continuación se relaciona los elementos intervenidos:
+
+- Chumaceras de las poleas (estacion superior e inferior)
+- Chumaceras del sistema de fuerza (estacion superior)
+- Poleas fijas (torre de poleas)
+- Bronzinas (torre de poleas)
+- Cabezote de las cabinas
+- Cabinas en general
+
+Ejecuta: equipo mantenimiento mecánico GIII

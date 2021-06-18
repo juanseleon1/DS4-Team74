@@ -1,0 +1,12 @@
+2017-08-28. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR Y CORREGIR EL PARO DE EMERGENCIA QUE SE PRESENTA CON LAS ALARMAS PARO-E, T1 ALTA, SERV LUB Y P2 (LED ENCENDIDO).
+2017/08/31 DIEGO BEDOYA
+Se realiza la revisión del compresor SULLAIR de servicios generales, se evidencia que el compresor estaba sin agua de refrigeración, debido a las lluvias en la noche anterior, esto generaba la alta temperatura, se revisó boquerel de aceite y se limpió, se ajustó nivel de aceite.  También se encontró descontrolada la programación del compresor, motivo por el cual se dispara y saca paro de emergencia.
+La programación debe ser en sistema inglés y se encontró en sistema métrico.
+Se entrega el compresor al operador Juan Carlos Duarte, en condiciones normales de operación. 
+El trabajo fue realizado por Andres Alzate y Diego Bedoya
+
+NOVIEMBRE 20 DE 2017 
+OT6 CERRADA
+ANDRES RAMIREZ 

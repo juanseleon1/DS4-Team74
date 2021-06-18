@@ -1,0 +1,8 @@
+NOVIEMBRE 14/2014 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA VIANA
+Se realiza mantenimiento segun instructivo:
+. Se realiza mantenimiento general al tablero +TCSI.
+. Se hizo revisión al mecanismo en general, no se encontraron fugas de aceite ni residuos.
+. Se lubrican partes moviles y engranajes del sistema.
+. Se deja el sistemas en condiciones de operación.
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

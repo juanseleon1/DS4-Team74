@@ -1,0 +1,9 @@
+
+2018/12/04 OT3792000 Luis Eduardo Arcila / Personal de General Fire
+
+
+PRUEBAS DISPAROS CO2 UNIDAD 2
+
+Se someten a temperatura el sensores Térmicos y se genera humo en varios detectores de humo, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 actúando las válvulas solenoides.
+Se realiza prueba de descarga con las estaciones manuales, encontrándose módulo FRCME Nodo 1 direccion 37 con problemas, se reemplaza quedando en condiciones normales.
+

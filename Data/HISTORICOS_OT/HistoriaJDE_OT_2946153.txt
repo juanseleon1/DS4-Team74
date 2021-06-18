@@ -1,0 +1,8 @@
+
+FECHA: NOVIEMBRE 24 DE 2015  OT: 2946153
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta falla por vibraciones, se observa que la alarma está apareciendo continuamente aun con el aerogenerador detenido, se inspecciona el estado del módulo PCH y su conector pero todo estaba bien, se decide dar reset al RFC, después de este último procedimiento la alarma de vibraciones deja de aparecer pero queda sin medida de velocidad de viento, se revisa y se encuentra malo uno de los fusibles que alimentan los anemómetros, se realiza el cambio y se deja en servicio el aerogenerador.

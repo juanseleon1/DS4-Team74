@@ -1,0 +1,20 @@
+2014/04/26 Ruben Arboleda - Giovanny Diaz - Mario Restrepo
+Se realizó revisión de la falla mencionada, para lo cual se encontró falla en uno de los fusibles de alimentación de tranformador de 480/120VAC, se realizó el cambio por uno que estaba en el tablero, se probó y se dejó en funcionamiento normal, ésta alimentación de control es utilizada en las bombas de presión de aceite de la válvula mariposa. 
+
+Es de resaltar que el equipo de presión de aceite de ésta etapa arranca periódicamente (10 minutos), la parada que se tuvo por este periodo de tiempo no afectó la posición de la válvula mariposa. 
+______________________________________________________________________________________________________
+
+Sábado 26/04/2014  Edgar Barrera Castaño  
+Buen día, desde las 01:34 está pendiente la alarma CV2 Tensión AC mariposa.
+Operador Centro de Control Energía
+ot: 2515606
+___________________________________________
+
+
+
+
+
+
+
+
+

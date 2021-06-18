@@ -1,0 +1,8 @@
+TAREA: 
+Realizar adecuación electrica para la empresa CI Metales en el contrato de aprovechamiento de cables de potencia
+
+2016-09-20 REALIZÓ: FERNANDO RUIZ - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3250730, PASO:1          
+Se realiza adecuación de toma a 220VAC para la empresa CI Metales en la ejecución del contrato de aprovechamiento de los cables BICC siniestrados el pasado 15 de febrero de 2016, el toma se adecuó en la zona de El Portal, se dejó en condiciones normales. 
+
+2016-09-24 REALIZÓ:  JHONATAN USME - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3250730, PASO:2          
+Se realizó adecuación de un toma trifasico, fue necesario extender una acometida desde la estación radiodores hasta el punto donde se ubica el contratista, con el fin de tener un toma trifasico para un motor de 38 Amperios, se utilizó 3 postes para esto, se dejó una alimentación provisional.

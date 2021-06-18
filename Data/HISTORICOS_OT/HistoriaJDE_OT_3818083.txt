@@ -1,0 +1,6 @@
+MARZO 11/2019 OT: 3818083  PROGRAMÓ: HGIRALRI
+EJECUTÓ: PEDRO ROBAYO, ALVARITO PUSHAIBA Y ELIECER PUSHAINA
+
+Se cambia el aire acondicionado de la Bottom Box lado control, el que tenía se coloca en el tablero de potencia del controlador inferior del AG5
+
+Se coloca en el tablero de potencia el aire acondicionado retirado del AG7.

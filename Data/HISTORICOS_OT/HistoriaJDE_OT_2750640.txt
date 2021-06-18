@@ -1,0 +1,7 @@
+
+FECHA: ABRIL 27 DE 2015 OT: 2750640  
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se inspecciona el esto de los condensadores debido a paros por corrientes asimétricas, se encuentra el Mcb 25 F1 disparado se repone, se aprietan bien los cables de los condensadores en los contactores, solo quedan trabajando 8 pero instalados 10.

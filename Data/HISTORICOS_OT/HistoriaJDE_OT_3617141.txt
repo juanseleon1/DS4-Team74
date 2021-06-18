@@ -1,0 +1,23 @@
+FECHA: 25/10/2017 PROGRAMO RICHARD JIMENEZ JIMENEZ, EJECUTO RONAL ARANGO
+PLANEADOR: LUIS FEDERICO ALVAREZ OW 171309
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS REALIZADOS EN LA PREPARACION DE LA PUNTA DEL CABLE DE RESERVA, LADO DE TERMINALES INTERIORES, SE UBICÒ LA CAPSULA DE PRUEBA EN EL SITIO, SE ACONDICIONÒ SOBRE UNA MESA METALICA, LA PUNTA DEL CABLE DE RESERVA FUE PREPARADO Y PELADO POR PERSONAL TECNICO DE REDES SUBTERRANEAS Y EL VACIO, Y LLENADO LO REALIZÒ PERSONAL DE SUBESTACIONES Y LINEAS.
+
+EL DIA 25/10/2017 SE REALIZARON PRUEBAS CON EL LABORATORIO PORTATIL, EVIDENCIANDO ALTAS DESCARGAS PRODUCIDAS POR LA CAPSULA DE SF6, ACONDICIONADA PARA AISLAR LA PUNTA DEL CABLE; SE TOMO LA DECISIÒN DE SUSPENDER LA PRUEBA PARA REALIZAR UNAS MODIFICACIONES EN LA CAPSULA DE PRUEBA.
+
+-pruebas electricas en los cables de potencia:
+   -cubierta (chaqueta metalica) medida en dc 5kv con equipo portatil.
+   -medidas de descargas parciales en dps c6 de la pantalla: medidas en dc 5kv con equiupo portatil.
+   - capacidad y tangente delta: medicion en ac, pre estres de 159.3kv durante 10 segundos
+     tangente delta: medida en ac 5kv con laboratorio mòvil como fuente
+   -descargas parciales lado portal: medidas en ac pre estres de 159.3 kv durante 10 segundos
+   -descargas parciales lado del domo: medidas en ac pre estres de 159.3 kv durante 10 segundos
+   -ensayo resosnante: medidas de ac de 148.7 kv con laboratorio movil como fuente
+
+
+jefe de trabajo: federico alvarez alvarez
+especialidad elcetrica: daniel palacios; richard jimenez
+especialidad mecanica: juan gilberto tobon
+especialidad electronica: carlos moncada
+
+consignacion 137225 ot nº 3617141

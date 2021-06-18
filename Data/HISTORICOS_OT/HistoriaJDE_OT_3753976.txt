@@ -1,0 +1,20 @@
+2018/08/10
+
+FAVOR VERIFICAR LA INDICACION DE TEMPERATURA ACEITE COJINETE COMBINADO, LA INDICACION ESTA DESVIADA 5 GRADOS DE LA MEDIDA LOCAL SE ENCUENTRA EN 48 Y ESTA INDICA EN LA IHM Y SCADA 53 °C.
+
+TURNO 3 , J.FORERO/U.CASTRILLON/C.GUINGUER
+
+
+FECHA: 10/08/2018
+
+
+MEDIDA DE TEMPERATURA ACEITE COJINETE COMBINADO TCCC RTD 72 
+
+Se realiza verificacion de la medida en el tablero +TCIG en el transductor de la RTD 72 la cual indica bien y la medida de resistencia en la RTD se encuentra dentro de los parametros, se realiza la verificacion de los valores de ajuste en el transductor de la RTD 72 y se encuentra una desviacion en el valor de medida de salida OUT 02L5 el cual se ajusta en el valor normal y la indicacion normaliza en la medida de la IHM unidad y el sistema SCADA.
+
+REALIZADO POR WTOBONL
+
+ TERMNADA CERRAR
+
+
+

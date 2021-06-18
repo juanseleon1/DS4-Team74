@@ -1,0 +1,6 @@
+
+   FEBRERO 15 DEL 2014 - JEOVANNY CORREA G
+ Se dio paro de emergencia la unidad G35 por falla regulador de velocidad, el inyector Nº 4 se queda pegado.
+ FEBRERO 17 DE 2014.
+Se encontro el driver en corto perteneciente al inyector numero 4, se cambia el driver, y se realiza calibracion la corriente al lazo de control, se deja calibrado en 4.9 Amperios.
+

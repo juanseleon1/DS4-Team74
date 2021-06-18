@@ -1,0 +1,19 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Procedimiento aplicable a los tableros de arrancadores y control de los compresores.  Realizar inspección visual de tapas flojas, puertas y cerraduras, bornes de potencia, borneras, terminales, peinetas, conexiones de potencia y cableado.   
+
+ESTA OT SALE PARA EL AIRE COMPRIMIDO, PERO SE DEBE INTERVENIR CADA COMPRESOR QUE DEPENDA DE EL.
+
+----------------------------
+
+fecha: 2014-08-12 ot: 2555973 mtto: eléctrico
+ejecutó: geovanny echeverri - olga viana
+Se realiza mantenimiento y limpieza a los TABLEROs de CONTROL, bornes DE POTENCIA, terminales, cableado, MOTORES de los ventiladores y compresores de aire comprimido pertenecientes a l sistema de servicios generales (S3). Según IDM: GCP2E0015. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+el mtto se realiza por oportunidad con planta en 0 mva.
+VOLTAJE CORRIENTETE. DE ARRANQUE CORRIENTETE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE GR - S485R387R31R5,38S - T482S283,3S31S5,93T - R483T360,7T29,52T5,82
+cOMPRESOR 2
+VOLTAJE CORRIENTETE. DE ARRANQUE CORRIENTETE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE GR - S484R376,6R29,3R5,88S - T481S375,3S28,8S6,36T - R482T384,6T27,4T6.74
+informa: cristian a gómez h
+----------------------------

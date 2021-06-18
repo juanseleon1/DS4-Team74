@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DARIO PUERTA.
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos +ECF y +TCFM tableros de control válvulas de frenos de la unidad 1, verificación en el tablero +TCF la aplicación y desaplicación de los frenos, revisión y verificación de los microsuiches finales de curso.
+Trabajos realizados por: Dario Puerta, Jhonatan Arango, Maycol Gonzalez..
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR:DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

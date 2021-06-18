@@ -1,0 +1,2 @@
+2014/09/22 RUBEN ARBOLEDA - ANDERSON LOPEZ
+En la ejecución de la OT: 2602755 se identificó alta temperatura, por lo tanto se programa cambio de rodamientos como medida de descarte para identificar falla en el motoreductor. 

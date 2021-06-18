@@ -1,0 +1,2 @@
+2018/08/24 RUBEN ARBOLEDA
+Se crea OT para realizar el cambio de aislamiento del recinto de anillos. 

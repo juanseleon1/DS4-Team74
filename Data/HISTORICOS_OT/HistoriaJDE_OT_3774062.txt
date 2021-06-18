@@ -1,0 +1,16 @@
+
+CESAR AUGUSTO HOYOS HENAO 11-10-18
+
+Actividades de bloqueos y desbloqueos unidad.
+Actividades de paro y arranque unidad.
+Pruebas de funcionamiento unidad después del mantenimiento.
+
+CESAR AUGUSTO HOYOS HENAO 11-12-18
+
+Se realizan todos los desbloqueos de la unidad para dar paso a la sincronización de la misma y pruebas con el nuevo regulador de velocidad.
+
+2018/12/31 RUBEN ARBOLEDA OT: 3774062
+OT Padre para el mantenimiento especial, el informe se anexa a esta OT.
+También se encuentra en la ruta: 
+\\epm-file\2000\2630 A Guatape\2032_MANTENIMIENTO UOZO\CENTRAL GUATAPÉ\CONVERSION\UNIDAD 2\MANTENIMIENTO  OCTUBRE 2018 U2
+

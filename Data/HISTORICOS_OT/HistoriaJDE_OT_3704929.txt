@@ -1,0 +1,5 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-05-06 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704929, PASO:1          
+Se realizó el mantenimiento preventivo a los servicios auxiliares 480VAC de las unidades 7 y 8, se realizó prueba de transferencia en las maniobras operativas, se identificó que esta trabajando en condiciones normales, se realizó limpieza y verificación de ajuste en los tornillos y borneras. se deja en condiciones normales.

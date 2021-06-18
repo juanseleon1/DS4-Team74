@@ -1,0 +1,15 @@
+FECHA: 20/07/2016
+
+SOLICITANTE:FERNANDO GOMEZ
+
+falla del IHM del controlador 1 unidad 2 de playas,favor revisar.
+
+
+
+
+
+
+De: PSFT_System@oracle.com [mailto:PSFT_System@oracle.com] Enviado el: miércoles, 20 de julio de 2016 4:17 p. m.Para: Group_Distribution_List_ 80203_EMLAsunto: Aprobar Solicitud: 3183050 WO
+
+Datos de la Solicitud . Se a creado una Solicitud que requiere aprobacion. Usted es el encargado de diligenciar que esta sea aprobada. Descripción  : FALLA  IHM  CONTROLADOR 1 PLAY Tipo             : WO Prioridad      : 2     <> Edo. del Eq.  :      <> . . Datos del Equipo . Equipo      : 380873  Descripción : CONTROLADOR 1=K02 +W01 U2 PL 
+

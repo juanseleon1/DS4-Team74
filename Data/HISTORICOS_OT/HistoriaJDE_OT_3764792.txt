@@ -1,0 +1,11 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica de los antiguos cables del teleférico
+
+
+
+Programador: Camilo Montagut Gil - 04/10/2018
+
+Se realiza la adeccuación mecánica de los antiguos cables del teleférico y del malacate que relaciona el corte con oxiacetileno de cada uno de ellos y posterior traslado hacia el almacén de aprovechamientos de la ciudad de Medellín.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+

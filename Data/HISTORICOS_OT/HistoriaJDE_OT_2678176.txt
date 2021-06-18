@@ -1,0 +1,13 @@
+
+FECHA: ENERO 18 DE 2015
+
+EJECUTANTE: HENRY GIRALDO, DIOMER DIAZ Y PEDRO SOLANO
+
+Se inician labores para corregir la falla de comunicación del aerogenerador, el día de hoy se trato de solucionar la falla en 7,0; con los módulos que tenemos no se logro solucionar esta primera parte de la falla, el resto de módulos no se energizaron.
+
+
+FECHA: FEBRERO 18 DE 2015
+
+RESPONSABLE: PEDRO ROBAYO Y HENRY GIRALDO
+
+Se corrige la falla en el LOOP, fue necesario cambiar los siguientes módulos: 7.3; 7.7; 7.9; 7.10; 7.11; 7.14; 7.15; 7.16 y 7.18; el RFC quedo en Run, también se cambió el módulo de frecuencia y velocidad y se configuro con los parámetros adecuados. Quedó pendiente conectar el sensor de vibraciones PCH.

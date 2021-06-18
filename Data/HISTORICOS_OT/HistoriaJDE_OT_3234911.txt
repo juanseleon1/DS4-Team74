@@ -1,0 +1,21 @@
+TAREA: 
+Realizar prueba del PLC en las diferentes posiciones: cero, manual, automatico, se deben abrir las borneras de diapro del interruptor para evitar apertura. 
+
+2016-09-06 REALIZÓ: SERGIO OLIVARES - RUBEN ARBOLEDA,  PROGRAMO: RARBOLG OT: 3234911, PASO:1          
+Se realizó revision del PCL de la DP1, se encontró falla en el modulo de expansión 1, se forzó 3 señales de entrada: 
+I3.1: MCB1 CONTROL QF1 ABIERTO (FORZADA A ON)
+I3.6: MCB9 CONTROL QF2 ABIERTO (FORZADA A ON)
+I3.7: FETECTOR DE HUMO CELDA 4 (FORZADA A OFF)
+Se dejó en posición automatico, sin alarmas pendientes, el modulo de expansión 1 de 16 entradas digitales tiene falla en su funcionamiento ya que reconoce entradas activas que no existen y no reconoce las entradas que estan activas.
+
+Queda pendiente realizar trámite de compra del modulo. TAREA: 
+Realizar prueba del PLC en las diferentes posiciones: cero, manual, automatico, se deben abrir las borneras de diapro del interruptor para evitar apertura. 
+
+2016-09-06 REALIZÓ: SERGIO OLIVARES - RUBEN ARBOLEDA,  PROGRAMO: RARBOLG OT: 3234911, PASO:1          
+Se realizó revision del PCL de la DP1, se encontró falla en el modulo de expansión 1, se forzó 3 señales de entrada: 
+I3.1: MCB1 CONTROL QF1 ABIERTO (FORZADA A ON)
+I3.6: MCB9 CONTROL QF2 ABIERTO (FORZADA A ON)
+I3.7: FETECTOR DE HUMO CELDA 4 (FORZADA A OFF)
+Se dejó en posición automatico, sin alarmas pendientes, el modulo de expansión 1 de 16 entradas digitales tiene falla en su funcionamiento ya que reconoce entradas activas que no existen y no reconoce las entradas que estan activas.
+
+Queda pendiente realizar trámite de compra del modulo. 

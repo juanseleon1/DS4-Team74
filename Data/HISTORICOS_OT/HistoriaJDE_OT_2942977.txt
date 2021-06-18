@@ -1,0 +1,8 @@
+
+FECHA: NOVIEMBRE 19 DE 2015  OT: 2942977
+
+EJECUTANTE: GERMAN ECHAVARRIA
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta falla en la medida de temperatura del rodamiento trasero, se inspecciona y se encuentra en la caja de conexiones del generador una resistencia la cual estaba suelta una de sus terminales, se verifica el cable de llegada de la medida de temperatura que viene directamente del rodamiento, este cable se encuentra en la caja de conexiones de potencia del generador, allí se encontró el cable reventado, se procede a corregir la conexión y retirar la resistencia y dejarlo trabajando de forma adecuada. Queda en funcionamiento el AG.

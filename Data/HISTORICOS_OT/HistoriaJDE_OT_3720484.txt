@@ -1,0 +1,13 @@
+2018/05/04 RUBEN ARBOLEDA
+Se ha identificado una onda de 60voltios de AC en el sistema de DC, se crea esta OT para su revisión. 
+
+2018-05-04 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - LUIS EDUARDO ARCILA - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3720484, PASO:1-1.1          
+Se hace consignación local para apertura de interruptores de DC en tableros de control +TCD
+Se realiza medida de voltaje de AC: 
+Positivo  Tierra 60.2VAC
+Negativo  Tierra: 59.5 VAC
+Se abrió el interruptor de control unidad 1, se evidenció que la mezcla de polaridades se perdió, se normalizó el interruptor y apareció nuevamente la mezcla de polaridades. 
+Se abrió interruptores de DC uno a uno en la Unidad 1, al momento de abrir el interruptor de excitación se evidenció que el sistema de DC normalizó. 
+Se normalizaron los interruptores de DC en la Unidad 1
+Se verificó en los planos y se realizó apertura de interruptor en Regulador de tensión Unidad 1. Al momento de abrir el interruptor -Q101 el voltaje en DC normalizó, éste interruptor al igual que el interruptor -Q103 alimentan la fuente de DC
+Se realizó el mismo proceso en el regulador de tensión de la Unidad 6, Se evidenció el mismo comportamiento. 

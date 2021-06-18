@@ -1,0 +1,9 @@
+2017/07/06 RUBEN ARBOLEDA
+en la OT: 3476793 se evidenció punto caliente en la peineta de salida se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 34.9°C, lo cual implica una deficiencia mayor en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+Se crea ésta OT correctiva para su reparación.
+
+2017-08-03 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3531741, PASO:1          
+Se realizó mantenimeinto correctivo a la motobomba ARAA 2, se realizó limpieza general, revisión de contactos enchufables, se instaló y se dejó en observación.
+
+2017-08-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3531741, PASO:2          
+Se realizó inspección termografica de seguimiento a la motobomba ARAA2, no se evidenció puntos calientes, se dejó en condiciones normales, se anexa el informe a la OT.

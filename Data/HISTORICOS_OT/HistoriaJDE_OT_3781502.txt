@@ -1,0 +1,13 @@
+FECHA: 04/11/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+DESCRIPCIÓN: Por favor revisar el contador ION del alimentador 1 (TPU2) servicios auxiliares 440 VAC de la unidad 2 de Guadalupe III ya que la lectura del KWh total no corresponde al dato real. 
+El dato de este contador se toma con una frecuencia mensual.
+Las últimas lecturas registradas fueron:
+30 de septiembre:  49,320 KWh
+31 de octubre: 0,200KWh
+Por seguimiento, se tomaron los siguientes datos:
+1 de noviembre 22,974 KWh
+4 de noviembre 0 KWh
+14/11/2018
+Se aprovecha el mantenimiento cuatrimestral ejecutado a la unidad G32 y se cambia el medidor de energia ION7330, por un medidor nuevo PM800, debido a que el ION estaba mostrando medida erronea en la potencia. Se programa (PM800) y queda registrando las tensiones, las corrientes y la potencia normal, queda el sistema habilitadopara realizar la transferencia automatica.
+
+Ejecutaron: William Lopera-Carlos Andres Forero

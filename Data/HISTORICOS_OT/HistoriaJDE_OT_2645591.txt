@@ -1,0 +1,2 @@
+Se hace el tanqueo de la planta del operador disponible.
+Se agrega un cuarto de aceite al motor.

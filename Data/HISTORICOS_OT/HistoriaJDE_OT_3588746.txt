@@ -1,0 +1,9 @@
+MP ANUAL:-- 3682 RADIADOR 1 GENERADOR U1 TR -- 3683 RADIADOR 2 GENERADOR U1 TR -- 3684 RADIADOR 3 GENERADOR U1 TR -- 3685 RADIADOR 4 GENERADOR U1 TR -- 3686 RADIADOR 5 GENERADOR U1 TR -- 3687 RADIADOR 6 GENERADOR U1 TR -- 3688 RADIADOR 1 GENERADOR U2 TR -- 3689 RADIADOR 2 GENERADOR U2 TR -- 3690 RADIADOR 3 GENERADOR U2 TR -- 3691 RADIADOR 4 GENERADOR U2 TR -- 3692 RADIADOR 5 GENERADOR U2 TR -- 3693 RADIADOR 6 GENERADOR U2 TR
+
+Ot: 3588746 - Limpieza de radiadores - Programador: Camilo Montagut - 03/10/2017
+
+Se realiza la limpieza interna del radiador # 6 retirándose las tapas del mismo equipo y con ayuda de la hidrolavadora y un escobillón se hace limpieza de cada uno de los tubos internos del radiador. Se evidencia alto contenido de lodos en las tapas y en todo el interior de todos los tubos del radiador.                                                                                                    
+
+Finalmente se recupera la empaquetadura de las dos tapas del radiador y se realiza el ensamble del mismo equipo
+
+Ejecuta: equipo mantenimiento mecánico UOG

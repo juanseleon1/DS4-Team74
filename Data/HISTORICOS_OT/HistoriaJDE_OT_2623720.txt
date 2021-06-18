@@ -1,0 +1,15 @@
+
+21/10/2014
+Se realiza back up a los reguladores de velocidad.
+Learcilas.
+
+21/111/14 CESAR HOYOS.
+
+Se busca la información y planos de la UPS para identificar que elementos quedan faltando para el montaje, se identifica que hacen falta las bobinas de disparo de los interruptores de corriente directa. Se procede con el proceso para adquirir  las bobinas.
+Se toman medidas  donde estan actualmente instalados los interruptores  para fabricar nuevos frente muertos para los interruptores nuevos.
+
+11/12/14  CESAR HOYOS- LUIS ARCILA.
+
+Se realizan pruebas de transferencia en conjunto con operación de la UPS A hacia la UPS B y de la UPS B hacia el BYPASS para verificar que queden desenergizadas las UPS A y B  quedando la carga alimentada por el BYPASS para cambiar las protecciones con las UPS apagadas.
+
+Queda pendiente programar el cambio de las protecciones que se puedan cambiar mientras llegas las bobinas de disparo de los interruptores de corriente directa.

@@ -1,0 +1,11 @@
+MAYO  21  DE 2019 OT: 3837842  PROGRAMÓ: JGUINGUL EJECUTARON: ALEXANDES VILLA Y ANDRÉS YEPES
+Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control Sistema Regulación de Velocidad
+Ajuste y limpieza sensores de velocidad y posición en el sistema de regulación de Velocidad
+Tablero: Regulador Electrónico Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 1 0 0.2 0824 26 26 4 2201248 50 52 7.5 4201672 76 77 11.2 6402098 100 104 15 880
+Instrumento 1: Posición Inyector (%) 
+Instrumento 2: Posición Deflector (%)
+Instrumento 3: Posición Limitador (%) 
+Instrumento 4: Potencia Activa (MW)
+Instrumento 5: Rotación (rpm) 
+
+

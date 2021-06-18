@@ -1,0 +1,5 @@
+2018/10/29 RUBEN ARBOLEDA
+Se crea OT para realizar mantenimiento preventivo a la valvula de admisión de la Unidad 2
+
+2018-10-29 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778718, PASO:1          
+Se realizó mantenimiento preventivo a la válvula de admisión de la Unidad 2

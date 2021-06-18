@@ -1,0 +1,7 @@
+2015-04-24. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR PORQUE ESTANDO LA UNIDAD PARADA SE REGISTRA EN TABLERO +TT5.2 UN PORCENTANJE DEL 50% DE LAS RPM. EN LA O.S SE REGISTRAN 260.69 RPM.
+
+
+2015-04-24
+Se reinicia regulador de velocidad, Queda regulador trabajando en condiciones normales. 

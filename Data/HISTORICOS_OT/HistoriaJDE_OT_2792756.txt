@@ -1,0 +1,11 @@
+
+JUNIO 11 DEL 2015 / ORLANDO CORREA S
+
+Los Mvares de la unidad T1 empezaron a oscilar constantemente, lo que le causó paro de emergencia por falla grave regulador de tensión.
+
+12/OCTUBRE/2015
+Despues de hacer un seguimiento minucioso a la oscilacion de los MVAR se analiza la logica de control del PSS y la respuesta del regulador frente a la consigna generada desde el control. Se procede por oportunidad a cambiar algunos valores de ganancia y tiempos de respuesta. 
+Se realizan pruebas hasta maquina energizada y se comprueba la correcion de la a la falla.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

@@ -1,0 +1,7 @@
+2019/01/18 JUAN C DAURTE MUÑOZ.
+
+IDENTIFICAR Y, CORREGIR FUGA DE ACEITE POR COMANDO AGUJA.
+
+2019/01/18 DIEGO BEDOYA
+Se verifica la fuga y se solicita la unidad para hacer la corrección.  La fuga se presentaba por uno de los empaques de la base de la servoválvula MOOG, el cual tenia desgaste, se procede a cambiar el empaque y a limpiar el sitio donde se genero el derrame de aceite.
+El trabajo fue realizado fue por Andres Alzate, Carlos Yepes.

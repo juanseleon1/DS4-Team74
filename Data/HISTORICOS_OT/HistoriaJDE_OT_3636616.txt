@@ -1,0 +1,6 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Oscar Montoya y Davison Perez.
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de frenos. Se realiza limpieza y verificación de conexiones al motor del colector.
+Trabajo ejecutado por: Oscar Montoya y Davison Perez.
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

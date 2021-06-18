@@ -1,0 +1,15 @@
+03/09/2017
+
+realizar mantenimiento anual segun instructivos
+
+
+
+04/10/2017
+
+Se realiza mantenimiento y limpieza en tablero, IHM y PLC, se realiza verificación de acelerómetros y sensores de vibraciones en los módulos XM de este tablero, para los cojinetes LA y LOA, se toman los siguientes datos. La IHM de este sistema presenta problemas en el TOCH SCREN. 
+VT302 Acelerometro radial 1 cojinete L.A 11,79 VVT303 Acelerometro radial 2 cojinete L.A 11,89 VSS326 sensor angulo de fase velocidad  22,70 VZT304 Sensor Proximidad  radial 1 cojinete L.A 11,39 VZT305 Sensor Proximidad  radial 2 cojinete L.A 12,47 VVT318 Acelerometro radial 1 cojinete L.O.A 12,13 VVT319 Acelerometro radial 2 cojinete L.O.A 11,97 VZT320 Sensor de proximidad cojinete L.O.A horizontal 11,55 VZT321 Sensor de proximidad cojinete L.O.A vertical 11,28 VTT324 Acelerometro cojine L.O.A horizontal  12,14 V
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+  

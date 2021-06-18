@@ -1,0 +1,6 @@
+2015/10/05 JUAN DAVID GARCIA - OSCAR GIRALDO
+Se realizó revision del funcionamiento del puente grúa, ya que se presentó disparo de interruptor y bloqueo del funcionamiento general del puente grúa. 
+
+En la revisión se encontró que el gancho principal completamente arriba, lo que ocasionó un disparo de proteccion termica, el limite superior no actuó. 
+
+Se realizó desarme del bloque de contactos y se armó nuevamente quedando en operacion normal.

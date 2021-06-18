@@ -1,0 +1,12 @@
+ENERO 31-2014
+PLANTA: G4
+UNIDAD: 43
+Descripcion: Falta el instrumento del limitador de apertura en el tablero del regulador electronico.
+
+IFORMO: Gabriel Montaño
+     Hector Patiño
+     Marlon Toro
+     Juan David Gutierrez
+
+FEBRERO 03/2014.
+Se instala instrumento con la medida erronea  para la indicación local del limitador de apertura mientras se realiza la compra, esto con el proposito a la visita que se tiene del seguro a la central el 10 de Febrero de 2014

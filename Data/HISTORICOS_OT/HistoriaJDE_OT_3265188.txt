@@ -1,0 +1,45 @@
+01/10/2016
+REALIZAR ADECUACION DE MODULOS IN DIGITALES SINCRONIZACION EVENTOS GPS, PARA CORREGIR FALLAS DEL MONTAJE.
+
+
+01/10/2016
+se realiza seguimiento de cableado reserva en las tarjetas IN DIGITAL del PLC, este no se cableo a las borneras se realiza seguimiento de estas señales y se instala bornera para conexion. esta accion no indispone la unidad.
+Realizado por Wtobonl
+
+02/10/2016
+se  continua con la adecuacion de señales GPS para los modulos de entradas digitales, se instala el cableado y borneras, ademas de cablear las señales en el GPS para enviar la sincronizacion de los eventos en el protocolo ERT 854
+Realizado por Wtobonl
+
+20/10/2016
+
+A continuación las actividades realizadas el día de hoy para la finalización
+
+1. Verificación de la licencia de Vijeo Citect v7.5 y Vijeo Historian 2016.
+2. Configuración servicio NTP en el servidor y sincronización de la hora del PLC Quantum U2.
+3. Escritura de la hora desde PLC Quantum U2 a PLC Premium U1 y U3 vía modbus TCP/IP.
+4. Escritura de la hora de los PLC Premium U1 y U3 a los TSX.
+5. Configuración y prueba de la alarma en Vijeo Citect de perdida de comunicación entre el Premium y TSX U1 y U3.
+6. Verificación de las señales de soe que se presentan durante la operación en Vijeo Citect e Vijeo Historian.
+7. Configuración del Servidor de Vijeo Citect en la Workstation de la sala de operación.
+8.  Instalación del Unity V11 en la Workstation de la sala de operación.
+9. Configuración de doble pantalla en Workstation de la sala de operación.
+10. Backup de los 3 PLCs en Unity.
+
+
+Anexo los Backups de los programas de los PLC Premium de las U1,U2 y U3 en STU y XEF.
+Debe tenerse en cuenta que estos PLCs no tienen memoria de respaldo, se recomienda adquirirla.
+
+Actividades no realizadas por funcionamiento de las máquinas
+11. Configuración de la transferencia automática del Hot Standby (no parte del alcance)
+
+Soporte 
+12. Verificar que no haya un firewall o algún servicio bloqueado entre el Workstation y el servidor por parte de EPM.
+
+
+Realizado por Wtobonl 
+
+terminada cerrar
+
+
+
+

@@ -1,0 +1,16 @@
+
+2017/07/04 _ CARLOS ENRIQUE MONCADA. OT N° 3507467.
+Se abrieron automáticamente los circuitos celda K05 y K07 (llegadas barra 1 y 2 - 13.2 kv), por apertura del transformador de 20 MVA en S/E Guadalupe IV.
+
+Se realizó transferencia automática de los servicios auxiliares a través de plantas de emergencia.
+
+Realizó: Walter Gómez (turno 1).
+
+--------------------
+
+SALE DE SINCRONISMO LA UNIDAD 2 POR PARO RAPIDO; FALLA EN LOS SERVICIOS AUXILIARES.
+EVENTOS ASOCIADOS FALLA SUBESTACION 220 KV GUADALUPE IV, ALARMA POTENCIAL FASE S
+
+FECHA: JUNIO 06 /2017.
+
+SOLICITANTE: TURNO 1

@@ -1,0 +1,20 @@
+FECHA: 2018-05-06 OT N° 3719139 MTTO: ELÉCTRICO PROGRAMÓ: DANIEL PALACIOS OCHOA
+EJECUTÓ: JULIAN GIRALDO
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+EN ESTA OT SE REGISTRAN LAS PRUEBAS DE DISPAROS DE LAS PROTECCIONES DE UNIDAD P33: PAROS DE EMERGENCIA 86E1 Y 86E2, PARO RAPIDOS 86R, Y PAROS PARCIALES 94 P2, SIMULADO LAS DIFERENTES FALLAS EN LOS EQUIPOS AUXILIARES DE UNIDAD,EN LAS UNIDADES GENERADORA Y BANCO DE TRANSFORMADORES.
+INFORME MTTO BIENAL P33 28 DE NOVIEMBRE DE 2018
+A las 23:04 Se entrega en operación la unidad Porce 33, después de realizar el mtto bienal 
+Trabajos realizados:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares).
+ Inspección mecánica del generador (estator y rotor lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina (distribuidor, cámara espiral, resane de alabes fijos) cambio de patines axiales No 3 y radiales, No 1, 2, 7, 8, y 9.
+ Inspección metrológica a la unidad No 3 de Porce 3.
+ Se instala IHM nueva en el Tablero control frenos. Porce 33.
+ Pruebas eléctricas al rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de unidad (Paro rápido 86R, paro de emergencia 86E). Acompañado por Juan David Granada y Carlos enrique Arango.
+ Mantenimiento semestral eléctrico, mecánico y electrónico.
+ Medida de resistencia de aislamiento rotor: Antes 240 kilohmios y después 3.8 megaohmios.
+ En turbina Pendiente corregir fuga en buje superior No 8 y 18.                                                    Consignación No @147760, OT 3779285.                                                                                   Informó: 
+Jefe De Trabajo: Luis Federico Álvarez A.
+Lideres Y Tecnólogos: Daniel Palacios, Néstor Ochoa, Carlos Moncada, Walter Tobón, Cristian Gómez, Richard Jiménez.

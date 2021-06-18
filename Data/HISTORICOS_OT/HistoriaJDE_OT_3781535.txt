@@ -1,0 +1,21 @@
+05/12/18 CESAR AUGUSTO HOYOS HENAO.
+05/12/18 CESAR AUGUSTO HOYOS HENAO.
+Realizar medida de aislamiento a los devanados del transformador antes de la puesta en servicio.
+
+2018/11/13 RUBEN ARBOLEDA
+Se cierra la OT sin costos, se ejecutó en la OT: 3769458 con el siguiente anexo: 
+
+2018-11-07 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3769458, PASO:1          
+Se realizó Mantenimiento preventivo al transformador del generador asincrónico, se realizó limpieza general y se realizó medidas electricas con los siguientes resultados: 
+Lado de Baja: 68,5GOhm, tensión aplicada: 2,500Voltios
+Lado de Alta: 65,2GOhm, tensión aplicada: 5,000Voltios
+Resistencia Óhmica: 
+Lado de baja: 
+RS: 30,81mOhm, 1,020Amperios
+ST: 23,95mOhm, 1,020Amperios
+TR: 22,56mOhm, 1,020Amperios
+
+Lado de Alta: 
+RS: 597mOhm, 101,7mAmperios
+ST: 586mOhm, 101,7mAmperios
+TR: 589mOhm, 101,7mAmperios

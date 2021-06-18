@@ -1,0 +1,13 @@
+12/08/2018 María Isabel Arias Rendón
+
+La unidad 1 viene presentando altas vibraciones, motivo por el cual se había retirado de la oferta para AGC. Luego de varios días de no tener generación con esta unidad debido al plan de generación por el área comercial, se puso nuevamente en operación y se realizaron nuevamente medidas de vibración encontrando que habían aumentado aún en carga nominal de 70MW. Las mediciones fueron tomadas tanto con el equipo Viber A de la central como por la Unidad de Operación y mantenimiento y con ambos equipos fue posible concluir que hubo aumento en las vibraciones. 
+Por este motivo se debe proceder a realizar apriete de los tornillos horizontales ubicados en ambas juntas estatóricas a fin de mejorar la condición de vibraciones hasta que se pueda dar solución definitiva durante el ovehaul programado para el mes de octubre. 
+
+
+
+RESPONSABLE DE CIERRE:
+JOHNSON GOMEZ
+
+FECHA :18 DE AGOSTO DE 2019
+SE CIERRA OT AL SUSPENDER TRABAJO  POR FALTA DE RECURSO PARA LA EJECUCION.
+

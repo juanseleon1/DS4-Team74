@@ -1,0 +1,29 @@
+25/06/2018 DIEXER CARO
+SE CREA ORDEN DE TRABAJO PARA EL CAMBIO DEL INDICADOR DE NIVEL DEL CONDESADOR UNIDAD 3
+
+MEDIDOR INDICADOR DE NIVEL CONDESADOR U3
+
+Medidor de nivel magnético tipo BNA-S
+cámara en acero inoxidable
+Presión de trabajo: 28 Bar 
+Temperatura: -10 ºC a 60 ºC 
+densidad del fluido 1000 kg/m3 
+presión de prueba: 41 bar 
+Dimensiones de la cámara OD 60.3 x 2 mm Acero inoxidable 316 Ti (EN 1.4571) conexión de proceso: rosca Hembra ½ NPT 
+Distancia de C a C: 920 mm
+Rango de Medicion:920 mm
+Parte superior de la cámara: Tapa de tubería 
+Parte inferior de la cámara: Brida KSR tamaño OD130 mm PN40
+Conexión de Drenaje: tapón de drenaje ½ BSP
+Flotador: ZTS150/PN4/R48H
+Indicador de nivel: BMD-sa, carcasa de aluminio con rodillos de plástico
+Elemento de amortiguación: muelle amortiguador, fondo con tapa
+Junta(s): sigraflex Universal pro
+Empernado: serie M Acero Inoxidable 316 (1.4404/A4-70)
+Distanciador: superior (T): 100 mm
+Stand-off interior (U): 200 mm
+Distancia lateral(X) 90 mm
+Placa de identificación en laser de aluminio impreso con TAG: 470-LG-9062
+
+CARLOS ORTEGA 21/07/2018
+CONSULTAR CON DIEXER CARO PROCESO DE COMPRA

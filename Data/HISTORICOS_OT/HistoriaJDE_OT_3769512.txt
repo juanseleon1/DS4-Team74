@@ -1,0 +1,5 @@
+MANTENIMIENTO GENERAL REGULADOR HIDRAULICO CENTRAL PORCE 2.
+
+fecha:10/10/2018 ot: 3769512 PROGRAMO R JMENEZ ,EJECUTO  frank cordoba
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES del tablero de  potencia de la estacion hidraulica de la unidad,  Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación.
+. 

@@ -1,0 +1,7 @@
+2018/07/03 RUBEN ARBOLEDA
+Ot creada para corregir punto caliente en UMA5
+
+La temperatura de los cables de la salida del contactor se encuentran en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 11.1°C, lo cual implica una probable deficiencia en su operación, se anexa el informe.
+
+2018-07-03 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3743499, PASO:1          
+Se realizó mantenimiento correctivo a la UMA 5 se deja en condiciones normales

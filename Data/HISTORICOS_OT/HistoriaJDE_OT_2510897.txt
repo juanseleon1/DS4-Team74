@@ -1,0 +1,19 @@
+MAY 2/2014 OT: 2510897 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edisson Hernández.
+Fue corregido el punto con aumento de temperatura en el borne del interruptor de la Fase R.
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+
+21/04/2014
+
+
+SE PLANEAN TRABAJOS PARA CORREGIR EL PUNTO CALIENTE ENCONTRADO, POR OPORTUNIDAD EN LA NO GENERACIÓN DE LA PLANTA .
+
+
+
+
+
+ABRIL 21 DEL 2014 - WILSON ARANGO 
+
+ Cargador Baterías 1 C/M G4, presenta punto caliente en fase R, se requiere normalizar para que no falle la Barra 1 de 125 Vdc G4.
+

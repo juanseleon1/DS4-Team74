@@ -1,0 +1,14 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  COJINETE SUPERIOR UNIDAD GENERACION TRONERAS
+
+18/DICIEMBRE/2013
+MANTENIMIENTO ELECTRONICO PREVENTIVO SEMESTRAL
+Se realiza limpieza al sensor de nivel y se revisan sensores de vibración, dejan calibrado en CSPL 9.14 VDC  y el CSPR 8.99 VDC. 
+Nivel de aceite cojinete superior se encontró en 393.1  no se le adiciono  aceite y referenciado con la varilla: el nivel patrón es 375mm.
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina según el formato interno que el grupo electrónico está manejando, que se encuentra en la siguiente ruta:
+ \\Wperezg5\MTTO UNIDADES GPEPORCE\MTTOTRON2012. <file:///\\Wperezg5\MTTO%20UNIDADES%20GPEPORCE\MTTOTRON2012.>
+
+Se realizó limpieza e inspección visual a las RTD del cojinete. 
+Se realiza mantenimiento preventivo, limpieza y verificación a los conectores de las rtd del cojinete.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Fredy Duarte - Marlon Carmona

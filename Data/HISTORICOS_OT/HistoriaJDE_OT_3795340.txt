@@ -1,0 +1,9 @@
+14/12/2018 15:47.
+
+Se presenta salida forzada de la Unidad a las 15:08 por perdida de señales de presión y nivel en Estación Hidraulica.
+
+Realiza e informa Turno 3 - Mauricio Caicedo - Wilson Arango.
+
+Se realiza cambio de modulo likin Divice PL810.
+
+Ejecuto: Grupo mantenimiento electronico.

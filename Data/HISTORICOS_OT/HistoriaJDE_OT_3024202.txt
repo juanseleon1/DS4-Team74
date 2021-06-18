@@ -1,0 +1,12 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+03/03/2016
+MANTENIMIENTO PREVENTIVO TRIMESTRAL ELECTRONICO
+
+Se realizo inspección y limpieza a los sensores y conectores de la válvula de admisión, desmontando los transmisores de presión aguas arriba y aguas abajo de la válvula para limpiar y quitar la obstrucción por suciedad.
+Se realizo limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los sensores inductivos de estado de la válvula, comprobando su correcta visualización en el sistema de control.
+Se recalibra el sensor de sellos aguas arriba, puesto que el grupo mecánico cambio la válvula de operación de sellos.
+
+Ejecuto: Francisco Gonzalez - Alvaro sanchez - Duban Agudelo
+Programador: Oscar Arango

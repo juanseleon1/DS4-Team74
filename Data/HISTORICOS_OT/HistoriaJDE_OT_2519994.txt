@@ -1,0 +1,29 @@
+Tarea: 
+Realizar prueba de tranferencia automática en Distribución General 2 (DG2). 
+
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2519994
+Se realizó revisión de tranferencia automatica abriendo beraker en DP2 Celda 3 con marca MCB5
+
+No se realizo tranferencia, solo se abrio el interruptor QF1 (Potencia DP2), se realizo prueba se señal de control, se encotró en funcionamiento normal, se evidenció que el Push on del interruptor estaba actuando normalnete (Pulsador verde, propio del interrutor). 
+
+Se normalizó tensión por DP2. 
+
+Se realizó cambio del interruptor QF2 por el de la DG1, para realizar prueba. 
+
+Se realizó revisión de tranferencia automatica abriendo beraker en DP2 Celda 3 con marca MCB5
+
+Operó normalmente. 
+
+Se analizó el interruptor y se encontró trinquete de resortes cargados en posición anormal, se movio manualmente y se hizo prueba fuera del cubiculo, luego se normalizó los interruptores en su posición original y se realizo prueba de tranferencia automatica
+
+Se dejó en funcionamiento normal.
+
+Se registró los tiempos de: 
+Tranferencia hacia respaldo (DP2): 5 segundos
+Tranferencia hacia principal (DP1): 1 minuto
+
+Duración: 2 Horas
+
+
+

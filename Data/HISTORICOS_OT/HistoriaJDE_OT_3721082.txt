@@ -1,0 +1,10 @@
+Sabado 05 Mayo /2018
+
+18:48 Sale de sincronismo la minicentral por paro rápido. en la inspeccion del personal de mantenimiento encontraron Falla en el cargador 48 voltios, que ocasiona falla el PLC del regulador de velocidad.
+21:36 Entra en sincronismo la mini central se normaliza cargador 48 voltios Y plc del regulador y queda pendiente revisar por parte electrica.     
+                                                                                      
+Informo: Walter Tobón, Renato Montoya y Oscar Parra
+
+el personal electrico de la central cambiara la baterias por oportunidad. se cierra esta Ot 
+
+terminada 

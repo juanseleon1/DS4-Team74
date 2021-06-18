@@ -1,0 +1,54 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-02 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3704915, PASO:1          
+Se realizó adecuación de herramientas y equipos para iniciar el desarme de la excitación del mantenimiento mayor de la Unidad 7, 
+
+2018-04-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3704915, PASO:2   
+Se inició con el desarme de la excitación de la Unidad 7, se desmontó la campana verde
+
+2018-04-02 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3704915, PASO:2.1          
+Se realizó manejo del puente grúa para el desarme de la Unidad numero 7
+
+2018-04-02 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704915, PASO:3          
+Se realizó medida de aislamiento a la Unidad 7 antes de limpiar, 
+resultado: Rotor + barraje: 
+Rotor: <500KOhm
+Barraje: <500KOhm
+
+2018-04-02 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3704915, PASO:4          
+Se desconectó los cables de excitación de la Unidad 7
+
+2018-04-02 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704915, PASO:5          
+Se extrajo el soporte porta escobillas de la Unidad 7
+
+2018-04-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704915, PASO:6          
+Se extrajo el eje de anillos de la unidad 7, para realizar ésta actividad se realizó medida de aislamiento con anillos conectados al rotor, se extrajo los tonillos pasante del eje de anillos y se medía aislamiento al rotor así: 
+Rotor Completo <500KOhm
+Retirar tornillo 1: <500KOhm
+Retirar Tornillo 2: <500KOhm
+Retirar tornillo 3: <500KOhm
+Retirar tornillo 4: 6.23 GOhm
+Anillo Inferior independiente: <500KOhm
+Anillo Superior independiente: <500KOhm
+
+2018-04-09 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704915, PASO:7          
+Se realizó limpieza general a los tornillos de la excitación con el fin de identificar si hay algunos para cambiar.
+
+2018-04-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704915, PASO:8     
+Se realizó el montaje del barra superior del rotor, se presentó dificultad para insertar los tornillos debido a que el movimiento del puente grúa Badony realiza un desplazamiento de unos 2 centímetros, se sacó el eje y se instaló una diferencial para controlar el movimiento con mejor precisión. se insertó los 4 tornillos y se armó el barraje, posteriormente se pintó con pintura aislante en aerosol.
+
+2018-05-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704915, PASO:9          
+Se inició con el armado de la excitación de la unidad 7, montaje de eje de anillos
+
+2018-05-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704915, PASO:10          
+Se continuó con el armado de la excitación de la Unidad 7, se instaló la campana soporte porta escobillas y se inició con la adecuación de las bandejas portables de excitación.
+
+2018-05-05 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704915, PASO:11          
+Se realizó el montaje de la excitación de la unidad 7, se adecuó los cables y se ajustó el soporte porta escobillas. 
+
+2018-05-06 REALIZÓ: EDWAR ALEXANDER LONDOÑO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704915, PASO:12          
+Se finalizó con el armado de la excitación de la Unidad 7, se realizó adecuación de cable del sistema de corrientes por los cojinetes, se cambio la escobilla ya que la instalada no se tiene registro de cambio quedando en condiciones normales
+
+2018-05-17 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704915, PASO:13          
+Se realiza la instalación de la campana verde en la unidad 7, adecuación de iluminación y se dejó lista para arranque.

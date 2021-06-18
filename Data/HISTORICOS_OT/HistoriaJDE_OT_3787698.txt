@@ -1,0 +1,24 @@
+- FECHA : MIERCOLES NOV. 28 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - ALEX HINCAPIE - VICTOR MESA
+- ASOCIADO A LA OT : 3787698
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+                       -  Medidas antes de la limpieza
+                          * Rotor + Barraje = 34 Moh
+                          * Rotor = 34.6 Moh
+                          * Barraje = 35 Moh
+
+                        - Medidas despues de la limpieza 
+                          * Rotor + Barraje = 78 Moh
+                          * Rotor = 82.9  Moh
+                          * Barraje = 
+                             ** Anillo inferior = 19.5 Goh
+                             ** Anillo superior = 30.0 Goh
+
+                         - Aislamiento cables desde interruptor de campo hacia anillos rosantes = 4.5 Moh
+
+                          *** IMPORTANTE : el aislameinto de los cables entre el interruptor de campo y la llegada ...punto de 
+                                                              conexión llegada anillos rosantes está en 4.5 Moh por la alta contaminación. Se limpió 
+                                                              pero  no subió más la medida.
+
+

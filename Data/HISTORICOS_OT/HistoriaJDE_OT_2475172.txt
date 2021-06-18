@@ -1,0 +1,4 @@
+En la ejecucion de la OT 246 86 98 se encontró falla en sensor 33MLVC-1, el cual se realizó cambio en esta OT. 
+
+
+Realizó: Oscar Giraldo - Victor Zuleta

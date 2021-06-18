@@ -1,0 +1,12 @@
+SEGUN BITACORA ONLINE: 
+
+Evento: Calentamiento en Bombas
+ 2013-11-06  20:55 Categoría:  Salida Forzada
+Usuario: Carlos Hdo. Salazar Vallejo
+Durante el proceso de paro de la Und. 6, se presenta calentamiento en la bomba #2 (respaldo). Se nota ruptura del medidor de presión del circuito hidráulico y por ende leve fuga por este y por el filtro contiguo.
+Se abre y bloquea su alimentación eléctrica así como 4 válvulas de paso.
+
+2014/09/30 RICAURTE LOPEZ - EDWAR LONODÑO - JHONATAN USME
+Se realizo la puesta en servicio de la motobomba principal del sistema de lubricación forzada Unidad 6, adicionalemnte se realizó la revisión de la motobomba de respaldo (Estaba seleccionada como principal), se identificó un correcto funcionamiento, se dejó en automático y dispinible para arranque. 
+
+Se recomienda cuando la unidad pare, realizar verificación por parte de operación para que la presión no supere la presión de 120Kg/cm2. 

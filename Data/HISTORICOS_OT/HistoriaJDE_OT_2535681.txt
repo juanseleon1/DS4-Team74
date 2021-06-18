@@ -1,0 +1,34 @@
+JULIO 26 DE 2014.
+
+Por pega del distribuidor en el momento de subir carga se engrasaron patines del mismo logrando asi despegar el distibuidor y subir carga. El engrase se hizo abriendo y cerrando el distribuidor en mando manual para garantizar la lubricacion uniforme.
+Nota: Queda en observación.
+Autorizó: Ingo Bianey Bravo
+Informó: Sergio Ramírez
+Realizó: P. Mtto 2 mecánicos.
+
+MAYO 27 DE 2014.
+
+Referente U1G4, se le cambio tarjeta AMP2, se calibraron los lazos de control de la válvula distribuidora y el distribuidor. Se lleva la maquina hasta girando, queda trabajando bien.
+ Informo y ejecutó William Lopera y José Montoya.
+
+
+JULIO 25 DE 2014.
+
+Se ajustaron lazos de control del distribuidor y se verificó la posición en diferentes consignas se gira y se sincroniza la unidad.
+Informa: José Montoya.
+La unidad presentó problemas para sincronizar por posición del distribuidor, lo que originó una desviación de 49 Mw. para el periodo 20
+
+Sábado mayo 24 de 2014
+Operación GlV
+Esta válvual está actuando repetidamente, revisar y corregir.
+
+PROGRAMADOR: CAMILO MONTAGUT - 26/05/2014
+
+SE VERIFICA EL CORRECTO FUNCIONAMIENTO MECANICO DE LA VALVULA DE ALIVIO, POSIBLES FUGAS EN LA VALVULA DISTRIBUIDORA Y  MOVIMIENTOS DEL DISTRIBUIDOR, SIN ENCONTRAR PROBLEMA ALGUNO
+
+SE DRENA EL SERVOMOTOR DEL DISTRIBUIDOR Y NO SE ENCUENTRA AIRE EN EL SISTEMA
+
+NOTA: SE REDIRIGE ESTA OT AL EQUIPO ELECTRONICO Y SE RECOMIENDA VERIFICAR INFORMACION REGISTRADA EN LIBRO DE OPERACION GIV DE LA UNIDAD 3 (MARZO 6) QUE DESCRIBE EL CAMBIO DEL VARIOMETRO DE LA VALVULA DISTRIBUIDORA DE ESTA UNIDAD
+
+EJECUTA: CAMILO MONTAGUT
+      CARLOS TORRES.

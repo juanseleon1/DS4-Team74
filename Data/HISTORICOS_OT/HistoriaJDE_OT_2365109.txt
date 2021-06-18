@@ -1,0 +1,6 @@
+
+  AGOSTO 27 DEL 2013 / JEOVANNY CORREA 
+El cojinete guía inferior temperatura metal segmento15 de la unidad 5 de Guadalupe III se encuentra alarmado, su alarma es 70 ºC y esta en 75.3 y su disparo es en 80 ºC.
+
+Se cancela esta ot por ejecutarse en la ot 2608045 OM cojinete inferior mediante la cual se desmontaron los segmentos y se calibraron nuevamente
+.

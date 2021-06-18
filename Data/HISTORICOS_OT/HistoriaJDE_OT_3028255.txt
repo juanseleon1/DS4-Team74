@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: FEBRERO 23 2016
+EJECUTANTE:PEDRO ROBAYO
+
+
+
+Por falla comunicaciones del AG3 se procede a cambiar la fuente 102A2 y se realiza prueba de arranque, despues de 34 minutos se presenta muevamente la alarma, por lo que se procede a retirar el modulo 1.0 del AG2 y se coloca en el AG3 en reeplazo del 9.0. Se arranca el AG y queda en operación.

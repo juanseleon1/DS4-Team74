@@ -1,0 +1,26 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+DESMONTAR INSTRUMENTACION ESTATOR
+
+08/ABRIL/2014
+Se realiza la desconexion, marcacion de los cables encauchetados de las RTD´s de Temperatura de Entrada y Salida de Agua-Aire de los radiadores del recinto del generador.
+Se realiza la marcacion de cada cable, flexi-conduit y badeja para su identificacion.                
+Se comienza retirando los cables  desde cada RTD hasta la bandeja inferior (piso del generador), con el fin de permitir la extraccion del estator.                                                                      
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+09/ABRIL/2014
+Se organiza cada conjunto de cables dependiendo del lugar de distribuccion en el estator, para facilitar su posterior instalacion.
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+10/ABRIL/2014
+Se finaliza el retiro de los cables encauchetados alrededor del estator.                                        
+Se desacopla la bandeja portacables y se retira para la extraccion del estator.
+Se identifican en la pantalla de control y se marca cada cable encauchetado de las RTD´s del devanado del Estator y nucleo del estator.
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+11/ABRIL/2014
+Se realiza el levantamiento y la distribuccion de las RTD´s nuevas que se instalaran en el devanado.  
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+12/ABRIL/2014
+Se desmontaron las 2 RTD de Aceite del sistema de Lubricacion Forzada.
+Ejecuto: Fredy Duarte

@@ -1,0 +1,15 @@
+- FECHA : MIÉRCOLES FEBRERO 04 DE 2015
+- REALIZÓ : GRUPO ELECTRICISTAS PLAYAS
+- ASOCIADO A LA OT : 2683850
+- ASUNTO : HACER MANTTO MP
+                       1. El día miércoles 04 de febrero se inicia el mantto MP  del banco de baterías  buscando inicialmente 
+                           completar los niveles de agua puesestaban en los niveles mínimos permitidos.
+                      2. Después de completar los niveles se sube a tomar las diferentes variables de voltaje , temperatura y 
+                          densidad. 
+                      3. Los datos tomados quedan registrados en la planilla correspondiente y archivados en su respoectiva 
+                          carpeta para los controles de calidad. 
+                      4. Todos los valores  promedio están :
+                           4.1 Densidad : entre 1250 y 1300 mlgr / cm cuadrado.
+                          4.2 Voltajes por celda promedio  : 26  v
+                          4.3 Temperatura : 25 ° C
+                        

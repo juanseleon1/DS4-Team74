@@ -1,0 +1,13 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+REGISTRAR VALORES EN LA OT
+
+----------------------------
+
+FECHA : 06/08/2016 OT # 3162631 PROGRAMÓ: CRISTIAN A GÓMEZ  EJECUTÓ : OLGA VIANA - JHONATAN ARANGO
+Se realiza mantenimiento  GENERAL ELÉCTRICO SEGÚN INSTRUCTIVO GCP2E0017. SE VERIFICA EL TABLERO de CONTROL,  SE APLICA LIMPIA CONTACTOS EN bornes DE POTENCIA Y terminales. SE REVISA EL  cableado Y LOS MOTORES de las bombas DE circulación de agua pertenecientes al sistema sello turbina generador (S2).  No se encuentran averías NI FALLAS en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+
+ANEXO PLANILLAS:  \\epm-dc07\2000\11. INFORMACIÓN PORCE II\03. MANTENIMIENTO\02. MTTO ELECTRICO\01-UNIDAD Nº1\SELLOS TURBINA

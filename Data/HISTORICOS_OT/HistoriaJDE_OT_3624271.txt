@@ -1,0 +1,10 @@
+14/10/2017
+PREVENTIVO ELECTRICO NEUTRO TIERRA UNIDAD GENERACION GUADALUPE 3
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+
+Se realizó el mantenimiento según el instructivo GCG3E0005. Se revisó el barraje del neutro, se revisan y se reaprietan conexiones, transformador del neutro, resistencias de disipación y se realizó limpieza en toda la barra en general. No se evidencian anomalías.
+
+Nota: se reapreta punto de conexion en el neutro, que según la termografía presentaba punto caliente. 
+
+Ejecutó: Edgar Rodas-Edinson Hernandez 
+Programó: Carlos Andres Forero

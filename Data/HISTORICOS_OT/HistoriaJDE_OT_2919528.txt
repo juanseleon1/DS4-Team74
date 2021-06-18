@@ -1,0 +1,5 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-10-29
+OT PARA REALIZAR FILTRADO DE ACEITE DE TANQUE SUMIDERO DEL REGULADOR DE VELOCIDAD
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2015-11-09
+Se realiza filtro-prensado de aproximadamente 110 galones de aceite TURBINE 68 del tanque sumidero de la estación hidráulica del regulador de velocidad de la unidad. Se limpia interior del tanque sumidero. Se instala visor de nivel  e instrumento para la medición del nivel del tanque.

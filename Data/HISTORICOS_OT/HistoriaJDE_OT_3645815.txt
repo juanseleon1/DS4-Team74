@@ -1,0 +1,16 @@
+
+2017/11/16 _ CARLOS ENRIQUE MONCADA. OT N° 3645815.
+REVISAR SENSORES CONFIRMACIÓN FRENOS DESAPLICADOS U1 EL SENSOR DEL RELE LS1 NO ESTÁ CONMUTANDO 
+INFORMA :ADRIAN NARVAEZ --URIEL CASTRILLON.
+
+2017/11/21 _ CARLOS ENRIQUE MONCADA. OT N° 3645815.
+
+Referente a los frenos de la unidad 1.
+
+Se verifica que la señal de frenos desaplicados no confirman; se revisa el microsuiche LS8, se limpia, se reapreta la bornera interna del microsuiche y se instala de nuevo en su posición.
+
+Se visualiza que la platina que activa el microsuiche se encuentra levemente desajustada, se procede a ajustarla mecanicamente quedando esta y el microsuiche en servicio. Se realizan pruebas de aplicación y desactivación de frenos desde el tablero de control de la unidad funcionando correctamente.
+
+Realizó: Grupo Mecánico, Grupo Electrónico, turno 3.
+Informó: Carlos Moncada
+

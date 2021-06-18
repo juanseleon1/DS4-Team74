@@ -1,0 +1,71 @@
+- FECHA : LUNES MAYO 25 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : WILFER HINCAPIÉ + JEISON ORTEGA
+- ASOCIADO A LA OT : 3123536
+- ASUNTO : EL COMPRESOR N° 1 AIRE INYECCIÓN TURBINA , NO RESPONDE A LOS MANDOS NI A LAS VARIABLES QUE LE FUERON 
+           PROGRAMADAS TANTO PARA ARRANQUE ( 85 PSI ) COMO PARA EL PARO AUTOMÁTICO ( 110 PSI )
+           1. AL INTENTAR ARRANCARLO EN MODO AUTO NO RESPONDE 
+           2. INTENTA ARRANCAR PERO PARECE NO PASA DE ESTRELLA A DELTA 
+           3. SE INTENTA ARRANCARLO EN MODO MANUAL PERO TAMPOCO RESPONDE
+           4. SE HACEN PRUEBAS DE AISLAMIENTO AL MOTOR , ACOMETIDAS Y TODO SE ENCUENTRA NORMAL.
+           5. IMPORTANTE : SE DECIDE HACER EL REPORTE AL PROVEEDOR DEL EQUIPO PORQUE AÚN ESTÁ EN GARANTÍA.
+
+Buenos días estimados compañeros 
+
+Después de entrar a analizar la falla del compresor de inyección de turbina de la unidad 1 les cuento lo siguiente:
+
+Al hablar con Wilfer y comentarme los síntomas que presentaba por mi experiencia se pudo sospechar que el problema estaba en el breaker de potencia del +MCPC1.
+
+Para esto se realizaron las siguientes pruebas:
+
+·Medida de resistencia de aislamiento a tierra con resultado infinito (abierto)
+·Medida de aislamiento entre bobinas con resultado infinito (abierto)
+·Resistencia interna de cada devanado con un promedio de 3.1 Ohmio
+·Se revisa el ajuste  de calibración de las corrientes de cortocircuito y sobre carga del  breaker de potencia del MCPC1  ajustándolo a100 Amp,  (estaba en 100) al darle de nuevo arranque se observa que se continua con la falla.
+·Se decide cambiar de acometida para probarlo con el breaker del compresor 2 permitiendo que el compresor trabaje normal con las siguientes corrientes
+üCorriente de arranque estrella 27 Amp
+üCorriente después en delta y cargando 72.1 Amp  (tener presente que esta corriente fue tomada en la entrada general para esto se debe restar los 3.2 Amp que consume el ventilador y el control) .
+üCorriente en vacío 30.38 Amp. 
+·Se da varios arranques quedando en condiciones normales.
+·So procede a conectar de nuevo la acometida propia y se ajusta la corriente de sobrecarga del interruptor al máximo condición esta que permite arrancar el compresor y operar normalmente; para este escenario queda en observación por si vuelve a dispararse ya que existen antecedentes de que en el campamento de estos breaker han salido defectuosos.
+
+
+Como se había solicitado el servicio del técnico de JJ (Ubeimar Bedoya)  se le solicitó que revisara el funcionamiento del compresor donde él aprueba que el equipo estaba en funcionamiento correctamente.
+
+El  técnico recomienda que se haga una modificación a la tubería de salida para lograr drenar aire en caso de necesitarse probar cada compresor si ser necesario conectarlo al sistema general.
+Se programa la visualización de la presión en la unidad de medida BAR como se había solicitado.
+
+En cuanto al arranque automático del compresor el sistema no arrancaba porque en algún momento habían movido los parámetros del compresor 2 y 3 y también ocurre si alguien lo para el botón deparo razón está que cancela el arranque automático por presión
+
+Nota: se debe corregir la fuga que hay en el filtro de línea del compresor 3 ya que en estos momento provoca que los compresores o el compresor que tiene le rango más bajo de presión arranque más o menos cada hora.
+
+Espero que haya sido claro en este mensaje
+
+Feliz tarde
+
+
+
+De: NORBERTO DARIO PESTANA TIRADO Enviado el: miércoles, 25 de mayo de 2016 2:51 p. m.Para: EFRAIN AUGUSTO VERGARA VARGAS; WILMER DAVID MENDEZ CAROCC: MARIO ALBERTO GONZALEZ BUENO; DIONIS MAURICIO ZAPATA VALENCIA; GABRIEL JAIME URIBE VELASQUEZ; JOHNSON DARIO GOMEZ OSORIOAsunto: Revisión Compresor No. 1 Inyección de aire U1PL - Problema arranque.
+
+Estimado señores respecto a la atención a la falla del compresor denominado No. 1, asociado a la inyección de aire de la turbina de la U1PL, se encontró lo siguiente:
+
+1. Estando en el rango de trabajo (85 psi - 110 psi) o incluso por debajo del límite inferior de presión, cuando el equipo es arrancado, se presenta lo siguiente:
+
+- El compresor arranca normal hasta la etapa Y del arrancador.
+- En el momento de hacer la conmutación a la fase  del arranque, se presenta el disparo por sobrecorriente en el alimentador. 
+
+2. Se revisó el cable y el interruptor de la acometida desde el CCM y no se encontró ningún problema.
+
+3. Dado el mecanismo de falla descrito, se conceptúa que el problema está asociado al arranque del compresor y/o un defecto propio del equipo y su configuración, el cual amerita que sea revisado por personal técnico del fabricante. 
+
+Se anota igualmente que no hay ningún instructivo en sitio (en los gabinetes de los equipos) y que ni personal de Operación ni de Mantenimiento tiene clara la operación de los tres compresores. Se recomienda como requisitico para hacer la entrega definitiva a Operación, una capacitación para el personal de la central, incluyendo descripción de la topología del circuito de aire, parametrización, acceso a las ventanas protegidas con clave, etc. 
+
+Dado que en la central se ha manejado históricamente las unidades de presión en bares (b), se sugiere, si es posible, que la indicación de este parámetro en los compresores, sea en bares y no en psi. 
+
+Adicionalmente, revisando el sistema completo de compresores, se encontró que los compresores 2 y 3 que arrancan correctamente, no están realizando el arranque automático a pesar que la presión se ubica en valores por debajo del punto de arranque. Se debe revisar igualmente este tema con personal técnico del fabricante.
+
+Saludos!! 
+
+
+
+Norberto Darío Pestana TiradoProfesional Operaciones NegociosGerencia Generación Energia Región Central Unidad Operaciones Zona OrienteSitio Web: www.epm.com.co <http://www.epm.com.co/> Correo: Norberto.pestana@epm.com.co <mailto:juan.salazar.ortiz@epm.com.co>Correo electrónico: epm@epm.com.co <mailto:epm@epm.com.co> Teléfono: (+57-4) 380 90 01Línea de atención: (+57-4) 44 44 115 Fax: (+57-4) 380 91 05 - 264 7170Carrera 58 # 42-125. Medellín, Colombia Móvil: (+57) 301 755 6302 

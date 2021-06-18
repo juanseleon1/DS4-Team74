@@ -1,0 +1,14 @@
+SE GENERA OT PARA ATENDER PARO RAPIDO POR PRESIÓN DIFERENCIA DE LAS BOMBAS DEL SELLO DE TURBINA
+
+FECHA: 2018-09-07  OT: 3763479   PROGRAMÓ: CRISTIAN GÓMEZ
+EJECUTÓ: J JADER ORREGO - IVAN CANO - CARLOS MONCADA
+"Referente al paro rápido de la unidad N°1: Por presión diferencial de las bombas del sello del eje, se observa que el PLC ordena apagar las bombas del sello del eje. Se revisa en el SCADA y se identifica una avalancha de alarmas, estación hidroneumática paro bomba AG1 ON/OFF, este evento satura el buffer de procesamiento del PLC generando la orden de apagar las bombas ALA1 y ALA2 del sello de turbina. En dicho evento, también se observó una orden de paro de las bombas de circulación de aceite del cojinete combinado ocasionando un incremento de la temperatura del aceite de la cuba.
+
+En el recinto de turbina se observa fugas de aceite del cojinete inferior, impregnando la instrumentación del mismo, señales análogas, nivel del aceite cuba, presión IQ1, IQ2, temperatura del sello del eje y aceite cuba. Se realiza limpieza y se reajusta la tornillería, se hace limpieza general a todo el recinto de turbina. SE REALIZA LIMPIEZA SOBRE LA INSTRUMENTACIÓN. EL FREXI SE ENCONTRABA SIN EL ACOPLE DE LLEGADA LO QUE OCACIONABA INGESO DE VAPOR DE ACEITE AL INSTRUMENTO Y LUEGO SE CONDENSABA DENTRO. SE NOSMALIZA LA LLEGADA SEL FLEXI AL INSTRUMENTO
+Queda pendiente hacer seguimiento de la fuga de aceite del cojinete inferior. equipo mecánico
+
+
+
+
+
+

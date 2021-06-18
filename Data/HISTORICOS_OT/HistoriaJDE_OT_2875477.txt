@@ -1,0 +1,8 @@
+XM: VERIFICAR NIVEL Y FUGAS  PREVENTIVO COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+
+Programador: Camilo Montagut - 01/10/2015
+
+Se revisa el nivel de aceite del cojinete y se encuentra en nivel patrón. Se realiza engrase de todas los bielas del distribuidor al igual que limpieza en su superficie
+
+Ejecuta: equipo mantenimiento mecanico GIII

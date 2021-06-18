@@ -1,0 +1,15 @@
+FECHA: JUNIO 16 DE 2016 OT 3149396
+
+EJECUTANTE: HENRY GIRALDO, PROBAYO Y PSOLANO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se coloca el banco de tiristores que se había armado en subestación, este tiene 4 tiristores de los nuevos y dos de los viejos, se deja un funcionamiento el aerogenerador y se presenta falla por Grid error, se desmontan nuevamente los tiristores y se revisan, se encuentra uno de los nuevos malo se cambia y se organizan los tres nuevos en la parte superior y tres viejos en la parte inferior, se colocan en la máquina  y se deja en servicio el aerogenerador.
+
+
+FECHA: JUNIO 17 DE 2016 OT 3149396
+
+EJECUTANTE: HENRY GIRALDO, ELIECER Y ALVARITO PUSHAINA Y PSOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Se desmontan los tiristores y se encuentran dos de los nuevos malos, fase L2 y L3, se cambian por unos viejos y se colocan, se instala el banco de tiristores en el aerogenerador, se espera que sea la noche y que haya bajado el viento para dejarla en servicio, a las 9:00 pm se deja en servicio, responden bien los tiristores pero segundos después se falla por sobre velocidad. Se deja detenida y al día siguiente se da Reset funcionando adecuadamente.

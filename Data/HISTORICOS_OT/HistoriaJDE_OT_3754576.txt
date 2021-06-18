@@ -1,0 +1,4 @@
+
+AGOSTO 13/2018 OT: 3754576  PROGRAMÓ: HGIRALRI EJECUTÓ:  HENRY GIRALDO
+
+Se presentan varios paros por baja presión sistema hidráulico, se verifican las gráficas del paro y se aprecia que la presión del sistema y los frenos de generador baja de forma pareja, la de los Tip´s permanece constante, se inspeccionan las conexiones de las válvulas y la alimentación de 24Vdc, se encuentra la fuente 102A1 con 24,2 Vdc se sube a 24,7 Vdc, esta fuente alimenta la válvula proporcional y otras válvulas del sistema de los frenos principales. Se deja en servicio el aerogenerador.

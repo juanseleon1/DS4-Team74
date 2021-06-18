@@ -1,0 +1,12 @@
+XM: LAVAR RADIADORES, REFRIGERACIÓN GENERADOR
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: CAMILO MONTAGUT.
+
+ Programador: Camilo Montagut - 15/09/2018
+
+Se realiza el retrolavado de cada uno de los radiadores por un espacio de 20 minutos aproximadamente y posteriormente se realiza el proceso de drenado de cada uno de ellos. Finalmente se realiza limpieza del recinto del generador
+
+Ejecuta: equipo mantenimineto mecánico UOG

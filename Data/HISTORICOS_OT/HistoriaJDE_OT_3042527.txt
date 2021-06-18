@@ -1,0 +1,3 @@
+2016/03/17 JUAN DAVID GARCÍA - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó limpieza general al interruptor, medida de los sensores, en la parte de atras no fue posible abrir las puerta ya que la chapa está mala.
+Se probo desde la parte frontal el accionamiento del relé GBD/C, se dejó en condiciones normales. 

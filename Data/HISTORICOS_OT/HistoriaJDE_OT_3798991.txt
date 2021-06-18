@@ -1,0 +1,36 @@
+2019-01-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3798991, PASO:1          
+Se realizó mantenimiento preventivo al recinto de anillos de la Unidad 4, se realizó limpieza y medida de escobillas con los siguientes resultados: 
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 32
+A.S. 2A: 23
+A.S. 3A: 23,4
+A.S. 4A: 23,6
+A.S. 5A: 32
+A.S. 6A: 31,7
+A.S. 7A: 30
+A.S. 8A: 27,6
+A.S. 1B: 23
+A.S. 2B: 29,5
+A.S. 3B: 26,4
+A.S. 4B: 29,3
+A.S. 5B: 29
+A.S. 6B: 22,5
+A.S. 7B: 30
+A.S. 8B: 23,8
+A.I. 1A: 28
+A.I. 2A: 25
+A.I. 3A: 29
+A.I. 4A: 29
+A.I. 5A: 24,5
+A.I. 6A: 22,5
+A.I. 7A: 26,6
+A.I. 8A: 29,8
+A.I. 1B: 26
+A.I. 2B: 26,5
+A.I. 3B: 26,5
+A.I. 4B: 30
+A.I. 5B: 22,2
+A.I. 6B: 24,5
+A.I. 7B: 30
+A.I. 8B: 28
+OBSERVACIONES: Mantenimiento Preventivo Unidad 4, Se realizó el cambio de 5 escobillas.

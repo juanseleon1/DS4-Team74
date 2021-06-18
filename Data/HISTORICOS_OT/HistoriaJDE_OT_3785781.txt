@@ -1,0 +1,21 @@
+MP ANUAL EQUIPOS:
+
+- 2370 EXCITACION U1
+- 2371 EXCITACION U2
+- 2372 EXCITACION U3
+- 2373 EXCITACION U4
+- 2373 EXCITACION U5
+- 2374 EXCITACION U6
+
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+NOVIEMBRE 22 DE 2018
+Se desmonta la cúpula de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, y mantenimiento en general ya que se tiene la posibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio armado, se hacen pruebas antes y después del mantenimiento al inductor, inducido, anillos rozantes y sobre velocidad mecánica para verificar su estado. Después de la limpieza se vuelve a montar la cúpula, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria y en los formatos de pruebas que se llevó durante el mantenimiento anual de la unidad.
+Resultado de aislamiento final con anillos acoplados al rotor.
+
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO GANILLO GSUPERIOR1.78SUPERIOR 6.03INFERIOR1.68INFERIOR 6.87
+Programó: William Lopera
+

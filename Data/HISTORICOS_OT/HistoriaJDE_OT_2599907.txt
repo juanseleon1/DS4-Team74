@@ -1,0 +1,4 @@
+SEP 24/2014 OT: 2599907 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edgar Rodas.
+Se realizó el mantenimiento según el instructivo GCTRE0008.
+
+XE: MEDIR LIMPIAR Y REVISAR NEUTRO GENERADOR

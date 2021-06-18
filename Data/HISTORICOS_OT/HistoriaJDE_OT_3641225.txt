@@ -1,0 +1,16 @@
+
+2017/11/23 DIEGO BEDOYA
+Se realiza la limpieza del recinto de los frenos de la unidad 7, se revisan las bandas de frenado y se encuentran en condiciones normales de operación. Los datos medidos en las bandas de frenado son los siguientes.
+Gato 1: 15.5 mm
+Gato 2: 15 mm
+Gato 3: 16 mm
+Gato 4: 16 mm
+Gato 5: 15 mm
+Gato 6: 15.7 mm
+
+El trabajo fue realizado por: Rodolfo Garcés, Atanasio Jaramillo, Wilder Herrera
+
+
+marzo 30 de 2018 
+ot terminada y cerrada 
+andres ramirez 

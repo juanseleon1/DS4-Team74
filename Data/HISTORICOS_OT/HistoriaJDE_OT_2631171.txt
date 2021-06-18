@@ -1,0 +1,20 @@
+
+4/Nov/2014
+Al momento de darle arranque a la unidad y al llegar a 120 rpm se da paro mecánico  por medidas primarias en el regulador de velocidad.
+Al revisar el programa se encuentra "falla de velocidad" activada.
+Se procede a revisar los dos sensores de velocidad, encontrando fallado el sensor que va hacia el regulador electrónico.
+Se cambia por uno nuevo del almacén, quedando la unidad trabajando en condiciones normales.
+
+Rubén Arboleda 
+Luis Eduardo Arcila
+
+5/Nov/2014
+
+En un arranque de la unidad por parte de operación la unidad saca falla mecánica y medidas primarias del regulador de velocidad.
+Analizando maniobras con operación, la unidad se le dio paro antes de que alcance el 100% de su velocidad nominal.
+Se procede a desconectar los dos sensores de velocidad para normalizar la falla y se conectan de nuevo.
+Se le da arranque nuevamente, dejando llegar la unidad a su velocidad nominal y luego se le da paro, sin presentar ningún problema.
+Se regresa el sensor al almacén y se habla con operación de esta maniobra.
+
+
+

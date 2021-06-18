@@ -1,0 +1,13 @@
+XM: VERIFICAR DESGASTE Y FUGAS, PREVENTIVO FRENOS UNIDAD GENERACION TRONERAS
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: CAMILO MONTAGUT.
+
+ Programador: Camilo Montagut - 15/09/2018
+
+Se limpia el recinto de los frenos y se registra que las zapatas tienen una medida de 19 mm
+
+Ejecuta: equipo mantenimineto mecánico UOG

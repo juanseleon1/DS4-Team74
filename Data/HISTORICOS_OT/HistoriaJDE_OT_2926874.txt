@@ -1,0 +1,12 @@
+2015/11/06
+ABAD RAMIREZ GIRALDO.
+SE PRSENTA OSCILACION DE POTENCIA EN LA UNIDAD 6,ESTANDO COPADA OSCILA ENTRE 60 Y 80 MEGAVATIOS PROVOCANDO ALARMA ESTACION TOTALES CADA QUE OSCILA.
+
+2015/11/09 ANGEL ADONIS CADAVID OCHOA
+SE ASIGNA ORDEN DE TRABAJO AL EQUIPO ELECTRONICO.
+
+2016/Enero/04
+
+Esta unidad deja de oscilar cuando se coloca en 10 Megavares.
+Se está esperando la oportunidad para cambiar la tarjeta de entradas análogas VAI60 del regulador de velocidad y descartar la falla. 
+Learcilas

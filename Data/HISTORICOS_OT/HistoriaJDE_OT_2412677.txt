@@ -1,0 +1,9 @@
+2013/11/09. CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA REVISAR LOS SUICHES DE CONTROL DE COMUNICACIONES YA QUE PRESENTA SALIDA DEL ANILLO DE COMUNICACIONES EN LOS SUBSISTEMAS DE LAS UNIDADES DE GENERACION.
+
+
+15/11/2013
+
+Los suicht de comunicacion de la red de control funcionan en anillo y dependen del spanning tree  el cual esta configurado, el led de alarma que aparece en cada suicht es solo de visualizacion del estado en todos los canales de muchas maneras pero la mas comun es por la desconecion de algun puerto, en pruebas realiadas en junio a la red de control se verifico el spanning tree y funciono bien.
+
+Realizado Por Wtobonl

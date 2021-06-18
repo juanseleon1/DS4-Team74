@@ -1,0 +1,72 @@
+2015/07/23 ROBINSON HINCAPIE.
+SE GENERA OT PARA DOCUMENTAR EL DISPARO DE LA UNIAD 2 EL DIA 23 DE JULIO EN EL PERIODO 22.
+
+INFORME  EVENTOS DE GENERACION 
+TERMOELECTRICA LA SIERRA 
+23 DE JULIO DE  2015
+
+La central se encontraba generando comercialmente en configuración 3.  Durante el  periodo 22 se presenta disparo de la unidad 2 estando en 144 MW y la unidad 3 en 74 MW.
+
+EVENTO: TRIP UNIDAD 2
+PERIODO:   22
+
+EVENTO:
+Se presenta a las 21:17  alarma de baja presión de gas. “ GAS FUEL PRESSURE LOW” , y luego la unidad se dispara por perdida de llama. “ LOSS OF FLAME TRIP” .
+
+Se extrae el Trip log del MARKV de la unidad 2.
+Section,Alarms
+DATETIME,S,P,DROP/NAME,DESCRIPTION
+2015-07-23 21:17:05.843,1,Q,0170,GAS FUEL PRESSURE LOW
+2015-07-23 21:17:06.093,1,Q,0526,HIGH SHAFT VOLTAGE
+2015-07-23 21:17:07.000,0,Q,0526,HIGH SHAFT VOLTAGE
+2015-07-23 21:17:17.218,1,Q,0457,COMB REF TEMP TOO LOW FOR PREMIX OPERTN
+2015-07-23 21:17:19.218,1,Q,0526,HIGH SHAFT VOLTAGE
+2015-07-23 21:17:20.906,1,Q,0090,FLAME DETECTOR TROUBLE
+2015-07-23 21:17:21.031,1,Q,0055,
+2015-07-23 21:17:21.406,1,Q,0498,AA HI/LO POSITION FEEDBACK FAULT
+2015-07-23 21:17:22.656,1,Q,0554,DWATT TOO LOW TO SUPPORT TNR-TNR LOWER
+2015-07-23 21:17:23.500,0,Q,0496,UPSTREAM AA HI/LO POSITION FAULT
+2015-07-23 21:17:25.000,0,Q,0498,AA HI/LO POSITION FEEDBACK FAULT
+2015-07-23 21:17:30.000,0,Q,0457,COMB REF TEMP TOO LOW FOR PREMIX OPERTN
+2015-07-23 21:17:30.625,0,Q,0526,HIGH SHAFT VOLTAGE
+2015-07-23 21:17:30.906,1,Q,0488,LIQUID FUEL PRESSURE LOW
+2015-07-23 21:17:32.718,1,Q,0293,GENERATOR BREAKER TRIP - REVERSE POWER
+2015-07-23 21:17:32.968,1,Q,0197,GENERATOR BREAKER TRIPPED
+2015-07-23 21:17:33.281,1,Q,0091,LOSS OF FLAME TRIP
+2015-07-23 21:17:33.500,0,Q,0523,SELF TEST FAILURE OR PWR SUPPLY TROUBLE
+2015-07-23 21:17:33.500,0,Q,0293,GENERATOR BREAKER TRIP - REVERSE POWER
+2015-07-23 21:17:33.625,0,Q,0554,DWATT TOO LOW TO SUPPORT TNR-TNR LOWER
+2015-07-23 21:17:33.875,0,Q,0488,LIQUID FUEL PRESSURE LOW
+
+
+
+ACCIÓN INMEDIATA:
+Se  informa a Carlos Betancourt  operador de CCG, sobre el  evento presentado.
+Se procede a abrir la válvula del By Pass de Hp de la caldera 2 con el fin de suministrar vapor a la línea de cold Reheat y de esta forma mantener la presión de vapor de sellos en la turbina de la unidad 3.
+Se coordina con el operador de GGC y se recibe la instrucción de arrancar la unidad 1 con el fin de sincronizarla en el periodo 23, realizar rampa de carga  y entrar en el periodo 3 del día 24 de Julio en 212MW.
+
+Se confirma la entrada del virador de la unidad 2.
+
+
+ACCIÓN TOMADA:
+Se revisan los históricos de los datos de presión de la línea de gas después de la válvula reguladora del City Gate y se evidencia una presión constante de 30 Bar.
+
+
+
+(Se observa leve incremento de presión al generarse el Trip de la unidad 2)
+
+La alarma “ GAS FUEL PRESSURE LOW” es generada por el suiche 63FG-2 el cual se activa en 330 PSI según el manual de operación de la turbina.
+Se debe verificar el funcionamiento del suiche 63FG-2 ya que la alarma que este genera hace que la unidad realice transferencia de gas a acpm lo que ocasiona que la unidad se dispare.
+
+Grafica de presion de gas FPG3 (negra) y potencia unidad 3 DWATT(roja) 
+
+Se evidencia una presión constante de 445PSI que presenta incremento en el momento del disparo de la unidad.
+
+Se genera OT: 2826918.
+
+Guardado en:
+\\Lperezga3\formatos de operación\FORMATOS E INFORMES DE OPERACION TERMOSIERRA\FORMATOS DE OPERACIONFORMATOS E INFORMES DE OPERACION TERMOSIERRA\Informes de generaciones y disparos\Informe disparos 2015\Julio.
+
+
+JUAN CARLOS YARCE.
+TECNOLOGO EN OPERACIÓN.

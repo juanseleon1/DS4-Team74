@@ -1,0 +1,15 @@
+ANUAL ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+31-10-2017
+PROGRAMADOR JOSE MONTOYA
+ANUAL G41
+02/11/2017
+VERIFICACION DE PRESOSOTATOS Y SE LLENAN REGISTROS, SE REALIZA MANTENIMIENTO Y LIMPIEZA
+CUATRIMESTRAL
+Se realizó mantenimiento al tablero de control del regulador hidráulico Y pantalla de visualización, se encontró todo normal.
+Se realiza verificación de presos tatos y limpieza a los instrumentos de nivel y temperatura del regulador, ubicados en el tanque sumidero y acumulador.
+Se realiza verificación y ajuste de la tarjeta AMP2
+Se hace verificación de posición de distribuidor.
+
+
+

@@ -1,0 +1,6 @@
+2017/10/3 RUBEN ARBOLEDA
+En la ejecución de la OT: 3580377 se evidenció punto caliente en la peineta de salida en la fase T, se hace esta OT para corregir falla.
+
+
+2017-10-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 3616001, PASO:1          
+Se realizó mantenimiento correctivo al ventilador S9 en punto caliente, La temperatura de la peineta de entrada se encontraba con un Delta T° = 26.3°C entre fases, se le realiza mantenimiento correctivo buscando mejorar el ajuste y el contacto en la peineta, la peineta queda dentro de los parámetros normales de operación. Se anexa el informe a la OT.

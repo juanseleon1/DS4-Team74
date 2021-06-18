@@ -1,0 +1,7 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Darío Puerta, Carlos Vásquez y Jhon Jader Orrego.
+Planeador: Luis Federico Alvarez Alvarez
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos +ECF y +TCFM tableros de control válvulas de frenos de la unidad, verificación en el tablero +TCF la aplicación y desaplicación de los frenos, revisión y verificación de los microsuiches finales de curso.
+Trabajo ejecutado por: Darío Puerta, Carlos Vásquez y Jhon Jader Orrego.
+
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD

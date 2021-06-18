@@ -1,0 +1,2 @@
+2017-05-07 REALIZÓ: FABIO LEON HERRERA NARANJO - CESAR AUGUSTO HOYOS - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3474910, PASO:1-1,1-1,2          
+Se realizó verificación de la señal en la estación de operación correspondiente a sello aguas abajo aplicado, la cual no estaba llegando, se cerró la válvula de aguja en la válvula esférica correspondiente al presostato 63DR, se desacopló la tubería, se abrió la válvula y se drenó por un momento, se conectó la tubería y dejó en condiciones normales.

@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DARIO PUERTA.
+
+Se realiza inspección, mantenimiento y limpieza al sistema de escobillas y anillos rozantes de la unidad, para esto se retiran las tapas laterales y superior del recinto, las escobillas y porta escobillas, se hace medición de resistencia de aislamiento en los anillos antes y después de lavado (Antes: 240 / 238 K. Después: 3.8 / 3.75 M), se toman medidas de la longitud de las escobillas y se llenan registros. Se cambian en anillo superior 4 escobillas y en anillo inferior 3.La unidad tiene 32537.1 horas de servicio.
+Trabajo ejecutado por: Dario Puerta, Jhonatan Arango, Milton Vargas
+
+XE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS
+OT PADRE 3779285

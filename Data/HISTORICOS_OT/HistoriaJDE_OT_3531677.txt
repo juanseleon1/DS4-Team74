@@ -1,0 +1,10 @@
+La temperatura de la peineta de Salida se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 20°C, lo cual indica que presenta una deficiencia mayor en su funcionamiento, se debe realizar el correctivo, ademas revizar las conexiones y mejorar el contacto. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2017-08-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: SOLIVARE OT: 3531677, PASO:1          
+Se realizó mantenimeinto correctivo a la motobomba CW10, se evidenció que el termico estaba empezando a quemarse, se realizó el cambio, adicionalemnte se realizo el cambio del cableado de potencia.
+
+2017-08-02 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3531677, PASO:2          
+Se finalizó con el mantenimiento correctivo a la CW10, se instaló y se dejó en observacion
+
+2017-08-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3531677, PASO:3          
+Se realizó inspección termografica de seguimiento a la motobomba CW9, no se evidenció puntos caleintes, se dejó en condiciones normales, se anexa el intorme a la OT.

@@ -1,0 +1,8 @@
+SOLICITANTE: OPERACIÓN G3/TURNO 2 FECHA: 12/01/2016
+
+Interruptor no abrió ante falla en el circuito, provocando la apertura del circuito R51-03 a traves de la barra de 13.2 Kv., tampoco lo hizo al mando desde el tablero en sala de operación.
+
+14 DE ENERO DE 2016 
+Se revisa y se realizan pruebas de funcionamiento dandole comandos de apertura y cierre al interruptor desde la sala de control operando correctamente, no se encontró ningun problema.
+
+William Lopera

@@ -1,0 +1,2 @@
+MAYO 29 DE 2019 OT: 3837812  PROGRAMÓ: jguingul  EJECUTARON: ALEXANDER VILLA Y ANDRÉS YEPES
+Se realiza limpieza del tablero control de unidad, verificación de cableado, estado de los componentes eléctricos y electrónicos; todo se encuentra en normal funcionamiento.

@@ -1,0 +1,5 @@
+2017-05-15 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3476805, PASO:1          
+Se realizó mantenimiento al motor de uma 8 transformador c/m gt    CORRIENTE: R:8,7, S:8,4, T:9,3, VOLTAJES RS:459, ST:455, TR:458,TEMPERATURA MAXIMA DE MOTOR 64°C Se encontró termostato descalibrado, se le entregó al grupo de instrumentación (Mauricio Quijano) para su revisión
+
+2017-05-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3476805, PASO:2          
+Se realizó informe termografica a la UMA 8, se anexa a la OT

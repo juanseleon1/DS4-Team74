@@ -1,0 +1,20 @@
+2016/09/29
+En los ultimos dias se esta presentando en estacion de operacion scada repetidas veces la alarma U/-8.40, favor revisar.
+
+
+EJECUTO:CESAR TULIO JIMENEZ
+FECHA:30 DE SEPTIEMBRE DE 2016
+SE REVISA LA SEÑAL U/-8.40 DEFECTUOSO Y SE CAMBIA POR LA RESERVA U8-8.42, QUEDANDO EN FUNCIONAMIENTO NORMAL
+
+SE CORRIGE EL PLANO EN LA HOJA XXX será que esto si se realizó?
+
+2016/09/29
+En los ultimos dias se esta presentando en estacion de operacion scada repetidas veces la alarma U/-8.40, favor revisar.
+
+
+EJECUTO:CESAR TULIO JIMENEZ
+FECHA:30 DE SEPTIEMBRE DE 2016
+SE REVISA LA SEÑAL U/-8.40 DEFECTUOSO Y SE CAMBIA POR LA RESERVA U8-8.42, QUEDANDO EN FUNCIONAMIENTO NORMAL
+
+SE CORRIGE EL PLANO EN LA HOJA XXX será que esto si se realizó?
+

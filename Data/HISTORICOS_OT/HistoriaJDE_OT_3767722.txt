@@ -1,0 +1,8 @@
+SOLICITANTE: OPERACIÓN CCCG G4/ARFECHA: 21/09/2018
+
+Al hacer transferencia en 44 Kv S/E G4 por entrada en servicio de transformador de 20 MVA, 220/44 Kv., falló la UPS no asumiendo la carga de servicios escenciales, con la consecuencia lógica de paros de emergencia sucesivos en las tres unidades de Guadalupe IV. Requiere revisión y correctivo.
+
+27/09/2018
+SE HACE LA REVISION DE LA UPS, Y SE DETERMINA QUE ESTA MALO EL INVERSOR, LAS BATERIAS ESTAN FUNCIONANDO BIEN Y ADEMAS TIENEN BUENA AUTONOMIA, SE TIENE PREVISTO TARER UNA UPS Y CONECTARLA...
+
+JUAN A. CAICEDO HENAO

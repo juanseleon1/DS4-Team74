@@ -1,0 +1,19 @@
+2018/04/17
+REVISAR PARO RÁPIDO POR FALLA ELECTRICA BOMBAS 1 Y 2 ESTACIÓN HIDRAULICA
+INFORMAN : URIEL CASTRILLÓN -ADRIÁN NARVÁEZ
+
+
+19/04/2018
+
+esta falla ocurre durante la instalacion de la UPS2 por parte del grupo electrico, la causa fue una apertura de la alimentacion de control de la unidad 2 mientras se encontraba generando.
+
+Nota tomada de reunion entrega de turno por Federico alvarez 
+
+Realizado por Wtobonl
+
+
+21/04/2018
+
+Referente al sistema de aire comprimido reguladores de velocidad. Se encuentra fallado el arranque automático de ambos compresores. esta es una de las causas para que el tanque de aceite no sea cargado de nuevo por las bombas devido a que el nivel de aceite sube en el acumulador ya que los compresores no estan encendiendo. ESTE PROCESO DE COMPRESORES ESTA PENDIENTE PARA MEJORAR PERO FUE DETENIDA LA ACCION DE MEJORA 
+
+Realizada por Wtobonl 

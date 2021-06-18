@@ -1,0 +1,5 @@
+XM: INSPECCIONAR ROTOR GENERADOR UNIDAD 1
+
+PLANEADOR: RMONTOYG
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2017-05-08 - OT: 347373 - CONSIGNACIÓN: @135887
+Se realiza inspección a trapecios, cuñas interpolares, pinado de contrapesos de balanceo y limpieza general interna.

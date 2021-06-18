@@ -1,0 +1,12 @@
+2016/07/14 CARLOS SANCHEZ.
+
+SE GENERA ESTA OT PARA REVISAR EL SISTEMA DE REFRIGERACION EN LA UNIDAD 3 DE GENERACION, DEBIDO A FALLAS PRESENTADAS EN EL FILTRO AUTOLIMPIANTE.
+
+
+15/07/2016
+
+Se realiza verificacion del control en el sistema TCSR de la unidad, se encuentra problemas en los comandos para el lavado del filtro 1, se verifica el sistema y se encuentra la bornera X26 1 y 2 abierta razon por la cual el sistema no actua abriendo la valvuma VM13 para descarga , ademas se encuentra falla en la transferencia del sistema , para identificar esta falla se espera que la unidad este detenida para realizar la transferencia del sistema y verificar el problema.
+
+Ralizad por Wtobonl
+
+terminda cerrar

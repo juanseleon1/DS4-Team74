@@ -1,0 +1,33 @@
+2016-10-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: SOLIVARE OT: 3293671, PASO:1          
+Se realizó el montaje del motor de Chiller 3
+
+2016-10-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: SOLIVARE OT: 3293671, PASO:2 
+Se realizó el cambio de un térmico desde el Chiller 1 hacia el Chiller 3, adicionalmente se realizó el traslado del refrigerante para que el contratista Johnson Control realizará el mantenimiento en el Chiller 3
+
+2016-11-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3293671, PASO:3          
+Se realizó revisión de señal de arranque completado en el chiller 3, se realizó corrección en cableado, fue necesario instalar el temporizador del arranque por autotrafo del chiller 2, se dejó en condiciones normales, se recomienda comprar 3 temporizadores para cambiarlos uno para cada chiller.
+
+2016-12-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3293671, PASO:4          
+Se realizó adecuación de temporizador en el chiller 3, se instaló un temporizador nuevo, queda pendiente realizar una prueba en compañía del personal de Johnson Controls los interruptores quedaron cerrados.
+
+2016-12-15 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3293671, PASO:6          
+Se realizo el desmontaje del dispositivo para el montaje del motor del chiller 3, este dispositivo estaba siendo utilizado por el personal de Johnson Controls para las labores de puesta en servicio del chiller. Se dejó el dispositivo en el túnel a la entrada a los chiller.
+
+2017/01/10 ADONIS CADAVID - RUBEN ARBOLEDA 
+Se le dio arranque al chiller por parte del personla Johson Controls, se deja en servicio y con monitoreo2016-10-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: SOLIVARE OT: 3293671, PASO:1          
+Se realizó el montaje del motor de Chiller 3
+
+2016-10-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: SOLIVARE OT: 3293671, PASO:2 
+Se realizó el cambio de un térmico desde el Chiller 1 hacia el Chiller 3, adicionalmente se realizó el traslado del refrigerante para que el contratista Johnson Control realizará el mantenimiento en el Chiller 3
+
+2016-11-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3293671, PASO:3          
+Se realizó revisión de señal de arranque completado en el chiller 3, se realizó corrección en cableado, fue necesario instalar el temporizador del arranque por autotrafo del chiller 2, se dejó en condiciones normales, se recomienda comprar 3 temporizadores para cambiarlos uno para cada chiller.
+
+2016-12-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3293671, PASO:4          
+Se realizó adecuación de temporizador en el chiller 3, se instaló un temporizador nuevo, queda pendiente realizar una prueba en compañía del personal de Johnson Controls los interruptores quedaron cerrados.
+
+2016-12-15 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3293671, PASO:6          
+Se realizo el desmontaje del dispositivo para el montaje del motor del chiller 3, este dispositivo estaba siendo utilizado por el personal de Johnson Controls para las labores de puesta en servicio del chiller. Se dejó el dispositivo en el túnel a la entrada a los chiller.
+
+2017/01/10 ADONIS CADAVID - RUBEN ARBOLEDA 
+Se le dio arranque al chiller por parte del personla Johson Controls, se deja en servicio y con monitoreo

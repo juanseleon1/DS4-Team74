@@ -1,0 +1,12 @@
+SOLICITANTE: OPERACION TURNO 3 FG - AR FECHA:10/04/2018
+
+Falla de la bobina de apertura del interruptor de la unidad TR 1  ocasionando la falla circuito de disparo en la linea 115 KV Troneras.
+
+ABRIL 11 DE 2018
+Referente Interruptor de máquina ,Unidad 1 Troneras 
+Se entrega a operación la unidad después de detectar que la bobina para la apertura identificada como Y01 está en corto , causando la falla supervisión disparo . la bobina es cambiada por una nueva ubicada en el almacén .
+Se realizan pruebas de sincronizar la máquina, abriendo y cerrando el interruptor , operando sin falla.
+Además se realizó y ajusto el instrumento de nivel que pertenece al cojinete inferior; queda en condiciones normales para la operación  OT 3710890 
+ 
+Informa Cesar Giraldo R
+Ejecutan Uaimer Diaz , William Lopera , Carlos Forero.

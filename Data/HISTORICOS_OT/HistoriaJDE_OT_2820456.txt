@@ -1,0 +1,8 @@
+
+JULIO 15 DEL 2015 - JEOVANNY CORREA G
+La unidad G32 no está realizando el cambio de servicios de 440 VAC de respaldo por el principal, después de que sincroniza.
+JULIO 18/2015
+Se realizo el Reset del PLc de los Servicios Auxiliares que se encuentra dentro del tablero de control. Se realizaron pruebas al momento de sincronizar la unidad y se observa que el sistema realiza la transferencia correctamente de servicios auxiliares de planta a servicios auxiliares de maquina. De todas maneras se le hara seguimiento por parte del grupo de operacion para verificar el correcto funcionamiento, despues del reset.
+
+Programador: Oscar Arango
+Ejecuto: William Lopera

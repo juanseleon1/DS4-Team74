@@ -1,0 +1,15 @@
+2014/06/18
+
+REALIZAR VERIFICACION METROLOGICA A TRANSDUCTOR DE POTENCIA U4 DE G3
+
+09/JULIO/2014
+VERIFICACION TRANSDUCTOR DE POTENCIA JANITZA
+
+Se realizo la verificacion del transductor nuevo "Janitza" inyectando los valores de corriente y voltaje descritos en el formato de metrologia, comprobando un correcto funcionamiento del equipo. aparte se realizo una curva con la salida analogica y se comparo con los valores de los equipos ya instalados para comprobar el correcto funcionamiento del mismo.
+Se aprovecha para realizar una explicacion de como funciona el equipo y como desplazarse por los diferentes menu.
+Se realiza un Backup de los parametros del equipo y se dejan archivados en el portatil de guadalupe 3, para su almacenamiento.
+
+
+Programador: Oscar Arango
+
+UNIDAD DE OPERACIONES GUADALUPEMANTENIMIENTO INSTRUMENTACIÓNREGISTRO EQUIPOS INSPECCIÓN Y ENSAYO CENTRAL: GUADALUPE 3                         UNIDAD:4 FECHA18/06/2014                                  IDENTIFICACIÓN DEL EQUIPO: 667136                                                                TEMPERATURA AMBIENTE: 23,5°CDESCRIPCION: TRANSDUCTOR POTENCIA ACTIVA G3 U4                            RESOLUCIÓN DEL EQUIPO:0,1                                                        HUMEDAD RELATIVA: 61,6%RH      TOLERANCIA:3CLASE:0,5LECTURA1 LECTURA2 LECTURA3 LECTURA4 LECTURA5X S USUCALUPUESTUEXPPATRÓN0,73 0,73 0,73 0,73 0,73 0,73 0PRUEBA0,73 0,73 0,73 0,73 0,73 0,73 0 0 0,029 9,20E-03 0,010 0,064ERROR0,00 0,00 0,00 0,00 0,00PATRÓN3,66 3,66 3,66 3,66 3,66 3,66 0PRUEBA3,65 3,65 3,65 3,65 3,65 3,65 0 0 0,029 9,20E-03 0,010 0,064ERROR-0,01 -0,01 -0,01 -0,01 -0,01PATRÓN6,58 6,58 6,58 6,58 6,58 6,58 0PRUEBA6,55 6,55 6,55 6,55 6,55 6,55 0 0 0,029 9,20E-03 0,010 0,064ERROR-0,03 -0,03 -0,03 -0,03 -0,03

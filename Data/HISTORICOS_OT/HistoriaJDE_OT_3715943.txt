@@ -1,0 +1,15 @@
+2018/04/23
+REVISAR CONTROLADOR PLC P23 SE QUEDA EN STOP Y GENERA PARO DE EMERGENCIA YA QUE LA UNIDAD SE QUEDA SIN AUXILIARES , SE OBSERVA RACK DE SALIDAS DIGITALES FUERA DE SERVICIO 
+INFORMA : URIEL CASTRILLÓN - ADRIÁN NARVÁEZ
+
+
+23/04/2018
+
+Se revisa y se encuentra controlador PLC de la unidad en STOP y RACK de modulos de salidas digitales fuera de servicio dejando la unidad sin auxiliares.  se le da reset al PLC quitando la alimantacion y queda normalizado pero a los 20 minutos se bloquea de nuevo, luego se encuentra en falla el PLC TSX, la unidad se encuentra en paro 86E y 86R con los módulos bloqueados y la CPU en stop. Se instala y se configura una nueva CPU además se cambian los módulos de entrada rack 617, módulo 6 y 7, se encuentra la rutina de válvula esférica y regulador de velocidad bloqueados, con el ciclo o secuencia de paro, se normaliza y la unidad queda en observación. 
+
+Realizado por Wtobonl 
+
+NORMALIZADA 
+
+
+TERMINADA CERRAR

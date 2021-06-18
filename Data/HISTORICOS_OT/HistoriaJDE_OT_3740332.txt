@@ -1,0 +1,3 @@
+
+2018/07/19 DIEGO BEDOYA / ANDRES ALZATE
+Se realiza el desmontaje de la campana, la canastilla de excitación, la tapa de la cuba  y el soporte para el cambio de sensores y la instalacion de sensores nuevos de vibración en la unidad.

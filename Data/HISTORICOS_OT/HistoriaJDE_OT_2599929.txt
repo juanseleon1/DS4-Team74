@@ -1,0 +1,10 @@
+XI: VERIFICAR Y REVISAR, CONTROL DE A VALVULA, INSTRUMENTOS DE PRESION, SENSORES DE POSISCIÓN VALVULA, BY PASS Y VALVULA MOTORIZADA. 
+
+24/SEPTIEMBRE/2014
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizo inspección y limpieza a los sensores y conectores de la válvula de admisión.
+Se realizo limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los sensores inductivos de estado de la válvula, comprobando su correcta visualización en el sistema de control.
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte - Marlon Carmona - Francisco Gonzalez

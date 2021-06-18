@@ -1,0 +1,7 @@
+MANTENIMIENTO ANUAL ESTATOR GENERADOR
+AGOSTO 09 AL 11 DEL 2018
+Se realizó mantenimiento preventivo según instructivo GCG3E0006. Se retiran las tapas superiores del generador para tener acceso a las cabezas de bobina y a los polos del rotor, se verifica visualmente no se hallan anomalías. 
+Nota: se realizaron pruebas electricas por parte de la dirección operación generación.
+
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Daniel Arango

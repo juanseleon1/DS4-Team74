@@ -1,0 +1,5 @@
+
+XM: REVISAR Y CHEQUEAR FRENOS GENERADOR DE LA UNIDAD
+
+PLANEADOR: INGENIERO HÉCTOR GÓMEZ, PROGRAMADOR: RMONTOYG, 13/05/2014 CONSIGNACIÓN @C0098560 - OT: 2501726
+Se realiza según procedimiento. Se realiza limpieza general del recinto del generador y cojinete combinado. Se verifica el espesor de las zapatas de frenado, las cuales se encuentran en 28 mm. Se verifica la presión de trabajo y se encuentra en 0.7 MPa (7 Bar).

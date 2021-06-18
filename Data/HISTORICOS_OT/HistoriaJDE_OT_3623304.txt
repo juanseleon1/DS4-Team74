@@ -1,0 +1,26 @@
+TE: BLOQUEOS ELECTROMECANICOS UNIDAD GENERACION P2
+
+2017/01/11 ANGEL ADONIS CADAVID OCHOA
+Referente al mantenimiento de la unidad 2 Porce II.
+
+Se inicia con bloqueos 6:25 luego de tener unidad parada.
+Como novedades en el proceso de bloqueo se comenta lo siguiente:
+El interruptor de alimentación SAU desde el generador no se pudo abrir por falla en palanca de accionamiento.
+El interruptor de pre excitación se encontró abierto y con tarjeta de seguridad por falla en contactor de pre excitacion.
+En subestación el bloqueo de la bahía de máquina la realiza el operador que llega a turno de día.
+Se termina bloqueo y se entrega unidad a los equipos de mantenimiento 7:20 am.
+El mantenimiento se realiza de acuerdo a programa semestral de unidad.
+El aislamiento de rotor después de limpiar queda en 31 Mega ohmios.
+Se verifican lazos de control en reguladores de velocidad y tensión e instrumentación de cojinetes.
+La turbina está en condiciones normales.
+El sensor nivel del cojinete de turbina presenta falla de señal, queda pendiente verificar sensor.
+Angel Adonis Cadavid Ochoa.
+
+FECHA :2018-01-11 MTTO: ELÉCTRICO OT N°: 3623304 PROGRAMÓ : CRISTIAN A GÓMEZ H
+EJECUTÓ: ADONIS CADAVID (BLOQUEOS) - OLGA VIANA, CAMILO CARDONA (VARIOS ELÉCTRICOS MTTO)
+(2018-01-09) SE REALIZAN RUEBAS DE FUNCIONAMIENTO AL POLIPASTO ALMENARAS AGUAS ABAJO. EL EQUIPO OPERA EN CONDICIONES NORMALES, NO PRESENTA FALLAS NI ANOMALIAS. CONDICIONES NORMALES PARA EL MTTO.
+(2018-01-11) AL INICIAR LA CONSIGNACIÓN, EL INGENIERO ENCARGADO DEL MANTENIMIENTO Y EL PERSONAL DE OPERACIÓN, REALIZAN LOS RESPECTIVOS BLOQUEOS DE LOS SISTEMAS ELECTROMECÁNICOS. UNA VEZ FINALIZADOS TODOS LOS TRABBAJOS, SE REALIZAN LOS DESBLOQUES Y SE BUSCAN CONDICIONES DE GIRO.  INSTRUCTIVO DE MANTENIMIENTO GCP2E0011. 
+(2018-01-11) VARIOS ELECTRICOS (ILUMINACIÓN, REFLECTORES, EXTENSIONES)....
+
+
+

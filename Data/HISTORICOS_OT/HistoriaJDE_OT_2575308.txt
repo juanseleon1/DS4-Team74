@@ -1,0 +1,8 @@
+Realizar mantenimiento a los servidores del SCADA 
+
+
+03/07/2014
+
+se realiza mantenimiento al servidor de comunicaciones RST2 se verifica el estado de los cooler y del procesador tamien se realizan actividades de actualizacion en la aplicacion.
+
+Realizado por Wtobonl

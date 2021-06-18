@@ -1,0 +1,14 @@
+la unidad 2 el banco de tiristores 1 presenta falla en la comunicacion y los dos bancos de tiristores presentan falla en la medida de temperuatura rotor Favor revizar
+
+
+09/10/2014
+
+Se realizan pruebas en el banco de tiristores 1 de la unidad 2, se verifican los lazos de comunicacion y las fuentes que alimentan esta banco de tiristores, ademas se ajustan los datos de temperatura rotor enviados por ABB, estos datos dan una media erronea de 5 °C con la unidad sincronizada, se ajusta esta indicacion pero antes la unidad se da paro de emergencia por dicho ajustes estando sincronizada, la indicacion realiza un pico de 160°C y queda normalizada en 45°C. despues de la salida forzada se normaliza la unidad y queda operativa.
+
+esta salida cuasa rayon de frecuencia.
+
+Realizado por WtobonL
+
+NOTA. PARO DE EMERGENCIA DURANTE PRUEBAS Y AJUSTE DE TEMPERATURA
+
+TERMINADA CERRAR

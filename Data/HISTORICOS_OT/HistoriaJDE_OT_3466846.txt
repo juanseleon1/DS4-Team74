@@ -1,0 +1,5 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Ronal Arango.
+Durante el mantenimiento se abre el neutro para hacer las pruebas eléctricas a la unidad, después de ellas se cierra, se verifica, se le hace limpieza, se verifica y limpia el transformador de neutro según el procedimiento de la OT
+
+
+XE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD

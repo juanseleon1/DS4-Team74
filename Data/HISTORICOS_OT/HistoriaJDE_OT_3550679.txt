@@ -1,0 +1,7 @@
+ACTIVIDADES MANTENIMIENTO INTERRUPTOR Y CAMPO BAHIA UNIDAD 6
+SUB. SALTO I
+OT 3550679     -    FECHA: 2017/30/08
+INTERRUPTOR ASTHOM
+- Mantenimiento al mecanismo de operación: revisión de dispositivos de apertura y cierre, lubricación.
+- Limpieza en general
+- Pruebas eléctricas: resistencia entre contactos, factor de potencia tiempos de operación: 

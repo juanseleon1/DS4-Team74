@@ -1,0 +1,7 @@
+XM: VERIFICAR, LAVAR Y AJUSTAR EL COJINETE INFERIOR DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 26/11/2014 - CONSIGNACIÓN @C098578
+
+Se realiza según procedimiento. Se verifica su nivel el cual se encontró en el instrumento digital en +2 mm y en el instrumento análogo en +2.3. Se verifica el nivel en la tapa superior de la cuba del cojinete combinado el cual se encontró en +11 mm. Este nivel es el que fue dejado por los fabricantes de TOSHIBA.
+
+NOTA: La válvula del filtro del subsistema N°1 se encontró con el empaque de la válvula mariposa destruido, este se deja así ya que no hay ni empaques ni válvula nueva. Se deja como prioridad este subsistema para que el aceite no recorra este camino cuando este trabajando el otro subsistema.

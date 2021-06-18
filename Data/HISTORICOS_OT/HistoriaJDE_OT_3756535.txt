@@ -1,0 +1,4 @@
+FECHA: 19/08/2018 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: Cada vez que se da orden de paro normal a la unidad 3 de Guadalupe IV, la válvula de admisión queda con pase de agua, una presión aguas abajo de 2.8 bar y disminución del nivel del tanque de carga GIV; por lo que se hace necesario igualar presiones a ambos lados de la válvula de admisión, y luego darle paro de emergencia para forzar el cierre total de la válvula.  Con esta maniobra, la presión aguas abajo queda en 0.3 bar.
+
+Nota: se instala gato en el servomotor de la valvula corrigiendo el problema temporalmente, se hace necesario un desarme de la valvula para el diagnostico y reparacion de la falla.

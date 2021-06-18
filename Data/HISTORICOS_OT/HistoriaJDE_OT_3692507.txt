@@ -1,0 +1,13 @@
+XM: VERIFICAR Y REVISAR, MECANICAMENTE LA VALVULA DE ADMISION.
+
+
+PLANEADOR:CARLOS GIORDANELLI
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+23/03/2018
+
+Se realiza según instructivo engrasando las partes móviles y ajustando los prensaestopas del muñón lado servomotor.
+Se revisa el nivel del tanque sumidero encontrándose en la seña de normal según visor.
+Nota: Se encuentra deshabilitado el instrumento digital.

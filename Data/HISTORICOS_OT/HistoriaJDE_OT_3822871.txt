@@ -1,0 +1,9 @@
+
+Dionis M. Zapata V.  Miercoles 27/03/2019
+por parte de operacion se recibe el informe de que la alarma de bajo voltaje en captacion esta saliendo muy reiteradamente, se procede a revisar y se deja el setpoint de alarma de bajo voltaje en un 20% menos del setpoint de la tensión. 
+
+Dionis M. Zapata V. Jueves 28/03/2019
+Operacion informa que la alarma sigue saliendo reiterativamente, se procede a normalizar el valor del set de alarma de bajo voltaje y se deja en un 10% menos del setpoint de la tensión, y se procede a modificar el tiempo de espera de la alarma de bajo voltaje y se deja en 30seg.
+
+
+(este tiempo es el que se demora en dar la alarma si hay un bajon de voltaje, osea si la tension se baja mas de un 10% del valor de la tension nominal y se mantiene por mas de 30seg.) 

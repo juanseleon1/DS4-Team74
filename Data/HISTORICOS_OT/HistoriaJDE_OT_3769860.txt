@@ -1,0 +1,14 @@
+MP ANUAL, EQUIPOS:
+407073 REGULADOR VELOCIDAD TRVC U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+se verificaron los lazos de control de los inyectores N°1, N°2, N°3 y N°4, se realizan movimientos de apertura al 100%, al 75%, al 50% y al 25%, y se verificaron las corrientes de salida para cada uno de los actuadores y su comportamiento fue bueno.
+también se verifico la posición del deflector y de la válvula distribuidora dándole mandos directos desde el regulador y respondieron correctamente.
+También se realiza verificación de los transductores asociados al regulador de velocidad.
+se realiza inspección y limpieza al tablero, borneras y cableado asociados al regulador de velocidad
+
+CALIBRACIÓN LAZOS DE CONTROL DEL REGULADOR DE VELOCIDAD MEDIDAS DE CORRIENTE Y DESPLAZAMIENTO SEGÚN PORCENTAJE DE APERTURA DE AGUJAS % DE APERTURA 0%25% 50% 75% 100%   INYECTORESA mm A mm A mm A mm A mmAGUJA 1 0,0 0 3.8 35 3.5 70 3.3 105 5.2 140AGUJA 2 0,0 0 3.2 36 3.0 71 3.0 106 4.6 143AGUJA 3 0,0 0 2.9 35 3.5 70 3.0 105 5.1 140AGUJA 4 0,0 0 3.2 35 3.1 70 3.2 105 5.0 140
+PROGRAMADOR: LUIS CARDONA

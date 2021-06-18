@@ -1,0 +1,10 @@
+FECHA: 01/02/2007  OT #  3382110 Ejecutó: Daniel Palacios, Cristian Gomez y electricistas   Informó: federico alvarezse reviso el circuito de la señal de corriente en el eje (Rele de corrientes paràsitas del eje "Rarik"), se tomaron las medidas de aislamiento de los segmentos guias del cojinete superior, asi: 150 V, bornes SC1-SC2 = 1,698 Gigaohmios 200 V, bornes SC1-SC2 = 1,98 Gigaohmios310 V, bornes SC1-SC2 = 2,01 Gigaohmios514 V, bornes SC1-SC2 = 1.87 Gigaohmios.Se tomaron las medidas de aislamiento en los segmentos con respecto a tierra, asi: a 514 V, 1.83 Gigaohmios.En el SCADA de la planta en la Unidad 3 se observo el comportamiento de voltaje del eje, el ùltimo mes a potencia nominal mostrando entre 3 y 4 voltios que es un comportamineto normal.
+
+Referente a la unidad 3 (OT: 3382110). FECHA: 31/01/2007
+Se realiza limpieza de los anillos rozantes, no se encuentran escobillas para cambiar. Se realiza limpieza y revisión del CT de corrientes de eje y de las escobillas de eje. La unidad presentaba alarma. --- Voltaje antes de la limpieza: 3,4V ; Voltaje despues de la limpieza: 5,2V.
+Ejecutó: Equipo Mantenimiento UOP - Operación turno 3.
+Informó: Cristian Gomez - Daniel Palacios.
+----------------------------------------------------------
+
+REALIZAR LIMPIEZA DE LOS ANILLOS ROZANTES, PRESENTA ALARMA CONSTATEMENTE DETECCIÓN CORRIENTES EN EL EJE.
+INFORMAN: JUAN CAMILO MONTOYA - FERNANDO ROLDAN

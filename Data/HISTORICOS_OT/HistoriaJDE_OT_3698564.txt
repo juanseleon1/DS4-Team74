@@ -1,0 +1,16 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3698564.
+Se realiza mantenimiento general, limpieza y verificación a la Válvula de Admisión de la MINICENTRAL P3.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizo: Eladio Piedrahita, Neiro Fabian Pérez
+
+
+PLANEADOR: RMONTOYG
+FECHA: 14-03-2018
+PROGRAMADOR: CARLOS ENRIQUE MONCADA
+OT PADRE: 3698544
+CONDIGNACION: @180304
+
+REALIZAR MANTENIMIENTO PREVENTIVO SEMESTRAL A LA VÁLVULA DE ADMISIÓN

@@ -1,0 +1,9 @@
+JHON MARIO PEREZ ARENAS. ABRIL 13/2018
+
+Revisar la señal de apertura en control remoto del by pass y aborta la secuencia de arranque en este modo de control. En control local manual abre el bypass normalmente.
+
+
+REALIZO: CESAR TULIO JIMENEZ Y RUBEN ARBOLEDA
+FECHA: 15/04/2018 OT:3712209
+
+CON EL PLANO DE MAQUINA REVISAMOS TODOS EL TRAYECTO DE LA SEÑAL U2-6.22, REVISAMOS TRANSDUCTOR, CABLES, ETC. AL VER EN EL SCADA. MUESTRA BIEN. 

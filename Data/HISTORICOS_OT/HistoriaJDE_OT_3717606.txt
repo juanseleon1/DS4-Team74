@@ -1,0 +1,4 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2018/11/03 RUBEN ARBOLEDA OT: 3717606
+Se cierra ésta OT sin costos, se creó la otra automática #3778991, no se ha ejecutado la anterior por estar desarmado mecánicamente.

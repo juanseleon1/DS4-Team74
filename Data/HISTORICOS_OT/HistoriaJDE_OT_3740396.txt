@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2018/07/06 RUBEN ARBOLEDA OT: 3740396
+Se solicita cancelar esta OT, ya que la OT Anterior # 3705309 no se ha ejecutado por indisponibilidad del equipo, se estaba reparando en la OT 3657915

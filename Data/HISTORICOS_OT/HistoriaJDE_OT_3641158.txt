@@ -1,0 +1,10 @@
+PREVENTIVO VALVULA DE ADMISION UNIDAD GENERACION GUADALUPE 4
+
+
+Programador: Camilo Montagut - 27/11/2017
+
+Se lavaron los filtros de la válvula de admisión donde no se encontraron fugas ni obstrucción alguna.
+
+Se verifica el estado de toda la valvulería de la válvula de admisión según parámetros registrados en el manual Charmilles del mismo equipo
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,15 @@
+OCTUBRE 04 DE 2017
+MANTENIMIENTO PREVENTIVO ANUAL.
+Se realizaron las siguientes actividades.
+
+ Se desconecto lado de alta y de baja para realizar pruebas electricas.
+ Se revisan posibles fugas. 
+ Se reapretan flanches para eliminar posibles fugas.
+ Se revisan el tanque de expansion, valvula de sobrepresion, rele de BUCHHOLZ.
+ Se ajustan todos los puntos de conexion de control y de potencia.
+ Se realizan pruebas de resistencia de devanados y de aislamiento. 
+
+Nota: estas tareas se realizaron en las fases R, S y T. 
+
+Ejecuto: Sergio Areiza-Jorge Cardenas- Mario Morales
+Programo. Carlos Andres Forero

@@ -1,0 +1,5 @@
+2017/04/16 RUBEN ARBOLEDA, TAREA: 
+Realizar Ajuste de bornes de conexión para batería de la planta Diesel 75KVA
+
+2017-04-15 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3455695, PASO:          
+Se realizó reparación de lo bornes de conexión de la batería en la planta de emergencia de 75KVA, se realizó pruebas y se dejó en condiciones normales.

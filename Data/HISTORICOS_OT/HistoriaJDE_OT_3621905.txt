@@ -1,0 +1,6 @@
+2017/10/09. JUAN C DUARTE MUÑOZ.
+
+CORREGIR LA FALLA DE LOS VENTILADORES M301 Y M302 UBICADOS EN LA CELDA 1 QUE CORRESPONDE AL CARGADOR.
+
+2017/10/10 ot:3621905 Cesar Tulio / Luis Eduardo 
+Se cambian rodamientos a 3 ventiladores de la UPS quedando en condiciones normales de operacion 

@@ -1,0 +1,9 @@
+2014/09/29 RUBEN ARBOLEDA
+Se realizará revisión de los niveles de agua y presiones de los diferentes sistemas de refrigeracion correspondientes al chiller 1, en los trabajos ejecutados en la ot: 2607569 (lavado de pozo I etapa) al agua de condensación del chiller se le ingresó aire a causa de fuga de agua, por lo tanto se hace necesario ventear y verificar niveles y presiones de funcionamiento tanto de las diferentes motobombas como del chiller 1. 
+
+2014/09/29 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+Se reliazó revisión de niveles y presiones, se purgó el aire que estaba en la tubería y se dejó en servicio. 
+
+
+
+

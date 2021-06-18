@@ -1,0 +1,13 @@
+14/07/2018
+SOLICITANTE: MARTA PARRA
+
+REFERENTE AL CIRCUITO R51 - O5 EN GUADALUPE 3
+REVISAR CABLE SECO QUE VA DESDE GUADALUPE 1 HASTA EL INTERRUPTOR DE CASA MAQUINAS GUADALUPE 3.
+
+EL PERSONAL DE DAÑOS ENERGIA REVISO EL CIRCUITO R51 - 05 Y ENCONTRO EL CABLE SECO QUE VA DESDE GUADALUPE 1 HASTA EL INTERRUPTOR DE GUADALUPE 3 CON PROBLEMAS.
+REVISANDO EL CIRCUITO SE PRODUJO LA APERTURA DEL TRAFO DE 10 MVA EN SUBESTACION SALTO 3 
+
+AGOSTO 24 DE 2018
+Se entrega a operación el circuito 51-05 quedando disponible como respaldo en caso que haya una falla en el circuito principal, esto después de corregir una falla a la llegada del interruptor en la celda de 13/2 KV de Guadalupe 3, se encontró el pararrayo correspondiente a la fase S y los PT’ s de medida aterrizados, se cambia el pararrayo, se desconecta los PT’ s que no estaban conectados por control.  Con el apoyo del personal de mantenimiento redes de distribución se realizó pruebas de resistencia de asilamiento al cable seco, aplicando 20 kilo voltios a cada fase obteniendo muy buenos resultados mayor a 20 Giga Ohmios, y también se aprovechó para realizar mantenimiento a toda la celda correspondiente al circuito incluyendo el interruptor.
+
+Programó: William Lopera.

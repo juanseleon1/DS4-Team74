@@ -1,0 +1,15 @@
+
+FECHA: JULIO 16 DE 2015 OT: 2822042
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRLDO
+
+Se inspecciona falla en el modulo 4,2 en la Top Box, se revisaron los fusibles y estaban bien, se mide el voltaje de DC y se encontró en los rangos adecuados, se retira y se vuelve a colocar el mismo modulo y la falla se borro, se deja en servicio el aerogenerador.
+
+
+FECHA: JULIO 19 DE 2015 OT: 2822042
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRLDO
+
+Nuevamente se presenta falla en el módulo 4,2; se revisa la top box se retira el modulo 4,2 se observa que los conectores laterales no están entrando bien lo que causa que con el movimiento se pierdan algunas señales y la comunicación, se organizan estos conectores y se deja en servicio el aerogenerador, si vuelve a presentarse falla en este modulo se deben cambiar estos conectores.

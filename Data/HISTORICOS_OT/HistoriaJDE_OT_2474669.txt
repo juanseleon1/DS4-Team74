@@ -1,0 +1,21 @@
+FEBRERO 19 DE 2014
+
+EQUIPO: Banco de Baterias 1 y 2
+
+DESCRIPCION: El nivel del liquido de baterias en algunas baterias de estos bancos se encuentra en nivel minimo.
+
+INFORMO: Marta Parra
+          Juan David Gutierrez
+
+
+
+FEBRERO 28 DE 2014
+
+
+SE RECUPERA LOS NIVELES CON AGUA DESTILADA, LA CUAL SE TRATA DEBIDAMENTE...
+
+PROGRAMADOR: JUAN CAICEDO
+
+
+
+

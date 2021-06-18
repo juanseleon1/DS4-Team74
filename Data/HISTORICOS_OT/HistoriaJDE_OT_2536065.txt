@@ -1,0 +1,16 @@
+2014/05/27 - CAMBIO TRANSFORMADOR Oscar Giraldo - Juan David García - Personal Distribución - Ruben Arboleda
+El tranformador de la isla captación se encuentra fallada, posiblemente a causa de una descarga electrica, cuando se inicia el compresor, el voltaje en los bornes de salida de tranformador cambia así: 
+Compresor Parado: 
+Fases: 
+RS: 462
+ST: 461
+TR: 460
+Compresor arrancado
+Fases: 
+RS: 415
+ST: 439
+TR: 460
+Se realizó el cambio del tranformador por uno que estaba en la bodega del almacén, el recurso humano para el cambio fue suministrado por el personal de distribución energía. 
+
+Se realizó prueba de sentido de giro de compresor, y se dejó en servicio con condiciones electricas normales. 
+

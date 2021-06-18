@@ -1,0 +1,10 @@
+
+21/05/2018 OT:3726214  Luis Eduardo Arcila
+Perdida de señales del controlador U4, fallada la tarjeta DSBC173. Se reemplaza por una de repuesto, entrando en modo P1 (Run) funcionamiento normal del controlador.
+Se deja en prueba.
+
+
+
+
+
+

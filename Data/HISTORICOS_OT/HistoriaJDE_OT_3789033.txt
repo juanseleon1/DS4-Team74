@@ -1,0 +1,25 @@
+REALIZACION DE PRUEBAS ELECTRICAS ANUALES AL GENERADOR PORCE 34
+
+OT:   3789033
+FECHA: 28-11-2018
+PROGRAMÓ: DANIEL PALACIOS
+EJECUTÓ: JHON JADER ORREGO.
+
+SE REALIZAN PRUEBAS ANUALES AL GENERADOR Y ROTOR DE LA UNIDAD, SE HACE LA DESCONEXION DE LOS BARRAJES DE SALIDA Y NEUTRO EL GENERADOR, PARA LAS PRUEBAS DE FACTOR DE POTENCIA, IP, RESISTENCIA OHMICA, MEDIDA DE INDUCTACIA EN BOBINAS, Y EL INDICE DE ABSORCION; LOS REGISTROS SE GUARDAN EN EL ARCHIVO TECNICO.
+
+SE RALIZÓ ADEMAS LA INSPECCION VISUAL EN LOS DEVANADOS DE ROTOR Y ESTATOR
+INFORME MTTO BIENAL UNIDAD 4 PORCE 3 29 NOV 2018
+Referente a la Unidad N° 4: Mantenimiento terminado el día 29 a las 23:00 Se entrega para operación la unidad N°4 , después del mantenimiento bienal. Se realizaron los siguientes trabajos:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares y rotor en general).
+ Inspección mecánica del generador (estator, rotor, se realizó la lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina. Se reemplazaron los patines superior axial y un patín radial, inspección de holguras de los alabes móviles en el distribuidor y cámara espiral.
+ Inspección metrológica a la unidad.
+ Pruebas eléctricas al generador: rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de la unidad: Paros Rápidos 86R, Paros de Emergencia 86E1 y 86E2.
+ Se realizó mantenimiento preventivo semestral eléctrico, mecánico y electrónico.
+ Medidas de resistencia de aislamiento en rotor: Antes: 321 K/322VDC y después del mtto: 98.4 M/513VDC.
+QUEDA PENDIENTE LA VERIFICACION DEL INTRUMENTO DETECTOR DE OZONO EN CABEZAS DE BOBINA, DEBIDO A QUE MUESTRA EN CERO LA MEDIDA EN LA IHM DEL TABLERO TCIG (VERIFICAR CON EL INSTRUMENTISTA).
+
+ Consignación No @147761, OT 3779281.
+Jefe de Trabajo: Luis Federico Álvarez.                                                                                         Trabajos Eléctricos y Pruebas: Daniel Palacios - Cristian Gómez.                                                 Trabajos Electrónicos: Carlos Sánchez - Néstor Ochoa.                                                                Trabajos Mecánicos: Oscar Parra y Renato Montoya.
+

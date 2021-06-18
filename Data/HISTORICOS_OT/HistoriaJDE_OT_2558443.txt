@@ -1,0 +1,10 @@
+Reporto: Carlos Mejia 02/07/2014 
+
+Buenas noches.
+
+Favor revisar el generador 6 ya que fue necesario retirarlo de AGC a solicitud del operador Norberto Mora ya que no obedecia a las consignas. 
+
+Al retirarla de AGC se realizan pruebas con consignas de potencia activa y no responde a consignas inferiores a 30 MW.
+
+2014/09/15 ANGEL ADONIS CADAVID OCHOA
+OT CERRADA SIN COSTOS YA QUE LOS TRABAJOS QUE LE DIERON SOLUCION A A FALLA REGISTRADA SE EJECUTARON EN LA OT PADRE 2586620

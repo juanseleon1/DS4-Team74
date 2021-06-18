@@ -1,0 +1,8 @@
+MAR 6/2014 OT: 2484708 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Se realiza mantenimiento overhaul segun instructivo GCG4E0020, porque presentaba la alarma de tierra rotor.
+Las mediciones encontradas son las siguientes:
+
+Rotor excitatriz 18.9 KV 49 VDC SucioRotor excitatriz 1.74 M 481VDC limpioRotor generador 4.52 G 500 VDC SucioRotor generador y anillos  596 M 500 VDC LimpioRotor generador y anillos 444 M 500 VDC SucioEstator excitatriz 361 M 500 VDC SucioEstator excitatriz 308 M 500 VDC LimpioInterpolos 9.53 M 500 VDC SucioInterpolos 85.5 M 500 VDC LimpioAnillo Superior 529 M 500 VDC SucioAnillo Superior 660 M 500 VDC LimpioAnillo Inferior 8.62 G 500 VDC SucioAnillo Inferior 7.18 G 500 VDC Limpio
+
+SOLICITANTE: Javier Giraldo Feha: Marzo 6/2014.
+Realizar mantenimiento overhaul.

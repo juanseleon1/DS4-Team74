@@ -1,0 +1,8 @@
+
+MAYO 12 DE 2014.
+Se genera esta OT. para conectar las señales de temperatura de los dos bancos de tiristores directos a la CCI 1 Y CCI 2 para eliminar puntos de falla.
+
+JUNIO 01 DE 2014.
+Se soldan los cables de los sensores de temperatura de los dos bancos de tiristores directamente en los modulos CCI 1 Y CCI2 del regulador de tension.
+Realizó: Fredy Duarte.
+Informó: William Lopera.

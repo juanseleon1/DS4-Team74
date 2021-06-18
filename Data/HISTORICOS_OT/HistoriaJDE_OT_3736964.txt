@@ -1,0 +1,13 @@
+19/06/2018 - 4:22 am.
+
+Se detecta en pantalla y fisicamente que la Valvula Rotor K de Cojinetes para la Unidad 2  se encuentra alarmada en estado OFF, quedò asì desde el momento que entrò la Unidad al S.I.N.
+
+Se solicita atender, mantener y/o corregir.
+
+Informa: turno 2 y 3 - Mario Zapata - wilson Arango.
+
+Realiza: Wilson Arango
+
+SE REVISA LA VALVULA Y  SE ENCUENTRA BLOQUEADA, SE LE HACE UN RESET APAGANDOLE LA ALIMENTACION DE 120 VAC, LUEGO SE ENERGIZA NUEVAMENTE Y SE NORMALIZA EL CONTROL, QUEDANDO EN CONDICIONES NORMALES DE OPERACION.
+
+REALIZO: GRUPO DE ELECTRONICA.

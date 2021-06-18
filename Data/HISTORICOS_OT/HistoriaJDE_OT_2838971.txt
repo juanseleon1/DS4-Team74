@@ -1,0 +1,8 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LOS FRENOS Y LOS GATOS DEL GENERADOR
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico de los gatos y frenos del generador cambiando su empaquetadura y verificando su correcto funcionamiento. Se realiza limpieza y pintura final
+
+Ejecuta: equipo mantenimiento mecánico GIII

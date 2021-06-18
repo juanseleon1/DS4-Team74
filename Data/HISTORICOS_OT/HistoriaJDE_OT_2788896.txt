@@ -1,0 +1,9 @@
+ESTA OT  SE REALIZA PARA CAMBIAR LAS TARJETAS  DRIVER LAS AGUJAS 
+
+08/JUNIO/2015
+REFERENTE INSTALACION NUEVAS TARJETAS DRIVER AGUJAS
+En el laboratorio se ensamblan las nuevas tarjetas Driver para el cntrol de las Agujas, esto es una mejora puesto fue una tarjeta diseñada en la unidad. Se realizan pruebas de funcionamiento y calibracion del lazo de corriente con el generador de señales.
+Se instalan en el tablero del regulador de Velocidad y se dejan en observacion para verificar comportamiento de los elementos semiconductores, se realizan pruebas de analisis de la señal PWM hacia los actuadores y se observa un comportamiento normal de la tarjeta.
+
+Ejecuto: Marlon Carmona
+Programador: Oscar Arango

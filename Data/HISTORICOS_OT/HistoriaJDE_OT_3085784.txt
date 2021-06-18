@@ -1,0 +1,22 @@
+21-04-16  CESAR AUGUSTO HOYOS HENAO
+Se realizó prueba de tiempos de apertura y cierre interruptor con los siguientes resultados.
+Cierre 
+Fase A: 161ms
+Fase B: 164ms
+Fase C: 162ms.
+
+Apertura:
+
+Fase A: 63.4ms
+Fase B: 61ms
+Fase C: 65ms.
+
+Resistencia de contactos
+
+Fase A: 12µ.
+Fase B: 5 µ.
+Fase C: 58 µ.
+
+Se compara con los resultados de la prueba pasada y está entre los mismos valores
+
+

@@ -1,0 +1,6 @@
+En el traformador de potencia fase S unidad 1 de Guadalupe 3 el ventilador # 2 esta presentando problemas(motor pegado.
+
+OCTUBRE 23 DE 2018
+Referente al ventilador 2 del transformador de potencia fase S de G31: e atiende la OT: 3777086, por presentar ruido anormal se desmonta el motor, se hace mantenimiento y cambio de rodamientos, se aplica pintura aislante al devanado, se hace pruebas de resistencia de aislamiento, se vuelve a montar y queda sin ningún ruido con una corriente de trabajo de 3.2 amperios.
+Realizó: Jhon Mario Morales - Luis Fernando Correa.
+Informó: William Lopera.

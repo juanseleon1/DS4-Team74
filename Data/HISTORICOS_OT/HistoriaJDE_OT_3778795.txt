@@ -1,0 +1,10 @@
+MP ANUAL:
+2264 NEUTRO TIERRA U12265 NEUTRO TIERRA U22266 NEUTRO TIERRA U32267 NEUTRO TIERRA U42268 NEUTRO TIERRA U52269 NEUTRO TIERRA U6
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+NOVIEMBRE 22 DE 2018
+Se realizó el mantenimiento anual electrico, se revisan las resistencias del neutro se limpian, se miden comprobando el buen estado, se hace ajuste de tornillería de las barra, verificación de las borneras de corrientes, estado de las porcelanas de los CT's pasa muros, sin ninguna novedad.
+Programò: William Lopera.

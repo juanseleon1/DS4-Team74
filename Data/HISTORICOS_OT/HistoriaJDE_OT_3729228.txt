@@ -1,0 +1,16 @@
+27/05/2018
+
+Referente al TDE auxiliares 480 VAC container plazoleta, presenta falla en la comunicacion con el sistema SCADA y en la IHM del proceso tiene condiciones con problemas de animacion. 
+informa  . Mauricio Ruiz y carlos Forero (TURNO 3)
+
+
+28/05/2018
+
+Referente al TDE control baja tension container plazoleta, se realiza verificacion del controlador TM 1703 se encuentra falla enla tarjea de red IEC104 y ademas problemas en el conversor de medios fibra a cobre del canal 1, se cambia la tarjeta  de red y ademas el conversor de medios, se confirma la visuializacion del proceso en el sistema SCADA y la animacion local queda normalizada, solo queda pendiente normalizar la transferencia devido a las modificaciones del grupo electrico para que este sistema quede normalizado.
+
+Realiza  Walter Tobón.
+
+TERMINADA CERRAR 
+
+
+

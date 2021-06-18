@@ -1,0 +1,2 @@
+FECHA: Marzo 22/2017 PROGRAMO: Daniel PalaciosEJECUTO: Ronal Arango.
+Se realiza mantenimiento según plan de periféricos, se hace revisión, limpieza y verificación al interruptor K08 de la MCH Porce 3.

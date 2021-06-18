@@ -1,0 +1,9 @@
+FECHA: JUNIO 21 DE 2016 OT 3151938
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta falla por baja presión en los Tip's, se revisa y no se encuentra ninguna fuga, solo que las válvulas de los Tip's no se estaban energizando aun funcionando bien el módulo 7,16, se mueven los cables y no responde inmediatamente pero pasado un minuto se energizan las válvulas, se deja en servicio el aerogenerador.
+
+

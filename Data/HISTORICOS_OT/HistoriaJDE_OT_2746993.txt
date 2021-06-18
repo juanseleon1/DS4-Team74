@@ -1,0 +1,2 @@
+2015/04/24 INGENIEROS CET, CESAR HOYOS - EDWAR LONDOÑO -YEISON ORTEGA
+Se realizó adecuaciones electricas y pruebas, con el fin de dar cumplimiento al acuerdo 640, Por el cual se establecen los requerimientos para la obtención y validación de parámetros del generador y los modelos del sistema de excitación, control de velocidad/potencia y estabilizadores de sistemas de potencia de las unidades de generación del SIN, y se definen las pautas para las pruebas y reajustes de los controles de generación.

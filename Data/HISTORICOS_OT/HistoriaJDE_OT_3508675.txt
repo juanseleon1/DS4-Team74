@@ -1,0 +1,12 @@
+AE: PRUEBAS ELECTRICAS DE LA UNIDAD-
+
+Las pruebas electricas del generador y la maquina, quedan almacendas en la siguiente direccion:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\ANUALES DE GENERADOR\UNIDAD G34\3 DIAGNOSTICO Y PRUEBAS\2 ELECTRICO
+
+
+JUNIO 15 DE 2017
+
+Se hacen pruebas eléctricas al rotor y estator por parte del personal de operación y mantenimiento (Carlos Palacio), se realiza protocolo de alarmas y disparos de la unidad, estas pruebas fueron hechas por ingenieros y supervisores de mantenimiento, los resultados y los procedimientos están en la bitácora diaria.
+
+William Lopera

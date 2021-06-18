@@ -1,0 +1,38 @@
+DICIEMBRE 04 DE 2014.
+ESTA ACTIVIDAD FUE REALIADA POR PERSONAL DE OPERACIÓN.
+GORTIZG
+SOLICITANTE:
+SE REQUIERE CAMBIAR  ESCOBILLAS DE LA UNIDAD 2 DE LA CENTRAL SONON1
+
+FEBRERO24 DE 2014 PROGRAMO: FARFREY OSPINA EJECUTO: GREGORIO LONDOÑO.
+NOTA: SE DEBEN COMPRAR LAS ESCOBILLAS PARA REALIZAR EL CAMBIO O REPOSICIÓN, YA QUE EN EL INSTANTE NO HAY EN EXISTENCIA.
+DIMENSIONES ESCOBILLAS:  
+ Unidad 2 Sonsón 1
+ESCOBILLAS ESTUDIO 15 DE LA CENTRAL GUADALUPE
+*Este estudio es propiedad  ''EXCLUSIVA'' de Carbone Lorraine de Colombia S.A. (MERSEN)*
+ 
+.
+- DIMENSIONES: Longitud 55 mm X Ancho 31.7 mm X Espesor 19 mm 
+- MONTAJE: 1CA,1T
+- CALIDAD: EG-34D
+- PRESION PORTA ESCOBILLAS (gr.): 1085
+- TIPO DE MAQUINA: Generador.
+- LOCALIZACIÓN: unidad 2 de la Central S1
+DATOS DE MAQUINA (CONSTRUCTOR): GENERAL ELECTRIC
+- CANTIDAD: 16 unidades.
+- DATOS DE PLACA GENERADOR: 
+
+Especificaciones técnicas
+- Densidad aparente: 1,52.
+- Resistividad (µ x cm): 1100.
+- Dureza shore: 35.
+- Módulo E (kg/mm2): 625.
+- Carga de ruptura a la flexión (kg/cm2): 270.
+- Caída al contacto (U (V)): M.
+- Frotamiento: M.
+- Carga admisible (A/cm2): 12.
+- Velocidad (m/s): 50.
+- La calidad de Carbón Electro-grafítica.
+
+SE REALIZA LA COMPRA DE 20 ESCOBILLAS ESTUDIO15 SE ENVIAN A LA CENTRAL CON EL SUPERVISOR BERNARDO HULL Y QUEDA PENDIENTES PARA SU INSTALACION.
+

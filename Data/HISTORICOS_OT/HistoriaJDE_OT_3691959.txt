@@ -1,0 +1,16 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 26-02-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Cambio de desecante de gabinetes
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor 
+Realización de prueba de calidad
+Se hace chequeo de nivelación de miras de torre y de vertedero y chequeo de la pendiente hidraulica del embalse.
+Verificación del emplazamiento de la estación
+Visita realizada el 22-02-2018: preventivo, se baja información, se chequea transmisión de las 14:28:40. Se hace prueba de calidad inicia a las 13:41 y termina a las 14:20 , mira inicial 975.33m  y final 975.315 m, 1 metro de mira equivale a 1m en la lienza. Se cambia silica, se hace nivelación de miras de la totte y del vertedero con Rubén Ospina.

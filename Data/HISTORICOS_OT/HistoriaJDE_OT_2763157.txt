@@ -1,0 +1,9 @@
+LUNES MAYO 11 DE 2015
+OPERADOR GERARDO PEREZ
+REVISAR Y CORREGIR FALLA EN LA CONMUTACION DE LOS SERVICIOS AXUILIARES DE ESTA CENTRAL, NO OBEDECE A MANDO AUTOMATICO, EL CTO. R51-06 RESPALDO PARA LOS SERVICIOS AXULIARES DE ESTA CENTRAL SE ENCUENTRA POR FUERA, REVISAR Y CORREGIR FALLA.
+
+MIERCOLES 13 MAYO DE 2015
+Referente al PLC servicios auxiliares Troneras: 
+Se encuentra fuente de 125 VDC - 24 VDC fallada , Esta fuente alimenta el PLC ABB principal que controla los servicios Auxiliares y la transferencia. Se cambia por una nueva y se realizan pruebas , el sistema queda trabajando en automático.
+
+Informó: Uaimer Díaz, Oscar Arango y Esteban Vásquez

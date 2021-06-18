@@ -1,0 +1,40 @@
+
+
+2016/04/05 DIEXER CARO
+SE GENERA ORDEN DE TRABAJO PARA LA ADECUACION E INSTALACION DE LOS CONTROLADORES DE NIVEL NEUMATICO DE LOS FILTROS DE GRAVEDAD UBICADOS EN LA PLANTA DEMI VAPOR 
+
+OT: 3066745
+
+EQUIPO A COMPRAR: CONTROLADOR DE NIVEL NEUMATICO 
+
+PROVEEDOR SUGERIDO: INSTRUCONT S.A.S
+
+CODIGO OW DEL PROVEEDOR: 857068
+
+DIRECCION DE ENTREGA: A42
+
+CODIGO DESCRIPCION: 108464
+
+DESCRIPCION 1: INSTRUMENT, MEDICIÓN Y CONTROL 
+
+DESCRIPCION 2: CONTROLADOR DE NIVEL NORRISEL
+
+CANTIDAD: 2
+
+UNIDAD DE MEDIDA: UN
+
+VALOR UNITARIO: 4.650.000 
+
+
+ANEXOS:
+
+
+Controlador de Nivel neumático para ser instalado y adecuado en los filtros de gravedad A y B de la planta R.O vapor, y garantizar la operación continua de la producción de agua desmineralizada para la generación de energía de la unidad a vapor # 3, el controlador debe tener las siguientes características             
+
+Controlador Neumático 1001A - 2SM-E, conexión a proceso de 2”  Tipo de conexión Rosca macho NPT, Presión Máxima de trabajo 6000 Psi, Material del cuerpo: A696CS encerramiento en caja resistente a la intemperie, Material del Eje 316 S.S, Modo del Piloto Eléctrico SPDT a prueba de Explosión, Montaje en caja derecha acción del piloto directa, Material de sello en buna, Manómetros en bronce de rango de 0 a 60 psi, desplazador Horizontal en PVC Diámetro de 1.88”  x 12.00”  de largo
+
+Los equipos se recibirán a satisfacción instalados y configurados en sitio ubicados en el sistema de producción de agua desmineralizada filtros de gravedad A y B planta R.O de la central termoeléctrica la Sierra, el proponente deberá suministrar el servicio de instalación con el personal idóneo y calificado, este deberá colocar puesta en servicio el sistema que acopla un actuado neumático de simple efecto pilotado por una solenoide eléctrica a 110 VAC la cual le permite el accionamiento, de forma manual y automática, deberá entregar planos, de cómo queda instalado el controlador al sistema.  
+
+
+
+ELEMENTOS PARA LA CENTRAL TERMOELECTRICA LA SIERRA, PLANTA DESMINERALIZADA OSMOSIS INVERSA R.O CICLO COMBINADO FILTROS DE GRAVEDAD A y B.

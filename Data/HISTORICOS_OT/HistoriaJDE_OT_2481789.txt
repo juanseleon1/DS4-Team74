@@ -1,0 +1,15 @@
+2014/05/02 IVAN SUAREZ - NESTOR RAMIREZ OT: 2481789
+
+Se realizó mantenimiento preventivo al ventilador S5, se realizó medida de aislamiento con un valor registrado de 54.8M, se realizó arranque en vacio ya que no posee bandas instaladas. 
+
+Medida de corrientes: 
+R: 32.2 A
+S: 30.4 A
+T: 24.5 A
+
+Medida de Voltajes: 
+RS: 451 V 
+ST: 452 V
+TR: 452 V
+
+Planeó: Ruben Arboleda

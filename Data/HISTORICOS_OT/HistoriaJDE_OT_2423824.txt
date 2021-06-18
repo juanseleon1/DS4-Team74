@@ -1,0 +1,41 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  ______________
+
+PRESION DE ARRANQUE: _____56.79_________
+
+PRESION DE PARO: _____59.47_________
+
+TIEMPO DE TRABAJO: ______2.51"________
+
+TIEMPO DE REPOSO: ______________
+
+TENSION DE BANDAS EN MM. ______________
+
+TEMPERATURA CARCAZA MOTOR: ______________
+
+TEMPERATURA CARCAZA UNIDAD:______________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:______________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:______________
+
+
+
+
+Observaciones:_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

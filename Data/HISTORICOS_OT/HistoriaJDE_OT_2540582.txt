@@ -1,0 +1,6 @@
+
+FECHA: MAYO 30 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Debido a la falla por vibraciones se verifica el sensor PCH y se encuentra físicamente bueno pero muy sensible, se ensayaron otros sensores, que se encuentran para prueba, entre los cuales había uno que respondía a la vibración pero no tan sensible se coloca y se deja trabajando el aerogenerador.

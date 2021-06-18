@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ
+Se realiza verificación y limpieza al transformador de excitación en el piso S2, al seccionador de 500 V AC, a los bancos de tiristores, al barraje de salida de 125 V DC, al interruptor de campo siguiendo el procedimiento. Se realiza mantenimiento al transformador de excitación y se le hacen chequeos de resistencia de aislamiento, resistencia óhmica, medida de inductancia. Se llenan registros con los datos obtenidos.
+Trabajos realizados por: Yoanis Rodriguez, Ángel Sánchez
+
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

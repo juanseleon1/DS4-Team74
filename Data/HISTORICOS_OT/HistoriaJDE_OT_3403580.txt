@@ -1,0 +1,23 @@
+CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+ 07/03/2017. SERGIO OLIVARES D. REALIZO: FERNANDO CASTRILLON Y EDWAR LONDOÑO O.T. 3403580
+ No se encontro ninguna novedad en el control de los sensores de la válvula de admisión.
+
+ Medidas electroválvulas:
+ 20 HL = 339.3 
+ 20 BP = 332.8 
+ 20 SVO = 338  
+ 20 SVC = 319.8 
+
+ MICRO SWICHE = OK.CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+ 07/03/2017. SERGIO OLIVARES D. REALIZO: FERNANDO CASTRILLON Y EDWAR LONDOÑO O.T. 3403580
+ No se encontro ninguna novedad en el control de los sensores de la válvula de admisión.
+
+ Medidas electroválvulas:
+ 20 HL = 339.3 
+ 20 BP = 332.8 
+ 20 SVO = 338  
+ 20 SVC = 319.8 
+
+ MICRO SWICHE = OK.

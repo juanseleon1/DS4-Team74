@@ -1,0 +1,8 @@
+
+FECHA: DICIEMBRE 13 DE 2013
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se presenta disparo del Mcb 104F1 que produjo falla por comunicación, se procede a restablecerlo y se deja en funcionamiento el AG.
+
+

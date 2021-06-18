@@ -1,0 +1,13 @@
+26/03/2016
+SOLICITANTE: CARLOS HERNANDO SALAZAR VALLEJO
+LA CALEFACCIÓN NO ENCIENDE NI EN MODO MANUAL NI EN AUTOMÁTICO. SE REVISA ALIMENTACIÓN EN SA1 Y ESTÁ NORMAL.
+
+23/08/2016. SERGIO OLIVARES D.
+
+Se cambia relé de control 53-X de 125 VDC de la calefacción,en el tablero DU-12, tenia abierta la bobina.  
+
+Se prueba la calefacción en manual y automático, con funcionamiento exitoso.
+
+Medidas: voltajes AC -- RS: 455 ST: 455 RT: 454.5 Voltios 
+
+    Corrientes -- R:18  S:18.4  T:18.5 Amperios

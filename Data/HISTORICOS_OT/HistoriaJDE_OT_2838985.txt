@@ -1,0 +1,8 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LA TUBERIA DE REFRIGERACION DE LOS COJINETES
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico de la tubería de refrigeración la limpieza interna utilizando hidrolavadora y una pesca para remover el lodo
+
+Ejecuta: equipo mantenimiento mecánico GIII

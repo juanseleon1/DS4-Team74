@@ -1,0 +1,13 @@
+
+SOLICITADA POR: ORLANDO CORREA , GUSTAVO QUINTANA .
+
+FECHA : 23/09/2018 
+
+SE FALLA LA UPS DE CAMARA DE VALVULAS GUADALUPE 3 , OCASIONANDO DISPARO EN LAS DOS MARIPOSAS  Y A SU VEZ  PARO DE EMERGENCIA DE LAS 6 UNIDADES GIII. 
+
+FECHA : 23/09/2018 
+
+se reviso UPS de Camara de Valvulas Guadalupe 3, se evidencia falla por explosion de algunos componentes electronicos de la UPS, se reemplaza esta UPS con  UPS de respaldo que se habia instalado  para los dos equipos de la sala de operacion de Guadupe 3, tambien se cambia fuente de 24 VDC que se quemo durante el evento en el gabinete de control de la RIO. 
+se realizan calculos de autonimia de la UPS instalada, segun carga medida en camara de valvulas, dando como resultado 6 horas de Autonomia.
+
+PROGRAMO: Luis Adrian Cardona. 

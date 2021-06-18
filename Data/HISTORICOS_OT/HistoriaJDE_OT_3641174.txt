@@ -1,0 +1,11 @@
+
+2017/11/23 DIEGO BEDOYA
+Se realiza la revisión del cojinete de turbina de la Unidad Nº7 y se registran los siguientes datos:
+Medida del nivel de aceite con flexómetro: 316 mm
+Medida del nivel de aceite en Prosonic: 316 mm
+
+El trabajo fue realizado por Andres Alzate y Wilder Herrera
+
+marzo 30 de 2019 
+ot terminada y cerrada 
+andres ramirez 

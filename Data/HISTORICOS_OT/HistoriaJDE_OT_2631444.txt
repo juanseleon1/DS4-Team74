@@ -1,0 +1,4 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+NOVIEMBRE 26 DE 2014 DIEGO BEDOYA
+Se realiza la limpieza del rotor por parte del grupo electrico, y se verifica que el aislamiento subió después del momento de la limpieza.

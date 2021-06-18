@@ -1,0 +1,13 @@
+FECHA:25/10/2016.
+SOLICITANTE:FERNANDO GOMEZ M
+en estos momentos se encuentra indisponible el chiller #1 de playas, por falla en el sensor de temperatura en el refrigerante por favor revisar.
+
+FECHA: 26 OCTUBRE 2016
+OT:     3291389
+REALIZO: GABRIEL URIBE
+NOTA:SE VERIFICA SENSOR DE TEMPERATURA EN EL REFRIGERANTE COMPRESOR, SE ENCUENTRA MALO, SE INFORMA A UNIDAD DE EDIFICIOS  PARA PROCEDER A REALIZAR LA REPARACION CON CSL, EN ESPERA DE INTERVENCION POR PARTE DE ESTE PERSONAL. 
+
+
+FECHA: 30 OCTUBRE 2016
+OT:            3291389
+Con personal de la empresa LARCO se realizó el cambio de sensor de temperatura de descarga del refrigerante del chiller 1, además se realizó ajuste del sensor de salida agua del evaporador. Se configura los parámetros de la interface dejando el equipo como principal y en observación por parte del equipo de operación. 

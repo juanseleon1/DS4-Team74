@@ -1,0 +1,6 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Darío Puerta, Carlos Vásquez y Jhon Jader Orrego.
+Planeador: Luis Federico Alvarez Alvarez
+Se hace revisión en el recinto del generador de la iluminación, tomas eléctricas, cableados del recinto, se revisa el estado del sistema de puesta a tierra, el estado de la soportería metálica, revisión de las mallas de separación en barras y punto neutro y se realiza limpieza en la totalidad del recinto (con grupo mecánico y electrónico)
+Trabajo ejecutado por: Darío Puerta, Carlos Vásquez y Jhon Jader Orrego.
+
+XE: INSPECCION Y LIMPIEZA RECINTO GENERADOR UNIDAD

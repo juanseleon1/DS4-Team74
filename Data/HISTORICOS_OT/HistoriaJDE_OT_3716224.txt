@@ -1,0 +1,5 @@
+2018/04/24 RUBEN ARBOLEDA
+Se crea OT para ejecución de mantenimeinto preventivo a la valvula de admision.
+
+2018-04-24 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3716224, PASO:1         
+ Se realizó revisión y mantenimiento general a las electroválvulas de la válvula de admisión de la Unidad 7, queda pendiente realizar medida de sensores.

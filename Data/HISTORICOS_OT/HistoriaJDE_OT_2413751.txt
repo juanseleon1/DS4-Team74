@@ -1,0 +1,10 @@
+XL-VERIFICAR Y LIMPIAR EN EL MONITOREO PCSV-PCSD, LA INSTRUMENTACIÓN DEL SISTEMA DE VIBRACIONES Y DESCARGAS PARCIALES.
+
+
+19/11/2013              
+
+Se realiza mantenimiento al tablero y los controladores de este sistema, además de verificación de los puntos de calibración en los acelerómetros y sensores de proximidad
+
+SUPERIORUGB 0° 11.35 UGB 90°11.98INFERIORLGB 0°12.13LGB 90°12.40TURBINATGB 0°11.30TGB 90°12.35
+
+Realizado por Walter Tobon

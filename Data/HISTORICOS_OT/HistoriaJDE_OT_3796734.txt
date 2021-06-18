@@ -1,0 +1,18 @@
+SOLICITANTE: MARTA PARRA
+FECHA: 21/12/2018
+
+EN LA UNIDAD G31 SE ENCUENTRA PRESENTE LA ALARMA ESTACION HIDRAULICA NIVEL ACEITE TANQUE SUMIDERO ALTO, EL NIVEL EN EL MOMENTO ESTA EN 633 MM Y LA ALARMA POR ALTO ES EN 540 MM. SE REVISA EL INSTRUMENTO ANALOGO Y EL NIVEL ESTA EN SU NIVEL PATRON. EL VALOR DE INDICACION DEL INSTRUMENTO ELECTRONICO NO COINCIDE CON EL VALOR REFERENCIA DEL INTRUMENTO ANALOGO.
+
+26-12-2018
+programador jose montoya
+este trabajo se debe realizar con maquina parada 
+primero se debe llevar fisicamente el nivel del tanque acumulador al patron para saber como queda el nivel del tanque acumulador y poder realizar los cambios en el escada.
+27-12-2018
+se aprovecha un paro de la unidad y se ajustan los niveles del tanque acumulador que estaba en nivel alto y se recupera el nivel del tanque sumidero, se colocan los parametos igual que el tanque sumidero de la unidad 2 asi:
+nivel muy alto:800
+nivel alto:700
+nivelpatron:655
+nivel bajo:610
+nivel muy bajo:570
+queda trabajando sin alarmas.
+Oscar Arango, Jose Montoya

@@ -1,0 +1,4 @@
+
+ ABRIL 20 DEL 2015 - JEOVANNY CORREA G
+
+Se requiere llevar la señal del sistema de filtros de refrigeracion a las pantallas de operacion de G4, esto debido a que con las reguladas que hay en el sistema se paran los filtros, ocasionando un bajo nivel en el tanque poniendo en riesgo la generacion.

@@ -1,0 +1,7 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Frank Córdoba, Julián C. Giraldo y Olga Viana.
+Planeador: Luis Federico Alvarez Alvarez
+
+Se realiza mantenimiento eléctrico general al tablero +TCV y a las acometidas motores y electroválvulas asociadas a él. A los motores (6) se les realiza chequeo de aislamiento/tierra y se llenan planillas. Los equipos se dejan en condiciones operativas.
+Trabajo ejecutado por: Frank Córdoba, Julián C. Giraldo y Olga Viana
+
+XE: VERIFICAR Y LIMPIAR EQUIPO HIDRAULICO VALVULA ADMISION Y TABLERO +TCV DE LA UNIDAD

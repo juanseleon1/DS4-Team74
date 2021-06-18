@@ -1,0 +1,4 @@
+
+MARZO 22/2019 OT: 3821650  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO 
+
+Se presenta falla comunicación controlador superior 7,0 0C16; se inspecciona y se encuentra apagado el módulo 7,0 lado Azul, se procede a realizar el respectivo cambio y dejar en servicio el aerogenerador.

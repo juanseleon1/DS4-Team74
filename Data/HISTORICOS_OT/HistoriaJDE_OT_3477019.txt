@@ -1,0 +1,10 @@
+FECHA: MAYO 18/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: DIEGO RESTREPO.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza inspección, limpieza y mantenimiento al tablero eléctrico +TCCCM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+
+XE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCI DE LA UNIDAD

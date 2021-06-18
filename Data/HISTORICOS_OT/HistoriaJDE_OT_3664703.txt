@@ -1,0 +1,11 @@
+fecha: 2018-01-06 ot: 3664702 mtto: eléctrico PROGRAMÓ: CRISTIAN A GÓMEZ ejecutó: JAIRO TORRES - OLGA VIANA
+Se realiza mantenimiento y limpieza aL TABLEROs de CONTROL, bornes DE POTENCIA, terminales, cableado, MOTORES de los ventiladores y compresores de aire comprimido pertenecientes al sistema de AIRE SERVIVIOS GENERALES (S3). EL PROCEDIMIENTO SE REALIZA Según IDM: GCP2E0015. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Procedimiento aplicable a los tableros de arrancadores y control de los compresores.  Realizar inspección visual de tapas flojas, puertas y cerraduras, bornes de potencia, borneras, terminales, peinetas, conexiones de potencia y cableado.   
+
+ESTA OT SALE PARA EL AIRE COMPRIMIDO, PERO SE DEBE INTERVENIR CADA COMPRESOR QUE DEPENDA DE EL.

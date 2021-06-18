@@ -1,0 +1,18 @@
+2018/05/23 _ CARLOS ENRIQUE MONCADA. OT N° 3718016.
+Se realiza mantenimiento general, limpieza y verificación de la instrumentación y cableado, Se encuentran las siguientes novedades:
+Bornera TB - 102, bornes: 129-130 puenteados en bornera y cables sueltos.
+Bornera TB - 103, bornes: 102, 104, 106, 108, 109, 110, 112, 114, abiertas con tarjeta de bloqueo desde 04/10/2011.
+Bornera TB - 105, bornes: 117, 118, 120, bornera puenteada, cables sueltos.
+Borne 130 cable suelto. 
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+XL: LIMPIAR Y VERIFICAR INSTRUMENTACION GEN +TCIG, DE LA UNIDAD
+
+FECHA: 23/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

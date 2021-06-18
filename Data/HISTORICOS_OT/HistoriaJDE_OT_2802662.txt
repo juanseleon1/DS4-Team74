@@ -1,0 +1,6 @@
+2015-06-25. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR PORQUE NO ESTA ARRANCANDO LA BOMBA AL ESTAR COMO PRINCIPAL.
+
+2015/07/07 OSCAR GIRALDO - JUAN DAVID GARCIA OT: 2802662
+Se realizó revisión de funcionamiento se encontró falla en el relé D2, correspondiente a la motobomba II, se reemplazo y se dejó en condiciones normales de funcionamiento.

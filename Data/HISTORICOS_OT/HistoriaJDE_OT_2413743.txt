@@ -1,0 +1,9 @@
+XL: VERIFICAR Y LIMPIAR REGULADOR ELECTRONICO TRV DE LA UNIDAD
+
+
+19/11/2013
+
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas, se realizan pruebas de apertura y calibración de lazos de control. Se instala transductor nuevo de potencia y se ajusta según metrología.
+
+Realizado por Walter Tobon

@@ -1,0 +1,20 @@
+- FECHA : MAYO 06 DE 2014
+- REALIZÓ : FREDY ZAPATA - ANDRÉS ZAPATA
+- ASOCIADO A LA OT :2522284
+- ASUNTO : SE ENCUENTRA FALLA EN LA BOBINA DE LA SOLENOIDE QUE REGULA EL PASO DE GAS LÍQUIDO ENTRE LA 
+                       ETAPA DE ALTA DEL COMPRESOR Y EL CONDENSADOR.
+                       SE ENCUENTRA QUE LA BOBINA TIENE DESPLAZADA EL VÁSTAGO CON RESPECTO A LA MISMA Y ESTA SE
+                       RECALIENTA. SE POSICIONA MECANICAMENTE , SE PRUEBA Y QUEDA NORMAL. 
+                       NOTA : SE ENCUENTRA BAJO EN CARGA DE GAS. SE COMPLETA .
+
+En el dia de hoy se encontro el aire al aire aconcionado funcionando con el sistema numero dos el cual se encontraba el compresor numero 2 fuera de servicio por tener el termico disparado debido a bornes flojos en el contactor de potencia, en el cual se evidencio una de las fases con recalentamiento en bornes ( fase T), se prosedio a realizar los ajustes correspondientes en las terminale sde los contactores y se ajustaron los termicos en el valor de 36 amperios, despues se procede a revisar el sistema numero 1  el cual se encontraba mostrando falla en compresor numero 1 lo cual se revisa y se encontro la selenoide de liquido floja lo cual no estaba activando la valvula, despues de normalizar la valvula se evidencia bajo nivel de refrigerante en el compresor numero 1 , lo cual se procede a realizar  carga de refrigerante.
+ 
+ 
+ 
+            NOTA:
+ 
+          *  se entrega al señor romulo patiño operacion de subestacion los dos sistemas de aire acondicionado en normal funcionamiento -- 
+          *  en lo pisible realizar cambios de los contactores de los compresores  primordialmente los que se encuentran con bornes recalentados 
+          * programar manteniento electrico y mecanico de todo el sistema. (priorida)
+  
+    

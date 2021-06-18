@@ -1,0 +1,5 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Frank Cordoba y Julian Giraldo.
+Se inspecciona, se limpieza y se hace mantenimiento al tablero eléctrico +TCCSM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+Trabajo ejecutado por: Frank Cordoba, Julian Giraldo y Olga Viana.
+
+XE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCS DE LA UNIDAD

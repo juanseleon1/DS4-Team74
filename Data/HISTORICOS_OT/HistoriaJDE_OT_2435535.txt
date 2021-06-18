@@ -1,0 +1,9 @@
+XI: VERIFICAR, MEDIR, COMPROBAR PREVENTIVO INSTRUMENTACION RADIADORES GENRADOR TRONERAS
+
+18/DICIEMBRE/2013
+MANTENIMIENTO ELECTRONICO PREVENTIVO SEMESTRAL
+Se realizo mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados a los radiadores. No se presenta ninguna anomalía con la instrumentación del generador. 
+Se realiza un levantamiento de información de la marcación de los cables de las RTD de los radiadores.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Francisco Gonzalez - Fredy Duarte

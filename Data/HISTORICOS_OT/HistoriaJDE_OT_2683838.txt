@@ -1,0 +1,21 @@
+- MEDIR RESISTENCIA OHMICA DEL ROTOR
+- FECHA : MARTES FEBRERO 03 DE 2015
+- REALIZÓ : FRANCISCO QUINTERO - MARIO RESTREPO - OSCAR GIRALDO - SEBASTIÁN HINCAPIÉ
+- ASOCIADO A LA OT : 2683838
+- ASUNTO : HACER MANTTO MP SEMESTRAL SEGÚN INSTRUCTIVO .
+                      * DATOS ROTOR ANTES DE LA LIMPIEZA :
+                        - ROTOR + BARRAJE : 451 KOHM
+                        - ROTOR : 809 KOHM
+                        - BARRAJE : 451 KOHM
+
+                      * DATOS DESPUÉS DE LA LIMPIEZA:
+                        - ROTOR + BARRAJE : 1.48 GOHM
+                        - ROTOR : 1.26 GOHM
+                        - BARRAJE : 4.42 GOHM
+
+                       * RESISTENCIA OHMICA ROTOR : 167 miliohm
+                       * TEMPERATURA PROMEDIO ROTOR : 41 ° C
+                       * TEMPERATURA AMBIENTE : 25 °C
+
+                       * TODA LA INFORMACIÓN TOMADA QUEDA REGISTRADA EN LA PLANILLA  PARA LOS REGISTROS DE 
+                          CALIDAD. 

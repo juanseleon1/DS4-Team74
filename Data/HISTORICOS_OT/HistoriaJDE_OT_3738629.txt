@@ -1,0 +1,30 @@
+FECHA: 18/06/2018    SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Camilo Cadavid - Iván Franco- Operación G4
+DESCRIPCIÓN: Se presenta explosión del interruptor de máquina de la unidad 3 de Guadalupe IV a las 22:19, con apertura del interruptor de la bahía Banco 2 de la subestación 230kv, operó la protección del relé diferencial SEL 387E (87-1, 87-2, 87-3 fases A, B y C) del banco 2.
+La máquina se encontraba sincronizada desde las 18:35 con 36MW y 0 MVar. 
+
+18/06/2018    
+PLANEADOR: CESAR GIRALDO
+PROGRAMADOR: BERNARDO BEDOYA
+
+SE REQUIERE VERIFICAR LA INSTRUMENTACIÓN DEL INTERRUPTOR DE MÁQUINA.
+
+18/06/2018
+- Se desmonta instrumentación asociada al interruptor del generador.
+- Se realiza verificación del manómetro y de los presostatos 63ALL1 y 63ALL2.
+
+Después de la verificación del manómetro, se determina que el error máximo es de 0,5 Kgf/cm², esto equivale a un error del 2,5%, el equipo cumple.
+
+MANÓMETRO (Kgf/cm²)PATRÓN0,00 5,00 10,00 15,00 20,00PRUEBA0,00 5,20 10,40 15,50 20,50ERROR0,00 0,20 0,40 0,50 0,50
+
+En el presostato AGLL1, el contacto 1- 2 se debe de cerrar cuando la presión neumática disminuye de 12 Bar, el contacto 3-4 debe cerrarse cuando la presión este por encima de 13 Bar.  En la siguiente tabla se encuentran los resultados de la verificación.
+
+PRESOSTATO AGLL1 Contac 1 y 2 (12 Bar) ERRROR Contac 3 y 4 (13 Bar) ERRROR12,20 0,20 13,23 0,2312,06 0,06 13,25 0,2512,08 0,08 13,3 0,311,91 -0,09 12,98 -0,0212,04 0,04 13,24 0,2412,06 0,06 13,20 0,2 PROMEDIO
+
+
+El comportamiento del presostato está dentro del rango de 12 y 13 Bar.
+
+
+En el presostato AGLL2, el contacto 1- 2 se debe de cerrar cuando la presión neumática disminuye de 12,5 Bar, el contacto 3-4 debe cerrarse cuando la presión este por encima de 13,5 Bar.  En la siguiente tabla se encuentran los resultados de la verificación.
+
+PRESOSTATO AGLL2 Contac 1 y 2 (12,5 Bar) ERRROR Contac 3 y 4 (13,5 Bar) ERRROR12,53 0,03 13,60 0,1012,52 0,02 13,48 -0,0212,51 0,01 13,57 0,0712,49 -0,01 13,56 0,0612,47 -0,03 13,40 -0,1012,50 0,00 13,52 0,022 PROMEDIO
+REALIZO: GRUPO ELECTRÓNICO

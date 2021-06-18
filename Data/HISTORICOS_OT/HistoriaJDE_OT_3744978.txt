@@ -1,0 +1,8 @@
+FECHA: 12/07/2018 SOLICITADO POR: Natalia Urrea - Camilo Cadavid - Operación G4
+DESCRIPCIÓN: Al darle mando de paro normal desde el CCCG a la unidad 2 de Guadalupe IV, este no inicia la secuencia, fue necesario dar paro de emergencia para poder desconectar la unidad del sistema.
+
+FECHA: 12/07/2018 
+
+Se realiza reset a secuencia de paro normal desde estacion de ingenieria, y se verifica el correcto funcionamiento.
+
+Ejecuto: Juan Caicedo, Esteban vasquez

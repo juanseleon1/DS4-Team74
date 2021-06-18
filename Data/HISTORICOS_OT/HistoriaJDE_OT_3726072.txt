@@ -1,0 +1,18 @@
+
+2018/06/26 _ CARLOS ENRIQUE MONCADA. OT N° 3726072.
+
+Se realiza mantenimiento general, limpieza y verificación al cableado y la instrumentación y la IHM. La fuente de entrada de las baterias se apaga a los 10 segundos cuando se apaga el interruptor principal, lo demas esta normal.
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+MPGETPO: LIMPIAR, VERIFICAR Y CHEQUEAR CONTROL DEL PROCESO TABLERO CONTROL COMPUERTA TCV2 CASETA 3 
+
+FECHA: 21/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA 
+
+ 

@@ -1,0 +1,14 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE TURBINA UNIDADES 3 A 6 GUADALUPE 3
+
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+ENERO 30 DE 2018
+
+fecha: 15/o2/2018
+-se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan ajustados así: ctpl 8.89vdc, ctpr  9.04vdc   - kph: 8.34 vdc.
+nivel cojinete de turbina se encontró en: 159 mm el nivel patrón es: 150mm 
+-se realizó inspección visual y limpieza a rtds, del cojinete hacia las protecciones de la máquina, según el formato de instrumentación:
+programo: luis adrian cardona

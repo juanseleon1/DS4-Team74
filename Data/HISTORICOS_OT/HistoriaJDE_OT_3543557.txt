@@ -1,0 +1,6 @@
+JULIO 18 DE 2017
+REVISAR ALARMA Y DISPARO DEL COJINETE COLECTOR
+
+1. 3543557 COJINETE COLECTOR (TURBINA) PJ U1
+·Se realiza verificación de la Alarma y el disparo en el tablero U+GC1 Control Generador 
+TEMPERATURA COJINETE GUIA RADIAL RA1Alarma Verificación  Disparo Verificación ----- ----- 75 75.7 OKTEMPERATURA COJINETE EMPUJE RADIAL RA1Alarma Verificación  Disparo Verificación ----- ----- 75 76.2 OKNota: Solo se visualiza el Disparo 

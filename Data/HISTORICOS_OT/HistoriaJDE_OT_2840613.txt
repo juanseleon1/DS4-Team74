@@ -1,0 +1,12 @@
+- FECHA : JUEVES AGOSTO 06 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - MARIO RESTREPO
+- ASOCIADO A LA OT : 2840613
+- ASUNTO : DE LOS CUATRO ( 4 ) COMPRESORES DE SERVICIOS GENERALES CUYA FUNCIÓN PRINCIPAL ES LA INYECCIÓN DE AIRE A 
+           TURBINA DURANTE LA RAMPA DE CARGA ENTRE 2 Y 50 MW , VERIFICAR : 
+
+Se hace una inspección visual al sistema de aire de servicios generales y se evidencia que el compresor # 3 correspondiente a la unidad # 2 (sistema de aireación turbina), se encuentra eléctricamente habilitado pero para el sistema de aire tiene una válvula cerrada; el compresor # 4 correspondiente a la unidad # 3 se encuentra deshabilitado eléctricamente.  En operación no se tiene información relacionada con el estado de estos compresores.
+Por su amable atención gracias. 
+
+           NOTA : IGUAL SE HACE LA VERIFICACIÓN DE CADA UNO DE LOS COMPRESORES DESDE DONDE ESTÁ CADA UNO CONECTADO
+                  EN LO QUE SE REFIERE A LA POTENCIA YA QUE EL PERSONAL DE MONTAJES NO ENTREGÓ TODA LA INFORMACIÓN
+                  CORRESPONDIENTE.

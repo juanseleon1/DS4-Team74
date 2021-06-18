@@ -1,0 +1,5 @@
+2019-02-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778976, PASO:1          
+Se realizó mantenimiento al motor de uma 12 transformador c/m gt    CORRIENTE: R:2,8, S:2,1, T:2,3, VOLTAJES RS:467, ST:466, TR:465,TEMPERATURA MAXIMA DE MOTOR 69,4°C Se encuentra la banda muy destemplada y la cubierta se ve desajustada.
+
+2019-02-19 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778976, PASO:2          
+Informes termográfico UMA 12, se anexa a la OT

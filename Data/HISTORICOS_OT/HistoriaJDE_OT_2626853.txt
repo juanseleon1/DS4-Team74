@@ -1,0 +1,5 @@
+2015/04/24 GIOVANNY DIAZ OT: 2626853
+Se observa punto caliente en la bornera X12 borne 1, al tocarlo los cables están sueltos.
+Temperatura 51,2°C
+Se requinta bornera X12 borne 1corrigiendo el punto caliente encontrado.
+Temperatura  30,9°C

@@ -1,0 +1,9 @@
+JHON MARIO PEREZ ARENAS. SEPT 27 DE 2018
+
+Revisar los siguientes comandos de control desde las OS para la unidad 6.
+Paro remoto de la  unidad . Se esta realizando desde los tableros de unidad en local manual. 
+Apertura al interruptor. 
+Control de megavares desde la estación de opeación.
+
+01/10/2018 OT:3769187 REALIZO: CESAR T. JIMENEZ, JUAN C. GRANADOS.
+SE REALIZO MANDOS DESDE LA ESTACION DE INGENIERIA, ENVIABA PULSO DE SUBIR VOLTAJE Y NO RESPONDIA A SUBIR, SE REVISA DESDE LA SALIDA DE LA BORNERA Y NO HAY VOLTAJE, SE REVISA Y SE ENCUENTRA QUEMADO EL FUSIBLE, SE CAMBIA Y PERSISTE EL CORTO, SE CAMBIA LA TARJETA DSDO-115 CORRESPONDIENTE A DICHA BORNERA Y QUEDA NORMAL.

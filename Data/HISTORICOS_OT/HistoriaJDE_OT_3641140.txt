@@ -1,0 +1,9 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDAD GENERACION GUADALUPE 4
+22-11-2017
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración y se realizan ajustes, quedan calibrados así: AXL 8.98VDC CIPL8.9VDC y el CIPR 9.65VDC.
+ 
+Nivel de aceite se encontró en 508mm, el nivel patrón es 500mm
+SE INYECTAN SEÑALES
+  COJ INFERIOR °CPATRÓN °C METAL1 METAL 340 40,3 40,260 60,3 60,280 80,3 80,0ALARMA  65,0 65,0DISPARO  70,0 70,0
+Se realizo inyección con el calibrador de procesos para comprobar alarma y disparo, correspondiente a estas señales de temperatura, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2017\TRIMESTRALES G4

@@ -1,0 +1,45 @@
+2018/09/10 RUBEN ARBOLEDA
+Se crea OT para realizar adecuación de cableado y la instalación de una caja de paso en la parte superior del carro, para la llegada del cable plano y la distribución hacia los motores y elementos sensóricos.
+
+2018-09-10 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3764135, PASO:1          
+Se inició con la presentación de la caja y la instalación del riel DIN y canaletas plásticas internas para el mejoramiento del cableado en el puente grúa Badoni.
+
+2018-09-12 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3764135, PASO:2          
+Se realizó la fabricación de una base para el montaje de la caja de paso en el carro del puente grúa Badoni.
+
+2018-09-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:3         
+ Se realizó la instalación de caja de paso con apoyo del personal de mantenimiento mecánico, adicionalmente se empezó a retirar los cables de la caja de paso provisional y a presentarlos en la caja de paso nueva.
+
+2018-09-15 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:4          
+Se realizó adecuación de cableado en la caja de paso del puente grúa Badoni, se organizó el cable plano en la caja de paso ubicada en el carro, queda pendiente adecuar el cableado de salida de la caja para los elementos como motores, frenos y sensores.
+
+2018-09-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:5          
+Se realizó adecuación de cableado en la caja de paso del puente grúa Badoni, se organizó el cable plano en la caja de paso ubicada en el carro, queda pendiente adecuar el cableado de salida de la caja para los elementos como motores, frenos y sensores.
+
+2018-09-19 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:7          
+Se continuó con la adecuación de cableado en el puente grúa Badoni
+
+2018-09-21 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:8          
+Se continuó con la adecuación de cableado en el puente grúa Badoni
+
+2018-09-24 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3764135, PASO:9          
+Se continuó con la adecuación de cableado en el puente grúa Badoni
+
+2018-09-26 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3764135, PASO:10          
+Se continuó con la adecuación de cableado en el puente grúa Badoni
+
+2018-10-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:11          
+Se continuó con la adecuación de cableado y con la conexión de cable en la caja de paso ubicada en el carro, para habilitar el control del puente grúa.
+
+2018-10-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:12          
+Se continuó con la adecuación de cableado y con la conexión de cable en la caja de paso ubicada en el carro, para habilitar el control del puente grúa.
+
+2018-10-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:13          
+Se continuó con la adecuación de cableado y con la conexión de cable en la caja de paso ubicada en el carro, para habilitar el control del puente grúa.
+
+2018-10-06 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:14          
+Se terminó de adecuar el cableado del puente grúa Badoni, se realizó prueba de funcionamiento quedando en condiciones normales, queda pendiente realizar una prueba en modo tándem.
+
+2018-10-12 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3764135, PASO:15          
+Se realizó prueba en modo tándem a los puentes grúa, operó normalmente
+Queda pendiente realizar instalación de tuberías para el cableado que sale de la caja de paso y que va para los motores, no se inicia con esta actividad debido a que se requiere el puente grúa para el mantenimiento mayor de la Unidad 1 (Octubre 2018)

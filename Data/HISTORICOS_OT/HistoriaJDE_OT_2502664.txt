@@ -1,0 +1,13 @@
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD
+
+-----------------------------------
+
+FECHA: 03-06-2014
+
+EJECUTÓ: FREDY ECHEVERRY - OLGA VIANA - DARIO PUERTA
+
+Se realiza mantenimiento al sistema contra incendio, instrumentación asociada y descarga CO2 del  generador U3. Se realizan pruebas de disparo (Alarma y sirena) por condiciones (De temperatura y humo) y disparo manual. No se encuentran averías ni fallos en los equipos, los cuales responden satisfactoriamente a todas las pruebas. Una vez terminadas las pruebas, se bloquea la descarga de CO2 y se entrega a operación. IDM: GCP3E0018.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+-----------------------------------

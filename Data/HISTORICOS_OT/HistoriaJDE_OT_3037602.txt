@@ -1,0 +1,13 @@
+
+SOLICITANTE: PEDRO ROBAYO
+FECHA: MARZO 02 -2016
+EJECUTANTE: ALVARITO PUSHAINA PROBAYO
+
+
+
+
+
+REVISION DEL SISTEMA DHIDRAULICO 
+
+
+Se hace el cambio de la bomba del sistema hidraulico y arracamos la maquina pero salio por corriente de tiristores L1,L2 L3 se hace el mantenimiento a los contactores 163K5 y 163K6 pero continuo con el problema se verifican los voltajes en el modulo 152A3 y se encontro que el positivo no llegaba se mira en los planos y se da con le problema que viene del minibreker 153F1 estaba cerrado pero malo se cambia y se deja el AG en servicio

@@ -1,0 +1,92 @@
+REALIZAR VERICACION DE LA INSTRUMENTACION RTDS  ESTATOR, COJINETES Y RADIADOR .
+
+31 ENERO/2018 OT: 3673789   PROGRAMADOR: JGUINGUER  EJECUTA: AVILLA
+ Se realizo revisión, ajuste y mantenimientos a la instrumentación general de la central pajarito.
+DEVANADO ESTATOR
+PATRON             U1                        U3                   U5
+0ºC                      0.9ºC                   1.1ºC              0.6ºC
+70ºC                   70.9ºC                   71.2ºC            70,7ºC
+80ºC                   80,9ºC                   81,2ºC            80.6ºC
+90ºC                   90.9ºC                   81,1ºC            90.7ºC
+100ºC  100,9ºC                 101,1ºC          100.6ºC
+110ºC                 110,9ºC                 111,2ºC          110,6ºC
+Valor programado alarma 100ºC
+Valor programado disparo 110ºC
+
+
+Temp. Núcleo estator P1Patrón 0ºC 100ºC 110ºCinstrumento 0,1ºC 100,2ºC 110,4ºC Alarma Disparo
+Temp. Núcleo estator P2Patrón 0ºC 100ºC 110ºCinstrumento 0,4ºC 100,4ºC 112,4ºC Alarma Disparo
+Temp. Núcleo estator P3Patrón 0ºC 100ºC 110ºCinstrumento 0,8ºC 101,5ºC 111,2ºC Alarma Disparo
+Temp. Salida aire caliente generador TzPatrón 0ºC 50ºC 60ºCinstrumento 0,9ºC 61,0ºC 70,8ºC Alarma Disparo
+
+
+01 FEB/2016  PROGRAMADOR: JGUINGUER  EJECUTA: AVILLA
+
+SE REALIZA MANTENIMIENTO PREVENTIVO, AJUSTE  DE BORNERAS Y LIEMPIEZA GENERAL A LAS CAJAS DE PASO Y A TODA LA INSTRUMENTACION. SE HACE VERIFICACION DE ALARMAS Y DISPAROS DE LAS RTD´S HACIA EL SISTEMA DE CONTROL.
+DEVANADO ESTATOR
+PATRON             U1                        U3                   U5
+60ºC                   60.5ºC                   59,6ºC            60,2ºC                           
+70ºC                   70.2ºC                   70ºC               70,1ºC                                             
+80ºC                   80,2ºC                   79,8ºC            80ºC                          
+90ºC                   90.2ºC                   89,9ºC            90ºC                                                   
+100ºC    100,4ºC                 100,1ºC          100ºC                              
+110ºC                 110,4ºC                 110,2ºC          110,4ºC                              
+120ºC                 120,5ºC                 120,3ºC          120,1ºC                             
+130ºC                 130,3ºC                 130,2ºC          130,2ºC                            
+Valor programado alarma 120ºC                   
+Valor programado disparo 130ºC 
+
+NUCLEO ESTATOR
+PATRON               T1                        T3                   T5
+60ºC                   60,1ºC                   59,9ºC            59,2ºC                           
+70ºC                   70ºC                      69,9ºC            69,6ºC                                             
+80ºC                   80ºC                      79,7ºC            79,9ºC                          
+90ºC                   89,9ºC                   89,7ºC            89,6ºC                                                   
+100ºC    100,2ºC                 100,4ºC          100ºC                              
+110ºC                 110,2ºC                 110,2ºC          110,1ºC                              
+120ºC                 120ºC                    120ºC             120ºC                             
+130ºC                 130ºC                    130ºC             129,7ºC                            
+Valor programado alarma 120ºC                   
+Valor programado disparo 130ºC 
+
+AIRE GENERADOR
+PATRON     AIRE FRIO         AIRE CALIENTE         
+10ºC                   10,1ºC                      -
+20ºC                   20,2ºC                   23,9ºC                   
+30ºC                   30,2ºC                   33,6ºC                   
+40ºC                   40,4ºC                   43.5ºC                   
+60ºC                   60,5ºC                   64.4ºC            
+70ºC                        -                        73.6ºC 
+Valor programado alarma aire frio 50ºC                   
+Valor programado disparo aire frio 60ºC           
+Valor programado alarma aire caliente 60ºC                   
+Valor programado disparo aire caliente 70ºC           
+
+COJINETE AXIAL
+PATRON       AIRE FRIO 
+40ºC                    34ºC                  
+70ºC                    67ºC                  
+80ºC                    77ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75C
+
+COJINETE GUIA RADIAL 1
+PATRON           METAL 
+60ºC                    59ºC                  
+70ºC                    69ºC                  
+80ºC                    78ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75C
+
+COJINETE GUIA RADIAL 2
+PATRON           METAL 
+40ºC                    39ºC                  
+70ºC                    64ºC                  
+80ºC                    78ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75C                      
+
+           
+
+        
+ 

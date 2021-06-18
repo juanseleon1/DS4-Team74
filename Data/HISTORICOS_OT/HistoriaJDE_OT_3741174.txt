@@ -1,0 +1,5 @@
+
+JULIO 02 DE 2018 OT: 3741174  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y JOAN GOMEZ
+
+
+Se presenta falla por bajo nivel aceite caja multiplicadora, se da Reset y la alarma no borra ni cambia el estado en el Scada,  se revisa la góndola y no se encuentra ninguna fuga y el nivel esta bien, se revisa el conector y cable del sensor de nivel de la caja multiplicadora, se decide cortar un tramo de cable (estaba muy cristalizado) y se cambia el conector, se conecta y la medida se normaliza.

@@ -1,0 +1,44 @@
+FECHA:  29 /11/3016
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: CAMILO FLORES, RODOLFO GARCES.
+ASOCIADO A LA OT: 3322465
+ASUNTO: EJECUTAR MP PROGRAMADO 
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 __________19___________
+
+Zapata No 2 __________19___________
+
+Zapata No 3 __________19___________
+
+Zapata No 4  __________19__________
+
+Zapata No 5 __________19___________
+
+Zapata No 6 __________19___________
+
+
+
+
+Observaciones: LAS ZAPATAS SE ENCUENTRAN EN BUEN ESTADO_________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

@@ -1,0 +1,6 @@
+FECHA: MAYO 30/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO: DARIO PUERTA.
+PLANEADOR LUIS FEDERICO ALAVREZ A.
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres. Contador operaciones Q0=1611, contador operaciones del motor de la bomba Q0=3229.
+Trabajo ejecutado por: Héctor Darío Puerta, Jonathan Arango, Maicol González, Julián Camilo Giraldo.
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

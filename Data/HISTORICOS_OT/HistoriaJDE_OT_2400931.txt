@@ -1,0 +1,8 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE TURBINA UNIDADES 3 A 6 GUADALUPE 3
+
+NOTA:Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en  150 mm, no se recupero aceite.
+Nivel patrón es 150 mm
+
+VIBRACIONES:  CTL:8.93 VDC
+                              CTP: 8.98 VDC

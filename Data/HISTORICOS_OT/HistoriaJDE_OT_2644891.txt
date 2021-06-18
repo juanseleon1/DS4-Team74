@@ -1,0 +1,13 @@
+25/11/2014  CÉSAR HOYOS- MAURICIO QUIJANO.
+
+Se revisaran las medidas de temperatura y vibración de la nueva motobomba CW3,  que su valor real sea el que es reflejado en el sistema scada.
+
+26/11/2014  CÉSAR HOYOS- MAURICIO QUIJANO.
+
+Se realizaron las lecturas con el calibrador de procesos y el medidor de vibraciones Viber Vs las lecturas en el Scada, se inyectaron señales de temperatura y se tomaron los datos. La comparación de los datos medidos se encuentra en el archivo adjunto. " LECTURA SEÑALES.xlsx"
+
+Se esta pendiente de revisar el canal U-4 6.27 perteneciente a vibraciaón Axial el cual esta dando un valor negativo, se revisará el dia 27/11/14 día el cual la máquina se encuentra en manteniiento.
+
+27/11/2014  CÉSAR HOYOS- CESAR TULIO JIMENEZ- LUIS EDUARDO ARCILA.
+
+Al revisar las señales se detectó que se encontraba mala la bornera análoga DSTA 131 correspondiente a las señales entre 1 y 16, se procede con el cambio se revisa y que da las OK. Se entrega operación.

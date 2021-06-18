@@ -1,0 +1,5 @@
+2018/10/04 RUBEN ARBOLEDA
+Se crea OT para realizar mantenimiento preventivo al Interruptor de la Unidad 8
+
+2018-10-04 REALIZÓ: OSCAR SANCHEZ - FERNANDO RUIZ,  PROGRAMO: RARBOLG OT: 3778717, PASO:1          
+Se realizó mantenimiento preventivo al interruptor de la unidad 2, se realizó medida de sensores se encontró en condiciones normales.

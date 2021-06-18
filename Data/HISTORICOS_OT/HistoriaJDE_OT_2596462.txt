@@ -1,0 +1,11 @@
+AE:REALIZAR FIBROSCOPÍA
+
+REALIZAR LA PRUEBA DE FIBROSCOPÍA AL GENERADOR SINCRÓNICO DE LA CENTRAL PAJARITO, SEGÚN EL INSTRUCTIVO GANTE0016.
+
+CARLOS A. GIRALDO J. 2015/01/15
+SE REALIZO LA FIBROSCOPIA Y TODO SE ENCUENTRA EN APARENTE BUEN ESTADO.
+
+Las cabezas de bobina se encuentran con baja contaminacion por polvo y vapores de aceite, al igual que el devanado.
+Los ductos de ventilacion se observan libres de contaminación, cuñas con buena apariencia fisica.
+
+El rotor se puede observar que se encuentra con muy poca contaminación y su apariencia es de condiciones normales.

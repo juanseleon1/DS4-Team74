@@ -1,0 +1,32 @@
+JULIO 14 DE 2018
+INFORME.
+SE ANEXA INFORME DE PARTE DEL GRUPO DE PROTECCIONES
+Buenas tardes Guillermo,
+
+Atendiendo la solicitud que nos realizaste en días pasados, se revisó la situación que actualmente se presenta en la red eléctrica de 13.2kV de la central Herradura. Para esto se modeló en el software Digsilent la topología de la red eléctrica, teniendo en cuenta datos técnicos de los equipos como generadores, transformadores y tramos de línea, así como también de los diferentes equipos de protección existentes en la zona de influencia. 
+
+Análisis del nivel corto circuito máximo.
+
+En la imagen que se presenta a continuación, se puede observar que ante la simulación de un corto circuito monofásico en el lado secundario del transformador (el tipo de corto circuito más común en redes aéreas), se presenta una corriente de corto máxima de 69A en el lado secundario de este, la cual evidentemente es mayor a la corriente de soportabilidad del transformador de 75KVA que reporta el fabricante del mismo (50 A), condición de falla que cada que se presente va a afectar lentamente la vida útil del transformador.
+
+Análisis de la coordinación de protecciones del seccionador fusible de 6.3A y del fusible tipo 3K.
+
+La ubicación de cada fusible se puede ver en el diagrama unifilar, (2) corresponde al seccionador fusible de 6.3A y (3) al fusible tipo 3K del lado de baja del trafo de 75 kVA. A continuación se presentan las curvas de protección y su respectiva coordinación. En color rojo se representa la curva del seccionador fusible y en color violeta la curva de protección del fusible tipo 2K.
+
+Verificación de la coordinación de protecciones.
+Después del análisis eléctrico mostrado, se llega a las siguientes conclusiones:
+
+1. Existe una correcta coordinación de los fusibles instalados en el tramo de red objeto de análisis (Para corto circuito monofásico en el circuito aéreo de 13.2KV los tiempos de actuación son 0.032s y 0.041s).
+2. No es posible limitar con ningún equipo de protección la magnitud de corriente de corto circuito que aportan las máquinas y el sistema.
+3. La soportabilidad en corriente de corto circuito del transformador es inferior al aporte del sistema eléctrico ante una falla monofásica en el lado secundario, condición que afecta la vida útil del equipo ante este tipo de fallas.
+4. Se recomienda pensar a futuro en el cambio del transformador de 75KVA por uno con mayor soportabilidad de corriente de corto circuito, esto teniendo en cuenta el nivel máximo de corto que aporta el sistema.
+
+Juan David Granada ZapataProfesional Operaciones Negocios - Unidad Operación y Mantenimiento GeneraciónTel: (574) 380 06 71 - Móvil 300 488 70 51
+
+
+
+05 DE JUNIO DE 2018
+
+REVISAR COORDINACIÓN DE PROTECCIONES EN LA LINEA DE 13.2 KV QUE VA DE LA HERRADURA HACIA LA HONDA. EN DOS OCASIONES QUEMÓ EL FUSIBLE DEL SECCIONADOR-FUSIBLE DE LA CELDA K03(TRANSFO 75 KVA, CUANDO DEBIÓ HABER QUEMADO LOS FUSIBLES RÁPIDOS DE 5K UBICADOS CERCA A LA CASETA DE VIGILANCIA DE LA HERRADURA Y/O  LOS DE 25T DEL NUEVO ABRIDERO DE CÁMARA DE VALVULAS.
+
+ARTURO BETANCUR

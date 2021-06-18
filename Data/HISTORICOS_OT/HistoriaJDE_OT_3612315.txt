@@ -1,0 +1,8 @@
+SOLICITANTE: TURNO 2/OPERACIÓN TRFECHA:29/09/2017
+
+Durante el proceso de paro no abre el interruptor de campo, siendo necesario operarlo manualmente. Igualmente en el arranque presenta paro de unidad por "FALLA GRAVE REG DE TENSIÓN".
+
+Nota: se revisa todo el lapso de control, se identifica que el rele RDA encargado de la apertura se encuentra enganchado y no responde al mando, se procedio a cambiarlo y se relizan pruebas respondiendo correctamente a la apertura. 
+
+Realizo: William Lopera-Juan Caicedo-Oscar Arango
+Informo: Carlos Andres Forero  

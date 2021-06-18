@@ -1,0 +1,13 @@
+MANTENIMIENTO ANUAL MOTORBOMBA #2 SISTEMA HIDRAULICO
+OCTUBRE 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: como mejora implementada, se empezo a tomar los datos de resistencia ohmica, para llevra una trazabilidad y asi, poder detectar fallas del nucleo.
+                                                                                                                               
+VOLTAJESFASEVOLTIOSR - S445S - T445T - R449 
+CTE. DE ARRANQUEFASEAMPERIOSR151.7S161.3T152
+CTES. DE TRABAJOFASEAMPERIOSR14.9S13.5T14.2
+AISLAMIENTO / TIERRAFASEGR1.78S1.62T1.50
+RESISTENCIA OHMICAFASEmR - S624S - T621T - R619
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Mateo Perez

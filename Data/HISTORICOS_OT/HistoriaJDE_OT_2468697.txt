@@ -1,0 +1,10 @@
+XE: INSPECCIONAR Y MEDIR LAS MOTOBOMBAS PRINCIPALES AGUA CONDENSADA ACAA1 Y AGUA CRUDA ACRAA1 DEL AIRE ACONDICONADO DE CASA MAQUINAS GUATAPE.
+
+Se realizó revision visual de cableado de gaveta y se realizó arranque de ésta motobomba. 
+
+Se encontró en operacion normal. 
+
+No se realizó toma de valores de voltaje ya que el empalme de esta motobomba es con cinta, no facilita su toma de valores. 
+
+Realizó: Nestor Ramirez - Ivan Suarez
+Planeó: Ruben Arboleda

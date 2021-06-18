@@ -1,0 +1,4 @@
+ SABADO 25 AGOSTO 2017 JORGE MARIO PEÑARANDA
+
+Referente al TAST de la unidad N°4: La válvula AA04 presenta no ovedece a las ordenes de apertura o cierre desde la IHM, despues de verificarse internamente el control de la misma y medir voltaje, se llega a la conclusion que el problema esta en las tarjetas de control, y esta al estar en corto  dispara el guarda motor de la valvula, de estas tarjetas no se tiene repuesto ya que este mismo problema esta en la unidad1, se deja la válvula abierta físicamente y visualmente se ve fallada en la IHM y en el SCADA. Informa y ejecuta Turno 2 de Operación. 
+

@@ -1,0 +1,13 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704917, PASO:1          
+Se realizó adecuación de iluminación para el rotor de la Unidad 7, para la limpieza criogénica, en el, rotor se dejó 1 reflector, listo para conectar.
+2018-04-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704917, PASO:1          
+Se realizó adecuación de iluminación para el rotor y estator de la Unidad 7, para la limpieza criogénica, en el, rotor se dejó 1 reflector, en el estator se dejaron 2 reflectores, quedan pendientes ubicar en sitio con el brazo de soporte.
+2018-04-10 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704917, PASO:3
+Se realizó adecuación de soldares y conexión de éstos para el calentamiento del rotor, con el fin de mejorar el aislamiento después de la limpieza criogénica, ambos soldadores suman una corriente en DC de 300 Amperios.
+2018-04-11 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704917, PASO:4          
+Se desconectó el rotor después de ponerlo a calentar la noche anterior, se realizó medida de aislamiento con resultado de XXX, se dejó desconectado en el día para realizar limpieza en la zona inferior del rotor, ventilador y eje
+Antes de finalizar la jornada laboral se realizó la conexión nuevamente de los soldadores
+El personal de la cuadrilla móvil ejecutó la limpieza criogenica

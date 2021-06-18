@@ -1,0 +1,7 @@
+XE: INSPECCIONAR Y MEDIR LAS MOTOBOMBAS PRINCIPALES AGUA CONDENSADA ACAA1 Y AGUA CRUDA ACRAA1 DEL AIRE ACONDICONADO DE CASA MAQUINAS GUATAPE.
+
+2017-08-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3550468, PASO:1         
+Se realizó mantenimiento al motor de acraa 1    CORRIENTE: R:54,6, S:55,1, T:52,7, VOLTAJES RS:442,2, ST:443,1, TR:441,4,TEMPERATURA MAXIMA DE MOTOR 78,6°C, se evidenció una alta temperatura en la fase R en la peineta de entrada, se hace OT correctiva #: 3559638
+Diagnostico: 
+La temperatura de la peineta de entrada se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 28.5°C, lo cual implica una mayor deficiencia en su operación, se recomienda reparar inmediatamente. Las corrientes y
+voltajes medidos están dentro de los parámetros normales de operación.

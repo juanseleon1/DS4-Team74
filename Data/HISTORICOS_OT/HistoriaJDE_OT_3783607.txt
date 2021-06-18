@@ -1,0 +1,12 @@
+
+OT estaciones de nivel.
+Solicitante-Planeador: Faustino Giraldo
+Aprobador: Gustavo Muñoz
+Fecha de solicitud: Noviembre 13 de 2018
+Tipo de mantenimiento: correctivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Descarga y verificación de datos de la estación
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor

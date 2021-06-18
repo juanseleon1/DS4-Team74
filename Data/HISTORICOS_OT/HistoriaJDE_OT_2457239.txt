@@ -1,0 +1,58 @@
+SOLICITANTE:
+EN LA CENTRAL RIOGRANDE 1, LA LA MÁQUINA AUXILIAR , REQUIERE LIMPIEZA EN EL RECINTO DEL GENERADOR . REPORTO: FERNANDO YEPEZ.
+
+ENE 26/2014 OT: 2457239 PROGRAMADOR: H RINCON EJECUTO: J MORALES
+PLANEADOR: VQUINTAN
+SE HACE UNA LIMPIEZA DEL RECINTO DEL GENERADOR AUXILIAR Y SE LIMPIA TODA LA MAQUINA.
+
+NOTA: SE ANEXA CORREO DE UN ACONTECIMIENTO QUE PASÓ DURANTE LA EJECUCION DE ESTE RABAJO.
+
+Buenas noches,
+
+Para atender las OT´s 2457220 y 2457239 se paró el generador (operadores Carlos Ortiz y Oscar Restrepo) el día sábado a las 9:00 am y se entró en funcionamiento en la tarde noche, se escuchó un ruido extraño al dar la orden de arranque del generador según información de Fernando Yepes, en el día de hoy, Domingo, se dió paro a las 7:48 am y según información adjunta a este correo escucharon el ruido nuevamente, se procede a vaciar tubería para inspeccionar y se evidencia el desplazamiento del rodete sobre el eje de 6.5 mm (lado generador)  y se detecta un rozamiento entre el rodete y el rompeolas. 
+
+Se procede a desarmar: se desmonta la carcaza, se desmontan los cojinetes, se desacopla el rodete y se extrae con el eje, este se ubica sobre unos soportes.
+
+Se hace el correctivo así:
+·Se fabrica con soldadura una prensa hechiza con soporteria y perfiles en ángulos existentes en la central. 
+·Se acondicionan dos Gatos hidráulicos y se posiciona el rodete nuevamente en el sitio de correcto funcionamiento.
+·Se pina la cuña nuevamente con soldadura.
+·Se pulen y se liman las nervaduras del rodete.
+·Se pulen y se liman las partes de rozamiento del rompeolas.
+·Se procede a hacer el montaje y armado de todas las piezas, conservando las holguras de protocolo de cojinetes y centrado del rodete.
+
+La consignación del generador se amplió hasta mañana, solicité un operador para hacer el llenado de la tubería y el arranque del generador, estarán además Fernando Yepes y Héctor Rincón.
+
+Saludos. 
+
+
+
+
+Víctor León Quintana SantamaríaLíder Operación MantenimientoDireccion Pequeñas Centrales Generacion Energia  victor.quintana@epm.com.co <mailto:victor.quintana@epm.com.co> Teléfono: +57-4 380 8968 Fax: +57-4 3808968 Celular: 3016328260
+
+De: VICTOR LEON QUINTANA SANTAMARIA 
+Enviado el: domingo, 26 de enero de 2014 06:06 p.m.
+Para: HECTOR ALCIDES RINCON ESCUDERO
+Asunto: RE: Desplazamiento Rodete Generador Auxiliar
+
+Buenas noches Héctor,
+
+En la inspección pude evidenciar el rozamiento que tuvo el rodete con el rompeolas.
+
+Muchas gracias.
+
+Saludos.
+
+
+Víctor León Quintana SantamaríaLíder Operación MantenimientoDireccion Pequeñas Centrales Generacion Energia  victor.quintana@epm.com.co <mailto:victor.quintana@epm.com.co> Teléfono: +57-4 380 8968 Fax: +57-4 3808968 Celular: 3016328260
+
+De: HECTOR ALCIDES RINCON ESCUDERO 
+Enviado el: domingo, 26 de enero de 2014 01:21 p.m.
+Para: VICTOR LEON QUINTANA SANTAMARIA
+Asunto: rueda movida
+
+Buenas tardes 
+En el día de hoy se disponía a limpiar  y corregir fugas de aceite de maquina auxiliar pero en la parada  se escucho un ruido muy extraño se vació tubería y se reviso el recinto encontrándose  desplazada la rueda  lado generador un centímetro aproximadamente.
+gracias
+
+

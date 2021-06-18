@@ -1,0 +1,42 @@
+ REALIZAR REVISION DEL AGC DE LA UNIDAD 
+FECHA PLANEACION MANTENIMIENTO: 02/10/2018
+N°OT:3771206 
+
+PLANEADOR: WALTER WILMAR TOBON
+
+PROGRAMADOR: WALTER WILMAR TOBON
+
+02 OCTUBRE  2018
+Referente al AGC  Unidad N°3: Estando la Unidad en 139 MW, Llaman del Centro de Control Medellín por que la Unidad no recibe consigna de AGC y solicitan sacarla de AGC y subirla a 150 MW, Se le da la orden de DESACTIVAR AGC desde las dos estaciones de ingeniería y no responde , se procede desde el Control de Unidad  a subir potencia activa a 150 MW respondiendo bien, después llaman nuevamente desde  el Centro Control Medellín para subir la potencia activa a 170 MW ,se hace desde la estación de ingeniería  respondiendo bien. La unidad queda por fuera de AGC hasta que el compañero Jorge Mario Quijano envíe un reporte técnico de lo sucedido. Se le informa al Ingeniero encargado Santiago Ramírez del evento.
+Nota: Sale de AGC la Unidad N°3 por cinco intentos fallidos (desconexiones) de regulación monitoreados por XM.
+Informa: Operación Turno 1 ( Fabian Gomez, Wilder Herrera, Esneider Rivera, John J Gonzalez).
+
+
+
+02/10/2018
+
+Unidad 3 Sistema Control de Unidad (TCU)
+
+PAS se realizan verificaciones en el controlador de unidad y aplicación SICAN PAS, se encuentra error en modulo IEC-104 controlador principal, se espera solicitar redespacho de esta unidad para actualizar la base de datos y normalizar este error, el sistema queda operativo.
+
+Realizado por: Carlos Moncada - Walter Tobón.
+
+
+03/10/2018
+
+Unidad 3 Sistema Control de Unidad (TCU)
+
+se realiza actualizacion de los dos controladores de unidad SICAN PAS,ademas se solicitan pruebas de AGC con el personal de XM las cuales se realizan en el periodo 16, el ingeniero Jorge quijano de EPM centro control nos cofirma la aprovacion de XM con la unidad y esta queda de nuevo realizando labores de regulacion secundaria .
+
+Realizado por:  Walter Tobón.
+
+terminada Cerrar 
+
+
+
+
+
+
+
+
+

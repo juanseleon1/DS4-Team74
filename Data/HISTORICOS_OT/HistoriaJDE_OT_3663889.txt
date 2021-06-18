@@ -1,0 +1,7 @@
+Se crea ot para el registro de tiempos y actividades en la actividad preventiva que complementa a las disciplinas eléctrica y electrónica que están trabajando en los equipos del teleférico (27/12/2017). Las actividades mecánicas por realizar son limpieza de grasa en cables, poleas y carricohes, y el cambio de una polea en la torre del teleférico
+
+Programador: Camilo Montagut - 29/12/2017
+
+Por solicitud del equipo electricista se hace limpieza de la grasa sobrante ubicada en las poleas y carricoches ya que estaban causando problemas en el aislamiento eléctrico de los cables tractores. Se inspecciona el tren de poleas de la torre del teleférico encontrándose que todos los rellenos se encuentran bajo medida y por tal motivo no se hace necesario el cambio de poleas.
+
+Ejecuta: equipo mantenimiento mecánico UOG

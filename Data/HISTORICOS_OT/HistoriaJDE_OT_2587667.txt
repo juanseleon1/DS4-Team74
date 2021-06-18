@@ -1,0 +1,11 @@
+AGOSTO 26/2014
+
+FAVOR REVISAR CONTROLADOR DE UNIDAD U2 G4, VIENE PRESENTANDO FALLA CONSTANTE DE PERDIDA DE COMUNICACION, PERDIDA DE ESTADO DE ALGUNOS SUBSISTEMAS; PRESENTANDO CONSTANTEMENTE ALARMAS.
+
+INFORMA:EQUIPO DE OPERACION.
+
+DICIEMBRE 20 DE 2014
+
+Se realiza mantenimiento a todas las tarjetas del regulador de velocidad que se encontraban muy contaminadas de polvo yccon puntos de soldadura deteriorados,en los controladores de unidad se decide colocar los suiches de los conectores de las tarjetas de Profibus en posición OFF tal e igual al de la unidad G41 y dejo de estar saliendo la alarma de comunicacion modbus.
+
+WILLIAM LOPERA.

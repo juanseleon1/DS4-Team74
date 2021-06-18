@@ -1,0 +1,60 @@
+
+09/09/2017 DIEXER CARO
+SE REALIZAN ESPECIFICACIONES TECNICAS Y SE SOLICITA PRESUPUESTO PARA LA CONSECUCION DE LOS REPUESTOS NECESARIOS PARA LA HABILITACION DEL ACTIVO, PENDIENTE RESPUESTA DE MARTHA FRANCO QUIEN ESTA GESTIONADO LOS RECURSOS PARA EL CDP Y SEGUIR CON LA COMPRA 
+
+OT: 3591836
+
+EQUIPO A COMPRAR: SUMINISTRO Y SERVICIO DE REPARCION VALVULA PCV 102 
+
+PROVEEDOR SUGERIDO: PUFFER COLOMBIA
+
+CODIGO OW DEL PROVEEDOR: 106711
+
+DIRECCION DE ENTREGA: A42
+
+CODIGO DESCRIPCION: 108464
+
+DESCRIPCION 1: INSTRUMENT, MEDICIÓN Y CONTROL 
+
+DESCRIPCION 2: VALVULA Y ACTUADOR FISHER PCV 102 RAMAL SUR 
+
+CANTIDAD: 1
+
+UNIDAD DE MEDIDA: UN
+
+VALOR UNITARIO: 48.000.000
+
+
+ANEXOS:
+
+Suministros de repuestos y Servicio de reparación para una válvula ED Globe valve size 6 Inch Class 600RF, Whisper I Cage Body, PCV 102 ramal Sur con número de Serial: 14633755 ubicados en la estación de gas principal de la central la sierra, City gate el servicio debe incluir la instalación de los elementos recomendados por el fabricante Fisher para una válvula tipo ED de tamaño 6”  pulgadas los cuales son:
+
+1.1U5069X0012; RING, PISTON;6 IN; CARBON-GRAPHITE FOR OXIDIZING SERVICE, FMS17F27.
+
+2.1U508046172; SEAT RING;6; ASME SA217 CA15, HTFGS2B8-38 HRC MIN
+
+3.1V6584X0042; PLUG/STEM, BAL;7 ORF,1L7500,18.38AB;416 HT/316 SST
+
+4.23A8913X032; CAGE, WHISPER I;6,7 ORF,2 TVL; ASTM A747 CB7CU-1, FMS20B18, H900, NON-PRESS RETAINING
+
+5.RGASKETX222; GASKET SET;6&6X4 E; GRAPH/INCONEL
+
+6.RPACKX00032; KIT, REPAIR; PACKING, SINGLE TFE,3/4 STEM
+La válvula de control de Presión PCV 102 ramal Sur la integran un Actuador y un Posicionador  
+Neumático Fisher para el actuador de Serial: 14633755 tipo 667 y tamaño 70, se recomienda remplazar los siguientes elementos
+
+1.1N1316X0042; BUSHING, SEAL;70; PTFE/25% GLASS, FMS17F16 
+
+2.2N130902202; DIAPHRAGM; SIZE 70 & 87; MOLDED NITRILE/NYLON, 0.084 INCHES THK, FMS17E44
+
+3.R667X000702; KIT, REPAIR;667 SPARES W/O DIAPH SZ 70&87
+
+los elementos deben ser instalados de acorde a las referencias descritas anteriormente en una Válvula ED de 6”  y su Respectivo Actuador con serial: 14633755, el servicio se prestará sobre la válvula de control gas PCV 102 ramal Sur Estación de gas Principal de la central Termoeléctrica la sierra, el proveedor deberá realizar todas las pruebas técnicas para colocar en servicio el equipo e instalara y realizara la configuración de un posicionado DVC6200, con los parámetros operativos previamente verificados por el técnico especializado, equipo que  lo suministrara la central,  el proveedor de servicios debe acreditar la experiencia de 10 años en mantenimiento de válvulas Fisher y deberá presentar certificado de representante certificado y autorizado de la marca para Colombia, para efectos de garantía. El proveedor asumirá los costos de viáticos y el tiempo del servicio el cual está condicionado a la disponibilidad del sistema.
+
+
+
+Elementos Para La Central Termosierra Válvula PCV 102 ramal de regulación Sur
+
+2018/12/20 DIEXER CARO 
+SE RECIBE LA VALVULA DE CONTROL LA CUAL FUE ENTREGADA POR EL PERSONAL DE PUFER COLOMBIA, PENDIENTE LA PROGRAMACION PARA LA INSTALACION DE ESTA 
+

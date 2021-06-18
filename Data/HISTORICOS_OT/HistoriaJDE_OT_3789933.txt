@@ -1,0 +1,14 @@
+
+29/11/2018 - 00:40.
+En proceso de paro de la Unidad se detecta fuga de aceite a nivel inferior del cuello del servomotor nro. 2 del distribuidor, fuga anormal de aceite de proceso, se requiere atensiòn preventiva y correcciòn en niveles de aceite.
+
+Realiza e informa: Alex John Restrepo - Wilson Arango
+Turno 3 de Operaciò
+
+
+Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+

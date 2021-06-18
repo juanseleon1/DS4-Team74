@@ -1,0 +1,30 @@
+AI:REALIZAR METROLOGIA TERMOMETRO X1 FASE R BANCO 2
+
+FECHA PLANEACION MANTENIMIENTO: 01/06/2016
+
+NUMERO DE CONSIGNACION: @130838
+
+PLANEADOR: HECTOR GOMEZ
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ VALENCIA.
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el Viernes 03 Junio del 2016 a las 7:00 am
+
+
+03/06/2016
+
+-Temperatura devanado de alta H1(Imagen Termica )CT. TCH1E relacion 795/2.5A :Se inyectan corrientes AC de 0 Amperios  hasta 2.5 Amperios En los bornes S30: 5 - 3 y se verifican temperaturas en el indicador  TM1 ,Se tomaron cinco lecturas en cada punto y se lleno el formato registro de verificacion, se retira la RTD de la temperatura de la cuba y se ingresa al baño seco de temperatura se aumenta la temperatura para confirmar el punto de alarma Temperatura 95°C y Temperatura de Disparo 105 °C   
+
+-Temperatura devanado de Baja X1(Imagen Termica )CT. TCX1 relacion 7880/2.5A :Se inyectan corrientes AC de 0 Amperios  hasta 2.5 Amperios En los bornes S31: 5 -3 y se verifican temperaturas en el indicador  TM2.Se tomaron cinco lecturas en cada punto y se lleno el formato registro de verificacion
+
+-Temperatura devanado de Baja Y1(Imagen Termica )TCY1 relacion 7880/2.5A :Se inyectan corrientes AC de 0 Amperios  hasta 2.5 Amperios En los bornes 303C: 1 - 2 y se verifican temperaturas en el indicador  TM2.Se tomaron cinco lecturas en cada punto y se lleno el formato registro de verificacion
+
+
+
+Realizado por JOHN JAIRO GONZALEZ VALENCIA.
+                         GUILLERMO ECHEVERRY

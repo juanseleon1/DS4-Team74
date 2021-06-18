@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en la lubricación del cable para tracción del malacate.
+
+
+
+Programador: Camilo  Montagut Gil - 04/11/2018
+
+En primer lugar se realiza limpieza del cable de tracción con cepillos de alambre con el fin de remover la mayor cantidad posible de la grasa asfáltica que anteriormente se le había aplicado. Posteriormente se realiza otro viaje en el malacate (en descenso, con el fin de que la grasa se impregne homogeneamente) y se lubrica toda la periferia del cable con grasa ELASKON.
+
+Ejecuta: equipo mantenimiento mecánico UOG

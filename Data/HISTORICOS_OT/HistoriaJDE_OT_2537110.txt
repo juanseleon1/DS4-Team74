@@ -1,0 +1,19 @@
+
+Alarma 2 excitación.
+Regulador de Tensión U6 - 6083
+Fecha: 2014-05-26 - Hora: 11:21 
+La alarma se presenta luego de cerrar interruptor excitación. En SILCO 5 se registra "26 ONE BRIDGE FAILED ALARM".
+
+2014- Junio -27 
+Se revisa y se encuentra la tarjeta GPA en falla, pendiente para cambio una vez se encuentre fuera de servicio la unidad.
+Luis Eduardo Arcila
+
+2014- Junio -02
+Se reemplaza tarjeta GPA del puente de tiristores #3 pero al sincronizar la unidad falla la tarjeta GPA del puente de tiristores #2
+Ambas tarjetas se envían para su respectiva reparación.
+Cesar Hoyos
+
+12/Junio/2014
+Se reemplaza tarjeta GPA del puente de tiristores #2, tarjeta reparada en RPM.
+ Queda trabajando la Unidad en condiciones normales. 
+Luis Eduardo Arcila

@@ -1,0 +1,19 @@
+SOLICITANTE: PEDRO SOLANO
+FECHA: NOVIEMBRE 12-2016
+EJECUTANTE: PEDRO ROBAYO  
+
+
+
+Se realizan maniobras operativas en subestación Jepírachi conforme el siguiente correo del Ing. Pedro Solano.
+
+
+Buenos días,
+
+Quedó programado para el 12 de Noviembre de 4:00 am a 7:00 am la maniobra de Apagón general subestación Cuestecitas. Adjunto el correo enviado por XM con el detalle de la consignación y las recomendaciones generales. 
+
+En la subestación Jepírachi ejecutamos las siguientes maniobras:
+
+1. 3:45 a.m. 12 de Noviembre: Operador de subestación Jepírachi detiene los aerogeneradores y des-energiza la bahía de transformador (abrir interruptor 52T y seccionador 89 T1.1).
+2. 4:00 a.m. 12 de Noviembre: Operador de Cerrejón Puerto Bolívar nos indica las maniobras a seguir para apertura de la línea LN 747. Un vez se realice la apertura de la LN 747, el operador del parque eólico procede a des-energiza la bahía de línea LN 742 (abrir interruptor 52L1, seccionador 89L1.1 y seccionador 89L1.2).
+3. 7:00 a.m. 12 de Noviembre: Operador de Cerrejón Puerto Bolívar nos indica la terminación de los trabajos en subestación Cuestecita y maniobras para energizar líneas LN 742 y LN 747.
+4.  Reestablecer la operación de los aerogeneradores.

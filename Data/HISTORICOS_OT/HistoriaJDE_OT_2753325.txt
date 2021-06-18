@@ -1,0 +1,26 @@
+SOLICITANTE: Alex J. Restrepo M. FECHA: Abril 30/2015
+
+Falla en módulo de comunicaciones genera paro de bombas de refrigeración, ocasionando salida de las unidades por alta temperatura en cojinetes. Además revisar referencia de medidas para disparo por temperatura en cojinetes  (SETTING). ESTA SITUACIÓN ES COMÚN A LAS TRES UNIDADES DE GUADALUPE IV.
+
+COMO MEDIDAD PREVENTIVA Y TEMPORAL SE DEBE OPERAR LAS BOMBAS DE REFRIGERACIÓN EN MODO MANUAL.
+
+
+
+En referencia al lazo 4 (F4) del controlador de comunes de G4, que tiene todas las señales de refrigeración bombas con sus VDF, y filtros con sus VDF…
+
+
+Esta red empezó a oscilar en el control… lo que ocasionaba que en las pantallas de operación saliera una avalancha de eventos del sistema de refrigeración de G4, y a su vez apagara los VDF parando la refrigeración de las unidades. lo anterior distraía al operador porque se llenaba la pantalla de muchos eventos al mismo tiempo y no se daba cuenta que las bombas se paraban, esto ocasiono inclusive algunas salidas de máquinas por calentamiento…
+
+Esta falla se buscó por todo el lazo de comunicaciones, uaimer en su momento cambio un módulo HS810 que vio fallado, y la falla persistió
+
+luego con esteban y Fernando Lopera depuramos este lazo y sacamos de la red, elementos que no estaban configurados en el control y no hacían nada, como son los VDF de las bombas y 2 IHM, pero estos elementos estaban cableados en el lazo F4 y la falla continuo.
+
+Luego yo desconecte físicamente toda la instrumentación, transmisores de presión, sensores de nivel de los filtros, sensor de nivel del foso, desde las multibarreras se desconectó tanto físicamente como el cíclico de comunicaciones desde la estación de ingeniería, para que el maestro no siguiera interrogándolos,  y la falla seguía..
+
+Por ultimo desconecte la RIO 25, esta tiene todas las señales de filtros, entradas y comandos, esta RIO no trabajo desde la modernización, cuando el personal de montajes se fue, este pendiente quedo, la RIO está configurada en el control y conectada físicamente, pero tenía el cíclico de comunicaciones deshabilitado para no recibir nada de datos, esta se desconectó físicamente y se reconfiguro la red conectado la resistencia de terminación en otro punto…
+
+Esto se hizo desde el lunes pasado a la fecha el lazo de la refrigeración no ha oscilado, voy a dejar esto en observación hasta el lunes 25 de mayo (15 días), para determinar que este si era el elemento que nos estaba ocasionando la falla o no…
+
+Luego de esto se tiene una OT para que las señales de filtro y comandos sean automáticos, no se hará por la RIO 25, lo hare por la RIO 24…. Para disminuir los puntos de falla y optimizar los módulos y los recursos de red…
+
+JUAN CAICEDO

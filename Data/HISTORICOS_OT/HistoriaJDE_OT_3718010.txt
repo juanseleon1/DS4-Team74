@@ -1,0 +1,13 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO:JHON JADER ORREGO.
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos +ECF y +TCFM tableros de control válvulas de frenos de la unidad, verificación en el tablero +TCF la aplicación y desaplicación de los frenos, revisión y verificación de los microsuiches finales de curso.
+Trabajo ejecutado por: John Jader Orrego, Frank Manuel Córdoba, Alejandro Echeverri y Ángel Sánchez
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

@@ -1,0 +1,8 @@
+2014/09/30 JUAN CARLOS DUARTE - JORGE GARZON
+Se identificó registro de incremento temperatura en el banco de transformadores 3, se realizó verificación y se encontró breaker de 480 que aliemnta la motobombas en posición disparado. 
+
+2014/09/30 SERGIO OLIVARES - JUAN DAVID GARCÍA - OSCAR GIRALDO - RUBEN ARBOLEDA
+Se realizó revisión y no se encontró anomalías ni puntos calientes, al tercer intento cerró el breaker 52C normalizando el funcionamiento de la motobomas, posteriormente (1 hora más tarde) se realizó una inspección termografica en la cual se evidenció un delta de temperatura en el cable de alimentación desde la DG2 hasta el +KA, para lo cual se abrio el breaker en DG2 y se dio ajuste. 
+
+No se evidenció falla, queda en observación. 
+

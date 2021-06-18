@@ -1,0 +1,19 @@
+MP ANUAL, EQUIPOS:
+2530 GRUPO RADIADORES GEN U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: 03/10/2018 
+
+se desconectan las RTDs de temperatura de entrada y salida de agua, y las RTDs de temperatura de entrada y salida de aire de los radiadores y se retiran.
+se desconecta y se retira el flujometro de salida de agua del   grupo de radiadores, se le realiza limpieza y luego se realiza el montaje y conexionado del flujometro de salida de agua del grupo de radiadores.
+
+se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, y a las RTDs de entrada y salida de aire de los radiadores. 
+Se encuentran terminales de conexión a RTDs en mal estado, por lo que se realiza cambio de terminales. 
+Después de la verificación se realiza nuevamente el montaje y conexión de todas las RTDs de temperatura de entrada y salida de agua, y entrada y salida de aire de los radiadores, y se les hace limpieza a todos los transmisores de temperatura.
+
+
+PROGRAMADOR: LUIS CARDONA
+

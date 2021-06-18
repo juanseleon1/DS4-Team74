@@ -1,0 +1,7 @@
+FECHA: 01/11/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+DESCRIPCIÓN: Por favor cambiar módulo PL810 fallado correspondiente a la Link 3 del generador ubicado en el tablero G3U3GE1LD01 piso del generador de la unidad 3 de Guadalupe III. Se identificó debido a que no se tiene visualización las temperaturas de agua de entrada y salida de los radiadores en las estaciones de operación.
+FECHA: 02/11/2018    
+
+Se cambia link PL810 quemada, por un modulo disponible como repuesto y se normaliza la unidad.
+
+Ejecuto: Francisco Javier Gonzalez. 

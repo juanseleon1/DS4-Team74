@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711350
+
+BAE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCI DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOS EJECUTO: OSCAR M. MONTOYA.
+
+Se realiza inspección, limpieza y mantenimiento al tablero eléctrico +TCCCM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+Trabajo realizado por: Oscar Montoya, Jairo Torres, Carlos Vasquez y Alejandro Echeverry.

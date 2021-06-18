@@ -1,0 +1,39 @@
+FECHA: 2018-28-11 OT N° 3779281 MTTO: ELÉCTRICO
+PLANEADOR: LUIS FEDERICO ALVAREZ A.
+PROGRAMÓ: DANIEL EDUARDO PALACIOS
+EJECUTÓ: JULIAN GIRALDO
+
+UNA VEZ INICIADA LA CONSIGNACIÓN POR PARTE DE INTERCOLOMBIA, SE PROCEDE A REALIZAR LAS PRUEBAS DE DISPAROS TRANSFERIDOS DESDE EL BANCO DE TRANFORMADORES. DESDE LAS FASES R,S Y T DEL BANCO 2 SE PRUEBAN LOS DISPAROS POR AMBAS PROTECCIONES (PRINCIPAL Y RESPALDO) Y DESDE EL PORTICO EXTERIOR, SE PRUEBA EL DISPARO POR BAJA PRESIÓN DE SF6 EN LA GIS DE SALIDA. ESTOS DISPAROS SON COMPROBADOS EN CASA MAQUINAS, BAHIA PROTECCIONES GENERACIÓN LADO EPM Y LADO ISA.
+SE REALIZAN LAS SIGUIENTES PRUEBAS DE DISPAROS TRANSFERIDOS DEL BANCO: DE LAS 14:00 A LAS 17:00
+EN LOS TRANSFORMADORES DE POTENCIA FASES R,S,T:
+ BUCHOLTZ
+ CAMBIADOR DE TAPS
+ VALVULA DE SOBREPRESION
+ MUY ALTA TEMPERATURA BOBINADO H1
+ MUY BAJA PRESION SF6
+
+EN LAS TERMINALES EXTERIORES A 500 KV
+ MUY BAJA PRESION SF6 TERMINALES R.S.T
+
+TAMBIEN SE REALIZARON DISPAROS POR PAROS PARCIALES PROVENIENTES DE LOS TRAFOS A LAS UNIDADES, COMO LOS PAROS PARCIALES 1 Y 2 POR TEMPERATURA DE DEVANADOS X1 Y Y1.
+
+SE REALIZARON LAS PRUEBAS DE DESEMPEÑO DE LAS PROTECCIONES SIEMENS DEL BANCO, TRABAJOS REALIZADOS POR JUAN DAVID GRANADA Y CARLOS ENRIQUE ARANGO DE LA UOMGE.
+
+SE APROVECHO LA PARADA PARA REALIZAR LAS PRUEBAS DE DENSIDAD DEL SF6 EN TODOS LOS BUJES DE ALTA DE TRAFOS Y TERMINALES EXTERIORES A 500 KV, DEL BANCO No 2.
+
+INFORME MTTO BIENAL BANCO DE TRANSFORMADORES No 2 NOVIEMBRE 2018
+Referente al Banco de Transformadores de Potencia No 2 de Porce 3:
+A las 17:18 Se entrega en operación en banco de transformadores No 2, después de realizar el mtto bienal.              
+Trabajos realizados:
+ Inspección eléctrica y mantenimiento preventivo bienal del banco de transformadores de potencia, transformadores secos de excitación de Porce 33 y Porce 34 y de auxiliares TA-02, fases R, S y T.
+ Lavado de aisladores poliméricos en las torres No 1, 7 y 8 de 500 kv. (Cuadrillas de mtto líneas de TyD).
+ Lavado de terminales poliméricas exteriores a 500KV fases R, S T y cable de reserva. (Cuadrillas de distribución Centro, con canasta de línea viva).
+ Pruebas de disparos transferidos DDT del banco de trafos, GIS interior y terminales exteriores en SF6. A las 14:10 Se inicia consignación C0161455, disparados transferidos S/E 500 kV, desde el Banco 2 de Casa de Máquinas.
+ Mantenimiento semestral eléctrico, electrónico.
+ Metrología del banco.
+ Inspección de la calidad del gas SF6 en terminales exteriores a 500KV y de las GIS interiores de transformador lado de alta. (Cuadrillas de mtto subestaciones de TyD).
+ En buje de alta de transformador fase R, realizar seguimiento por pequeña fuga de aceite en la brida del pasatapa.
+ Consignación No @147761, OT 3774281.                                                                                   Informó: 
+Jefe De Trabajo: Luis Federico Álvarez A.
+Líderes Y Tecnólogos: Daniel Palacios, Néstor Ochoa, Carlos Moncada, Walter Tobón, Cristian Gómez, Richard Jiménez.
+

@@ -1,0 +1,8 @@
+INFORME PRESENTADO POR ELIA SANCHEZ
+
+El acumulador del regulador hidráulico, presentaba alarma de baja presión debido a que las bombas no funcionaban de forma automática, y cuando se arrancaban de forma manual estas se protegían disparando el guarda motor, al revisar las bombas la medida de las bobinas era normal y no había evidencia de falla o cortos, por lo que se procedió a revisar el control y el cableado. Cuando se revisó la tensión, encontramos que el contactor general de 480Vac del tablero U+TT (Control de la turbina) estaba dejando pasar solo dos fases constantemente y la tercera presentaba intermitencias, por lo tanto se procedió a repararle los contactos dando solución a la falla de las bombas.
+
+
+
+SOLICITANTE:
+SE SOLICITA REVISAR MOTOR Y CONTROL DE LA MOTOBOMBA 1 DEL REGULADOR DE VELOCIDAD, YA QUE DISPARA EL GUARDAMOTOR Y NO ENTRA EN SERVICIO LA MOTOBOMBA 2 DE RESPALDO, OCASIONANDO PARO A LA UNIDAD. REPORTA: CAMILO CADAVID.

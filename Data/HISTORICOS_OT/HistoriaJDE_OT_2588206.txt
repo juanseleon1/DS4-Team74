@@ -1,0 +1,6 @@
+Realizar el analisis y levantamiento de inforamción correspondiente al sistema de gestión energitica y uso eficiente y ahorro de la energía en los servicios auxiliares de casa de maquinas guatapé. 
+
+2014/08/26 - Se está a la espera de continuar con el proceso. Se realizo el analisis de datos de placa de los motores, queda en estado 35 para posteriormente ejecutar acorde a solicitud del Ingeniero practicante
+
+2014 /10 /09 ANGEL ADONIS CADAVID OCHOA
+TRABAJO TERMINADO EN LA FASE DE LEVANTAMIENTO DE INFORMACIÓN REALIZADO POR EL PRACTICANTE MIGUEL AMAYA

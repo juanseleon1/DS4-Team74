@@ -1,0 +1,29 @@
+
+
+ JULIO 28/2016. SERGIO OLIVARES D. OT: 3191835
+
+ Se hizo termografia y se encontro la peineta de salida con alta temperatura asi:
+
+FASE R2 94,0°C
+ FASE S2 99,3°C 
+ FASE T 2 81,2°C
+
+ Se saco de servicio el chiller N°2, para realizar el correctivo correspondiente.
+
+ La imagen térmica se encuentra en NOTAS DE EQUIPO 1.
+
+ Se desarmo la bornera trifaásica de potencia, se hizo limpieza general a todos los contactos; se armo de  nuevo y se puso en servicio. 
+
+ JULIO 28/2016. SERGIO OLIVARES D. OT: 3191835
+
+ Se hizo termografia y se encontro la peineta de salida con alta temperatura asi:
+
+FASE R2 94,0°C
+ FASE S2 99,3°C 
+ FASE T 2 81,2°C
+
+ Se saco de servicio el chiller N°2, para realizar el correctivo correspondiente.
+
+ La imagen térmica se encuentra en NOTAS DE EQUIPO 1.
+
+ Se desarmo la bornera trifaásica de potencia, se hizo limpieza general a todos los contactos; se armo de  nuevo y se puso en servicio. 

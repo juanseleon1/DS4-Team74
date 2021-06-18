@@ -1,0 +1,17 @@
+NOVIEMBRE 18/2013
+
+REVISAR EL CONJUNTO DEL SENSOR AXIAL DE VIBRACIONES DE LA UNIDAD 2 DE GUADALUPE 4.
+PRESENTA LECTURA ANORMAL.
+
+
+INFORMA 
+
+OPERADORES GUADALUPE 4.
+
+Jueves 21 de Noviembre
+
+Se reemplaza  Driver, cable y sensor por nuevos, se deja instalado y calibrado con -9.45 Vdc, 1.0um  con maquina parada. Así mismo, se habilita en el control la alarma en 234um y se deja deshabilitado el disparo para  monitorear  por 5 días la unidad con carga plena, esto con el fin de determinar si las vibraciones son reales.
+
+Viernes 29 de Noviembre.
+
+Se habilita en el control el disparo del sensor AXIAL del cojinete inferior de la uniodad G42 que se estaba monitoriando y por lo tanto se encuentra en optimos funcionamiento de trabajo al cual fue corregida la falla.

@@ -1,0 +1,7 @@
+24/04/2018 ELKIN SANTAMARIA - WALTER BAENA
+SE PRESENTA VARIACION ALTA EN TEMPERATURAS DEL COJINETE GUIA TURBINA G31 HASTA PUNTO DE ALARMA Y PERMANECE ALARMADO.
+
+26/04/2018
+
+Se sopla con aire y agua por espacio de 1 hora el serpentin del cojinete, se revisa placa orificio y eductores pertenecientes ala refrigeracion del cojinte no encontrando obstruccion, el nivel de aceite se encontró normal.
+Una vez puesta en servicio la unidad y transcurrir 1 hora de funcionamiento se observa normalidad en las temperaturas. 

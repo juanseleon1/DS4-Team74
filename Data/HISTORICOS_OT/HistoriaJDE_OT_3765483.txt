@@ -1,0 +1,4 @@
+FECHA: 13/09/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri - Operación G3
+DESCRIPCIÓN: Se presenta paro de emergencia de la unidad 6 de Guadalupe III con 45MW y 2MVAR. El disparo de la unidad fue ocasionado por muy bajo nivel de aceite en el cojinete guía superior. Al revisar en sitio se encuentra el instrumento apagado y se evidencia falla del módulo link 3 ubicado en el tablero +G3U6U1LD01 en piso de turbina.
+SE HACE UNA REVISION DE  LA SEÑAL DE NIVEL DE ACEITE DEL COJINETE Y SE ENCUENTRA MUDULO PL810  LINK 3 APAGADO, ESTE MODULO ESTA UBICADO EN EL TABLERO LINK DEL PISO DE GENERADOR DE LA UNIDAD, SE CAMBIA DICHO MODULO Y SE REESTABLECEN LAS SEÑALES DE NIVEL, DANDO CONDICIONES DE ARRANQUE DE LA UNIDAD.
+REALIZO: GRUPO DE ELECTRONICA

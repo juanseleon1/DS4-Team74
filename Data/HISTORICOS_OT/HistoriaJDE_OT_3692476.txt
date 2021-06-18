@@ -1,0 +1,12 @@
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABEZAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.
+
+
+PLANEADOR:CARLOS GIORDANELLI
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+MARZO 22 DE 2018
+Se realizó el mantenimiento semestral preventivo electrico según el instructivo GCTRE0003.Se revisó y se inspecciono todas las cabezas de bobina y los polos (estator-rotor).  Sin ninguna novedad.
+Programó: William Lopera.
+
+

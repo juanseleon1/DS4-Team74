@@ -1,0 +1,6 @@
+XL: LIMPIEZA Y MTTO GENERAL CONTROLADOR UNIDAD
+
+02-11-2016
+PROGRAMADOR JOSE MONTOYA
+Se realizó mantenimiento, limpieza del tablero de control.
+Se revisó la conexión de los cables y se reviso la bornera de control.

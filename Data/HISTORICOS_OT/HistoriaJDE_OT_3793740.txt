@@ -1,0 +1,13 @@
+09/12/2018 - 5:42 p.m.
+
+Se presenta modulo de instrumentación del Cojinete de Turbina y Regulador Hidraulico fallado no transmite señales.
+
+Informa y realiza: Turno 3.
+
+Mauricio Caicedo - Wilson Arango B .
+
+
+Programo Jose montoya
+Referente a la Unidad G32:                                                                                                                         Se realiza cambio de modulo HSB10 (Head Station) debido a las dos fallas que presentó en el periodo 11 y 15 dando paro rápido a la Unidad 2 por perdida de señales. Queda operando normal. 
+
+Realizó: Carlos Giordanelli - Operación G3.

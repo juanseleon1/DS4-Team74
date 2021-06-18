@@ -1,0 +1,5 @@
+2018/05/17 RUBEN ARBOLEDA
+Se crea OT para realizar la revisión general de la calefacción de la Unidad 8
+
+2018-05-18 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: SOLIVARE OT: 3727062, PASO:1          
+Se realizó la revisión de la calefacción de la Unidad 8, se evidenció falla en 2 grupos de resistencias (tiene 4). Queda pendiente cotizar y fabricar las resistencias para su montaje

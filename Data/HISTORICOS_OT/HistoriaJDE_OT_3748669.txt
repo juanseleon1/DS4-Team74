@@ -1,0 +1,17 @@
+Planeador: John Fredy Gómez
+Aprobador: Juan Alejo Osorio Montoya
+Fecha de creación: 01/08/2018
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa; 
+§Cresta 
+§Talud aguas arriba
+§Talud aguas abajo 
+§Estribos 
+§Vertedero 
+ Realizar lectura de la instrumentación; 
+§Piezómetros
+§Inclinómetros 
+§Vertedero de aforo 
+§Acelerógrafos
+ Descargar la información en la base de datos de seguridad de presas.

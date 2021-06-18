@@ -1,0 +1,2 @@
+FECHA: Marzo 22/2017 PROGRAMO: Daniel PalaciosEJECUTO: Julian Giraldo.
+Se realiza mantenimiento según plan de periféricos, se hace revisión, limpieza y verificación al banco de baterias de UPS N°4, se llenan formatos de variables eléctricas y de densidad de las baterias.

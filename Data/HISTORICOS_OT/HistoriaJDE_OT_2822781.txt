@@ -1,0 +1,2 @@
+17/07/2015 Pablo Gómez
+Se genera esta OT para realizar el balanceo dinámico de la unidad 3 de Guadalupe 3, según los hallazgos del último análisis de vibraciones realizado a esta unidad.

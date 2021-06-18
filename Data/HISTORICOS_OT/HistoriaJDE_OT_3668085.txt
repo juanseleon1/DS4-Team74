@@ -1,0 +1,11 @@
+06/01/2018
+FALLA EN PROCESO DE ARRANQUE DE LA UNIDAD, ADEMAS SE FALLA LA IHM QUEDANDO SIN APLICACIÓN PARA VISUALIZAR LOS EVENTOS.
+REALIZADO POR FEDERICO MONTOYA Y URIEL CASTRILLON 
+
+07/01/2018
+
+Se realiza actualizacion de la aplicación en la IHM de la unidad , quedanto operativa pero se recuerda a los operadores que esto no indispone la unidad y que ademas se cuenta con la visualización en el sistema SCADA para estos eventos. 
+En el analisis de eventos se encuentra que al parecer la causa de la no confirmación de grupo listo en la unidad es causada por el nivel de aceite en el cojinete superior el cual no confirma estado en la secuencia fallando esta y evitando continuar. 
+Se recomienda con el grupo mecanico verificar el nivel físico de este cojinete y luego con el grupo electrónico relizar pruebas.
+REALIZADO POR WTOBONL
+

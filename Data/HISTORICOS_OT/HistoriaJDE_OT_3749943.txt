@@ -1,0 +1,11 @@
+
+2018/07/30 OT:3749943 Luis Eduardo Arcila
+Mantenimiento general por el personal de General Fire
+Se realiza revisión de conexiones en el panel de control de supervisión general en sala de operación.
+Se identifica falla en el lazo negativo del Loop 2 y falla en lazo de conexión del NAC 2 línea positiva.
+Se hace seguimiento de conexiones
+Se revisa alimentación de módulo de control L2, dirección 63 en el pasillo de generadores
+Se corrigen conexiones de potencia en módulo
+Se corrige falla a tierra en línea positiva del NAC 2
+Se retiran cilindros de CO2 para recarga en tableros críticos de la U3 1 cilindro, la Unidad 5 1 cilindro,  U7 1 cilindro, U8 2 cilindros
+

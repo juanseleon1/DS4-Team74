@@ -1,0 +1,9 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades. El nivel de aceite se encontró en  163. mm, el nivel patrón es 180 mm.  Se le  recupero 20 litros  aceite.
+
+VIBRACIONES:CTL:9.46 VDC
+                          CTP:10.60VDC
+                                
+
+Realizo: grupo de electronica

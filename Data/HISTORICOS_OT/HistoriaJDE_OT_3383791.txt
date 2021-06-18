@@ -1,0 +1,12 @@
+
+2017/02/01 _ CARLOS ENRIQUE MONCADA. OT N° 3383791.
+
+Se identifica Oscilación y descalibración en las médidas de corriente y voltaje de campo del AVR 1, esta provoca que el canal falle de forma aleatoria. Se verifican los transductores funcionando estos de forma normal y calibrados; se verifican lo parametros de escalización y estan correctos. Se concluye que el problema está en la tarjeta de pulsos y entradas análogas.
+
+Se cambian las tarjetas de pulsos y entradas analogas y digitales. el equipo queda habilitado para la operacion comercial.
+
+
+2017/02/01 _ CARLOS ENRIQUE MONCADA. OT N° 3383791.
+
+Se presenta falla en el Regulador de Tensión AVR # 1,  cada que se energiza la unidad se falla el AVR#1. 
+

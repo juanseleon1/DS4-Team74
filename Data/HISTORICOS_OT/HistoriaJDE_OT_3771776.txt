@@ -1,0 +1,8 @@
+ACONDICIONAMIENTO DE SEÑAL PARA APLICACION DE SELLOS DE MANTENIMIENTO.
+
+FECHA: 08/10/2018
+
+se realizo verificacion de señal analoga de transmisor de presion de 0-40bar, se instalo modulo de entradas analogas m2 en rio03, se acondiciono tuberia y cablado para conexion de señal analoga y se programo en controlador y scada permisivo para la apertura de la valvula de admision e indicacion de alarma y animacion de aplicacion de sellos de mantenimiento de la unidad.
+la señal queda conectada por el canal 3 de la rio03.
+
+PROGRAMO: Luis Adrian Cardona.

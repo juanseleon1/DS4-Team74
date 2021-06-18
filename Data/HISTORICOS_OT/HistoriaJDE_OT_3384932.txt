@@ -1,0 +1,11 @@
+Solicitante-Planeador: 642009
+Aprobador: 355694
+Fecha de solicitud: 02 de Febrero de 2017
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Limpieza de estación
+Cambio de desecante de gabinetes
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Cambio preventivo en infraestructura civil o mecánica de la estación (Mejoramiento de acceso)

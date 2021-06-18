@@ -1,0 +1,8 @@
+Solicitante: Juan David Gutierrez  Fecha:9/3/2015
+
+Descripcion: La bomba N°2 de aceite del sistema hidraulico de la unidad 2 presenta ruido anormal.
+  Nota: Se encuentra como bomba Principal.
+
+SE REVISA MOTOR Y SE ENCUENTRA QUE EL RUIDO QUE SE PRESENTA EN EL MOTOR ES DEBIDO A UNA GUARDA SUELTA EN LA CARCASA DEL VENTILADOR, SE DESMONTA CARCASA Y SE REALIZA CORRECTIVO CON SOLDADURA. SE INSTALA NUEVAMENTE Y SE VERIFICA QUE EL RUIDO HAYA DESAPARECIDO. 
+
+INFORMO: CARLOS OSPINA. 

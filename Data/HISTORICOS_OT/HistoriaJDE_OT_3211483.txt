@@ -1,0 +1,27 @@
+Fecha: LUNES 16 AGOSTO 2016
+Turno Operación: 2 Guillermo Echeverry - Jorge Peñaranda- Jorge Gonzalez
+
+Descripción:
+El día Lunes 16 de Agosto del 2016 a las 00:07AM., estando la unidad con una carga de 127 MW, sale de sincronismo la Unidad N º 2 por paro rápido, este evento ocurre segun nuestro analisis por falta de presion de entrada en la bomba N°2, haciendo que la misma se apagara y provocara el paro rapido en la unidad. Despues de girar de nuevo la unidad se deja en observacion durante unos minutos y luego se sincroniza de nuevo a las 01:13AM  
+
+Informa: Turno de Operación
+
+Acción propuesta:
+Habilitar en el control del TAST, que en automático los dos filtros estén funcionando. En caso de que uno de los filtros se falle, el control debe enviar alarma, pero no debe enviar accion de transferir filtro pues ya está el otro filtro funcionando en paralelo. Las alarmas de las bombas por baja presión se deben conservar.
+ATT: Jorge Rodriguez y Santiago Ramírez
+
+
+04/11/2016
+
+Se realiza el análisis de eventos por el paro de la unidad, se confirma la versión del grupo de operación frente el sistema que ocasiona el paro es el TAST se anexan algunos eventos para evidenciar la causa del paro 
+
+La unidad ingresa al sistema a las 23:33 , desde el inicio de la secuencia de arranque se evidencia la alarma filtro 1 sucio a las 23:00 y filtro 2 sucio a las 23:02 después del arranque se coloca el selector del proceso en modo manual y continua saliendo los eventos de filtro sucio en ambos sistemas con presión de entrada a filtros de 0.22 bar y presión de entrada línea bombas de 2.09 bar presiones aun bajas la unidad continua sincronizada y a las 12:07:12 am se presenta paro rápido con las presiones del sistema en presión de entrada a filtros de 0.07 bar y presión de entrada línea bombas de 2.177 bar la presión del sistema sello en 5.6 bar.
+Se evidencia que la falla del sistema se presenta por falla en la presión de entrada filtros y luego la presión baja en la succión debido a los filtros sucios antes de arrancar la unidad lo cual ocasiona el paro de las bombas más aun por estar estas en manual no se transfiere al sistema de respaldo.
+Realizado por Wtobonl
+
+
+08/11/2016
+NOTA: esta accion de mejora debe ser consertada entre el grupo mecanico para ser modificada en el programa del TAS, la nota de salida forzada no evidencia la causa real ver comentarios. 
+
+Realizado por Walter Tobon
+terminada cerrar

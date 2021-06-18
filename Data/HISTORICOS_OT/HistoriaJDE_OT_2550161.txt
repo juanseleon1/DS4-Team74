@@ -1,0 +1,7 @@
+
+FECHA: JUNIO 16 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO, ELISAU PUENTES ELIECER PUSHAINA Y ALVARITO PUSHAINA
+
+
+Se presenta alarma por Grid Error Repetido y Supply voltaje Low, se revisa el estado de los condensadores y se observan algunos reventados, son de los en forma de cilindro, se cambian por 8 nuevos tradicionales y se cambia un fusible, en el momento de dar reset continuaba la falla de Supply voltaje Low, se realiza una nueva inspección y se encuentra recalentamiento en el fusible de la fase L2, se trata de retirar pero la temperatura fue tan alta que los elementos se fundieron unos con otros, tratando de retirarlos se reventó el receptor, pin, de la estación de transformación, se deja detenido el AG hasta cambiar la estación.

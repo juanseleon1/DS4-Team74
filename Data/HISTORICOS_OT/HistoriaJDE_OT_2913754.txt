@@ -1,0 +1,8 @@
+
+FECHA: OCTUBRE 22 DE 2015  OT: 2913454
+
+EJECUTANTE: PEDRO ROBAYO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta falla por Phase Shift Error, se procede a inspeccionar y se encuentran fallados los fusibles de 125A en el tablero de potencia, se realiza el cambio, al dejar en servicio el generador nuevamente se presenta la falla, se deja detenida hasta que baja el viento. Se deja en servicio a velocidad de 6 m/s.

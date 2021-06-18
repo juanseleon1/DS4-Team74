@@ -1,0 +1,9 @@
+FECHA: JIUEVES 02/02/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, HERIBERTO SUAREZ
+ASOCIADO A LA OT: 3407479
+ASUNTO: LAVAR FILTRO AUTOLAVABLE DEL SELLO DE TURBINA DE LA U3
+
+Febrero 25/2017
+
+El circuito de agua de los sellos de turbina U3, presenta alarmas por baja presion agua en ambas lineas. Programar mantenimiento del filtro.

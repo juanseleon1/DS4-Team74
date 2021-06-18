@@ -1,0 +1,36 @@
+
+27/Dic/2016
+Se da disparo del sistema CO2 de transformadores sin causa aparente, activando las señales sonoras y visuales. El sistema de descarga se encuentra bloqueado por falta de los cilindros de CO2.
+Al tratar de bajar los eventos, se encuentra el tablero del controlador reiniciando, lo cual impide hacer esa descarga de eventos.
+Después de reiniciarse de nuevo se da disparo en varias oportunidades, por tal motivo se decide apagar el controlador de los transformadores (Nodo 3) y se solicita a la empresa Accequip servicio técnico para solucionar el problema.
+Learcilas 
+2016-12-29
+Se cancela por falta de recursos 
+Se programa visita técnica con el personal de Accequip para revisión del sistema contra incendio para evaluar y solucionar todos sus problemas.
+Una vez evalúen se crea una nueva OT
+Learcilas
+2016-02-08
+Se procede con el personal de Accequip con la energización del panel FN-4127N y se pudo evidenciar que el motivo por el cual se generaron las activaciones de los dispositivos y posterior descarga de los bancos de CO2 es porque el panel presentaba una Auto programación (Autolearn) 
+Se realizó la configuración del panel.
+Posteriormente se evidenció que el lazo 1 presenta avería; la solución a este problema es migrar la programación del lazo 1 al lazo 4.
+Se realizan pruebas del lazo 4 para comprobar que el cambio del lazo 1 a lazo 4 queda correctamente programado. 
+Learcilas
+
+
+27/Dic/2016
+Se da disparo del sistema CO2 de transformadores sin causa aparente, activando las señales sonoras y visuales. El sistema de descarga se encuentra bloqueado por falta de los cilindros de CO2.
+Al tratar de bajar los eventos, se encuentra el tablero del controlador reiniciando, lo cual impide hacer esa descarga de eventos.
+Después de reiniciarse de nuevo se da disparo en varias oportunidades, por tal motivo se decide apagar el controlador de los transformadores (Nodo 3) y se solicita a la empresa Accequip servicio técnico para solucionar el problema.
+Learcilas 
+2016-12-29
+Se cancela por falta de recursos 
+Se programa visita técnica con el personal de Accequip para revisión del sistema contra incendio para evaluar y solucionar todos sus problemas.
+Una vez evalúen se crea una nueva OT
+Learcilas
+2016-02-08
+Se procede con el personal de Accequip con la energización del panel FN-4127N y se pudo evidenciar que el motivo por el cual se generaron las activaciones de los dispositivos y posterior descarga de los bancos de CO2 es porque el panel presentaba una Auto programación (Autolearn) 
+Se realizó la configuración del panel.
+Posteriormente se evidenció que el lazo 1 presenta avería; la solución a este problema es migrar la programación del lazo 1 al lazo 4.
+Se realizan pruebas del lazo 4 para comprobar que el cambio del lazo 1 a lazo 4 queda correctamente programado. 
+Learcilas
+

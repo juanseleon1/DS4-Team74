@@ -1,0 +1,35 @@
+2017-09-26 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - DAVID GARCIA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3594917, PASO: 1     
+Se realizó revisión y limpieza general al recinto de anillos de la unidad 3, con los siguientes datos de medida de escobillas en mm:
+A.S. 1A: 29,5
+A.S. 2A: 32,3
+A.S. 3A: 35,8
+A.S. 4A: 30,9
+A.S. 5A: 30,6
+A.S. 6A: 31
+A.S. 7A: 26,4
+A.S. 8A: 32,4
+A.S. 1B: 30,4
+A.S. 2B: 28,9
+A.S. 3B: 30,4
+A.S. 4B: 24,5
+A.S. 5B: 24,7
+A.S. 6B: 25,6
+A.S. 7B: 30,2
+A.S. 8B: 31,6
+A.I. 1A: 29,4
+A.I. 2A: 30
+A.I. 3A: 20,6
+A.I. 4A: 26,9
+A.I. 5A: 24,6
+A.I. 6A: 24,7
+A.I. 7A: 22,6
+A.I. 8A: 21,7
+A.I. 1B: 31,9
+A.I. 2B: 26,7
+A.I. 3B: 21,4
+A.I. 4B: 21,2
+A.I. 5B: 20,9
+A.I. 6B: 20,9
+A.I. 7B: 24,7
+A.I. 8B: 24,5
+OBSERVACIONES: Se realizó el cambio de las escobillas 3A, 3B, 4B, 5B, 6B, 7A Y 8A del anillo inferior.

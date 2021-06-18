@@ -1,0 +1,7 @@
+REALIZAR MANTENIMIENTO ELECTRICO AL TABLERO DE CONTROL Y MOTOR DE LA COMPUERTA # 2
+
+PROGRAMADOR: WILLIAM LOPERA
+
+AGOSTO 9 DE 2018.
+Continuand con el mantenimiento preventivo a perifericos, se realiza mantenimiento al motor y tablero de control de la compuerta, se le hacen pruebas de resistencia de aislamiento y verificación de voltajes y corrientes, arrojando buenos resultados.
+Prpgramó: William Lopera.

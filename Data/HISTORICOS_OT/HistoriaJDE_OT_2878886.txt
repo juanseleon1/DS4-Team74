@@ -1,0 +1,12 @@
+
+12/09/2015
+EQUIPO ELECTRONICO
+
+Esta OT se realiza para ejecutar el trabajo del cambio de las borneras de control de los tableros de vibraciones de los Cojinetes Superior, Inferior y Turbina, Puesto que se evidencia deterioro de las borneras de Control y se cambiaran por borneras seccionables libres de mantenimiento.
+
+Inicialmente se programó un trabajo el día sábado 12/09/2015 puesto que la cadena salió despachada en 0MW,  de cambiar las borneras de control de los tableros de vibraciones de los cojinetes superior, inferior y turbina, ya que se había evidenciado deterioro en las borneras de llegada de las señales de los sensores de vibración.
+Se programó el día Domingo instalar las marcas en las borneras, esto no implicaba manipular señales de control, solo instalar stikers, realizando esta tarea por desconocimiento se manipularon varios cables de las señales de vibración de los cojinetes, lo cual ocasiono las salidas forzadas de las unidades.
+Después en el proceso de re-arranque se demoró la entrada de las unidades por bloqueo del regulador de velocidad, lo cual produjo demoras en la sincronización de la unidad.
+
+Ejecuto: Zoraida Monsalve
+Programador: Oscar Arango

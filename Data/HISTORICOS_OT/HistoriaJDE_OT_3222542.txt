@@ -1,0 +1,15 @@
+2016-09-08 REALIZÓ:   OSCAR GIRALDO - FERNANDO RUIZ,  PROGRAMO: RARBOLG OT: 3222542, PASO:1     
+Reparación de Alumbrado casa de maquinas, zona CCM1
+2016-09-09 REALIZÓ:    OSCAR GIRALDO - GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3222542, PASO:2          
+Se continua con la reparación del alumbrado en casa de maquinas, se realiza la reparación en zona de túnel Chiller's, y túnel de asincrónico
+2016-09-10 REALIZÓ: FERNANDO RUIZ - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3222542, PASO:3          
+Se continuo con la reparación del alumbrado en casa de maquinas, en la zona de galería de cables, pasillos de oficinas
+2016-09-11 REALIZÓ: FERNANDO RUIZ - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3222542, PASO:4          
+Se realizó reparación de alumbrado en la zona de entrada al asincrónico, Se dejará esta OT terminada ya que se avecina el mantenimiento de la unidad 6, por lo tanto se esperará a que se genere la proxima OT para finalizar lo que quede pendiente.2016-09-08 REALIZÓ:   OSCAR GIRALDO - FERNANDO RUIZ,  PROGRAMO: RARBOLG OT: 3222542, PASO:1     
+Reparación de Alumbrado casa de maquinas, zona CCM1
+2016-09-09 REALIZÓ:    OSCAR GIRALDO - GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3222542, PASO:2          
+Se continua con la reparación del alumbrado en casa de maquinas, se realiza la reparación en zona de túnel Chiller's, y túnel de asincrónico
+2016-09-10 REALIZÓ: FERNANDO RUIZ - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3222542, PASO:3          
+Se continuo con la reparación del alumbrado en casa de maquinas, en la zona de galería de cables, pasillos de oficinas
+2016-09-11 REALIZÓ: FERNANDO RUIZ - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3222542, PASO:4          
+Se realizó reparación de alumbrado en la zona de entrada al asincrónico, Se dejará esta OT terminada ya que se avecina el mantenimiento de la unidad 6, por lo tanto se esperará a que se genere la proxima OT para finalizar lo que quede pendiente.

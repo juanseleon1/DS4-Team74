@@ -1,0 +1,20 @@
+2018-08-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748730, PASO:1          
+Se realizó mantenimiento preventivo a la Unidad 1, se realizó revision y limpieza general al recinto de anillos, se realizó medida de escobillas con los siguientes resultados: 
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 47
+A.S. 2A: 42,3
+A.S. 3A: 30
+A.S. 4A: 29,1
+A.S. 1B: 44,5
+A.S. 2B: 26,2
+A.S. 3B: 30,1
+A.S. 4B: 28,4
+A.I. 1A: 37,8
+A.I. 2A: 46,8
+A.I. 3A: 32
+A.I. 4A: 31,9
+A.I. 1B: 39,5
+A.I. 2B: 34,8
+A.I. 3B: 47
+A.I. 4B: 40,8
+OBSERVACIONES: No se realizó cambio de escobillas

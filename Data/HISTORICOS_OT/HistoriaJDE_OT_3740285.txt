@@ -1,0 +1,11 @@
+MP:
+3325DISTRIBUIDOR TURBINA U1 G43326DISTRIBUIDOR TURBINA U2 G43327 DISTRIBUIDOR TURBINA U3 G4
+
+
+PLANEADOR:GERMÁN BETANCUR
+
+Programador: Camilo Montagut - 04/07/2018
+
+Se realiza limpieza general con hidrolavadora en toda la superficie externa del distribuidor, situación a la que previamente se retiraron todos los sensores de los pernofusibles. Se realiza limpieza de la grasa presente en los graseros y se renueva la grasa dispuesta en los patines del distribuidor y en la biela de cada álabe
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,10 @@
+2019/04/04 RUBEN ARBOLEDA
+Se crea OT para realizar las pruebas y puesta en servicio de la motobomba de llenado la clara.
+
+2019-04-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3829045, PASO:1          
+Se realiza revisión a la bomba de llenado de la tuberia de la clara para tenerla disponible y poder dar arranque al sistema de la clara.
+
+2019-04-07 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3829045, PASO:2          Se revisa el estado del control y potencia de la motobomba de llenado de la tubería del sistema de refrigeración la clara.
+
+2019-04-10 REALIZÓ: JEISON ALBERTO ORTEGA - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3829045, PASO:3          
+Se continua revisando el estado del control y potencia de la motobomba de llenado de la tubería del sistema de refrigeración la clara

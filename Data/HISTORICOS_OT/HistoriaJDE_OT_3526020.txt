@@ -1,0 +1,29 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+
+ 10/07/2017. SERGIO OLIVARES D. O.T. 3526020. ---  EJECUTORES: JUAN DAVID GARCIA G. -- OSCAR GIRALDO G.
+
+  
+Se realizo limpieza  general, y se petrolizo con dielectric el eje principal y sus anillos. Se cambiaron las arandelas pinadoras 
+ del barraje de los anillos las cuales no eran las adecuadas, y se colocaron arandelas planas antes de las pinadoras. 
+ Como el recinto de anillos se desarmo,  se verifico  que los aislamientos no tuvieran fractura.
+
+ Se realizo la medida de aislamiento asi:
+ 
+      1.ANTES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 0.05 M  
+ ROTOR                      = 0.02 M
+ BARRAJE                    = 0.15 M
+
+2. DESPUES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 59.8 M
+ ROTOR                      = 56.3 M
+ BARRAJE                    =  690 M
+
+3. RESISTENCIA OHMICA = 100.2 m
+4. INDUCTANCIA               = 84.2  mH
+5. CAPACITANCIA             =  17.82 µF
+
+
+
+

@@ -1,0 +1,8 @@
+13/04/2018 OT 3701878 MARITZA BACCA
+
+El sábado 17 de marzo Se reporta fallo en el equipo de aire acondicionado 2 del módulo de Mark V de la unidad 1. Debido a esto se presenta alarma de alta temperatura en el banco de baterías. Se revisará durante el fin de semana.
+
+El lunes 19 de Marzo Personal electricista revisa equipo de aire acondicionado 2 del Mark V de la unidad 1. Encuentran motor del evaporador fuera de servicio por condensador fallado. Este se reemplaza y el equipo queda operativo. 
+
+Favor informar caracterísiticas del condensador reemplazado
+LAS CARACTERÍSITCAS DEL CONDENSADOR: 370V 10UF

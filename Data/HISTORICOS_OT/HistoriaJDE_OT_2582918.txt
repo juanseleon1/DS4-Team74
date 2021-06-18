@@ -1,0 +1,7 @@
+
+FECHA:  AGOSTO 15 DE  2014
+
+EJECUTO:    PROBAYO
+
+
+Se sube al AG13 y se despega el contactor 17K1 del generador 1 porque estaba pegado

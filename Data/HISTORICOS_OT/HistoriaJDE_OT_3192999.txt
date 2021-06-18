@@ -1,0 +1,17 @@
+MEDIR RESISTENCIA OHMICA DEL ROTOR
+
+- FECHA : MARTES AGOSTO 02 DE 2016
+
+- PROGRAMÓ : MARIO G. B.
+
+- REALIZÓ : FRANCISCO QUINTERO - MARIO RESTREPO
+
+- ASOCIADO A LA OT : 3192999
+
+- ASUNTO : HACER MANTTO MP PROGRAMADO SEMESTRAL SEGÚN INSTRUCTIVO 
+
+                     Observaciones : antes de hacer limpieza la medida de aislamiento del rotor estaba en 200 Koh
+
+                                                  Despues de hacer la limpieza la medida de aislamiento  quedó en  500 Koh
+
+                      Nota : los datos tomados quedan registrados en la planilla 231189E

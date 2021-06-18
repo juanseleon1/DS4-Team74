@@ -1,0 +1,15 @@
+2017-01-15 REALIZÓ: JUAN DAVID GARCIA - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3367288, PASO:1          
+Se presentó falla en la alimentación de las motobombas del banco 1, se realizó revisión y se encontró que la fase T estaba perdida, se revisó en la DG2 y se encontró cable de la barra hacia el breaker quemado, se cambió la alimentación hacia un breaker de reserva, se realizó arranque y se dejó en servicio, queda pendiente realizar cambio de cable en la DG y normalizar.
+
+2017/03/26 RUBEN ARBOLEDA
+Queda pendiente realizar el cambio del cable en la DG2, se deja la OT en estado 35
+
+2017-04-14 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3367288, PASO:2          
+Se realizó cambio de cableado en la DG2, se normalizó el interruptor de las motobombas de los transformadores de potencia del Banco 12017-01-15 REALIZÓ: JUAN DAVID GARCIA - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3367288, PASO:1          
+Se presentó falla en la alimentación de las motobombas del banco 1, se realizó revisión y se encontró que la fase T estaba perdida, se revisó en la DG2 y se encontró cable de la barra hacia el breaker quemado, se cambió la alimentación hacia un breaker de reserva, se realizó arranque y se dejó en servicio, queda pendiente realizar cambio de cable en la DG y normalizar.
+
+2017/03/26 RUBEN ARBOLEDA
+Queda pendiente realizar el cambio del cable en la DG2, se deja la OT en estado 35
+
+2017-04-14 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3367288, PASO:2          
+Se realizó cambio de cableado en la DG2, se normalizó el interruptor de las motobombas de los transformadores de potencia del Banco 1

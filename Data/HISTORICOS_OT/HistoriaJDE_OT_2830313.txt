@@ -1,0 +1,7 @@
+28/07/2015
+
+REVIZAR EL REGULADOR DE LA UNIDAD 6, YA QUE A VENIDO PERDIENDO AIRE EN EL TIEMPO Y ES CONSTANTE, TIENE UNA SOLICITUD POR APROBAR EN ESTADO 20 POR FUGAS INTERNAS DE AIRE SE LE SUMA QUE ESTA DANDO MUCHA DIFICULTAD EL SUMINISTRARLE  AIRE A DICHO REGULADOR
+
+2015/08/04 ALEJANDRO CASTRO - DIEGO BEDOYA
+Se revisan con detergente con agua las válvulas del visor en el regulador,. y se encuentra que la válvula que va para el manómetro tiene fuga de aire; por tal motivo deja escapar el aire haciendo que el nivel en el visor se incremente despues de algún tiempo de operación. Procedemos a desarmar la válvula y encontramos el cordon grafitado en mal estado, procedemos a realizar el cambio de este y chequeamkos nuevamente con el detergente y se evidencia que la fuga queda reparada totalmente. 
+la válvula para suministrar aire a este regulador se encontró en condiciones normales de operación.

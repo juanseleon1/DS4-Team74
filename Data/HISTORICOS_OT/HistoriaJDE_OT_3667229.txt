@@ -1,0 +1,7 @@
+MEJORA OPERACIONAL
+
+Solicitud: Realizar cambio de radar de respaldo para nivel de embalse en PorceII por uno de mayor rango. Realizar medida en mA y duplicar señal a PLC de operaciones
+Solicita: Carlos Andres Andrade 
+Atiende: Raúl Mauricio Álvarez
+
+Recursos utilizados (de los solicitados en E1):Radar Vegapuls 68 de 75m de rango, 4 CURS 100 y duplicador de señal de 4-20mA

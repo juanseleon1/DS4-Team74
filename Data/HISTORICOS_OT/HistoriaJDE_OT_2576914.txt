@@ -1,0 +1,12 @@
+04/08/2014
+REVISAR CONTROL DEL REGULADOR DE VELOCIDAD YA QUE CUANDO ESTA REALIZANDO LA SECUENCIA DE ARRANQUE NO  DESBLOQUEA EL REGULADOR.
+
+27/AGOSTO/2014
+Referente al problema de la U2 de troneras, la cual no desbloqueaba el regulador. Se cambió el relé (preventivo) por presentar problemas cuando lo bloqueaban manual (se deterioró la pestaña de bloqueo) y se realizó un seguimiento dentro de lógica del PLC y se encontró una señal de “ Trava Aplicada”  la cual no estaba presente (entrada digital) y era la que impedía el desbloqueo automático del relé R65. En baja carga se procederá a calibrar estos sensores, los cuales están ubicados en el distribuidor y son los que supervisan el bloqueo de este cuando se realiza mtto, pero la unidad ya realiza el paso de desbloqueo del regulador DE FORMA AUTOMATICA.
+Se calibraron los sensores inductivos que supervisan la traba aplicada del servomotor del distribuidor, puesto que se encontraron fuera de rango y esto ocasionaba que no desbloqueara el regulador. 
+Quedan desbloqueando los  dos reguladores y el arranque es de forma automática y sin problemas.
+                                                                                                           
+Informan: Andrés Arenas - Francisco González - Oscar Arango
+
+
+

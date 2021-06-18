@@ -1,0 +1,14 @@
+
+FECHA: DICIEMBRE 19 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Desde la noche anterior se presento paro del AG13 por Feedback switch G1 Top, la alarma no borra, en la mañana de hoy se inspecciona y se encuentra el contactor 17K2 pegado, se procede a normalizarlo, también se cambia el modulo 105A3 del cual la señal para energizar la bobina del contactor, esto con el propósito de descartar las oscilaciones en este circuito, se deja en servicio.
+
+
+
+FECHA: DICIEMBRE 20 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Nuevamente se presenta falla en el contactor 17K2, se encuentra pegado, se procede a despegarlo y se le cambia el resorte al contacto de la fase S el cual estaba muy suelto, también se cambia el relé 157K3 con el propósito de descartar las fallas en el circuito de energizacion de la bobina del contactor 17K2.

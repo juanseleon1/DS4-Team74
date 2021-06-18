@@ -1,0 +1,11 @@
+SE CREA ESTA OT PARA EL LAVADO DE 2 RADIADORES DEL GENERADOR TR1 LO CUAL INCLUYE EL DESMONTAJE Y MONTAJE DE LOS MISMOS.
+
+Se lavan los radiadores 1 y 6 del generador por presentar el devanado y nucleo del generador las siguientes temperaturas
+
+Nucleo 105 grados centigrados
+Devanado 102 grados centigrados
+
+Una vez lavados los radiadores mencionados y teniendo en cuenta que en el mtto pasado se lavó el numero 3 para un total de 3 radiadores lavados de 6 que son el total las temperaturas quedaron asi:
+
+Devanado: 95 grados centigrados
+Nucleo: 97 grados centigrados  

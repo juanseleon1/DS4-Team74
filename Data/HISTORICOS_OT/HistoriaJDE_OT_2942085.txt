@@ -1,0 +1,7 @@
+VERIFICAR EL FUNCIONAMIENTO DEL CARGADOR DE BATERIAS DE RESERVA EN LA PLANTA DE TRONERAS.
+
+17 DE DICIEMBRE DE 2015
+
+Se realiza inspeccion y mantenimiento para verificar el estado del cargador de baterias de reserva, y se habilita para tenerlo como respaldo.
+
+William Lopera

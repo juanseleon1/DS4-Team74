@@ -1,0 +1,5 @@
+FEB 21/2014 OT: 2476194 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Se realiza la limpieza a la excitacion por presentar alarma Tierra Rotor, entregándose en funcionamiento normal.  Lectura de la resistencia de aislamiento:  contaminada 640 K y limpia 450 K.
+
+SOLICITANTE: Javier Giraldo Fecha: Febrero 21/2014.
+Revisar alarma tierra rotor.

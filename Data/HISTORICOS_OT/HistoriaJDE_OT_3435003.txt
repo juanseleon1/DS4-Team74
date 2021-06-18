@@ -1,0 +1,16 @@
+
+2017/11/08 _ CARLOS ENRIQUE MONCADA. OT N° 3435003.
+Referente a la solapa N° 2 presa Porce 2:
+Se inspecciona circuito hidráulico del acumulador N° 2 de la solapa la cual presentaba alarma por baja presión. Se encontraba en 120bar, las bombas funcionan correctamente cargando a 150bar.
+Se sube la presión del acumulador de la solapa con la bomba manual y se deja en 140bar, queda en observación.                                                                                                                                               Realizo: equipo de mantenimiento y operación                                                                              
+
+---------------------------
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2017-03-26
+SE GENERA OT PARA HABILITAR REVISAR CONTROL DE ARRANQUE-PARADA BOMBA HIDRAULICA DE LA COMPUERTA DE LA SOLAPA 1 DE LA PRESA DE PORCE 2. ESTO DEBIDO A QUE SE PIERDE LA PRESION DEL CIRCUITO Y LA BOMBA NO RECUPERA.
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

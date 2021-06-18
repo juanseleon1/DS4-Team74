@@ -1,0 +1,21 @@
+06/08/2016. WALTER TOBON.
+
+SE DEBE REALIZAR MODIFICACION EN EL CONTROL DEL SAU EN LA UNIDAD PARA INTEGRAR ESTA AL NUEVO SISTEMA SCADA DE LA CENTAL, ADEMAS PARA TENER MONITOREO DEL SISTEMA POR LAS FALLAS CAUSAS ANTES  
+
+
+21/08/2016
+
+Se realiza modificación en el Hardware de los PLC en el tablero SAU de la unidad retirando los PLC esclavos y de visualización de alarmas y modificando el PLC principal, luego se realizan pruebas en los relés, equipos del transformador y control de los servicios auxiliares de la unidad para verificar su estado actual y ajustes antes de iniciar el cambio por la nueva versión del programa.
+Se verificación de los ajustes y operación de los relés de tensión, indicadores locales y módulos del PLC.  Se realizan pruebas de disparo por baja tensión e inversión de fase en los tres relés del SAU, se encuentra malo el relé de inversión de fase (F1A) en el interruptor principal y además se encuentra mala la perilla del interruptor (Q1) salida 480 Vac del transformador auxiliar, ambos eventos se informaron al grupo eléctrico para ser normalizados.
+Se realizan pruebas de apertura y cierre de los interruptores, simuladas con la maleta trifásica como con la unidad excitada, la transferencia queda operativa y se entrega la unidad para ser sincronizada y cargada en el sistema.
+
+Realizado por Wtobonl
+
+23/08/2016
+
+Se realiza instalacion de los transductores de medida para la temperatura de los devanados en el transformador de servicios auxiliares, adememas se realiza simulacion de las temperaturas para los puntos de alarma y disparo del control.
+
+Realizado por Wtobonl
+
+termimada Cerrar 
+

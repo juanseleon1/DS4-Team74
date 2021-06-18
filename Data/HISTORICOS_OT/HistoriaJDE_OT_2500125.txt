@@ -1,0 +1,12 @@
+- FECHA : MARZO 31 DE 2014
+- REALIZÓ :  ANDRÉS ZAPATA - JAIME ARDILA - WILFER HINCAPIÉ -  WILDER HERRERA -  FELIPE SALAZAR - DARÍO  
+-  ATEHORTÚA - FABIO SIERRA - YOVANY RIVERA - MARIO GONZÁLEZ  
+- ASOCIADO A LA OT : 2500125
+- ASUNTO :  VER INFORME ANEXO.
+
+Evento generación U3 Playas marzo 31 de 2014
+
+Siendo las 13:49 horas sale de sincronismo la U3 con 67 MW por ruptura en los pernofusibles 6, 7 y 8. Para extraer El perno # 6 fue necesario vaciarlo utilizando taladro; se encontraba muy pegado. 
+Después de cambiar los pernofusibles y normalizar el sistema se procede a dar arranque sin tener éxito debido a un disparo rápido que se presentaba sin causa aparente. Se procede a la búsqueda de la causa del paro rápido verificando cada una de las señales que ocasionan el paro rápido, se encontró falla en relé de salida del controlador que replica la señal de paro rápido. Se remplaza el relé y queda solucionado el problema, se sincroniza la unidad a la 16:07. 
+
+

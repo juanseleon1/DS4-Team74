@@ -1,0 +1,9 @@
+XL: LIMPIAR Y CHEQUEAR REGULADOR TENSION TRE DE LA UNIDAD
+
+
+05/11/2013
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas, Se realiza limpieza de la Gateway de comunicaciones como de los filtros de aire, como nota en el procedimiento no fue posible realizar apertura remota desde la IHM del Q01  el sistema no responde y le instrucción no es clara.
+Se realiza mantenimiento a la instrumentación del sistema de refrigeración y la CIO de refrigeración. se cambia el modulo Q803 y Q813 de tensión en AVR.
+
+Realizado Por Walter Tobon

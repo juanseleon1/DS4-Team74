@@ -1,0 +1,6 @@
+ DOMINGO 4 JUNIO 2017 JORGE MARIO PEÑARANDA
+
+
+Referente a la válvula Esférica U2: En el momento de cierre de la Unidad, esta no confirmaba la válvula cerrada, presentando pérdida de señal en este proceso. En el análisis del suceso se llegó a la conclusión que el microsuiche del servo, es el que estaba mandando dicha señal. Se movio y la señal desapareció, se hace calibración  ajuste y limpieza de los microsuiches, se realizan pruebas de apertura y cierre local automatico de la valvula y el bypass y se verifica el correcto funcionamiento de la misma, se deja el sistema del TCV en operacion normal. Informa Turno 2 
+
+REALIZA Y EJECUTA JORGE PEÑARANDA

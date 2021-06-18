@@ -1,0 +1,7 @@
+FECHA: 18/10/2017 SOLICITADO POR: Natalia Urrea - Jeovanny Correa - Operación G4
+
+DESCRIPCIÓN: Se encuentra presente “ Falla leve”  en regulador de velocidad de la unidad G41, la cual hace referencia a la Pérdida Medida Frecuencia TP. Se presentó durante el arranque de unidad del día 12 de octubre a las 08:00; y no permite resetear desde el pulsador de rearme.
+
+programo jose montoya
+se realiza verificacion de los transductores del regulador de velocidad en el mantenimiento anual de la unidad y se observaron que estan trabajando bien, queda pendiente  revisar los pikup
+

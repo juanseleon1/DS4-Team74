@@ -1,0 +1,16 @@
+MP ANUAL:
+2281BANCO DE TRANSFORMADORES C/M G3 U1.2282BANCO DE TRANSFORMADORES C/M G3 U2.2283BANCO DE TRANSFORMADORES C/M G3 U3.2284BANCO DE TRANSFORMADORES C/M G3 U4.2285BANCO DE TRANSFORMADORES C/M G3 U5.2286BANCO DE TRANSFORMADORES C/M G3 U6.
+
+PLANEADOR:OSCAR RESTREPO
+
+
+PROGRAMADOR:WILLIAM LOPERA
+
+AGOSTO 2 DE 2018
+Se realizó el mantenimiento anual según instructivo, ajuste de tornillería, calibración de los seccionadore, verificación y limpieza de las cajas de control. Se realizó cambio de transformador en la fase R, salió el transformador ASEA y se ingresó el 01.2.4003, que fue reparado por el lado de baja tensión en la Ciudad de Duitama Cundinamarca por Ingeniería Explorer.
+Este transformador antes de ser ingresado se le realizaron todas as pruebas eléctricas pertinentes por parte del contratista y EPM, también fueron aplicados los procedimientos de puesta en servicio como es energización en vacío, verificación de alarmas y disparos del transformador, obteniendo resultados satisfactorios. 
+Los protocolos que fueron aplicados al transformador se encuentran en la carpeta de reparación transformadores Pauwels en la siguiente ruta.
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\2-Mantto Eléctrico\01 General eléctrico\02 - TRANSFORMADORES\02 - TRANSFORMADORES GUADALUPE 3\02.REPARACION TRAFOS PAUWELS\G36 R (01.2.4003)>
+
+
+

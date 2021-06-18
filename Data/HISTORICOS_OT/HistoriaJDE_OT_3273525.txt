@@ -1,0 +1,7 @@
+
+FECHA: OCTUBRE 7 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Al normalizar el aerogenerador se presenta falla por comunicación controlador superior, en el RFC se observa la falla 4,0 0C 27, se inspecciona en la góndola y solo se encuentra apagado el Led de DIAG del módulo 7,16 se realiza el cambio pero  a falla vuelve a salir, se cambian los módulos 7,0 pero la falla se presenta de nuevo, por último se cambia el módulo de fibra óptica y la falla no vuelve a salir, se deja en funcionamiento el aerogenerador.

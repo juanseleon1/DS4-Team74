@@ -1,0 +1,7 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Frank Córdoba, Julián C. Giraldo y Olga Viana.
+Planeador: Luis Federico Alvarez Alvarez
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos TCBAM, acometidas y conexiones de los motores de AC y DC. Se toman medidas en los motores de aislamiento y se llenan registro.
+Trabajo ejecutado por: Frank Córdoba, Julián C. Giraldo y Olga Viana
+
+
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD

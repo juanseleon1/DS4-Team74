@@ -1,0 +1,33 @@
+2015-01-11. JUAN CARLOS DUARTE MUÑOZ.
+
+REVIZAR LA INDISPONIBILIDAD QUE ESTA DESDE 2014-02-16 POR PARO DE EMERGENCIA Y ALTA TEMPERATURA. SE OBSERVO BAJO NIVEL DE ACEITE EN MIRILLA.LIBRO 55 PÁGINA 38.
+
+
+2015/09/09 DIEGO BEDOYA
+Se realiza el mantenimiento al compresor Sullair por parte del personal de Almacenes JJ en acompañamiento de los mecánicos del area Fabio Herrera y Andres Alzate, se extrae todo el aceite, se hace lavado del circuito con aceite ultracoolant, se deja el equipo trabajando con aceite Ultracoolant. Se recomienda instalar válvula solenoide a la entrada de agua al equipo, para cuando permanece apagado no se presente perdida de agua. No se cambió el filtro de aceite, se recomienda cotizarlo y cambiarlo en 1 mes.  
+
+los datos tomados al compresor en funcionamiento son los siguientes:
+
+Presión de arranque: 85 PSI
+Presión de Paro:  100 PSI
+Horas de carga: 3082,3
+Horas totales:  25478,0
+Corriente de arranque: 380 Amperios
+Corriente de servicio: R = 61.2      S = 60.6     T = 60.4   Amperios.
+Voltaje de servicio: RS = 459   ST = 60.6  RT = 458 VAC.
+Corriente Nominal Placa = 60 Amperios
+Voltaje Nominal Placa = 460 VAC.
+Duración de carga = 2 minutos sin consumo externo de aire.
+Temperatura motor interna = 40 °C
+Temperatura motor  externa =  34° C
+Temperatura trafo de control = 49° C 
+
+las vibraciones (RMS) son las siguientes:
+1 VERT: 0.7 mm/s
+1 HOR: 1 mm/s
+2 VERT: 1.2 mm/s
+2 HOR: 1 mm/s
+2 AXI: 2.1 mm/s
+ 
+
+ 

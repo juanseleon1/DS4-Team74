@@ -1,0 +1,11 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+20-09-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+PROGRAMADOR: JOSÉ MONTOYA.
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL 8.34VDC y CTPR  8.93VDC - KPH:8.78VDC, se cambió borneras de vibraciones.
+Nivel de aceite se encontró en 220.6mm, el nivel patrón es 220mm. 
+Se inyectan las señales
+  COJ TURB °C CABLE RTD      PATRÓN °C ACTE 2 SEG 2 SEG 440 39,7 39,6 40,460 59,6 59,6 60,080 80,0 80,0 80,0ALARMA 70,0 70,0 70,0DISPARO  80,0 80,0 80,0
+Se inyecto señal con el calibrador de procesos para comprobar alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2018\SEMESTRALES TRONERAS

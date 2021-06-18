@@ -1,0 +1,9 @@
+XE: REVISAR Y LIMPIAR EQUIPOS EXCITACIÓN PRINCIPAL.
+
+16/03/2017
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizó el mantenimiento según el instructivo GCTRE0004.
+Se realizó inspección, ajuste y limpieza a todo el banco de tiristores y al interruptor de campo. Se revisan todas las conexiones y se realizaron ajustes en los bornes de control y potencia. No se evidencian anomalías.
+
+Ejecuto: Jhon Mario Morales
+Programo: Carlos Andres Forero

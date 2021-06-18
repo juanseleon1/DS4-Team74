@@ -1,0 +1,30 @@
+PLANEADOR: FRANCIS LONDOÑO VERA, 2017-08-03
+OT PARA LA INSPECCION PREVENTIVA DEL SISTEMA HIDRAULICO DE LAS COMPUERTAS 3-4 DE DESCARGA DEL EMBALSE DE PORCE 2
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo no debe estar en funcionamiento se debe deshabilitar y colocar ficha de seguridad. Desenergizar tablero de alimentación.
+2. Temperaturas altas en algunas partes del equipo. Usar guantes de protección.
+PROCEDIMIENTO DE LA INSPECCIÓN
+1. Inspeccionar Motobombas de Compuertas, verificar funcionamiento y fugas del sistema.
+2. Revisar nivel y estado del aceite del tanque sumidero.
+3. Revisar presiones del sistema y registrar datos
+4. Revisar temperaturas de los motores principales y esclavo.
+5. Revisar circuito oleo hidráulico.
+6. Revisar estado de mangueras y válvulas de los servomotores.
+7. Revisar estado de filtros del sistema hidráulico.
+8. Inspeccionar tornillería, anclajes y fijaciones 
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 04-08-2017
+INFORMACION SOBRE LA EJECUCION DE LA OT
+- NIVEL DE ACEITE SE ENCUENTRA BIEN
+- FILTRO DE AIRE EN REGULAR ESTADO
+- FILTRO DE ACEITE EN BUEN ESTADO
+- PEQUEÑAS FUGAS EN ELECTROVALVULA COMPUERTA 4 Y EN LA SOLAPA.
+- SE REALIZA LIMPIEZA GENERAL
+- PRESION COMPUERTA 3, 126 BAR
+- PRESION COMPUERTA 4, 129 BAR
+- PRESION SOLAPA 2, 119 BAR
+- PINTURA EN BUEN ESTADO
+- ANCLAJES Y TORNILLERIA EN BUEN ESTADO
+- MANGUERAS SE ENCUENTRAN CRISTALIZADAS
+
+
+EJECUTADO POR: FRANCISCO GUINGUER, CARLOS AGUDELO, CARLOS GUINGUER, GUSTAVO LOPERA.

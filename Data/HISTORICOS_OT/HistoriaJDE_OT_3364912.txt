@@ -1,0 +1,5 @@
+Planeador:Faustino Giraldo Marin
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 12-01-2017
+Tipo de mantenimiento: CorrectivO
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Diagnosticar modo de falla, causa inmediata y causa básica en la estaciónLimpieza de estaciónDescarga y verificación de datos de la estación.

@@ -1,0 +1,48 @@
+- FECHA : JUEVES MARZO 12 DE 2015
+- REALIZÓ : ANDRÉS ZAPATA - WILDER HERRERA
+- ASOCIADO A LA OT : 2708107
+- ASUNTO : HACER MANTTO MP
+
+- DATOS DE PLACA 
+ * Potencia : 30 Kw
+ * Voltaje : 480 v
+ * Corriente : 46.8 amp.
+
+
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí        
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 203 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  463.1 v
+       ST =  461.6 v                                                             
+       RT =  464.3 v
+       Corriente de arranque:  
+Fase R = 270.8 amp.
+       Corriente de marcha:  
+Fase R =  13.1 a
+Fase S =  13.2 a 
+Fase T =   13.1 a                                                                              
+2.3. Temperatura excesiva carcaza: N.A
+        Temperatura excesiva cojinetes: N.A
+        Vibración anormal: N.A
+        Ruido anormal: N.A
+
+3. Calibración térmico control: 2 AMP.               Calibración térmico potencia : 55 AMP.            
+
+
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 000007
+
+6. Observaciones: se está manejando arranque directo mientras se cambian ATS que se quemaron después de la 
+                                   modernización.
+                                   * Bomba queda seleccionada como respaldo
+                                   * Nota : las corrientes tomadas en vacio.

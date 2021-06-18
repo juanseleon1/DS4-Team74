@@ -1,0 +1,9 @@
+JHON MARIO PEREZ ARENAS. MARZO 29 DE 2017
+
+REVISAR SENSORES DE VELOCIDAD UNIDAD TAQUIMETRICA EN LA UNIDAD 1. PRESENTA OSCILACIÓN DE VELOCIDAD ENTRE -185 Y 514 RPM. OCASIONANDO ALARMA DE VELOCIDAD DE UNIDAD ERROR Y INDICADOR DE VELOCIDAD ALARMA.2017/03/30 ANGEL ADONIS CADAVID OCHOA
+OT DIRECCIONADA AL EQUIPO ELECTRONICO, 
+EJECUTANTE:Luis Eduardo Arcila
+FECHA:2017/03/30 
+
+Se revisa conexiones de los sensores, dándole torque a todas sus borneras de control. También se realiza mantenimiento a la rueda dentada y a los sensores.
+Se encuentran algunas borneras flojas en la caja de paso de los sensores. 

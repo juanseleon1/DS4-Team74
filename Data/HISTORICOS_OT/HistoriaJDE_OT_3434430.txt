@@ -1,0 +1,14 @@
+
+
+FECHA: 25/03/2017
+
+DESCRIPCIÓN: LA MOTOBOMBA 2 PARA LA REFRIGERACIÓN DE COJINETES, ESTÁ PRESENTANDO INSUFICIENCIA PARA EL LLENADO DEL TANQUE, LA MOTOBOMBA 1 DESDE 19/08/2016 PRESENTA EL MISMO EVENTO OT 3215649.
+
+INFORMA: TURNO 2
+
+
+Ot: 3434430 - Bomba deficiente - Programador: Camilo Montagut - 22/08/2018
+
+Se cierra la ot sin tiempos ni registro debido a que se este trabajo se ejecutó con la ot:3672407
+
+Ejecuta: equipo mantenimiento mecánico UOG

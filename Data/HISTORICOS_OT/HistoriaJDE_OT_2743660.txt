@@ -1,0 +1,9 @@
+Lunes 20/04/2015
+Abad Ramirez G.
+POR EVENTO EN LOS SERVICIOS AUXILIARES DE CASA DE MAQUINAS, TRANSFERENCIA AUTOMATICA DE LA DP1 HACIA EL TSA3 POR PRUEBAS DE SUBTENSION QUEDA PARADO EL VENTILADOR S 10 NO FUE POSIBLE ARRANCAR DESDE NINGUNA ESTACION DE OPERACION SUBESTACION NI CASA DE MAQUINAS, QUEDA ENTERADO EL INGENIERO ADONIS CADAVID.
+
+2014/04/22 ANGEL ADONIS CADAVID OCHOA
+EN REVISON PRELIMINAR REALIZADO ANALIZANDO LOS EVENTOS SE EVIDENCIA QUE EL VENTILADOR SE PARO POR EVENTO EN CIRCUITOS DE 210 KV Y DE 13,2 KV, SE REVISARÀ EL VENTILADOR EN CAMARA DE VALVULAS.
+
+2015/04/22 YEISON ORTEGA - RUBEN ARBOLEDA OT: 2743660
+Se realizo revision general del circuito de 480VAC, se evidencio disparo de interruptor de potencia en Servicios Auxiliares correspondiente al ventilador S10 (S7), se repuso, posteriormente se realizo verificación de un temporizador en la gaveta del S7, se encontro en 3 segundos, se realizó ajuste a 3 minutos para evitar que esta falla se vuelva a presentar, se realizó pruebas de arranque en remoto de manera satisfactoria, se dejó en condiciones normales. 

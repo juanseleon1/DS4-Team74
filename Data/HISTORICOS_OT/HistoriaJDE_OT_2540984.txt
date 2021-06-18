@@ -1,0 +1,14 @@
+XE: MONITOREAR LA CONDICION DE TEMPERATURA, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+20
+Se aplico procedimeinto de mantenimiento semestral, se realizó medida de los siguientes valores: 
+Voltaje: 
+RS:449
+ST: 459
+TR: 448
+Corriente de cuncionamieto: 
+R:50.5
+S: 51.6
+T: 49.7
+Temperatura Maxima Motor: 
+Se realizó limpieza general al sitio, se encontro bastante suciedad en el piso. 
+Se encontro en condiciones normales de funcionamiento. 

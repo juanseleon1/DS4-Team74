@@ -1,0 +1,14 @@
+FECHA: 20/07/2016
+
+SOLICITANTE:FERNANDO GOMEZ
+
+Se encuentra fallada la IHM del controlador 1 de la unidad uno de playas, por favor revisar.
+
+
+
+
+
+Se a creado una Solicitud que requiere aprobacion. Usted es el encargado de diligenciar que esta sea aprobada. Descripción  : FALLA IHM CONTROLADOR 1 Tipo             : WO Prioridad      : 2     <> Edo. del Eq.  :      <> . . Datos del Equipo . Equipo      : 633925  Descripción : CONTROLADOR 1=K01 +W01 U1 PL 
+
+Dionis M. Zapata V.    24/07/216
+Se reinicia la IHM para desactivar el bloqueo de la pantalla, pero esta solo queda funcionando con Mouse, se apaga la IHM y se le cambia el Touch Screen, queda funcional y en observacion.

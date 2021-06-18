@@ -1,0 +1,6 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+
+02-11-2016
+PROGRAMADOR JOSE MONTOYA
+Se conectó el módulo CCI banco de respaldo y queda en observación
+Se realizó limpieza, inspección visual y se revisaron las borneras de control de los diferentes tableros del regulador de tensión. 

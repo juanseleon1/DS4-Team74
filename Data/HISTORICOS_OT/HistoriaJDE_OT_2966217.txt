@@ -1,0 +1,15 @@
+- FECHA : MIÉRCOLES DICIEMBRE 16 DE 2015
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 2966217
+- ASUNTO : SE ADJUNTA CORREO ENVIADO POR OPERADOR FREDY AGUIRRE.
+
+ Cordial saludo.
+El día de hoy cuando estaban utilizando la hidrolavadora la cual estaba conectada en el tablero de distribución T21, se produjo un cortocircuito que disparó el breaker Q10 en el tablero MCPC6.2 “ tablero de distribución 220 VAC tablero TA21” . Por tal motivo se encuentra fuera de servicio el alumbrado asociado a las bahías de 230 Kv; se trató de reponer el mismo pero este no responde, al parecer está fallado. Se solicita el favor de enviar a quien corresponda para que haga la revisión y/o reparación pertinente.
+Por su amable atención gracias.     
+
+
+Fredy de J Aguirre PalacioTecnólogo OperaciónUnidad Operaciones Zona Oriente
+IMPORTANTE : SE ENCONTRÓ CORTO EN LA ACOMETIDA QUE ALIMENTA LA HIDROLAVADORA : ESTABA TROZADA AL PARECER POR UN 
+CARRO QUE LA PISÓ AL CRUZAR HACIA EL PARQUEADERO.
+* SE RETIRÓ Y SE NORMALIZÓ EL CIRCUITO. 

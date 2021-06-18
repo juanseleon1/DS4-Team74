@@ -1,0 +1,11 @@
+2017-04-05 JUAN C DUARTE MUÑOZ.
+
+CORREGIR LA FALLA DEL VENTILADOR 301 EN EL "BY PASS STATIC SWITCH" QUE SE ENCUENTRA FUERA DE SERVICIO.
+2017/04/21 ANGEL ADONIS CADAVID OCHOA.
+SE DIRECCIONA OT AL EQUIPO ELECTRICISTA.
+2017/04/21 Luis Eduardo Arcila
+Se gestiona la compra de los rodamientos 
+
+2017/08/14 Luis Eduardo Arcila
+
+Se cambian rodamientos a los cuatro ventiladores en falla.

@@ -1,0 +1,8 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: JOSÉ MONTOYA
+Se realizó inspección, limpieza y verificación a los sensores de temperatura Fase R-S-T y las caratulas de los termómetros Qualitrol.
+Se realizó limpieza a las RIO asociadas a los transformadores.
+Se revisaron los bornes del tablero de control de los trafos y se verificaron las alarmas y disparos manualmente, accionado los microsuiches en los instrumentos de temperatura

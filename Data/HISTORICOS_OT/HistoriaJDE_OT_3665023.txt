@@ -1,0 +1,9 @@
+2017/12/30 RUBEN ARBOLEDA
+EN LA EJECUCION DE LA OT: 3641185 SE ENCONTRÓ LO SIGUIENTE: 
+
+DIAGNOSTICO: 
+La temperatura de los cables a la entrada del Breaker se encuentran en el nivel 1 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 13.1°C, lo cual indica que habria una probable deficiencia en su funcionamiento, este cable en los informes antriores a presentado el mismo punto caliente pero su temperatura no a incrementado despues del correctivo que se le realizo, se debe revizar las conexiones y mejorar el contacto a la entrada del Breaker. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2018/01/19 RUBEN ARBOLEDA
+Esta labor se ejecuta en la OT: 3671170
+2018-01-19 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3671170, PASO:4          Se realizó inspeccion termografica a la motobmba CW7, no se evidenció puntos calientes despues de 7 horas aproximadamente de servicio, Diagnostico: se realiza cambio del breaker, para mejorar la temperatura quedando en un nivel 1 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 3.2°C, lo cual indica que se encuentra dentro de los parametros normales de funcionamiento.

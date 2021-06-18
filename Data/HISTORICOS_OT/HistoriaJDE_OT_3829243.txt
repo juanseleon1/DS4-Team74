@@ -1,0 +1,4 @@
+
+ABRIL 20/2019  OT:  3829243  PROGRAMÓ: HGIRALRI EJECUTÓ: PEDRO ROBAYO, CARLOS VLADELAMAR Y HENRY GIRALDO
+
+Se presenta paro por Grid Error, al momento de entrar en servicio se presenta de nuevo falla Grid Error, se revisan los tiristores y se encuentran fallados el bloque L2 y L3, se cambian y se realizan pruebas, de nuevo se falla un tiristor en L2, se cambia y se realiza una nueva prueba, de nuevo falla otro tiristor pero en L3, se cambia y se realiza prueba quedando en servicio el aerogenerador, en total se usaron 6 tiristores entre fallados y cambiando unos que se habían colocado meses antes y que estaban como provisionales.

@@ -1,0 +1,8 @@
+CL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+17-10-2018
+PLANEADOR:GERMÁN BETANCUR
+PROGRAMADOR: JOSÉ MONTOYA
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores de posición del distribuidor.
+Se probaron 3 tarjetas nuevas AMP1 que se compraron y no permiten variar el span
+Se realiza verificación de los mandos de apertura y cierre del distribuidor

@@ -1,0 +1,9 @@
+PLANEADOR: BIANEY BRAVO VALENCIA JULIO 09 /2015
+DESMONTAR COJINETE SUPERIOR
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se cierra ot y se registra las actividades en la ot principal de cada equipo
+
+Ejecuta: equipo mantenimiento mecánico GIII

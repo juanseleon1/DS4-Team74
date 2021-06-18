@@ -1,0 +1,14 @@
+2016/06/29 JUAN CAMILO MONTOYA.
+SE GENERA ESTA OT PARA REVISAR SALIDA FORZADA UNIDAD 2  DE PORCE 3 
+
+
+
+29/06/2016
+
+Se realiza verificación en la señales de paro de la unidad y se evidencia disparo rápido 86R enviado del TAST, causa nivel alto de drenaje en la tapa el nivel de este proceso llego a punto de disparo 500 mm, se verifica el sensor CLO01 el cual presenta colmatación de aceite en el recinto de medida, se realizan algunas verificaciones del equipo y el programa de este proceso, queda pendiente realizar limpieza de este recinto y que los mecánicos verifican las fugas de aceite.
+
+La unidad se sincroniza de nuevo para evitar desviaciones
+
+Realizado por Wtobonl
+
+Terminada cerrar

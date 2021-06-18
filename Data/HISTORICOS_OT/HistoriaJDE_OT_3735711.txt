@@ -1,0 +1,9 @@
+2018/06/14 Gustavo Morales
+
+Corregir punto caliente en seccionador fase S - T de la unidad Nª 8, se requiere apertura de banco
+
+2018-06-14 REALIZÓ: FERNANDO ANTONIO RUIZ - CESAR AUGUSTO HOYOS - SERGIO OLIVARES - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3735711, PASO:1-1,2          
+Se realizó revisión del seccionador de la Unidad 8, referente a dos puntos calientes que se han presentado en las fases S y T, se realizó el cambio del contacto móvil (brazo) y los dos contactos fijos por cada fase, se dejó en observación, se realizó el proceso de cierre del banco y se arrancó las unidades 7 y 8, al momento de energizar la unidad 8 se presentó alarma 3 excitación, en el regulador de tensión apareció 32* Fiel Ground, se declaró indisponible la Unidad, queda pendiente para su revisión.
+
+2018-06-15 REALIZÓ: FERNANDO ANTONIO RUIZ - SERGIO OLIVARES,  PROGRAMO: RARBOLG OT: 3735711, PASO:2          
+Se realizó adecuación de brazos y contactos de las 2 fases del seccionador de la Unidad 8 para enviar a la empresa TECNIGAL para cotizar su reparación. 

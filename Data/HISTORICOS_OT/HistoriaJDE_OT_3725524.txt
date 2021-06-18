@@ -1,0 +1,8 @@
+2018/05/17 RUBEN ARBOLEDA.
+Se crea OT para realizar la revisión y reparación de falla en tierras en S/E, circuito del Banco 1.
+
+2018-05-17 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3725524, PASO:1         
+Se realizó revisión de cableado de tierras en Subestación en el banco 1, en la parte inferior de las torres, se evidenció falla en estas tierras, se realizó la fabricación de tierras, queda pendiente la instalación.
+
+2018-05-18 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3725524, PASO:2          
+Se realizó la instalación de tierras en Subestación en las torres den banco 1, se dejó en condiciones normales.

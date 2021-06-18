@@ -1,0 +1,4 @@
+FECHA: OCTUBRE 26/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: FREDY ECHEVERRI.
+Se hace mantenimiento segun instructivo, se miden tensiones de las baterias de respaldo del panel del sistema de CO2 y se encuentra que una de las baterias sin respaldo de AC, tiene una tensión de 9.4 VDC y su tensión nominal es de 12 VDC, por lo cual es necesario cambiarla.
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD

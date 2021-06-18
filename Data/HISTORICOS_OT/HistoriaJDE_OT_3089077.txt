@@ -1,0 +1,39 @@
+- FECHA : MARTES MAYO 17 DE 2016
+- PROGRAMÓ : MARIO G.B.
+- REALIZÓ : FRANCISCO QUINTERO - MARIO RESTREPO
+- ASOCIADO A LA OT : 3089077
+- ASUNTO: HACER MANTTO TRIMESTRAL MP
+
+
+-1.MANTTO CONTROLES
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 91.1 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  460.4 v
+       ST =  460.7 v                                                                 
+       RT =  462.2 v
+       Corriente de arranque:  
+Fase R = pendiente
+       Corriente de marcha:  
+Fase R =  pendiente
+Fase S =  pendiente 
+Fase T =   pendiente                                                                              
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 2A  Calibración térmico potencia : 50 A
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 3H
+
+6. Observaciones: NO SE TOMARON LECTURAS DE CORRIENTE PORQUE LA COMPUERTA ESTABA TOTALMENTE
+                                   RECUPERADA.

@@ -1,0 +1,25 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: Carlos Forero
+FECHA : 05/06/2017
+
+PRUEBAS ELECTRICAS AL TRANSFORMADO CON LA SERIE 5705126 de reserva 
+
+
+NOTA: ELABORAR PERMISO DE TRABAJO POR RIESGO DE ALTURAS
+
+Buen día.
+
+Adjunto, las pruebas eléctricas del  trasformadores de repuesto ASEA, con resultados satisfactorio y la prueba de rigidez eléctrica, ejecutada por medio del equipo Megger OTS60PB, aplicando el criterio de la Norma ASTM D 1816-04, electrodos tipo hongo, separados a 2mm, 
+
+SERIE RH% T°C_ACEITE PRUEBA1_kV PRUEBA2_kV PRUEBA3_kV PRUEBA4_kV PRUEBA5_kV PROMEDIO_kV RESULTADO5705126 43.1 24 39.2 38.4 34.1 28.7 28.5 33.8 PASO
+EL TRANSFORMADOR, SE LE REALIZARON LAS SIGUIENTES PRUEBAS:
+ SFRA
+ FACTOR DE POTENCIA
+ RELACION DE TRANSFORMACION
+ CORRIENTE DE MAGNETIZACIÓN
+ REACTANCIA
+ RESISTENCIA OHMICA
+ IP
+
+
+

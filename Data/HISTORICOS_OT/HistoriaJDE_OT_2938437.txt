@@ -1,0 +1,5 @@
+2016/07/02 RUBEN ARBOLEDA
+Se ha reporgramado la OT a causa de falta de recurso
+
+2016/12/20 RUBEN ARBOLEDA
+Se cierra la OT sin costos ya que se generó la otra OT Automatica: 3289725, 

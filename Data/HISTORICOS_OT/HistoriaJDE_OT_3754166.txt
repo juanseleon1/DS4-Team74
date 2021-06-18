@@ -1,0 +1,15 @@
+FECHA: 13 DE AGOSTO DE 2018.
+LA INDICACION DE TEMPERATURA INTERCAMBIADOR #2 DEL GENERADOR PRESENTA OSCILACION EN LA MEDIDA.
+
+
+13/08/2018
+
+Se realiza verificación de la indicación en la RTD 1 del sistema refrigeración radiadores del generador, se realiza medición de resistencia en la bornera del tablero TCIG y verificación de la salida de corriente en el módulo o transductor indicador en el tablero TCIG. se encuentra falla en la medida de salida la cual oscila por problemas en el transductor. Se realiza verificación de este repuesto para cambiar o reparar. la medida queda por fuera 
+
+Realizado por Julio parra y Neiro Pérez 
+
+Informa WTOBONL
+
+TERMINADA CERRAR 
+
+

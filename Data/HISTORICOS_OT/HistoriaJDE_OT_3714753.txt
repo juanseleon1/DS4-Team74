@@ -1,0 +1,16 @@
+00:09 SALE DE SINCRONISMO LA UNIDAD #3 POR PARO RÁPIDO SEGUIDO DE PARO DE EMERGENCIA 1Y2. 
+A ESTE EVENTO NO SE OBSERVAN ALARMAS ASOCIADAS, SE HACE UNA REVISIÓN VISUAL A LOS COMPONENTES DE LA MÁQUINA Y NO SE OBSERVA NINGUNA ANOMALÍA, TAMBIÉN SE VERIFICA EN SUBESTACIÓN Y NO SE DESCRIBE NINGUNA ALARMA ASOCIADA.
+SE LE DA CONDICIONES A LA UNIDAD Y SE SINCRONIZA NUEVAMENTE.
+FECHA: ABRIL 20 - 2018.
+SOLICITANTE: LUIS FDO LOPERA - VICENTE GAMBOA H.
+
+20/04/2018
+
+Unidad 3 Porce 2 , se realizan verificaciones en el control de unidad y el PLC TSX de esta unidad, se verifican las fuentes de alimentación y monitorean ruidos o armónicos en estas fuentes, el PLC se reinicia solo en su programa ya que no se nota apagado visual de los módulos, se encuentra falla en ruido de salida temporal de la fuente G03 de 48 VDC se reemplaza por una nueva fuente PHONEXCONTAC y además se cambia la fuente GO1 de 48 VDC. Se verifica el programa con la consola de autómatas TSX y la unidad queda operativa. 
+LA UNIDAD QUEDA EN OBSERVACIÓN 
+Realizado por Grupo eléctrico, grupo operación y Grupo electrónico
+Informa Walter Tobón
+
+TERMINADA CERRAR 
+
+

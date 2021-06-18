@@ -1,0 +1,21 @@
+XE: REVISION, MEDIR Y LIMPIAR ANILLOS ROZANTES
+
+________________________
+
+
+REALIZÓ: JULIAN GIRALDO - HERNAN CORREA
+
+Se realizó el mtto preventivo al recinto de las escobillas de la excitación según instructivos. Se aplica dielectric para lavar el recinto, se toman medidas de escobillas, se hacen mediciones de aislamiento, se cambian las escobillas 6 y 8. 
+
+Longitud de las escobillas en los anillos rozantes (mm)  Escobillas estudio 43
+
+145,5235,5333446533,5624733822938,510371140,51234,513391447153816371747,518391947,52033
+Longitud de las escobillas temperatura rotor (mm) Escobillas estudio 44
+
+A35B34
+Se cambiaron las escobillas # 6 y 8.
+
+NOTA: El criterio de aceptación de 16mm no está acorde con la realidad. Esto se debe a que el remache de la escobilla realiza contacto con el anillo desde los 19-18 mm. Se recomienda aumentar el valor del criterio de aceptación a 20mm.
+
+INFORMÓ: CRISTIAN GOMEZ
+_______________________________________________

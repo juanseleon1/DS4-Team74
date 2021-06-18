@@ -1,0 +1,13 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: CAMILO MONTAGUT
+
+PREVENTIVO MECANICO VALVULA ADMISION UNIDAD GENERACION GUADALUPE 3
+
+Programador: Camilo Montagut - 10/03/2016
+
+Se realiza el desmonte de los filtros y se ejecuta la limpieza respectiva. Además se cambia el empaque o-ring del filtro aguas abajo.
+
+Se montan los filtros y no se registran novedad.
+
+Ejecuta: equipo mantenimiento mecánico GIII

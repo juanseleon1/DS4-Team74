@@ -1,0 +1,6 @@
+
+FECHA: JULIO 12 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Se presentan 3 paros seguidos por Grid Error, se inspeccionan los condensadores y se encuentran bien, se revisa el contactor 24K2 y se encuentra pegado, se le dan unos leves golpes en los lados y despega. 

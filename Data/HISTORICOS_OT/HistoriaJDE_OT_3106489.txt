@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 10 de Mayo de 2016
+Síntoma: Falla en comunicacion del radio enlace de la presa Riogrande II

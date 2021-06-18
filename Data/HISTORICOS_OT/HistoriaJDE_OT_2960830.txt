@@ -1,0 +1,12 @@
+SOLICITANTE: OPERACIÓN TURNO 2 G3 FECHA: 10/12/2015
+
+Servicios Auxiliares no conmutan cuando la unidad sale de sincronismo.
+
+27 DE FEBRERO DE 2016 
+Referente a los servicios auxiliares de 440 Vac G35, se cambia la unidad motorizada del interruptor Q02 debido que días anteriores a estado colocando problemas en las aperturas y cierres remotas del interruptor, se aprietan cables flojos en los bornes de salidas digitales del relé K11, queda pendiente verificar cuando la unidad sincronice para mirar el funcionamiento de la transferencia.
+William Lopera.
+
+MAYO 21 DE 2016
+Referente a los servicios auxiliares 440 Vac de G35. Por oportunidad se cambiaron los relés K1 y K2, queda pendiente cuando la unidad vuelva a estar fuera de servicio para realizar el cambio de 4 relés mas, esto con el fin de identificar el problema que se tiene con la transferencia de los servicios auxiliares, cuando sale de sincronismo la unidad.
+Realizo: Grupo eléctrico.
+Informo: William Lopera

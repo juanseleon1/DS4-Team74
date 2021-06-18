@@ -1,0 +1,52 @@
+FECHA: LUNES 29/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, RODOLFO GARCES
+ASOCIADO A LA OT: 3769836
+ASUNTO: EJECUTAR MP CUATRIMESTRAL, REVISION Y MANTENIMIENTO GENERAL AL COMPRESOR N°1 DE LOS REGULADORES.
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  ______827________
+
+PRESION DE ARRANQUE : _______56.6 BAR_______
+
+PRESION DE PARO: _______61 BAR_______
+
+TIEMPO DE TRABAJO: ________6´11"______
+
+TIEMPO DE REPOSO: ______________
+
+TENSION DE BANDAS EN MM. ______________
+
+TEMPERATURA CARCAZA MOTOR: ______45° C________
+
+TEMPERATURA CARCAZA UNIDAD:______42° C________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:_29/10/2018_____________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:_29/10/2019_____________
+
+
+
+
+Observaciones:_SE REALIZA ASEO GENERAL AL EQUIPO Y SE DRENA EL TANQUE ACUMUADOR ASOCIADO AL COMPRESOR,
+SE CAMBIA ACEITE, SE ENCONTRABA CONTAMINADO CON AGUA. 
+ EL EQUIPO SE ENTREGA OPERANDO EN CONDICIONES NORMALES AL PERSONAL DE OPERACION
+________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

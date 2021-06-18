@@ -1,0 +1,8 @@
+
+2017/10/09 DIEGO BEDOYA
+Se realiza la revisión de los cilindros de frenado de la U4, se encuentra que el cilindro N°3 en posición de accionamiento, generando un roce con el anillo de frenado.  Se da paro a la Unidad para despegar este cilindro, se realizan varias pruebas y se deja en funcionamiento normal.
+El trabajo fue realizado por Andres Alzate y Fabio Herrera
+
+marzo 30 de 2018 
+ot terminada y cerrada
+andres ramirez 

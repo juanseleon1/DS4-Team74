@@ -1,0 +1,8 @@
+
+ABRIL 03/2019  OT: 3826232  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR, PEDRO ROBAYO Y HENRY GIRALDO
+
+Al momento de entrar en servicio el aerogenerador se presentó paro por Grid Error, se le da un nuevo intento, pero en esta ocasión se presenta disparo del interruptor de la estación de transformación, se verifica en la estación de transformación y no se encuentra nada fuera de lo normal, se revisa en los tableros de potencia y se encuentra fallado el bloque de L1 de tiristores, se deja detenido el aerogenerador y se programa para mañana a primera hora realizar el respectivo cambio.
+
+ABRIL 04/2019  OT: 3826232  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR Y HENRY GIRALDO
+
+Se desmonta el bloque de L1 y se encuentra un solo tiristor malo, se cambia por uno usado, se instala de nuevo el bloque de tiristor L1 y se deja en servicio el aerogenerador.

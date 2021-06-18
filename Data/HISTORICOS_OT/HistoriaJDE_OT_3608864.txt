@@ -1,0 +1,6 @@
+FECHA: 26/09/2017    SOLICITADO POR: Natalia Urrea - Operación G4
+DESCRIPCIÓN: Luego de algunas maniobras por mantenimiento en los servicios auxiliares 480VAC de Guadalupe 4, se presenta alarma falla sistema 208V S/E 230.
+Verificando en la subestación se encuentran abiertas la dos barras de servicios auxiliares 208VAC. El interruptor de la barra 2 recibe orden de cierre,  pero el interruptor de la barra 1 rechaza cada intento de cierre.
+ Se abre el térmico del transformador 480/208 que alimenta la barra 1 y se acopla las barras de forma manual.
+27/09/2017 se normaliza el interruptor de la barra 1 , se ajusta rele de sub tension de este transformador
+Alirio Hernandez-Juan caicedo

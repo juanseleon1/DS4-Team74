@@ -1,0 +1,39 @@
+- FECHA : LUNES SEPTIEMBRE 24 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - FRANCISCO QUINTERO 
+- ASOCIADO A LA OT : 3759056
+- ASUNTO : REALIZAR MANTTO MP TRIMESTRAL 
+
+Datos de placa:         P = 60 HP    V = 440vac    I = 77.0 A
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 550 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  479.2 v
+       ST =   480 v                                                                
+       RT =  478 v
+       Corriente de arranque:  
+Fase R = 320 a
+       Corriente de marcha:  
+Fase R = 70.4 a
+Fase S =  70.3 a
+Fase T =  69.0 a                                                                               
+2.3. Temperatura excesiva carcaza:nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 4.0 a  Calibracion térmico potencia : 80 a
+
+4. Funcionamiento control normal: sí 
+
+5. Horómetro = 893.8 H
+
+6. Observaciones: el termico de control de esta bomba esta asociado al Q1 
+                                   El QAC8 es un termico de control general para el control de las 3 bombas ( 4 amp ver plano 12.8 ) 

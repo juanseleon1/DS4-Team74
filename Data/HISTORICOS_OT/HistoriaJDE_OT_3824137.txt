@@ -1,0 +1,4 @@
+
+ABRIL 23/2019 OT: 3824137  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se inspeccionan los anemómetros y veletas, también se verifica el estado de los sensores de alta y baja velocidad.

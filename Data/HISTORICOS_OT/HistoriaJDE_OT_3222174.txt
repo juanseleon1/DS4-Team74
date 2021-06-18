@@ -1,0 +1,8 @@
+2016-08-25. JUAN C DUARTE MUÑOZ.
+
+VERIFICAR ALARMA "E1V21-1-CNEN CV1 COMMUNIC RTU". SEÑAL EN O.S.
+
+
+2016-08-26
+Se revisaron las resistencias de la tarjeta de acople de las comunicaciones y no se encontró nada anormal; se procede a resetear la RTU de primera etapa y se borran las alarmas quedando en operación normal.
+Learcilas

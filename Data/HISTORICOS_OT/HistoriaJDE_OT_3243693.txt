@@ -1,0 +1,32 @@
+INFORME:
+EL PERSONAL DE SUBESTACIONES SE HACE PRESENTE EN LA SUBESTACIÓN LA HERRADURA PARA EVALUAR LA FALLA DEL SF6. INFORMAN QUE LA FALLA SE PRODUCE POR EL ALTO GRADO DE HUMEDAD DEL SF6. VERIFICAN Y CORRIGEN FUGAS. 
+QUEDAN DE PROGRAMAR EL CAMBIO DEL SF6.
+SE LLEVA 3 MESES Y NO HACEN EL CORRECTIVO.
+
+LOS OPERADORES DE LA CENTRAL INFORMAN QUE NO SE HA VUELTO A PRESENTAR ALARMAS POR ESTA FALLA.
+SE PROCEDE A SU CIERRE.
+INFORMA: GORTIZG
+
+
+
+
+INFORME PRESENTADO POR MARICELA GUZMAN.
+Realizando inspección por causa de una alarma que aparece y desaparece del sistema sin razón alguna encontramos que: 
+
+1. Las medidas del Manómetro y del Presostato no convergen.
+2. Las medidas cambian dependiendo de la temperatura. Cuando está más alta la temperatura se baja él nivel del gas, pero cuando la temperatura baja de nuevo vuelve a subir el nivel. 
+3. Verificando el sistema eléctrico, no se encontró falla alguna en este. 
+Se evidencia que aumentó la medida, se tomó fotografía al presostato a las 5pm por qué ya se encontraba cerrado el interruptor.
+Investigando se encontró que es correcto que dependiendo del sitio donde lo tengamos operando le influye la temperatura del medio. Esto puede subir o bajar la presión, también le afecta el número de operaciones en el tiempo. 
+Por otro lado, se debe revisar empaquetadura del sistema como de los instrumentos instalados, por qué puede ser desgaste de o'ring. 
+SUGERENCIA: La unidad de subestaciones y líneas cuentan con todos los equipos pertinentes para manipular esté sistema del SF6. (Equipo detector de fugas, para llenado y para regeneración del gas). 
+
+INFORMA: GORTIZG
+
+
+13 SEPTIEMBRE 2016
+
+REVISAR CABLEADO DEL SISTEMA FS6 DEL INTERRUPTOR DE 44 KV DE LA SUBESTACIÓN DE LA HERRADURA. A LAS 13:10, ESTANDO BAJO CONDICIONES NORMALES DE OPERACIÓN, DIO FALSA ALARMA DE BAJA PRESIÓN YA QUE EL MANOMETRO MUESTRA 7.1 BARES QUE ES EL VALOR HABITUAL.HACE COMO DOS MESES, HABÍA DADO OTRA ALARMA.
+
+
+ARTURO BETANCUR

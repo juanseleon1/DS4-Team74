@@ -1,0 +1,25 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+19/04/2017. SERGIO OLIVARES D. O.T.3476801. EJECUTORES: FERNANDO RUIZ A. - SEBASTIAN HINCAPIE H.
+          BRANDON VELASQUEZ (PRACTICANTE)
+
+ Se petrolizo con Dielectric el eje de los anillos, y se hizo enfasis en los porta-escobillas y el barraje en general, para tratar
+ de mejorar el aislamiento. No se vio mejoria. Se encuentra presencia de aceite encima de la cuba superior. Tanto el rotor  como el barraje tienden a la baja.
+
+           PLANILLA AISLAMIENTO ROTOR
+1. ANTES DE LIMPIEZA.
+ ROTOR + BARRAJE   = <500  M  
+ ROTOR                      = <50O M
+ BARRAJE                    =  3.63  M
+
+2. DESPUES DE LIMPIEZA.
+ ROTOR + BARRAJE   =  8.27 M
+ ROTOR                      = 15.78 M
+ BARRAJE                    =  9.25 M
+
+3. RESISTENCIA OHMICA =     241.2 m
+4. INDUCTANCIA               =     164.3 mH
+5. CAPACITANCIA             =     10.08 µF
+
+
+

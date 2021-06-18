@@ -1,0 +1,19 @@
+2016/08/06 DIEGO BEDOYA
+Se solicita cotizacion de los filtros para el dializador de aceite ILM1B30BVIC2F3-110.
+Los filtros  se solicitan segun el manual del fabricante con la siguiente descripcion
+Ref.ILF-4809-2 que corresponde al filtro de 2 micras
+Ref. ILF-4809-5 que corresponde al filtro de 5 micras
+Ref.ILF-4809-10 que corresponde al filtro de 10 micras
+el codigo ISO 4406-99 y nivel de limpieza 16/15/14 
+la nomenclatura de los filtros significa lo siguiente:
+IL: Ingenieros de lubricacion
+F: elemento filtrante desechable
+48: 48 cm de altura
+9: 9 cm de diametro.
+
+
+octubre 03 de 2016 
+
+ot cerrada
+
+andres ram,irez

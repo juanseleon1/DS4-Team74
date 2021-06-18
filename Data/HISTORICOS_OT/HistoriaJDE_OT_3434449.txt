@@ -1,0 +1,10 @@
+2017-03-25. JUAN C DUARTE MUÑOZ.
+
+VERIFICAR DETECTOR TERMICO UNIDAD 5 POR EVENTO DE FUEGO EN ZONE 83. ADR=006. LP=3 ND=2. DETECTOR TERMICO GENERADOR 5.
+
+SE REVIZA Y PARECE QUE ES UNA RESISTENCIA MUY CERCA AL DETECTOR. PORQUE CUANDO SE CONECTA LA CALEFACCIÓN AUTOMATICA SE REGISTRA EL EVENTO.
+
+EJECUTANTE:Luis Eduardo Arcila
+FECHA:2017-03-30 
+Se instala baquelita para aislar las resistencias de calefaccion del sensor de temperatura.
+Esto mismo se hace en la unidad 7 que presenta este mismo problema.

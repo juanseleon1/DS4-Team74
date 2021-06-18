@@ -1,0 +1,5 @@
+Solicitante-Planeador: Uriel de Jesus Casas
+Aprobador: Daniel Eduardo Toscano Patiño
+Fecha de solicitud: 5 de Julio de 2017
+Tipo de mantenimiento: Preventivo, mes de Julio.
+Acciones de mantenimiento: Realizar lectura de instrumentación, realizar recorridos e inspección por los diferentes componentes de la presa. 

@@ -1,0 +1,21 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO DEVANADO DE ALTA Y ACEITE FASE S TRANSFORMADOR DE POTENCIA.
+
+FEB 22/2016 PROGRAMO: JGUINGUER  EJECUTO: ALEXANDER VILLA
+SE HACE VERIFICACION TERMOMETROS DEVANADO DE ALTA LOS  VALORES SON LOS SIGUIENTES:
+PATRON          DEVANADO             
+20ºC                    19,8ºC                   
+40ºC                    39,8ºC                      
+60ºC                    59,7ºC                   
+80ºC                   79,9ºC                   
+100ºC                 99,8ºC                    
+120ºC                 119,8ºC                
+
+
+
+                    
+
+
+
+
+ 

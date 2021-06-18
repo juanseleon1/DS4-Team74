@@ -1,0 +1,16 @@
+JULIO 19/2018 OT: 3747090  PROGRAMO: JGUINGUL  EJECUTO: ANDRES YEPES 
+SE VERIFICO LA INTRUMENTACION DEL TRTANSFORMADOR DE POTENCIA 
+Disparo:
+· Imagen térmica 75°C ok
+· Relé Buchholz ok
+· Temp. Aceite dev. 75°C ok
+· Bajo nivel aceite ok
+· Válvula sobrepresión ok
+Alarma:
+· Imagen térmica 100°C ok (termómetro con un contacto fallando)
+· Relé Buchholz ok
+· Temp. Aceite dev. 90°C ok
+· Alto nivel aceite trafo ok
+
+
+VERIFICAR INSTRUMENTACION TRANSFORMADOR DE POTENCIA 

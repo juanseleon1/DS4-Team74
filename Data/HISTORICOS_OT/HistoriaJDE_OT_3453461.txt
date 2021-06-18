@@ -1,0 +1,17 @@
+- FECHA : MIÉRCOLES ABRIL 12 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : VICTOR ZULETA - JEISON ORTEGA
+- ASOCIADO A LA OT : 3453461
+- ASUNTO : REVISAR CONTROL SISTEMA 
+           * SE REVISA Y NO SE ENCUENTRA NADA ANORMAL. 
+           * SE CONSTATA QUE HUBO UNA OPERACIÓN INCORRECTA DE LOS MODOS DE CONTROL LOCAL Y REMOTO.
+
+SISTEMA DE FILTRO Y VÁLVULA DE REFRIGERACIÓN UNIDADE 3
+
+Según el requerimiento de la orden de trabajo 3453461 de la unidad 3 se denota:
+El sistema se encuentra en local, con el pulsador piloto Filter System Start/Filter Run apagado, no respondiendo a la orden de fluching.
+Se evidencia que cuando el sistema se encuentra en local y se le da al pulsador piloto Filter System Stop, el sistema queda deshabilitado, no permitiendo la acción de autolavado ni operación de las válvulas motorizadas.
+Para la normalización del sistema se debe colocar la perilla en remoto, asociado a la salida (Q 124.2) remote signal del PLC siemens, supervisada por la entrada (DI 201-51) del controlador TCU.2.2 K02 +W02, garantizando la operación del sistema y evidenciando el pulsador piloto Filter System Start/Filter Run encendido.
+El sistema queda de forma operativa en la unidad.
+
+

@@ -1,0 +1,7 @@
+FEBRERO 08 DE 2018
+El transformador de la fase T de la unidad 3 de Guadalupe 3, esta presentando problema en el control de arranque de ventiladores por lo que se tuvo que forzar el termico ya que en modo automatico y manual no respondia.
+
+Se reviso y se encontro en mal estado (bobina en corto) el contactor que recibe el mando para la energizacion del ventilador. Se procedio a realizar el respectivo cambio, se realizaron pruebas en manual y automatico, las cuales fueron satisfactorias, se entrega el equipo a operacion. 
+
+Realizo: Mateo Perez-Sergio Areiza
+Programo: Carlos Andres Forero

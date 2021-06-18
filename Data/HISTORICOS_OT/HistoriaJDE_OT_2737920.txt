@@ -1,0 +1,28 @@
+ABRIL 13 DE 2015  PLANEADOR: FARFREY 
+ESTA OT SE HIZO CON EL FIN DE MONTAR COMPRA DE 40 ESCOBILLAS PARA LA EXCITACION DE LA UNIDAD 1 DE LA CENTRAL CARACOLI
+ 
+a. ESCOBILLAS ESTUDIO 53 CENTRAL GUADALUPE
+*Este estudio es propiedad  ''EXCLUSIVA'' de Carbone Lorraine de Colombia S.A. (MERSEN)*
+
+- DIMENSIONES: Longitud 50 mm X Ancho 30 mm X Espesor 16 mm 
+- MONTAJE: 1CA,1T
+- CALIDAD: EG-389P
+- PRESION PORTA ESCOBILLAS (gr.): 1035
+- TIPO DE MAQUINA: Generador.
+- LOCALIZACIÓN: unidad 1 de la Central CA
+- DATOS DE MAQUINA (CONSTRUCTOR): Westinghause
+- CANTIDAD: 8 unidades.
+- DATOS DE PLACA GENERADOR:
+
+Especificaciones técnicas
+- Densidad aparente: 1,49.
+- Resistividad (µ x cm): 1600.
+- Dureza shore: 30.
+- Módulo E (kg/mm2): 440.
+- Carga de ruptura a la flexión (kg/cm2): 190.
+- Caída al contacto (U (V)): M.
+- Frotamiento: M.
+- Carga admisible (A/cm2): 12.
+- Velocidad (m/s): 50.
+- La calidad de Carbón Electro-grafítica.
+

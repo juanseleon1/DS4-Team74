@@ -1,0 +1,11 @@
+
+DIONIS M. ZAPATA V.   Domingo 9/12/2018
+Se da un arranque a la planta Diesel para chequear su funcionamiento y se evidencia una falla en el regulador de voltage, pero el que esta ubicado dentro del tablero de control, de la planta diesel que esta en servicios auxiliares de subestacion, esto se evidencia ya que el generador esta recibiendo la consigna de subir voltage y al desconectar el cable que trae la consigna de subir voltage desde el tablero de control, de la subestacion, el voltage es regulado nuevamente por el regulador interno de la planta diesel. 
+
+se deja trabajando la planta en vacio por mas de media hora ya que se estaba dando disparo la planta en un promedio de 10 a 15 minutos.
+
+Luego se da un paro Normal y nuevamente es arrancada en remoto y sincronizada y se deja trabajando por mas de 40 Minutos y todo sale bien, queda operativa la planta diesel.
+
+
+Lunes 10/12/2018
+se da un arranque en remoto a la planta diesel para corroborar su correcto funcionamiento.

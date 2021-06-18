@@ -1,0 +1,19 @@
+19/08/2016. JORGE PEÑARANDA
+
+FALLA RED PROFIBUS EN RED TLCT LA UNIDAD PARADA FALLA LA RED Y SALE PARO RAPIDO, 
+
+
+
+
+19/08/2016
+
+Se realiza verificación y evaluacion de la red profibus PA en los instrumentos de del TLCT , se encuentra falla en la red profibus por el instrumento CT0010 temperatura aceite cuba , se configura un nuevo modulo para reemplazar el modulo fallado, se realizan pruebas con el sistema y ademas con la unidad girando. la unidad queda normalizada y el sistema habilitado. 
+
+
+Realizado por Wtobonl 
+
+terminada cerrar
+
+
+
+

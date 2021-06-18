@@ -1,0 +1,22 @@
+29/01/2018 - 12:25 pm.
+
+Se evidencia en varias oportunidades y corrovoradas con el Centro de Control Guadalupe, que la Unidad presenta dificultades al sincronizar llegando hasta el paso 13 y superando el tiempo de cinco (5) minutos para el cierre del Interruptor Principal, por lo que se ha atendido por parte del Operador del Centro de Control llevando la Unidad nuevamente hasta el paso de marcha y dando nuevamente Sincronizar a la Unidad.
+
+Informa: Turno 3 - John Meneses - Mauricio Caicedo - Wilson Arango. 
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:JUAN CAICEDO
+
+ENERO 29 DE 2018
+
+
+
+21/03/2018
+SE HACE REVISION DE LA LOGICA DE CONTROL, PARA VERIFICAR QUE TODAS LAS CONDICIONES DE SINCRONIZACION SE ESTEN CUMPLIENDO, TAMBIEN SE REVISA EL SINCRONIZADOR Y SE NOTA QUE ESTA TRABAJANDO ADECUDAMENTE VARIANDO FRECUENCIA, VOLTAJE Y ANGULO DE FASE.
+
+SE NOTA QUE EL PROBLEMA ES DE LA RED EXTERNA, QUE PRESENTA ALTERACIONES EN SUS MEDIDAS, LO CUAL HACE NECESARIO QUE SE HAGAN VARIOS INTENTOS DE SINCRONIZACION.
+
+JUAN CAICEDO
+
+

@@ -1,0 +1,14 @@
+FECHA: 21/06/2018 
+SOLICITANTE: GUSTAVO ALONSO QUINTANA ARANGO
+
+Revisar la aguja nro. 1 de la unidad G31 , ya que se está  quedando pegada  al momento del cierre . siendo necesario generar un paro de emergencia para  obligarla al cierre total.
+
+INFORMÓ: TURNO 2
+
+02/08/2018
+
+Se desmonta el servomotor y se inspecciona su estado no encontrando justificacion para la pega al momento de cierre, al accionar manualmente el vastago se nota pequeña pega al abrir procedente del travezaño en donde se encuentran los bujes guias del vastago.
+Se monta nuevamente el servomotor cambiando junta prensaespopa de aceite y la de agua, se realizan calibracion de lazos de control del inyector comprobando su anormal funcionamiento.
+la pega reportada se da cuando suben la carga de la mquina a 47 mw y se queda en esta carga por algún tiempo luego al bajar la carga se queda pegada, pero si se mantiene en 45mw responde a la baja de carga sin problemas.
+Al arrancar la unidad y llevarla a 47mw y luego descender a 45mw se observa normal comportamiento.
+Queda en observacion

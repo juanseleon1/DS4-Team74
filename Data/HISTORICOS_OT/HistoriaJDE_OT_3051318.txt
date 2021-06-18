@@ -1,0 +1,2 @@
+2016-04-26 REALIZÓ: EDWAR LONDOÑO - JHONATAN USME,  PROGRAMO: RARBOLG OT:3051318    
+CORRIENTE: R:0, S:0, T:0, VOLTAJES RS:462, ST:463, TR:462, AISLAMIENTO DE MOTOR: 686 M Se da arranque solo al motor para verificar funcionamiento, no cuenta con bandas

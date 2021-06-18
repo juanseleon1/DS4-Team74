@@ -1,0 +1,24 @@
+Fecha: 23 de Septiembre de 2016.
+Solicitantes: ELKIN SANTAMARIA, FERNANDO YEPES.
+FAVOR REVISAR LA MOTOBOMBA 1 DEL REGULADOR DE VELOCIDAD DE LA UNIDAD 6 DE GUADALUPE 3, PRESENTA FUGA DE ACEITE Y TAMBIEN SE ENCUENTRA DESCALIBRADA. MUCHAS GRACIAS.
+
+ATT: ROBIN TAMAYO.
+
+Ot: 3257862 - Fuga de aceite en la esación hidráulica - Programador: Camilo Montagut - 05/10/2016
+
+Se calibra las dos bombas del sistema  hidráulico ya que presentan problemas en el arranque y paro de las mismas. Se realizan movimientos y pruebas con el acumulador dejando calibrado de la siguiente manera:
+
+Bomba principal 1 :    23.62  arranque (bar)
+                                          24.03  paro
+
+Bomba respaldo 2:    22.69  arranque (bar)
+                                          23.97  paro
+                                      
+Por oportunidad en el sistema se corrige fuga de aceite en la válvula del intermitente de la bomba 1.
+En el control eléctrico de la bomba 2 se reapreta el contactor principal en todas sus fases y se realizan pruebas de arranque y paro de la bomba, midiendo sus corrientes.
+
+Fase R: 14.3 Amp
+Fase S: 14.7 Amp
+Fase T: 14.7 Amp
+
+Ejecuta: equipo mantenimiento UOG

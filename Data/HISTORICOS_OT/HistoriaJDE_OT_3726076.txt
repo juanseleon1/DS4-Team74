@@ -1,0 +1,21 @@
+
+2018/06/05 _ CARLOS ENRIQUE MONCADA. OT N° 3726076.
+Se realiza mantenimiento general, limpieza y verificación al cableado.
+Se cambian las baterias de 12 voltios de la fuente de respaldo. el equipo asociado G1 no realiza la transferenciapara trabajar con baterias.
+el equipo muestra fsalla por baterias malas pero estas se encuentan nuevas.
+Se realiza limpieza al sensor angular de la compuerta radial, este se encuentra en buen estado.
+
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+MPGETPO: LIMPIAR, VERIFICAR Y CHEQUEAR CONTROL DEL PROCESO TABLERO CONTROL COMPUERTA TCV4 CASETA 5 
+
+FECHA: 21/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA 
+
+ 

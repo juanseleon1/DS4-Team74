@@ -1,0 +1,6 @@
+FECHA: 20-06-2014 PROGRAMADOR: WILMER DAVID MENDEZ CARO
+EJECUTO: EQUIPO DE MANTENIMIENTO MECANICO.
+Cojinete combinado ( mantenimiento).  se inicia  mantenimiento de cojinete combinado, se requiere cambiar las pastillas o amortiguadores de segmentos, estos se encuentran en mal estado, se solicitan 100 unidades de estas en el almacen. 
+Cojinete combinado (armado). se arma  cojinete combinado y se le entrega a montaje para instalar instrumentación y tubería de potencia.
+
+

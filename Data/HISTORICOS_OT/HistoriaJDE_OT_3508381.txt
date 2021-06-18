@@ -1,0 +1,6 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 09-06-2017
+Tipo de mantenimiento: Preventivo
+Desmonte de equipos o estación
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estacion,se bajan datos, se borran datos de la memoria.

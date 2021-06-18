@@ -1,0 +1,20 @@
+20/07/2016. MAURICIO RUIZ.
+
+PARO RAPIDO POR DISCREPANCIA MEDIDA TEMPERATURA SELLO RTD 1 Y 2
+
+
+20/07/2016
+
+Se realiza verificación de este evento en el sistema SCADA, se ajustan los lazos de control en el regulador de velocidad, debido a las fallas encontradas de falla Pickup, además se verifican los lazos de control aun después de estos ajustes sale de nuevo la unidad se verifican en los procesos las posibles fallas y se encuentra falla en el sello por discrepancia se verifica en el sistema y se encuentra mal configurado el año de este sistema (2014) por esta razón no se observaba el disparo en el sistema SCADA al salir este con el año 2014, se encuentra falla en la RTD1 del sello se cambia este módulo y se corrige la fecha y año de este sistema.
+
+Se solicita redespacho para realizar pruebas y luego normalizar la unidad.  
+
+    
+Recomendación para estos sistemas verificar el año de estos procesos cuando se realicen rondas de operación
+
+
+Realizado por Wtobonl 
+
+Terminada Cerrar
+
+

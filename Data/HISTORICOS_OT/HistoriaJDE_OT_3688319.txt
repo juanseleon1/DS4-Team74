@@ -1,0 +1,10 @@
+SOLICITADA POR: ALVEIRO FERNÁNDEZ Y ORLANDO CORREA
+FECHA: 15/02/2018
+
+EN EL PROCESO DE ARRANQUE DE LA UNIDAD 1, SE QUEDÓ EN EL PASO 12 "TENSIÓN >90 %", SE PROCEDIÓ A PASAR EL REGULADOR DE TENSIÓN A LOCAL Y SE LE DIERON PULSOS A SUBIR TENSIÓN, TERMINANDO ASÍ EL PROCESO DE SINCRONIZACIÓN.
+
+ESTO HA OCURRIDO EN VARIAS OCASIONES
+
+FECHA 15/03/18
+se realiza seguimiento a señal de indicación en secuencia de arranque de tensión> 90%, debido a que han reportado problemas ocasionalmente en dicha señal, se realiza inyección con el calibrador de procesos al acoplador IE2, verificando su correcto funcionamiento y se reaprietan cables y borneras correspondientes a dicha señal
+PROGRAMO: Luis Adrian Cardona

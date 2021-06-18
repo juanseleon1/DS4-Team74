@@ -1,0 +1,78 @@
+- Fecha : lunes octubre 03 de 2016
+
+- Programó : Mario G. B.
+
+- Realizó : Jeison Ortega - Duban Hincapié
+
+- Asociado a la OT : 3241821
+
+
+1. Mantenimiento controles : VENTILADOR 
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 19.0 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  469.3 v
+       ST =  470.8 v
+       RT =  471.12 v
+       Corriente de arranque:  
+Fase R = 120 a
+       Corriente de marcha:  
+Fase R = 3.6 a
+Fase S = 3.0 a  
+Fase T =  3.1 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+      Temperatura excesiva cojinetes: nó
+      Vibración anormal: nó
+      Ruido anormal: nó
+
+3. Calibración térmico control: 2.5 a    Calibración térmico potencia : 5 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 5606 H
+
+6. Observaciones: ninguna 
+
+
+
+1. Mantenimiento controles : COMPRESOR 
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 6.0 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  469.7 v
+       ST =  470.0 v
+       RT =  471.2 v
+       Corriente de arranque:  
+Fase R = 283.4 a
+       Corriente de marcha:  
+Fase R = 73.9  a
+Fase S = 71.6 a  
+Fase T =  68.8 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+      Temperatura excesiva cojinetes: nó
+      Vibración anormal: nó
+      Ruido anormal: nó
+
+3. Calibración térmico control: 2.5 a    Calibración térmico potencia : 42  a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 5606 H
+
+6. Observaciones: presión descarga 110 PSI ...presión de carga 86 PSI
+
+                                   Equipo utilizado para medir aislamiento Megguer MI 3121H con 500 vdc sin acometida
+
+                                   Equipo queda operando como principal y normal.

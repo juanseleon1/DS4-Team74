@@ -1,0 +1,3 @@
+VIERNES 17 DE JUNIO DE 2016
+Referente a la unidad # 1:
+Se presenta falla regulador # 1, se revisa y se encuentra que hay falla en la alimentación del regulador A1 en el control. La fuente -GA01P se falló y hay que cambiarla o repararla. 

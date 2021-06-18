@@ -1,0 +1,33 @@
+Programador: Camilo Montagut - 23/11/2016
+
+Referente al grupo de radiadores del generador unidad 2 Guadalupe IV, aprovechando que la central se encuentra parada se revisa el estado de los radiadores suministrando caudal de agua con la bomba # 2 de refrigeración. Se inspecciona cada uno de los radiadores al verificar presión y caudal sin encontrar fuga alguna, situación que nos lleva a concluir que el agua que se evidenció anteriormente corresponde a condensación del agua de refrigeración de la misma unidad.
+
+Queda pendiente verificar los caudales de agua en los radiadores en búsqueda de alguna situación como obstrucción o cierre parcial de las válvulas de entrada, cierre y flujometros
+
+Ejecuta: equipo operación GIV
+
+
+17/11/2016
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ.
+
+SE PLANEA EL TRABAJO PARA EJECUTAR POR OPORTUNIDAD Y DESMONTAR EL RADIADOR, IDENTIFICADO CON PROBLEMAS.
+
+
+SE DEBE MONITOREAR EL COMPORTAMIENTO DE TEMPERATURAS EN LA MÁQUINA, MIENTRAS SE REALIZA EL CORRECTIVO.
+
+
+PROGRAMADOR: CAMILO MONTAGUT.
+
+
+FECHA:17/11/2016
+
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCION: DENTRO DEL RECINTO DEL GENERADOR DE LA UNIDAD 2 SE ENCUENTRA UNA CANTIDAD DE AGUA ANORMAL PROVENIENTE  DEL SISTEMA DE REFRIGERACION, YA SEA POR CONDENSACIÓN O FUGA.
+
+SE ABRE EL INTERRUPTOR DE LA CALEFACCION COMO MEDIDA PREVENTIVA.
+
+FAVOR ATENDER ESTA SOLICITUD.
+
+

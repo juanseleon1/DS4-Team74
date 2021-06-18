@@ -1,0 +1,6 @@
+revisar comunicación entre IHM y PLC. 
+15/07/2017.
+Se revisa ihm encontrándose problemas en el cooler del procesador. Se realiza el cambio, normalizando la operación. 
+Nestor Fabián Ochoa
+
+

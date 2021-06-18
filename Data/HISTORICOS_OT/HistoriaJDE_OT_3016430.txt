@@ -1,0 +1,2 @@
+JUNIO11/2016.  --SERGIO OLIVARES D.
+El gato N°4 se encuentra pegado, y el sensor queda puenteado (bornes 78 - 79). Electricamente el control esta funcionando normalmente.

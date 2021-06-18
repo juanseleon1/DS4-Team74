@@ -1,0 +1,16 @@
+26/01/2016. CARLOS ENRIQUE MONCADA.
+
+SE REALIZA MANTENIMIENTO A LOS 7 FLOTADORES DEL POZO DE INFILTRACIONES. Se fija nuevamente el flotador K11
+ el cual se encontraba desubicado de su posición original (flotador 1). Los flotadores 4 y 5 se encuentran en mal estado por lo que se procede a puentearlos así:
+
+Flotador 3 con el 4: para que indique alarma en el nivel 4 en el monitor del sistema Scada.
+
+Flotador 5 con el 6: para que en el nivel 6 arranque la bomba VTA2.
+
+Se hacen las pruebas con el llenado del pozo y activando los dispositivos automaticamente. De igual forma se procede a vaciar el pozo y apagando las bombas automaticamente.
+
+Realizó Equipos mecanico y Electronico. 
+
+XI: VERIFICAR INTRUMENTACION
+
+Verificar funcionamiento de los flotadores de los niveles de agua del pozo de filtraciones, verificar tableros de control y PLC del CCM4. Realizar modificación de progrma en plc según criterio mecánicos para el arranque de las bombas vpi1-2, realizar backup

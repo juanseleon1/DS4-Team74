@@ -1,0 +1,36 @@
+2018-01-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3666110, PASO:1          
+Se realizó mantenimiento preventivo a la Unidad 4, revision y limpieza del recinto de anillos
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 27,3
+A.S. 2A: 31,4
+A.S. 3A: 28,5
+A.S. 4A: 28,4
+A.S. 5A: 25,9
+A.S. 6A: 25,7
+A.S. 7A: 24,2
+A.S. 8A: 25,4
+A.S. 1B: 28,9
+A.S. 2B: 28,3
+A.S. 3B: 33
+A.S. 4B: 30,5
+A.S. 5B: 24,2
+A.S. 6B: 303,6
+A.S. 7B: 23,3
+A.S. 8B: 30,6
+A.I. 1A: 23,2
+A.I. 2A: 31,6
+A.I. 3A: 23,2
+A.I. 4A: 24,7
+A.I. 5A: 22,6
+A.I. 6A: 31,4
+A.I. 7A: 23,5
+A.I. 8A: 30,2
+A.I. 1B: 23,2
+A.I. 2B: 29,5
+A.I. 3B: 26,5
+A.I. 4B: 25,2
+A.I. 5B: 28,7
+A.I. 6B: 23,6
+A.I. 7B: 24,7
+A.I. 8B: 28,2
+OBSERVACIONES: se realizo cambio de las escobillas 5a del anillo inferior y la escobilla 8a del anillo superior por encontrarse con desgaste anormal.

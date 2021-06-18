@@ -1,0 +1,21 @@
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+NOVIEMBRE 15 DE 2015
+
+SE INFORMA AL PROGRAMADOR PARA QUE CAMBIE EL MÓDULO PL 810 LINK1 DEL TABLERO G3U4TU1LD01 
+
+
+PROGRAMADOR: OSCAR ARANGO CASTAÑO
+
+
+SOLICITANTE: OPERACIÓN G3 TURNO 2 FECHA:15/11/2015
+
+MÓDULO PL 810 LINK1 DEL TABLERO G3U4TU1LD01 NO DA SALIDA, PERMANECE APAGADO POR LO QUE NO HAY MEDIDAS DE TEMPERATURAS DEL COJINETE DE TURBINA.
+
+15/NOVIEMBRE/2015
+Referente a unidad G34: 
+Se cambió el módulo PL 810, el cual concentra las señales de turbina y las envía al control de la unidad. Este módulo se encontró quemado, con el cambio quedan normalizadas las señales de turbina. 
+
+Atendida 
+Informan: Francisco González                   
+Programador: Oscar Arango

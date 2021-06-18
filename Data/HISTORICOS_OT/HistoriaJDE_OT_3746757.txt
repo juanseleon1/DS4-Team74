@@ -1,0 +1,23 @@
+fecha:10/10/2018 ot: 3746757 PROGRAMO R JMENEZ ,EJECUTO  ronal arango
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE refrigeracion de la unidad,  Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación.
+. 
+
+MOTOR  # 2
+VOLTAJEI. DE ARRANQUEI. DE TRABAJOAISLAMIENTO / TIERRA
+FASEVOLTIOSFASEAMPERIOSFASEAMPERIOSFASEGVDC
+R - S489R499R50.9R5.7502
+S - T485S469S50.0S6.0502
+T - R487T466T48.9T6.2502
+
+
+
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

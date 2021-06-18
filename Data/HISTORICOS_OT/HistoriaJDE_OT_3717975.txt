@@ -1,0 +1,10 @@
+
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717975.
+PLANEADOR LUIS FEDERICO ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación al cableado, se miden voltajes en las fuentes, todo se encuentra dentro de los parámetros normales y operativos.
+El instrumento (14MED01(F02) muestra médida de117.1/min en el instrumento y en la IHM se encuentra fallado. Queda pendiente por revisar por parte del instrumentista.
+
+Realizo: Julio Cesar Parra, Neiro Fabian Pérez.
+
+
+XL: LIMPIAR Y VERIFICAR CONTROL LUBRICA +TLCT, SISTEMA LUBRICACIÓN ACEITE COJINETE TURBINA DE LA UNIDAD 4 P3.

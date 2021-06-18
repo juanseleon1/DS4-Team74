@@ -1,0 +1,5 @@
+2018/08/27 RUBEN ARBOLEDA
+Se crea OT para realizar mantenimiento preventivo a la motobomba de respaldo de lubricación forzada Unidad 5
+
+2018-08-27 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3758801, PASO:1          
+Se realizó mantenimiento al motor de motobomba 2 lubri forzada u6gt    CORRIENTE: R:12,7, S:11,6, T:11,5, VOLTAJES RS:457, ST:455, TR:458,AISLAMIENTO DE MOTOR: 124,1 M, se realizó prueba del funcionamiento de las alarmas a los 10 y 30 segundos según procedimiento

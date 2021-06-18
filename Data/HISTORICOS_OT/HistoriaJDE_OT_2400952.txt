@@ -1,0 +1,5 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+NOTA:Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+
+NOTA: Se  cambiaron  las tarjetas drivers que comandan los actuadores  de los 4 inyectores, se realizaron pruebas de apertura al 25, 50,75 y 100 % y respondieron satisfactoriamente. 

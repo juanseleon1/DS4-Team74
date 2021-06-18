@@ -1,0 +1,12 @@
+
+
+
+BOTTOM BOX
+
+ACTIVIDAD:
+
+JUNIO 01/2019 OT: 3833031  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+Se verifica el buen estado de las conexiones de los diferentes elementos electrónicos y de potencia, se verifican los voltajes de potencia y control y se encuentran en los valores de trabajo. Se realiza limpieza de los tableros.
+
+Se revisa el circuito de los condensadores, fue necesario cambiar 6 fusibles, cambiar una bobina de descarga, se revisaron los condensadores y están buenos lo que si se encontró las conexiones muy flojas en los contactores.

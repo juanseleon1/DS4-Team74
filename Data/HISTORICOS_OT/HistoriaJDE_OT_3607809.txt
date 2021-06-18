@@ -1,0 +1,25 @@
+MP ANUAL, EQUIPOS:
+2321 COJINETE TURBINA U1 G3
+2322 COJINETE TURBINA U2 G3
+2323 COJINETE TURBINA U3 G3
+2324 COJINETE TURBINA U4 G3
+2325 COJINETE TURBINA U5 G3
+2326 COJINETE TURBINA U6 G6
+2315 COJINETE INFERIOR U1 G3
+2316 COJINETE INFERIOR U2 G3
+2317 COJINETE INFERIOR U3 G3
+2318 COJINETE INFERIOR U4 G3
+2319 COJINETE INFERIOR U5 G3
+2320 COJINETE INFERIOR U6 G6
+2309 COJINETE SUPERIOR U1 G3
+2310 COJINETE SUPERIOR U2 G3
+2311 COJINETE SUPERIOR U3 G3
+2312 COJINETE SUPERIOR U4 G3
+2313 COJINETE SUPERIOR U5 G3
+2314 COJINETE SUPERIOR U6 G6
+
+Programador: Camilo Montagut - 2017/10/11
+
+Se realiza sopleteado de la tubería de refrigeración del cojinete verificando que la salida de agua esté limpia. Se realiza limpieza de todo el recinto del cojinete inferior donde se encuentra gran acumulación de aceite debido a la condensación del mismo en la operación normal de la turbina. Finalmente se reponen 4 litros de aceite hidráulico llevándolo a nivel patrón
+
+Ejecuta: equipo mantenieminto mecánico UOG

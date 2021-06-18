@@ -1,0 +1,8 @@
+FECHA: FEBRERO 10 DE 2015
+
+DESCRIPCION DEL EVENTO
+El dia martes 10 de febrero a las 17:50:42, sale la unidad 3 por paro rapido. Con la unidad sincornizada als 17:47 sale alarma "Alta tem metal 2", 17:50:27 sale alarma "Muy alta temp metal 2" finalmente a las 17:50:42 sale paro rapido 86R desde el TRV. A las 18:08 se aranca de nuevo y sinconriza a las 18:16, alrededor de las 18:18 sale alarma "32R potencia inversa". Vuelve a salir la alarma "alta temp metal 1 y metal 2" a las 18:30, 19:01, 19:08. A las 19:09:12 vuelve a dar paro rapido 86R desde TRV.
+
+ATENCION Y MTTO CORRECTIVO
+Se encontro la bieleta del alabe 5 por fuera de su sitio ya que se salio el pasador en el cual se sujeta la bieleta del anillo del distribuidor; Se procede a montar nuevamente el pasador en su alojamiento y se le aplica retenedor cilindrico fuerza alta, y se se monta nuevamente la bieleta en su sitio.  Se gira la unidad hasta operacion turbina y se verifica el comportamiento de las temperaturas de los segmentos, los cuales subieron hasta temperaturas normales de funcionamineto. 
+Realizo: Equipo mmtto Mecanico - Equipo mmtto Electronico.   Informo: Renato Montoya y Waltyer tobon

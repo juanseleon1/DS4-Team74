@@ -1,0 +1,14 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+28/OCTUBRE/2015
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL ELECTRONICO
+Se realiza mantenimiento de cada una de las RTD asociadas a cojinete y se realiza la limpieza externa a los transmisores de temperatura, presión y flujométros ubicados en el cojinete.
+
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL 9.10 VDC  y el CIPR 8.85 VDC. 
+
+Nivel de aceite se encontró en 280.4mm, referenciado con el visor análogo: el nivel patrón es 290.0mm. 
+Se inyecto señal con el calibrador de procesos para comprobar  alarma y disparo de las RTD según formato de instrumentación, que se encuentra en la siguiente ruta
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\CUATRIMESTRALES G3              
+
+Ejectuto: Francisco Gonzalez
+Programador: Oscar Arango

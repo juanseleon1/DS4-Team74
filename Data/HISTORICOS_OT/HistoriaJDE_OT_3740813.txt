@@ -1,0 +1,11 @@
+MP ANUAL:
+2264 NEUTRO TIERRA U12265 NEUTRO TIERRA U22266 NEUTRO TIERRA U32267 NEUTRO TIERRA U42268 NEUTRO TIERRA U52269 NEUTRO TIERRA U6
+
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+
+JULIO 17 DE 2018.
+Se realizo mantenimiento electrico anual según instructivo GCG3E0005, se realizó limpieza a los CT's pasa muros, verificación de la resistecias, limpieza general a las barras, sin ninguna novedad.

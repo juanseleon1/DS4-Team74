@@ -1,0 +1,9 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2017-05-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476788, PASO:1          
+Se realizó mantenimiento al motor de motobomba cw10 refrig reserv gt    CORRIENTE: R:62,1, S:61,2, T:63,4, VOLTAJES RS:443,6, ST:447,1, TR:441,8,TEMPERATURA MAXIMA DE MOTOR 84,1°C Se hacer OT correctiva #: 3531677, para corregir punto caliente en la peineta de Salida
+
+2017-06-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476788, PASO:2          
+Se realizó informe termográfico a la MOTOBOMBA CW10 REFRIG RESER GT, se evidenció punto caliente en la peineta de Salida se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas
+eléctricas según LOS CRITERIOS NETA, donde Delta T° = 20°C, lo cual indica que presenta una deficiencia mayor en su funcionamiento, se debe realizar el correctivo, ademas revizar las conexiones y mejorar el contacto. Las corrientes
+y voltajes medidos están dentro de los parámetros normales de operación

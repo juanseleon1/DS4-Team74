@@ -1,0 +1,10 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2016/05/20 ANGEL ADONIS CADAVID OCHOA
+OT PASA A PROGRAMACION
+
+2016/07/11 RUBEN ARBOLEDA - CESAR HOYOS
+Debido a una indisponibilidad a causa de altas vibraciones la motobomba tiene una tarjeta de seguridad, esta OT se pasa a estado 35 en espera de disponibilidad del equipo para realizar el mantenimiento
+
+2017/01/12 RUBEN ARBOLEDA
+Se cierra sin costos esta OT ya que se ejecutó en la OT: 3313482

@@ -1,0 +1,23 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+OVERHAUL COJINETE SUPERIOR
+
+11/ABRIL/2014
+Se identifican, marcan y retiran de la cuba del cojinete superior las RTD´s de Empuje y se llevan al laboratorio para su limpieza y curva de verificacion.
+Se realiza la limpieza y mantenimiento preventivo en el laboratorio de las RTD´s Guia, Empuje y Aceite del Cojinete Superior 
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+12/ABRIL/2014
+Se realizo limpieza de toda la instrumentacion desmontada, RTD´s cojinete superior, con el fin de dejarlas sin aceite para comenzar con las actividades de metrologia de dichas RTD´s.
+Ejecuto: Fredy Duarte
+
+13/ABRIL/2014
+Verificacion y curva metrologica en el laboratorio de las RTD´s de Temperatura de Aceite y Temperatura segmentos guia/Metal y segmentos de Empuje del cojinete Superior.
+
+Como resultado se obtienen los siguientes datos:
+
+ÁREA GUADALUPEMANTENIMIENTO ESPECIAL G36 2014VERIFICACIÓN INSTRUMENTACIÓN TEMPERATURA COJINETESEQUIPOS UTILIZADOS: BAÑO TÉRMICO TECHNECOJINETE SUPERIORPATRÓN °C ACEITE 1 ACEITE 2 METAL 1 METAL 6 METAL 10 METAL 1540 40,0 40,0 40,0 40,0 40,0 40,050 50,0 50,0 50,0 50,0 50,0 50,060 60,0 60,0 61,0 61,0 61,0 61,070 70,0 70,0 71,0 71,0 71,6 71,080 80,0 80,0 81,0 81,0 81,0 81,0ALARMADISPAROOBSERVACIONES: COJINETE DE EMPUJEPATRÓN °C METAL 1 METAL 3 METAL 5 METAL 7 METAL 9 METAL 1140 40,0 40,0 40,0 40,0 40,0 40,050 50,9 51,0 51,3 51,3 51,3 51,060 61,1 61,3 60,8 61,3 60,9 60,870 70,8 70,0 70,9 71,0 71,3 70,980 80,1 81,0 81,0 81,2 81,4 81,0ALARMADISPARO
+Ejecuto: Fredy Duarte
+
+25/ABRIL/2014
+Se realiza verificacion con el peso muerto a los sensores de nivel de aceite (presion diferencial) del cojinete superior.
+Ejecuto: Francisco Gonzalez

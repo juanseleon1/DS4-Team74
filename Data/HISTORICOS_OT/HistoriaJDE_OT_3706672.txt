@@ -1,0 +1,17 @@
+2018/04/03 _ CARLOS ENRIQUE MONCADA. OT N° 3706672.
+Referente a la PTAP: Se realiza revisión del sistema encontrando secuencia de arranque en automático con problemas. Se normaliza flujo metro y queda pendiente revisión y reparación a la válvula motorizada en la parte mecánica.                                        
+
+Realizo: grupo electrónico OT: 3706672.
+
+Informo: Carlos Moncada 
+
+
+2018/04/03 _ CARLOS ENRIQUE MONCADA. OT N° 3706672.
+Se hace verificación de funcionamiento eléctrico de la Bomba 6001A, para lo cual se coloca el sistema en manual y se da arranque a la Bomba evidenciando su funcionamiento. 
+
+Se revisa el flujo metro de la tubería de descarga de la bomba encontrando una gran cantidad de agua proveniente de la parte interna de la tubería atravesando por el sistema interno del flujo metro.     
+
+Realizo: Jesús Eladio Piedrahita, Julio Cesar Parra.
+
+2018/04/03 _ CARLOS ENRIQUE MONCADA. OT N° 3706672.
+Se crea OT para la revisión de Bombas de las plantas de tratamiento de agua potable.

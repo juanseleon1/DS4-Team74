@@ -1,0 +1,11 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+24/JULIO/2014 MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+
+Se realizó inspección visual, limpieza y verificación a los  sensores de temperatura Qualitrol Fase R-S-T y las caratulas de los termómetros.
+Se realizó limpieza a las RIO asociadas a los trafos.
+Se reviso manualmente, forzando el indicador de cada termómetro, la señal de alarma y disparo hacia el control.
+Se apoya al personal de Metrología en la comprobación de sensores de temperatura, con el baño térmico.
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte - Ana Palacios

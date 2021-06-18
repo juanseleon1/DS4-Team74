@@ -1,0 +1,8 @@
+
+2018/07/04 OT3741608 Luis Eduardo Arcila
+Se revisa el regulador de velocidad por presentar una velocidad del 105 % impidiendo que se sincronice la unidad.
+ Se realiza limpieza a los sensores de velocidad, a la rueda dentada y se aprietan las borneras.
+Se lleva la unidad a modo energizada para ver el comportamiento de la velocidad.
+Se observa el deflector con mucha oscilación, se calibra el Offset a 2 mejorando la oscilación y se deja la unidad en observación. 
+IW0= 99.92 comportamiento normal
+Se sincroniza la unidad entrando al sistema en condiciones normales.

@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DARIO PUERTA.
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de carbón de las escobillas, se toma medida de aislamiento del motor del equipo y se llena planilla con estos datos.
+Trabajo realizado por: Dario Puerta, Jhonatan Arango, Maicol Gonzalez.
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

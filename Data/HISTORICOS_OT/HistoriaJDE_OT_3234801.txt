@@ -1,0 +1,48 @@
+2017/11/26 LESLIE MARULANDA
+EL PROVEEDOR INFORMA QUE EL TRAMITE DE NACIONALIZACION DEL EQUIPO POR PARTE DE LA DIAN HA TENIDO INCOVENIENTES FUERA DE LO NORMAL, POR ESTO ENVIA UNA SOLICITUD DE PRORROGA A COMPRADORA MONICA HAICHEL ALVAREZ PARA LA ENTREGA OPERATIVA DEL EQUIPO, SE CONTINUARA EL SEGUIMIENTO DEL PROCESO.
+2017/10/31 LESLIE MARULANDA
+EL CONTROLADOR PARA LA CALDERA FUE ADJUDICADO A LA EMPRESA IT AUTOMATIZACION, ESTE PROVEEDOR YA TIENE EN PROCESO DE IMPORTACION EL EQUIPO, SE ESTIMA INSTALARLO Y COLOCARLO EN PUESTA MARCHA LA 2DA SEMANA DE NOVIEMBRE.
+
+2016/11/16  LESLIE MARULANDA
+EL INGENIERO ACOSTA REALIZO LA CONSULTA A FABRICA DE ACUERDO A LOS DATOS DE VOLTAJE TOMADOS EN EL EQUIPO, A LO QUE RESPONDIERON QUE EL EQUIPO EFECTIVAMENTE DEBE SER REEMPLAZADO, CON EL INGENIERO SE PROGRAMARA UNA VISITA TECNICA POSIBLEMENTE EL MIERCOLES 23/11/2016, CON EL OBJETIVO DE DIMENSIONAR EL ALCANCE DEL SERVICIO Y PUESTA EN MARCHA DE ESTE EN LA CALDERA. 
+
+2016/10/31 LESLIE MARULANDA
+SE REALIZAN PRUEBAS Y SE ENVIA MAIL A ING. ACOSTA DE ECOTERRAE ADJUNTO MAIL
+"Buenas tardes Ing. Acosta
+Luego de la conversación que tuvimos realice las pruebas según el plano enviado por usted, los datos de respuesta se los envío abajo entre líneas.
+Quedo atento a sus comentarios.
+
+Por su colaboración.
+
+Muchas gracias.
+
+Atte: Leslie Marulanda.
+
+
+De: Y.Antonio Acosta | IT Automatizacion [<mailto:y.acosta@itautomatizacion.com>] Enviado el: martes, 11 de octubre de 2016 11:39 a. m.Para: LESLIE WANDER MARULANDA RIVERA <LESLIE.MARULANDA@epm.com.co <mailto:LESLIE.MARULANDA@epm.com.co>>Asunto: Re: Contacto Autoflame
+
+Leslie buenos días,
+Tenemos las siguientes inquietudes:
+1. Indícanos por favor el número de serie del equipo.
+Autoflame Part No MM60001/E
+Serie: 007055.
+
+2.¿El equipo tiene tarjeta de control de nivel?
+Una tarjeta ligada al programador como tal no, pero tiene un controlador de nivel del domo de la caldera que su señales van para el sistema de control DCS.
+3. Adjunto envío una imagen, ¿pueden indicarnos qué voltaje entregan los puntos resaltados en azul?
+Puntos 37,38: 0.95 Vdc, sensor de presión de vapor caldera.
+Puntos 37,39: 11.6 Vdc, sensor de presión de vapor caldera.
+Puntos 38,39: 10.5 Vdc, sensor de presión de vapor caldera.
+Puntos 40,41: 11.7 Vdc, canal 1 y canal 2, actuadores de combustible y aire.
+Puntos 46,47: no tenemos conexiones.
+
+4. Es posible que nos puedan enviar un videoclip de lo que ocurre para revisar en detalle el problema?
+Adjunto fotos, pero no es muy visible debido a los problemas con el display.
+
+
+2016/09/08 LESLIE MARULANDA
+SE REVISA EL PROGRAMADOR ESTE NO RESPONDE EL DISPLAY TIENE DIFICULTADES, EN OCASIONES INDICA ERROR 47 CONVERITDOR ANALOGO DIGITAL, SE CONSULTA REPRESENTANTE PARA COLOMBIA DE AUTOFLAME, SE ENCUENTRA EN INTERNET LA FIRMA ECOTERRAE EN BOGOTA, SE CONTACTARA ESTE PROVEEDOR PARA CONTINUAR ESTA REVISION.
+
+
+2016/04/02 ANTONIO ARCILA
+REVISAR EL CONTROL DE LA CALDERA AUXILIAR QUE HA TENIDO PROBLEMAS DE ARRANQUE. 

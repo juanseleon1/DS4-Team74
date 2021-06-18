@@ -1,0 +1,17 @@
+17/10/2018 OT:3775451 REALIZO: CESAR T. JIMENEZ
+SE REALIZA CONEXION REMOTA VIA SKIPE, CON DANIEL VARGAS, INGENIERO DE MANTENIMIENTO DE ABB, SE REALIZAN LAS SIGUIENTES ACTIVIDADES:
+- Full Backup: Se realiza Full Backup del Sistema 800xA.
+-- Realización de Import/Export de las principales estructuras del Sistema 800xA.C Control / Functional / Object Type / Workplace Structure.
+-- Se realizaron imágenes tipo Acronis y se guardaron en el drive E:\Image en lo servidores y en las estaciones de operación e ingeniería en el K:\Data\Image.
+-- Se verifica la carga de la RTA Board de los Connectivity Servers.
+-- Se realiza backup de la configuración de las tarjetas RTA.
+-- Se verifican los nodos presentes en el RNRP. No hay errores.
+-- Para la red MB300 se verifica que no haya errores.
+-- Sobre los nodos de tipo Domain Controller, se ejecuta el comando dcdiag, Se encuentran errores, que deben ser corregidos en sitio.
+-- Se realiza Replicación DNS.
+-- Se ejecuta el comando “ afwsysinfo” , el porcentaje de la base de datos se encuentra en condiciones normales, 5%. Se mantiene, esta OK.
+-- Se verifican los servicios del Sistema 800xA.
+-- Verificación PAS (Process Administration Services), Se verifican que todos los servicios estan en “ Started” .
+-- Existen dos logs inactivos, Se procede a activarlos de nuevo. Se encuentran todos los History Logs, OK.
+-- Se verifica la sincronización de los History Logs. Existen 4 History Logs que no están sicronizados, se procede a sincronizarlos…
+-- Verificación base de datos históricos… Ok.

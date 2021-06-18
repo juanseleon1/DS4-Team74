@@ -1,0 +1,14 @@
+LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO UNIDAD 1GUADALUPE4
+
+
+FECHA: 07/11/2018
+
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al sensor de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores de posición del distribuidor.
+Se realiza ajuste del sensor inductivo montado para vigilar la posición de la válvula distribuidora como se describe en la siguiente tabla:
+
+Voltaje en B68 (+) y B67) voltaje borne B142  Posición de la válvula 2.0 VDC -8.0VDC -100%4.3VDC 0.0VDC 0%6.6VDC 7.71VDC 97%
+Se realiza verificación de la posición de apertura del distribuidor a través de mandos directos:
+Medidas de corriente y desplazamiento según porcentaje de apertura del distribuidor% mando 0 25 50 75 100Medida en % mA % mA % mA % mA % mADistribuidor 0 4.06 25 8.09 50 12.03 75 16.0 100 19.95Voltaje DC -8.03 -4.27 -0.28 3.71 7.7
+
+PROGRAMO: LUIS ADRIAN CARDONA

@@ -1,0 +1,35 @@
+2018-05-29 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3717570, PASO:1          
+Se realizó mantenimiento preventivo a la Unidad 4 se realizó limpieza general del recinto de anillos, se realizó la medida de escobillas con los siguientes resultados.
+A.S. 1A: 25,2
+A.S. 2A: 28,2
+A.S. 3A: 26,8
+A.S. 4A: 26,5
+A.S. 5A: 23,5
+A.S. 6A: 24
+A.S. 7A: 21,8
+A.S. 8A: 32
+A.S. 1B: 26
+A.S. 2B: 21,5
+A.S. 3B: 30,2
+A.S. 4B: 30
+A.S. 5B: 21
+A.S. 6B: 22,8
+A.S. 7B: 21,3
+A.S. 8B: 28
+A.I. 1A: 20,5
+A.I. 2A: 29
+A.I. 3A: 21
+A.I. 4A: 22
+A.I. 5A: 31
+A.I. 6A: 28
+A.I. 7A: 20,3
+A.I. 8A: 26,3
+A.I. 1B: 21
+A.I. 2B: 28
+A.I. 3B: 22,2
+A.I. 4B: 22,3
+A.I. 5B: 28,3
+A.I. 6B: 21
+A.I. 7B: 22,5
+A.I. 8B: 28,2
+OBSERVACIONES: De un total de 14 escobillas que se debían cambiar no se cambiaron las escobillas 3B Inferior, 4B Inferior y la 7B Inferior porque solo habían 11 disponibles en el almacén

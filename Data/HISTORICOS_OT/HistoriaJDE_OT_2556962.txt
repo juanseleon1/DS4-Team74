@@ -1,0 +1,3 @@
+2014/07/01 JUAN DAVID GARCÍA - JHONATAN USME
+Los gatos del sistema de frenado se quedan pegados mecánicamente, se realizó prueba de funcionamiento y electricamente operan bien, pero se quedan pegados en posición alta, los sensores y relés se encuentran en buenas condiciones de funcionamiento. 
+

@@ -1,0 +1,5 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 26-06-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento:Análisis de datos de estado del datalogger y transmisor, Actualización de programa de la estación, Se realiza Prueba de factores de conversion Percentil 25%.

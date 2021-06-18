@@ -1,0 +1,12 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2013-12-03
+REALIZAR LAS SIGUIENTES TAREAS DE MANTENIMIENTO POR CUMPLIMIENTO DE 2000 HRS DE FUNCIONAMIENTO
+
+ACTIVIDADES 20001. Limpiar la carcasa del filtro de aire X2. Limpiar el compresor X3. Limpiar Aftercooller y Oilcooler X4. Limpiar trampa de condensados X5. Verificar nivel de aceite X6. Verificar conexiones eléctricas (torquear) X7. Verificar las funciones del Electronikon X8. Verificar recubrimientos térmicos y espumas X9. Verificar si se accionan las protecciones eléctricas X10. Verificar visualmente acople, correas X11. Verificar que no existan fugas de aire, agua y aceite X12. Verificar y revisar el sistema de regulación X13. Verificar el estado del ventilador principal X14. Verificar arnés y sensores de protección X15. Cambiar kit de filtros X23. Cambiar las mangueras que se encuentran deterioradas X31. Cambiar filtro variador X
+SE CAMBIA FILTRO DE AIRE REF: 1613740800
+SE CAMBIA FILTRO DE ACEITE REF: P 1625752500
+
+HORÓMETROS
+HORAS DE FUNCIONAMIENTO:  2168 HRS.
+HORAS CON CARGA:   2162  HRS.
+
+TRABAJO REALIZADO POR: ALEX CALLE, CARLOS GUINGUER.

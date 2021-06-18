@@ -1,0 +1,5 @@
+FECHA: Nov. 18/2013PROGRAMO: Daniel Palacios O.EJECUTO: Luis Fabian Giraldo.
+Se realizo mantenimiento segun instructivo, se realizo limpieza de tableros y revisión de conexiones.
+
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

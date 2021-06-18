@@ -1,0 +1,9 @@
+FECHA 16/08/2016 OT # 3201201, PROGRAMO R JIMENEZ, EJECUTO J ORREGO
+
+SE REALIZA CAMBIO DEL INTERRUPTOR PRINCIPAL DEL GENERADOR EN EL TABLERO DE SERVICIOS AUXILIARES DE LA UNIDAD, SE RALIZA PRUEBAS DE TRANFERENCIAS Y FUNCIONA NORMAL, SE HACE ENTREGA DE LA UNIDAD AL EQUIPO DE OPREACION
+
+
+05 de agosto de 2016
+
+Referente a la unidad # 3:
+Se genera paro rápido por problemas en el interruptor principal servicios auxiliares de la unidad, se revisa y se encuentra que el interruptor se abre sin causa alguna y no entra el interruptor de emergencia, lo cual genera el paro rápido en la unidad. Se procede a entrar la unidad en dos ocasiones y se presenta el mismo problema. Para sincronizar la unidad es necesario deshabilitar interruptor principal y sincronizar la unidad por el interruptor de emergencia. 

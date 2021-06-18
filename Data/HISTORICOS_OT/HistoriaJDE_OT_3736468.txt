@@ -1,0 +1,17 @@
+REALIZAR MANTENIMIENTO PREVENTIVO ELECTRICO Y ELECTRONICO AL TELEFERICO - JUNIO 18 DE 2018.  WILLIAM LOPERA.
+
+JUNIO 28 DE 2018.
+Se realizó mantenimiento semestral al control y potencia del teleferico, las cuales se hicieron las siguientes actividades:
+ Mantenimiento a finales de carrera de las cabinas.
+ verificación y limpieza de los sensores de posición cable portante en la torre, anemometro y cableado.
+ Mantenimiento y pruebas de resistencia de aislamiento a motor principal y los dos motores de a estación hidraulica. 
+Motor principal
+AISLAMIENTO / TIERRAFASE VOLTAJE GR 500 13,7S 500 15T 500 15,9
+ Mantenimiento a convertidores de frecuencia, ventiladores y ajuste de tornillería.
+ Mantenimiento electrico a la planta de emergencia, y tablero de control.
+ Limpieza general de los tableros de control, tarjetas electronicas y componentes eléctricos.
+ Mantenimiento a tablero de control, cableado y conectores de las cabinas del teleférico.
+ Mantenimiento al tablero de control de la contra estación, perillas de bloqueos eléctricos y tarjetas electrónicas.
+ Limpieza y verificación de correcto funcionamiento cargadores y baterías.
+El mantenimiento fue relizado por el grupo eléctrico y electrónico.
+Informó: William Lopera.

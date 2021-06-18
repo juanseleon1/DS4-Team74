@@ -1,0 +1,29 @@
+FECHA: MARTES 17/04/2018
+PROGRAMO: YOVANNY RIVERA.
+EJECUTO: DARIO ATEHORTUA
+ASOCIADO A LA OT: 3705349
+ASUNTO: EJECUTAR EL MP TRIMESTRAL A  MOTOBOMBA N° 2 DE AGUA HELADA; SE REGISTRAN LOS SIGUIENTES          DATOS:
+
+                        * PARAMETROS DE OPERACION:
+          TEMPERATURA:  58°C
+           VIBRACIONES E (mm/seg):
+                     -  VERTICAL motor lado libre:              1.9
+          -  HORIZONTAL motor lado libre          1.5
+          -  VERTICAL motor lado acople           2.5
+          -   HORIZONTAL motor lado acople     2.5
+          -  VERTICAL bomba lado acople         1.5
+                     -  HORIZONTAL bomba lado acople    1.5
+           -  VERTICAL bomba lado motor           1.1
+          -  HORIZONTAL bomba lado motor      1.2
+       *    PRESIO DE SALIDA: 60PSI
+       *     RPM: 1760
+
+ OBSERVACIONES:  EL EQUIPO QUEDA EN CONDICIONES OPERATIVAS.
+    - SE RECOMIENDA CAMBIO DE RODAMIENTOS AL MOTOR Y A LA BOMBA.
+                            -  REALINEAMIENTO DEL MOTOR.
+
+
+
+ .
+
+

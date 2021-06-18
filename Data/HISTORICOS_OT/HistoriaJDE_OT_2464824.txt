@@ -1,0 +1,8 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION Y APRIETE DE BORNERAS
+
+Procedimiento aplicable a todas las borneras del tablero de control turbina en las tres unidades de la central Porce.  Consiste en revisar, reapretar y/o cambiar borneras defectuosas, en caso de ser necesario;  con el proposito de disminuir eventos indeseados por causa de cables flojos en las unidades de generacion.  
+
+FECHA : 28\ 2\ 2014 OT # 2464824,PROGRANMADOR : R JIMENEZ, EJECUTO : DAVISON PEREZ.
+SE REALIZA MANTENIMIENTO PREVENTIVO SEGUN EL INSTRUCTIVO A TABLERO  DEL CONTRO DE UNIDAD.

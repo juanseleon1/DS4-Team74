@@ -1,0 +1,76 @@
+FECHA: 15 de marzo de 2017
+
+pendientes: hasta la fecha queda pendiente intrucciones por parte del ingeniero encargado del proyecto, hector mario gómez, para retiro de cables, cilindros, tuberia y demás elementos del antiguo sistema contra incendios.
+muchas de las antiguas señales del panel minimax no fueron contempladas en el nuevos sistema contraincendios, se espera deción por parte del grupo de ingeniería. por el momento, por orden de los ing hector gómez y jorge rodriguez se “ puentean señales”  para evitar las alarmas en el sistema scada.
+INFORMA: CRISTIAN GÓMEZ
+
+:::::::::::::::::::::::::::::::::::::
+FECHA: 10 de marzo de 2017
+el ingeniero de civalco andrés galvis de la empresa contratista civalco ltda, realizó la entrega oficial a epm del sistema de protección contraincendios del generador p23 de la central porce 2, el sistema fue revisado en su integridad estructural y correcto funcionamiento por el personal de operadores y de mantenimiento de la u.o.p
+Informó: hector Gómez - Civalco Ltda
+
+NOTA: CON LAS PRUEBAS FUNCIONALES (COMISIONAMIENTO) SE VERIFICÓ EL CORRECTO FUNCIONAMIENTO DEL SISTEMA DE PROTECCIÓN CONTRAINCENDIOS DE LAS 3 UNIDADES DE GENERACIÓN, ESTAS PRUEBAS SE VERIFICAN CONTRASTANDO LA PROGRAMACIÓN DEL PANEL DE CONTROL (KIDDE - ARIES) DE ACUERDO A LA MATRIZ FUNCIONAL (CAUSA - EFECTO) EN LA CUAL SE INDICA AL ACTIVAR CADA EQUIPO CUALES ALARMAS Y OPERACIONES SE DEBEN REALIZAR CORRECTAMENTE.
+
+::::::::::::::::::::::::::::::::::::::::::::::
+FECHA:  domingo, 05 de marzo de 2017
+
+Referente al Sistema Contra Incendios P2.
+Se realiza prueba hidrostática (Hermeticidad) de la línea de descarga inicial de CO2, correspondiente al sistema contra incendios unidad 3. 
+Se presuriza la línea con aire hasta alcanzar 120 psi. Después de 20min,  se verifica la tubería y se observa que la medida no presenta ninguna variación. Se procede a despresurizar la línea.
+A continuación, se vuelve a presurizar la línea, esta vez con Hidrogeno, hasta alcanzar 100 psi. Después de 15min se revisa toda la tubería, no se observan fugas; la medida no presenta variación. Se procede a aumentar la presión en intervalos de 50 psi cada 15 minutos. En el rango de 250 - 300 psi se encuentra una pequeña fuga en una unión universal. Se corrige la fuga y se continua con la prueba hasta alcanzar los 600 psi. Una vez alcanzado este valor de presión, se deja el sistema en observación durante 30min. No se presentan fugas adicionales. Se procede a despresurizar la línea y reestablecer el sistema.   
+
+Ejecutó: Civalco Ltda - Andrés Galvis - Cristian A Gómez  
+Informó: Cristian Gómez
+
+:::::::::::::::::::::::::::::::::::::::::::
+FECHA: 25 de febrero de 2017
+
+SE termina de revisar pruebas de disparo de unidad co2 para verificar la concentración de dicho gas al interior del recinto de la unidad p21, la pruebas fue satisfactoría se tomas mediciones, se garantizaron las condiciones seguras de todo el personal de casa de máquinas.
+
+Ejecutó: Civalco Ltda - Andrés Galvis - richard jimenez - OPERACión turno 3
+Informó: hector Gómez - jorge rodriguez
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+FECHA: 23 de febrero de 2017
+
+Se terminan los trabajos de montaje de equipos y la realización de pruebas funcionales del sistema contraincendios en la unidad p23. se llama al centro de control y se cierra la consignación.
+se entrega la unidad para servicio comercial
+
+Ejecutó: Civalco Ltda - Andrés Galvis - Cristian A Gómez - electricistas y electronicos u.o.p.
+informó: hector m gómez - jorge a rodriguez
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+FECHA: 22 de febrero de 2017  OT: 3403236
+se raliza revisión y verificación de señales correspondientes a:
+
+- Estación manual de descarga
+- estación manual de alarma
+- señales de supervisión de la línea de presión de descarga (rápida y lenta)
+- descarga por acción de la protección diferencial
+- cierre y bloque de válvulas “ lock out”  en las líneas de descarga (rápida y lenta)
+- señales de supervición “ alimentación ac”  y “ alimentación baterías”
+
+todas las pruebas fueron exitosas. no se encontraron anomalias. funcionamiento del sistema de alarma, visualización y descarga según lo esperado.
+
+
+Ejecutó: Civalco Ltda - Andrés Galvis - Cristian A Gómez - OPERACión turno 3
+Informó: Cristian Gómez
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+FECHA: 22 DE FEBRERO DE 2017
+TRABAJO: PRUEMAS DE FUNCIONAMIENTO (COMISIONAMIENTO) DEL NUEVO SISTEMA DE PROTECCIÓN CONTRAINCENDIOS DE GENERADORES
+CONSIGNACIÓN: 140953
+JEFE DE TRABAJO: INGENIERO HÉCTOR MARIO GÓMEZ CALLE
+PERSONAL CONTRATISTA - CIVALCO LTDA: INGENIERO ANDRES GÁLVIS, TÉCNICO WILLIAM GÓMEZ
+
+
+------------------------------------
+
+
+
+
+
+
+
+
+
+

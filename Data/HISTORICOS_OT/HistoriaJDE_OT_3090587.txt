@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo a realizar en los motorreductores, poleas y cables de la bocatoma de la central de Guadalupe III
+
+Ot: 3090587 - Preventivo ajuste y lubricación de equipos - Programador: Camilo Montagut - 03/05/2016
+
+Finaliza el mantenimiento preventivo y a continaución se describen las actividades ejecutadas:
+
+- Lubricación de las chumaceras de las poleas utilizadas en la apertura de las compuertas de la bocatoma (desmonte, limpieza y lubricación de las mismas)
+- Lubricación de las chumaceras de los moto reductores (desmonte, limpieza y lubricación de las mismas)
+- Se drena el aceite de los moto reductores de las compuertas ya que se encontró gran cantidad de agua. Se recupera el nivel de los mismos con aceite shell Omala 220
+
+Ejecuta: equipo mantenimiento mecánico GIII
+

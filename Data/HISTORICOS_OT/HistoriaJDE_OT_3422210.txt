@@ -1,0 +1,7 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+
+23-03-2017
+PROGRAMO JOSE MONTOYA
+Se realizó limpieza, inspección visual y se revisaron las borneras de control de los diferentes tableros del regulador de tensión. Se realizó mantenimiento a los filtros de aire de cada tablero.
+Se revisó el estado de los sensores de vibración.
+Se realizó mantenimiento a los tableros del vibrosistem y los transformadores

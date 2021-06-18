@@ -1,0 +1,5 @@
+07/04/16 VICTOR ZULETA-CESAR HOYOS
+Se encuentra problema en plc horner de la unidad 5 del sistema de refrigeración de cojinetes combinados, ya que la parte del touch screen del equipo (PLC) presentaba falla en el táctil.
+Se procede a hacer verificaciones del plc y se encuentra problemas en la correa plástica del touch screen por contactos gastados, se rectifican con lápiz corrector de pistas eléctricas de acetato y se procede a armar el equipo.
+Se monta en la unidad correspondiente y se carga el programa del sistema de refrigeración de dicha unidad.
+Queda en forma operativa.

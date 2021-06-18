@@ -1,0 +1,9 @@
+REPARA EL CONTROL ELECTRÒNICO DEL SISTEMA DE LLENADO DE TANQUES DE AGUA DEL SISTEMA CONTRAINCENDIOS
+
+09/02/2017
+
+Se realiza inpeccion del sistema, se encuentra todo el sistema con modificaciones y problemas de cableado con falla de alimenaciones, se informa al ingeniero interventor hector gomez y el personal de civalco. se realiza normalizacion del cableado y verificacion de alimentaciones, se normaliza el progama y la IHM. se modifican las señales de entrada por corriente entradas de presion bomba 1 y presioin de tanque. mientras se realiza la compra de estos instrumentos que se encuentran malos. el sistema queda operativo en manual y automatico.
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRRAR

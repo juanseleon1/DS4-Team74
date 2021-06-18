@@ -1,0 +1,6 @@
+revisar instrumentaciíon en el tlct U4, ya que esta perdiendo la comunicación.
+15/07/2017
+Se revisa red profibus, encontrándose falla en transductor de temperatura CT022.
+Se realiza cambio, normalizando el sistema. 
+
+Néstor Fabián Ochoa.

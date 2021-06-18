@@ -1,0 +1,6 @@
+
+OCTUBRE 20 DEL 2013 
+Se genero salida forzada de la unidad por presentar nivel bajo de aceite en el tanque sumidero de la estacion hidraulica de G42, llegando a valores por debajo del disparo (nivel minimo de aceite, referenciado con el visor fisico). Realizando una inspeccion detallada por todo el circuito hidraulico se evidencio una fuga de aceite en la tuberia de presion de la valvula de alivio, lo cual ocasiono nivel bajo en el tanque. El personal mecanico corrigio la fuga, la cual se presentaba por un acople en dicha tuberia y se procedio a normalizar el nivel de aceite agregando 42 galones al tanque sumidero. Se revisa el nivel y se comprueba que esta dentro del nivel patron y se procede a sincronizar la unidad.
+
+INFORMO: Oscar Arango - Andres Arenas
+REALIZO: Personal Mecanico

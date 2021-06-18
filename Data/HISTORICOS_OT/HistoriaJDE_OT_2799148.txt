@@ -1,0 +1,25 @@
+
+FECHA: JUNIO 18 DE 2015 OT: 2799148
+
+EJECUTANTE: PEDRO SOLANO, PEDRO ROBAYO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Atendiendo la consignación de la línea 742 y en coordinación con el señor Marlon Maury del Cerrejón se procede a realizar las maniobras de la siguiente manera: Apertura del circuito a las 14:00; cierre del circuito a las 18:07
+
+Debido a la apertura de la línea 742 se procede a apagar manualmente los LPC y las UPS de los aerogeneradores con el propósito de prevenir fallas en el control de los aerogenerador.
+
+Se normalizan las UPS y se arrancan los aerogeneradores, esto después de cerrar la línea 742.
+
+
+FECHA: JUNIO 19 DE 2015 OT: 2799148
+
+EJECUTANTE: PEDRO SOLANO, PEDRO ROBAYO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se colocan retenedores a 12 secciones de freno de yaw, se les realiza prueba con presión quedando bien.
+
+Se ensayan los Kit nuevos de freno principal pero uno de los retenedores es mas grande que al tamaño normal.
+
+Se realiza tanqueo de la planta diesel de la cabaña donde se realiza la disponibilidad nocturna.
+
+Recoge el agua producida por los aires acondicionados de los controladores inferiores de cada aerogenerador.

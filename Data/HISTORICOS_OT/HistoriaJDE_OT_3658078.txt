@@ -1,0 +1,14 @@
+FECHA: 10/12/2017    SOLICITADO POR: Natalia Urrea- Francisco Córdoba- Operación G4
+DESCRIPCIÓN: La junta inflable de operación no se encuentra funcionando de manera automática.
+Se debe aplicar junta inflable de mantenimiento mientras la unidad está en reserva.
+
+FECHA: 23/12/2017
+Desde estacion de ingenieria, se deshabilita condicion de junta aplicada en secuencia de paro normal, para evitar que se de un paro de emergencia, debido a tiempo extendido.
+Se ralizan pruebas tanto desde la estacion de ingenieria, como localmente a electrovalvula que permite la aplicacion de la junta, encontrando un correcto funcionamiento de la misma. Se procede a verificar el comportamiento de la presion de la junta, en compañia de los Ingenieros German Betancur y Yofred Rodriguez, la cual se visualiza en 0,9 Bar en el indicador del instrumento electronico de medida tanto con la electrovalvula activada, como desactivada. Posterierormente se restrigue flujo aguas abajo de la electrovalvula, y se da nuevamente orden electrica de aplicacion, registrandose en el instrumento una medida de 3,2Bar. Se sugiere al grupo mecanico, continuar con la revision.
+Informo: Luis Adrian Cardona. 
+
+28/12/2017
+Se da paso al grupo mecánico para atender esta OT generando una nueva línea en la programación
+14/03/2018
+SE REVISA JUNTA INFLABLE DE OPERACION, SE REVISA FILTRO Y LINEA DE PRESION ENCONTRANDOSE TODO NORMAL, SE REVISA FLUJO DE SALIDA DE LA JUNTA INFLABLE DE OPERACION Y SE ENCUENTRA UN FLUJO NORMAL, SE REALIZA PRUEBAS INYECTANDO PRESION A LA JUNTA Y SE OBSERVA QUE LA JUNTA NO APLICA Y LA PRESION DEL SISTEMA VISUALIZADA EN EL MANOMETRO DIGITAL NO CAMBIA. SE DECIDE REALIZAR UNA SEGUNDA PRUEBA INYECTANDO EL AGUA A PRESION DE LA JUNTA DE MANTENIMIENTO A LA DE OPERACION Y SE EVIDENCIA QUE LA PRESION AUMENTA Y QUE LA JUNTA APLICA CORRECTAMENTE. ES DE ANOTAR QUE EL FLUJO DE LA JUNTA DE MANTENIMIENTO ES MAYOR QUE LA DE OPERACION Y SE DEDUCE DE LO ANTERIOR QUE LA JUNTA DE OPERACION PRESENTA UN PEQUEÑA PERDIDA DE PRESION QUE EL FLUJO NORMAL DEL SISTEMA DE ESTA LINEA NO PUEDE SOSTENER. POR LO CUAL ESTA JUNTA SIGUE INHABILITADA. SE RECOMIENDA PROGRAMARA EL CAMBIO DE LA JUNTA INFLABLE Y MODIFICAR TODO EL SISTEMA DE CONTROL E HIDRAULICO DE LAS JUNTAS. 
+INFORMO: CARLOS OSPINA

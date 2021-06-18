@@ -1,0 +1,17 @@
+MP ANUAL EQUIPOS:
+- 644198 ALARMAS DISPAROS +TDM1 U1 G3
+- 644199 ALARMAS DISPAROS +TDM2 U2 G3
+- 644200 ALARMAS DISPAROS +TDM3 U3 G3
+- 644201 ALARMAS DISPAROS +TDM4 U4 G3
+- 644202 ALARMAS DISPAROS +TDM5 U5 G3
+- 644206 ALARMAS DISPAROS +TDM5 U6 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: WILLIAM LOPERA
+
+OCTUBRE 8 DE 2018.
+Se aprovecho el mantenimiento anual de la unidad y se realizaron los protocolos de alarmas y disparo, comprobando todas las protecciones del banco de transformador de potencia, especialmente el transformador fase R serie 01.2.4006 que se colocó en servicio despues de ser cambiado el bobinado de baja tensión. Tambien se hizo la verificación de los disparos rapidos, parciales y paro de emergencia 1 y 2 operando normalmente las protecciones.
+William Lopera.

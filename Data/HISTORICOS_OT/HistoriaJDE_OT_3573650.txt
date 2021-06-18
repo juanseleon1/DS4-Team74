@@ -1,0 +1,15 @@
+05/08/2017 - Juan Camilo Montoya Fonnegra
+Se presenta falla en la secuencia de paro para los filtros 1 y 2 del sistema de refrigeracion para el sello de la turbina en la unidad 4, el sistema no habilita el boton de paro de estos filtros lo cual hace que su trabajo sea continuo.
+
+
+21/08/2017
+
+se realiza verificacion del programa en el sistema TAST de la unidad 4, se encuentra una bloqueo en la logica de estos filtros el cual es proveniente del programa, se normaliza este bloque y el sistema queda operativo nuevamente.
+
+
+REALIZADO POR WTOBONL
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ A.
+
+TERMINADA CERRAR 
+
+  

@@ -1,0 +1,8 @@
+
+
+Se encontró falla en Sensor 33MLVC-1, para lo cual se hizo OT correctiva numero 2475172
+
+Los demás sensores estaban en operacion normal. 
+
+Realizó: Oscar Giraldo - Victor Zuleta
+Planeó: Ruben Arboleda

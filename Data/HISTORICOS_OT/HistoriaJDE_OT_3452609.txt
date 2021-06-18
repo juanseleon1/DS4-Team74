@@ -1,0 +1,8 @@
+
+
+Se presenta falla por corrientes asimétricas, se requiere cambiar condensadores. 
+Inf: Henry Giraldo.
+
+ABRIL 11/2017 OT: 3452609  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+DEBIDO A FALLA REPETIDAS POR CORRIENTES ASIMÉTRICAS SE PROCEDE A REALIZAR EL CAMBIO DE 4 CONDENSADORES, QUEDA TRABAJANDO CON 6

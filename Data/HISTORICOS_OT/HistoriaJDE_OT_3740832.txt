@@ -1,0 +1,16 @@
+MP ANUAL, EQUIPOS.
+2738 INTERRUPTOR DE CAMPO U1
+2739 INTERRUPTOR DE CAMPO U2
+2740 INTERRUPTOR DE CAMPO U3
+2741 INTERRUPTOR DE CAMPO U4
+2742 INTERRUPTOR DE CAMPO U5
+2743 INTERRUPTOR DE CAMPO U6
+
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:WILLIAM LOPERA.
+
+JULIO 19 DE 2018.
+Se realizó el mantenimiento anual electrico de acuerdo al instructivo GCG3E0012, se hace pruebas de resistencia de contacto, se opera de modo manual de apertura y cierre al mecanismo, se lubrican los resortes y accionamientos mecánicos, encontrándose todo normal.
+William Lopera.

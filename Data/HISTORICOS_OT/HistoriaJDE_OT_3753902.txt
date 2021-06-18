@@ -1,0 +1,37 @@
+
+2018/08/14 _ CARLOS ENRIQUE MONCADA. OT N° 3753902.
+Se hace verificación de los equipos que se encuentran en la celda, que no presenten falla.
+Se hace identificación de los cables ethernet que van hacia los H01, h02 H03 observando que al desconectar  la comunicación del Relé, el Led que corresponde a cada cable deja de hacer link.
+Queda pendiente organizar el cableado de un equipo perteneciente a la USTO.
+Realizo: Jeniffer García, Carlos Moncada
+
+---------------------------
+
+FECHA: 09/08/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+REALIZAR CONSIGNACION LOCAL, PERMISO DE TRABAJO LOCAL CON LOS TECNICOS E INFORMAR A LOS OPERADORES DE LA CENTRAL
+
+REALIZAR MANTENIMIENTO E INSPECCION EN TABLERO CELDA MEDIDAS TRANSFERENCIA EN SUBESTACION 13.2 SAN BENIGNO 
+
+Realizar inspeccion y verificacion la comunicacion del sistema, verificacion de fallas, eventos y alarmas en los reles de proteccinees de la celda , ademas de limpieza de la fibra optica y  estado del tablero. OJO NOTA los reles  NO se deben  apagar y solo se realizara una inspeccion del sistema y anexar las notas de alarmas o fallas encontradas, ademas de los datos segun instructivo anexo a esta orden 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

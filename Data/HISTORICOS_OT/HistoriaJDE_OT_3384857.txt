@@ -1,0 +1,24 @@
+
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/02/25
+Se instala módulo de comunicaciones DSPC-408 en el Banco 3, quedando en condiciones normales  el despliegue de temperaturas.
+
+
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/02/02
+se crea OT para la compra de modulo remoto de comunicaciones de temperaturas Banco 3
+
+
+
+
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/02/25
+Se instala módulo de comunicaciones DSPC-408 en el Banco 3, quedando en condiciones normales  el despliegue de temperaturas.
+
+
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/02/02
+se crea OT para la compra de modulo remoto de comunicaciones de temperaturas Banco 3
+
+
+

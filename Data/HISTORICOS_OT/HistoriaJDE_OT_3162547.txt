@@ -1,0 +1,9 @@
+PREVENTIVO MECANICO VALVULA ADMISION UNIDAD GENERACION GUADALUPE 3
+
+
+
+Programador: Camilo Montagut - 15/07/2016 
+
+Se realiza el desmonte de los filtros y se ejecuta la limpieza respectiva. Para realizarse la limpieza a uno de los filtros aguas arriba fue necesario cerrar la válvula principal del sistema ya que existen fugas de aguas en las válvulas del sistema
+
+Ejecuta: equipo mantenimiento mecánico GIII

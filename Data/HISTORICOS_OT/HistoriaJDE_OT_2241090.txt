@@ -1,0 +1,7 @@
+14 DE FEBRERO DE 2013
+
+Se revisa el regulador de tensión de la Unidad G42 después de un paro de emergencia, en el banco 1 de tiristores se encuentra 2 fusibles y 2 tiristores fallados, se procede a realizar el cambio de estos elementos,  además se hace revisión de la excitación y los PTS de esta unidad, se hacen pruebas en la unidad llevándola hasta energizada alternando ambos bancos. Se deja unidad sincronizada con 68 MW y 15 MVAR, se continuara monitoreando la operación del regulador de tensión.
+
+Atienden el Evento: Grupo de Mantenimiento Electricos - Mecanicos y Electrónicos.
+
+Informa: Jorge Rodríguez 

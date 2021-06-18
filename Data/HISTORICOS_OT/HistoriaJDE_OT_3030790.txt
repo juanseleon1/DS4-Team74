@@ -1,0 +1,15 @@
+SOLICITANTE:
+SE SOLICITA REVISAR EL INTERRUPTOR DE MAQUINA DE LA UNIDAD 2, A LA CUAL SE LE DIO PARO DE EMERGENCIA POR PRESENCIA DE HUMO, ALTA TEMPERATURA Y FUERTE OLOR A QUEMADO EN EL POLO DE LA FASE T, LA UNIDAD QUEDA INDISPONIBLE.
+INFORMA :ALEXANDER GAVIRIA OSORIO.
+
+MARZO 31 DE 2016 OT: 3030790 PROGRAMO: FARFREY OSPINA EJECUTO: CARLOS CORDERO
+SE PRODCEDE A PARAR LA UNIDAD 1 DE LA CENTRAL CARACOLI SE REALIZA INSPECCION INTERNA  AL INTERRUTOR DE MAQUINA Y SE EVIDENCIA QUE LOS CONTACTOS MOVILES DE DICHO INTERRUTOR SE ENCUENTRAN COMPLETAMENTE DETERIORADOS, SE PROCEDE A REALIZAR UN ARREGRO PROVICIONAL PARA PODER INGRESAR LA MAQUINA AL SISTEMA, SE TOMAM TEMPERATURAS CADA HORA Y SE EVIDENCIA LA MEJORIA EN LA TEMPERATURA DE OPERACION REBAJANDO A 50°C. 
+EN EL PROXIMO MTTO SE REALIZARA EL CAMBIO  DE INTERRUPTOR EN LAS DOS UNIDADES 
+
+MARZO 1 DE 2016 O: 3030790 PROGRAMO: FARFREY OSPINA EJECUTO: CARLOS CORDERO
+SOLUCIÓN A FALLA INTERRUPTOR 
+Se cambió polo completo del interruptor, se realizó inspección de partes internas del interruptor en los demás polos tanto en la unidad 2 como en la 1, se realizó cambio del contacto fijo en los demás polos, se corrige fuga de aceite del interruptor en la unidad 1, se realizaron pruebas de funcionamiento garantizando el buen contacto entre el contacto fijo y la barra móvil de los interruptores, quedando ambos interruptores en condiciones operativas.
+
+OBSERVACIONES
+Es de resaltar que de los interruptores que se sacaron las piezas para remplazarlas en los interruptores de las unidades son piezas que tienen desgaste debido a que eran interruptores que en algún momento fueron usados para los circuitos externos del municipio por tal motivo traen un desgaste por ende son piezas que no duraran mucho operando correctamente, se recomienda evaluar  que otros interruptores se pueden montar en dicha planta o gestionar compra de nuevos interruptores para evitar en un futuro tener indisponible las dos unidades de generación. 
+

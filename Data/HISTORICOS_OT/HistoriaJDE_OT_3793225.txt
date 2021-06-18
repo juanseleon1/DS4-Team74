@@ -1,0 +1,11 @@
+
+2018/12/06 OT3793225 Luis Eduardo Arcila / Personal de General Fire
+
+
+PRUEBAS DISPAROS Y ALARMAS CO2 BANCO 1
+
+Se someten a temperatura el sensores Térmicos y se genera humo en detectores de humo zona cruzada, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 .
+se realiza disparo desde las estaciones manuales de cada transformador actúando las válvulas solenoides del banco principal y del banco de respaldo.
+Este procedimiento se realiza en las tres fases del banco 1.
+
+

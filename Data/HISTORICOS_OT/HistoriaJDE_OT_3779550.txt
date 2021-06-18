@@ -1,0 +1,21 @@
+XM: CHEQUEAR Y VERIFICAR FUNCIONAMIENTO DISTRIBUIDOR TURBINA UNIDAD
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR:OSCAR IVAN PARRA BOTERO
+OT PADRE 3779285
+INFORME MTTO BIENAL UNIDAD 4 PORCE 3 29 NOV 2018
+Referente a la Unidad N° 4: Mantenimiento terminado el día 29 a las 23:00 Se entrega para operación la unidad N°4 , después del mantenimiento bienal. Se realizaron los siguientes trabajos:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares y rotor en general).
+ Inspección mecánica del generador (estator, rotor, se realizó la lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina. Se reemplazaron los patines superior axial y un patín radial, inspección de holguras de los alabes móviles en el distribuidor y cámara espiral.
+ Inspección metrológica a la unidad.
+ Pruebas eléctricas al generador: rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de la unidad: Paros Rápidos 86R, Paros de Emergencia 86E1 y 86E2.
+ Se realizó mantenimiento preventivo semestral eléctrico, mecánico y electrónico.
+ Medidas de resistencia de aislamiento en rotor: Antes: 321 K/322VDC y después del mtto: 98.4 M/513VDC.
+ Consignación No @147761, OT 3779281.
+Jefe de Trabajo: Luis Federico Álvarez.                                                                                         Trabajos Eléctricos y Pruebas: Daniel Palacios - Cristian Gómez.                                                 Trabajos Electrónicos: Carlos Sánchez - Néstor Ochoa.                                                                Trabajos Mecánicos: Oscar Parra y Renato Montoya.
+**********************************************************************************************************************************************************
+**********************************************************************************************************************************************************
+SE REALIZA MANTENIMIENTO SEGÚN PROCEDIMIENTO, SE PROCEDE A ABRIR EL MANHOLE DE LA CÁMARA ESPIRAL Y SE LIMPIA INTERNAMENTE CON ESTOPA, SE VERIFICAN HOLGURAS DE ALABES CON RESPECTO AL BLINDAJE SUPERIOR, EN LA CUAL DEBE PASAR MÍNIMO UNA GALGA DE 0.20 MM, OBTENIENDO LA MEDIDA EN K1 ("A" EN EL FORMATO) LA MAYOR DE 0.39 MM Y LA MENOR DE 0.11 MM. IGUALMENTE SE OBTIENEN EN L1 ("B" EN EL FORMATO) LA MAYOR DE 0.38 MM Y LA MENOR DE 0.12 MM. NO SE ENCUENTRA DAÑO ALGUNO EN LOS ALABES Y LINER DEL DISTRIBUIDOR; ESTAS MEDIDAS SE ANEXAN AL INFORME, SE APLICA RESINA CHESTERTON 858 A ALGUNOS ALABES FIJOS DEL PREDISTRIBUIDOR POR ENCONTRARSE CON CAVITACIONES PROFUNDAS, AL IGUAL QUE A LA COLA DEL PREDISTRIBUIDOR QUE YA HABIA PERDIDA DE MATERIAL. REFERENTE AL RECINTO DE TURBINA SE REALIZA LIMPIEZA GENERAL, SE REALIZA INSPECCIÓN VISUAL A LA TUBERÍA PARA EVIDENCIAR FUGAS, NO ENCONTRANDO ALGUNA, SE REVISAN LOS SERVOMOTORES Y SE HACE LIMPIEZA, SE LEVANTA EL ANILLO DEL DISTRIBUIDOR PARA LA REVISIÓN DE LOS PATINES AXIALES Y RADIALES, SE CAMBIAN 1 PATINE RADIAL: #3 Y 1 PATIN AXIAL: #4;  SE TOMAN MEDIDAS DE HOLGURAS CON JUEGO DE GALGAS EN CINTA A LOS PATINES RADIALES Y AXIALES, ESTAS MEDIDAS SE ANEXAN A LOS INFORMES DE MANTENIMIENTO. SE ARMA NUEVAMENTE EL SISTEMA BAJANDO ANILLO Y ACOPLNADO LOS SERVOMOTORES, SE REVISAN LOS NIVELES DE ACEITE Y SE AGREGAN 50 LITROS DE ACEITE SHELL TURBO T46, SE REALIZAN PRUEBAS DE FUNCIONAMIENTO DEL DISTRIBUIDOR QUEDANDO EN ÓPTIMAS CONDICIONES.
+EJECUTO: FRANCISCO GUINGUER, CARLOS VALDES, GUSTAVO LOPERA, HERNAN USUGA
+INFORMA: OSCAR PARRA

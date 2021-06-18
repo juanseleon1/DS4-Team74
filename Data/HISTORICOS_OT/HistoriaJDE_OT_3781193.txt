@@ -1,0 +1,9 @@
+FECHA: 02/11/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+DESCRIPCIÓN: Se presenta descarga de agua en el transformador fase S unidad 5 Guadalupe III por activación del sistema water spray. Se reconoció y silenció la alarma  ” Activación switche de flujo” , se rearmaron los tableros Notifier (sala de control) y Aries (Water spray) y se apagó manualmente la bomba de agua de este sistema. La válvula de corte queda cerrada debido a que continuaba saliendo agua por las boquillas de descarga.
+
+Viernes 2 de noviembre
+
+REFERENTE A LA ACTIVACIÓN DEL SISTEMA WÁTER SPRAY BANCO 5 FASE S DE GUADALUPE 3:
+Se encuentra electroválvula activada y válvula de corte cerrada, se procede a realizar mantenimiento a la electroválvula, se restablece el sistema, se abre válvula de corte y se coloca precinto de seguridad en el Trafo 5 Fase S # 001259. se realiza pruebas de funcionamiento al Trafo 5 fase S, se restablece el sistema y queda en funcionamiento normal.
+
+Ejecutó: Edgar Naranjo - Duvan Calderón. Interfire S.A.S

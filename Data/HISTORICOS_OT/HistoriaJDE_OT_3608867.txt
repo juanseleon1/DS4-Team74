@@ -1,0 +1,9 @@
+2017/09/26 JUAN C DUARTE MUÑOZ.
+
+CORREGIR EN LA DP1 CELDA 4 EL CONTADOR PM800 CORRESPONDIENTE AL TSA3 PORQUE NO ESTA REGISTRANDO LAS VARIABLES Y EL CONTADOR.
+
+2018/11/01 RUBEN ARBOLEDA
+Se recibe el repuesto para ser instalado,
+2018-11-15 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3608867, PASO:1          
+Se realizó el cambio del medidor multifuncional de la DP1, correspondiente al TSA3, el contador queda en cero. 
+

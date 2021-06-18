@@ -1,0 +1,12 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  COJINETE SUPERIOR UNIDAD GENERACION TRONERAS
+
+4/06/2014
+
+se realizo mantenimiento segun instructivo, no se encon tro novedades, se inyectaron  con el calibrador de procesos los transmisores de temperatura Aceite 1, segmento Guia  1 y segmento Guia  3, segmento empuje 1, segmento  empuje 3 y segmento empuje 5  y se verificaron sus puntos de alarma y disparo y respondieron correctamente.
+El nivel de aceite se encontro en 385.3 mm su nivel patron es de 375 mm, se dreno el instrumento y quedo marcando 383 mm.
+
+VIBRACIONES.
+CSL:8.85 VDC
+CSP:11.12VDC, Se ajusto y quedo en 8.96 VDC.
+
+EJECUTO: FREDY DUARTE , MARLON CARMONA,  FRANCISCO GONZALEZ Y ANA MARIA PALACIO

@@ -1,0 +1,12 @@
+XE: REVISION, MEDIR Y LIMPIAR ANILLOS ROZANTES
+
+JORGE ALIRIO HERNANDEZ 03/03/2016
+
+ luego de realizar seguimiento al equipo extractor polvo de grafito U3 GIV 
+
+
+1. La excitación se encuentra en condiciones óptimas de operación , la medida de aislamiento rotor 1.66 Giga ohmios 516 voltios , Relé tierra rotos 436 K
+2. Desgaste de las escobillas muy parejo , desgaste máximo en anillo inferior de 3 milímetros y en el superior de 2 milímetros (archivo anexo) , lo cual corresponde a un desgaste normal luego de 956.36 horas de funcionamiento
+3.  recinto de excitación libre de contaminación , solo se encuentran trazas de polvo de escobilla 
+4. se encuentra acumulación de polvo de escobillas en las cajas de succión de cada uno de los porta escobillas  , para evitar esto se cambian los conectores de mangueras curvos 90° por conectores rectos , lo cual mejora la succión y se logra extraer mayor cantidad de polvo de escobilla)
+5. se evidencia que tenemos un problema con la contaminación de aceite en esta unidad,  es necesario que el Grupo de trabajo de los Mecánicos nos ayuden a minimizar esto , es necesario cambiar la felpa que atrapa el aceite , se ven orificios por donde pasa el aceite , si es posible colocar un empaque ó sello mecánico.  ( imágenes con contaminación de aceite el cual llega al extractor de grafito)

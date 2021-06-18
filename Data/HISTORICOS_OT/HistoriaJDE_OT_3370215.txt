@@ -1,0 +1,6 @@
+REALIZAR MANTENIMIENTO PREVENTIVO ELECTRICO AL CARGADOR DE BATERIA # 1 G3 . 
+WILLIAM LOPERA
+
+ENERO 19 DE 2017
+Se realiza mantenimiento preventivo  y pruebas al caragador de baterias # 1 de 125 Voltios CC, según el plan de periféricos que se viene implementando en la unidad.  Realizo: Grupo eléctrico y electrónico.
+Informo: William Lopera y Uaimer Díaz. 

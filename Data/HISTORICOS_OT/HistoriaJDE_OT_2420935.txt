@@ -1,0 +1,5 @@
+NOV 20/2013 OT: 2420935 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Se realizó el mantenimiento general.
+El variador del polipasto, presenta una falla que impide el movimiento de subir y bajar.
+
+Corregir el desplazamiento vertical del puente grua.

@@ -1,0 +1,6 @@
+2014/07/01 Gioavnny Diaz - Sebastian Hincapie
+Se realizó medida de sensores, y se encotro en funcionamiento normal. 
+
+Se cambio la bobina de la valvula 20SVO, ya que se encontró agrietada y con posibilidad de entrada de aceite y posible fuga de correitne a tierra. 
+
+La valvula instalada se eocntraba en oficina de manteniemitno electrico. 

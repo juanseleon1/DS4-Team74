@@ -1,0 +1,11 @@
+21 DE ABRIL DE 2018 IVAN DARIO ZAPATA GOMEZ
+EN LA UNIDAD 4 DE GUADALUPE 3, ESTA REVENTADA LA TUBERIA DEL SERVOMOTOR DE APERTURA DE LA VALVULA ESFERICA Y REQUIERE REPARACION.
+
+
+Ot: 3715204 - Pluma de agua en el servo de la esférica - Programador: Camilo Montagut - 03/05/2018
+
+Se repara tubería fisurada en uno de sus extremos con proceso de soldadura.  Se cambian empaquetaduras y se construye el perfil de la tuerca de acople.  
+
+Finalmente se hacen pruebas de apertura de la válvula esférica verificando ausencia de fugas.
+
+Ejecuta: Equipo de mantenimiento mecánico UOG.

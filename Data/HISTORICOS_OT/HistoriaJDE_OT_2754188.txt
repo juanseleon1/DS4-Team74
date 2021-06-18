@@ -1,0 +1,12 @@
+PLANEADOR: BIANEY BRAVO VALENCIA MAYO 01/2015
+DESMONTAR  COJINETE TURBINA
+
+09/MAYO/2015
+MANTENIMIENTO MAYOR - OVERHALL ELECTRONICO
+
+Se desconectaron y desmontaron las 2 RTD´s de aceite, las 4 RTD´s de metal. Se desconectaron y desmontaron los sensores de vibracion con sus respectivos soportes (paralelo y perpendicular) y se organizaron sus extensiones.                                               
+Se retira el cableado alrededor del cojinete de turbina con el fin de cambiarlo por uno nuevo. se retira el instrumento de nivel  de aceite del cojinete.
+
+Ejecuto: Gupo de electronica
+
+ 

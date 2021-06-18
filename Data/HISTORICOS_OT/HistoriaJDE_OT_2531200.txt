@@ -1,0 +1,7 @@
+
+FECHA: MAYO 17 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presenta falla de la comunicación entre el controlador superior y el inferior, con falla en RFC 4,0 0C 16, se inspecciona en la góndola y se encuentra el modulo de fibra óptica fallado, se suelta la fibra de transmisión y se vuelve a conectar y la falla se borra, se reaprieta el conector de esta fibra y se deja en servicio el AG.

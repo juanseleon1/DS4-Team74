@@ -1,0 +1,25 @@
+FECHA: ENERO 23 DE 2015
+INFORMA: SANDRA CARMONA
+
+
+
+Descripción del evento:
+
+El día jueves 22 de enero de 2015, a las 17:36 salen por paro de emergencia las Unidades 1 y 2 asociadas al banco 1 línea 2 PIII-San Carlos. Ambas unidades cargadas con 182MW al momento del evento.
+
+Las condiciones operativas de la planta Porce III al momento del evento eran las siguientes:
+
+·Planta despachada en pruebas por aumento de capacidad de las unidades.
+·Unidades 1 y 2 con 182MW de potencia.
+·Todas la unidades generando.
+·Barra 2 de Subestación 500kV desenergizada por consignación para reubicación de PT
+·Interruptores de los corte C de subestación 500 kV 5U220 y 5U210 abiertos. 
+·Entre las 17:33 y 17:34 se habían cerrado los seccionadores de línea 5U225, 5U222, 5U115 y 5U212.
+·La potencia de ambos bancos estaba distribuida en la barra 1 con salida a ambas líneas, Cerromatoso y San Carlos.
+
+Los interruptores del 5U220 y 5U210, abierto de acuerdo a la consignación  C0111838, no habían sido autorizados para cerrarse en el momento del evento a pesar de tener listos los seccionadores.
+
+De acurdo al personal de ISA, la causa evento fue una descarga atmosférica en la línea San Carlos.
+
+Consultando los eventos de los relés de protección (tanto de línea como de las unidades), se observa que los relés principales de protección de unidad U1 y U2  muestran a las 17:37 un disparo por protección 81 (sobrefrecuencia) y 21 (distancia). Este disparo habría causado el paro de las unidades al no tener por donde evacuar la potencia al quedar abierto el interruptor del corte B 5M020 (este interruptor tiene como esquema de protección no hacer recierre ante falla, el cual estaba habilitado, cuando ve el interruptor del corte C 5U220 abierto). De acuerdo a la estampa de tiempo, este disparo fue posterior a la sobrecorriente producida por el evento en la línea.
+

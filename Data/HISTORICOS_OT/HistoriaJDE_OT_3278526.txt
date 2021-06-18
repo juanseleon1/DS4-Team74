@@ -1,0 +1,9 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud:12 Octubre 2916
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento  correctivo:
+ Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de transmisión
+ Reparación sistema de potencia 
+ Reparacion Gaphs

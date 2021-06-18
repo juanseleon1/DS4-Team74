@@ -1,0 +1,10 @@
+Pruebas Modelos acuerdo CNO 752
+
+21/25 JULIO / 2015
+Referente a la Unidad G43:    
+  
+Se realizan conexiones externas tanto en el Regulador de Velocidad, como en el Regulador de Tension , para monitorear las variables criticas para el proceso, enfocandonos en el comportamiento de la excitacion, verificando parametros de configuracion y revisando detalladamente limitadores y comandos de subir/bajar volttaje y Protecciones.                                                                                          
+Estas pruebas de modelamiento del regulador de velocidad, Tension,PSS y parámetros del Generadorse realizan para dar cumplimiento al acuerdo CNO 752.
+
+Ejecuto: Esteban Vasquez - Juan Caicedo - Uaimer Diaz
+Programador: Oscar Arango

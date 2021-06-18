@@ -1,0 +1,4 @@
+
+JUNIO 282018 OT: 3741087  PROGRAMÓ: HGIRALRI EJECUTÓ: JONATAN DUQUE, ELIECER PUSHAINA, DANY SANTAMARIA
+
+Se cambia el acople del generador, Se deja en servicio el aerogenerador.

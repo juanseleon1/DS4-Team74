@@ -1,0 +1,7 @@
+
+
+
+
+MAYO 01/2019  OT: 3833179  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+Desde días anteriores se ha presentado falla en interbus de comunicación, se intercambiaron las fuentes en  el controlador superior pero la falla se presentaba nuevamente, en la herramienta Diag+  no registraba ninguna falla, en las alarmas se observa como por periodos de tiempo aparece la falla en el interbus Bottom, se verifican el voltaje DC de las fuentes y se encuentra la 32A1 por debajo de 24 Vdc, se calibra en 24,4 Vdc y se deja en servicio el aerogenerador, después de 30 minutos se falla de nuevo, en este caso logramos observar en el RFC el código de la falla 1,2 0D6F; esta falla corresponde a variación en la alimentación del módulo, que corresponde a la fuente 32A1, se cambia la fuente y se deja en servicio el aerogenerador.

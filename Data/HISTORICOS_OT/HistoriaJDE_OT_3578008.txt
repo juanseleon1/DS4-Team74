@@ -1,0 +1,9 @@
+
+2017/11/29 _ CARLOS ENRIQUE MONCADA. OT N° 3578008.
+Esta OT no se pudo ejecutar por falta de los recursos necesarios para ello.
+
+-------------------
+
+2017/08/25 _ CARLOS ENRIQUE MONCADA. OT N° 3578008.
+
+SE GENERA ESTA OT PARA EL CAMBIO DE LA FUENTE DE ALIMENTACION 48 Vdc DEL PLC DE LA UNIDAD 3 DE PORCE 2.

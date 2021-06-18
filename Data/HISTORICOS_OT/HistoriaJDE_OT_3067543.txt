@@ -1,0 +1,18 @@
+ABRIL 06 DE 2016 . INFORMA BIANEY BRAVO VALENCIA
+
+El mantenimiento realizado el 31 de marzo de 2016 en la normalización de la unidad 1 de Troneras luego de realizado el mantenimiento semestral preventivo a la unidad, se registro el evento que se describe a continuacion:
+
+- PARO DE EMERGENCIA 1
+- PARO DE EMERGENCIA 2
+- RELE 86E1 ACTIVADO
+- RELE 86E1 ACTIVADO
+- SUP CTO DISPARO BOBINA Y01
+- FALLA APERTURA INT GEN U1
+
+El paro de emergencia fue ocasionado por disparo en el tablero de vibraciones, esta señal no aparece en el sistema scada, por lo cual fue complicado identificar que elemento origino el paro de emergencia, se solicita a traves de esta OT habilitar en el sistema Scada los mensajes de texto de todas las señales de disparos que activan los paros de emergencia.
+
+Septiembre 08 de 2016: Informa Juan Alberto Caicedo
+
+Se hizo levantamiento en el control de esta señal, se tira cableado y se configura en el control.
+
+

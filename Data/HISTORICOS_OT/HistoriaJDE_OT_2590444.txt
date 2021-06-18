@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL COMPUTADOR UNIDAD CENTRAL PORCE 2.
+
+FECHA: 25/09/2014 PROGRAMADOR: JGUINGUER
+
+Se realizó limpieza y se revisaron las borneras de control.
+Se revisó la IHM principal de unidad   y los servicios misceláneos del tablero.
+
+REALIZO: JUAN CAMILO MONTOYA - JENIFFER GARCIA

@@ -1,0 +1,13 @@
+04/11/2018  GUILLERMO LEÓN ECHEVERRY VÉLEZ
+
+COMUNICACION PROCESOS ABB : Favor verififcar la comunicacion de los proceso de ABB en ocasiones para el paro de la unidad se pierde la comunicacion de algunos procesos 
+
+
+03/11/2018
+
+Se realiza verifiacion en cada uno de los procesos de ABB para la actualicion del programa CONTROL BUILDER de cada unidad y se verifica el correcto funcionamiento de la comunicacion en el sistema SCADA con cada proceso en cada unidad 
+
+IHM PROCESOS ABB TCBA, TCCS, TCCC, TCF,TCIG
+
+Realizado por Wtobonl 
+

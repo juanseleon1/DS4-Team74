@@ -1,0 +1,4 @@
+
+ABRIL 21/2018 OT: 3715256  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Después de un Grid Error se presenta disparo de la estación de transformación, se realizan varios chequeos, se desconectan los cables de baja y de alta y se sigue presentando el disparo al momento de cerrar el seccionador, se decide retirar la tapa delantera donde van  los orificio en los cuales se insertan las palancas, se encuentra la bobina de disparo bloqueada, se desbloquea con un destornillador, se realizan pruebas y responde bien, se realizan de nuevo las conexiones en el transformador y se deja en servicio el aerogenerador.

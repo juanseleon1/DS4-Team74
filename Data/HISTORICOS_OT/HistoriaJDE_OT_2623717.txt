@@ -1,0 +1,8 @@
+2014-10-21. JUAN CARLOS DUARTE MUÑOZ.
+ADICIONAR AGUA AL BANCO DE BATERIAS DE LAS UPS. SE ENCUENTRAN VARIAS CON NIVEL MINIMO (9, 10, 11, 12,ETC) EN COMPARACIÓN CON OTRAS BATERIAS.
+
+2015/01/30 GIOVANNY DIAZ (RUBEN ARBOLEDA)
+Se realizo mejora del sistema de destilacion de agua, el cual presento falla en la bateria, se instalo 2 baterias de 6voltios en serie, y se cableo para que quedara en servicio, se puso a destilar agua. 
+
+2015/02/04 GUILLERMO CORDOBA - FERNANDO RUIZ (RUBEN ARBOLEDA)
+Despues de tener el agua destilada se realizo el proceso de recuperacion de nivel de electrolito, se adiciono un total de 22 litros a todo el banco de baterias, se dejo en condiciones normales. 

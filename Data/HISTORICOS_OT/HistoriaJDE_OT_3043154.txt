@@ -1,0 +1,55 @@
+
+FECHA: MARZO 10 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO ROBAYO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Debido a varias salidas por Grid Error el AG se falla y presenta falla en el contactor 17K2 el cual se inspecciona y se encuentra quemado el contacto de la fase L1, se programa cambio para mañana
+
+FECHA: MARZO 11 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLANO, ALVARITO PUSHAINA Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se realiza el cambio del contactor 17K2, al realizar pruebas se presenta falla por Supply Voltage Low que no permiten dejar en servicio el aerogenerador.
+
+
+FECHA: MARZO 12 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se verifica el estado de la UPS y se cambia el parámetro 19:02 pasándolo de 15 a 25, se da un nuevo arranque y se presenta falla por Corrientes Asimétricas, se verifica físicamente los tiristores y se aprecian en buenas condiciones, se verifican los contactos del contactor 17K2 que se cambio el día de ayer, se pulieron las superficies y se arma nuevamente este contactor, se realiza una nueva prueba pero la falla continua.
+
+
+FECHA: MARZO 13 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se realiza medición de los tiristores y se encuentra defectuoso el par de la fase 3, se cambian y se realiza una nueva prueba, pero nuevamente sale la falla de corrientes asimétricas.
+
+
+FECHA: MARZO 26 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLNO Y ELISAUL FUENTES
+SOLICITANTE: HENRY GIRALDO
+Se realizan mediciones de resistencia y aislamiento en el generador, dando como resultado medidas dentro de los rangos normales, no se dio la posibilidad de arrancar el aerogenerador ya que habían vientos muy fuertes, mañana se realizara la prueba en horas de la mañana.
+
+FECHA: MARZO 27 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se realiza arranque del aerogenerador pero nuevamente se presenta la falla por corrientes asimétricas, se revisan nuevamente los tiristores y se encuentra abierto uno de ellos en la fase L3, se procede a retirar un par del AG3 y se coloca en el AG2 además se revisan los transformadores de corriente y se encuentran bien, se cambia el módulo WP4060 y se da un nuevo arranque pero sigue presentándose la falla de corrientes asimétricas.
+
+
+FECHA: MARZO 28 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se desmonta el banco de tiristores y se revisan en subestación, se encontraron todos 6 buenos, solo se encontró falla en una de las terminales del tiristor inferior de la fase L2, se cambió y se verificaron y apretaron bien todas las demás terminales, se montó  nuevamente el banco y se dejó listo el AG para darle arranque de prueba, no se realiza esta prueba ya que hay vientos muy fuertes.
+
+
+FECHA: MARZO 29 DE 2016 OT 3043154
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se realizan una nueva inspección en los tableros de potencia y de generador, se observan dos de los lighting protección Top fallados (estos no impedirían ni afectarían el funcionamiento del AG) el de la fase T se encontraba directo pero no fallado, se retiraron estos elementos pero la falla continuo, debimos de parar las pruebas ya que nos necesitaba el señor Wayuchon en subestación.
+
+Se encontró falla de aislamiento en los cables de potencia, se programa la actividad de cambio de cables.

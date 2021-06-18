@@ -1,0 +1,11 @@
+2018/09/10 _ CARLOS ENRIQUE MONCADA. OT N° 3763820.
+Se realiza el tendido de la fibra óptica monomodo desde la caseta de comunicaciones en el portal de Porce 2 hasta la porteria de Casa maquinas de Porce 2.
+Se utiliza el carcamo para pasarla con la ayuda del personal electrico.
+Se realiza fusion de fibra óptica en cajas terminal desde la caseta de comunicaciones en el portal de Porce 2.
+Se conectoriza e instalan los equipos de conexion dejando habilitado el servicio de red para el PC instalado.
+Realizo:Neiro Fabian Pérez, Julio Cesar Parra, Jhon Jader Orrego, Camilo Cardona
+Informó: Carlos Moncada.
+
+2018/09/10 _ CARLOS ENRIQUE MONCADA. OT N° 3763820.
+
+Se crea OT para el montaje y tendido de fibra óptica e instalación de computador en la porteria de Casa Maquinas Porce 2.

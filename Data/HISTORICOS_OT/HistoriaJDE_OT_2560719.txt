@@ -1,0 +1,13 @@
+
+NOV 01\ 2014 OT: 2560719 PROGRAMÓ:  R JIMENEZ EJECUTÓ:DAVISON PEREZ.
+Fue realizado el mantenimiento según el instructivo, GCP2E0008, se cambia bornera de la fase T, por falla en la roscas del tornillo,
+Se realizaron las pruebas eléctricas a los motores desde la bornera del motor.
+Ver registro en el archivo de Porce II.
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

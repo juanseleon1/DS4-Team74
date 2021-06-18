@@ -1,0 +1,34 @@
+
+2017/1/16 Adonis / Learcilas
+Se revisa la RTU REMOTA CND-EMS GT para verifica sus conexiones y comunicación a petición del centro de control por no tener visualización de las unidades de la central Guatapé.
+·El modem 1 courier tiene el cable del puerto de comunicación por fuera. 
+·El módulo Ruggedcom RS910 protocolo 104 se encuentra desconectado del spliter.
+·El módulo de comunicación 140ESI 06200 en condiciones normales: R- ACTIVE - TX1 - RX1 - TX2 - RX2
+·El módulo Ethernet en condiciones normales: ACTIVE - RUN - LINK
+·El módulo principal 140 CPU113303 en condiciones normales: READY - RUN - MODBUS+
+·Las alimentaciones de los módulos en los valores correspondientes.
+Se analiza el Modem 1 y se concluye que ese elemento  se utilizaba solo para gestión remota,  no hace parte del control de la RTU, además de que se encuentra desconectada la comunicación, 
+No es posible que este sea el problema que se ha presentado.
+Se queda pendiente por parte del centro de control en Medellín la revisión de sus equipos para encontrar la falla.
+
+
+
+
+
+
+2017/1/16 Adonis / Learcilas
+Se revisa la RTU REMOTA CND-EMS GT para verifica sus conexiones y comunicación a petición del centro de control por no tener visualización de las unidades de la central Guatapé.
+·El modem 1 courier tiene el cable del puerto de comunicación por fuera. 
+·El módulo Ruggedcom RS910 protocolo 104 se encuentra desconectado del spliter.
+·El módulo de comunicación 140ESI 06200 en condiciones normales: R- ACTIVE - TX1 - RX1 - TX2 - RX2
+·El módulo Ethernet en condiciones normales: ACTIVE - RUN - LINK
+·El módulo principal 140 CPU113303 en condiciones normales: READY - RUN - MODBUS+
+·Las alimentaciones de los módulos en los valores correspondientes.
+Se analiza el Modem 1 y se concluye que ese elemento  se utilizaba solo para gestión remota,  no hace parte del control de la RTU, además de que se encuentra desconectada la comunicación, 
+No es posible que este sea el problema que se ha presentado.
+Se queda pendiente por parte del centro de control en Medellín la revisión de sus equipos para encontrar la falla.
+
+
+
+
+

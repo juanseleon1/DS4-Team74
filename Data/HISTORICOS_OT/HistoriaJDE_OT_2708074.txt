@@ -1,0 +1,10 @@
+BM: MEDIR VIBRACIONES MOTOBOMBAS CW REFRIGERACION UNIDADES GENERADORAS,LA CLARA GUATAPE, AFFA, ACRA, ACA. ESTE EQUIPO DEBE ESTAR EN LÍNEA.
+
+2015/03/16 FABIO HERRERA, LEON PARRA
+Se realiza la medición de vibración con el equipo Apredictor, el cual nos entrega el siguiente informe:
+
+   
+MAQ. MAQUINA COD. PLANTA ZONA RIESGO86  Motobomba CW2 5910 Refrigeración CríticaPUNTO ALARMA NIVEL FALLA MEDIDA A.NAR S.R1 Hor X Condición especial 16/03/2015 Si 590
+
+
+   

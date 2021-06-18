@@ -1,0 +1,23 @@
+2018/04/16 OT 3707864 MARITZA BACCA
+ Fecha Hora
+Hora de inicio 11/04/2018 16:04:34.375
+Hora final 12/04/2018 16:04:33.375
+
+Tiempo ON 4:26:50
+Tiempo OFF 19:36:07
+Promedio ON 0:17:47
+Promedio OFF 1:16:19
+Tiempo de prueba(horas) 24
+Energia(KWh) 15,47
+
+N° arranques:
+Normal Inusual Totales
+15 16 31
+
+Los arranques inusuales se refieren a impulsos en los que arrancaba el motor del compresor que no duraban mas de 3 segundos.
+Ingecryo afirma que la unidad de refrigeración enciende por diferencial de presión por un presóstato ajustado entre 6 psi y 18 psi.
+Al finalizar un ciclo, funcionara nuevamente durante uno o más cortos periodos de tiempo para que el compresor reduzca la presión en la línea de succión.
+Lo anterior hace parte de la operación normal de la unidad de refrigeración que cuente con válvula solenoide.
+
+2018/04/05 RAFAEL SEGOVIA CARO
+SE CREA ESTA OT PARA REALIZAR TRABAJOS DE MEDIR LA EFICIENCIA ENERGETICA DEL NUEVO EQUIPO DE REFRIGERACION DEL CO2 U1.

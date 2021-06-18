@@ -1,0 +1,14 @@
+Solicitante-Planeador: 620571
+Aprobador: 355694
+Fecha de solicitud: 24-04-2017
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento:
+
+Realizar las siguientes acciones de mantenimiento preventivo:
+                Inspección general del estado de la estación
+                Limpieza de estación
+                Descarga y verificación de datos de la estación
+                Análisis de datos de estado del datalogger y transmisor
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+               Instalacion de estación VAISALA, se retira estación provisional que se había dejado por daño de la VAISALA.

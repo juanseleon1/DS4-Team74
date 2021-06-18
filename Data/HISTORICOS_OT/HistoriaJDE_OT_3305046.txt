@@ -1,0 +1,20 @@
+MANTENIMIENTO GENERAL MOTOBOMBA 1 LUBRICACION FORZADA UNIDAD 1 CENTRAL PORCE 2.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones. OK
+4. Inspeccionar fugas FUGA EN SELLO
+5. Revisar alineación.
+6. Verificar estado general exterior (pintura) OK
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2016-11-24
+TEMPERATURA DEL MOTOR: 31°C
+
+TEMPERATURA BOMBA: 31°C
+
+TRABAJO REALIZADO POR: FRANCISCO GUINGUER Y CARLOS AGUDELO.
+

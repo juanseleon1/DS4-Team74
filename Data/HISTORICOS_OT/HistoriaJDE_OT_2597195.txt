@@ -1,0 +1,12 @@
+2014/09/09 REPORTO: JUAN CARLOS DUARTE
+
+Buenos dias, favor inspeccionar el nivel de la cuba del tranformador Banco 4 fase R, el dia de hoy se observo en 20°C con 140 MW y temperaturas de aceite: 42 y devanados 65 y 65. En este transformador se tiene una perdida de aceite diaria de 2 litros por el flange inferior de la bomba 1.
+Gracias.
+
+2014/09/11 GIOVANNY DIAZ - OSCAR GIRALDO OT: 2597195
+Se realizó nivelación de aceite en el banco 2 así: 
+Fase R  Elefante: 25 Galones
+Fase T  Elefante: 12 Galones
+Fase T - Cuba: 25 Galones
+
+Los valores son estimados, ya que se hace visualizando la caneca para determinar la cantidad de aceite adicionado. 

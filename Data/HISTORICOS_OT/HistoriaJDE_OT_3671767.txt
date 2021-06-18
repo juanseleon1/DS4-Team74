@@ -1,0 +1,5 @@
+2018/01/15 CESAR HOYOS - RUBEN ARBOLEDA
+Se crea esta OT para comprar bujes, herrajes, empaques y demás para el cambio de bujes de II etapa.
+
+2018/06/14 RUBEN ARBOLEDA
+El provceso de compra se adelantó en la OT: 3673507, esta se cierra sin costos

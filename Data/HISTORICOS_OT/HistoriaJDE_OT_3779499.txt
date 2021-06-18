@@ -1,0 +1,13 @@
+MANTENIMIENTO ELECTRONICO CUATRIMIESTRAL 
+FECHA: 28/11/2018
+OT: 3779499
+
+PLANEADORA:SANDRA CARMONA
+
+PROGRAMADOR:BERNARDO BEDOYA
+
+Se realizó limpieza e inspección visual, se revisaron las borneras de control de los diferentes tableros del regulador de tensión. Se realizó mantenimiento a los filtros de aire de cada tablero.
+Se revisó el estado de los sensores de vibración.
+Se realizó mantenimiento a los tableros del vibrosistem y los transformadores.
+
+REALIZÓ: GRUPO ELECTRÓNICO.

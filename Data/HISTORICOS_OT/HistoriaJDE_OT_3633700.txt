@@ -1,0 +1,38 @@
+
+SE CRE ESTA OT PARA EL RECORTE DEL CABLE TRACTOR POR ESTAR FUERA DEL RANGO DEL PULL DISTANCE.
+
+DESCRIPCIÓN DEL EVENTO 
+Desde la estación inferior del teleférico se podía observar la catenaria baja del cable tractor superior en consecuencia a la operación normal del sistema, esta elongación es natural en este tipo de cables.
+Se verifica el Pull distance 
+-Medida “ pull distance”  antes del corte: 3.62 m
+-Según el fabricante el pull distance debe de ser (2.80 m - 2.90.)
+Según esta información se debe de recuperar la longitud de servicio la cual se refleja en la catenaria y en la distancia de llegada de las cabinas a las estaciones.
+Se adjudica contrato por prestación de servicio con la empresa FATZER de Suiza para hacer el recorte y vertimiento del cable tractor superior del teleférico CM-2017-05087
+
+Cronograma de Actividades 
+
+Identificación del problema
+Verificar control dimensional de pull Distance
+Reunión técnica e informativa de la situación
+Planeación y programación de la actividad 
+Realizar orden de servicio
+Socialización y publicación a la comunidad 
+Preparar herramienta y materiales para iniciar el trabajo
+Ejecución de la actividad
+Entrega de informes
+
+Plan de trabajo
+
+Llevar cabina #1 a recorrido final en la estación superior 
+Fijar la cabina 
+Destencionar cable tractor para desacoplar la cabina 1 
+Realizar retenciones del cable tractor en la entrada de la estación superior y a la salida de la segunda polea motriz.
+Realización de flor de acople de cabina 1.
+Realizar limpieza de flor del cable tractor.
+Realizar vaciado de flor en copa.
+Montaje de mordaza en cabina.
+Retiro de retenciones y mordazas a la entrada de la estación y a la salida de la segunda polea motriz.
+Normalizar sistema
+
+ver informe 
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\3-Mantto Mecánico\03-Guadalupe 3 Mecánico\09 TELEFERICO G3>

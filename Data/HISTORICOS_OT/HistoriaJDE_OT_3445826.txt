@@ -1,0 +1,29 @@
+PLANEADOR: FRANCIS LONDOÑO, 2017-04-04
+OT MANTENIMIENTO PREVENTIVO DEL COMPRESOR 2 DE SERVICIOS GENERALES SOTANO 3.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo no debe estar en funcionamiento se debe deshabilitar y colocar ficha de seguridad. Des energizar tablero de alimentación.
+2. Temperaturas altas en algunas partes del equipo. Usar guantes de protección.
+INSTRUCTIVO DE MANTENIMIENTO
+1.  Inspeccionar nivel de refrigerante. Ajustar de ser necesario  con Aceite ULTRA COOLANT. Registrar cantidad adicionada en observaciones. Nivel de refrigerante debe estar en la mitad del vidrio indicador con la unidad en modo DESCARGADO.
+2.  Revisar  temperatura de aire en la descarga.OK
+3.  Revisar diferencial de presión elemento separador.OK
+4.  Revisar diferencial de presión filtro de aire a  plena carga.OK
+5.  Revisar estado de filtro aire, registrar horómetro.OK
+6. Revisar estado del filtro de  aceite, registrar horómetro.OK
+7. Revisar estado del filtro separador, registrar horómetro.OK
+8. Revisar estado del aceite y verificar horómetro.OK
+9. Inspeccionar tornillería, anclajes y fijaciones. OK
+10. Revisar fugas de fluido. NO TIENE
+11. Inspeccionar estado de mangueras.OK
+PROGRAMADOR: FRANCIS LONDOÑO, 28-06-2017
+
+OBSERVACIONES DE LA EJECUCION DE LA OT
+- HORAS TOTALES : 25242
+- HORAS CON CARGA: 9832
+- TEMP. ACEITE: 68°C
+- TEMP BOMBA: 79°C
+- TEMPERATURA MOTOR: 48°C
+- TEMP. FILTRO ACEITE: 84°C
+- TEMP. DESCARGA COMP: 105°C
+COMPRESOR SE ENCUENTRA PRINCIPAL DEL SISTEMA.

@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Julian Camilo Giraldo.
+Se realiza inspección, limpieza y mantenimiento según instructivo al tablero eléctrico TA01, al interruptor principal de 480V, a las acometidas e interruptor de puesta a tierra del neutro, al transformador seco TA01.
+
+XE: INSPECCIÓN Y LIMPIEZA TRANSFORMADOR SER AUX TA01-02 DE LAS UNIDADES

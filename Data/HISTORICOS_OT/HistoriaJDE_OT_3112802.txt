@@ -1,0 +1,21 @@
+2016/05/16  LUIS FERNANDO CASTRILLON MORALES
+VERIFICAR ALARMA FALLA RELE.PROTECCION INTERNA. EN PP2 SEL 300G EN DISPLAY APARECE VECTOR 8 RELAY DISABLED.
+
+2016/05/16 ANGEL ADONIS CADAVID OCHOA
+SE DIRECCIONA A JOHNSON GOMEZ . EL SE ENCARGA DEL CAMBIO Y DE SOLICITAR EL REDESPACHO.
+
+PLANEADOR:JOHNSON GOMEZ
+
+FECHA MAYO 16 DE 2016
+
+
+
+Cambio ele protecciones unidad 4 Guatapé
+El día 16 de Mayo el operador reporta que ha salido una alarma falla interna relé en la Unidad 4 y al verificar en el display del relé se evidencia que este se encuentra bloqueado y con la alarma Vector 8 Relay Disable
+En un análisis inicial y conociendo los antecedentes que se han tenido durante los últimos días es muy probable que este relé haya sido afectado por la acumulación de ácido sulfhídrico el cual ya ha dañado varios de los relés de la planta de generación de Guatapé
+Se  procede a verificar con los de protecciones y efectivamente este relé es necesario reemplazarlo por el repuesto que estaba programado para montarse en la unidad 7.
+Se procede pedir dos periodos de redespacho para poder cambiar dicho relé tiempo este en el cual se realiza el cambio del relé serial xxxxxxxxxxxxxxxxxxx por el relé serial xxxxxx
+Se realizan pruebas de funcionamiento de salidas y se normaliza para entregar la unidad a las xxx horas 
+Responsables 
+CEAR HOYOS, LIDER OPERACION INTEGRADA, UN. OPERACIONES ZONA ORIENTE
+Johnson DARIO GOMEZ PROFESIONAL A OPERACIONES NEGOCIOS

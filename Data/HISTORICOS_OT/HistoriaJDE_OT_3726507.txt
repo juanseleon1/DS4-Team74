@@ -1,0 +1,4 @@
+
+21/05/2018 Luis Eduardo Arcila
+
+Se instala indicador de posición del deflector Red Lion por falla en el original. 

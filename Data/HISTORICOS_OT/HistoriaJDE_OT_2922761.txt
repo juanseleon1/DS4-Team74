@@ -1,0 +1,4 @@
+CE: LIMPIEZA Y REVISION CONTR CAMPO 44 kv
+
+2015/11/21 EDWAR LONDOÑO - JAIDIBER MARIN (PRACTICANTE), OT: 2922761 PROGRAMO: RARBOLG
+Se realizó medida de sensores y verificación de funcionamiento de la indicación, se encontró y se dejo en condiciones normales, las electrovalvulas presentaron falla en la conexión, se cambio el conector macho y hembra. 

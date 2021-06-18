@@ -1,0 +1,20 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+ 02/07/2015. SERGIO OLIVARES D.
+
+ **   ANTES DE LIMPIEZA:
+
+ ROTOR + BARRAJE = 0.08 M
+            ROTOR                    = 0.13 M
+            BARRAJE                = 6.0 M
+ 
+
+
+ ***  DESPUES DE LIMPIEZA:
+
+ROTOR + BARRAJE = 2.92 M
+            ROTOR                    = 6.0 M
+            BARRAJE                = 3.0 G
+
+NOTA: Se sigue con el mismo problema de siempre, alta contaminación de vapores de aceite provenientes del cojinete  superior
+

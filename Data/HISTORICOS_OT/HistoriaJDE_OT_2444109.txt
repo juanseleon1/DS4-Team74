@@ -1,0 +1,19 @@
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______2________
+
+HOROMETRO:( H )_______1523.36_____
+
+TIEMPO DE TRABAJO:( min.)_____7.58_______
+
+MW PLANTA: ______201_________
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________

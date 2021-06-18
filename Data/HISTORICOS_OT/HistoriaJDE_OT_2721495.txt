@@ -1,0 +1,15 @@
+SE CREA OT PARA EL REGISTRO DE ACTIVIDADES Y TIEMPOS EN LA ADECUACION DE AISLANTE TERMICO EN LA TUBERIA DE REFRIGERACION PARA LOS RADIADORES DE LA UNIDAD 1 DE TRONERAS
+
+
+Programador: Camilo Montagut - 01/10/2015
+
+Comienza la adecuación de las chaquetas aislantes de la tubería de refrigeración de los radiadores de la unidad 1. Queda pendiente la instalación de las chaquetas pertenecientes al muñeco de la entrada de la tubería ya que errores de fábrica (empaquetaduras y empaques) no permitieron su montaje. El personal de la empresa contratista se lleva las chaquetas y quedamos a la espera de la entrega de las nuevas                                                           
+
+Ejecuta: equipo mantenimiento mecanico GIII
+
+
+Programador: Camilo Montagut - 06/11/2015
+
+Se cierra la ot por inactividad ya que la próxima etapa finalizaría en marzo del próximo año
+
+

@@ -1,0 +1,13 @@
+
+FECHA: MAYO 7 DE 2015 OT: 2761399
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presentan varios paros por temperatura alta y presión alta en la caja multiplicadora, se procede a cambiar los filtros de las bombas de refrigeración de la caja y se verifica su correcto funcionamiento, se deja en servicio pero después de unos minutos la temperatura nuevamente se incrementa y se para por esta falla, se realizan dos pruebas más pero la temperatura sigue subiendo al igual que la presión en el filtro, se deja detenida hasta verificar el estado de los ejes dentro de la caja multiplicadora.
+
+FECHA: MAYO 7 DE 2015
+
+EJECUTANTE: HENRY GIRALDO, ALVARITO PUSHAINA Y ELIECER PUSHAINA
+
+Se inspecciona la caja multiplicadora y hasta donde se alcanza a ver superficialmente no se observan fallas mecánicas en los piñones, si se encuentran algunas partículas de limalla en las paredes de la caja, se le adicionan 2 galones de aceite XMP320 y se cambia el filtro de la bomba principal, se deja funcionando para ver el comportamiento al tener más aceite, pero después de 1 hora la temperatura del aceite de la caja se incrementa, la presión del aceite permaneció en 3,7 bares aproximadamente, se deja detenido el aerogenerador.

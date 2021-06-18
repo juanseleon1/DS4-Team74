@@ -1,0 +1,25 @@
+
+2016/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3303614.
+SE VERIFICA EL ESTADO DE LA IHM DE LA U1, ESTA NO INDICA NINGUN TIPO DE PARO POR ENCONTRARSE EL EJECUTABLE DE MONITOR PRO DESHABILITADO. SE CONCLUYE QUE EL PARO SE DA POR QUE LA RTD 47 PRESENTA ALTA TEMPERATURA.
+
+SE DESHABILTA LA RTD 47, SE PONE EN SERVICIO LA IHM Y SE NORMALIZA LA MAQUINA QUEDANDO EN CONDICIONES PARALA OPERACION COMERCIAL. 
+REALIZO:  TURNO 3: ADRIAN NARVAEZ, FEDERICO MONTOYA. GRUPO ELECTRONICO: CARLOS MONCADA
+
+SALE DE SINCRONISMO LA UNIDAD #1. NO INDICA NINGUN TIPO DE PARO Y LA MAQUINA SE QUEDA SIN TERMINAR SECUENCIA DE PARO SIENDO NECESARIO PARAR CADA SUBSITEMA DESDE SU CONTROL LOCAL.
+FECHA: NOVIEMBRE 04-2016.
+SOLICITANTE: TURNO 1 OPERACION.
+
+
+11/11/2016
+Se realiza seguimiento de eventos en la unidad 1 para el día 07/11/2016 a las 5:30 am no se encuentra eventos asociado al paro de la unidad, pero si se evidencia avalancha de dos eventos FALLA IN/OUT MODULOS PLC y NIVEL ALTO TCCS LIT2 se presume que estos eventos estén ocasionando falla en la rutina del PLC. 
+El día 04/11/2016 a las 12:11 am se presenta paro de la unidad 1 por aparente falla en la RTD 47 del cojinete combinado segmento 10 este día presento problemas la aplicación de la la IHM y el SCADA por lo cual mientras se restablecía el sistema no se evidencio la causa de la falla, fue necesario verificar en los segmentos, Adrián Narváez bloque la RTD del segmento mencionado y la unidad queda normalizada, luego de esto se normalizan las comunicaciones de la IHM y el sistema SCADA.
+El dia 08/11/2016 a las 7:49 am se presenta paro rápido de la unidad 1 utilizando las ayudas en visualización de IHM y sistema SCADA se evidencia la avalancha del evento NIVEL ALTO TCCS LIT2 el cual sale continuamente desde el día 06 de noviembre, se realiza ajuste del sensor de nivel en el rango de nivel alto para evitar la avalancha de este evento. Los realiza el instrumentista Adrián Narváez desde esta fecha no se presentan más eventos por esta variable además de salidas de la unidad.
+Realizado por Wtobonl
+
+
+
+
+
+
+
+

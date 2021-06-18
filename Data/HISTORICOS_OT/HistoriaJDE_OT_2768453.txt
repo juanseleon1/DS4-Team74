@@ -1,0 +1,23 @@
+
+ORDEN DE TRABAJOS DE LA INSPECCIÓN MAYOR MECÁNICA DE LA UNIDAD P32
+*****************************************************************************************************************************************************************************************
+PROGRAMADOR: oparrab PLANEADOR: Hector Gomez FECHA: 2015/05/17
+
+los trabajos no se pueden iniciar el día propuesto por realización de las pruebas de y medidas de run out, por tanto los trabajos de inspección mayor se atrazan.
+Se inicia con desmontaje de tapas del estator.
+El 18 de mayo se desmontan todas las tapas del estator para iniciar su inspección.
+El día 19 de mayose realiza inspección visual a la parte trasera del estator, encontrandose excesivo polvo, sobrantes de varilla de soldadura, partes con puntos de corrosión y otras con pintura insuficiente, turcas de unión de los tercios sin pintura y pines de soldadura mal aplicados; se desmonta radiador del sistema de refrigeración.
+El día 20 de mayo se inicia limpieza de la parte trasera del estator, se corrigen puntos de corrosión, se realiza pintura a sitios faltantes y los encontrados con corrosión, se fija cable perteneciente al sensor de temperatura del estator con resina, (aún no se inicia tarea de mantenimiento e inspección de cojinetes debido a que no han terminado pruebas de run out).
+El 21 y 22 de mayo Ss continua con las labores del día anterior, (se continua a la espera de de la entrega de la máquina para iniciar con la inspección de los cojinetes).
+El día 23 de mayo se instala el radiador y se continua con labores de limpieza en el generador.
+El día 24 de mayo se limpia el aceite del recinto del cojinete inferior y se inicia con la inspección desacoplando tuberias, tapas, se desmontan los segmentos guias y se les realiza rasqueteo (pulir), limpieza a los sellos del eje 
+(pelos de ballena), corrección de las tuercas y guis de la tapa del cojinete, soldadura a tuercas que unen los tercios del estator, llenado de radiadores.
+El día 25 de mayo se continua con la inspección del cojinete inferior, se inicia con la limpieza de la parte trasera del rotor, se levanta rotor, se destapa la escotilla de inspección de y se seca la cuba para realizar inspeccion de los segmentos de carga, se instalan los sellos de vapor de aceite del eje (pelos de ballena). Se retira el aceite del cojinete superior y se desacoplan tuberias (no se permite realizar inspección al cojinete superior)
+El día 26 de mayo Se realiza soldadura a soportes topes de la mensula superior para evitar algun movimiento de los pines de esta. Se inspeccionan nuevamente los egmentos de carga en compañia de personal de Toshiba, Se lubrican las cuñas y se revisan los trapecios del rotor, se levanta la tapá del cojinete superior y se le instalan los rodamientos, se adecua zona para la inspección de los segmentos del cojinete superior, se inicia llenado del cojinete inferior.
+El día 27 de mayo se culmina el llenado de aceite del cojinete inferior, Se desmontan segmentos y se rasquetean (pulir, quitar rebaba), Se realiza limpieza del espejo del eje, las guias de la tapa del cojinete superior se encontraron deformadas y con signos de maltrato e ingreso a fuerza, por tal motivo fue necesario fabricar unas nuevas.
+El día 28 de mayo se toman medidas de aislamiento a cada uno de los segmentos guias superiores, se instalan nuevamente los segmentos con sus respectivos bafles realizando el cocido de los cables y realizando medida de aislamiento final, se instalan las guias de la tapa del cojinete superior, esta tapa se debe dejar sin un tornillo ya que la perforación se encuentra despalazada (al parecer en su armado se instalaron primero los tornillos y despues las guias, por esto las guis se encontraron deformadas).
+El 29 de mayo se instala tapa que cubre uno de los tercios del estator, se realiza limpieza de la parte externa del estator, se realizan pruebas del cojinete inferor con bombas trabajando y se normalizan los niveles de aceite agregando 100 litros de shell turbo T46, se agrega aceite al cojinete superior y se realizan pruebas recirculando el aceite con las bombas del sistema, se toman medidas de nivel y se encontraron normales, se inicia limpieza de toda la superficie de la máquina.
+El día 30 de mayo se desmonttan tapas de sello de aire de los polos para inspección de los sensores air gap (enttrehierro) superiores e inferiores, se encuentran los cables de estos sensores sin fijación al estator, se les aplica silicona de alta resistencia y dielectrica para asegurarlos, se instalan nuevamente las tapas y se culmina con la limpieza de la máquina, se realizan pruebas a los subsistemas y se entrega la máquina.
+
+OSCAR IVAN PARRA BOTERO.
+  

@@ -1,0 +1,36 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO1091______________
+
+PRESION DE ACEITE (PSI) 553 Kpa___________
+
+TIEMPO DE TRABAJO (min) 20________________
+
+TEMPERATURA DE ACEITE (°C) 82________________
+
+TEMPERATURA AGUA (°C) 80________________
+
+VOLTAJE DE SALIDA 480 V_____________
+
+CICLOS POR MINUTO 60 Hz_____________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones: Nivel tanque acumulador de combustible a 1120 mm, el aceite aparentamente 
+esta quemado necesita analisis, para definir cambio, se requiere pintura para el exosto, para evitar
+corrosion.__________________________________________________________________________
+__________________________________________________________________________________
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

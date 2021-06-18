@@ -1,0 +1,17 @@
+17/03/2016 - 23:00
+Se encuentra instrumento que marca las horas al parecer defectuoso, pues despues de hacer seguimiento en los días 15, 16 y 17 de marzo se encoentro lo siguiente:
+15/03/2016  arrojó una lectura de 26408.39
+16/03/2016  arrojo una lectura de 26408.39
+17/03/2016  arrojo una lectura de 26416.81
+
+La Unidad el día  15 de marzo trabajo 14:26 horas no suma
+ 16 de marzo trabajo 18:04 horas
+ 17 de marzo trabajo 17:37 horas
+Total horas    35:41 horas
+
+En realidad la medida deberia haber dado 26443.8 horas, el instrumento se encontró pegado se requiere calibración.
+
+18 DE MARZO DE 2016
+Se revisa instrumento y se reaprieta los bornes de conexion, se mide voltaje y queda el instrumento registrando las horas de la unidad.
+
+Atendió: William Lopera

@@ -1,0 +1,22 @@
+MAYO 29  DE 2019    OT NÚMERO: 3837806     PROGRAMÓ: JGUINGUL     EJECUTARON: ALEXANDE VILLA - ANDRES YEPES
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de: Lado GeneradorEquipo 80°C 100°C 120°CMetal 78.39 98.37 118.36Aceite 78.28 98.37 118.36Valor programado Alarm:Metal: 75°C / Aceite: 66°CValor programado DisparoMetal: 81°C / Aceite: 72°CComentarios:Sin novedades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+

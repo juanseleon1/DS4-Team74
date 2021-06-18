@@ -1,0 +1,10 @@
+
+
+2018/10/08 OT:3772885 EJECUTO:  Victor Zuleta / Luis Eduardo Arcila
+Presenta falla mecánica en el transcurso de un tiempo determinado al momento de dar paro. Se encuentra falla en la unidad taquimétrica 29N1 asociada al relé > al 90 % por contacto cerrado en cada momento. Se cambia unidades taquimétricas por controladores RED LION, y se realizan pruebas de arranque y paro para confirmar las conmutación de los relés en cada sistema según la salida correspondiente.
+
+
+
+
+
+

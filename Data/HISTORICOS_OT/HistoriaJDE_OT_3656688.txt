@@ -1,0 +1,6 @@
+JULIO 30/2018 OT: 3656688  PROGRAMO: JGUINGUL  EJECUTARON: ANDRES YEPES - ALEXANDER VILLA
+Se realiza limpieza del tablero Regulador de Tensión Unidad 1, verificación de cableado, estado de los componentes eléctricos y electrónicos; todo se encuentra en normal funcionamiento.
+
+
+REVISAR EL REGULADOR DE TENSION DE LA U1 NIQUIA ,
+REPORTO: HECTOR RAMIREZ

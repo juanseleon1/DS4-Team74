@@ -1,0 +1,21 @@
+SOLICITANTE:
+FAVOR REALIZAR REVISIÓN E INSPECCIÓN DE EQUIPOS  EN LA CENTRAL RIOGRANDE 1. SOLICITO GRABRIEL JAIME ESCUDERO.
+
+Febrero 18  de 2014
+
+Se dio cumplimiento al cronograma de inspección y revisión de los equipos de la central de Riogrande I de acuerdo con el programa estipulado para tal fin. "Turno A"
+El  nuevo vigilante se llama Alxander Sepulveda :
+1) Los # telefonicos de tasajera y de la central Niquia 
+2) Se le enseño los pasos para preparar la unidad 1cuales:
+a- En el tablero siemens tablero de control unidad tcu
+b- Colocar la perilla a local manual
+c- Subsistemas - sistema de lubricacion (control de sistemas bonba 1 encender ON. Esperar 15 " para que el nivel aceite de cojinete de empuje suba 14, 05 cm
+d- Se revisa el sub, se abre puerta para refrigeracion, se revisa el dispositivo de sobre velocidad y se mirar todos los reles que no esten alarmados.
+
+En el grupo auxiliar tambien se le dieron las indicaciones y se le iso mucha enfasis en que si NO esta seguro por favor llamar a los numeros telefonicos que se le dejaron.
+
+
+Informó: Carlos Esteban Ortiz  (Turno A)
+
+RUTAS DE INSPECCIÓN PLANTA MENOR RIOGRANDE IFECHA: Diciembre 26 de 2013ACEITES COMENTARIOMAQUINA AUXILIARNivel aceite cojinete 1 turbina Normal Nivel aceite cojinete 2 turbina Normal Nivel aceite cojinete 1 generador Normal Nivel aceite cojinete 2 generador Normal Nivel aceite superior regulador de velocidad Normal Nivel aceite inferior regulador de velocidad NormalUNIDAD Nro. 1Nivel aceite cojinete de empuje Normal Nivel aceite tanque de lubricación Normal Nivel aceite válvula de alivio Normal Nivel aceite tanque auxiliar de lubricación Normal Nivel aceite tanque sumidero Normal Nivel aceite tanque acumulador (amarillo) Normal Nivel aceite cuba transformador de potencia fase R Normal Nivel aceite cuba transformador de potencia fase S Normal Nivel aceite cuba transformador de potencia fase T NormalAGUAS Testigo fugas unidad Nro. 1 por  la parte inferior V AD Compuerta del rodete NormalENERGIAVoltaje de carga baterías subestación-generación (136 VDC) NormalPRESIONESTubería de presión unidad Nro. 1 30. 15 BarTubería de presión máquina auxiliar 17.338 BarCompresor de servicios generales NormalPLANTA DIESELNivel aceite del motor NormalNivel de combustible NormalNivel de agua en el radiador NormalINFORMO: Carlos Esteban Ortiz  (Turno A)  Se le informo a fernando yepes, para estar atento a estas fugas (auxiliar)
+ACTIVIDADES PLANTA MENOR DE RIOGRANDE IACTIVIDAD FECHA COMENTARIOVerificar voltaje baterías 125 VDC y voltajes UPS FEBRERO 18 2014 BuenoVerificar niveles de agua y aceites FEBRERO 18 2014 BuenoVerificar alarmas y eventos Scada y Reivax FEBRERO 18 2014 BuenoArrancar bomba 2 lubricación cojinetes FEBRERO 18 2014 BuenoArrancar bomba 2 lubricación forzada FEBRERO 18 2014 BuenoArrancar bomba 2 regulador de velocidad FEBRERO 18 2014 BuenoArrancar compresor 2 regulador de turbina FEBRERO 18 2014 BuenoArrancar ventilador de respaldo puente 1 Reivax FEBRERO 18 2014?Arrancar ventilador de respaldo puente 2 Reivax FEBRERO 18 2014 BuenoVerificar existencia de ACPM, estopa, grasa y aceites: 32, 46 y 68 FEBRERO 18 2014Realizar ronda por cámara de válvulas NO INFORMO: Carlos Esteban Ortiz (Turno A)  No SE  Miro en Camara de Valvula por falta de tiempo, si hay estopa y grasa guardad Fernando Y

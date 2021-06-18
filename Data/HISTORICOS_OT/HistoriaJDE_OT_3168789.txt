@@ -1,0 +1,109 @@
+
+OT PADRE DE LA REPARACIÓN DE LA FUGA DE AGUA PRESENTADA EN LA COMPUERTA DE GUARDA DE LA DESCARGA INTERMEDIA
+
+FECHA EVENTO: 4 DE JULIO DE 2016
+
+PLANEADOR: SANTIAGO RAMÍREZ - RENATO MONTOYA (E )
+PROGRAMADORES: 
+ MECÁNICO: OSCAR IVAN PARRA
+ ELECTRICO: DANIEL PALACIOS 
+ ELECTRÓNICO: CARLOS SANCHEZ
+
+INFORMES GENERALES DE AVANCES REPORTADOS EN LA BITACORA DE OPERACIÓN DE P3:
+
+JULIO 4
+
+El día lunes 4 de julio, se iniciaron las pruebas operativas con agua muerta de la compuerta plana de descarga de fondo de la presa de Porce 3, con el objetivo de verificar su correcto funcionamiento para los trabajos programados de reparación en el talud del embalse.
+
+Se dio orden local de cierre desde la IHM de control, la cual opero normalmente hasta su cierre total. Posteriormente se dio orden de apertura y durante su recorrido presento falla por el prensa estopa ocasionando fuga de agua. La presión de esta fuga causo daños graves en los tableros de control y potencia de las compuertas de descarga de fondo (plana y radial), como también inundación en la minicentral, afectando los tableros de potencia, control y generador.
+
+La fuga continúa por la compuerta plana; en la minicentral se controló la inundación con las bombas de drenaje y esta continuara indisponible hasta verificar e inspeccionar sus equipos.
+
+Queda abierta la válvula de caudal ecológico. Igualmente quedan abiertas las puertas de acceso al recinto de la compuerta radial para evacuar el agua de la fuga, evitando así que se inunde nuevamente la casa de máquinas de la minicentral.
+
+REALIZO: EQUIPO DE OPERACIÓN Y MANTENIMIENTO UOP
+INFORMO: JORGE RODRIGUEZ - RENATO MONTOYA - OSCAR ADRIAN DUQUE - FEDERICO ALVAREZ - CARLOS SANCHEZ
+
+
+JULIO 10
+
+REFERENTE A LA DESCARGA INTERMEDIA PRESA PORCE 3: 
+Debido a la falla presentada en la compuerta de guarda el pasado 4 de Julio y a la dificultad de contener la fuga de agua (2 m^3/s aproximadamente); se dio inicio a un plan de reparación con acompañamiento de la unidad de Operación y Mantenimiento (Gen ENE) y el CET Estudios, el cual consta inicialmente de 2 etapas: 
+
+Etapa 1: Verificar origen y causa de la fuga y realizar pruebas operativas a la compuerta radial;
+Etapa 2: Planeación y ejecución de la reparación de la fuga, según los resultados de la etapa 1.
+
+Para la etapa 1 se ejecutaron las siguientes actividades (Julio 5-Julio10):  
+- Reducción de salpique de agua a la estación hidráulica mediante carpas.
+- Instalación de un control provisional de potencia de la estación hidráulica (motores y servoválvulas) y señal de los transductores de presión y posición de la compuerta radial.
+- Instalación de iluminación en puntos estratégicos: estación hidráulica, fuga en la compuerta de guarda, recinto de la compuerta radial y zona de acceso al recinto de control de las compuertas. 
+- Fabricación e instalación de soporte para instrumento de medición de velocidad del viento.
+- Corte de rejas en pasillo de aireación para facilitar ruta de evacuación.
+- Instalación de puntos de anclaje y líneas de vida para circulación hacia la estación hidráulica y el recinto de la compuerta radial desde el punto de control provisional y desde allí, hasta el exterior del túnel de acceso.
+- Pruebas de control de la estación hidráulica y verificación de calibración de válvulas de seguridad y caudal.
+- Coordinación con el equipo ambiental las actividades de control ambiental antes, durante y después de realizadas las descargas de agua a través de la compuerta radial durante las pruebas operativas.
+
+Resultados etapa 1:
+- Se logró evidenciar que la causa de la fuga fue la falla de los pernos de sujeción del porta sellos de entrada del vástago del servomotor al bonete, a causa de sobre carrera del servomotor.
+- Hoy, domingo 10 de Julio, entre las 12:15 y 13:15 se realizó protocolo de alarmas sonoras de vertimiento aguas abajo de la presa y entre las 14:10 y 15:20 se abrió la compuerta radial en escalones del 10% hasta el 100% de apertura, descargando un caudal máximo de 267 m^3/s y un promedio de 142 m^3/s (nivel del embalse 659 msnm, caudales según tabla de diseño). Para cada porcentaje de apertura se registró valores de presión hidráulica en la estación, en las cámaras del servomotor, posición de la compuerta, velocidad del viento en el túnel y señal dinámica de presión en el servomotor por medio de un analizador de vibraciones. Los valores registrados y la apreciación cualitativa permiten concluir que la compuerta puede abrir y cerrar, incluso hasta el 100% por medio del control provisional instalado, siempre y cuando se mantengan las condiciones de aireación actuales (puertas abiertas del recinto de la compuerta radial). Las válvulas de salida de aceite desde la estación hidráulica hacia el servomotor de la compuerta radial se dejan cerradas por seguridad (111.1 y 111.2).
+
+Ejecutó: Gerencia Región Noroccidental, Unidad Operaciones Porce, Unidad Operación y Mantenimiento Generación Energía, CET Estudios y Unidad Gestión Ambiental.
+Informó: Santiago Ramírez. OT padre: 3168789
+
+
+JULIO 28
+
+Referente a la compuerta de descarga intermedia presa Porce 3:
+Después de realizadas las pruebas operativas de la compuerta radial con el control provisional el pasado 10 de Julio, se inicia con un plan de sellado de la fuga en la compuerta plana. A la fecha, se disminuyó la fuga en un 90% aproximadamente. Esto se logró introduciendo al interior de la caja de la compuerta esferas y cilindros de madera abarco de diámetro 95mm y esferas de caucho de 95mm, 50mm y 20mm de diámetro. Para inyectar estos elementos, se realizó una perforación en caliente de 6 pulgadas con acompañamiento de personal técnico de la unidad de mantenimiento de GAS  y un taladro hidráulico especial para este tipo de perforaciones. El orificio quedó aislado con válvula de bola (ANSI CL300). También se diseñó un dispositivo bridado para impulsar los cuerpos al interior de la caja. Para propiciar una mejor distribución de los elementos introducidos para sellar la fuga, se bajó la compuerta plana 40 cm aproximadamente por medio del control provisional. (Se dejan cerradas las válvulas de alimentación del servomotor). Finalmente, para lograr deflectar la fuga remanente, se instaló dos estructuras en chapa de ¾ con forma de H al interior del alojamiento del porta empaques desprendido. Con el resultado obtenido se concluye que se podrá iniciar las actividades de reparación del porta empaques, con la premisa de no tener que vaciar el embalse. 
+Ejecutó: Equipo de mantenimiento de la unidad operaciones Porce, Guadalupe, unidad operación y mantenimiento generación energía, CET estudios, unidad operaciones y mantenimiento GAS área metropolitana.
+Informó: Santiago Ramírez  
+
+AGOSTO 4
+
+Referente a la compuerta plana de descarga intermedia presa Porce 3: 
+
+Una vez reducido el caudal de la fuga de agua en la compuerta plana en aproximadamente un 90% el pasado 28 de Julio, se iniciaron labores para el reposicionamiento del porta empaques de entrada del vástago del servomotor a la caja hermética de la compuerta. Hoy a las 16:30 se logró posicionar y fijar el porta empaques en su sitio logrando la reparación de la fuga de agua. Para lograr esto se instaló un collarín prensado sobre el porta empaques por medio del cual, al bajar la compuerta 50cm aproximadamente, se logró posicionarlo a 2 cm de su posición final, finalmente se terminó de ajustar con 2 cilindros hidráulicos y se instalaron los 10 tornillos M10x80 GR10.9 con un torque de 85Nm. No fue posible instalar el oring en la cara inferior del porta empaques por lo que se planeará una intervención adicional sobre el porta empaques para inyectar una masilla sintética en la cavidad del oring. La compuerta plana queda en posición intermedia hasta lograr terminar la totalidad de la reparación. Se dejan las válvulas de alimentación del servomotor cerradas y el tablero de control provisional desenergizado.                                                                                                                     
+
+Ejecutó: Equipo de mantenimiento de la unidad operaciones Porce, Guadalupe, unidad operación y mantenimiento generación energía, CET estudios, unidad operaciones y mantenimiento GAS área metropolitana.
+Informó: Santiago Ramírez  Echeverri
+
+
+AGOSTO 11
+
+Referente a la compuerta plana de descarga intermedia presa Porce 3: 
+ 
+El pasado 4 de agosto se logró posicionar y fijar el porta empaques del servomotor en su sitio pero   al no poder instalar el oring en la cara de asiento con la tapa, quedó una fuga remanente. 
+Hoy, a las 14:30 se logró el sellado total de la fuga inyectando masilla de teflón en la cavidad del oring a través de una perforación realizada para tal fin. 
+También se instaló una válvula de 1/4 NPT para reinyecciones de la masilla en caso de requerirse. 
+La compuerta queda aún bloqueada hasta terminar las actividades pendientes de reparación y pruebas con el control provisional.                        
+
+Ejecutó: Equipo de mantenimiento de la unidad operaciones Porce, unidad operación y mantenimiento generación energía.                                                                                                         
+Informó: Santiago Ramírez  Echeverri.
+
+Pendientes:
+1. Sellar fuga remanente en el porta empaques (Agosto 11 OK)
+2. Desmontar dispositivo de inyección e instalar bridas ciegas y tapones en válvulas. (incluida válvula de inyección de sellado), retirar palancas de válvulas.
+3. Inspeccionar el interior de la caja:
+        a. Averiguar presión de sumergencia del video oscopio
+        b. Averiguar cómo llegar con la sonda hasta visualizar el vástago
+        c. Verificar que no exista obstáculos para subir la compuerta 
+4. Instalar tope mecánico 
+5. Cambiar sensores inductivos por microsuiches de fin de carrera 
+6. Integrar al control provisional la serie de protección de los microsuiches 
+7. Pruebas funcionales con el control provisional, verificando las seguridades instaladas.
+8. Rehabilitación del sistema de control 9. Pruebas funcionales con sistema de control definitivo
+
+AGOSTO 17
+
+Se desmonta dispositivo de inyección y se instalan bridas ciegas. Pendiente 2 Ok
+
+Se inicia estudio causa raiz de la falla con el acompañamiento de la unidad de gestión de activos.
+
+Se descarta el uso del video oscopio de la sierra debido a que en su manual especifica que la sumergencia máxima es de 3 m y como la presión al interior del bonete es de aproximadamente 70 mca, se concluye que el equipo no es apto para esta inspección. Pendientes 3a, 3b descartados.
+
+DICIEMBRE 26
+
+Los pendientes 3c, 4,5,6,7,8,9 serán atendidos en el 2017 para los cuales se elaboraran Ots nuevas. 
+
+Informó: Santiago Ramírez
+

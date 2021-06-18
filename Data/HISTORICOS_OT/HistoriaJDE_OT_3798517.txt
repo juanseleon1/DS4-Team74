@@ -1,0 +1,2 @@
+2019 -03-01 Victor Zuleta
+Se realiza OT para la instalación de instrumento de medidas para el monitoreo en el regulador de velocidad.

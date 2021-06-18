@@ -1,0 +1,5 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 30-04-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Realizar Aforo Liquido y Solido.

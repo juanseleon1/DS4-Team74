@@ -1,0 +1,3 @@
+DIONIS M. ZAPATA V. 02/04/2016
+
+Se cambio el modulo transductor FAFNIR del nivel de aceite del tanque de presion de la unidad 2 ya que no daba indicacion de nivel al controlador y la IHM y por consiguiente las bombas del regulador hidraulico no operaban en automatico, la indicacion local en el modulo esta buena, es la señal que trasmite por la red profibus la que estaba mala. 

@@ -1,0 +1,13 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo de los motorreductores de la bocatoma de Guadalupe 3
+
+
+Programador: Camilo Montagut - 04/11/2018
+
+Se realiza mantenimiento mecánico preventivo a los motorreductores de la botacoma de Guadalupe 3 (1 motorreductor compuerta plana y 3 motorreductores compuertas radiales). A continuación se realiza las actividades realizadas:
+
+- Drenado de agua y recuperación de aceite Omala 220 para caja reductora. Se encuentra gran cantidad de agua en los motorreductores de las compuertas radiales.
+- Inspección de sellos, acoples, retenedores y engranajes.
+- Engrase de elementos rotativos.
+- Limpieza general.
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,8 @@
+2014/09/18 GIOVANNY DIAZ - EDWAR LONDOÑO
+Se realizó inspección termografica en línea al CCM1, para lo cual se destapó la parte trasera del mismo, se evidenció lo siguiente: 
+CW3 PEINETA DE ENTRADA
+La temperatura de la peineta de entrada se encuentran en el nivel 3 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° =20.6°C, lo cual implica una deficiencia en la operación, se recomienda reparar tan pronto como sea posible. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación, se realizará extracción de la gaveta e inspección visual, el algunos casos con solo extraerla e insertarla se mejora el contacto. 
+CW4 PEINETA DE ENTRADA
+La temperatura de la peineta de entrada se encuentran en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° =14.4°C, hay una probable deficiencia en la operación, se recomienda reparar en la próxima parada disponible. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación, se realizará extracción de la gaveta e inspección visual, el algunos casos con solo extraerla e insertarla se mejora el contacto.
+CW1 PEINETA DE SALIDA
+La temperatura de la peineta de salida se encuentran en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° =30°C con respecto a las otras peinetas con iguales características, lo cual implica una deficiencia mayor en la operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación, Se realizó OT correctiva # 2603185

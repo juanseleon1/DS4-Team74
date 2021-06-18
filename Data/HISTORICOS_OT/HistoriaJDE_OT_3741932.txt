@@ -1,0 +1,12 @@
+05/07/2018 - 03:35.
+
+Por perdidas de señales que tienen que ver con la Presión de Aire en Frenos y Niveles de aceite de Cojinetes Superior y Turbina, se presentan dos salida forzada en la Unidad G32 de Guadalupe 3, a las 0:45 y 1:34 del 05/07/2018,  por lo que se requiere revisión, y mantenimiento correctivo en los sistemas de modulos link y multibarreras que reciben y envian las señales al PLC de la Unidad.
+
+Informa y realiza: Turno 3 - John Ochoa - Mauricio Caicedo - Wilson Arango
+
+POR PRESENTAR PERDIDA DE SEÑALES DE TEMPERATURA Y NIVEL DE ACEITE DEL COJINETE DE TURBINA, SE REVISAN MÓDULOS LINK DEL PISO DE TURBINA ENCONTRÁNDOSE NORMAL. SE PROCEDE A REALIZAR UN RESET APAGANDO LA LINK Y DESCONECTANDO EL INSTRUMENTO DE NIVEL DEL COJINETE DESPUÉS DE ENCENDERLO NUEVAMENTE SE NORMALIZAN LAS SEÑALES DANDO CONDICIONES DE ARRANQUE , SE GIRA LA UNIDAD HASTA ENERGIZADA Y LUEGO SE PROCEDE A SINCRONIZAR.                                                         
+INFORMA: UAIMER DIAZ J.
+
+
+
+

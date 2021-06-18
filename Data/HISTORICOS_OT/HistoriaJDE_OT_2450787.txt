@@ -1,0 +1,12 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+FEBRERO 11 \ 2014 OT: 2450787 PROGRAMÓ:  R JIMENEZ EJECUTÓ: JULIAN GIRALDO.
+Fue realizado el mantenimiento según el instructivo, GCP2E0017.
+Se realizaron las pruebas eléctricas a los motores.
+Ver registro en el archivo de Porce II.

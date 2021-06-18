@@ -1,0 +1,7 @@
+
+FECHA: MAYO 17 DE 2015 OT: 2770319
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Después de normalizar la línea 742 queda fallado el aerogenerador por comunicaciones, se encuentra en la Top Box el Mcb 102F3 disparado se cierra y se deja en servicio el AG.

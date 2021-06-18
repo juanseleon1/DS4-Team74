@@ -1,0 +1,7 @@
+MP ANUAL: -- 3556 COJINETE SUPERIOR U1 TR -- 3558 COJINETE INFERIOR U1 TR -- 3560 COJINETE TURBINA U1 TR -- 3584 ESTACION HIDRAULICA V/A U1 TR -- 3620 ESTACION HIDRAULICA U1 TR -- 3557 COJINETE SUPERIOR U2 TR -- 3559 COJINETE INFERIOR U2 TR -- 3561 COJINETE TURBINA U2 TR -- 3585 ESTACION HIDRAULICA V/A U2 TR -- 3621 ESTACION HIDRAULICA U2 TR
+
+Ot: 3588716 - Filtroprensado o aceite hidráulico estación hidráulica V/A- Programador: Camilo Montagut - 03/10/2017
+
+Se realiza  filtroprensado de 990 litros (aproximadamente) del aceite hidráulico mobil heavy medium 68 contenido en el tanque sumidero de la estación hidráulica de la válvula de admisión y en la tubería de presión del servo (mariposa) de la válvula de admisión. Se aprovecha y se realiza muestreo de aceite para su posterior análisis en el laboratorio. Se aprovecha y se realiza con ayuda del equipo de electricistas el cambio de los rodamientos del motor principal de la estación hidráulica.
+
+Ejecuta: equipo mantenimiento mecánico UOG

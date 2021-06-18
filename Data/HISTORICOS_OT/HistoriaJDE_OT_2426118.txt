@@ -1,0 +1,12 @@
+NOVIEMBRE 26/2013
+
+Se habilita la entrada de aire de forma automática para la recarga de presión del tanque acumulador. la salida para la activación de la electroválvula es la CH6-RIO09 MODULO 3.
+los valores de funcionamiento son:
+Nivel mayor a 870 mm y presión menor a 23.5 bar = inyecta aire
+Nivel patrón 800mm de aceite y presión mayor 24.5bar = para inyección aire
+Este control se habilita porque se instaló una nueva válvula para el paso de aire al acumulador (0-40bar), de marca "Danfoss". Se debe realizar una modificacion en el cableado de la valvula, puesto que la valvula anterior se alimentaba a 125VDC y la nueva valvula es de 110VAC.
+Se deja instrucción al grupo de operación que en la unidad 4 no se deben realizar maniobras de inyección manual al acumulador.
+Se dejara en supervisión este sistema y se implementara el cambio de válvulas en las otras unidades restantes. Esto con el fin de evitar salidas forzadas de las unidades por maniobras en los tanques acumuladores, puesto que es una accion delicada, lo cual a ocasionado disparo de las unidades por mala manipulacion de la inyeccion de aire.
+
+INFORMA: Uaimer Diaz - Oscar Arango
+EJECUTO:  Francisco Monsalve - Fredy Duarte

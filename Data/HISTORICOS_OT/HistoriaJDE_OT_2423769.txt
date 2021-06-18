@@ -1,0 +1,21 @@
+Se realizo mantenimiento preventivo, se optuvo los sigueitnes datos: 
+Febrero 06 de 2014
+Datos de Placa: 
+POT: 0.6 HP
+VOL: 440 VAC
+COR: 1.1 AMP.
+Datos de Operacion: 
+Voltaje: 
+RS: 457
+ST: 457
+RT: 460
+
+Corriente: 
+R: 0.9
+S: 1.0
+T: 0.9
+Arranque: 2.0
+
+Aislamiento: 1.07G
+
+Realizó: Ivan Suarez - Oscar Giraldo

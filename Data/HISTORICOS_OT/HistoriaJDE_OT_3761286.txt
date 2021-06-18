@@ -1,0 +1,29 @@
+AI: REALIZAR METROLOGIA TERMOMETRO COJINETE DE TURBINA U1
+FECHA PLANEACION MANTENIMIENTO: 03/09/2018
+NUMERO DE CONSIGNACION:
+
+N°OT: 3761286
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: NESTOR FABIAN OCHOA
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el miercoles 19 de septiembre de 2018 a las 07:00am
+
+
+19/09/2018
+
+Se ubicaron los puntos de inyección de la RTD (Cojinete de turbina) en el Tablero TCS, bornera BN31, bornes 60, 61 y 62. Se inyectaron valores de 50°C, 70°C y 80°C con el calibrador de procesos. Se compararon las lecturas en el instrumento a prueba contra el instrumento patrón. Se tomaron cinco lecturas en cada punto y se llenó el formato de registro de verificación que quedó almacenado en el servidor del área PORCE II. Se verificaron los puntos de alarma y disparo que están en 73°C y 83°C. Se analizaron los resultados y se rotuló el equipo según el procedimiento para ello.
+
+
+UEXPM = 0.135
+
+ERROR MÁXIMO = 0.78 
+
+
+Realizado por: NESTOR OCHOA 

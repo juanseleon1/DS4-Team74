@@ -1,0 +1,13 @@
+CE: BIENAL ELECTRICISTA, TOMA DE MUESTRA ACEITE EN TRANSFORMADOR PARA EL ANALISIS CROMATOGRAFICO GUADALUPE 3.
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+ENERO 30 DE 2018
+
+
+MARZO 1 DE 2018:
+Se extrae muestras de aciete cromatografica segun instructivo GAGPE0001, como mantenimiento predictivo y se envía al Laboratorio de Aceites de La Sub Estación Clombia para realizar el analisis Cromatografico.
+Programó: William Lopera.
+

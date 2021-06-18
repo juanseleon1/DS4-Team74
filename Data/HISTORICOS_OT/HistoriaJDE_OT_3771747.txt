@@ -1,0 +1,5 @@
+SOLICITANTE: OPERACIÓN CCCG G4/ARFECHA: 21/09/2018
+
+Cambiar el banco 1 de baterias existente, puesto que al realizar prueba de autonomia, las baterias no respondieron satisfactoriamente, midiendo un valor de 10VDC en menos de 5 minutos. Ademas instalar un nuevo banco 2 para mejorar la confiabilidad y el tiempo de autonomia.
+
+Oscar Arango.

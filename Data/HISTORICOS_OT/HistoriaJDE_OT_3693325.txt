@@ -1,0 +1,15 @@
+PLANEADOR:CESAR AUGUSTO GIRALDO RESTREPO
+PROGRAMADOR: WILLIAM LOPERA
+FECHA: 027/02/2018
+
+ASUNTO : MANTENIMIENTO PREVENTIVO Y CORRECTIVO
+
+ACTIVIDADES: 
+ LIMPIAR, APRETAR TORNILLERIA
+ IDENTIFICAR FUGAS
+ PRUEBAS DE AISLAMIENTO (IP, DA), RESISTENCIA OHMICA
+
+ABRIL 20 DE 2018.
+Se aprovecha por oportunidad y se saca fuera de servicio para cambio de empaque en una de las tapas superior de la cuba del transformador, el cual estaba presentado fuga de aceite por deterioro del empaque, se corrige, se recupera el nivel de aceite y se realiza pruebas de funcionamiento del relé buchholz, operando correctamente la protección del transformador, se normaliza y quedan los servicios auxiliares de 440 Vac de la planta normales.
+Realizó: Jorge Echeverri  Luis Fernando Correa.
+William Lopera.

@@ -1,0 +1,17 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 16-06-2017
+Tipo de mantenimiento: Correctivo
+
+ Inspección general del estado de la estación,  Descarga y verificación de datos de la estación,  Análisis de datos de estado del datalogger y transmisor, 
+ Cambio preventivo de transmisor,  Verificación de sistema de potencia y puesta a tierra,  Verificación de sistema de transmisión, Verificación del nivel de mira vs. sensor, Realización de aforo,  Diagnosticar modo de falla, causa inmediata y causa básica en la estación, Reparación sistema de transmisión, Reparación infraestructura civil o mecánica de la estación.                                    
+               
+               
+               
+               
+                
+              
+               
+                
+                
+                

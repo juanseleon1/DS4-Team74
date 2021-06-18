@@ -1,0 +1,141 @@
+24/07/2018
+OT DE BLOQUEOS ELECTROMECANICOS PARA MANTENIMIENTO ANUAL AUXILIAR RIOGRANDE Y RECOGER COSTOS DEL MANTENIMIENTO
+LUIS CARDONA
+
+22/10/2018 INFORME DEL MANTNIMIENTO (LUIS CARDONA)
+
+
+EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.
+DIRECCION PEQUEÑAS CENTRALES DE GENERACION DE ENERGIA.
+
+MANTENIMIENTO SEMESTRAL MAQUINA AUXILIAR CENTRAL RIO GRANDE
+2018/10/16 HASTA 2018/10/18
+
+Jefe de trabajo: Ing. Luis Enrique Cardona
+
+MANTENIEMIENTO ELECTRONICO E INSTRUMENTACION.
+Se atendió mantenimiento Anual de la Máquina Auxiliar Central Rio Grande 1, en la especialidad de electrónica con los funcionarios Alexander Villa Vélez y Andrés Mauricio Yepes, se ejecutaron las siguientes actividades y ordenes de trabajo:
+
+1. ESTATOR GENERADOR MA RG1 /Oct-17-2018 /1hora
+
+·Se realiza inyección de señal de temperatura con el calibrador de procesos y se activa Alarma - Disparo 
+
+Temperaturas de: Devanado Estator MA RG1  Equipo 30°C 60°C 90°C   Resistencia eléctricaTemperatura 1 30.97 60.80 90.66 112.7/4.36  Temperatura 2 Reserva 113.22/4.47  Temperatura 3 Reserva 111.29/2.92  Valor programado Alarma:80°C OKValor programado Disparo:90°C OKComentarios:T2 y T3 son reservas  
+2. COJINETE GENERADOR MAQUINA AUX RG1 /Oct-16-2018 /1.5hora
+
+·Se realiza inyección de señal de temperaturas con el calibrador de procesos y se verifica activación de Alarma y Disparo 
+
+
+Temperaturas de: Cojinete Generador MA RG1Equipo 30ºC 60°C 90°CTemperatura 1 29.25 59.28 89.34Temperatura 2 29.51 59.35 89.45Valor programado Alarma:No tieneValor programado Disparo:70°C OKComentarios:Pendiente programar valor de alarma
+3. COJINETE TURBINA MAQUINA AUX RG1 /Oct-16-2018 /1.5hora
+
+·Se realiza inyección de señal de temperatura con el calibrador de procesos y se verifica activación de Alarma y Disparo 
+
+
+Temperaturas de: Cojinete Turbina MA RG1Equipo 30ºC 60°C 90°CTemperatura 1 29.53 59.46 89.34Temperatura 2 28.56 58.49 88.56Valor programado Alarma:No tieneValor programado Disparo:70°C OKComentarios:Pendiente programar valor de alarma
+
+4. NIVELES DE ACEITE COJINTETES Y PUH /Oct-16-2018 /2hora
+
+·Se revisan sensores de nivel de aceite cojinetes, conexiones y conectores
+·Se repara sensor (conector de salida) de cojinete 1 turbina
+·Verificación de señal en el escada
+
+
+5. VÁLVULA DE ADMISIÓN /Oct-17-2018 /2hora
+
+Equipo: Válvula de AdmisiónInyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740.0987.51215.051622.562030.04
+·Instrumento 1: transductor aguas arriba
+·Presostatos:
+Presostato: aguas arribaSubiendo 16.84 barBajando 16.56 barPresostato: aguas abajoSubiendo 14.77 barBajando 14.41 barManómetro: aguas abajoPatrón Equipo10 bar 10 bar40 bar 40 bar
+·Se realiza limpieza a la válvula de Admisión y cojinetes /Oct-18-2018 /1hora
+Unidad hidráulica PUH /Oct-17-2018 /2hora
+
+
+Equipo:  PUHInyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740.23825.231250.231675.3020100.34
+·Instrumento 1: transductor PUH
+·Presostato: PUH
+Subiendo 10.3
+Bajando 9.1
+
+·Se realiza limpieza a la unidad PUH /Oct-18-2018 /2hora
+
+6. LIMPIEZA TABLEROS /Oct-18-2018 /1hora
+
+·RTU/5
+·TABLERO DE INDICACION VELOCIDAD
+
+MANTENIMIENTO MECANICO
+
+A continuación, se mencionan las actividades del mantenimiento anual realizadas en la unidad Auxiliar por parte del personal mecánico en la central Rio Grande. 
+El personal que intervino en el mantenimiento fue: 
+ Alexander Berrio 
+ Daniel Muñoz 
+ Carlos Salazar 
+ Wilson Vargas 
+ Dany Santamaria 
+
+UNIDAD AUXILIAR OT: 3764775 
+Se realizo mantenimiento anual a la unidad auxiliar. Se limpiaron las agujas de los inyectores, se realizó inspección de la turbina con líquidos penetrantes, ésta se encontró con mucho desgaste en la arista media de los cangilones y en las puntas, se aplicó soldadura en las puntas y se recuperó perfil hidráulico con pulidora. Se destaparon los cojinetes y se realizó una inspección visual, se encontraron en buenas condiciones, los cojinetes de turbina se encontraron un poco sucios los cuales se limpiaron y se les cambio el aceite por aceite nuevo. La unidad en la parte mecánica se entregó en condiciones óptimas de funcionamiento. En este mantenimiento se reparó la reja del tanque desarenador y se soldaron unas láminas de alfajor en la base del tanque. 
+NOTA: se recomienda para el próximo mantenimiento anual reparar las aristas medias de la turbina, tener presente programar más tiempo para el mantenimiento. 
+
+TRABAJOS CORRECTIVOS 
+TANQUE DE CARGA UNIDAD AUXILIAR OT: 3623128 
+Se aprovecho el mantenimiento anual de la unidad auxiliar y se dreno el agua del tanque de carga, se cortaron 3 tramos de lámina de alfajor de 80cm de ancho por 60 cm de alto. Se llevo una planta electrica prestada de la unidad de montajes de la 30 y se conectó equipo soldador. Las láminas se soldaron a la estructura metálica del tanque con soldadura 6011. 
+TANQUE DE CARGA UNIDAD AUXILIAR OT: 3715289 
+En el tanque de carga de unidad auxiliar se retiraron 3 tramos de rejas que estaban en muy mal estado y se reemplazaron por una reja en mejores condiciones que consiguió el señor Nelson Correa. Esta reja se aseguró con alambre y algunos puntos de soldadura. Para esto se llevó una planta eléctrica que se solicitó prestada en la unidad de montajes.
+
+MANTENIMIENTO ELECTRICO
+
+Recurso Humano:
+
+Electricistas:
+
+·Sergio Echeverri
+·Wilson Cano
+·Joan Gomez
+
+Líder Eléctrico:
+
+·Alejandro Arboleda.
+
+
+Líder mecánico:
+
+·Anderson López
+
+
+Ingeniero jefe de trabajos: 
+
+Luis Cardona 
+
+Días laborados: del 16 al 18 de octubre del 2018
+
+CONTENIDO DEL INFORME: toda la información anexa en OW de los trabajos realizados en el mantenimiento anual de la unidad auxiliar de la central rio grande
+
+UBICACIÓN DE LA CENTRAL EN INTERVENCIÓN: límites de don Matías con santa rosa de osos
+
+JUEVES 18 DE OCTUBRE DEL 2018 OT: 3765063 PROGRAMO. ALEJANDRO ARBOLEDA EJECUTA: WILSON CANO, SERGIO ECHEVERRI, JOAN GOMEZ
+
+MANTENIMIENTO ANUAL
+
+SE REALIZA MANTENIMIENTO SEMESTRAL DEL ESTATOR DE LA UNIDAD AUXILIAR DE LA CENTRAL RIO GRANDE EL CUAL CONSISTIÓ EN LIMPIEZA, MEDIDAS Y AJUSTES, SE REALIZA DESCONEXIÓN DE BORNES PARA TOMAR LAS MEDIDAS, NO SE ENCUENTRAN MEDIDAS FUERA DEL RANGO LAS CUALES PERJUDIQUEN SU OPERACIÓN. SE REALIZA CAMBIO DE ESCOBILLAS, AJUSTE DE PORTA ESCOBILLAS.
+FASE / FASES A TIERRA LECTURA 1MIN LECTURA 10 MIN IP 10/1MINX/YZ5.62 G8.57 G 1.52Y/XZ3.18 G6.08 G 1.91Z/XY2.47 G4.84 G 1.96
+R: 595 nA - 12nF
+S: 839nA - 16nF
+T: 106nA - 17nF
+EQUIPO EMPLEADO: MEGUGER MIT1025
+VOLTAJE APLICADO VDC
+TEMPERATURA: 30°
+RESISTENCIA ÓHMICA DEL ESTATOR 
+FASE RESISTENCIAR 742.5 mS 748.8 mT 747.6m
+SE REALIZA MANTENIMIENTO PREVENTIVO AL ROTOR DEL GENERADOR DE LA UNIDAD AUXILIAR DE LA CENTRAL RIO GRANDE, A LA CUAL SE LE VERIFICA SU ESTADO FÍSICO, LIMPIEZA CHEQUEO DE ANILLOS LOS ANILLOS SE ENCUENTRAN CON DESGASTE SE SUGIERE BAJARLOS Y RECTIFICARLOS, SE HACEN MEDICIONES Y PRUEBAS ELÉCTRICAS. SE PROCEDE A NORMALIZAR EL SISTEMA PARA SU CORRECTA OPERACIÓN
+
+ROTOR A TIERRA LECTURA 0.5 MIN LECTURA 1 MIN DAR IP= MIN/0.5 MIN106 M295 M 1.06
+173 mA - 14nF
+
+EQUIPO EMPLEADO: MEGGER
+VOLTAJE: 500V
+TEMPERATURA 30°C
+RESISTENCIA DE MEDIDA:  16.13 
+
+REGISTRO FOTOGRAFICO

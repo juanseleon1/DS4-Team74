@@ -1,0 +1,10 @@
+SOLICITADA POR: GUSTAVO QUINTANA Y ORLANDO CORREA
+FECHA: 22/09/2018
+
+SE ESTÁ ALARMANDO CONSTANTEMENTE EL SISTEMA DEL TPU UNIDAD G32, SE RESETEA Y AL POCO TIEMPO SE ALARMA DE NUEVO.
+
+
+OCTUBRE 4 DE 2018.
+Se aprovecho el paro de cadena y se hizo mantenimiento a los dos interruptores de la transferencia por estar presentando alarma constante en los contactos de posición, lo que ocasionaba que se alarmara en falla sistema, se limpian los contactos de potencia, se hacen pruebas de apertura y cierre de modo manual operando correctamente el control.
+Realizó: Sergio Areiza - Tatiana Almario.
+Informó: William Lopera.

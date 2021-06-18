@@ -1,0 +1,24 @@
+2017/10/29
+SE SOLICITA REDESPACHO PARA REALIZAR AJUSTES Y HABILITAR  REGULADOR DE TENSION AVR1  POSICIÓN SET POINT AVR1 PERDIDA DE MEDICION.
+INFORMA : FEDERICO MONTOYA - CARLOS ADRIAN NARVAEZ
+
+
+29/10/2017
+
+En el regulador de tensión (TRE) se encuentra descalibrado  el AVR1 en la señal de consigna voltaje excitacion, se ajusta y verifica el lazo de tension de este AVR1 y se encuentra desajustado el transductor UV30 se ajusta y realizan pruebas de transferencia en los AVR´s . ademas se ajustan los lazos de este sistema VM_MIN en 93 y VL_SCL en 400
+
+ 
+Realizad por Wtobonl
+
+TERMINADA CERRAR 
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl
+
+
+
+

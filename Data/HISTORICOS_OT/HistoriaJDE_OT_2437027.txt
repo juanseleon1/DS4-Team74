@@ -1,0 +1,5 @@
+Solicitante:
+Se requiere revisar el control nivel de la unidad Herradura 1, luego de que la unidad para totalmente y después de arrancar la consigna de nivel por defecto se pone en 1183.00 msnm, en condiciones normales la consigna debe permanecer en 1184.50 msnm, por efectos de este evento la unidad no regula adecuadamente. 
+Solicito: Oscar López - Jeison Herrera
+
+CON EL FIN DE DAR CUMPLIMIENTO AL TIP CIERRE FIN DE AÑO 2013-ÓRDENES DE TRABAJO DE LA GERENCIA GENERAL SE PROCEDE A CERRAR ESTA OT, PERO TENIENDO EN CUENTA QUE LA TERMINACIÓN DE LAS ACTIVIDADES QUEDARÁN PENDIENTES PARA SER EJECUTADAS EN EL AÑO 2013, PARA LA CUAL SE ABRIRÁ UNA NUEVA OT EN EL SISTEMA DE INFORMACIÓN ONE WORLD 

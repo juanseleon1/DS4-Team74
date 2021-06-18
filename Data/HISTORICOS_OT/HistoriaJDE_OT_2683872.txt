@@ -1,0 +1,42 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE DAÑOS POR CAVITACION EN RUEDAS FRANCIS  
+CENTRAL:PLAYAS 
+
+UNIDAD N° :__3____
+
+RUEDA N° :______ 
+
+N° DE ALABES: 16 
+
+
+FECHA DE REVISION: DIA MES AÑO
+
+ANTERIOR  _____   ______   ______
+
+ACTUAL  _04____   __02____   __2015____ 
+
+Nº DE REPARACIONES: ________ 
+
+HORAS DE SERVICIO: HOROMETRO DE LA UNIDAD AL PARAR:_____________ 
+
+INSPECCION: 
+
+Nº DIMENSION (mm.) 
+ALABE  LONGITUD  ANCHO PROFUNDIDAD 
+
+5 165 54 2,540 180 58 3,549 175 65 360 210 55 3,59 215 65 345 218 60 4,535 235 70 4,513 240 85 7,558 250 55 4,547 185 55 444 215 60 4,564 210 45 329 240 58 4,516 215 55 52 225 65 4,526 260 56 5,5
+
+OBSERVACIONES:__ninguna ________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ 
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0013 

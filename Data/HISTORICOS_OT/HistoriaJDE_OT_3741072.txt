@@ -1,0 +1,4 @@
+
+JUNIO 282018 OT: 3741072  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+Se cambia el acople del generador, también fue necesario cambiar una de las veletas, se le adiciona agua al sistema de refrigeración. Se deja en servicio el aerogenerador.

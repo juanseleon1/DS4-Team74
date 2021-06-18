@@ -1,0 +1,25 @@
+
+2019/03/28 DIEGO BEDOYA
+Se realiza la inspecciòn de caudal de la motobomba debido a una corriente de trabajo baja y se obtienen los siguientes resultados:
+
+Caudal(Q): 3,8 m3/ min  = 1003 gal/min
+Velocidad: 1,9 m/s
+% Q: 120
+I: 89,7 A
+Presión: 4 Bar 
+
+se define desmontar el motor y sacar todos los cuerpos de la motobomba para verificar su estado, luego del desmontaje se evidencia que la rejilla de la parte inferior (por donde la bomba succiona el agua) estaba obstruida por pantano, lo cual no permitia el ingreso normal del agua necesario para que la motobomba trabaje en estado optimo.
+
+se deja la rejilla limpia y se monta nuevamente la motobomba se toman nuevamente los datos y quedan de la siguiente manera:
+
+Caudal(Q): 3,8 m3/ min  = 1003 gal/min
+Velocidad: 1,9 m/s
+% Q: 120
+I: 89,7 A
+Presión: 4 Bar 
+
+2019/03/28 VICTOR ZULETA
+Se realiza la desconexion y conexion de las señales de instrumentacion y control para la realización de los trabajos mecanicos. Se garantizan las señales en el scada tanto de temperaturas y vibraciones del equipo al momento de culminacion de las tareas programadas.
+
+2019/04/01 Victor Zuleta - Luis Eduardo Arcila
+se realiza desconexion para revision mecanica, se normaliza y se observa las señales en el scada de forma optima.

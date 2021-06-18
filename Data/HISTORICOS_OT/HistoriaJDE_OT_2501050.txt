@@ -1,0 +1,10 @@
+Paro rapido de la unidad por temepetarura alta cojinete superior. 
+Informa Grupo Operacion
+
+05/03/2014
+
+Se bloquea lel disparo y alarma de la RTD8 del cojinete superior la cual presenta problemas en su compensacion, solo se deja la visualizacion para evaluar su comportamiento.
+
+Realizado por Wtobonl
+
+TERMINADA

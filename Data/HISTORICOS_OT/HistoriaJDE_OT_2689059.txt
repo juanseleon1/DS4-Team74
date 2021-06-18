@@ -1,0 +1,8 @@
+2016/01/25 CARLOS ENRIQUE MONCADA
+ESTA OT SE CANCELA YA QUE SE REEVALUARA EL MP AUTOMATICO.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero control compuertas ritmeyer
+
+Realizar mantenimiento plc del tablero de control ritmeyer de las compuertas radiales, además de transductores de medida de las galerías y de la presa en torre de captación.

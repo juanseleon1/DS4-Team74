@@ -1,0 +1,30 @@
+AI: REALIZAR METROLOGIA MEGAVATIMETRO U1
+
+FECHA PLANEACION MANTENIMIENTO: 03/09/2018
+NUMERO DE CONSIGNACION: 147766
+
+N°OT: 3761335
+
+PLANEADOR: JORGE ROGRIGUEZ
+
+PROGRAMADOR: NESTOR OCHOA.
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el miercoles 19 de septiembre de 2018.
+
+
+19/09/2018
+
+En el proceso de calibración se simularon diferentes valores de corriente AC a la entrada del indicador. La variación de corriente de entrada del indicador de potencia equivale a un valor determinado de potencia en MW. Los valores de corriente fueron simulados por medio de una maleta trifásica balanceada de 120 VAC 60 HZ, los cuales fueron leídos previamente en dicho equipo. Para calcular matemáticamente la potencia en MW, se utilizó la formula , donde  e , que es la relación de transformación de los CTs; lo cual indica que con 10000 amperios a la entrada del CT, se obtiene un amperio a la salida del CT. Se generaron tres valores de 0.37 A = 70.0MW, 0.68 A = 130.0 MW, 1.0 A = 190.0MW. se llenó el formato registro de verificación que se almacenó en el servidor del área PORCE II. Se analizaron los resultados y se rotuló el equipo según el procedimiento para ello.
+
+  UEXPM = 0.023
+
+ERROR MÁXIMO = -0.70
+
+
+
+Realizado por:  NESTOR OCHOA

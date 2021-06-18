@@ -1,0 +1,17 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+03/12/2013
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento al regulador hidráulico, sin novedades.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador.
+Se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+
+AGUJA 1: 5.9Amp -142 mm  a 78% - 91 mm a  50% - 46 mm  a  25%
+AGUJA 2: 5.5Amp -125 mm  a 79% - 89 mm  a 50% - 45 mm  a  25%
+AGUJA 3: 5.9Amp - 147 mm a 76% - 98 mm a  50% - 49 mm  a  25%
+AGUJA 4: 5.5Amp - 146 mm a 77% - 95 mm a  50% - 48 mm  a  25%
+
+Se encuentra la instrumentación del regulador hidráulico en condiciones operativas normales.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Francisco Gonzalez - Fredy Duarte

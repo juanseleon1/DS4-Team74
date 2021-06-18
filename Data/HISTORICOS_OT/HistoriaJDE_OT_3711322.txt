@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711322
+
+BAE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JOHN JADER ORREGO.
+
+Se realiza mantenimiento, limpieza e inspección a los tableros eléctricos, acometidas, motores del sistema de refrigeración de agua cruda y agua tratada. Se realiza medición de aislamiento a los motores (4) y se llenan planillas. Los equipos se encuentran en condiciones normales.
+Trabajo realizado por: Jhon Jader Orrego, Frank Cordoba y Angel Sanchez.

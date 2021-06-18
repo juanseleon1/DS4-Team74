@@ -1,0 +1,24 @@
+2018/08/27 RUBEN ARBOLEDA
+El 2018/08/26 en horas de la noche se puso a funsionar la motobomba principal de lubricación forzada de la Unidad 5 con el fin de mover el rotor para instalar la rueda, ésta motobomba presentó un calentamiento y un olor a quemado; se crea esta OT para realizar la revisión. 
+
+2018-08-27 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3758555, PASO:1          
+Se realizó revisión general de la motobomba principal de lubricación forzada Unidad 5, se encontró falla en las bobinas del motor, los equipos oscilan entre KOhm y MOhm al momento de medir resistencia óhmica, se realizó medida de aislamiento en unas bobinas con 9MOhm, en otras  fases con 60MOhm, se realizó el desmonte del motor para cotizar reparación.
+
+2018/09/24 RUBEN ARBOLEDA
+De: Taller Palacio Rios [<mailto:tallerpalaciorios@hotmail.com>] Enviado el: lunes, 24 de septiembre de 2018 3:51 p. m.Para: RUBEN DARIO ARBOLEDA GOMEZ <Ruben.Arboleda@epm.com.co <mailto:Ruben.Arboleda@epm.com.co>>Asunto: COTIZACIÓN PARA REPARACIÓN DE MOTOR CENTRAL GUATAPE
+
+Buenas tardes,
+
+Cordial saludo...
+
+Envío cotización para la reparación de motor eléctrico weg trifasico 5HP, 220/380/440VOL, 1740RPM.
+Bobinar, suministrar y cambiar rodamiento 6307/ 6206ZZ y aplicar capa de pintura.
+Valor: $ 409.800 + IVA
+Tiempo de entrega: 10 días
+Garantía: 4 meses 
+Pago: .30 días fecha factura
+
+Quedamos atentos!
+
+2018-12-11 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3758555, PASO:2          
+Se realizó la instalación del motor de la lubricación forzada de la Unidad 5, queda pendiente probarlo.

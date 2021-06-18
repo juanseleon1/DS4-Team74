@@ -1,0 +1,5 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 25-06-2019
+Tipo de mantenimiento: predictivo
+Acciones de mantenimiento: realizar actividad de pruebas y conexion de la estacion climatologica el peñol en timepo real con radio enlace con el maestro ubicado en paramo

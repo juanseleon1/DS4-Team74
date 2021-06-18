@@ -1,0 +1,33 @@
+06/03/2017
+
+FALLA EN LA SECUENCIA DE ARRANQUE DE LA UNIDAD LA IHM SE APAGA Y REINCIA CONSTANTEMENTE, FAVOR REVIZAR SE TERMINA LA SECUENCIA DE ARRANQUE DE MANERA LOCAL 
+
+INFORMA TURNO 2 OPERACION 
+
+
+08/03/2017
+
+Se realiza verficacion de la IHM se encuentra que esta ha fallado antes y tiene una fuente provicional, se retira una nueva IHM para iniciar el proceso de instalacion para este sistema.
+
+Realizado por Wtobonl
+
+17/03/2017
+
+Se realiza instalacion de los programas de ABB para este sistema, aun se posee un problema con el BACKUP el cual se consultara.
+
+Realizado por Wtobonl
+
+22/07/2017
+
+Se instala esta IHM en el sistema TCF por presentar problemas. la IHM para este proceso se solicitara de nuevo al personal de almacenes para contiuar con la migracion de esta aplicacion.
+
+Realizado por Wtobonl
+
+terminada cerrar 
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl
+

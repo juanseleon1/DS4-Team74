@@ -1,0 +1,16 @@
+SOLICITANTE: TURNO 3/OPERACIÓN TRONERASFECHA: 28/09/2017
+
+Presentó "Disparo tierra rotor" = Paro de emergencia. La alarma es temporal y la unidad da condiciones inmediatamente luego del paro.
+
+28 DE SEPTIEMBRE 2017
+
+Referente a la unidad TR2: Se atiende solicitud de trabajo # 3610127, que informa la salida forzada de la unidad a las 10:11 horas, por presentar “ Disparo tierra rotor” . Se procede a realizar pruebas de aislamiento al rotor para descartar falla franca, dando como resultado los siguientes datos:
+ü Anillo superior con tierra: 6.49 G - voltaje recibido 518 Vdc
+ü Anillo inferior con tierra: 7.89 G - voltaje recibido 518 Vdc
+Se revisa el relé de tierra rotor después de normalizar quedando en máximo. Se entrega la unidad a las 12:00 horas para explotación comercial, ya que no se evidencian anomalías.
+Ejecutó: Mateo Pérez  Sergio Areiza  Carlos Andrés Forero
+Informó: Carlos Andrés Forero
+
+Referente a la unidad TR2: se procede a seccionar  los puntos de conexión de la excitación  para determinar la posible falla . Se detecta que en los aisladores  de la bornera de paso está contaminada por polvo de escobillas, se desconectan los cables  y se toman medidas ( medida inferior  a 20  k - 117 VDC ) las cuales no son las más satisfactorias , se realiza mantenimiento  y se realizan pruebas de nuevo .
+(medida superior a 23 G - 513 VDC )  respondiendo correctamente , se normaliza la unidad sincronizada  y conectada al sistema .   
+Ejecutó :  Mateo Pérez  Sergio  Areiza  Carlos Andrés Forero,  Informó : Carlos Andrés Forero

@@ -1,0 +1,10 @@
+
+FECHA: JULIO 21 DE 2015 OT: 
+
+EJECUTANTE: ELIECER PUSHAINA, ALVARITO PUSHAINA Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta falla por bajo nivel de aceite hidráulico, se inspecciona y se encuentra en la yaw aceite, se revisan los frenos y se encuentran el 3 y el 5 malos, se cambian por secciones con empaques viejos, se le adiciona 1 galón de aceite DTE24 y se deja en servicio.
+
+Después de los trabajos se presentan paros por vibración sensor error, esta alarma no borra solo se repone después de dar reset al RFC, se inspecciona en la góndola el PCH, se encontró un cable suelto en la regleta de borneras del conector (conector diferente al original), se procede a conectarlo y se deja en servicio el AG.

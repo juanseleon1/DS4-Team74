@@ -1,0 +1,2 @@
+2015/02/24 ADONIS CADAVID
+Se realizo proceso de bloque y desbloqueo de la unidad con el grupo de Operacion de turno, se entrego en condiciones normales. 

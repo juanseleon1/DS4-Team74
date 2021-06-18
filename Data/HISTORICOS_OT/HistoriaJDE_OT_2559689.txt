@@ -1,0 +1,4 @@
+SOLICITANTE:Anexo.  -   FECHA: Julio 05 del 2014                                                                                                               .EXISTEN  DOS  MÓDULOS  NOTIFER  SOBRE  GABINETE  PANEL  DE  CONTROL  WATER  SPRAY  TRADFOS,  IDENTIFICADOS  UNO  COMO  FALLA  Y  EL  OTRO  COMO  ALARMA;  EL  MÓDULA  DE  FALLA  SE  ENCUENTRA  ACTIVADO.  FAVOR  ATENDER.
+
+JULIO 05 2014
+SE HACE RESET EN EL TABLERO NOTIFIER Y QUEDA OPERANDO ok

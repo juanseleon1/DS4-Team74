@@ -1,0 +1,15 @@
+03/09/2017
+
+realizar mantenimiento anual segun instructivos
+
+
+05/10/2017
+Se realiza limpieza y verificación de los sensores de nivel alto, normal y bajo (402, 403 y 404) se realiza verificación de las señales en el PLC e IHM, se verifican los racores o fugas en los presóstatos y manómetros de la estación.
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+
+
+
+
+  

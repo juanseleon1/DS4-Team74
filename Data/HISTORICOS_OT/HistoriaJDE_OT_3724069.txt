@@ -1,0 +1,13 @@
+12/05/2018.
+
+SOLICITA: JIMMY CUARTAS - MARTA PARRA
+
+REVISAR FUGA DE ACEITE POR EL SRVOMOTOR DE LOS DEFLECTORES DE LA UNIDAD G35.
+
+17/05/2018
+
+Por presentar fuga excesiva de aceite a traves de las bridas del servomotor deflectores se consigna la unidad con bloqueos mecanicos (cierre de valvula ppl del tanque acumnulador y electricos (mandos de las motobombas en 0).
+Se derena el aceite de las tuberias y se procede a desmontar los tubos que accionan el servo encontrando la empaquetadura (papel humedo)deteriorada al parecer por la accion del aceite y la temperatura, se procede entonces a cambiarla por lamina de asbesto (sepco 200) de 1/16 pg de espesor.
+una vez montada la tuberia y normalizado el sistema acciona el servomotor inyectando acete en la camara de apertura y cierre no evidenciando fugas por las mencionadas bridas se entrega la unidad a operacion.
+Queda en observacion   
+

@@ -1,0 +1,7 @@
+2015/01/14 ALEJANDRO VERGARA
+SALIDA DE LA UNIDAD 6 POR LA ALARMA ALTA TEMPERATURA ACEITE COJ DE TURBINA SEÑAL U6-6.42
+PASA DE 55.4°C A 76.7 EN APROXIMADAMENTE 4 MINUTOS OCACIONANDO LA SALIDA DE SINCRONISMO
+
+JUNIO 28/15 JHON MARIO PEREZ AREANAS. 
+SEÑAL DE TEMPERATURA ACEITE COJINETE DE TURBINA UNIDAD 6
+Por oscilación de variable U6-6.42 Temperatura aceite cojinete de turbina, la unidad presentó indisponibilidad por desconexión automática en tres oportunidades el día 28 de junio. Fue necesario bloquear la señal para normalizar la unidad y evitar nuevas salidas.

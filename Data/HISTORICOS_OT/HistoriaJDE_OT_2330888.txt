@@ -1,0 +1,9 @@
+Realizar instalación para la sirena de emergencia de la planta de Porce 2.
+
+FECHA: 07/08/2013 OT# 2330888 PROGRAMADOR: JRODRIGL EJECUTA: DAVID ATEHORTUA
+
+Se instala caja de control de la sirena de emergencia en portería de la casa de máquinas de Porce II,
+
+
+
+Informa: Jorge Rodríguez

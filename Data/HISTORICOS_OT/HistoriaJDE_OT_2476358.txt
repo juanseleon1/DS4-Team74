@@ -1,0 +1,50 @@
+FECHA: 2014/02/22  SOLICITANTE: ANTONIO ARCILA
+REPARAR ALARMA DEL SCORPIO SISTEMA CONTRAINCENDIO QUE ESTA PRESENTE DESDE EL AÑO 2013 EN EL TRANSFORMADOR PRINCIPAL U3.
+ASIGNAR A INSTRUMENTISTAS.
+
+2014/02/26 SE VERIFICA EL SISTEMA SCORPION DEL TRAFO PRINCIPAL Y SE ENCUENTRA ALARMADO, POR FALTA DE BATERIAS EL CUAL SOLO TENIA UNA INSTALADA, SE TOMAN LOS DATOS DE ESTA PARA INICIAR LA COMPRA DE LAS BATERIAS RECARGABLES DE 12 VOLTIOS A 1.2 AH
+DIEXER CARO
+
+SE RECOMIENDA EL USO APROPIADO Y NECESARIO DE LOS DIFERENTES ELEMENTOS DE PROTECCIÓN PERSONAL. 
+HACER UNA ADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS GENERADOS. SEPARACION EN LA FUENTE 
+TENER PRESENTE LAS MEDIDAS DE SEGURIDAD (USO DE CASCO, GAFAS, ARNES, GUANTES), EQUIPOS SIN TENSION
+
+2014/03/15 SE RECIBE LA COTIZACION DE LA BATERIA Y SE ENVIA ACTUALIZAR EL CODIGO O.W:110664 ESTE SE ECUENTRA CATALOGADO EN EL ALMACEN A42 Y SU EXISTENCIA ES CERO A LA FECHA EN ESPERA DE QUE CATALOGACION ENVIE EL CODIGO ACTUALIZADO CON LAS ESPECIFICACIONES DESCRITAS E INICIAR EL REABASTECIMIENTO DEL ELEMENTO
+DIEXER CARO
+
+Buen dia por favor me colaboran actualizando el codigo 110664 BATERIA RECARGABLE 12V 1,2 AH  anexandole la especificaciones tecnicas  descritas 
+muchas gracias por su colaboracion 
+Cordialmente 
+Diexer Caro                                                                                                                  
+Bateria seca de alta eficiencia libre de Mantenimiento 12 voltios a 1.2Amp
+Especificaciones: 
+Tensión nominal de 12 voltios 
+Capacidad 1,2 amperios hora @ 20 , 20 horas nominal (cortar la tensión 1.75V/cell) 
+Dimensión L: 97 mm W: 43 mm H: 52 mm TH: 58 mm 
+Peso aprox. 0,55 kg o 1,21 libras 
+Resistencia interna Aprox. 95 m 
+Tasa de autodescarga aprox. 3% por mes a 25 grados centígrados 
+Dado de baja: de -15 a 50 grados Celsius (5-122 grados F) 
+De carga: 5 a 35 grados Celsius (41 a 95 grados F) 
+Rango de temperatura de funcionamiento 
+Almacenamiento: de 0 grados a 40 grados Celsius (32 a 104 grados F) 
+Flotante voltaje de carga 13,60-13,80 voltios (-15mV / grados Celsius) 
+Tensión de carga cíclica 14.50 to14.90 voltios (-20mV / grados Celsius) 
+Grosella máxima de carga 0,36 amperios (A) 
+Boost / carga de igualación No requerido 
+Tipo de terminal Cobre 
+Resina ABS general Material del recipiente 
+Norma de Fabricacion 
+UL94-HB, UL94V-0 & MT1212 12 voltios 1,2 Ah 
+UL94V-2 (tipos de retardantes de llama se podrían disponer).  
+Estandares de prueba 
+JISC, BS, 
+DIN, IEC
+2014/05/08 DIEXER CARO:
+ESTE ELEMENTO TIENE FECHA DE ENTREGA PARA EL DIA 15 DE MAYO   
+2014/06/19  JOSE PABLO HURTADO
+SE REPONEN LAS BATERIAS Y SE REALIZA EL RESET DEL TRAFO, QUEDA SIN ALARMAS                                                                                                                                                                                                                                                              
+
+ 
+
+

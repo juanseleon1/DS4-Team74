@@ -1,0 +1,12 @@
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+REALIZAR LOS AJUSTES NECESARIOS EN EL DISTRIBUIDOR, PARA NORMALIZAR LA VELOCIDAD DE LA UNIDAD A SUS 514 RPM.
+PROGRAMADOR: JOSÉ MONTOYA
+
+MAYO - 25 - 2017 -FABIAN GIRALDO - JEOVANNY CORREA 
+ 
+la unidad G41 en su proceso de arranque presenta una sobre velocidad de 550 rpm, y esta no permite rebajar su velocidad, siendo necesario parar la       unidad.
+MAYO - 25 - 2017
+se realiza ajuste de la posicion del distribuidor en la targeta AMP2 y queda trabajanado bien
+ejecuto grupo mantenimiento
+informa jose montoya

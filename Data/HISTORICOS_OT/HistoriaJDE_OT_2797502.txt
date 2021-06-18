@@ -1,0 +1,12 @@
+
+SOLICITANTE: EQUIPO METROLOGIA                  
+FECHA: JUNIO 18/2015
+REALIZAR VERIFICACION METROLOGICA A TRANSMISOR TEMPERATURA CT U4G3
+
+18/06/2015
+METROLOGIA TRANSMISOR TEMPERATURA CT U4G3
+Por oportunidad del mantenimiento Preventivo Cuatrimestral de la Unidad 4, se realizo la verificacion Metrologica con el calibrador de procesos inyectando señales de temperatura y comprobando el correcto funcionamiento en diferentes puntos de inyeccion (alarmas y disparos) y diligenciando el formato de los anexos de la OT, con 5 diferentes puntos de prueba. En la siguiente ruta se encuentra los datos consignados de la verificacion:
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTRO.VERIFICACION.GUADALUPE.3\UNIDAD.4.GUADALUPE.3
+
+Programador: Oscar Arango
+Ejecutante: Francisco Gonzalez

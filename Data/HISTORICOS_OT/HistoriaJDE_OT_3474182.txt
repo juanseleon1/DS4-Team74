@@ -1,0 +1,7 @@
+2017/05/05
+
+Abad Ramirez Giraldo.
+El seccionador 89T2.5 no abre por tener la bobina quemada o fallada de acuerdo con revision hecha por el ingeniero Adonis Cadavid y Edgar Barrera.
+
+SERGIO OLIVARES D.-- O.T.3474182 -- EJECUTORES:FERNANDO RUIZ A. -- EDWAR LONDOÑO O.
+Se hizo cambio del contactor de 125 VAC, 10 amperios, dejando normalizada la apertura y cierre del seccionador 89T2.5

@@ -1,0 +1,27 @@
+06/03/2017
+
+FALLA EN LA LA FUENTE DE Q80 DEL REGULADOR, CONSTANTEMENTE SE FALLA Y SALE ESTE EVENTO POR FALLA EN TENSION DE FUENTE. FAVOR VERIFIACAR
+
+INFORMA TURNO 1 OPERACION 
+
+
+08/03/2017
+
+Se realiza verficacion del sistema y  se realiza verificacion del sitema para verificar transitorios y ruidos en la tension de esta fuente de vigilancia, se realizara el cambio de esta por oportunidad.
+
+Realizado por Wtobonl
+
+
+20/03/2017
+
+Se realiza cambio de la fuente de verificacion V80 la cual se encontro fallada y el sistema queda normalizado, ademas se econtro la CIO 3 fallada .
+
+Realizado por Wtobonl
+
+terminada cerrar 
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

@@ -1,0 +1,21 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2014-06-16
+REALIZAR LAS SIGUIENTES TAREAS DE MANTENIMIENTO POR CUMPLIMIENTO DE 4000 HRS DE FUNCIONAMIENTO
+
+HORASACTIVIDADES 40001. Limpiar la carcasa del filtro de aire X OK2. Limpiar el compresor X OK3. Limpiar Aftercooller y Oilcooler X OK4. Limpiar trampa de condensados X OK5. Verificar nivel de aceite X OK6. Verificar conexiones eléctricas (torquear) X7. Verificar las funciones del Electronikon X8. Verificar recubrimientos térmicos y espumas X9. Verificar si se accionan las protecciones eléctricas X10. Verificar visualmente acople, correas X OK11. Verificar que no existan fugas de aire, agua y aceite X OK12. Verificar y revisar el sistema de regulación X13. Verificar el estado del ventilador principal X OK14. Verificar arnés y sensores de protección X15. Cambiar kit de filtros X OK16. Engrase de cojinetes motor principal X17. Mtto tablero eléctrico (contactores, cable, etc) X23. Cambiar las mangueras que se encuentran deterioradas X N/A31. Cambiar filtro variador X
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2014-06-18
+Se realiza mantenimiento según instructivo.
+Se realiza petrolizada a radiador con varsol.
+Se ajusta nivel de aceite Roto extend 5 litros.
+Se hace limpieza genral y se normaliza.
+Se cambia filtro de aceite y de aire.
+Pendiente del engrase de motor, averiguar quétipo de grasa, que cantidad se le debe adicionar y con que frecuencia.
+
+Compresor 2 se le adicionan 5 litros de aceite Roto extend.
+
+
+HORÓMETROS
+HORAS DE FUNCIONAMIENTO: 4020 HRS
+HORAS CON CARGA:   4019 HRS
+
+TRABAJO REALIZADO POR: CARLOS GUINGUER Y ALEX CALLE

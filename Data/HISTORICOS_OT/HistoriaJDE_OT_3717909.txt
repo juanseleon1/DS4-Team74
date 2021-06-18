@@ -1,0 +1,18 @@
+2018/05/23 _ CARLOS ENRIQUE MONCADA. OT N° 3717909.
+Se realiza mantenimiento general, limpieza y verificación del cableado encontrando las siguientes anomalías:
+patch cord de fibra desconectados en el swiche 100-200-300-400, RX y TX respectivamente, tierra floja, reloj con hora adelantada.
+Realizo: Eladio Piedrahita, Jeniffer García.
+
+
+
+XL: INSPECCIONAR Y LIMPIAR CONTROLADOR UNIDAD TCU DE LA UNIDAD
+
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

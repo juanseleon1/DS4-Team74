@@ -1,0 +1,28 @@
+
+2018/06/05 _ CARLOS ENRIQUE MONCADA. OT N° 3726064.
+Se realiza mantenimiento general, limpieza y verificación al cableado.
+Cuando se hace la transferencia a la planta diesel, esta entra normalpero no muestra medidas de voltaje en la IHM.
+En la celda N1 el borne 5 de la bornera X53 esta abierto.
+Se verifican medidas de temperatura del transformador así:
+1. 51 °C
+2. 55 °C
+3. 50 °C
+4. No cableada.
+Se encuentra fallado Z(221), se resetea y normaliza.
+Las medidas de voltaje Q1: 478.6 V / 478.4V / 480.2V.
+
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+
+MPGETPO: LIMPIAR, VERIFICAR Y CHEQUEAR CONTROL DEL PROCESO EN TRANSFERENCIA 13.8 Kv
+
+FECHA: 21/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA 
+
+ 

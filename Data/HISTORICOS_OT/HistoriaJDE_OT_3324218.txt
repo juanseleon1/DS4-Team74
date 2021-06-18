@@ -1,0 +1,8 @@
+11/24/2016
+
+SOLICITANTE: RAMIRO A TORRES.
+
+EN EL TABLERO DE CONTROL DE LOS TRANSFORMADORES (KA4), FALTA EL BOTON DE REPOSICION DE LAS BOMBAS DE ACEITE.
+
+2017-04-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3324218, PASO:1          
+Se realizó el cambio del botón de reposición den el tablero +KA4 (Banco 4), se instaló uno verde. Éste pulsador tiene un contacto normalemente cerrado, se realizó prueba y se dejó en condiciones normales.

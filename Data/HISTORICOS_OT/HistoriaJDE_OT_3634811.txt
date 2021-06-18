@@ -1,0 +1,11 @@
+Realizar cambio de transformador monofásico alimentación Bloque 01 y Bloque 18
+
+29/10/2017 Jorge Alirio Hernández Quintero 
+se realizan pruebas de aislamiento a transformador trifásico de 45 KVA para ser instalado en reemplazo de trafo monofásico de 37.5 KVA .
+Se coordina con distribución para realizar el cambio del Trafo , se coordina suspensión circuito campamento cedros R53-03 para realizar la instalación , luego de entregado el transformador se mide tensión en los tableros de los bloque 
+R-S 209 Voltios
+R-T 211 Voltios
+T-S 211 Voltios 
+queda en funcionamiento normal.
+Ejecuta personal de Distribución _ Rodrigo Álzate
+personal de mantenimiento Daniel Arango- Tatiana Almario- Zoraida Monsalve

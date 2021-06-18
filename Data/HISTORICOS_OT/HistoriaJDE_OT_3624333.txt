@@ -1,0 +1,10 @@
+
+
+FECHA:2017/10/13 OT:3624333 CESAR TULIO / LUIS EDUARDO 
+
+Falla ventilador GFM0412SS en el servidor del sistema scada, se cambia por uno de repuesto quedando en condiciones normales de operación.
+
+
+
+
+

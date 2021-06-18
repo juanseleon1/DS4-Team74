@@ -1,0 +1,3 @@
+20/08/2018  CARLOS ANDRES MEJIA
+
+Se realiza solicitud de trabajo para dar solución a la falla de perdida de fase de la alimentación de 480 desde la DP1, al revisar por parte del equipo eléctrico de mantenimiento se encuentra alta temperatura de llega da al interruptor de alimentación en la DP1 en una de sus fases en el abarraje de la DP al igual que en la alimentación hacia el CCM10. queda pendiente su solucion para analisar la transferencias de todas las cargas por DP2 para poder intervenir el equipo.

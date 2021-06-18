@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2017-08-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3550378, PASO:1         
+Se realizó mantenimiento predictivo al ventilador S2, ambos ventiladores estaban en servicio, se realizó inspección termografica se evidenció una alta temperatura en la entrada del breaker, se consideró realizar una revisión, se crea OT: 3559219 para revisar y corregir punto caliente, medidas electricas: CORRIENTE: R:37,6, S:37,7, T:39,1, VOLTAJES RS:446,8, ST:448,7, TR:448,7,TEMPERATURA MAXIMA DE MOTOR 89,2°C, se anexa el informe a la OT.

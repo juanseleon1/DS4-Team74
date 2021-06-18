@@ -1,0 +1,6 @@
+FECHA: JUNIO 06/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ.
+Se realiza revision al Q2 del TD02, se encuentra funcionando normal, se realizan pruebas de disparo, apertura y cierre funcionando normal. Se recomienda entrar las cargas de forma consecutiva, para evitar picos altos con cargas que entren al mismo tiempo. Esta revisión fue supervisada por el Ing. Federico Alvarez.
+
+Sabado 17 de Marzo 2018
+
+Referente al TD -02: se ha evidenciado durante las salidas de la linea de 44kv, que al quedar sin tension el TD-02 es necesario bajar todas las cargas referentes a la refrigeracion (Chiller), al intentar cerrar el interruptor Q2 (interruptor principal del TD-02) con cualquiera de las cargas de la refrigeracion cerradas, el interruptor Q2 se dispara por sobre corriente, y a su ves dispara el interruptor Q11 que corresponde a la barra B y es alimentador del mismo (Q2 en el TD-02), razon por la cual se considera que hay mala calibracion de las protecciones. (Si el TD-02 se cerra con carga deberia solo disparar el interruptor Q2 y no tambien su alimentador Q11)Por favor revisar las calibraciones de corriente en ambos interruptores y el tiempo de accion en los mismos. Turno 2.

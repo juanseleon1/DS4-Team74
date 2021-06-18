@@ -1,0 +1,6 @@
+FECHA: SEPTIEMBRE 15 DE 2016
+
+EJECUTANTE: JOHN ORREGO, PEDRO ROBAYO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por potencia máxima, se revisa el generador y todo se encuentra bien, también se revisan los tiristores y no se observa ninguna falla, se da Reset y se deja en servicio el aerogenerador.

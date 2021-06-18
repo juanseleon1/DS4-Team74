@@ -1,0 +1,27 @@
+PLANEADOR: FRANCIS LONDOÑO, 2017-04-04
+OT MANTENIMIENTO PREVENTIVO DEL COMPRESOR No. 2 DE INYECCION AIRE DE TURBINA.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo no debe estar en funcionamiento se debe deshabilitar y colocar ficha de seguridad. Des energizar tablero de alimentación.
+2. Temperaturas altas en algunas partes del equipo. Usar guantes de protección.
+INSTRUCTIVO DE MANTENIMIENTO
+1.  Inspeccionar nivel de refrigerante. Ajustar de ser necesario  con Aceite ROTO XTEND. Registrar cantidad adicionada en observaciones. Nivel de refrigerante debe estar en la mitad del vidrio indicador con la unidad en modo DESCARGADO.
+2.  Revisar  temperatura de aire en la descarga. OK
+3.  Revisar diferencial de presión elemento separador. OK
+4.  Revisar diferencial de presión filtro de aire a  plena carga. OK
+5.  Revisar estado de filtro aire, registrar horómetro. OK
+6. Revisar estado del filtro de  aceite, registrar horómetro. OK
+7. Revisar estado del filtro separador, registrar horómetro. OK
+8. Revisar estado del aceite y verificar horómetro. OK
+9. Inspeccionar tornillería, anclajes y fijaciones. OK
+10. Revisar fugas de fluido. NO TIENE
+11. Inspeccionar estado de mangueras. ok
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 27-06-2017
+NOTAS SOBRE LA EJECUCIÓN DEL MTTO
+HORAS TOTALES: 11993
+HORAS CON CARGA: 11874
+TEMP. DESCARGA: 97°C
+TEMP. MOTOR 43°C
+TEMPERATURA TANQUE SEPRADOR: 84°C
+TEMP. FILTRO ACEITE: 63°C
+

@@ -1,0 +1,11 @@
+2018/10/29 RUBEN ARBOLEDA
+Se crea OT para realizar medidas de resistencia de contacto al seccionador de la Unidad 1.
+
+2018-10-30 REALIZÓ: OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3780511, PASO:1          
+Se realizó medida de resistencia óhmica al seccionador de la Unidad 1 con los siguientes resultados: 
+A1: 29u
+B1: 50u
+C1: 44u
+
+2018-10-31 REALIZÓ: OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3780511, PASO:2          
+Se realizó limpieza general a la zona superior del seccionador de la Unidad 1.

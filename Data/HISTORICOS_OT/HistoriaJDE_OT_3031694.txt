@@ -1,0 +1,55 @@
+2017/08/11 WILSON USUGA.
+EL INGENIERO PRATICANTE EDUAR ALONZO MAZO YA ESTA LEVANTADO LA INFORMACION PARA LA ACTUALIZACION DE ESTA PLANTA.
+
+2016/06/24 LESLIE MARULANDA
+SE DEBEN ADQUIRIR GABINETES, BORNERAS, CABLE INSTRUMENTACION, TUBING, SE PEDIRAN POR REABASTECIMIENTO Y LOS DEMAS POR COMPRA   
+
+2016/03/16 LESLIE MARULANDA
+LUEGO DE LA REVISION SE EVIDENCIA LA NECESIDAD DE CAMBIO DE MANGUERAS Y ACCESORIOS NEUMATICOS, PARA ESTO SE SOLICITA COTIZACION A LOS SIGUIENTES PROVEEDORES ADMITEC, HIDRAULICA Y NEUMATICA. SE INICIA PROCESO DE COMPRA DE LOS SIGUIENTES EQUIPOS:
+OT: 3031694
+EQUIPO A COMPRAR: Accesorios neumáticos
+
+PROVEEDOR SUGERIDO: Admitec S. A. S.
+
+CODIGO OW DEL PROVEEDOR: 22310
+
+DIRECCION DE ENTREGA: A42
+
+CODIGO DESCRIPCION: 108464
+
+DESCRIPCION 1:INSTRUMENT, MEDICIÓN Y CONTROL
+
+DESCRIPCION 2: Accesorios neumáticos
+
+CANTIDAD:
+
+UNIDAD DE MEDIDA:UN
+
+VALOR UNITARIO:$ 
+
+
+
+ANEXOS:
+
+ELEMENTOS PARA LA CENTRAL TERMOSIERRA
+
+ITEM    CANTIDAD   VALOR UNITARIO
+
+1. Manguera neumática  en poliuretano 10 mm. OD       (100 metros).$ 7,845
+2.       Manguera neumática en poliuretano 8 mm.  OD           (100 metros).$ 5,232
+3.       Manguera neumática en poliuretano 1/4 “  OD.             (100 metros).$3,455
+4.       Unión en codo (en “ L” ) 10 mm OD x 10 mm OD.            (30 unidades).$ 7,618
+5.       Unión en codo (en “ L” ) 8 mm OD x 8 mm OD.                (30 unidades).$ 6,759
+6.       Racor recto 8 mm OD x 1/4 “  rosca DSP.                          (30 unidades).                $ 5,977
+7.       Racor recto 10 mm OD x 3/8 “ roscaDSP.                          (30 unidades).$ 7,045
+8.       Racor en “ L”  10 mm OD x. 3/8 “  rosca DSP                      (30 unidades).$ 10,559
+9.       Racor  en “ T”  10 mm OD x 3/8 “  rosca DSP.                     (30 unidades).$16,723
+10.   Racor  en “ T”  8 mm OD x 3/8 “ rosca DSP.                          (30 unidades).$ 13,555
+11.   Racor 1/4 “ OD x 1/4  “   rosca npt.                                        (30 unidades).$ 5,173
+12.   Unidad mantenimiento aire 1/2 “ .                                       (2 unidades).$ 269,537
+
+
+
+
+2016/02/29 LESLIE MARULANDA 
+ESTA OT SE CREA PARA REALIZAR MANTENIMIENTO A ELECTROVALVULAS  NEUMATICAS 5/2, PERTENECIENTES AL GABINETE INSTRUEMENTACION DESARENADOR (PLANTA AGUA POTABLE)

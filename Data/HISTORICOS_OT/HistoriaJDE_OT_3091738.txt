@@ -1,0 +1,11 @@
+2016/04/27 RUBEN ARBOLEDA
+OT creada para realizar atenciones en cables de potencia marca BICC, los cuales fueron afectados por el incendio, pero no es posible realizarle OT debido a que el equipo se encuentra retirado por siniestro.
+
+2016/07/03 RUBEN ARBOLEDA
+Esta OT se pasa a estado 35, pendiente para continuar por las posibles adecuaciones que se requieran para la empresa CI Metales, encargada de aprovechar los cables retirados de la central Guatapé.
+
+2016-08-19 REALIZÓ: SEBASTIAN HINCAPIE - FERNANDO RUIZ,  PROGRAMO: RARBOLG OT: 3091738, PASO:2,2          
+Se Realizó con la separación de chatarra del siniestro de los cables 
+
+2016/08/27 RUBEN ARBOLEDA
+Se cierra esta OT, en caso de tener algun trabajo se realizará una OT nueva. 

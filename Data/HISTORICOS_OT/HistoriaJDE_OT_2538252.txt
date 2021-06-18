@@ -1,0 +1,7 @@
+JUN 4/2014 OT: 2538252 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edgar Rodas.
+Se realizó el mantenimiento según el instructivo GCTRE0002
+Se realizaron las pruebas eléctricas a las resistencias.
+Fueron  reapriétalos los cables del relé SYX por presentar aumento de temperatura.
+Ver registros en el archivo de Troneras.
+
+XE: REVISAR Y MEDIR CALEFACCIÓN GENERADOR

@@ -1,0 +1,10 @@
+Reporte: Raúl Mauricio Álvarez A.
+Fecha: 17 de Agosto de 2016
+Síntoma: Registro Irregular de sensor de nivel de respaldo en Porce III.
+Trabajos Realizados: se reparan soldaduras en puntos de empalme, se instala caja NEMA para encerramiento de empalme y techo de protección contra caida directa de agua.
+
+Estado 35: se pasa la OT a estado 35 debido a que el sensor presentó el daño nuevamente y se debe atender en los días 25 y 26 de Agosto. 
+
+Reporte: Raúl Mauricio Álvarez A.
+Fecha: 30 de Agosto de 2016
+Trabajos Realizados: se reestablece la OT el 30/08/2016 debido a que se atendió falla de sensor los días 25, 26 y 29 de Agosto. Se realizaron trabajos adicionales en limpieza interna de sensor, conexiones y reconfiguración. 

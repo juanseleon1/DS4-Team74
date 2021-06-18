@@ -1,0 +1,8 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo que comprende el acompañamiento en la inspección de la torre del teleférico por parte del CET 
+
+Programador: Camilo Montagut - 08/06/2016
+
+Se realiza el acompañamiento a los equipos del CET y Consulcivil en la inspección de la torre del teleférico
+
+Ejecuta: Luis Monsalve
+

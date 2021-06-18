@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: FRANK CORDOBA.
+Se realiza mantenimiento, limpieza e inspección al tablero +TSAU, a las acometidas y cajas de conexión del sistema de servicios auxiliares de la unidad según el instructivo.
+Trabajo realizado por: Frank Cordoba, Angel Sanchez, Alejandro Echeverry.
+
+XE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

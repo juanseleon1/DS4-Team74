@@ -1,0 +1,14 @@
+Se crea ot para el registro de tiempos y actividades en el proceso de drenaje del vertical de la presa de Miraflores. Esta tarea se realiza por solicitud del ingeniero Esteban Vasquez en vista de que los días 24, 25 y 26 de enero se estará realizando una inspección en la válvula de cono
+
+
+Programador: Camilo Montagut - 31/01/2018
+
+Finalizan las pruebas e inspección de la válvula luego de la adecuación mecánica de sus aletas y cuerpo realizado en el mes de agosto del 2017.
+
+Se realiza engrase de las piezas móviles y apriete de la tornillería del cuello del obturador.
+
+Finalmente se realizan pruebas de apertura y cierre de la válvula en remoto desde el Centro de Control GIV.
+
+Queda pendiente el informe de las pruebas por parte de los ingenieros José David Vera, Carlos Arias y Juan Camilo Torres.
+
+Ejecuta: equipo mantenimeinto y opertación UOG

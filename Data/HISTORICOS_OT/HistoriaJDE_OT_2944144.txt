@@ -1,0 +1,7 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+02-12-2015
+PROGRAMADOR JOSE MONTOYA
+Se realizó mantenimiento al tablero de control del regulador hidráulico, revisando el PLC,  pantalla de visualización, se encontró todo normal,.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS

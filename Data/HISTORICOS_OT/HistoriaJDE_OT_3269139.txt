@@ -1,0 +1,6 @@
+2016-10-05. JUAN C DUARTE MUÑOZ.
+
+VERIFICAR FALLA DE LA SIRENA I ETAPA PORQUE NO ESTA AUDIBLE O SONORA.
+
+2016-10-06 REALIZÓ: OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3269139, PASO:1-1.1        
+Se realizó cambio de la alarma sonora de II etapa, se instaló una de marca Legrand, en esta alarma estaba instalada la de operación, se realizó el movimiento de la alarma de operación para I etapa que también fallo, queda pendiente comprar otra para instalar en I etapa

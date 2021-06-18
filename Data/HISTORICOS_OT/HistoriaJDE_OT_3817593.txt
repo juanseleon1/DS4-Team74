@@ -1,0 +1,7 @@
+2019/03/09 JUAN C DAURTE MUÑOZ
+
+IDENTIFICAR Y CORREGIR LAS PERDIDAS DE SEÑALES Y CONTROL DEL IHM. APARENTEMENTE ESTA APAGADO. POR TAL MOTIVO, NO PERMITE VER LAS VARIABLES Y, NO ES POSIBLE REALIZAR NINGUNA OPERACIÓN DE LOS INTERRUPTORES.
+
+2019/03/12-13 OT 3817593
+se revisa pantalla IHM de la dg1, se encuentra en corto parte del LCD, no dejando arrancar el sistema operativo.
+se instala un computador portatil para tener acceso al sistema, ademas, se deja procedimiento en operacion para el acceso ante alguna falla o apagado del computador

@@ -1,0 +1,12 @@
+13/02/2018
+
+Se cambia subsistema de refrigeración # 1 por presentar alta temperatura el cojinete combinado (temperatura aceite 56 °C) queda trabajando el subsistema # 2.
+Horómetro: 
+ATRU # 1: 35176 h
+ACRU # 1: 35182 h
+ATRU # 2: 46414 h
+ACRU # 2: 46353 h
+
+NOTA: SE LAVA FILTO AUTOLIMPIANTE E INTERCAMBIADOR DE PLACAS CON AGUA A PRESION, SE REVIZO VALVULA 4 VIAS PARA VERIFICAR SU CORRECTO FUNCIONAMIENTO
+REALIZO: GUSTAVO LOPERA, CARLOS AGUDELO, FRANCISCO GUINGUER
+

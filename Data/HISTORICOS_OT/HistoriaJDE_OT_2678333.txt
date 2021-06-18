@@ -1,0 +1,74 @@
+FECHA : MARTES MARZO 03 DE 2014
+REALIZÓ : CAMILO FLOREZ  - RODOLFO GARCÉS
+ASOCIADO A LA OT : 2678333
+ASUNTO : HACER MANTTO MP 
+                  1.  SE HIZO LIMPIEZA GENERAL  A TODA LA ESTRUCTURA RETIRANDO ACEITE Y POLVO DE SUS PARTE
+                  2. SE TOMARON TODAS LAS VARIABLES MECÁNICAS 
+     
+                  
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA PARA EL REGISTRO HOROMETRO , CAMBIO DE ACEITE Y FILTROS COMPRESORES SERVICIOS GENERALES
+
+                                               
+HOROMETRO:      4.421 HORAS 
+
+HORAS CARGA :  786 
+
+PRESION DE ARRANQUE: 6.01 BARES
+
+PRESION DE PARO:  7.12 BARES
+
+TIEMPO DE TRABAJO:   50 SEGUNDOS       
+
+TIEMPO DE REPOSO : 10 MINUTOS 
+
+TEMPERATURA CARCAZA MOTOR:  33 ° C
+
+TEMPERATURA CARCAZA UNIDAD: 83 ° C
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:  abril 27 de 2014
+
+ULTIMA FECHA DE CAMBIO DE FILTROS : abril 27 de 2014
+
+
+** VIBRACIONES **
+     1. MOTOR PRINCIPAL  LADO VENTILADOR
+         - 3.7 mm / s  parte superior  
+         - 4.1 mm / s parte inferior  a 90 grados con respecto al punto de medida superior.
+
+     2. MOTOR PRINCIPAL  LADO ACOPLE UNIDAD COMPRESORA 
+         - 2.8 mm / s  parte superior  
+         - 3.6  mm / s parte inferior  
+
+
+     3.  MOTOR  VENTILADOR AXIAL 
+         - 1.8 mm / s  parte libre
+         - 3.3 mm / s parte inferior  
+
+     4. MOTOR VENTILADOR RADIAL 
+
+         - 3.2 mm / s  parte superior  
+         - 3.0  mm / s parte inferior  a 90 grados con respecto al punto de medida superior.
+
+
+
+
+
+
+
+
+Observaciones: se tomaron parámetros de vibraciones adicionales y los cuales se agregaron a la planilla.
+__________________________________________________________________________________
+__________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0018

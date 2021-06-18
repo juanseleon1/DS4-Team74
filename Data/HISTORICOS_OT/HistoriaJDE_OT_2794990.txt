@@ -1,0 +1,7 @@
+2015/07/06 FERNANDO RUIZ - SEBASTIAN HINCAPIE OT: 2794990
+Se realizó limpieza general al motor, se evidenció sulfatación en los bornes de conexión, se limió con lija y limpiador de contactos, se realizó prueba de funcionamiento y se dejó en condiciones normales. 
+
+EQUIPO: PUENTE GRUA LA CLARA - SUBIENDO CORRIENTE: R:5,7, S:6, T:5,8, VOLTAJES RS:487, ST:487, TR:485, AISLAMIENTO DE MOTOR: 16,5 M.
+
+EQUIPO: PUENTE GRUA LA CLARA - BAJANDO CORRIENTE: R:5,8, S:6,3, T:6,1, VOLTAJES RS:487, ST:487, TR:485, AISLAMIENTO DE MOTOR: 16,5 M.
+

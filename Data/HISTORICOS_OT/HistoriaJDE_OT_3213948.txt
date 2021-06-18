@@ -1,0 +1,19 @@
+2016/08/18 CARLOS SANCHEZ
+
+SE GENERA ESTA OT PARA REVISAR SALIDA FORZADA POR REGULACION DEL SISTEMA.
+
+
+
+19/08/2016
+
+Después del evento de regulación de la red donde la frecuencia llego a 59.4 HZ la unidad opera ante este evento pero ante la transferencia de los servicios auxiliares se fallan las bombas del sistema TCV ocasionando el paro rápido de la unidad. Razón del paro de esta unidad
+
+En el proceso de normalización se encuentra falla en el sistema TCF realizando desbloqueo de este sistema en el control y comunicación. 
+
+La unidad queda operativa 
+
+Realizado por Grupo electronico
+
+Acción propuesta:
+Revisar los tiempo de subtensión de las protecciones eléctricas de las bombas y ajustarlos con los tiempos del SAU.
+ATT: Jorge Rodriguez y Santiago Ramírez.

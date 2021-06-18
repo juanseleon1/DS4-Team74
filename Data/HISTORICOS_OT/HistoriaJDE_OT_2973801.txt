@@ -1,0 +1,7 @@
+JHON MARIO PEREZ ARENAS
+DICIEMBRE 28/2015
+
+REVISAR ALARMA SELECTOR CONTRACHORRO FALLA INDICACIÓN EN UNIDAD 5. SE ENCUENTRA PENDIENTE.
+
+2015/12/30 VICTOR ZULETA - EDWIN ARANGO (PRACTICANTE), PROGRAMO: RARBOLG OT: 2973801
+Se realizó revision general del sistema, no se encontró falla aparente, luego se presentó intermitencia en la señalización, se revisó y se realizó cambio del sensor y se dejó en condiciones normales. 

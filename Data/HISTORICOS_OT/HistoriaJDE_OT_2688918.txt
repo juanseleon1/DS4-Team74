@@ -1,0 +1,11 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+18/FEBRERO/2015
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+
+Se realizo limpieza, reapreté de borneras e inspecciones visual del control del tablero principal de cada fase y sus servicios misceláneos. 
+Se realizó mantenimiento y limpieza al tablero asociado al  sistema contra-incendio del transformador de Potencia de la unidad. Se realizó inspección visual, limpieza y verificación a los  sensores de temperatura Fase R-S-T y las caratulas de los termómetros. Se probaron alarmas y disparos de temperatura de los trafos hacia las protecciones del generador.
+Se realizó limpieza a las RIO asociadas a los trafos.
+
+Programador: OSCAR ARANGO
+Ejecuto: FRANCISCO GONZALEZ - MARLON CARMONA - FREDY DUARTE

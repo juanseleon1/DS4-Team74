@@ -1,0 +1,5 @@
+FECHA: 31/07/2017    SOLICITADO POR: Natalia Urrea - Operación G4
+DESCRIPCIÓN: En la secuencia de paro normal de la unidad 1 de Guadalupe 4 en el paso 8 " Junta inflable de Operación aplicada/desaplicada" no se evidencia el cambio de estado en el control, ocasionando un paro de Emergencia a la Unidad por tiempo excedido.
+Se verifica en sitio la presión en el circuito y el estado activo de la electroválvula lo cual indica que la junta de operación si aplica, solo que no se tiene confirmación en control.
+02-08-2017
+se revisa y se observan tuberias obstruidas, se organiza control de aplicacion y des aplicacion  de la junta inflable de la unidad 3 y queda pendiente cambiar la logica cableadad por logica de control en unidades 1 y 2.

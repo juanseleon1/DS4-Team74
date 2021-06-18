@@ -1,0 +1,26 @@
+REALIZO: CESAR TULIO JIMENEZ
+FECHA:04/03/2017
+
+Se retira del despliegue de agujas, quedando unicamente desde el despliegue general de cada unidad. Se socializa con operación.
+
+2017/02/16
+Gustavo Morales
+Bloquear consigna cambio Mvar en GPROAG1 movimientos de agujas.
+
+EVENTO 15 DE ENERO 2017.
+Según información recogida del Equipo de operación, desde el centro de control solicitaron colocar 0Mvar a todas la unidades de la central Guatapé a la hora del evento y el operador de ese día utilizando el despliegue de “ Movimientos de agujas de las unidades”  en el Scada, se posicionó en el campo de consigna MW (Pot-Activa) y coloco 0 en cada campo de cada unidad; haciendo efectiva esta consigna las unidades bajaron la potencia al valor ingresado. Este problema se presentó por error del operador al seleccionar el campo de consigna de MW en ves del de Consigna Mvares (Pot- Reactiva) y así ocasionar este evento de frecuencia en el sistema. 
+La UOZO en vista de este error, toma como medida correctiva retirar de este despliegue en el Scada el campo de consigna Mvar (Pot-Reactiva) y este se podrá ejecutar en el despliegue de cada unidad, así evitando que se vuelva el operador a confundir con el campo de MW, los cuales se encuentran muy cercanos dentro del despliegue.
+SE REQUIERE INFORME POR PARTE DE XM.
+REALIZO: CESAR TULIO JIMENEZ
+FECHA:04/03/2017
+
+Se retira del despliegue de agujas, quedando unicamente desde el despliegue general de cada unidad. Se socializa con operación.
+
+2017/02/16
+Gustavo Morales
+Bloquear consigna cambio Mvar en GPROAG1 movimientos de agujas.
+
+EVENTO 15 DE ENERO 2017.
+Según información recogida del Equipo de operación, desde el centro de control solicitaron colocar 0Mvar a todas la unidades de la central Guatapé a la hora del evento y el operador de ese día utilizando el despliegue de “ Movimientos de agujas de las unidades”  en el Scada, se posicionó en el campo de consigna MW (Pot-Activa) y coloco 0 en cada campo de cada unidad; haciendo efectiva esta consigna las unidades bajaron la potencia al valor ingresado. Este problema se presentó por error del operador al seleccionar el campo de consigna de MW en ves del de Consigna Mvares (Pot- Reactiva) y así ocasionar este evento de frecuencia en el sistema. 
+La UOZO en vista de este error, toma como medida correctiva retirar de este despliegue en el Scada el campo de consigna Mvar (Pot-Reactiva) y este se podrá ejecutar en el despliegue de cada unidad, así evitando que se vuelva el operador a confundir con el campo de MW, los cuales se encuentran muy cercanos dentro del despliegue.
+SE REQUIERE INFORME POR PARTE DE XM.

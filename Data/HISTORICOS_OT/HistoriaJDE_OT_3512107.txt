@@ -1,0 +1,8 @@
+
+
+ 21/06/2017. SERGIO OLIVARES D. ---  EJECUTORES: FERNANDO RUIZ A. SEBASTIAN HINCAPIE H.
+            BRANDON VELASQUEZ L.
+
+
+ Se tomaron las medidas correspondientes a los sensores de los gatos, se verifico el accionamiento de los reles de control.
+ encontrandose todo normal.

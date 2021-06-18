@@ -1,0 +1,6 @@
+DIC 11/2013 OT: 2406213 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Cargadores de Baterias de Guadalupe 3: Se finalizan pruebas de la transferencia del saccp2,Q1,Q2 se encontró relés fallados, salidas del ion 7330, e interruptores del control abiertos, se normalizo y se reprogramo el ion y el PLC, ensayando las posibles fallas y maniobras operativas.  Se retira de funcionamiento el cargador de baterías nº 1 para ser reemplazado por uno nuevo, queda bloqueado y con tarjeta la alimentación de 440 vac.  Informo: Anderson García.  Ejecuto: Equipo mantenimiento u. operaciones Guadalupe. 
+
+
+SOLICITANTE: Anderson Garcia Fecha Octubre 29/2013.
+Verificar falla en la transferencia automatica.

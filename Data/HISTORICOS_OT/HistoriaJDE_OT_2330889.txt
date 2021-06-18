@@ -1,0 +1,8 @@
+Realizar instalación para la sirena de emergencia de la portería de zona A.
+
+FECHA: 26/11/2013 OT# 2330889 PROGRAMADOR: JRODRIGL EJECUTA: DAVID ATEHORTUA
+
+Se instala caja de control de la sirena de emergencia en portería de la zona A.
+
+Informa: Jorge Rodríguez
+

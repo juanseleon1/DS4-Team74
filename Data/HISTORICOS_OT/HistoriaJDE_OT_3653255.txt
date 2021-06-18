@@ -1,0 +1,5 @@
+ JUEVES 23 MARZO 2017 JORGE MARIO PEÑARANDA
+
+Referente al TCBA de la Unidad Nº3: Se reinicia varias veces durante el Turno la fuente del controlador porque se está apagando la IHM, perdiendo condiciones de arranque la unidad. se detecta que el problema de canlentamiento de la IHM, y el extractor no se encontraba operativo, se apaga el controlador y se deja la puerta abierta. se habilita el extractor cambiando setin al reostato, se dio condiciones a la unidad, Nestor Ocha cambia la fuente del controlador por presentar problemas Informa: Turno 2.
+
+REALIZA Y EJECUTA JORGE PEÑARANDA

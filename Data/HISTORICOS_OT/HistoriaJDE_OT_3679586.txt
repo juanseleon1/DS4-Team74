@@ -1,0 +1,20 @@
+CUATRIMESTRAL MECANICO COJINETE SUPERIOR GUADALUPE 3
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR:SERGIO RAMÍREZ
+
+FEBRERO 01 DE 2018
+
+20/02/2018
+
+Se realiza mantenimiento según instructivo 
+El nivel de aceite del cojinete se encontró en la seña de normal según la varilla de nivel.
+Se realiza prueba a la lubricación forzada comprobando el levante del rotor así:
+Motobomba 1
+Presión: 25 kg/cmt2
+Levante:0.00 milímetros
+Motobomba 2
+Presión: 76 Kg/cmt2
+Levante: 0.05 mm
+La motobomba 1 queda fuera de servicio, la motobomba 2 queda trabajando como ppl.

@@ -1,0 +1,5 @@
+2016/05/19 ANGEL ADONIS CADAVID OCHOA 
+LA OT PASA A ESTADO PROGRAMACION
+
+2016-12-03 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3078041, PASO:1         
+ Se realizó mantenimiento preventivo al TSA2, se realizó limpieza general, Se revisaron los ventiladores encontrando problemas en la perilla 4S3 del tablero CTSA2 del transformador TSA2 la cual tiene 3 posiciones automático - OFF - manual - no opera hasta la    posición manual, lo cual no se puede hacer la prueba manualmente de los ventiladores, queda pendiente comprar, se genera OT correctiva: 3366761 para realizar la compra y el montaje.

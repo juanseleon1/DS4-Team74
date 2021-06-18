@@ -1,0 +1,16 @@
+19/11/2017. 9:30.
+Por oportunidad con programacion de Generacion en ceros MW, se ensayo la Planta de Emergencias con Carga y se encontrò lo siguiente:
+*. En Automatico sacando el interruptor principal no entra el Respaldo (Circuito 5106).
+
+*. En Local al entrar la Planta de Emergencias para asumir la carga, el display de la ION no muestra la corriente de la carga asumida pero si el Voltaje.
+
+*. En ensayo se entrò el compresor de reguladores hidraulicos y la Planta de Emergencias se da disparo.
+
+Se solicita revisar programacion y transferencias del TDP.
+
+Realiza e informa: Mario Zapata Laverde - Wilson Arango Bedoya.
+
+PARA HACER LA PRUEBA EN LA PLANTA DIESEL PARA QUE ASUMA LA CARGA Y FUNCIONE NORMALEMNET, SE DEBE GARANTIZAR AUSENCIA DE TENSION POR EL ALIMENTADOR PRINCIPAL DE LOS SERVICIOS AUXILIARES QUE VIENE DEL TRAFO DE 250KVA Y TAMBIEN POR EL CIRCUITO DE RESPALDO EL CUAL VIENE POR EL R51-06.
+TENIENDO ESTOS 2 CIRCUITOS ABIERTOS SE DEBE PROCEDER A REALIZAR LA PRUEBA. EN ESTE CASO, LA PLANTA DIESEL DEBE ENTRAR EN AUTOMATICO Y ASUMIR A CARGA. SE DEBE ESPERAR QUE ESTEMOS EN 0 MW PARA HACER LA PRUEBA, Y LO IDEAL ES HACERLO CON LOS TRES TURNOS DE OPERACION. PARA ESTA ACTIVIDAD, SE REALIZARÁ OTRA OT CON EL FIN DE INGRESAR LOS TIEMPOS QUE SE DEMORA DICHA PRUEBA.
+
+INFORMÓ: ESTEBAN HURTADO.

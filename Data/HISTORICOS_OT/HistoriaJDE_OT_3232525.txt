@@ -1,0 +1,12 @@
+03/09/2016. MAURICIO RUIZ.
+
+EN PROCESO DE PARO DE LA UNIDAD LA IHM QUEDA SIN COMUNICACION QUEDANDO LOS FRENOS APLICADOS
+
+
+03/09/2016
+
+Se realiza verificación de la comunicación de este proceso el cual se encuentra con problemas la comunicación con el sistema ABB, se realiza verificación de la tarjeta de red y se encuentra con alta temperatura este equipo, se normaliza el sistema y queda en observación este equipo.
+
+Realizado por Wtobonl
+
+terminada cerrar

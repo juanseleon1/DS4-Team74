@@ -1,0 +1,6 @@
+
+FECHA: JULIO 14 DE 2014
+
+RESPONSABLE:  CLAUDIA ESLAVA
+
+Se presenta falla en el switch donde están conectados los cables de datos para los cubículos, se intento de varias formas pero el problema aparece de nuevo.

@@ -1,0 +1,4 @@
+2018/08/15 OT:3744967 Dionis Zapata / Luis Eduardo Arcila 
+Se realiza mantenimiento al regulador electrónico de tensión, limpieza de tarjetas y tableros.
+También se realiza mantenimiento a los tiristores y a sus respectivos tableros y barrajes.
+

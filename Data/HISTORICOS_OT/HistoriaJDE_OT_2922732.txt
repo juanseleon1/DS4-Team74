@@ -1,0 +1,22 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+
+2015/11/21 DIEGO BEDOYA
+Se realiza el mantenimiento preventivo del regulador hidráulico de la U2, se escucha ruido en el motor de la motobomba N°1.
+los registros de funcionamiento obtenidos son lso siguientes:
+
+                                                                           Bomba Principal             Bomba de Respaldo
+
+Presión de Arranque (Kg/cm2)                                   34                                       33
+Presión de Paro (Kg/cm2)                                           39                                       38
+Nivel de Arranque (cm)     -3                                         -7
+Nivel de Paro (cm)     1.5                                     2.5 
+Tiempo de trabajo (s)                                                   57                                       70
+
+el mantenimiento de este regulador fue realizado por Alejandro Castro y Dario Atehortua

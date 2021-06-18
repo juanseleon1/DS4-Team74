@@ -1,0 +1,16 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento correctivo que comprende la adecuación y restablecimiento de la operación del cojinete de turbina. Cabe anotar que el cojinete ha seguido trabajando pero con temperaturas altas en 4 segmentos de metal 
+
+
+Ot: 3178534 - Calentamiento cojinete de turbina G32 - Programador: Camilo Montagut - 17/07/2016
+
+Al reportarse alta temperatura en 4 segmentos del cojinete se entra a analizar su causa raíz y se encuentra nivel alto de aceite.   Al extraer una muestra de aceite y evidenciar que se encuentra emulsionado, se decide cambiar todo el contenido de aceite del cojinete. Se adicionan aproximadamente 120 litros de aceite heavy médium 68 llevándose a nivel normal según la varilla (testigo)  del cojinete.  Se realiza apriete de toda la tornillería correspondiente a la tapa del cojinete encontrándose que las tuercas del acople de la tubería de refrigeración con los serpentines no estaban ajustados. 
+
+Se entrega el trabajo a operación,  y las temperaturas de los segmentos del cojinete quedan en observación.Realizó: equipo de mantenimiento mecánico
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+
+
+

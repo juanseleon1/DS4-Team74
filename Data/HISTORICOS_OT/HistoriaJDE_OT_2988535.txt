@@ -1,0 +1,5 @@
+Reporte: Carlos A. Andrade
+Fecha: 12 de Enero de 2016
+Síntoma: Registro Irregular de sensor de nivel
+
+Planeador: Carlos Mario Torres Jimenez

@@ -1,0 +1,13 @@
+MANTENIMIENTO PREVENTIVO A LOS SERVICIOS AUXILIARES CORRIENTE ALTERNA Y CORRIENTE DIRECTA DE LA PLANTA.
+
+
+NOVIEMBRE 10 DE 2016
+Se realizaron las siguientes actividades con todas las normas de seguridad, ya que los barrajes se encontraban energizados.
+-Se realizó limpieza e inspección en todas las celdas que componen los servicios auxiliares.
+-Se realizó ajuste en los puntos de conexión de potencia y control, de las barras donde se pudo desenergizar, para evitar puntos calientes.
+-Se verificaron los interruptores, verificando su correcto accionamiento a la apertura y el cierre.
+-Se realizó inspección y limpieza en las gavetas, y ajuste en las conexiones de control y potencia.
+En la siguiente ruta del servidor quedan los registros fotográficos: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\SA\FS>
+Nota: En la inspección en las barras de servicios auxiliares 480V (tablero de distribución principal TDP1), se observó un punto de conexión entre barras que podría ser un punto caliente. Por motivos de seguridad no se pudo reapretar ya que se quedaba la planta sin servicios auxiliares. Se debe analizar el tema para tomar una decisión asertiva en el caso. En la siguiente ruta del servidor queda el registro fotográfico para su respectivo análisis. <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\SA\FT>
+
+PROGRAMÓ: Carlos Forero

@@ -1,0 +1,4 @@
+
+SEPTIEMBRE 08/2018 OT: 3763638  PROGRAMÓ: HGIRALRI EJECUTÓ: HGIRALRI
+
+Se presenta falla por corrientes asimétricas, después de dar Reset sale falla Grid Error, se revisa la Bottom Box y se encuentra el disipador superior del tiristor de la fase L1, se retira este módulo y se da la vuelta al disipador, se instala de nuevo, se cambian los tiristores de L1 y L2, y se deja en servicio el aerogenerador.

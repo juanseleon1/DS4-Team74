@@ -1,0 +1,9 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: JOSÉ MONTOYA
+Se realiza limpieza y pruebas hacia la sala de operación al sensor de nivel de aceite y se revisan sensores de vibración, se dejan calibrados así: CSPL 8.61 VDC, el CSPR8.82VDC y AXIAL 8.90. 
+Nivel de aceite cojinete superior se encontró en 273.7 El nivel patrón es 275mm.
+según el formato interno que el grupo electrónico está manejando y se realizó limpieza e inspección visual a las RTD del cojinete.
+
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

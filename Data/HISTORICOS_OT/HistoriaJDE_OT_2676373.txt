@@ -1,0 +1,7 @@
+14/1/2015 CESAR AUGUSTO HOYOS.
+
+Se realizará pruebas de disparo del sistema de CO2  de la unidad 5 y al sistema de tableros criticos. Este código de equipo pertenece al sistema viejo mientras se realiza la actualización del nuevo sistema.
+
+21/1/2015 CESAR AUGUSTO HOYOS- JUAN DAVID GARCIA-JHONATAN USME.
+
+Se  realizan pruebas al sistema de CO² de tableros críticos  y sistema de generador de la unidad. Se activaron cada uno de los sensores, estaciones manuales y disparos verificando que las señales si llegaran a los respectivos nodos y, corroborando que llegaran las señales de descarga cuando hubiera lugar a la descarga. Esta señal se revisó en las válvulas solenoides de los cilindros pilotos de nitrógeno en el sistema de críticos y en la unidad de generación. Ver eventos de descarag en archivo anexo.

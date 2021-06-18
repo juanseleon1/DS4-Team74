@@ -1,0 +1,29 @@
+COMPRA E INSTALACIÓN DE MINIBREKERS DE PROTECCIÓN CICUITOS DE ALIMENTACIÓN A 440V DG1 Y DG2. LOS MINIBREAKERS ACTUALES ESTAN DETERIRADOS Y ALGUNOS HAN FALLADO, NO OPERARON EN CORTO CIRCUITO.
+SE REALIZA LA COMPRA ASI:
+6 MINIBREAKERS DE 3 POLOS 16A.
+2 MINIBREAKERS DE 3 POLOS 32A.
+6 MINIBREAKERS DE 3 POLOS 40A.
+1 MINIBREAKERS DE 3 POLOS 6A.
+15 CONTACTOS AUXILIARES PARA SEÑALIZACIÓN DE POSICIÓN Y DISPARO.
+
+JUAN CARLOS GRANADOS.
+CESAR AUGUSTO HOYOS.
+
+2015/08/19 - 2015/08/20  SEBASTIAN HINCAPIE - GIOVANNY DIAZ - RUBEN ARBOLEDA JUAN DAVID GARCIA
+Se realizó levantamiento de información para el cambio de Breakers
+
+2015/08/21 SERGIO OLIVARES - FERNANDO RUIZ - GIOVANNY DIAZ - OSCAR GIRALDO - SEBASTIAN HINCAPIE - JUAN DAIVD GARCIA - JHONATAN USME
+Se realizó cambio de breakers de potencia, las cargas se dejaron en posición igual para moverlas proximamente. 
+
+2015/08/31 JUAN DAVID GARCIA - OSCAR GIRALDO - JHONATAN USME - FERNANDO RUIZ - RUBEN ARBOLEDA
+Se realizó la adecuación de cableado para poner en posición original con el fin de presentarlo de manera adecuada en las bandejas portacables. 
+
+2015/09/01 JUAN DAVID GARCIA - OSCAR GIRALDO - JHONATAN USME - FERNANDO RUIZ - GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizó retiro de la caja de paso que estaba en la parte superior de la DG1 los cables so conectaron de manera directa a la DG1
+
+2015/09/02 JUAN DAVID GARCIA - OSCAR GIRALDO
+Se realizó orden y aseo en la DG1 de todos los cables que se retiraron de la caja de paso, éstos cables fueron picado y transportados al almacén para aprovechamientos.
+
+
+2015/09/03 JUAN DAVID GARCIA - OSCAR GIRALDO - JHONATAN USME - SEBASTIAN HINCAPIE - FERNANDO RUIZ - GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizó adecuacion de cableado de manera correcta en cada celda de la DG1 (Celda 2 y Celda 3), dejando las cargas como estaban originalmente. 

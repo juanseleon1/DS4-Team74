@@ -1,0 +1,19 @@
+15/03/2016. 
+Se extraeran 13 muestras de aceite de los transformadores de potencia de casa de máquinas, para análisis de Furanos.      
+JUAN CARLOS GRANADOS.                                      
+
+Se realizaron las siguientes OT's: 
+2883281 TRANSFORMADOR BCO 1 FASE R GT
+2883282 TRANSFORMADOR BCO 1 FASE S GT
+2883283 TRANSFORMADOR BCO 1 FASE T GT
+2883284 TRANSFORMADOR BCO 2 FASE R GT
+2883285 TRANSFORMADOR BCO 2 FASE S GT
+2883286 TRANSFORMADOR BCO 2 FASE T GT
+2883287 TRANSFORMADOR BCO 4 FASE S GT
+2883288 TRANSFORMADOR BCO 4 FASE R GT
+2883289 TRANSFORMADOR BCO 3 FASE T GT
+2883290 TRANSFORMADOR BCO 4 FASE T GT
+2883291 TRANSFORMADOR BCO 3 FASE S GT
+2883292 TRANSFORMADOR BCO 3 FASE R GT
+2883293 TRANSFORMADOR BCOS RESERVA GT
+Los informes quedan en cada OT                                                                                                                           

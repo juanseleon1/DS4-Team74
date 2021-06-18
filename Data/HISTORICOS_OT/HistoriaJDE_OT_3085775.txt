@@ -1,0 +1,76 @@
+
+
+FECHA: ABRIL 21 A 25 DE 2016 OT 3075775
+
+EJECUTANTE: GERMAN ECHAVARRIA, ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRLDO
+
+Se realiza rehabilitación del control y potencia del equipo número 1 del aire acondicionado de la subestación
+
+Se le adiciona aceite al compresor 2 del Equipo del  aire acondicionado, también se le realiza vacío a la tubería del circuito de ese compresor y se le adiciona Gas Freón, durante el llenado se encontró una fuga y se detuvo el procedimiento.
+
+
+Se cambia la batería de la planta diésel Puma de la subestación, la que tenia se coloca en la planta diésel de la cabaña; también se le cambia la correa del alternador a esta última planta.
+
+Se presenta apertura de la línea 742 por tormentas eléctricas en la zona de cuestecitas, la apertura fue a las 13:06 y el cierre a las 13:18 horas. Maniobras coordinadas con Néstor Escudero.
+
+Se solicita apertura de la línea 742, lo anterior con el propósito de limpiar los para rayos de la bahía Cuestecitas, se autoriza apertura y se realizan trabajos de la limpieza mencionada, apertura 7:35; cierre 9:10 am.
+
+Se recoge el agua producida por los aires acondicionados de los controladores inferiores de cada aerogenerador.
+
+
+
+
+FECHA: MAYO 7 A 11 DE 2016 OT 3075775
+
+EJECUTANTE: GERMAN ECHAVARRIA, ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRLDO
+
+
+Se presenta ruido en la manejadora del equipo 2 del aire acondicionado de la subestación, se inspecciona y se encuentra con problemas las chumaceras del eje, se procedió a intercambiar estos elementos al igual que el eje y la volante de la manejadora que se encuentra detenida, también se retira uno de los condensadores de arranque de los ventiladores del equipo 1 y se coloca en el ventilador que le hacía falta en el equipo 2, se deja en servicio el aire acondicionado.
+
+Debido a que la llave de casete 46 mm se fallo fue necesario repararla sacando los elementos de la llave de casete 55, lo anterior para poder seguir dando torque a la arandela del eje principal en la caja multiplicadora colocada en el AG9.
+
+Se recoge el agua de producida por los aires acondicionados de los controladores inferiores de cada aerogenerador
+
+Se recogen basuras de la base del AG9 y la parte de la portería de la subestación.
+
+
+
+FECHA: MAYO 20 A 24 DE 2016 OT 3075775
+
+EJECUTANTE: ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRLDO
+
+
+Se recoge el agua producida por los aires acondicionados de los controladores inferiores de cada aerogenerador.
+
+
+Se realiza adecuación de baquelita en uno de los contactores nuevos (1200 Amp) para colocar los tornillos que lo sostendrán en el tablero de la Bottom Box.
+
+
+Por solicitud del señor Néstor Escudero de Cerrejón se abre el circuito 747 y se aterriza a las 8:00 am; se presenta el señor Tomas Peña de Elecsa y verifica el estado de la línea y se lleva las llaves de bloqueo del seccionador de tierra.
+
+
+
+FECHA: JUNIO 3 A 6 DE 2016 OT 3075775
+
+EJECUTANTE: ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRLDO
+
+
+Se recoge el agua producida por el aire acondicionado de los controladores inferiores de cada aerogenerador.
+
+Se cambian los retenedores a dos frenos principales.
+
+Se retiran tierras y se cierran los seccionadores de la línea 747, queda abierto el interruptor.
+
+Alrededor de las 8:15 am se presentó el paro de todos los aerogeneradores, se verifica en el SCADA y se observa por fuera de comunicación los aerogeneradores excepto el AG14 y AG12, se verifican los RFC de los demás aerogeneradores y se encuentran fallados con FC 2116, se procede a darles Reset a los RFC y quedan en Run, a los 20 minutos aproximadamente se presenta nuevamente la falla en los RFC, en este caso si se fallaron todos, nuevamente se reponen los RFC. El sistema SCADA queda funcionando a los varios minutos queda por fuera intermitentemente, alrededor del mediodía quedo por fuera del todo el Scada.
+
+Continua la falla en el Scada, el día de hoy se detuvo varias veces seguidas el AG8 y fue necesario dejarlo detenido ya que no sabemos qué falla tiene.
+
+
+Se limpian las tapas de la góndola del AG4, estas se encuentran en subestación.
+
+
+

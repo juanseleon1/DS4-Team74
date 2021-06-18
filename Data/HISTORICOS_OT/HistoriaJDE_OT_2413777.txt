@@ -1,0 +1,15 @@
+XL: LIMPIAR Y VERIFICAR  CONTROL DEL EQUIPO HIDRAULICO TUH DE LA UNIDAD
+
+
+18/11/2013
+
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas, se realizan pruebas de carga y descarga de la estación hidráulica con las bombas. Para verificar los puntos de paro y arranque de las bombas, además se toman los datos del lazo de control en el distribuidor y se verifican los PICKUP de velocidad.
+
+SENSOR CG161  MAX 93.22MIN4,56SENSOR CG162MAX 94,27MIN1,30POSICION SERVO0%-0,02100%100.00
+
+
+Esta unidad se encuentra sin el servo motor de la traba, el cual fue retirada por los mecánicos debido a una falla en los sellos.
+
+
+Realizado por Walter Tobon

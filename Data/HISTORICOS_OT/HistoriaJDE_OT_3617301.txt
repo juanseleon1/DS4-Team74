@@ -1,0 +1,10 @@
+Se crea ot para el registro de tiempos y actividades en la ejecucción del mantenimeinto correctivo que relaciona el cambio del rodete pelton marca Voith de referencia R-930019 por el rodete pelton marca Hitachi de referencia R-10
+
+
+Programador: Camilo Montagut - 2017/10/11
+
+Se realiza el montaje del rodete pelton marca Hitachi de referencia R-010 y con 142179 horas de funcionamiento. En el montaje se cumplieron todas las normas de seguridad y se aprovechó para reforzar la escalera para descender al compartimiento de extracción del rodete. Finalmente la empresa contratista ASTECO S.A. realizó los mismos ensayos no destructivos al rodete sin encontrar problema alguno. El informe final de la empresa ASTECO S.A. queda a cargo del ingeniero Gabriel Tamayo.
+
+Se realiza el cambio en el formato de horas de funcionamiento con el fin de seguir actualizando los valores para el sistema de gestión de calidad de la UOG. Queda pendiente solicitar el código de activo del rodete montado en la unidad.
+
+Ejecuta: equipo mantenieminto mecánico UOG

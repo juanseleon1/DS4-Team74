@@ -1,0 +1,22 @@
+07/01/2016.
+Se realiza la revisión del equipo, y en esta de observan 3 códigos activos en el ECM del motor.
+1)Sensor de posición del acelerador : Frecuencia, ancho de pulsación o periodo anormal.
+2)Enlace de datos de SAE J1939 : Velocidad de actualización anormal.
+3) En el panel EMCP 3.3 Red N.º 1 de J1939 : Otra modalidad de avería.
+Estos códigos presentes, se pueden confirmar en el ÍTEM de datos de las aplicaciones, donde es el mismo ECM, quien nos indica las fallas.
+Se procede a encender el equipo y verificar que mas anomalías presenta, pero este no enciende, ya que se cae el voltaje de las baterías, en el momento de verificar el estado de las baterías, estas se encuentran con los bornes sulfatados, procediendo así, a el mantenimiento y limpieza de las baterías.
+Ya con los bornes realizando un buen contacto, se enciende el equipo y se verifica la velocidad y datos del motor. Aunque el motor ya alcanza la velocidad deseada de 1800rpm, no se visualiza la presión de aceite, ni la temperatura del equipo.
+Con el código activo de falla de comunicación CAN 1, se procede a la revisión del sistema eléctrico, verificando punto a punto, el cableado entre el ECM y el panel 3.3, encontrando este en buen estado.
+Confirmando que el cableado se encuentra en buen estado, solo queda descartar el panel EMCP y el ECM del motor, ya que ambos se comunican por CAN 1, y ambos presentan la misma falla en el puerto de comunicación. Por lo tanto se programa otra visita con un panel en cálida de préstamo para verificar la falla.
+
+16/01/2016
+En la siguiente visita que se le realizo a el cliente, se realizan las pruebas con el panel EMCP prestado, y se confirma que este es el de la falla, ya que este es instalado y reprogramado, y el equipo no presenta falla alguna. Ademas se realizan pruebas con carga y de sincronismo, y el equipo responde muy bien, por lo tanto se deja el equipo en las condiciones iniciales, y se realiza la cotización el panel nuevo EMCP 3.3.
+
+19-04-16 JUAN CARLOS GRANADOS-LUIS EDUARDO ARCILA-CESAR AUGUSTO HOYOS HENAO.
+Se realizan pruebas de arranque y paro después de cambiar el panel EMCP por parte del personal de Gecolsa. En el primer arranque en automático la planta se sincroniza y asume una carga de 500Kw, se da orden de paro y esta opera sin inconveniente. Se da una nueva orden de arranque  en automático pero la planta llega hasta la secuencia de buscar condiciones para sincronizar, luego de esperar por varios minutos esta no sincroniza.
+Se observa fluctuación en el voltaje de la planta y en la velocidad, se da orden de paro y se realiza la misma prueba en 2 oportunidades sin resultado exitoso. Se procede a dar  arranque y sincronización en manual pero al momento de subir carga  esta no sube.
+Se identificaron estos 2 problemas: 1) La planta diésel no siempre sincroniza en automático. 2) Al realizar pruebas en manual al subir carga no sube.
+Según lo expuesto por el personal de Gecolsa hay que realizar una revisión al panel EGPC-2 por la empresa que representa la marca WOODWARD para realizar ajustes. Se realizara la consulta con dicha empresa.
+Se dejó en automático la planta y en arranque programado para ver nuevamente su funcionamiento según la fecha y hora que tiene programado actualmente. 
+2016/11-02 CESAR HOYOS - JOHN MARIO PEREZ
+Se hizo revision de la planta Diesel, Arranque en automático, Arranque en Manual, Se dejó en condiciones normales.

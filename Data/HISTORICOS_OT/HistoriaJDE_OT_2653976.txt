@@ -1,0 +1,5 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+Se realiza verificación y ajuste a las tarjetas AMP, POT21 del regulador hidráulico, verificación de las medidas de posición de la válvula distribuidora.
+Se desmonta todo el rack de las tarjetas del regulador de velocidad, se encontraba muy sucio. Se recomienda bajar este rack cada 6 meses mínimo
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza mantenimiento al variometro de posición del distribuidor.

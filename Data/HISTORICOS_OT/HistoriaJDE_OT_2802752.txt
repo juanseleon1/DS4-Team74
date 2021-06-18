@@ -1,0 +1,12 @@
+
+
+25/JUNIO/2015
+
+OT creada para la reparacion de fuente DSSR122 fallada en el controlador de servicios auxiliares.
+
+11/Sept/2015
+
+Se instala fuente DSSR122 en la unidad 5 reparada en RYME, con el fin de hacerle seguimiento  para su garantía.
+
+Queda trabajando en condiciones normales, con un voltaje de salida de 5.2 Vdc
+

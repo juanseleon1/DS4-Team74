@@ -1,0 +1,2 @@
+Fecha: 12/12/2016
+La OT 3269337 se cancela debido a que se origino en el es de septiembre y se llevo a estado 90 pero el sistema no guardo los cambios y en la verificacion de datos se veia como terminada. 

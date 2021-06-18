@@ -1,0 +1,2 @@
+FECHA: 16/11/2017
+ACTIVIDAD: Instalar suiches y configurar la red LAN para la comunicacion de la insturmentacion geotecnica de santa rita con la red corportativa de epm

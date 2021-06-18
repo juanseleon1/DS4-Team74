@@ -1,0 +1,14 @@
+
+Mayo 14/2018
+
+La electrovalvula 65VM del sistema hidraulico valvula de admision U3_PL, no opera por control para la apertura, por lo que se debe forzar mecanicamente la corredera de la electrovalvula para continuar secuencia de arranque normal de la unidad.   
+
+APROBADOR:JOHNSON GOMEZ
+FECHA: MAYO 15 DE 2018
+
+FAVOR REVISAR SI EL CIRCUITO QUE SE IMPLEMENTO CON EL TEMPORIZADOR Y LA RESISTENCIA ESTAN OPERANDO DE FORMA CORRECTA, PUES AL ENERGIZAR LA BOBINA ESTA DEBE SER ENERGIZADA A PENA TENSION Y PASADO UN TIEMPO ESTA SE DEBE PASAR A QUEDAR EN SERIE CON LA RESISTENCIA.
+
+TRABAJO REALIZADO: DIONIS Z / WILFER HINCAPIE 
+1- OT: 3724266: Válvula control  65VM_ U3 :  
+
+R/: Se corrige falla en borneras en el CBEH ( regulador hidráulico), las cuales estaban con problemas de continuidad por unos puentes defectuosos(se cambian borneras y puentes), y no dejaba energizar el temporizador asociado a la resistencia que se le instaló a la bobina de  la 65VM para efectos del calentamiento, provocando que cuando se daba la orden de energizar la 65VM, energizaba también la resistencia haciéndole perder fuerza a la bobina de la 65VM para accionar el embolo mecánico, se realizan pruebas entrando la unida en servicio hasta giro mecánico dando como resultado el funcionamiento óptimo de la  electroválvula. OK 

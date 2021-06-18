@@ -1,0 +1,16 @@
+2016-10-29. JUAN C DUARTE MUÑOZ.
+
+CORREGIR FUNCIONAMIENTO DEL INYECTOR PORQUE SE ABRE AL 100%, NO RESPONDE COMANDOS EN MANUAL Y NI AL RETIRARLE LAS SEÑALES DE CONTROL (CHOPO).
+
+REALIZO: CESAR T. JIMENEZ
+FECHA: 28/10/2016 Y 29/10/2016
+EL VIERNES 28 DE OCTUBRE, SE REALIZA REVISION CON EL PROGRAMA DEL REGULADOR DE VELOCIDAD, LA PRIMER REVISION QUEDA NORMAL Y GENERANDO CON  CARGA NOMINAL, MAS TARDE EN LA NOCHE LA AGUJA 3 SE VA AL 100% DE APERTURA, AL VER QUE NO RESPONDE SE DEJA GENERANDO AL 70MW, Y PARA OERACION DE DEJA LA INSTRUCCIÓN QUE AL PARAR LO AGAN CON EN CIERRE MANUAL DE AGUJAS Y QUITANDO EL CHOPO, EL SABADO SE CMABIA LA MOOG, SE DRENA TODO EL SISTEMA, PORQUE TIENE AGUA,  CON EL BLOQUE DE LA AGUJA, SE CALIBRA DE NUEVO LAS AGUJAS, QUE NORMAL Y FUNCIONANADO.  PARTICIPAN ANDRES ALZATE, WIDER HERRERA Y DIEGO BEDOYA.
+REPORTE POR OPERACION:  Evento GT6 (viernes 28 de oct.): Se presenta apertura al 100% del inyector N°3 y no respondió al cierre desde le software, ni con la válvula de cierre agujas. El sábado se le cambio la válvula MOOG, pero este no respondió al cierre; por lo tanto se cerraron las válvulas 1118 y 1119 en el regulador hidráulico, con el fin de realizar mantenimiento a la válvula 2191, la cual se encuentra en un costado del comando de aguja, se encontró con algo de corrosión, se limpió y se montó nuevamente. Se normalizaron las válvulas 1118 y 1119, y se realizó recorrido en este inyector con un resultado satisfactorio. A las agujas 1 y 2 fue necesario darle tendencia a la apertura, ya que en el momento de arrancar la unidad, estaban por debajo de  la consigna suministrada. JUAN CARLOS GRANADOS.
+2016-10-29. JUAN C DUARTE MUÑOZ.
+
+CORREGIR FUNCIONAMIENTO DEL INYECTOR PORQUE SE ABRE AL 100%, NO RESPONDE COMANDOS EN MANUAL Y NI AL RETIRARLE LAS SEÑALES DE CONTROL (CHOPO).
+
+REALIZO: CESAR T. JIMENEZ
+FECHA: 28/10/2016 Y 29/10/2016
+EL VIERNES 28 DE OCTUBRE, SE REALIZA REVISION CON EL PROGRAMA DEL REGULADOR DE VELOCIDAD, LA PRIMER REVISION QUEDA NORMAL Y GENERANDO CON  CARGA NOMINAL, MAS TARDE EN LA NOCHE LA AGUJA 3 SE VA AL 100% DE APERTURA, AL VER QUE NO RESPONDE SE DEJA GENERANDO AL 70MW, Y PARA OERACION DE DEJA LA INSTRUCCIÓN QUE AL PARAR LO AGAN CON EN CIERRE MANUAL DE AGUJAS Y QUITANDO EL CHOPO, EL SABADO SE CMABIA LA MOOG, SE DRENA TODO EL SISTEMA, PORQUE TIENE AGUA,  CON EL BLOQUE DE LA AGUJA, SE CALIBRA DE NUEVO LAS AGUJAS, QUE NORMAL Y FUNCIONANADO.  PARTICIPAN ANDRES ALZATE, WIDER HERRERA Y DIEGO BEDOYA.
+REPORTE POR OPERACION:  Evento GT6 (viernes 28 de oct.): Se presenta apertura al 100% del inyector N°3 y no respondió al cierre desde le software, ni con la válvula de cierre agujas. El sábado se le cambio la válvula MOOG, pero este no respondió al cierre; por lo tanto se cerraron las válvulas 1118 y 1119 en el regulador hidráulico, con el fin de realizar mantenimiento a la válvula 2191, la cual se encuentra en un costado del comando de aguja, se encontró con algo de corrosión, se limpió y se montó nuevamente. Se normalizaron las válvulas 1118 y 1119, y se realizó recorrido en este inyector con un resultado satisfactorio. A las agujas 1 y 2 fue necesario darle tendencia a la apertura, ya que en el momento de arrancar la unidad, estaban por debajo de  la consigna suministrada. JUAN CARLOS GRANADOS.

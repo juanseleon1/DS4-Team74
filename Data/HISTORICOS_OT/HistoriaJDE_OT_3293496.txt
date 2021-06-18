@@ -1,0 +1,5 @@
+27/10/2016
+ups substacion
+se presenta falla en la ups # 1, presenta calentamiento por falla en los ventiladores.
+2017/01/04. CARLOS SANCHEZ
+SE CIERRA ESTA OT Y SE CONTINUA TRABAJANDO BAJO LA OT 3358419

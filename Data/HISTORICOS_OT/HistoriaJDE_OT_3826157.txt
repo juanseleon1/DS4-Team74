@@ -1,0 +1,8 @@
+VERIFICAR INTRUMENTACION 
+
+ABRIL 11/2019 OT: 3826157 PROGRAMO: JULIAN BECERRA EJECUTO: ANDRES YEPES
+SE REALIZA INYECCION DE SEÑAL DE TEMPERATURA PARA VERIFICAR ALARMAS Y DISPAROS COJINETES
+
+Temperaturas de: Cojinete TubinaEquipo 40°C 805°C 120°CMetal 39°C 78°C 118°CValor programado Alarma:75°CValor programado Disparo:80°CComentarios:
+
+Temperaturas de: Cojinete Volanta- TURBINAEquipo 40°C 80°C 120°CMetal 39 79 117Valor programado Alarma:75°CValor programado Disparo:80°CComentarios:

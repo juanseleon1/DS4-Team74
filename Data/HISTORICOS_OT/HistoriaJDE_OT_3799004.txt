@@ -1,0 +1,13 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+2019-01-23 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3799004, PASO:1          
+Se realizó Medida de aislamiento al rotor de la Unidad 5 con los siguientes resultados:
+ANTES DE LIMPIAR: 
+ROTOR Y BARRAJE: 3,58 M
+ROTOR: 5,08 M
+BARRAJE3,31 M
+FALSODESPUES DE LIMPIAR:
+ROTOR Y BARRAJE: 30,7 M
+ROTOR: 30,7 M
+BARRAJE: 16,53 M
+FALSONo fue posible realizar las medidas de resistencia ohmica y demás debido a que la Unidad estaba muy sucia, no alcanzó el tiempo.

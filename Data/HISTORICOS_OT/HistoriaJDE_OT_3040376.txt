@@ -1,0 +1,13 @@
+
+SE CREA ESTA OT PARA EL MONTAJE DEL EQUIPO DECANTADOR MARCA LAKOS EN LA TUBERIA REFRIGERACION COJINETES
+
+En espera de paro de la central Gpe3 para el montaje del equipo (lakos)
+
+
+Programador: Camilo Montagut - 02/11/2016
+
+Se realiza el montaje del filtro Lakos ubicandolo en el piso de filtros de la central de Guadalupe 3. El equipo decantador se conecta a la tubería de refrigeracion de los cojinetes por medio de un by pass, de tal manera que en cualquier momento se pueda intervenir el filtro para mantenimiento.
+
+Queda pendiente la disposición de una electroválvula en la descarga del decantado y así temporizar la purga del filtro
+
+Ejecuta: equipo mantenimiento mecánico UOG

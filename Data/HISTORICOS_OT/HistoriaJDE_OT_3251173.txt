@@ -1,0 +1,21 @@
+2016/09/21 RUBEN ARBOLEDA
+Se realiza prueba de la motobomba de levantamiento de rotor por parte del grupo mecánico, pero ésta no respondio, 
+
+2016-09-22 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3251173, PASO:1
+se realizó verificación del sistema electrico, se probó y se identificó que estaba operando normal, se realizó prueba por parte del grupo mecanico y se identificó una posible falla en una valvula distribuidora hidraulica, se realizó cambio poel el bloque de la valvula de la unidad 5 para probar. 
+
+2016-09-22 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3251173, PASO:2          
+Se realizó cambio del equipo hidráulico para levantamiento de rotor por el equipo de la unidad 7, ya que el de la unidad 6 no levantaba presión, con este equipo funciono correctamente
+
+2016/10/19 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3251173, PASO:3
+El grupo de mantenimiento mecanico realizó la adecuación de la motobomba en la Unidad 7, se realizó la conexion electrica y se dejó en condiciones normales2016/09/21 RUBEN ARBOLEDA
+Se realiza prueba de la motobomba de levantamiento de rotor por parte del grupo mecánico, pero ésta no respondio, 
+
+2016-09-22 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3251173, PASO:1
+se realizó verificación del sistema electrico, se probó y se identificó que estaba operando normal, se realizó prueba por parte del grupo mecanico y se identificó una posible falla en una valvula distribuidora hidraulica, se realizó cambio poel el bloque de la valvula de la unidad 5 para probar. 
+
+2016-09-22 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3251173, PASO:2          
+Se realizó cambio del equipo hidráulico para levantamiento de rotor por el equipo de la unidad 7, ya que el de la unidad 6 no levantaba presión, con este equipo funciono correctamente
+
+2016/10/19 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3251173, PASO:3
+El grupo de mantenimiento mecanico realizó la adecuación de la motobomba en la Unidad 7, se realizó la conexion electrica y se dejó en condiciones normales

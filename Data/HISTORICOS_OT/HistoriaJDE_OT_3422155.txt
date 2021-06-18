@@ -1,0 +1,8 @@
+2017/05/03/k80/se reviso la direccion y se encuentra realizada.                                                                                                                                                                                                                      /CL 24B x 71 S:O.                                                                                                                                                                                                                                                                                                               - FECHA : MARTES MARZO 28 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEFE DE TRABAJO INGO JOHNSON GÓMEZ
+- ASOCIADO A LA OT : 3422155
+- ASUNTO : HACER BLOQUEOS PARA INICIAR MANTTO Y DESBLOQUEOS AL TERMINAR DEL MANTTO PARA DAR 
+                      ARRANQUE A LA UNIDAD
+
+* SE REALIZA EL MANTENIMIENTO PREVENTIVO SEGUN PIM QUEDANDO EN CONDICIONES NORMALES DE OPERACIÓN

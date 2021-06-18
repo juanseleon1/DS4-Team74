@@ -1,0 +1,21 @@
+FECHA: 01 DE JUNIO DE 2018
+
+SOLICITANTE: GEOVANNY ECHEVERRI - GUSTAVO QUINTANA
+
+DESCRIPCION: EL COJINETE SUPERIOR PRESENTA ALARMA POR VIBRACION PERPENDICULAR ALTA ENTRE 295 -300 mym.
+
+POR FAVOR ATENDER ESTA SOLICITUD.
+
+GRACIAS. 
+
+
+PLANEADOR: GABRIEL TAMAYO
+PROGRAMADOR: CAMILO MONTAGUT
+
+Ot: 3732098 - Vibración axial alta - Programador: Camilo Montagut - 22/08/2018
+
+Se cierra la ot sin tiempos ni registro debido a que se está esperando la respuesta de la unidad de Operación y Mantenimeinto al correo que se le solicito las causas de las vibraciones bajo el análisis de vibraciones de esa unidad.
+
+Actualmente la vibración del cojinete se encuentra en el intervalo de aceptación "alerta". Esta prueba de vibraciones fue realizada por el equipo de operación y mantenimiento, y el informe fue entregado por el ingeniero Julio Zapata el 10 de agosto de 2018.
+
+Ejecuta: equipo mantenimiento mecánico UOG

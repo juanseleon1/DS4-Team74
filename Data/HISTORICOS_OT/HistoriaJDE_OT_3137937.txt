@@ -1,0 +1,11 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+JUNIO 15 DE 2016
+MANTENIMIENTO INSTRUMENTACION COJINETE TURBINA UNIDADES 3 GUADALUPE 3
+
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 159.11 mm el nivel patrón es de 150mm.
+vibraciones: CTPL: 8.92vdc
+                  CTPR: 8.82vdc
+Se inyectan las siguientes señales
+  COJ TURB °C (RTD) TIG BORNES  (RTD) TIG BORNES  PATRÓN °C ACTE 2 SEG 6  40 41,0 40.6  60 61,0 60.5  80 81,0 80.6  ALARMA  70.1 70.1  DISPARO  80.1 80.1  La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

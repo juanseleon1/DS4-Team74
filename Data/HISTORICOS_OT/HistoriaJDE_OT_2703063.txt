@@ -1,0 +1,8 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+05/03/2015
+Se instala presostato para verificar presión y evitar se dañen los sellos, se cablean todas las señales y se implementa el control en el PLC
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión, desmontando los transmisores de presión aguas arriba y aguas abajo de la válvula para limpiar y quitar la obstrucción por suciedad.
+Se realizó limpieza general del tablero de control de la válvula.
+
+JOSE MONTOYA

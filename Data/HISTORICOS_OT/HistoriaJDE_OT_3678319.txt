@@ -1,0 +1,16 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+ENERO 30 DE 2018
+
+-Se realiza mantenimiento al regulador hidráulico, sin novedades.
+-Se realiza verificación y limpieza a los instrumentos de nivel y de temperatura asociados al regulador.
+-Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.
+-Se realizó limpieza general a todas las RIO de la unidad.
+
+Luego se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+
+apertur25% 50% 75% 100%inyectsA mm A mm A mm A mmAguja10 0,0 3,4 35 3,4 70 3,4 105Aguja20 0,0 3,4 35 3,4 70 3,4 105Aguja30 0,0 2,4 35 2,4 70 2,4 105Aguja40 0,0 3,3 35 3,4 70 3,4 105

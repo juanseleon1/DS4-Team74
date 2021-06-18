@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711318
+
+BAE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD
+
+FECHA: ABRIL 25/2018 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA MARIA VIANA
+
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres (contador 1:1499, contador 2:2958).
+Trabajos realizados por: Olga Viana, Yoanis Rodriguez, Alejandro Cardona.

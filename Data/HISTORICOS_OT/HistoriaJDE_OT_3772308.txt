@@ -1,0 +1,5 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica del by-pass de la unidad 6 debido a que la válvula principal de este sistema falló por desgaste en las guías y el acople del eje con la compuerta (lenteja)
+
+06/10/2018 
+SE CANCELA ESTA OT DEBIDO A QUE LA REPARACIÓN SE EJECUTA BAJO LA OT 3769137.
+INFORMA: GERMAN BETANCUR

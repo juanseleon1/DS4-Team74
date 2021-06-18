@@ -1,0 +1,21 @@
+CM: VIBRACIONES UMAS-VENENTILADORES-EXTRACTORES GUATAPE. ESTE EQUIPO DEBE ESTAR EN LÍNEA
+2017/08/22 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones del ventilador S9 del vertical de segunda etapa de casa máquinas y se obtienen los siguientes resultados: 
+Sistema de medición (RMS)
+1 Horizontal: 14.98 mm/seg
+1 Vertical: 11.9 mm/seg
+2 Horizontal: 13.72 mm/seg
+2 Vertical: 10.97 mm/seg
+2 Axial: 7.03 mm/seg
+3 Horizontal: 3.16 mm/seg
+3 Vertical: 4.22 mm/seg
+3 Axial: 5.84 mm/seg
+4 Horizontal: 10.7 mm/seg
+4 Vertical: 4.89 mm/seg
+4 Axial: 8.01 mm/seg
+
+Trabajo realizado por Fabio Herrera y Yesid Sánchez
+
+noviembre 20 de 2017 
+ot cerrada 
+andres ramirez 

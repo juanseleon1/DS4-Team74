@@ -1,0 +1,9 @@
+
+
+
+Julio 7 de 2016 
+Se cambia la señal SN-6.68 por la SN-6.70, T4- S TEMP DEVANADO 2  por presentar oscilaciones provocando salida de  la unidad 8. Se encuentra el canal malo en el módulo remoto DSAX 452.
+Se actualiza tanto en los despliegues del Scada como en los planos de banco. 
+
+Cesar Tulio 
+Luis Eduardo Arcila 

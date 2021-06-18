@@ -1,0 +1,13 @@
+
+2017/08/17 DIEGO BEDOYA
+Se realiza la limpieza del recinto de los frenos de la unidad 2, se miden las bandas de frenado y se deja registro de las mediciones:
+Gato 1: 29 mm
+Gato 2: 30 mm
+Gato 3: 29 mm
+Gato 4: 30 mm
+En el momento de la inspección, se encontró el gato N°2 pagado. Este gato se pudo haber quedado pegado debido a que en la unidad se estaba presentando una falla en la indicación de velocidad; la cual estando la Unidad con paro total mostraba una velocidad de 50 RPM y ocasionaba el accionamiento constante de los gatos. Se limpian los sensores de velocidad, se baja el gato manualmente y se dejan tanto los gatos como los sensores de velocidad en condiciones normales de operación. 
+El trabajo fue realizado por Andres Alzate y León Parra.
+
+noviembre 20 de 2017 
+ot cerrada 
+andres ramirez

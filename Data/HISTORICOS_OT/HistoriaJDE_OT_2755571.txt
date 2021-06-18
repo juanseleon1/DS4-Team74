@@ -1,0 +1,2 @@
+2015/06/30 JHONATAN USME - MARIO RESTREPO OT: 2755571
+Se realizo revision y limpieza general a la plante Diesel, adicionalemnte se realizó medida de voltaje en la batería y se encontró en 13.4v, condiciones normales. 

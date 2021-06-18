@@ -1,0 +1,6 @@
+
+FECHA: MARZO 11 DE 2016 OT 3045283
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se presenta falla en la alimentación del controlador inferior, se repone y se observa que al energizarse el LPC se dispara la alimentación, se revisa y se encuentra quemada la fuente de éste, se procede a retirar la fuente del LPC del AG2, se coloca la fuente buena y se deja en servicio el aerogenerador.

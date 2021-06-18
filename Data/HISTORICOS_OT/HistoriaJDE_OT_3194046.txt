@@ -1,0 +1,7 @@
+
+
+ SERGIO OLIVARES D. 2016/07/30.
+
+ Se cambiaron los tres pararayos del transformador del circuito Guatape Alejandría, dejando todo normalizado.
+
+ La Transferencia en 480 VAC, se dejo en manual, porque se pasa al circuito de respaldo, sin causa aparente, se encuentra pendiente la revision de la transferencia en las OT's: 3187514 -  3187883 por parte del grupo electrónico

@@ -1,0 +1,4 @@
+MARZO 8 DE 2019 OT: 3814434 PROGRAMO: JBECERF EJECUTÓ: ANDRES YEPES
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, ACTIVACIÓN DE ALARMA Y DISPARO.
+
+Temperaturas de: Cojinete Lado TurbinaEquipo 30C 60°C 90°C 120°CS38 (Axial) 30.7 60.4 90.5 120.4S40 (Axial) 30.5 60.4 90.4 120.6S42 (Radial) 30.5 60.3 90.6 120.5S43 (Radial) 30.7 60.3 90.4 120.5Valor programado Alarma:75°CValor programado Disparo:80°CComentarios:Sin novedades  

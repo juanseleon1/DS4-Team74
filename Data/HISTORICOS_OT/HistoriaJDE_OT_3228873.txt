@@ -1,0 +1,12 @@
+FECHA: AGOSTO 31/2016  
+
+
+Revisión los equipos electromecánicos de las compuertas con el fin de realizar la apertura y cierre,  por oportunidad que el nivel del embalse está bajo teniendo presente las recomendaciones del instructivo y planos (Información técnica) con el fin de realizar la maniobra con la mayor prontitud. Fecha propuesta: 8 de septiembre.
+
+ Hacer preventivo a los motores de las bombas (Estaciones hidráulicas ): medir aislamiento, resistencias de calefacción, Inspección de las borneras (tableros y motores), limpieza de los equipos, verificar niveles de tensión y documentar en la OT los resultados . (Cuadrilla eléctrica)
+ 
+ Verificar acoples, presiones en las líneas y equipos asociados: (cuadrilla mecánica) Documentar resultados en la OT
+ 
+ Verificar IHM, señales de control e instrumentación. (Cuadrilla Electrónica) Documentar resultados en la OT.   
+
+Elaborar permiso de trabajo por disciplina.

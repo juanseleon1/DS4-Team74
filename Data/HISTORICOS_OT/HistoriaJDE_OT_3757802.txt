@@ -1,0 +1,13 @@
+REALIZO: DANIEL VARGAS - ABB, CESAR T. JIMENEZ - EPM
+FECHA: 23/08/2018 OT:3757802
+
+- Se realiza Full Backup del Sistema 800xA.
+- Realización de Import/Export de las principales estructuras del Sistema 800xA., Control / Functional / Object Type / Workplace Structure.
+- Se realizaron imágenes tipo Acronis y se guardaron en el drive E:\Image en lo servidores
+y en las estaciones de operación e ingeniería en el E:\Data.
+- Se verifica la carga de la RTA Board de los Connectivity Servers. Se realiza backup.
+- Se verifican los nodos presentes en el RNRP. No se encuentran errores y con la red MB300.
+- Sobre los nodos de tipo Domain Controller, se ejecuta el comando dcdiag, se encuentran errores, que se corrigen.
+- Se ejecuta el comando “ afwsysinfo” , el porcentaje de la base de datos se encuentra en condiciones normales, 5%., ha mejorado.
+- Se verifican que todos los servicios del Sistema 800xA, esten en started. Tambien se verifica que el History log esten activos y la sincronización este activa.
+- Se realiza backup de la configuración de históricos y de datos que esten O.K.

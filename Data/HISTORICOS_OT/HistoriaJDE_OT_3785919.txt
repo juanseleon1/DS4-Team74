@@ -1,0 +1,11 @@
+Solicitante: 4890
+Aprobador: 355694
+Fecha de solicitud: 19 de Noviembre de 2018
+Mantenimiento correctivo
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+Reparación sistema de sensores y protectores
+Reparación sistema de datalogger
+Inspección general del estado de la estación
+Descarga y verificación de datos de la estación
+Verificación del nivel de mira vs. sensor
+Calibración de pluviómetro

@@ -1,0 +1,9 @@
+XL: CHEQUEAR, VERIFICAR Y LIMPIAR CONTROL REFRIGERACION +TCSR DE LA UNIDAD
+
+
+18/11/2013
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas. Además se corrige la fecha y hora de este sistema en la IHM 
+
+
+Realizado por Walter Tobon

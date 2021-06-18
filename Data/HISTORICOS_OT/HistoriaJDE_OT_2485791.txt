@@ -1,0 +1,8 @@
+Marzo 07 de 2014
+
+En la OT 2401061 se encontró un punto caliente en el breaker de potencia a la enttrada fase R y S, 
+
+Para realizar correción se aprovecho que la planta estaba programada en cero de generación, se paró el chiller y los sistemas adjuntos, luego se procedió a apretar los tornillos correspondientes, los cuales si ajustaron. 
+
+Reliazó: Edwar Londoño - Mario Restrepo
+Planeó: Ruben Arboleda

@@ -1,0 +1,17 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento correctivo que comprende el montaje de una nueva cuba móvil en el cojinete de turbina de la unidad 3 
+
+
+
+Ot: 3222731 - Cambiar cuba movil CT G43 - Programador: Camilo Montagut - 12/09/2016
+
+Se cierra ot preventiva ya que las actividades de mantenimiento se ejecutan en la ot: 3144914 que obedece a la ot primigenia para la solución de la fuga de aceite
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+
+
+
+
+

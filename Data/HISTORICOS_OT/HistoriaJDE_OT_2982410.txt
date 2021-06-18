@@ -1,0 +1,9 @@
+
+2016/04/29_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION DE LA INSTRUMENTACION EN EL TABLERO DE CONTROL CON E L PLC.
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XI: VERIFICAR INTRUMENTACION
+
+Verificar instrumentación de llenado tanque combustible de las plantas diesel, lo mismo que el tanque almacenador de combustible, verificar funcionamiento del tablero de control de las plantas y la comunicación con el PLC Modicom.

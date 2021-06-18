@@ -1,0 +1,2 @@
+JUNIO 25 DE 2018   OT: 3706195  PROGRAMO: JGUINGUER  EJECUTO: ANDRES YEPES
+Se realiza limpieza del tablero Control Local V/A Unidad 1, verificación de cableado, estado de los componentes eléctricos y electrónicos; todo se encuentra en normal funcionamiento.

@@ -1,0 +1,10 @@
+2015/06/18 JHONATAN USME - EDWAR LONDOÑO - MARIO RESTREPO, PROGRAMO: RARBOLG
+Se realizó limpieza general y medida de escobillas con los siguientes datos: 
+
+LOCALIZACIÓN            1 2 3 4 5 6 7
+ANILLO A        mm 27,0 25,0 41,0 29,0 28,0 38,0 30,0
+SUPERIOR B        mm 43,0 43,022,0 27,0 39,0 24,0 34,0
+ANILLO A        mm 33,020,0 33,0 27,019,0 37,0
+INFERIOR B        mm 32,019,0 35,0 33,0 26,0 25,0
+
+Se realizó cambio de las escobillas: Anillo Superior: 3B, anillo inferior: 2A, 2B Y 5A

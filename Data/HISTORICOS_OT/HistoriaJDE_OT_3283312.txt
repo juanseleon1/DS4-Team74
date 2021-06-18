@@ -1,0 +1,13 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+27-10-2016
+PROGRAMADOR JOSE MONTOYA
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 283.2mm el nivel patrón es de 132mm con maquina parada 
+Queda pendiente escalizar niveles
+VIBRACIONES: CSPL: 9.31VDC                                                   CSPR: 11.01VDC AJUSTADO A 9.05VDC
+                            AXL: 8.03VDC 
+Se inyectan las siguientes señales
+  COJ GUIA SUP °C COJ EMPUJE °C (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES   PATRÓN °C ACEITE 1 SEG 1 SEG 6 SEG 1 SEG 3  4041,0 41,0 41,0 41,0 41,0  6061,0 61,0 61,0 61,0 61,0  8081,0 81,0 81,0 81,0 81,0  ALARMA Desact 70,0 70,0 70,0 70,0 DISPARO Desact 80,0 80,0 80,0 80,0 
+La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

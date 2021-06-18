@@ -1,0 +1,2 @@
+2018-06-21 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3717586, PASO:1          
+Se realizó mantenimiento al motor de uma 8 transformador c/m gt    CORRIENTE: R:8,1, S:7,5, T:8,4, VOLTAJES RS:449, ST:449, TR:451,TEMPERATURA MAXIMA DE MOTOR 85,5°C Presenta alta temperaturatura en la bornera del motor, imagen: IR003778, Se requiere correctivo.

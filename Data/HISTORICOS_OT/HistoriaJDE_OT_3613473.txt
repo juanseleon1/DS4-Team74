@@ -1,0 +1,10 @@
+FECHA: 30/09/2017    SOLICITADO POR: Natalia Urrea - Operación G4
+DESCRIPCIÓN: El indicador de nivel de ACPM de la Planta Diésel de Emergencia está pegado, lo cual no permite su lectura correcta. MISMO QUE PRESENTA COLMATACION 
+
+19-11-2017
+programo jose montoya
+Referente a la Planta Diésel de GIV:  Se verifica indicador de nivel de ACPM en la planta diésel, ya que según OT 3647348, se había reportado que no mostraba indicación. 
+Se revisa la flotilla de indicación y se encuentra un poco fisurada, también se observa que al moverse tiene una pega en algunos puntos. Se limpia y se corrige la flota, pero sigue sin mostrar indicación. Se toman las referencias para ver si se consigue repuesto de esta flota.
+También se encuentra la flota de ingreso de ACPM con fallas en la rosca, ya que se encontró reventada y esto no permitía que recuperara nivel de ACPM del tanque auxiliar al tanque principal de la planta diésel. Se corrige la rosca, se hacen pruebas y se deja la planta funcionando en local. Pendiente la indicación de nivel.
+Informó: Esteban Hurtado.  Ejecutó: Equipo de mantenimiento electricista Electronico UOG.
+se cierra la orden mientra se ejecuta contrato de servicios de mantenimiento a cargo de la ingeniera Sandra Carmona

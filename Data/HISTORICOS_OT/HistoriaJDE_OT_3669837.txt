@@ -1,0 +1,5 @@
+2018/01/11 RUBEN ARBOLEDA
+En la OT: 3647926 se extrajo el aceite de los PT's, se crea esta OT para realizar adecuación de los PT's, se requiere desarmar en 2 partes para enviar hacia aprovechamiento en medellin. 
+
+2018-01-11 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3669837, PASO:1          
+Se realizó desarme en 2 partes de los PT's retirados de la Subestación (OT: 3647926) con en fin de facilitar el transprote hacia Medellín para aprovechamiento.

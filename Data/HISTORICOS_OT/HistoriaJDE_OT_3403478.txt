@@ -1,0 +1,11 @@
+PLANEADOR:OSCAR RESTREPO
+
+FEBRERO 24 DE 2017
+
+
+PROGRAMADOR: ALIRIO HERNÁNDEZ
+
+
+CE: REVISION Y MEDIR MOTOBOMBAS REGULADOR HIDRAULICO
+
+02/03/2017 Se realizan pruebas en la motobomba , durante la inspeccion se encuentra la bornera reventada del motor , necesario reconstruir borne con resina , se realizan pruebas electricas al motor y se encuentra normal. se diligencia registro de mantenimiento y se almacena en el servidor del 2680.

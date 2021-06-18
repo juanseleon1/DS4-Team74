@@ -1,0 +1,7 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+17-10-2018
+PLANEADOR:GERMÁN BETANCUR
+PROGRAMADOR: JOSÉ MONTOYA
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizó verificación y limpieza a los sensores y conectores de la válvula de admisión

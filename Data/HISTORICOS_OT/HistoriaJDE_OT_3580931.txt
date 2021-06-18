@@ -1,0 +1,9 @@
+
+AGOSTO 30 DE 2017
+
+SOLICITANTE: HENRY GIRALDO
+
+SE PRESENTA FALLA DE COMUNICACION POR PROBLEMAS EN EL MODULO 4,2 (105A3)
+
+Programador: Henry GiraldoFecha: Agosto 30/2017Ejecutante: Pedro Robayo
+Se presenta falla de comunicaciones, se revisa el RFC y se encuentra alarmado en el modulo 4,2 (105A3) se procede a inspeccionar en la Top Box se cambia este modulo y se ajusta el modulo 4,1 se deja en servicio el aerogenerador.

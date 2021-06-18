@@ -1,0 +1,6 @@
+JUEVES 09 FEBRERO/2018
+
+El filtro autolimpiante se estaba quedando pegado, no estaba haciendo el ciclo en automático cuando subía la presión diferencial a 35 Kpa. Se encuentra Tubin obstruido en el transmisor de presión DPIT 02; se desmonta y se normaliza. Además, se posicionan los finales de carrera del filtro autolimpiante FAAC - 2.                                                                        
+
+Realizo: John Jairo Gonzalez
+         Nestor Ochoa

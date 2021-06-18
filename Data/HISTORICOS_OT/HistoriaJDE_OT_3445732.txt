@@ -1,0 +1,10 @@
+2017-04-04 JUAN C DUARTE MUÑOZ.
+
+CORREGIR FUGA DE AGUA QUE SE PRESENTA POR SERVOMOTOR.
+2017/07/28 DIEGO BEDOYA
+Luego de desmontar la tapa superior del servomotor de la válvula esférica de la U4, se evidencio el oring muy plano el cual estaba provocando la fuga.  El oring que se monto es de 8 mm. Se deja el servomotor con la fuga corregida.  En el momento de normalizar se quedo pegado el eje de la válvula 20 HL, esto no dejaba presurizar el caracol; debido a que todo el conjunto hidraulico estaba desabilitado. Se desbloqueo el conjunto y se normalizo la unidad para darle arranque.
+El trabajo fue realizado por: Orlando Zuleta, Yesid Sánchez, Leon Parra y Leonel Alzate.
+
+AGOSTO 14 DE 2017 
+OT TERMINADA Y CERRADA 
+ANDRES RAMIREZ 

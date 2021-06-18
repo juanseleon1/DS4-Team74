@@ -1,0 +1,10 @@
+2016-03-13 LUIS FERNANDO CASTRILLON
+
+SE QUEDA ENERGIZADA LA BOBINA DE APERTURA DEL SECCIONADOR,SE NOTA PRESENCIA DE HUMO. SE QUEMA ESTA BOBINA. 
+SE DESCONECTA EL CABLE DE ALIMENTACION Y SE PROCEDE A DAR APERTURA MANUAL DEL SECCIONADOR.
+REEMPLAZAR BOBINA Y REPARAR LA QUEMADA.
+
+2016/03/18 EDWAR LONDOÑO - SEBASTIAN HINCAPIE, PROGRAMO: RARBOLG
+Se realizò el desmontaje de la bobina, se presentó inconvenientes para retirarlo debido a un tornillo de sujeción de la laminas que soportan la bobina, 
+
+Ésta bobina sen envió a cotización la reparación en TECNIGAL se pone la OT en estado 35, en espera de reparación.

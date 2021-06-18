@@ -1,0 +1,13 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+4/06/2014
+
+se realizo mantenimiento segun instructivo, no se encon tro novedades, se inyectaron  con el calibrador de procesos los transmisores de temperatura Aceite 1, segmento Guia  1 y segmento Guia  3  y se verificaron sus puntos de alarma y disparo y respondieron correctamente.
+El nivel de aceite se encontro en 220.6 mm su nivel patron es de 220 mm. En la referencia mecanica se encontro en su valor normal.
+
+VIBRACIONES.
+CTL:8.26 VDC
+CTP:9.35VDC
+
+EJECUTO: FREDY DUARTE , MARLON CARMONA,  FRANCISCO GONZALEZ Y ANA MARIA PALACIO
+

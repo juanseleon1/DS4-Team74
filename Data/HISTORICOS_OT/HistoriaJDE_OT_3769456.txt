@@ -1,0 +1,4 @@
+
+2018/10/04 DIEGO BEDOYA
+Se cierra la válvula de entrada de aire al tanque acumulador del interruptor y se evidencia que la presion cae menos de 1 Kg/cm2 en más de dos horas, se limpia y se deja nuevamente la válvula abierta para que opere normalmente.
+el trabajo fue realizado por: Yesid Sánchez, Orlando Zuleta y Edwin Foronda

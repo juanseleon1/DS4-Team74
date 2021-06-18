@@ -1,0 +1,5 @@
+
+05/10/2017 Cesar Tulio/ Luis Eduardo Arcila OT 3618316
+
+Se atiende falla RTU cámara de válvulas, se repara tarjeta de acople quedando en condiciones normales de operación.
+Se dejan trabajando el ventilador  S10.

@@ -1,0 +1,5 @@
+
+14/09/2017 Cesar Tulio/ Luis Eduardo Arcila OT 3596107
+
+Se atiende falla RTU cámara de válvulas,se cierra interruptor 480 Vac, quedando en condiciones normales de operación.
+Se dejan trabajando los ventiladores S7 y S10 parados por el evento.

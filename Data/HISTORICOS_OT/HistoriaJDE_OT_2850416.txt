@@ -1,0 +1,19 @@
+AGOSTO 19 DE 2015 
+
+MONTAR LA BOMBA CW 6 EN UNO DE LOS HUECOS DONDE ESTABA MONTADA LA ACRA
+
+JAIME A RAMIREZ 
+
+2015/08/29 DIEGO BEDOYA
+Se trajo un motor del almacén para montar con esta bomba; pero este presentó problemas ya que al momento de arrancar para medir vibraciones se quedaba frenado, se informa al grupo electrico para que realice las pruebas que indiquen cual es el problema.
+para dar solucuón a este asunto, se monta el motor que estaba marcado como CW10 y se ensaya en la bomba. se deja en condiciones normales de operación y se entrega al grupo de operación el día de hoy para que habiliten el aire acondicionado de la planta.   
+
+La bomba queda con los siguientes datos:
+
+PRESIÓN: 50 PSI
+VIBRACIONES:
+1HOR X: 2.09 mm/s
+1 HOR Y: 3.14 mm/s
+2 HOR X: 0.91 mm/s
+2 HORY: 1.65 mm/s
+2 AXI: 0.31 mm/s

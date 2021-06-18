@@ -1,0 +1,11 @@
+2017-08-04 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3441647, PASO:0.1          
+Se realizó corrección de alumbrado en S/E, queda pendiente continuar
+
+2017-08-08 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3441647, PASO:1          
+Se realizó reparación de alumbrado en edificio de la subestación, queda pendiente continuar.
+
+2017-08-16 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: SOLIVARE OT: 3441647, PASO:2          
+Se realizó reparación de alumbrado en el edificio de la Subestación
+
+2017-09-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3441647, PASO:3          
+Se realizó reparación del alumbrado interno en la Subestación, se finalizó.

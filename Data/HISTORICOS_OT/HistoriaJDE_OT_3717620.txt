@@ -1,0 +1,5 @@
+
+28-Julio-2018 OT:3717620 Edwar Londoño / Johnatan Usme / Luis Eduardo Arcila 
+Se realiza mantenimiento al control, limpieza a los tableros y torque a las borneras.
+Se cambia rele de control por presentar vibracion al estar energizado.
+En conjunto con el equipo de operación se realiza la transferencia automática para verificar el funcionamiento del automatismo, con resultados satisfactorios.

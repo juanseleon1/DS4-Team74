@@ -1,0 +1,6 @@
+FECHA: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Jhonatan Arango y Olga Viana.
+
+Se realiza inspección, mantenimiento y limpieza a los tableros +PCG, +TCIG, en el recinto se revisan y limpian las resistencias calefactoras, se les mide su resistencia óhmica y se llenan registros con los valores. R-S= 60.2 OHMIOS, S-T=60.5 OHMIOS, T-R=60.3 OHMIOS.
+Trabajo ejecutado por: Jhonatan Arango y Olga Viana.
+
+XE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD

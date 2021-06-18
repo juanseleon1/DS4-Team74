@@ -1,0 +1,28 @@
+REALIZACION DE PRUEBAS ELECTRICAS ANUALES AL GENERADOR PORCE 33
+
+OT: 3789032
+FECHA: 27-11-2018
+PROGRAMÓ: DANIEL PALACIOS
+EJECUTÓ: JHON JADER ORREGO
+
+SE REALIZAN PRUEBAS ANUALES AL GENERADOR Y ROTOR DE LA UNIDAD, SE HACE LA DESCONEXION DE LOS BARRAJES DE SALIDA Y NEUTRO EL GENERADOR, PARA LAS PRUEBAS DE FACTOR DE POTENCIA, IP, RESISTENCIA OHMICA, MEDIDA DE INDUCTACIA EN BOBINAS, Y EL INDICE DE ABSORCION; LOS REGISTROS SE GUARDAN EN EL ARCHIVO TECNICO.
+
+SE RALIZÓ ADEMAS LA INSPECCION VISUAL EN LOS DEVANADOS DE ROTOR Y ESTATOR
+
+SE ENCUENTRA POLVILLO BLANCO EN LA ZONA CERCA A LAS CABEZAS DE BOBINA SUPERIORES DE LA 201 A LA 21, SE REALIZARON PRUEBAS DE TENSION CON EQUIPO M4000 APLICANDO 10 KV, Y CON LAS LUCES APAGADAS, INTENTANDO IDENTIFICAR POSIBLE PRODUCCION DE OZONO EN EL MISMO LUGAR, (EFECTO CORONA) NO SE OBSERVA NADA ANORMAL, QUEDA EN OBSERVACION, QUEDA PENDIENTE LA VERIFICACION DEL INTRUMENTO DETECTOR DE OZONO EN CABEZAS DE BOBINA, DEBIDO A QUE MUESTRA EN CERO LA MEDIDA EN LA IHM DEL TABLERO TCIG (VERIFICAR CON EL INSTRUMENTISTA).
+
+INFORME MTTO BIENAL P33 28 DE NOVIEMBRE DE 2018
+A las 23:04 Se entrega en operación la unidad Porce 33, después de realizar el mtto bienal 
+Trabajos realizados:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares).
+ Inspección mecánica del generador (estator y rotor lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina (distribuidor, cámara espiral, resane de alabes fijos) cambio de patines axiales No 3 y radiales, No 1, 2, 7, 8, y 9.
+ Inspección metrológica a la unidad No 3 de Porce 3.
+ Se instala IHM nueva en el Tablero control frenos. Porce 33.
+ Pruebas eléctricas al rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de unidad (Paro rápido 86R, paro de emergencia 86E).
+ Mantenimiento semestral eléctrico, mecánico y electrónico.
+ Medida de resistencia de aislamiento rotor: Antes 240 kilohmios y después 3.8 megaohmios.
+ En turbina Pendiente corregir fuga en buje superior No 8 y 18.                                                    Consignación No @147760, OT 3779285.                                                                                   Informó: 
+Jefe De Trabajo: Luis Federico Álvarez A.
+Lideres Y Tecnólogos: Daniel Palacios, Néstor Ochoa, Carlos Moncada, Walter Tobón, Cristian Gómez, Richard Jiménez.

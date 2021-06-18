@@ -1,0 +1,7 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo que comprende el drenaje del agua remanente en el vertical de Miraflores, actividad que se debe realizar a la consecuente inspección de la válvula de cono de la misma presa de Miraflores
+
+Programador: Camilo Montagut Gil - 29/08/2017
+
+Se cierra ot registrando que el trabajo se realizó en el mes de abril del presente año debido a los trabajos concernientes en la válvula de cono de la misma presa.
+
+Ejecuta: equipo mantenimiento mecánico UOG

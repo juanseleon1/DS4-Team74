@@ -1,0 +1,4 @@
+AE: VERIFICACION Y LIMPIEZA SERVICIOS AUXILIARES MISCELANEOS GT
+
+2016/01/15 SEBASTIAN HINCAPIE - EDWIN ARANGO, PROGRAMO: RARBOLG
+Se realizo limpieza general al tablero, inspección termografica, en la cual se encontró unos puntos calientes en los breakers y bornera, se realizó ajuste y mejoró, adicionalemnte se encontró un punto caliente en una terminal del transformador, se crea OT correctiva: 2988468 para atender la corrección.

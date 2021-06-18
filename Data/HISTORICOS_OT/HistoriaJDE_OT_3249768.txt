@@ -1,0 +1,20 @@
+
+2016/09/19_ CARLOS ENRIQUE MONCADA. OT N°3249768.
+SE CAMBIAN LOS DOS TRANSMISORES IQ1 CON PRESION  2.7 BAR E IQ2 0.87 BAR.  
+
+
+2016/09/19
+
+REVISAR PARO RAPIDO U3 , FALLA TRANSMISOR DE PRESION IQ1,IQ2 BOMBAS SELLO DEL EJE.
+
+
+19/09/2016
+
+Se realiza la instalación de dos nuevos sensores de presión para las medidas de presión, se instalan dos sensores de presión de 0 a 6 Bar se verifica en el programa del PLC los lazos de corriente para determinar la escala de estas medidas, se normaliza la indicación en el sistema y se realiza formula en el SCADA para determinar la presión diferencial de estas medidas. Se realizan pruebas con la unidad girando en vacío y luego con la unidad sincronizada, la indicación se normaliza, se entrega la unidad para explotación comercial.
+
+Realizado por Wtobonl
+
+Terminada Cerrar
+
+
+ 

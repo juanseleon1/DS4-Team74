@@ -1,0 +1,11 @@
+FECHA: 18/05/2017
+SOLICITADA POR: EDUARD QUINTERO - ORLANDO CORREA
+
+SE DA PARO LA UNIDAD POR FALLA EN LAS COMUNICACIONES DE CONTROL DE UNIDAD.
+
+18/05/2017
+ESTACION INGENIERIA GUADALUPE 4
+
+Desde la estacion de Ingenieria se produjo la salida forzada, por error en la manipulacion de una variable en la secuencia de paro de Emergencia. Se procede a normalizar la variable, cerrar la tarea y darle rearranque a la unidad.
+
+Planeador: Oscar Arango

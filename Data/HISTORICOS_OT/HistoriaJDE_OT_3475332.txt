@@ -1,0 +1,14 @@
+07/05/2017 NESTOR OCHOA 
+REPARAR GANCHO PRINCIPAL PUENTE GRUA 3.
+
+Se procede a revisar el funcionamiento del puente grúa número 2 de porce 3 bajo la OT3475332.
+Inicialmente estaba bloqueado el gancho principal, no aceptaba ninguna orden del mando. 
+Para solucionar el inconveniente se procede a revisar las alarmas presentes en la ihm, para hacer esta revisión es necesario ingresar el password a la ihm, la cual es:
+Usuario: EPM001
+PASSWORD: 0000
+Se evidencia que la alarma de final de carrera gancho principal, esta no se deja resetear por lo que es necesario puentear el microswiche “ final de carrera parada subir” , el cual llega a la entrada i3.31 borne 109 en el módulo del plc.
+Se procede a resetear nuevamente la falla y esta normaliza. 
+Posteriormente se retira el puente de la entrada i3.31. 
+Se realizan varias pruebas al equipo y a los topes de final de carrera y estos actúan correctamente. 
+
+Néstor Ochoa.   

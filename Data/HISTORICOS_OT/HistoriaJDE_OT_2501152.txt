@@ -1,0 +1,52 @@
+PLANEADOR. OSCAR RESTREPO ALVAREZ
+
+
+ABRIL 02 DE 2014
+
+
+
+ESTA OT INCLUYE :
+
+
+Cambiar cojinete turbina
+Desmontar cojinete turbina:
+Armar Pluma piso de Turbina
+Retirar guarda acople eje intermedio- turbina
+Desmontar tuberías de refrigeración.
+Retirar las guías cónicas y los tornillos que posicionan y fijan la tapa soporte
+Izar tapa soporte de cojinete
+Bloquear con rieles el cojinete
+Retirar los tornillos que aseguran la tapa soporte al cojinete
+Desmontar tapa soporte cojinete
+suspender cojinete de turbina
+retirar rieles de bloqueo
+Desmontar tapa cuba cojinete
+Desmontar cojinete en dos mitades
+Extraer aceite de cojinete
+Desmontar la cuba
+Desmontar tapa porta juntas 
+Fin
+Montar cojinete turbina:
+Montar tapa porta juntas 
+Montar la cuba y prueba estanquidad
+Montar cojinete soportado en los rieles
+Montar tapa cuba cojinete
+Montar tapa soporte cojinete
+Izar cojinetes y sacar rieles
+Descender cojinete y posicionar tapa soporte
+Asegurar holgura cojinete de turbina
+Retirar galgas de bloqueo y dispositivos de holgura
+Montar Tuberías
+Montar Guarda acople
+EL: Verificar instrumentación CJT
+Desconectar y desmontar RTD´S de metal y aceite.
+Desconectar y retirar instrumentación presión , nivel y flujo
+Desmontar sensores de vibración del CJT
+Limpieza de la instrumentación
+Verificación instrumentación con equipos patrones
+Pruebas funcionamiento del sensor de nivel
+Montaje y conexión RTD´s de metal y aceite.
+Montaje y conexión de instrumentación presión y nivel 
+Realizar curva característica sensores de vibraciones
+FIN
+

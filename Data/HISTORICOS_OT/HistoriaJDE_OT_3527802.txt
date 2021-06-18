@@ -1,0 +1,4 @@
+JULIO 31 DE 2017     OT NÚMERO 3527802     PROGRAMÓ: JGUINGUL     EJECUTARON: ALEXANDER VILLA 
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de: Núcleo Estator U2 S1Equipo 40°C 60°C 80°CTemperatura 1 39.81 59.58 79.57Temperatura 2 38.63 58.51 78.82Temperatura 3 39.60 59.58 79.57Valor programado Alarma:95°CValor programado Disparo:100°CComentarios:Sin novedades Temperaturas de: Devanado Estator U2 S1 Equipo 40°C 60°C 80°CFase R 39.27 59.26 79.35Fase S 38.63 59.47 79.46Fase T 39.49 59.48 79.57Valor programado Alarma:95°CValor programado Disparo:100°CComentarios:Sin novedades   

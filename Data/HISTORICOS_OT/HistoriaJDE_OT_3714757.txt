@@ -1,0 +1,14 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 20-04-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Realizar mtto,se bajan datos, se realiza limpieza de la estacion.
+
+Hasta la fecha ha sido imposible que se reabran las Ot para ingresar el tiempo real laborado He hecho la solicitud en varios catálogos para que sean reabiertas en el estado 30 en el aplicativo JD Ewards, pero ha sido imposible. Siempre contestan que el catalogo ha sido resuelto y cerrado, pero al ingresar a la aplicación estas Ot continúan en estado 90 cerradas lo cual imposibilita el ingreso del tiempo. A continuación, relaciono algunos catálogos elaborados.
+
+1053434
+1042848
+1052218
+1053434
+
+Por ultimo ya me aparece este comentario: Cuenta Auxiliar Inactiva

@@ -1,0 +1,12 @@
+MAY 30/2014 OT: 2509054 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edisson Hernández.
+Furon cambiados varios tubos fluorescentes normalizandose la iluminación en La casa de Maquinas.
+
+ABRIL 14/2014
+
+Revisar la alimentacion de la iluminacion de la casa de maquinas Guadalupe 4.
+Esta alimentacion Originalmente estaba desde servicios esenciales y barra 1 de 480v, ahora esta conectada desde la barra 2 de 480v, cuando ocurre un evento la iluminacion no entra.
+
+Informa 
+
+Turno 3 de Operacion.
+

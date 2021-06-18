@@ -1,0 +1,6 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Frank Cordoba y Julian Giraldo.
+
+Se realiza inspección y limpieza al barraje de salida, se realiza inspección y mantenimiento a mallas separadoras del barraje, baquelitas separadoras de barras, conexiones entre barras y estado del aislamiento, también se revisan el estado de los CT´s, de sus conexiones eléctricas en el tablero +CCCTS.
+Trabajo ejecutado por: Frank Cordoba y Julian Giraldo.
+
+XE: LIMPIAR E INSPECCIONAR BARRAJE ESTATOR GENERADOR UNIDAD

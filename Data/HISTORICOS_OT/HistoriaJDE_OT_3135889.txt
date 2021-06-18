@@ -1,0 +1,17 @@
+- FECHA : SÁBADO JUNIO 04 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : MARIO G. B.
+- ASOCIADO A LA OT : 3135859
+- ASUNTO : VIGILANTE DE LA PORTERÍA ENTRADA S/E INFORMA QUE DESDE LA BASE MILITAR LE SOLICITAN INFORMAR A MANTTO 
+           QUE ESTÁN SIN AGUA EN EL EDIFICIO DE LA BASE MILITAR .
+           * SE ENVÍA A WILFER HINCAPIÉ Y DIONIS ZAPATA A VERIFICAR EN EK SITIO QUE PUEDE ESTAR PASANDO.
+   Walter, por favor y con respecto a la motobomba de la base militar , tener en cuenta lo siguiente :
+1. El motor se revisó  e inicialmente se encontró que podía tener problemas en el condensador de arranque . Se llevó uno de la planta para ensayar pero no arrancó…
+2. Para  poder determinar cuál puede ser la falla , hay que literalmente bajar el motor  y revisar :
+·De nuevo revisar el condensador 
+·Verificar el estado del suiche centrífugo: así este malo el condensador y abierto el suiche centrífugo( siempre debe estar cerrado antes de iniciar arranque del motor para conectar por unos 3 a 5 segundos la bobina de arranque y luego desconectarla y continuar trabajando solo con la bobina de marcha ) , el motor al menos debe intentar arrancar. No lo hace 
+·Con base en lo anterior , Fredy ,  debe hacer una prueba de aislamiento al devanado del motor antes de volver a intentar arrancarlo.
+·Hay un reporte por parte del personal mecánico de la planta hace varias semanas donde se informa que este motor requiere cambio de balineras 
+3. Como no tenemos el personal para atender este evento con todo lo que implica ( disponer de tiempo y personal )e igual pienso que al final implicaría mínimo la compra de repuestos  , organizar con Fredy y/o los electricistas del contrato para que suban y revisen y determinen lo que hay que hacer…
+
+          

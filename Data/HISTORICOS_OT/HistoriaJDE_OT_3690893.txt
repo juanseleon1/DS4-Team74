@@ -1,0 +1,11 @@
+FECHA: 2018/03/28  OT # 3690893  PROGRAMÓ: CRISTIAN A GÓMEZ  EJECUTÓ: JADER ORREGO - FRANK CORDOBA
+SE REALIZA MANTENIMIENTO PREVENTIVO ELECTRICO SEGÚN INSTRUCTIVO GCP2E0021, SE HACE LIMPIEZA  DE LA PLANTA, SE LE REALIZAN PRUEBAS FUNCIONALES A LA PLANTA EN VACIO, FUNCIONANDO CORRECTAMENTE.
+
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual del estado de terminales, borneras y cableado; limpieza de la planta.
+
+Verifcar cargador y baterias. prueba de en funcionamiento bajo carga, registrar corrientes y tensiones, por medio del Siprotec
+
+APLICAR LAS CINCO REGLAS DE ORO.

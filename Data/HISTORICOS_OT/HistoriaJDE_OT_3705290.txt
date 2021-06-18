@@ -1,0 +1,2 @@
+2018-07-05 REALIZÓ: EDWAR ALEXANDER LONDOÑO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3705290, PASO:1          
+Se realizó limpieza general al tablero de control del generador asincrónico, se dejó en condiciones normales.

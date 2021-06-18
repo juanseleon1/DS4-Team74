@@ -1,0 +1,12 @@
+2017/12/27 _ CARLOS ENRIQUE MONCADA. OT N° 3606496.
+REFERENTE A LA UNIDAD N°1:
+
+Regulador Electrónico Diggipid 1500: Presenta falla en el parámetro de consigna de potencia activa, por esta razón la unidad no sostiene una potencia activa estable, esto se evidencia principalmente cuando las demás unidades están haciendo regulación secundaria y hay variación de presión en turbina.
+
+--------------------
+
+REGULADOR ELECTRONICO DIGGIPID 1500 PRESENTA FALLA EN EL PARAMETRO DE CONSIGNA DE POTENCIA ACTIVA, POR ESTA RAZON LA UNIDAD NO SOSTIENE UNA POTENCIA ACTIVA ESTABLE ESTO SE EVIDENCIA PRINCIPALMENTE CUANDO LAS DEMAS UNIDADES ESTAN HACIENDO REGULACION SECUNDARIA Y HAY VARIACION DE PRESION EN TURBINA.
+
+FECHA: 25 DE SEPTIEMBRE DE 2017.
+
+INFORMA: LUIS FDO LOPERA - VICENTE GAMBOA H.

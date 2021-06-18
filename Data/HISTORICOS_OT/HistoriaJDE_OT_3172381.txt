@@ -1,0 +1,3 @@
+JUNIO/11/2016 EDWAR LONDOÑO OCAMPO
+Se toman registros de corrientes a los equipos periféricos de la planta, en los tableros  distribución principal 1 y 2, distribución general 1 y 2 y en los centro control motores 1, 2, 3, y 8 para análisis de consumo de cargas de la central.JUNIO/11/2016 EDWAR LONDOÑO OCAMPO
+Se toman registros de corrientes a los equipos periféricos de la planta, en los tableros  distribución principal 1 y 2, distribución general 1 y 2 y en los centro control motores 1, 2, 3, y 8 para análisis de consumo de cargas de la central.

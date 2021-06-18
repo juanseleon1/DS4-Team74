@@ -1,0 +1,12 @@
+2018/05/13 _ CARLOS ENRIQUE MONCADA. OT N° 3724138.
+Se crea OT para revisión de la secuencia de arranque de la válvula esferica de la U2.
+REVISAR TRANSMISOR DE NIVEL AGUAS ABAJO TCV UNIDAD N°2
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3732429.
+Referente al TCV Unidad N° 2:
+
+Se realiza el cambio del transmisor de presión aguas abajo. Se retiro uno nuevo del almacén, se le realiza parametrización y configuración; se hacen pruebas en la válvula esférica abriendo y cerrando, observando la igualación de presiones funcionando bien; tanto aguas arriba como aguas abajo. El sistema queda en condiciones operativas.  
+
+Realiza: Eladio Piedrahita, John Jairo González, Fabian Gómez.
+
+CERRADA 
+

@@ -1,0 +1,19 @@
+DICIEMBRE 12/2013
+
+Revisar el interruptor de campo de la Unidad 2 de Troneras, no esta cerrando en automatico.
+
+Informa
+
+Operadores Troneras.
+
+13/DICIEMBRE/2013
+EXCITACION NO ENTRA EN MODO AUTOMATICO
+Interruptor de campo U2 Troneras.                                                                                                                                                                                                                                                                         Inicialmente se reportó problemas para la secuencia de arranque en modo automático, el operador debía excitar la unidad de forma manual. Realizando una revisión de los permisivos por control de unidad para excitar la unidad en el paso 7 se encuentra que uno de ellos es "relé térmico excitación sin falla" esta señal debe de estar siempre en 1. 
+El día 08 de diciembre personal de matto identifico un problema en el relé SEG del tablero +TPTEU2 el cual supervisa la corriente de excitación y procedieron a desconectar el borne D7, C7 de supervisión del Relé, puesto que presentaba una falla recurrente y el contacto de salida hacia el control llenaba de eventos la pantalla de operacion.  
+Para que la excitación entrara en modo automático se procedió a forzar esta señal en la RIO 08 - modulo 2 - canal 9, para que el control tenga los permisivos para cerrar interruptor de campo.
+Se realizan pruebas lanzando la secuencia en mando automático y la excitación entra normal.
+
+NOTA: Ya el grupo de protecciones está enterado para que revisen este relé y si es necesario cambiarlo por un repuesto.
+
+PROGRAMADOR:Oscar Arango
+EJECUTO: Fredy Duarte - francisco González

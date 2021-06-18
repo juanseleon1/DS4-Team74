@@ -1,0 +1,8 @@
+2015/09/03 HEILER PALACIO
+
+SE REQUIERE INSTALAR TOMA PARA MONITOR DE ESTACION 1, CON EL FIN DE INDEPENDIZARLA DE LA IMPRESORA, YA QUE EL MONITOR SE ENCUENTRA CONECTADO A UN TOMA COMUN NO REGULADO.
+
+2015/09/03
+
+Se instala toma doble, se organizan cables de control y potencia y se reubica impresora en la sala de operación casa maquinas Guatapé.
+learcilas

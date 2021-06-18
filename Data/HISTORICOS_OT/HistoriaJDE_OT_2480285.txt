@@ -1,0 +1,17 @@
+Segun informe diario del 28-02-2014: 
+
+Unidad 8. Sale "bomba 1 aceite regulador alarma sobrecarga". Queda seleccionada la bomba 2.
+
+Se realizó inspección de potencia, se ecnopntró termico disparado se reseteó y se realizó pruebas, inciialmente operó por un rato, luego se disparó nuevamente, 
+
+Se realizó seguimiento de corrientes, mientras se hacía esta prueba se disparó sin sobrecarga aparente, se reseteo y contuo con las pruebas. 
+
+Se adecuó analizador de energía y se evidenció que en momentos se presentaba picos de correitne en la fase T, se procedió a verificar estado de contactos del contactor y se encontró el contacto correspondiente desgastado. 
+
+Se realizó cambio de contactor por uno nuevo de 40 Amperios, se hizo pruebas de servicio con 14 amperios en promedio de trabajo y se dejó en operacion normal. 
+
+El contactor instalado fue uno que se tenía en planta, es necesario tramitar compra para reponerlo. 
+
+Realizó: Edwa Lonodño - Mario Restrepo
+OT: 2480285
+Planeo: Ruben Arboleda

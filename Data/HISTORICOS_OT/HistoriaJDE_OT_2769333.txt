@@ -1,0 +1,4 @@
+FECHA: Junio 14/2015PROGRAMO: Daniel PalaciosEJECUTO: Jorge Muñoz.
+Se realiza mantenimiento según instructivo del procedimiento, se realiza limpieza general, se revizan conexiones en terminales y bornes, se repuso minibreaker MCB que se encontraba en posición OFF.
+
+XE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD

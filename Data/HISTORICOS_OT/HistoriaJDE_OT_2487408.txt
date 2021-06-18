@@ -1,0 +1,6 @@
+MAR 19/2014 OT: 2487408 PROGARAMÓ: Javier Giraldo EJECUTÓ: Saul Correa.
+Se realizó el mantenimiento según el instructivo GCTRE0002
+Se realizaron las pruebas eléctricas a las resistencias.
+Ver registros en el archivo de Troneras.
+
+XE: REVISAR Y MEDIR CALEFACCIÓN GENERADOR

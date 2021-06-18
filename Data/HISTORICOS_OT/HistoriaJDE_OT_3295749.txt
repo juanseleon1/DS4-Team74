@@ -1,0 +1,8 @@
+28 DE OCTUBRE DE 2016 IVAN DARIO ZAPATA GOMEZ
+UNIDAD G31
+REVISAR INTERRUPTOR Q02 SERVICIOS AUXILIARES 440 VCA UBICADO EN EL +TPU1 "TABLERO DE POTENCIA DE LA UNIDAD 1"  ESTE SE ENCUENTRA CON ALGUNOS ELEMENTOS REVENTADOS (TORNILLOS DE ACOPLE).
+
+NOVIEMBRE 6 DE 2016
+Se desmonta el interruptor para revision y se encontro la unidad motorizada suelta de la base con los tornillos flojos, se procede hacer el ajuste, se verifica su correcto funcionamiento quedando normal.
+
+William Lopera.

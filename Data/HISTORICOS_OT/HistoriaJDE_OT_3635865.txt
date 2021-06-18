@@ -1,0 +1,6 @@
+
+
+2017-10-30 LUIS EDUARDO ARCILA
+se encuentra fallado el modulo de alarmas swpm 1a1b, se retiran y se envian a RPM para su reparacion.
+
+

@@ -1,0 +1,10 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2018-02-06 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3651897, PASO:1          
+Se realizó mantenimiento al motor de ventilador s5    CORRIENTE: R:48,7, S:47,7, T:48,7, VOLTAJES RS:442, ST:440, TR:441,TEMPERATURA MAXIMA DE MOTOR 62,2°C
+
+2018-02-06 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3651897, PASO:2
+Se realizó informe termográfico al ventilador S5 se evidenció punto caliente y se crea OT 3683639 para intervención, 
+Diagnostico: La temperatura de los cables de la peineta de del cubiculo se encuentran en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 15.7°C, lo cual requiere reparar inmediatamente. Pero esta temperatura puede ser un refejo del punto caliente en la fase S de la peineta de salida.
+Se crea OT: 3683639 para su revisión
+Se anexa el informe a la OT.

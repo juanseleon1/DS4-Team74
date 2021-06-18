@@ -1,0 +1,12 @@
+
+ FEBRERO 05 DEL 2016 - JEOVANNY CORREA G
+
+ Se encuentra tarjeta serial del controlador principal quemada y el controlador de respaldo fallado en G41 , por lo tanto no se tenía control de las señales que vienen por comunicación modbus. 
+Se procede a resetear el controlador de respaldo y normaliza la unidad.
+Queda pendiente cambiar la tarjeta serial del controlador principal.
+
+FEBRERO 08 2016
+
+SE CAMBIA LA TARJETA SERIA DEL CONTROLADOR PRINCIPAL DE G4U1, LA TARJETA SE FALLO DEFINITIVAMNET Y SE APAGO, LUEGO SE OBSERVA QUE LA COMUNICACION SE BLOQUEA DE NUEVO, SE HACENREVISIONES Y PRUEBAS Y SE DETECTA QUE LO OCASIONA EL FALLO DE LA RED MODBUS ES UNO DE LOS ESCLAVOS MAS CONCRETAMENTE EL MEDIDOR "PECA", ESTE SE DESCONECTA DEL LAZO Y SE DESHABILITA TAMBIEN POR SOFTWARE PARA QUE NO SEA INTEROGADO POR EL MAESTRO...
+
+JUAN ALBERTO CAICEDO HENAO

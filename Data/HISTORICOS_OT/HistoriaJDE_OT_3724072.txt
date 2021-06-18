@@ -1,0 +1,18 @@
+12/05/2018
+
+SOLICITANTE: JIMMY CUARTAS - MARTA PARRA
+
+EN TABLERO DE DISPAROS GENERALES EL RELE KCR SUITCHEA POR MOMENTOS, ESPECIALMENTE CUANDO EN EL MONITOR G3S8 PANTALLA VALVULA MARIPOSA 2 APARECE EL AVISO RECUPERANDO PRESION VALVULA Y DESAPARECE LA SEÑAL EN EL TABLERO, DE VALVULA ABIERTA.
+
+11-05-2018
+Referente a cámara de válvula Gpe 3.
+En el tablero +TDG (Tablero de disparos generales), ubicado en sala de operación Gpe 3, se encuentra el relé KCR operando de manera intermitente, este relé nos indica el estado de la cámara de válvulas Gpe 3, al revisar nos encontramos de que no está llegando la señal de posición de la mariposa N 2, se hace una revisión en cámara de válvulas Gpe 3 y se encontró la bomba N 1 y la bomba N 2 falladas, se normaliza el control de las bombas y se recupera la presión de la mariposa N 2. Quedando todo en condiciones normales de operación.
+Realizo: Cesar Giraldo, Uaimer Díaz y Sergio Areiza.
+Informo: Uaimer Diaz.  
+
+12-05-2018
+Referente a cámara de válvula Gpe 3.
+se revisa en los planos la oscilacion del rele KCR en el tablero +TDG (Tablero de disparos generales) y  la intermitencia del rele corresponde a la señal del segundo sensor cuando la valvula se esta cerrando, se solicita al operador de la camara valvula que opere comando de apertura manualmente al 100%, se normaliza el rele.
+Fredy Duarte, Carlos Forero, Sandra Carmona, Jose Montoya.
+
+ 

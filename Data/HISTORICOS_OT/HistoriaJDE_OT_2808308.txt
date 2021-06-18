@@ -1,0 +1,2 @@
+2015/11/03 OSCAR GIRALDO - JUAN DAVID GARCIA
+Se inicia con el mantenimiento del puente grúa, se realizó desmontaje, limpieza y montaje de los patines, se midio corriente en los motores en cada velocidad, como es el primer mantenimeinto que se realiza al puente grua con el control por variacion de frecuencia, se pretende realizar el nuevo procedimiento y establecer los puntos de medida para cada motor. 

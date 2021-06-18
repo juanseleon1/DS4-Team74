@@ -1,0 +1,46 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+ 03/11/2016. SERGIO OLIVARES D.
+
+Se midio aislamiento a 500 VDC.
+
+ 1.Antes de limpieza:
+
+            ROTOR + BARRAJE = < 500 K
+ ROTOR                        = < 500 K
+BARRAJE                   = <500 K
+
+           2.Después de limpieza:
+
+            ROTOR + BARRAJE = < 1.07 G
+ ROTOR                        = < 2.05 G
+BARRAJE                   = < 3.64 G
+
+ 3. RESISTENCIA OHMICA = 120.6 m 
+ 4. INDUCTANCIA                 = 107.8 mH
+ 5. CAPACITANCIA              = 23,48 µF
+
+          .   
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+ 03/11/2016. SERGIO OLIVARES D.
+
+Se midio aislamiento a 500 VDC.
+
+ 1.Antes de limpieza:
+
+            ROTOR + BARRAJE = < 500 K
+ ROTOR                        = < 500 K
+BARRAJE                   = <500 K
+
+           2.Después de limpieza:
+
+            ROTOR + BARRAJE = < 1.07 G
+ ROTOR                        = < 2.05 G
+BARRAJE                   = < 3.64 G
+
+ 3. RESISTENCIA OHMICA = 120.6 m 
+ 4. INDUCTANCIA                 = 107.8 mH
+ 5. CAPACITANCIA              = 23,48 µF
+
+          .   

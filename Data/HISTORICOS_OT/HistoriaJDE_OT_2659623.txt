@@ -1,0 +1,8 @@
+SOLICITANTES: Ramiro Cordoba - Mario Hache - FECHA: Martes, Dic. 16 DEL 2014.
+LA   TEMPERATURA   DEL   AIRE   DE   SALIDA   DEL   RADIADOR   Nº2   DEL   SIS.   REFRIGERACION   GENERADOR   DE  G33,   PRESENTA   VALOR   NEGATIVO.   FAVOR   CORREGIR.
+
+02/ENERO/2015
+Se realiza un seguimiento a la señal de la RTD desde el propio instrumento, pasando por el transmisor de temperatura ABB, se reseteo el transmisor (apagado y encendido), comprobando la correcta visualizacion en la pantalla de control de la unidad y en la sala de operacion.
+
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+Programador: Oscar Arango

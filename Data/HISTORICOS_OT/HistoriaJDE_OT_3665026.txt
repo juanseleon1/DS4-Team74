@@ -1,0 +1,12 @@
+2017/12/30 RUBEN ARBOLEDA
+En la ejecucion de la OT: 3641189 se informó el siguiente diagnostico: 
+
+DIAGNOSTICO: 
+La temperatura de la peineta del cubiculo se encuentra en el nivel 4 de los  parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 24.4°C, lo cual indica que presenta una deficiencia mayor en su funcionamiento, se debe revizar las conexiones y mejorar el contacto, sin embargo se debe analizar si es una tansferencia de temperatura por el punto caliente en la fase R de la peineta de salida. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación
+
+Se crea esta OT para su revisión
+
+2018-01-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3665026, PASO:2          
+Se realizó mantenimiento correctivo a la motobomba ARAA1 ya que presentaba punto caliente en la peineta de salida presentaba un Delta T° = 14.7°C, Se le realiza un correctivo a la peineta mejorando los contactos electricos y las conexiones, se evidencia una disminuicion en el Delta T°= 1.2°C, Dejandola dentro de los parámetros normales de operación, adicionalmente La Peineta del cubiculo presentaba un Delta T° = 24.4°C, Se le realiza un correctivo a la peineta mejorando los contactos electricos y las conexiones, se evidencia una disminuicion en el Delta T°= 0.3°C, Dejandola dentro de los parámetros normales de operación. 
+
+Se adjunta el informe termografico a la OT.

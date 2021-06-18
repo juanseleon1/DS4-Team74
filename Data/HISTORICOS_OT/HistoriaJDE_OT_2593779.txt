@@ -1,0 +1,10 @@
+ESTA OT SE REALIZA PARA EJECUTAR LOS TRABAJOS CALIBRACION Y AJUSTE DEL PRESOSTATO MECANICO DE LA VALVULA DE INTERMITENCIA DE LAS MOTOBOMBAS 1 Y 2 DE LA CENTRAL DE GUADALUPE 3.
+
+03/SEPTIEMBRE/2014
+Se calibro el set de arranque y paro de las Bombas principal y respaldo del Regulador Hidraulico por presentar inconsistencias en su funcionamiento, para lo cual fue necesario desmontar la valvula de intermitencia de cada bomba y se encontraron en buen estado. La bomba principal quedo arrancando en 23 bar y parando en 24.5 bar.
+La bomba de respaldo quedo arrancando en 22.5 bar y parando en 23.7 bar
+
+En la parte electronica se ajusto en el control de la estacion de ingenieria la logica para el paro correcto de las bombas con maquina parada. Se realizaron pruebas del arranque de la bomba en modo manual y automatico y se verifico comparando con el transmisor de presion ubicado en el tanque acumulador.
+
+Programador: Sergio Ramirez - Uaimer Diaz
+Ejecuto: Robinson Cano - Fredy Duarte - Francisco Gonzalez

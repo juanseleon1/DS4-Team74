@@ -1,0 +1,4 @@
+FECHA: 02/12/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+DESCRIPCIÓN: La unidad 5 de Guadalupe III no subía potencia según consigna, se identificó que la aguja 4 no tenía control debido a falla en el driver. Por favor cambiar este driver.
+Se revisa lazo de control aguja N°4, se encontró fusible quemado, se cambia driver y fusible correspondiente a esta aguja y se lleva la unidad hasta sincronizada con respuesta satisfactoria de la aguja N°4.
+Informó: Oscar Arango, William Lopera, Luis Adrián Cardona.

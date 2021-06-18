@@ -1,0 +1,22 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-25 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704926, PASO:1          
+Se realizó revisión general y limpieza al interruptor y seccionador de la unidad 7, se realizó conexiones para ejecutar pruebas de tiempos de apertura y cierre al interruptor.
+
+2018-04-26 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3704926, PASO:2-2.1          
+Se realizó pruebas de tiempos de apertura y cierre del interruptor de potencia unidad 7 con los siguientes resultados: 
+CIERRE:  
+A1: 125ms
+B1: 125ms
+C1: 125,6ms
+APERTURA: 
+A1: 51,2ms
+B1: 49.8ms
+C1: 51
+RESISTENCIA OHMICA: 
+A1: 10 uOhm
+B1: 29uOhm
+C1: 39uOhm
+
+

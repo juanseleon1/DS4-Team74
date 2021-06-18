@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2018/11/19 RUBEN ARBOLEDA OT: 3748760
+Se cierra esta OT sin costos, no se ejecutó por falta de recuerso de mano de obra y ya se generó la otra OT: 3778993

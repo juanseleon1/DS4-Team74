@@ -1,0 +1,10 @@
+
+2018/02/22 DIEGO BEDOYA
+Se genera OT para verificar el estado de las válvulas de entrada y salida de agua al cojinete superior; ya que su temperatura se incrementó demasiado en corto tiempo, provocando que esta se saliera en varias ocasiones.                   En la revision realisada, se encontró que la indicación de válvula abierta no coincide con lo fisico, por lo tanto se deja indicación y la válvula abierta y el cojinete en condiciones normales de operación.
+
+diego bedoya 
+
+
+marzo 30 de 2018 
+ot terminada y cerrada 
+andres ramirez 

@@ -1,0 +1,11 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDAD GENERACION GUADALUPE 4
+
+AGOSTO 13 DE 2014
+
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: 
+
+SENSORES  CIPL CIPRVALOR MEDIDA VDC  -8.94 -10.81VALOR   AJUSTE VDC  9.0
+Nivel de aceite se encontró en 501.4 mm, referenciado con el visor: el nivel patrón es 500mm
+Se inyecto señal con el calibrador de procesos para comprobar  alarma y disparo de las RTD, según formato de inyección de señales.
+
+ COJINETE INFERIOR. °CPATRONES °C METAL 1 METAL 34040,1 40,16060,1 60,18080,1 80,1ALARMA65,0 65,DISPARO70 70

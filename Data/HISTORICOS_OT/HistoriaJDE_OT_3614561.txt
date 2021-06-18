@@ -1,0 +1,15 @@
+
+REPARACIÓN MOTOR POLIPASTO PUENTE GRÚA 2 DE GUADALUPE 3.
+PRUEBAS ELECTRICAS, CABLEADO DE CONTROL Y PUESTA EN SERVICIO.
+
+
+OCTUBRE 3 DE 2017
+Se desmonto el motor del poli pasto del puente Grúa # 2, por encontrarse en corto los dos devanados de alta y baja, se envia para su reparació a TAMAYO PALACIO, se realizaron los trabajos necesarios de su reparación, se instala nuevamente, se conecta y se le toman pruebas de corrientes de trabajo encontrandose de la siguiente manera.
+
+Devanado de baja: R-8.9, S-9, T-8.9 Amperios.
+Devanado de alta: R-7.2, S-8.2, T-6.7 Amperios.
+
+Los datos del motor son:
+Potencia:10.7 KW
+Voltaje: 440 / 440.
+Corriente: 10.5 / 19.4.

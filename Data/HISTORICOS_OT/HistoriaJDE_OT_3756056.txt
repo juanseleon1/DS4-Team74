@@ -1,0 +1,6 @@
+AGOSTO 31  DE 2018   OT: 3756056 PROGRAMO: JGUINGUL EJECUTO: ALEXANDER VILLA
+SE INYECTA SEÑAL DE TEMPERATURA CON CALIBRADOR DE PROCESOS FLUKE, HASTA ALCANZAR LAS ACTIVACIÓNES DE ALARMA Y DISPARO. 
+Temperaturas de: Núcleo EstatorEquipo 115°C 120°CS10 ü ü S12ü ü S14ü ü Valor programado Alarma:115°CValor programado Disparo:120°CComentarios:Sin novedades
+Temperaturas de: Devanado Fase REquipo 110°C 115°CS1ü ü S2ü ü S3ü ü Valor programado Alarma:110°CValor programado Disparo:115°CComentarios:Sin novedades
+Temperaturas de: Devanado Fase SEquipo 110°C 115°CS4ü ü S5ü ü S6ü ü Valor programado Alarma:110°CValor programado Disparo:115°CComentarios:Sin novedades
+Temperaturas de: Devanado Fase TEquipo 110°C 115°CS7ü ü S8ü ü S9ü ü Valor programado Alarma:110°CValor programado Disparo:115°CComentarios:Sin novedades

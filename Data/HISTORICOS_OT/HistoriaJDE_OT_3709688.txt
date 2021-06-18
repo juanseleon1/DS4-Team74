@@ -1,0 +1,5 @@
+ABRIL 09/2018. LUIS FERNANDO CASTRILLON MORALES.
+REVISAR PLANTA, AL MOMENTO DE ARRANQUE PARA CALENTAMIENTO SEMANAL NO FUNCIONA.PRESENTA ALARMA OVERSPEED. TODAS LAS CONDICIONES SE VEN NORMALES. HOROMETRO 625.8.
+
+2018/09/28 RUBEN ARBOLEDA
+Se ejecutó mantenimiento general a la planta Diesel Auxiliar en la OT: 3748729, se le dio arranque para calentamiento semanal respondiendo normalmente con horometro 631,4. 

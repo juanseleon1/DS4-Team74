@@ -1,0 +1,8 @@
+2018/04/03 RUBEN ARBOLEDA
+Se requeire desconectar y conectar motbomba CW1 para que el personal de mantenimiento mecánico realice la revisión de la canasta.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3709021, PASO:1         
+ Se desconectó la motobomba CW1 para que el personal de mantenimiento mecánico realizara una revisión de la canasta.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3709021, PASO:2          
+Se conectó la motobomba CW1 después de que el personal de mantenimiento mecánico realizó la revisión de la canasta, se dejó en condiciones normales.

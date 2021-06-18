@@ -1,0 +1,7 @@
+XL: LIMPIEZA Y MTTO GENERAL CONTROLADOR UNIDAD
+
+PROGRAMADOR: JOSE MONTOYA
+02/12/2015
+Se realizó mantenimiento, limpieza del tablero de control.
+Se revisó la conexión de los cables y se revisó la bornera de control.
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS

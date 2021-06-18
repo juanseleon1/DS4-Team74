@@ -1,0 +1,13 @@
+XL: VERIFICAR Y LIMPIAR REGULADOR ELECTRONICO TRV DE LA UNIDAD
+
+
+20/05/2015
+
+Se realizó mantenimiento según instructivo. Además de realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas, se realizan pruebas de apertura y calibración de lazos de control. Se realiza verificación del instrumento del caudal turbinado el cual posee problemas en la lectura de salida  se normaliza..
+Los detalles y planillas se anexan en el informe de Mantenimiento Mayor
+
+CALIBRACIÓN SENSORES DE POSICIÓN DISTRIBUIDOR MINIMO MAXIMOSENSOR VALOR PREVIO % VALOR CALIBRADO % VALOR PREVIO % VALOR CALIBRADO %CG161 0.03 0.01 99.97 100.1CG162 0.07  0.02 99.85 100.0
+
+
+
+Realizado por Wtobonl

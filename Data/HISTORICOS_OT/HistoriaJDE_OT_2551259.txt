@@ -1,0 +1,2 @@
+2014/06/21 - Oscar Giraldo - Juan David García
+Se realizó adecuación en el centro de control motores para la conexión de un tablero para el control de bombas de refrigeración, las cuales se estan ejecutando en la OT: 2455714, en esta OT se realizó el trabajo del CCM5, para la conexión de potencia y control, 

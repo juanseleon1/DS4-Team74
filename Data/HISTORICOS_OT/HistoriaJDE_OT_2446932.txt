@@ -1,0 +1,17 @@
+PREVENTIVO EXCITACION PRINCIPAL UNIDAD GENERACION GUADALUPE 4
+
+-----------------------------------
+
+REALIZÓ: Jorge Enrique Muñoz - Jhon Mario Morales
+
+
+RESISTENCIA DE AISLAMIENTO
+
+SUPERIOR<500 kINFERIOR<500 k
+ESCOBILLAS
+
+144,5244,4347445547,5645,5746844,4946,6104511461244,61346,31444,315451645,31746184519462046
+Se realizó el mantenimiento preventivo según, instructivo GCG4E0007.
+Después de lavada la excitación, no es posible tomar el respectivo dato de medida de aislamiento debido a que no es posible inyectar volt. Se realizan pruebas adicionales y se determina que la unidad deberá ser desarmada para corregir falla a tierra.
+
+INFORMÓ: Juan Caicedo

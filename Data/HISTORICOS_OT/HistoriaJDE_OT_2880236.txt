@@ -1,0 +1,8 @@
+
+
+FECHA: SEPTIEMBRE 17 DE 2015  OT: 2880236
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Debido a que el sensor de 0° no censa se procede a cambiarlo, al realizar la prueba ya el sensor de 90° no marcaba posición, se revisa y se encuentra el conector malo, se trató de organizarlo pro con la vibración de la yaw se pierde la señal, queda pendiente organizar el conector.

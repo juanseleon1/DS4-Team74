@@ -1,0 +1,13 @@
+FECHA: 13 MAYO 2017  SOLICITANTE: IVAN FRANCO
+
+La indicacion "valvula mariposa etapa 2 normal" de Guadalupe 3, que es un enclavamiento necesario para poner grupo listo a las unidades 3, 4, 5 y 6 de Guadalupe 3, no esta presente; ocacionando, que las unidades no den condiciones de grupo listo para el arranque.
+
+se debe realizar revision a los reles, sensores de la valvula mariposa etapa 2.
+
+14/05/2017 JORGE ALIRIO HERNANDEZ
+“ En relación al evento ocurrido el día 14 de mayo de 2017 a las 1:54 am, en el cual las unidades de la etapa II de Gudalupe III no dan condiciones por posición Válvula Mariposa N°2  “ no abierta” , se informa: se analiza log de eventos y se confirma con operador de boca toca que la válvula mariposa de la etapa II está abierta. Se sospecha problemas de comunicación, falla en los módulos de la rio o falla en el sensor. Personal eléctrico y electrónico se desplaza a cámara de válvulas y después de verificar módulos, señales, sensor y comunicación se encuentra señal de posición de válvula mariposa 2 haciendo mal contacto, se corrige y se normaliza. Se confirma con centro de control condiciones de las unidades de etapa II.
+
+Adicionalmente durante la atención del evento, se evidencia arranque de motobomba de recuperación posición de la válvula mariposa con una frecuencia de 30 segundos, condición indeseada ya que puede causar daño en el contactor e imposibilidad de la bomba en operar posteriormente, además de evidenciar agravamiento de la situación. Esta es la etapa cuya válvula mariposa presenta cierre inesperado debido a caída de presión en el servomotor de apertura/cierre debido a fuga. Desde el día sábado se incrementó la frecuencia de recuperación de presión a 30 seg, por esta razón y para evitar cierre de la válvula de improvisto con la cadena en operación, se dejó al válvula bloqueada en posición abierta con eslinga amarrada al puente grúa hasta evaluar las condiciones actuales de la fuga y las implicaciones de esta.
+
+Informa y ejecutan: Sandra Carmona, Alirio Hernández, Carlos Forero, Mario Morales y Zoraida Monsalve.”
+

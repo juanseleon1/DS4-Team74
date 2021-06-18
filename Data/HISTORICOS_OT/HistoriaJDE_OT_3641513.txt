@@ -1,0 +1,7 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Oscar M. Montoya, Jairo Torres y Jhonatan Arango.
+Planeador: Luis Federico Alvarez Alvarez
+Se realiza inspección, mantenimiento y limpieza al sistema de escobillas y anillos rozantes de la unidad, para esto se retiran las tapas laterales y superior del recinto, las escobillas y porta escobillas, se hace medición de resistencia de aislamiento en los anillos antes y después de lavado (Antes: 173 / 171 K. Después: 1.105 / 1.113 M), se toman medidas de la longitud de las escobillas y se llenan registros. Se cambian en anillo superior 5 escobillas.
+Trabajo ejecutado por: Oscar M. Montoya, Jairo Torres y Jhonatan Arango.
+
+
+XE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD

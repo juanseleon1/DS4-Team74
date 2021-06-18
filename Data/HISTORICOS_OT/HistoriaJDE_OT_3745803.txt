@@ -1,0 +1,14 @@
+14 Julio de 2018 John Jairo Gonzalez v
+
+Referente a la válvula esférica de la unidad Nº 3: En la secuencia de arranque no abre, ya que el instrumento de presión CP117 marca una diferencia de 6 bar en la igualación de presión. Se ajusta este parámetro a 9 m.c.a. para permitir la apertura de la válvula esférica. 
+
+Ejecutó: Turno N°2 de Operación
+
+
+14/07/2018
+
+Se realiza cmabio del presostato indicador de la presion aguas abajo de la valvula esferica, se escaliza y realiza configruacion de parametros segun backup del sistema transductor CP117 de la valvula. 
+
+Realizado por Ivan Ramirez 
+
+TERMINADA CERRAR 

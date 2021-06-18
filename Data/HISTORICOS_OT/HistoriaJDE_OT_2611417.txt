@@ -1,0 +1,1 @@
+Se hace el cambio del freno del sistema de orientacion yaw del AG8 y se recoge el aceite tanto en la yaw como en la base del AG ya que hubo mucha fuga 

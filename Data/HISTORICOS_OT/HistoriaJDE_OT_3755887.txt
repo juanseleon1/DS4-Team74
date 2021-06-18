@@ -1,0 +1,12 @@
+16 de agosto 2018
+
+solicitante: Juan David Serna , Carlos Torres
+
+verificar en la fase T del banco de transformadores de la central Troneras el interruptor Q12 en el tablero +TCT - T, ya que hace apertura no deseada en repetidas ocasiones, dejando sin servicio los ventiladores 2 y 5.
+
+AGOSTO 18 DE 2018.
+El motor del ventilador dispara la protección y no se deja rearmar, se baja el ventilador para revisar el motor se hacen pruebas y se determina que hay un corto en el bobinado, corto entre espiras…
+Se instala un motor bueno que se tiene, se le adecua las aspas del ventilador, se instala, se hacen pruebas, quedando este trafo fase T, con todos sus ventiladores de refrigeración operando correctamente…
+
+Informo: Juan A. Caicedo
+Realizo: grupo eléctrico.

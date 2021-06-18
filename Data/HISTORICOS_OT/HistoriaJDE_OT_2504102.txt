@@ -1,0 +1,11 @@
+AE:REALIZAR FIBROSCOPÍA
+
+REALIZAR LA PRUEBA DE FIBROSCOPÍA AL GENERADOR SINCRÓNICO DE LA UNIDAD ___ DE LA CENTRAL GUADALUPE 4, SEGÚN EL INSTRUCTIVO GANTE0016.
+
+Abril 22 de 2014
+Gabriel Santiago
+ Se realiza inspección visual directa, dado que la maquina se encuentra en Overhal. No se requiere videoscopio
+ Cuñas completas en buenas condiciones
+ Estator en buenas condiciones de limpieza.
+ No se observan residuos tales como oxido de hierro (juntas), ni polvillo blanco.
+ Juntas en buenas condiciones, con papel en su sitio.

@@ -1,0 +1,11 @@
+FECHA: JUEVES 19/04/2018
+PROGRAMO: WILFER HINCAPIE
+EJECUTO: WILFER HINCAPIE
+ASUNTO:  EJECUTAR  VARIAS LAVORES EN CASA DE MAQUINAS PLAYAS
+  * Editar planos de SIEMENS para posterion actualizacion.  
+  * Verificaciòn de estdo de discos duros para cambio en IHM 
+  * se desbloquea IHM del controlador de unidad de la U2
+  * Se realiza apriete en borneras de la RTD de refrigeraciòn agua de salida cojinete inferior.
+  * Reporte de tiempos, OT´s y anexos del grupo electricistas
+  * Termografias a las tres unidades en los nuevos puntos de conexiòn.
+  * Desmontaje de equipos y sensores, para revisiòn y reparaciòn. 

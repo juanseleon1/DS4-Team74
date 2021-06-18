@@ -1,0 +1,20 @@
+24/10/2017 TURNO 1
+
+paro rapido de la unidad 3 por falla posicion lazo valvula porporcional. 
+
+24/10/2017
+
+Unidad # 3
+la unidad se da paro paro rapido por falla en posicion valvula proporcional ocasionado por mal contacto en el transductor de posicion UI345 se ajusta para realizar el arranque de la unidad, queda pendiente verificar esta conexion y los lazos de posicion del distribuidor el cual se encuentra descalibrado.
+REALIZADO POR WTOBONL
+terminada cerrar
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl
+
+                                                                                                           
+
+

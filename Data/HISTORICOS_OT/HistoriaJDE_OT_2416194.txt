@@ -1,0 +1,8 @@
+
+ACTUALIZAR PARAMETROS DE LAS CPU´s DE LOS REGULADORES DE VELOCIDAD
+Esta actividad se realiza con el fin de actualizar todos los parametros en la cpu del regulador de velocidad en todas las unidades de la central de guadalupe 3. Los registros que se tienen hasta el momento son de la puesta en servicio de las unidades, pero de esa fecha hacia aca se han modificado algunos parametros, ya sea por desgaste y/o ajuste en el comportamiento de la unidad.
+
+Se va a dejar un archivo en formato word con el listado de los parametros actualizados de cada unidad.
+
+PROGRAMADOR: Oscar Arango - Uaimer Diaz
+EJECUTO: Francisco Gonzalez - Fredy Duarte

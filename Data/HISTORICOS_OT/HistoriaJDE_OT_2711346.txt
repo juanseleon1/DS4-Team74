@@ -1,0 +1,11 @@
+
+
+05/Marzo/2015
+Perdida de señales en la estación de operación de 110 KV, se revisa y se cambia la fuente DSSR122, se carga de nuevo el programa 
+desde la estacion de ingenieria, quedando el controlador trabajando en condiciones normales.
+Cesar Tulio
+Learcilas
+
+
+
+

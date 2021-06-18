@@ -1,0 +1,12 @@
+8/11/2015
+ABAD RAMIREZ.
+SE ENCUENTRA MALO EL CANAL U2-8.126 REGULADOR DE VELOCIADAD CONTROL FRECUENCIA, LO QUE PRODUCE CASCADA DE EVENTO DE LA MISMA ALARMA.
+
+2015/11/09 ANGEL ADONIS CADAVID OCHOA
+SE ASIGNA ORDEN DE TRABAJO AL EQUIPO ELECTRÒNICO
+
+EJECUTANTE:LUIS EDUARDO ARCILA
+FECHA: DICIEMBRE  6 DE 2015
+Se cambia tarjeta DSDI110A por una reparada en RPM.
+También se aprovecha la oportunidad y se prueban en la unidad 2 otras cuatro tarjetas de la misma referencia para su respectiva garantía.
+Learcilas

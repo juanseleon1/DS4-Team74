@@ -1,0 +1,8 @@
+SE CREA OT PARA REALIZAR LA ADECUACION MECANICA DE LA BODEGA DEL RIO. ESTE TRABAJO SE REALIZA CON EL FIN DE SEPARAR LAS PIEZAS DE LA BODEGA POR ESPECIALIZACION
+
+Programador: Camilo Montagut - 11/12/2015
+
+Finaliza el mantenimiento en la bodega del rio. Se realiza la adecuación de materiales existentes en la bodega que se encontraban desordenados. Además se refuerza una de las puertas ya que se almacenará cables de cobre
+
+Ejecuta: equipo mantenimiento mecánico GIII
+

@@ -1,0 +1,42 @@
+FECHA: 09-05-2017 / PROGRAMADOR: WILMER DAVID MÈNDEZ CARO
+EJECUTANTES:856451 / 856933 OT: 3466724
+DESCRIPCIÓN DEL EVENTO: SE INPECCIONA FENOS Y SE CUENTRA EN CONDICIONES OPERATIVAS OPTIMAS.
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 ______19.5_______________
+
+Zapata No 2 ______19.2_______________
+
+Zapata No 3 ______19.3_______________
+
+Zapata No 4 ______19.5_______________
+
+Zapata No 5 ______19   _______________
+
+Zapata No 6 ______19.3_______________
+
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

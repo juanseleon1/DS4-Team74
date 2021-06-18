@@ -1,0 +1,10 @@
+FECHA: 25/01/2018
+PROGRAMADOR: JOHN JAIRO GONZALEZ - FABIAN GOMEZ
+PLANEADOR: OSCAR DUQUE
+
+25/01/2018
+
+Referente a la Unidad N°1 : En la secuencia de arranque en tres oportunidades se va a Paro Rápido 86 R, por falla en el TRV (Regulador de Velocidad) mostrando la alarma discrepancia traba hidráulica y falla lectura posición servo derecho, se observa cabezote del servo desalineado con respecto al sensor de posición.Informa: Turno 1 Operacion.
+Nota realizada por: Fabian Gomez - John Jairo Gonzalez - Esneider Rivera
+Ejecuto: Walter Tobon, Carlos Sanchez, Eladio Piedrahita, Ing. Hector Gomez
+********************************************************************************************

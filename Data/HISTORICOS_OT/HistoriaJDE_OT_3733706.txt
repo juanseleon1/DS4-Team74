@@ -1,0 +1,13 @@
+02/06/2018
+Referente a la Unidad N°3: Se realiza la presente OT para realizar seguimiento a la salida forzada de la unidad P23; la cual se genera por un recierre en el campo de 230 KV de la linea Barbosa.
+La Unidad entra posteriormente en servicio sin problemas.
+Está salida no genera desviación al programa de generación.
+
+FECHA: AGOSTO 2018 OT: 3733706 PROGRAMÓ: CRISTIAN A GÓMEZ H
+EL MOTIVO DE LA SALIDA FORZADA ABEDECE A LA APERTURA DEL interruptor principal del campo de la línea Barbosa; OCACIONANDO LOS SIGUIENTES EVENTOS: 
+ Disparo distancia P1 y P2 
+ Envió aceleración P1 y P2 
+ Disparo 21/67N P1 y P2
+ Disparo fase R,S,T  P1
+ Disparo fase R,S,T  P2 
+LOS CUALES FUERON REGISTRADOS POR EL SISTEMA SCADA DE LA S/E TABLÓN.

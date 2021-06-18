@@ -1,0 +1,12 @@
+MP ANUAL:
+2364 ESTATOR GENERADOR U12365 ESTATOR GENERADOR U22366 ESTATOR GENERADOR U32367 ESTATOR GENERADOR U42368 ESTATOR GENERADOR U52369 ESTATOR GENERADOR U6
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+OCTUBRE 5 DE 2018
+Se realiza mantenimiento preventivo electrico anual. Se revisan el estado de los aisladores de apoyo, juntas de dilatacion, estado de ajuste de las conexiones. Se revisan y se hace limpieza general a los CT's (se petrolizan con dielectrico como mejora implementada) verificando estado de porcelanas, cableado y conexiones, se limpian los pararrayos y sus alrededores. Se revisan los PT's, los fusibles, conexiones, se revisan los puntos de conexión en la salida del generador. No se evidencian anomalías.
+William Lopera. 

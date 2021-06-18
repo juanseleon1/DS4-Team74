@@ -1,0 +1,28 @@
+PLANEADOR: SANTIAGO RAMIREZ
+PROGRAMADOR: RENATO MONTOYA
+FECHA. 03/09/2018
+OT PADRE: 3760833
+CONSIGNACIÓN: @159926
+
+Objetivo: Reducir la fricción en los bujes inferiores del distribuidor para aumentar la capacidad de respuesta del sistema distribuidor en la apertura de máximo esfuerzo (60a70%) de apertura.
+
+Metodología: 
+1. Cambiar casquetes de desgaste de los bujes inferiores por casquetes nuevos. 
+2. Ensamblar los casquetes con pegante loctitte 609 (adhesivo para ensambles cilindricos). 
+3. Reconstruir ranuras para empaques con resina cerámica ARC858 de Chesterton.
+4. Pintar zonas de las ranuras con recubrimiento anticorrosivo rico en zin. (Galvanizado en frío). Loctitte SF7800.
+5. Cambiar empaques  
+6. Instalar bujes lubrincando el interior y parte del muñón inferior del álabe con lubricante seco a base de molibdeno y grafito. CRC lubricante de grafito molibdeno. El exterior del buje se puede lubricar con grasa a base de litio.
+
+Att: Santiago Ramírez.
+
+BITACORA:
+
+SEPTIEMBRE 3:
+
+SEPTIEMBRE 4:
+
+SEPTIEMBRE 5:
+
+SEPTIEMBRE 6:
+

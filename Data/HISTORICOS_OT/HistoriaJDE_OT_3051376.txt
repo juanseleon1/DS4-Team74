@@ -1,0 +1,15 @@
+MANTENIMIENTO GENERAL BANCO TRANSFORMADORES CENTRAL PORCE 2.
+
+-------------------------------------------------------------------------------------------------------------------
+
+fecha: 2016-03-31 ot: 3051376 mtto: eléctrico
+ejecutó: JULIAN GIRALDO - DARIO PUERTA - RONAL ARANGO
+
+SE REALIZA MANTENIMIENTO DE ACUERDO AL INSTRUCTIVO GCP2E0001. SE VERIFICA ESTADO DE TABLERO DE CONTROL, INTERRUPTORES, PILOTOS. Y CABLEADO. SE REAPRETA TORNILLERIA, SE APLICA LIMPIACONTACTOS. LA SILICA SE ENCUENTRA EN BUEN ESTADO, NO PRESENTA HUMEDAD.
+SE REALIZA REVISION E INSPECCION DE LOS TRAFOS (BUJES, CUBA, BOMBAS DE RECIRCULACIÓN, TANQUE ACUMULADOR, TAPAS), SE REGISTRAN LOS HALLASGOS EN LA PLANILLA ANEXA. NO SE ENCUENTRAN FUGAS DE ACEITE. SE NORMALIZA EL SUBSISTEMA Y SE ENTRGA A OPERACIÓN.
+
+informa: cristian a gómez h
+
+ RESUMEN INSPECCIÓN FASES R - S - T
+
+Nivel de Aceite  NormalEstado de los Bujes NormalProtecciones Mecánicas Sin AlarmaConexión de la Puesta a Tierra FirmeTablero de Control Normal - LimpiaEstado de la Sílica BuenaEstado Pintura BuenaRelés de Protección Eléctricos En ServicioSistema de Refrigeración Buen EstadoInstrumentación Buen Estado-------------------------------------------------------------------------------------------------------------------

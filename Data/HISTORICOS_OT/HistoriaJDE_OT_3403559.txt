@@ -1,0 +1,137 @@
+TE: REALIZAR BUSQUEDA DE FALLAS Y MONITOREO DE CONDICION DEL AISLAMIENTO, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE RESPALDO CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+13/03/2017. SERGIO OLIVARES D.
+
+TERMOGRAFÍA:
+
+MOTOR:
+POTENCIA = 60 HP
+VOLTAJE = 460 V
+CORRIENTE = 68 A
+REGISTRO DE VOLTAJES FASE RS = 432.7 V
+FASE ST = 434.6 V
+FASE RT = 434.5 V
+REGISTRO DE CORRIENTES FASE R = 39.9 A
+FASE S = 39.1 A
+FASE T = 40.7 A
+HOROMETRO 40987.79
+DIAGNOSTICO 42.7°C, está dentro de los parámetros normales
+de operación según su clasificación de
+aislamientos.
+
+BORNES MOTOR:
+FASE R 37,0°C 
+FASE S 38,7°C 
+FASE T 33,2°C 
+
+PEINETA DE SALIDA:
+Nombre              Temperatura                  
+FASE T1              38,6°C     CABLE
+FASE S1              44,0°C     CABLE
+FASE R1              67,5°C     CABLE
+FASE T1.1            63,0°C     CONTACTO
+FASE S1.1            71,4°C    CONTACTO
+FASE R1.1            92,8°C    CONTACTO
+
+La temperatura de los cables de la peineta de
+salida se encuentran en el Nivel 4 de los
+parámetros establecidos en la tabla de
+clasificación de fallas eléctricas según LOS
+CRITERIOS NETA, donde Delta T° = 28.9°C, Y
+la temperatura en la peineta se encuentra en el
+nivel 4 de los parámetros establecidos en la
+tabla de clasificación de fallas eléctricas según
+LOS CRITERIOS NETA, donde Delta T° = 29.8°
+C, la cual requiere una correcion inmediata.
+
+PEINETA DE ENTRADA:
+Nombre              Temperatura                  
+FASE T1                 40,3°C 
+FASE S1                 45,6°C 
+FASE R1                 44,6°C 
+FASE T1.1              38,5°C 
+FASE S1.1              64,4°C 
+FASE R1.1              53,0°C 
+
+La temperatura de los cables de la peineta de
+entrada se encuentran bajo parametros
+normales de funcionamiento, Pero la
+temperatura en la peineta se encuentra en el
+nivel 4 de los parámetros establecidos en la
+tabla de clasificación de fallas eléctricas según
+LOS CRITERIOS NETA, donde Delta T° = 25.9°
+C, la cual requiere una correcion inmediata.
+
+PEINETA DEL CUBICULO:
+Nombre                Temperatura Emisividad
+FASE R                      48,8°C 
+FASE S                      48,8°C 
+FASE T                      50,0°C TE: REALIZAR BUSQUEDA DE FALLAS Y MONITOREO DE CONDICION DEL AISLAMIENTO, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE RESPALDO CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+13/03/2017. SERGIO OLIVARES D.
+
+TERMOGRAFÍA:
+
+MOTOR:
+POTENCIA = 60 HP
+VOLTAJE = 460 V
+CORRIENTE = 68 A
+REGISTRO DE VOLTAJES FASE RS = 432.7 V
+FASE ST = 434.6 V
+FASE RT = 434.5 V
+REGISTRO DE CORRIENTES FASE R = 39.9 A
+FASE S = 39.1 A
+FASE T = 40.7 A
+HOROMETRO 40987.79
+DIAGNOSTICO 42.7°C, está dentro de los parámetros normales
+de operación según su clasificación de
+aislamientos.
+
+BORNES MOTOR:
+FASE R 37,0°C 
+FASE S 38,7°C 
+FASE T 33,2°C 
+
+PEINETA DE SALIDA:
+Nombre              Temperatura                  
+FASE T1              38,6°C     CABLE
+FASE S1              44,0°C     CABLE
+FASE R1              67,5°C     CABLE
+FASE T1.1            63,0°C     CONTACTO
+FASE S1.1            71,4°C    CONTACTO
+FASE R1.1            92,8°C    CONTACTO
+
+La temperatura de los cables de la peineta de
+salida se encuentran en el Nivel 4 de los
+parámetros establecidos en la tabla de
+clasificación de fallas eléctricas según LOS
+CRITERIOS NETA, donde Delta T° = 28.9°C, Y
+la temperatura en la peineta se encuentra en el
+nivel 4 de los parámetros establecidos en la
+tabla de clasificación de fallas eléctricas según
+LOS CRITERIOS NETA, donde Delta T° = 29.8°
+C, la cual requiere una correcion inmediata.
+
+PEINETA DE ENTRADA:
+Nombre              Temperatura                  
+FASE T1                 40,3°C 
+FASE S1                 45,6°C 
+FASE R1                 44,6°C 
+FASE T1.1              38,5°C 
+FASE S1.1              64,4°C 
+FASE R1.1              53,0°C 
+
+La temperatura de los cables de la peineta de
+entrada se encuentran bajo parametros
+normales de funcionamiento, Pero la
+temperatura en la peineta se encuentra en el
+nivel 4 de los parámetros establecidos en la
+tabla de clasificación de fallas eléctricas según
+LOS CRITERIOS NETA, donde Delta T° = 25.9°
+C, la cual requiere una correcion inmediata.
+
+PEINETA DEL CUBICULO:
+Nombre                Temperatura Emisividad
+FASE R                      48,8°C 
+FASE S                      48,8°C 
+FASE T                      50,0°C 

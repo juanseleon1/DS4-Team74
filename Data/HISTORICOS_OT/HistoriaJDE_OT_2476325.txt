@@ -1,0 +1,16 @@
+Efectuar la compra de dos valvulas de drenaje automatico para el sistema de aire de servicios generales que va hacia las ipas  correspondiente al circuito del compresor sullair .
+
+segun las siguientes caracteristicas 
+
+marca                                                                         JORC 
+modelo                                                                       EZ -1 (2421)
+tipo de valvula                                                           solenoide con temporizador
+orificio                                                                        4 mm
+sellos                                                                          FPM viton 
+conexiones                                                                1/4 "
+presion maxima                                                        16 Bar G ( 325 PSIG)
+condiciones electricas                                      115 voltios - 1 fase - 60 Hz
+tiempo de apertura de la valvula (variable )           entre 0,5 y 10 segundos 
+tiempo de espera entre aperturas  (variable)        entre 0,5 y 45 minutos 
+
+jaime a ramirez 

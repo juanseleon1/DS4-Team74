@@ -1,0 +1,15 @@
+
+ 23/07/2015. SERGIO OLIVARES D.
+
+ Se encontro el térmico de la motobomba N°1 disparado, y las fases R y S se encontraron flojas a la salida del  contactor, se apretaron y se resetio el térmico dejando todo normal.
+
+ Medidas:
+
+ Motobomba N°1:
+ Voltaje:   453   453   451
+ Corriente: 11.5  11.3  10.9  I Nominal a 440 VAC 12.2 AMP
+
+
+ Motobomba N°1:
+ Voltaje:   452   452   450
+ Corriente: 11.1  11.4  11.0  I Nominal a 440 VAC 12.2 AMP

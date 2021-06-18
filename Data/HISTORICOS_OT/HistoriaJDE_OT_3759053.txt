@@ -1,0 +1,50 @@
+FECHA: JUEVES 11/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, DARIO ATEHORTUA
+ASOCIADO A LA OT: 3759053
+ASUNTO: EJECUTAR MANTENIMIENTO PRGRAMADO A MOTOBOBA N°2 DE AGUA DE HELADA DEL AIRE ACONDICIONADO DE CASA DEMAQUINAS    PLAYAS
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+
+REGISTRO DE TEMPERATURA, MEDIDAS DE VIBRACIONES, HOROMETRO Y PRESION DE FLUJO MOTOBOMBAS AGUA HELADA
+
+
+Motobomba agua helada # __2___
+
+horometro: ________________________
+
+vibraciones cojinete ventilador 1VP(mm/s): _____1.4______
+
+vibraciones cojinete ventilador 2HP(mm/s): _____1.3______
+
+vibraciones cojinete de acople 3VP(mm/s): ______1.5_____
+
+vibraciones cojinete de acople 4HP(mm/s): ______1.5_____
+
+vibraciones bomba acople 5VP (mm/s): _____0.9_____
+
+vibraciones bomba acople 6HP (mm/s): _____1.2_____
+
+vibraciones bomba descarga 7VP (mm/s): ___0.1________
+
+vibraciones bomba descarga 8HP(mm/s): ____1.0________
+
+temperatura motora: (°C): ___61_____
+
+temperatura bomba: (°C): ___33______
+
+Presión de trabajo: (Kg/cm): _____5.5_______
+
+RPM:  __________
+
+Observaciones:  El equipo se encuentra dentro de los parametros operativos, sin ruidos anormales y disponible para su                       operacion normal.
+                   Se entrega a personal de operacion.
+

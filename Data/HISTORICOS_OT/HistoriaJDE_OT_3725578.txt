@@ -1,0 +1,14 @@
+MAYO 18 DE 2018.
+
+REALIZAR MANTENIMIENTO PREVENTIVO.
+ LIMPIEZA GENERAL.
+ MEDICIÓN DE VOLTAJES A CADA BATERÍA.
+ VERIFICACIÓN DE TEMPERATURAS.
+ TOMA DE CORRIENTE.
+
+
+MAYO 21 DE 2018
+Se realizó mantenimiento preventivo general al banco de baterías # 1 de 125 Vdc, se realizó limpeza, ajuste de tornilería, toma de medida de voltajes en cada celda, temperatura y corriente al banco conjunto.
+William Lopera.
+
+     MANTENIMIENTO PREVENTIVO BANCO DE BATERIAS 125 VCCUNIDAD OPERACIONES GUADALUPEPLANTA: Guadalupe 3 ELABORÓ: Yuliet Sosa - Luis Fernando CorreaFECHA: 18/5/2018 No. OT: 3725579 TIPO DE BATERIA: MTEK AGM MT 23000 - 2 V - 300 AH Banco # 1 BATERIA VOLTAJE TEMPERATURA  BATERIA VOLTAJE TEMPERATURA1 2,3  23 31 2,2  222 2,2  23 32 2,3  223 2,3  22 33 2,2  224 2,2  22 34 2,3  225 2,2  22 35 2,3  226 2,2  22 36 2,3  227 2,3  23 37 2,2  228 2,2  23 38 2,3  229 2,2  22 39 2,3  2210 2,3  22 40 2,2  2211 2,2  23 41 2,3  2312 2,2  22 42 2,2  2313 2,3  22 43 2,2  2314 2,3  22 44 2,2  2215 2,2  23 45 2,2  2316 2,2  22 46 2,2  2317 2,2  23 47 2,2  2318 2,3  22 48 2,3  2219 2,2  22 49 2,3  2220 2,2  23.2 50 2,2  2221 2,2  22 51 2,2  2222 2,2  22 52 2,3  2223 2,3  22.5 53 2,2  2224 2,3  23 54 2,3  2225 2,3  22 55 2,2  2226 2,3  22 56 2,2  2227 2,2  22 57 2,2  2228 2,2  22 58 2,2  2229 2,3  22 59 2,2  2330 2,2  23 60 2,2  23VOLTAJE TOTAL:  134,4 CORRIENTE TOTAL:  0 ATEMPERATURA AMBIENTE 23,6    °COBSERVACIONES:  Mantenimiento general eléctrico al banco de baterías 125 Vdc, sin ninguna Novedad 

@@ -1,0 +1,17 @@
+MP ANUAL EQUIPOS:
+
+- 2287 BARRAJE U1
+- 2288 BARRAJE U2
+- 2289 BARRAJE U3
+- 2290 BARRAJE U4
+- 2291 BARRAJE U5
+- 2292 BARRAJE U6
+
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+NOVIEMBRE 22 DE 2018
+Se realiza mantenimiento preventivo anual electrico, se revisan los aisladores, juntas de dilatación, ajuste tornillería de las barras de conexiones, se hace limpieza y revisión de los CT's pasa muros (se limpia con dieléctrico como mejora implementada) verificando estado de porcelanas, cableado y conexiones, se limpian los pararrayos y sus alrededores. Se revisan los PT's, los fusibles, conexiones, se revisan los puntos de conexión en la salida del generador sin ninguna novedad.
+Programó: William Lopera 

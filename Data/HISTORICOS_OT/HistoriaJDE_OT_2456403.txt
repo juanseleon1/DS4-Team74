@@ -1,0 +1,13 @@
+EN LA OT: 2336310, SE REALIZO LA COMPRA DE REPUESTOS, EN ESTA OT, SE CONTINUA CON EL PROCESO DE DEHISDRATACION
+
+INFORMES CHILLER N° 3
+Síntoma: perdida de nivel y presión en el sistema de lubricación.
+Consecuencia: Debido a éste fenómeno se le agregó más aceite al chiller ocasionando una saturación de aceite en el refrigerante.
+Correctivo: Se procede a deshidratar el chiller de aceite y refrigerante, en el procedimiento se realiza mantenimiento en general  y cambio de algunas piezas defectuosas.
+Situación general: deshidratación de aceite y refrigerante al equipo. Cambio de :- Actuador, denominado control shaft, que permite el movimiento de los vanes por medio del actuador.
+-Se cambió transformador de control en el tablero electrónico principal.
+-Cambio de sensores de temperaturas de entrada y salida para el circuito de agua fría.
+-Cambio de todos los filtros del equipo, con esto, se corrige el problema inicial de perdida de nivel y presión de aceite por obstrucción.
+-Cambio de motor de la purga, que se quedaba pegado por rodamientos en mal estado.
+Se procede a realizar proceso de barrido y vacío al sistema, y por último se realiza carga de aceite y refrigerante con puesta en funcionamiento del chiller N° 3.
+

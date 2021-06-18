@@ -1,0 +1,8 @@
+23/06/2016
+
+ALEJANDRO VERGARA
+
+REVISAR UNIDAD 4 YA QUE  DURANTE EL PROCESO DE SINCRONISMO EN REMOTO Y DESPUÉS DE CERRADO INTERRUPTOR DE MÁQUINA, LA UNIDAD SE QUEDA EN MODO FRECUENCIA TOCA PASARLA EN MANUAL A MODO POTENCIA PARA PODER SUBIR CARGA.
+Se reviso la programación, esta normal, cuando se vuelva a parar, se revisa para constatar que el control no pasa a modo potencia.
+
+En un nuevo arranque pasa normalmente. Se estara monitoriando.

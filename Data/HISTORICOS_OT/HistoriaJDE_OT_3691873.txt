@@ -1,0 +1,6 @@
+25 DE FEBRERO DE 2018 WALTER BAENA, FRANCISCO GONZALEZ, IVAN ZAPATA
+LA MOTOBOMBA 1 DE ALTA PRESION DEL SISTEMA HIDRAULICO DE LA UNIDAD 3 DE GUADALUPE III, ESTANDO EN AUTOMATICO, CUANDO LA UNIDAD TERMINA EL PROCESO DE PARO NORMAL, NO PARA.
+
+28/02/2018
+se reviso comportamiento de bomba con unidad parada, al realizar cambio de estado desde el selector de control a manual, se normalizan las condiciones, posteriormete se vuelve a habilitar el funcinamiento en automatico y la unidad presenta un correcto funcionamiento.
+PROGRAMO: Luis Adrian Cardona

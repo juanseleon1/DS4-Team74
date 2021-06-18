@@ -1,0 +1,12 @@
+
+2018/02/02 DIEGO BEDOYA
+Durante la revisión de las vibraciones de la motobomba CW9 en la OT 3525998, se evidenciaron puntos de vibración muy altos, los cuales pueden causar daños en la motobomba, se procede a dar paro a la motobomba para iniciar su desmontaje.
+Luego de desarmar la motobomba, se evidencia gran cantidad de pantano en la tubería de succión, además se encuentran cavitaciones y cuellos de desgaste en el eje de los tazones, se procede a maquinas los bujes de bronce de los tazones y los impulsores, con el fin de garantizar el buen funcionamiento de la motobomba.
+El trabajo está siendo ejecutado por: Oscar Vélez, Carlos Yepes, Atanasio Jaramillo, Leonel Alzate, Gabriel Bustamante y Juan David Florez
+
+2018/02/19 DIEGO BEDOYA
+Se requieren los rodamientos para el motor de la motobomba; ya que en l aprueba realizada en vacío se registraron vibraciones muy altas y ruido anormal en los rodamientos.
+Las referencias de los rodamientos son: 7220 y 6211 ZZ/C3.
+Estos rodamientos se encuentran disponibles en el almacén A18, se procede a realizar la solicitud.
+
+Se realiza el montaje de los rodamientos nuevos del motor, se realiza mantenimiento a la bomba cambiado los bujes de los tazones y los impeler,  luego de los trabajos realizados, se chequea la motobomba y se deja trabajando en condiciones normales de operacion. 

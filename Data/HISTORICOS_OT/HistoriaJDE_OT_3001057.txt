@@ -1,0 +1,8 @@
+
+2016/01/31 ANGEL ADONIS CADAVID OCHOA
+En la OT: 2983204, se evidenció un breaker marcado como Protecciones Jorge Alarcon
+SE GENERA OT CORRECTIVA 3001057 PARA ATENDER LA VERIFICACION DEL BREAKER MARCADO COMO PROTECCIONES , NO SE DEBE TENER RELE DE PROTECCION CONECTADO DE SERVICIOS MISCELANEOS.
+ 
+2016-08-17 REALIZÓ: JHONATAN USME - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3001057, PASO:1          
+Se inicia con la identificación de breakers marcados como protecciones Jorge Alarcon en servicios miscelaneos I etapa, se encuentra que estas dos alimentaciones corresponden una a alimentación del CCTV (Alimentacion AC Normal), y fibra optica en tablero de comunicaciones de fibra optica de casa de maquinas en un toma en la parte inferior, y la otra a una llegada de fibra optica para comunicaciones, ambas alimentaciones llegan al cuarto de comunicaciones de casa de maquinas guatapé.
+

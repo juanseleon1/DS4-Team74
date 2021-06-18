@@ -1,0 +1,7 @@
+2015/09/16 LESLIE MARULANDA 
+Actividades a realizar en el PIM:
+ Desmonte y mantenimiento sensores de vibracion tipo proximitor cojinete 2X - 2Y generador.
+ Desmonte y mantenimiento sensores de vibracion sismicos cojinete generador - turbina.
+ Desmonte y mantenimiento termocuplas tipo k medicion de aceite cojinete lado acople.
+ Identificacion y Desconexion termocuplas medicion metal-metal cojinete "internas cojinete".
+ Desmonte indicador de presion entrada aceite lubricacion cojinete. 

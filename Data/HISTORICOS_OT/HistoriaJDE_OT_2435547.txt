@@ -1,0 +1,22 @@
+Se realizó mantenimiento general a las UMA's, 
+
+A continuación el reporte completo de todas las UMA's: 
+
+ DATOS DE PLACA CORRIENTES VOLTAJES OBSERVACIONES
+ V P I R S T RS ST TR  
+UMA 1 440 7,5 11,6 8,4 8,9 8,4 457 455 456  
+UMA 2 440 7,5 11,6 9 8,6 8,3 457 456 456  
+UMA 3 440 7,5 11,6 8,5 8,1 8,5 458 456 456  
+UMA 4 440 7,5 11,6 8 7,6 7,2 458 458 457  
+UMA 5 440 7,5 11,6 9,5 9 8,9 457 456 456  
+UMA 6 440 7,5 11,6 8,8 8,4 8 458 457 457  
+UMA 7 440 2,4 3,7 2,6 2,7 2,6 459 458 458  
+UMA 8 440 7,7 11,6 8,8 8,5 8,4 457 457 458  
+UMA 9 440 2,4 3,7 2,4 2,4 2,5 458 459 460 SIN POLEA
+UMA 10 440 2,4 3,7 2,7 2,8 2,7 459 458 458  
+UMA 11 440 2,4 3,7 2,4 2,3 2,3 460 459 459 SIN POLEA
+UMA 12 440 2,4 3,7 1,9 1,8 1,9 460 459 459 FALLA EN TERMOSTATO
+
+
+Realizó: Leonardo Arboleda - Giovanny Diaz
+Planeo: Ruben Arboleda

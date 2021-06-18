@@ -1,0 +1,15 @@
+
+2017/03/22 
+
+falla el controlador de la unidad 7 quedando en error 06
+Se cambia tarjeta DSMB176 en el controlador, quedando en condiciones normales de operación.
+
+Cesar Tulio
+Learcilas
+2017/03/22 
+
+falla el controlador de la unidad 7 quedando en error 06
+Se cambia tarjeta DSMB176 en el controlador, quedando en condiciones normales de operación.
+
+Cesar Tulio
+Learcilas

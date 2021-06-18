@@ -1,0 +1,13 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 26/11/2018
+Tipo de mantenimiento: Preventivo
+                Inspección general del estado de la estación
+                Limpieza de estación
+                Descarga y verificación de datos de la estación
+                Análisis de datos de estado del datalogger y transmisor
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+                Verificación del nivel de mira vs. sensor
+                Realización de aforo
+               Instalación de radar

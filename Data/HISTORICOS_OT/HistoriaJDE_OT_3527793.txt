@@ -1,0 +1,10 @@
+JULIO  31  DE 2017     OT NÚMERO: 3527793    PROGRAMÓ: JAIRO GUINGUER     EJECUTARON: ALEXANDER VILLA Y ANDRÉS YEPES
+Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control RVX2 Power del Sistema Regulación de Velocidad. 
+Ajuste y limpieza sensores de velocidad y posición en el sistema de regulación de Velocidad.
+
+Tablero: Regulador de Velocidad RVX2 U2 S1Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 0 0 281.3 350 26 26 28122.5 700 50 51 52163.7 1000 74 77 78205 1400 100 100 102 
+Instrumento 1: Potencia Activa (MW)
+Instrumento 2: Rotación (RPM)
+Instrumento 3: Posición Inyector (%)
+Instrumento 4: Posición Deflector (%)
+Instrumento 5: Posición Limitador (%)

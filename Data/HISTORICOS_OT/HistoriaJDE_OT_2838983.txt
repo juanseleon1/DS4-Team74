@@ -1,0 +1,7 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LA TUBERIA DE REFRIGERACION DEL GENERADOR
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico de la tubería de refrigeración con la limpieza interna de toda la tubería utilizando hidrolavadora y pesca para remover el lodo
+
+Ejecuta: equipo mantenimiento mecánico GIII

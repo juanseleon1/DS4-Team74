@@ -1,0 +1,3 @@
+02/11/2016.15:30.
+Se detecta control Q8 de servicios Generales de Planta fallado,cuando se activa actua la protecciòn, presenta problemas en control.
+Informa: Wilson Arango.

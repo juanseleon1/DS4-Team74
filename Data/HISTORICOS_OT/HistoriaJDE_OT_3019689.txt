@@ -1,0 +1,2 @@
+MANTENIMIENTO PREVENTIVO SEGÚN PLAN.
+Realizar cambio de sensor de Humedad relativa y temperatura HMP155

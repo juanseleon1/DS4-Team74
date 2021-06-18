@@ -1,0 +1,6 @@
+
+
+10/06/2017 Luis Eduardo Arcila
+
+Se realiza mantenimiento al tablero de control, se le da torque a toda la tornillería de las borneras y relés.
+Se verifica transferencia automática, trabajando normalmente.

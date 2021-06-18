@@ -1,0 +1,10 @@
+En el transformador de la fase S de la unidad 2 de Guadalupe 3 presenta una diferencia mas o menos 10 grados en la lectura de temperatura, con respecto a las otras fases.
+
+
+02/05/2018
+
+
+SE HACE UNA REVISION A LOS TERMOMETROS QUALITROL, SE LES HACE UN RESET Y SE NORMALIZAN LAS MEDIDAS DE TEMPERATURA.
+
+
+REALIZO: GRUPO DE ELECTRONICA. 

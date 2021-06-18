@@ -1,0 +1,8 @@
+2015-09-22. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR PORQUE SE ENCUENTRAN LAS ALARMAS DEL BANCO EN SU TOTALIDAD EN EL LISTADO DE ALARMAS QUEDANDO PENDIENTES EN LA O.S.
+
+2015-09-23
+
+se encuentran malos los modulos remotos DSDI 452 no se tiene repuesto, se envian a RPM a su reparacion y se pide cotizacion para la compra de 
+estos modulos  

@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en la corrección de la fuga de agua en el cojinete guía superior de la unidad 1 de la central de Troneras
+
+Ot: 3745533 - Fuga agua cojinete guía superior- Programador: Camilo Montagut - 07/08/2018
+
+Se realiza el mantenimiento correctivo en el serpentín del cojinete el cuál presentaba gran cantidad de poros dejando pasar gran cantidad de agua. El proceso de soldadura se realizó con proceso autógeno y los electródos de estaño-plata y Harris.
+
+Luego de finallizar el proceso de soldadura por los viejos empates del serpentín se realiza prueba de estanqueidad por espacio de una hora donde no se presentó fugas ni perdida de presión.
+
+Se cambia todo el aceite hidráulico del cojinete y se ubica en canecas de 55 galones que serán dispuestas en el MIA para su posterior tratamiento.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+

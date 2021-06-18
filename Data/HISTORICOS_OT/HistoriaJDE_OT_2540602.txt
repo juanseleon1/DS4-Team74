@@ -1,0 +1,7 @@
+Buenas noches.
+Favor revisar el interruptor de la calefacción del generador unidad 8, al momento de reponerlo se dispara de nuevo este se ubica en el SA4. 
+Gracias.
+Reporto: Juan Carlos Duarte  01/06/2014.
+
+2014/06/001 - CESAR HOYOS
+Se realizó inspección visual al interruptor  y no se encontró nada atípico, se destapó se revisaron sus contactos encontrándose normales, se realizó medida  óhmica a las resistencias de calefacción comparándola con otras 2 unidades y los valores fueron los mismos. Se tomó medida de continuidad entre los polos del interruptor encontrándose normal, se tomó medida de voltaje y de corriente a la entrada y salida del interruptor con los mismos valores. Se normaliza el sistema quedando en operación normal.

@@ -1,0 +1,22 @@
+30 AGOSTO 2014.
+
+Se realiza cambio de tarjeta en el controlador de la U2, Profibus DPV1 -FI830F. Se descarga la EPROM del controlador , del profibus  y se hace una Whole station (descarga total del controlador). Se normaliza la unidad y queda sincronizada mediante el controlador principal para monitoreo y seguimiento de la falla Modbus. CMONTOYE
+
+06 AGOSTO 2014.
+
+Por presentar la perdida de comunicacion se cambia en el controlador de respaldo la tarjeta serial y se desconectan la comunicacion modbus del tablero de drenajes, y el PECA el cual se encontraban conectados en el controlador de la Unidad G42.
+
+05 AGOSTO 2014
+
+La unidad se ha salido en varias ocasiones por  perdida de comunicación.
+
+Estando la unidad en 66 Mw y 16 MVAR y luego de pérdida constante en sus comunicaciones, esta presenta oscilación de potencia activa ; luego baja su consigna a 4,5 Mw, la unidad no recibe orden de subir potencia y tampoco la orden de paro normal por lo que es necesario darle paro de emergencia. 
+Se informa al Ingo. Esteban Vásquez.
+
+Debido a las constantes salidas de esta máquina ,se descargaron las memorias EPROM Y EPROM PROFIBUS, en ambos controladores de la unidad, también se revisan las tarjetas seriales y se apretan bornes. Queda la unidad en observación.
+Se generó OT No. 2577335. Informan: Juan Caicedo, William Lopera, Esteban Vásquez.
+
+21 DE JULIO DE 2014
+
+Referente a la Unidad G42, esta bajo intempestivamente su carga, de 35 MW a 0 MW y posteriormente sube de nuevo a 35 MW.                                                                           Se informa al Ing. Oscar Restrepo.
+se encontraron fallados los controladores, se les hace un reset y no responden, es necesario descargarles el sistema operativo y programar ambos controladores.  Informo Juan Caicedo

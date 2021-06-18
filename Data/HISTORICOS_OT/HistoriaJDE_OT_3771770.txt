@@ -1,0 +1,14 @@
+MANTENIMIENTO PREVENTIVO ANUAL MOTOR BOMBA 1 MARIPOSA 1 GUADALUPE 3.
+
+
+OCTUBRE 10 DE 2018
+Referente a cámara válvulas por oportunidad se realizó mantenimiento general eléctrico al tablero de control y potencia, motores bombas estación hidráulica, sensores de posición válvulas mariposas y Rio asociada al control. Se realizaron pruebas de resistencia de aislamiento a los dos motores, toma de medida de voltajes y corrientes, estos trabajos se atendieron con la OT: 3771770 - 37717771.
+Realizó: Tatiana Almario - Sergio Areiza.
+Informó: William Lopera.
+
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE MR - S207.2R59.8R6.3R6.09S - T205.6S57.3S6.6S6.14T - R207.2T58.9T6.1T6.19
+
+
+
+
+

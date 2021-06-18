@@ -1,0 +1,10 @@
+
+ DICIEMBRE 18 DEL 2014 / GUSTAVO QUINTANA 
+
+Revisar alarmas foso drenajes GIV, Salieron las alarmas  “ cierre válvula  mariposa por inundación “ y “ drenaje planta de inundación por flotador disparo”    en la pantalla G4S5 operación; dichas alarmas no cerraron la válvula mariposa. Se revisó el nivel del foso encontrándose normal. Las alarmas quedaron presentes.
+
+DICIEMBRE 20 DE DICIEMBRE
+
+Se revisa en el control y se encontro que las alarmas se habian ocacionado por perdida de la comunicación Modbus, se normaliza y queda operando normal.
+
+Informó: William Lopera 

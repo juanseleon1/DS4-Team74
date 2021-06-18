@@ -1,0 +1,10 @@
+
+SEPTIEMBRE 26 DEL 2014 
+
+Revisar el la señal de potencia reactiva de la unidad G31, estando la unidad desconectada del sistema de potencia muestra un dato negativo oscilante de Mvares (- 4.7),  los cuales influyen en la potencia reactiva de la las unidades conectadas al sistema. 
+
+SEPT. 26 DE 2014
+
+Se revisa el transductor que entrega la señal de potencia reactiva al regulador de tensión, por estar mostrando -4.7 MVAR con la unidad parada, el transductor se encontró desajustado, se cambió dicho  transductor y se normalizó la señal, la unidad queda mostrando 0.2 MVAR.
+
+Realizó: Francisco González, Fredy duarte, Uaimer díaz

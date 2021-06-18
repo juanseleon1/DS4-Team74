@@ -1,0 +1,12 @@
+Sale en el despliegue de alarmas una serie de eventos de la unidad 7 el cual es provocado por falla en el controlador, al inspeccionarlo, se encuentra fallado en el rack superior todas sus tarjetas; se procede al cambio de la fuente DSSR122. Cuando se reinicia presenta problemas de comunicación por lo que se cambia la tarjeta DSBC173, también se realiza mantenimiento al todas sus tarjetas encontrando problemas en los conectores del la CPU.
+Se arranca de nuevo y se carga el programa quedando en condiciones normales.
+
+
+Cesar Tulio Jimenez
+Luis Eduardo Arcila
+
+Mayo-7-2014
+
+
+
+

@@ -1,0 +1,6 @@
+
+FECHA: ENERO 17 DE 2014
+
+EJECUTO:HENRY GIRALDO 
+
+Se cambia modulo 106 A2 de comunicación falla 4.4 y fusible de veletas en AG01, se cambia modulo de temperatura.

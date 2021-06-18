@@ -1,0 +1,5 @@
+2015/02/11 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+En revision del funcionamiento del aire acondicionado OT: 2621183 se identificó obstruccion de filtro a la entrada del S4, para lo cual se inicio con el proceso de lavado. 
+
+2015/02/12 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+Se realizo el lavado de los filtros, este lavado se realizo en la estacion de radiadores, se encontro abundante suciedad, se dejo en condiciones normales. 

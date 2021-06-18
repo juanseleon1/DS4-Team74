@@ -1,0 +1,15 @@
+02 de Agosto 2016 
+
+Referente a la Unidad Nº3: Sale de sincronismo con 150 MW y 5.3 MVAR, por paro de EMERGENCIA 86E por el sistema contra incendio del TCIG, detección extintor incendio.
+Allí se cambió fuente de potencia de 120 VAC/24 VDC, la cual se encontraba fallada en el panel de control del sistema contraincendios de la protección de la Unidad Nº3, se realizan pruebas de funcionamiento al sistema contraincendios después de reparado, por tal motivo se da paro de emergencia de la unidad Nº3, la unidad queda nuevamente protegida por el sistema contra incendios.
+
+Nota: Todo el día la Planta Porce 3 estaba declarada en pruebas
+
+Realizo: Ing. Héctor Gómez - Supervisor de Civalco: Pablo Cuellar.
+
+Informo: John Jairo González V. - Guillermo Echeverry
+
+
+
+
+        

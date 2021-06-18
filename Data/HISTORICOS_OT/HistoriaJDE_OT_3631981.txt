@@ -1,0 +1,7 @@
+24-10-2017 AL MOMENTO DE SINCRONIZAR LA UNIDAD N°1 EL LIMITADOR DE APERTURA NO SUBÍA DEL 6.0%
+INFORMA: TURNO UNO OPERACIÓN
+
+Referente a la unidad G31.
+En el momento de sincronizar la unidad, no terminaba la secuencia debido a que el limitador de apertura no abría al 100%. Se lleva la máquina hasta girando y se revisan las señales de pulso subir potencia y pulso bajar potencia en la RIO 07 y las conexiones en el SEL 2505, se reaprietan bornes y normaliza la unidad. OT: 3631981
+
+Informaron: José Montoya  Esteban Vásquez  M. 

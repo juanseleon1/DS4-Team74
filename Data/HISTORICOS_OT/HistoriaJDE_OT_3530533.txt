@@ -1,0 +1,22 @@
+
+
+6/07/2017. SERGIO OLIVARES D.  -- O.T. 3530533 --  EJECUTORES: GIOVANNY DÍAZ -- FERNANDO RUIZ A.
+                                        ATANASIO JARAMILLO - RODOLFO GARCES
+
+ La motobomba se recibio impregnada de hollín,aceite y agua. Se desarmo, se petrolizo, y se horneo el estator durante 14  horas a 50°C para secar la humedad.
+
+ Se armo de nuevo, con cambió balineras.
+ Rodamiento superior: 6212-ZZ
+ Rodamiento inferior: 6314-ZZ/C3
+
+
+PRUEBA EN VACÍO MOTOBOMBA N°1:
+            CORRIENTE ARRANQUE:  507 AMPERIOS
+            CORRIENTE:  29.2 --   30.0 --  32.0  AMPERIOS  --- CORRIENTE NOMINAL: 91 AMPERIOS A 460 VAC
+            VOLTAJE:        RS: 476 --  RT: 474   -- ST: 473  VAC
+            AISLAMIENTO: 207 MEGA- OHMIOS
+
+ Se recibio el día 04 de julio/2017 
+
+
+

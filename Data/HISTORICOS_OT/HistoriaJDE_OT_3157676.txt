@@ -1,0 +1,10 @@
+LA ESTACION NO TRANSMITE
+Planeador: Carlos Torres
+Aprobador:Carlos Andrade
+Fecha de solicitud: 28 Jun 2016
+Tipo de mantenimiento: ( Correctivo)
+Realizar las siguientes acciones de mantenimiento correctivo:
+ Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de transmisión
+              Se resetea Transmisor, se realza el sistema de pararayos.
+NOTA: LA ESTACION VAISALA FUE INSTALADA EN LA ESTACION LMM RIO GRANDE 2 RESPALDO DCP MODELO QML201 SERIAL K2746791 TRANSMISOR MODELO QST102-3 SERIAL 0700

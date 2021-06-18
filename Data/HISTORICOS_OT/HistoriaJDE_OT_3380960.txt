@@ -1,0 +1,19 @@
+2017/01/30 RUBEN ARBOLEDA
+Se realiza OT para el montaje de 3 balizas de tipo licuadora, con las siguientes caracteristicaS: 
+Iluminacion: 24 LEDs (5mm)Tipo: LicuadoraVoltaje: 100~240 VAC 50/60HzPotencia: Max. 2.5WBuzzer (dB): Ajustable 80(Max.)Frecuencia de Rotacion: AjustableTamaño: Ø 100X148mmIncluye: Bracket para montaje en pared (GD-001) de 80x80x58mmPeso: 330gr. Aprox.Grado de Proteccion: IP65
+La compra se hace por caja menor. 
+
+2017/03/26 RUBEN ARBOLEDA
+Ya llegaron las balizas, queda penidente realizar el montaja, se pasa la OT a estado 35
+
+2017-08-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3380960, PASO:1          
+Se realizó el montaje de las balizas en las bahías del túnel, se dejó en condiciones normales.2017/01/30 RUBEN ARBOLEDA
+Se realiza OT para el montaje de 3 balizas de tipo licuadora, con las siguientes caracteristicaS: 
+Iluminacion: 24 LEDs (5mm)Tipo: LicuadoraVoltaje: 100~240 VAC 50/60HzPotencia: Max. 2.5WBuzzer (dB): Ajustable 80(Max.)Frecuencia de Rotacion: AjustableTamaño: Ø 100X148mmIncluye: Bracket para montaje en pared (GD-001) de 80x80x58mmPeso: 330gr. Aprox.Grado de Proteccion: IP65
+La compra se hace por caja menor. 
+
+2017/03/26 RUBEN ARBOLEDA
+Ya llegaron las balizas, queda penidente realizar el montaja, se pasa la OT a estado 35
+
+2017-08-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3380960, PASO:1          
+Se realizó el montaje de las balizas en las bahías del túnel, se dejó en condiciones normales.

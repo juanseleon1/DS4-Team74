@@ -1,0 +1,302 @@
+- FECHA : SÁBADO SEPTIEMBRE 24 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - JEISON ORTEGA
+- ASOCIADO A LA OT : 3259619
+- ASUNTO : HACER MANTTO MP
+
+
+** UNIDAD MANEJADORA N° 1
+
+    - DATOS PLACA  COMPRESOR N° 1
+      V : 208/2030 v
+      I : 20.7 a 
+      Potencia : 30 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 70 a
+          Fase R : 29.3 a
+          Fase S : 29.9 a
+          Fase T : 30.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 175 Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+** UNIDAD MANEJADORA N° 1
+
+    - DATOS PLACA COMPRESOR N° 2
+      V : 208/230 v
+      I : 20.7 a 
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 78 a
+          Fase R : 25.0 a
+          Fase S : 25.2 a
+          Fase T : 26.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 212 v 
+
+       * Aislamiento motor compresor : 798 Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+** UNIDAD MANEJADORA N° 1
+
+    - DATOS PLACA COMPRESOR N° 3
+      V : 208/230 v
+      I : 20.7 a 
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 81 a
+          Fase R : 35.0 a
+          Fase S : 33.0 a
+          Fase T : 34.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 212 v 
+
+       * Aislamiento motor compresor : 293  Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+** UNIDAD MANEJADORA N° 2
+
+    - DATOS PLACA  COMPRESOR N° 1
+      V : 208/240 v
+      I : 39.1 A
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : está fuera de servicio 
+          Fase R : 
+          Fase S :
+          Fase T : 
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 175 Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+
+** UNIDAD MANEJADORA N° 2
+
+    - DATOS PLACA  COMPRESOR N° 2
+      V : 208/240 v
+      I : 39.1 A
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 71.0 a
+          Fase R : 34.0 a
+          Fase S : 31.0 a
+          Fase T : 32.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 1.3 Goh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+
+** UNIDAD MANEJADORA N° 2
+
+    - DATOS PLACA  COMPRESOR N° 3
+      V : 208/240 v
+      I : 20.7 A
+      Potencia : 30 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : fuera de servicio
+          Fase R : 
+          Fase S : 
+          Fase T : 
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+
+
+
+
+- FECHA : SÁBADO SEPTIEMBRE 24 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - JEISON ORTEGA
+- ASOCIADO A LA OT : 3259619
+- ASUNTO : HACER MANTTO MP
+
+
+** UNIDAD MANEJADORA N° 1
+
+    - DATOS PLACA  COMPRESOR N° 1
+      V : 208/2030 v
+      I : 20.7 a 
+      Potencia : 30 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 70 a
+          Fase R : 29.3 a
+          Fase S : 29.9 a
+          Fase T : 30.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 175 Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+** UNIDAD MANEJADORA N° 1
+
+    - DATOS PLACA COMPRESOR N° 2
+      V : 208/230 v
+      I : 20.7 a 
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 78 a
+          Fase R : 25.0 a
+          Fase S : 25.2 a
+          Fase T : 26.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 212 v 
+
+       * Aislamiento motor compresor : 798 Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+** UNIDAD MANEJADORA N° 1
+
+    - DATOS PLACA COMPRESOR N° 3
+      V : 208/230 v
+      I : 20.7 a 
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 81 a
+          Fase R : 35.0 a
+          Fase S : 33.0 a
+          Fase T : 34.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 212 v 
+
+       * Aislamiento motor compresor : 293  Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+** UNIDAD MANEJADORA N° 2
+
+    - DATOS PLACA  COMPRESOR N° 1
+      V : 208/240 v
+      I : 39.1 A
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : está fuera de servicio 
+          Fase R : 
+          Fase S :
+          Fase T : 
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 175 Moh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+
+** UNIDAD MANEJADORA N° 2
+
+    - DATOS PLACA  COMPRESOR N° 2
+      V : 208/240 v
+      I : 39.1 A
+      Potencia : 20 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : 71.0 a
+          Fase R : 34.0 a
+          Fase S : 31.0 a
+          Fase T : 32.0 a
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 1.3 Goh
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+
+** UNIDAD MANEJADORA N° 2
+
+    - DATOS PLACA  COMPRESOR N° 3
+      V : 208/240 v
+      I : 20.7 A
+      Potencia : 30 Bares
+
+    - Compresor N° 1
+       * Corriente de arranque : fuera de servicio
+          Fase R : 
+          Fase S : 
+          Fase T : 
+    
+       * Voltajes 
+          RS : 214 v
+          ST : 213 v
+          RT : 215 v 
+
+       * Aislamiento motor compresor : 
+
+       * Termico de control : 6 a
+       * Termico potencia : 36 a
+
+
+
+
+

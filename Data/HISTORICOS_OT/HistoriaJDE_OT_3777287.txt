@@ -1,0 +1,10 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: RMONTOYG
+FECHA. 23/10/2018
+OT: 3777287 
+
+BLOQUEAR EL SISTEMA Y DESMONTAR MOTOR PARA CAMBIO DE RODAMIENTOS
+
+INFORME:
+
+En el subsistema 1 se desmonta el motor para cambio de rodamientos por ruido excesivo, se instalan rodamientos de referencia 7306 BE - 2RZP (Carga) y 6206 - 2Z/C3 (Guía) y se prueba funcionamiento. Queda funcionando normal y en observación por posibles ruidos.

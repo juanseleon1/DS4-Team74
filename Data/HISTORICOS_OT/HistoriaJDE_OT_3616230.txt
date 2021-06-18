@@ -1,0 +1,12 @@
+03/10/2017. 18:23.
+
+El regulador de tensiòn se encontraba alarmado por Falla leve y al restaurar desde el boton de reset del Regulador la Unidad se fuè directo a un disparo por protecciones dando Paro de emergencia (Rele 86E1).
+
+Informa: Turno de Operaciòn Nro. 3.
+
+WILSON ARANGO BEDOYA - ALEX JOHN RESTREPO.
+
+
+NOVIEMBRE 03 DE 2017
+Se habilita nuevamente el regulador de tensión principal, el cual se encontraba fallado por falla en la tarjeta de pulsos de tiristores, se encontró fuente de alimentación de esta tarjeta fallada, se aprietan sus conexiones y normaliza todo el regulador, se realizan pruebas giranso la unidad hasta energizada quedando en condiciones normales.
+William Lopera.

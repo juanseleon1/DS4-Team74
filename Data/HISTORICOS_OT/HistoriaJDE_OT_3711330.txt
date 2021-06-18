@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711330
+
+BAE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD
+
+FECHA: ABRIL 25/2018 PROGRAMO: DANIEL PALACIOS EJECUTO: HECTOR DARIO PUERTA.
+
+Se realiza inspección, mantenimiento y limpieza al sistema de escobillas y anillos rozantes de la unidad, para esto se retiran las tapas laterales y superior del recinto, las escobillas y porta escobillas, se hace medición de resistencia de aislamiento en los anillos antes y después de lavado (Antes: 1.194/1.187 M. Después: 190.5/197.9 M), se toman medidas de la longitud de las escobillas y se llenan registros. No se cambian escobilla.
+Trabajo realizado por: Hector Dario Puerta, Jhonnatan Arango y Maicol gonzalez.

@@ -1,0 +1,7 @@
+
+FECHA: MARZO 10 DE 2014 
+
+RESPONSABLE:  ELIECER PUSHAINA
+
+
+Se cambia el filtro de la bomba 1 de la caja multiplicadora, ya que se estaba presentando alarma e incremento en la presión de éste.

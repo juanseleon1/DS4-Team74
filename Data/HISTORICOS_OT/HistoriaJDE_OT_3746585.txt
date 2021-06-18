@@ -1,0 +1,11 @@
+FECHA: MARTES 17/07/2018
+PROGRAMO: DIONIS MAURICIO ZAPATA
+EJECUTO: NORBERTO PESTANA, FELIPE SALAZAR, WIFER HINCAPIE, FREDY MUÑOZ, DIONIS MAURICIO ZAPATA
+ASOCIADO A LA OT: 3746585
+ASUNTO:
+ U2PL: Se presentan tres salidas con disparos debido a alta vibración en el cojinete de turbina. Se chequea el cojinete en busca de alguna evidencia de vibraciones pero no se encuentra nada. Se revisa la trayectoria de las señales de vibraciones y los disparos. De la gráfica de datos del sistema Scada, se muestran picos en la magnitud de la medida de dos sensores del cojinete que alcanzan el nivel para disparo. 
+ 
+U3PL: Se presenta salida intempestiva de esta unidad por alta vibración en el cojinete de Turbina, cuando se estaba probando una señal de vibración de la U2PL. Lo anterior indica una correlación de los dos eventos, mostrando que debe haber una mala conexión o distribución errada de señales en el tablero de vibraciones.
+ 
+·Queda la consigna de operación de seguir monitoreando estrechamente las vibraciones de ese cojinete en la U2PL.
+

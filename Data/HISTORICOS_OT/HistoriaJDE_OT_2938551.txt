@@ -1,0 +1,6 @@
+
+2015/11/25 DIEGO BEDOYA
+Se realiza el mantenimiento preventivo al cojinete de turbina de la U3, se encuentra con nivel normal de operación.
+
+Medida con flexómetro: 315 mm
+Medida con prosonic: 311 mm

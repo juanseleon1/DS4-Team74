@@ -1,0 +1,12 @@
+Planeador:   Carlos Mario Torres J
+Aprobador:    Carlos Andrés Andrade
+Fecha de solicitud:       25/04/2018
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+ Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos 
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación de sistema de transmisión
+             Calibración Pluviometro

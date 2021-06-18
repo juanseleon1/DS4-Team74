@@ -1,0 +1,39 @@
+
+
+ 17/07/2017.-- SERGIO OLIVARES D. -- EJECUTORES: JUAN DAVID GARCIA G. -- OSCAR GIRALDO G.
+
+ La unidad estuvo parada desde el viernes 07/07/2017 a las 0:00 horas hasta el 14/07/2017 a las 15:00 horas , por cambio de 
+ inyectores de turbina 
+ Se desarmo el recinto de anillos para colocar felpas en los laberintos del eje de la chumacera superior, para evitar vapores de  aceite al recinto de anillos.
+ Se cambio una escobilla del anillo inferior.
+
+ Se hizo medida de aislamiento a:
+ Medias lunas de los barrajes:
+ Media luna Anillo superior  ----  5.62 G
+ Media luna Anillo Inferior    ----   4.51 G
+
+ Medida de aislamiento independiente anillos rotor:
+ Anillo superior  ----- 6.37 G
+ Anillo Inferior    -----  4.94 G
+
+*** CORRECCIÓN  VAPORES ACEITE RECINTO ANILLOS.
+
+Las unidades de segunda etapa, siempre han tenido fuga de vapores de aceite de la cuba superior al recinto de anillos por los laberintos del eje, los cuales nos afecta considerablemente los aislamientos del recinto, de los anillos del rotor, del rotor propiamente y en general de toda la máquina.
+
+Los señores  de mantenimiento mecánico, hicieron un piloto para eliminar los vapores, en la unidad Nª6, el cual fue exitoso, y se realizo de nuevo en esta unidad Nª8. Las felpas colocadas en los laberintos empezaron a funcionar a partir del 14 de julio/2017
+
+**El lider Jaime Ramirez R., describe como se realizo el trabajo:
+
+Como ya es sabido la tapa de la cuba de generador está compuesta por una brida completa que cube toda la cuba de aceite , esta a su vez tiene  en  la parte central tiene un cuello  con una altura de unos 25 centímetros y que es la zona que abraza el eje del rotor  y en cuya zona se alojan los sellos de laberinto en tres niveles distintos  
+
+Los sellos de laberinto son de material baquelita y esta montados a una distancia de 0.35 mm del eje, para así evitar que salga el aceite a la parte superior .  
+
+En vista de que el sello de laberinto no estaba operando correctamente en el sellado del aceite , procedimos a efectuar una mejora en este lugar  y fue la siguiente:
+
+Se fabricaron 3 anillos de felpa de lana de 5 milímetros de espesor con densidad media  (uno para cada nivel)  con el mismo diámetro del eje y se montaron de manera que quedaran pisados con el mismo laberinto.
+
+Al tubo por donde salían los vapores de aceite  parte superior de la cuba y que anteriormente desembocaba  en una boca abierta al interior del recinto , mezclándose con el polvo de las escobillas ,  lo canalizamos por una manguera de 2 “   hacia un decantador de aceite,  fabricado por  el personal de mantenimiento mecánico  acá  en la central   y el cual montamos dentro del recinto de radiadores.
+
+Finalmente los vapores  que salen del decantador ya sin ese aceite en suspensión  lo condujimos  por medio de una manguera hacia el canal de descarga de las unidad en este caso la 8  , para que por  tiro natural de salida del agua fuera succionado hacia el exterior a través de la descarga de las unidades.
+
+Con esto logramos eliminar los vapores de aceite 100% del recinto de escobillas.

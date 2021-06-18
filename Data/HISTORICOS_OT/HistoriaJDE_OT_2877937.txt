@@ -1,0 +1,8 @@
+2015/09/15 RUBEN ARBOLEDA - GIOVANNY DIAZ
+Realizar la instalacion de un mimico en la DG2
+
+2015/09/15 SEBASTIAN HINCAPIE
+Se dio inicio al proceso de instalación de mimico en la DG2. 
+
+2015/09/16 SEBASTIAN HINCAPIE - EDWIN AGUDELO (practicante Electronica)
+Se continuo con la instalación del mimico en la DG2

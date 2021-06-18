@@ -1,0 +1,12 @@
+Fecha: 2016/07/18
+COMENTARIO: La OT 3101915 sale del estado 35  debido a que el problema fue solucionado, la falla de alto consumo fue causa del inversor el cual fue retirado y se conectó la batería externa en paralelo a la batería interna. 
+Reportó: Raúl Mauricio Álvarez Álvarez
+
+Fecha: 2016/06/24
+COMENTARIO: se pasa la OT 3101915 a estado 35 debido a que se determina baja capacidad del panel para alimentar electricamente el sistema. se programará visita para la semana 27 para adicionar un panel, hasta tanto se mantendrá en pausa el desarrollo de la OT. 
+Reportó: Raúl Mauricio Álvarez Álvarez
+
+Fecha: 2016/04/20
+Síntoma: El acelerógrafo instalado en roca presenta falla por caidas de tensión, OT 3101915
+Diagnóstico preliminar: Se instaló una batería en paralelo pero parece ser problemas de panel solar ya que el sistema sigue presentando falla.
+Reportó: Raúl Mauricio Álvarez Álvarez

@@ -1,0 +1,7 @@
+OCTUBRE 04 DE 2017
+MP ELECTRICO NEUTRO TIERRA UNIDAD GENERACION GUADALUPE 3
+
+Se abrió el neutro para realizar pruebas eléctricas al estator, se realizó el mantenimiento de acuerdo al instructivo, se hace mantenimiento a los CT’ S de corriente, se revisan las resistencias del neutro se limpian y se miden comprobando que estén en buen estado, y se normaliza el neutro nuevamente. Quedando todo normal.
+
+Programo: Carlos Andres Forero
+Ejecuto: Daniel Arango- Jorge Echeverry 

@@ -1,0 +1,42 @@
+2018/02/06
+SALE DE SINCRONISMO LA UNIDAD P32 POR PARO RAPIDO 86R, POSICION SERVOMOTOR NO ALCANZADA, 142 MW
+
+06/02/2018
+
+Referente a la Unidad 2 después del paro de la unidad 3 se intenta subir carga para mitigar la desviación, pero la unidad no responde evidenciado la falla de posición no alcanzada en el Regulador de Velocidad (TRV):
+Se realiza verificación de los lazos de posición del distribuidor en la IHM del regulador se evidencia el evento de falla posición no alcanzada se informa al grupo mecánico, el ingeniero Santiago realizara verificación y acciones para esta falla la cual ya es recurrente.
+
+Informa: Walter Tobón. SE TRASLADA OT AL GRUPO MECANICO PARA SU ANALISIS Y CAUSA RAIZ
+
+
+15/03/2018
+
+Referente a la Unidad 2: Sale de servicio nuevamente la unidad P32 por Paro Rápido 86R, generado por posición servomotor no alcanzada, 141 MW. Después del paro de la unidad P32 se intenta subir carga para mitigar la desviación, con la unidad P33, pero dicha unidad no responde evidenciándose en el scada falla de lectura válvula proporcional en el Regulador de Velocidad.
+
+Informa: Operación: Turno 3: Fernando Roldán - Camilo Montoya.
+
+
+20/03/2018
+
+Referente a la Unidad 2: Sale de servicio nuevamente la Unidad P32, por Paro Rápido 86R, por posición servomotor del distribuidor no alcanzada con 143 MW y 2 MVAR. 
+Informa: Operación: Turno 3: Fernando Roldán - Camilo Montoya.
+
+
+22/03/2018
+
+Referente a la Unidad 2: Sale de servicio nuevamente la Unidad P32, por Paro Rápido 86R, por posición servomotor del distribuidor no alcanzada con 127 MW y 0 MVAR. 
+Informa: Operación: Turno 3: Fernando Roldán - Camilo Montoya.
+
+
+06/04/2018
+
+Referente a la Unidad 2: Sale de servicio nuevamente la Unidad P32, por Paro Rápido 86R, por posición servomotor del distribuidor no alcanzada con 127 MW y 10 MVAR. 
+Informa: Operación: Turno 3: Fernando Roldán - Camilo Montoya.
+
+06/06/2018
+EN EL MANTENIMIENTO REALIZADO LOS DIAS 6 AL 8 DE MAYO DEL PRESENTE AÑO, SE REALIZA REVISION DE BUJES INFERIORES Y CAMBIO DE PATINES AXIALES Y RADIALES DEL ANILLO DISTRIBUIDOR, AL DIA DE HOY NO SE HA VUELTO A PRESENTAR PEGA MECANICA DEL DISTRIBUIDOR DE LA UNIDAD.
+
+INFORMA: OSCAR PARRA
+
+
+  

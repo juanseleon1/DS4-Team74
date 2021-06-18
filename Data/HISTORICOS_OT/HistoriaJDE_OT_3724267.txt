@@ -1,0 +1,12 @@
+
+Mayo 14/2018
+
+La unidad 1 presenta falla en secuencia de paro normal, quedándose la válvula de admisión abierta y la traba del distribuidor desaplicada "secuencia en falla" este evento se viene presentando en últimos paros de la unidad.
+TRABAJO REALIZADO: 
+1- 3724267: CONTROLADOR UN =K01+W00 U1 PL ( falla secuencia de paro).
+
+R/: En un principio se le recalibro el switche de presión ( presión 65VM OK), en el regulador hidráulico, el cual se encontraba en valores diferentes a los requeridos, ( estaba en 33 Bar y se subió a más o menos    34 Bar, lo que indica en plano). 
+-Se corrige falla en borneras en el CBEH ( regulador hidráulico), las cuales estaban en falla y no dejaba energizar el temporizador asociado a la resistencia que se le instaló a la 20T, para efectos del calentamiento, pero la falla continua.  
+
+-Por último se verifica físicamente el comportamiento de la 20T, al darle paro a la unidad se evidencia, el distribuidor cierra y la 20T se aplica e inmediatamente se desaplica, quedando la 20T en falla y por ende como no ve posición de 20T aplicada no se le da   orden de cierre a la Válvula, con esto solo nos queda verificar con ING Felipe, la programación en la  secuencia del paro para determinar que está provocando dicho fenómeno. 
+

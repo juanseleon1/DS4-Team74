@@ -1,0 +1,13 @@
+MARZO 21 DE 2018
+
+SE PROGRMAA Y PLANEA EL RETIRO DEL TRANFOMADR CON NUMERO SERIAL 01.2.4006 INSTALADO EN LA FASE T DEL BANCO 6 PARA SER REPARADO EN LAS INSLTAACIONES DE INDUSTRIAS EXPLORER.
+
+INFORMA: SANDRA CARMONA.
+
+
+ABRIL 04 DE 2018
+Antes de retirar el transformador que sale para su reparación con serie 01.2.4006 se realizan los bloqueos y medidas de seguridad requeridas y se procede con el levantamiento de cableado de control antes de desconectar, se desconecta por lado de alta, baja y cables de tierras de la cuba, se realiza prueba del SFRA para tener como huella cuando vuelva reparado.
+
+Una vez desconectado el transformador se procede a retirar de la celda con el apoyo del grupo mecánico, utilizando dispositivo electromecánico para movilizarlo y ubicarlo en la celda de los transformadores de reserva para ser entregado al personal de EXPLORER que es la empresa contratista encargada de la reparación y mantenimiento del transformador.
+
+Programó: William Lopera

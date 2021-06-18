@@ -1,0 +1,10 @@
+2017/12/30 RUBEN ARBOLEDA
+En la ejecucion de la OT: 3641186 se informa el siguicente diagnostico: 
+
+DIAGNOSTICO:
+La temperatura de los cables en los bornes del motor se encuentran en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 15°C, lo cual implica una probable deficiencia en su operación, se  recomienda revizar el contacto electrico y ajustar las borneras. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+Se crea esta OT para su corrección
+
+2018-01-21 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3665024, PASO:1          
+Se realizó un ajuste a los bornes de potencia a la entrada del interruptor de la motobomba CW8, después de 2 horas de servicio se realizó inspección termografica pero ésta no mejoró, se decide cambiar el interruptor, después de 3 horas de servicio se realizó inspección termografica encontrándose en condiciones normales de funcionamiento. 
+Se anexa el informe a la OT

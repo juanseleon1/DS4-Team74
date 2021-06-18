@@ -1,0 +1,7 @@
+11/11/2014 CESAR AUGUSTO HOYOS
+
+Se realizará conexión de las señales audivisuales del sistema contra incendio de la unidad 1. Este código de equipo pertenece al sistema viejo mientras se actualiza el código del nuevo equipo.
+
+11/18/19 CESAR AUGUSTO HOYOS-OSCAR GIRALDO- JUAN DAVID GARCIA
+
+Se realizan las conexiones de las señales audivisuales, queda pendiente revisar su funcionamiento, el cual se atenderá con la OT 2637335 pruebas sistema de CO2  unidad 1.

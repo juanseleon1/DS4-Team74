@@ -1,0 +1,7 @@
+FECHA: 19/11/2017 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: En el cojinete guía turbina de la unidad 2 de Guadalupe 4, se encuentra nivel de aceite muy alto, aproximadamente 57mm por encima del nivel patrón según varilla.
+
+Progamador: Camilo Montagut - 30/11/2017
+Se cierra ot sin tiempos ni registros ya que el correctivo del mismo cojinete se realizará con la ot: 3651479
+Informa: Camilo Montagut
+

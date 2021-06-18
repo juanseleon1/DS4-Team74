@@ -1,0 +1,13 @@
+AGOSTO 26 DE 2017
+
+EDGAR BARRERA CASTAÑO
+
+EL PLC TIENE APAGADO EL LED RUN; SE LE DA ARRANQUE Y NO ACTIVA, POSIBLEMENTE FUSIBLE QUEMADO.
+
+Octubre 29 DE 2017 OT3579265 PROGRAMO LUIS EDO ARCILA
+Se revisa el control del PLC SA3 y se encuentra trabajando en condiciones normales. OT:3579265
+Es de aclarar que los pulsadores de este control no son pilotos, una vez seleccione la perilla en automático se debe pulsar “ Arranque PLC”  para darle la orden de arranque.
+En el SA2 el pulsador de Arranque y paro del PLC tiene las dos funciones, pulsador y piloto. (Este PLC es Siemens)
+También es bueno aclarar en la OT, lo que ustedes comprueban , si colocan que es “ POSIBLEMENTE FUSIBLE QUEMADO”  aclarar cual fusible fue el que chequearon y detectaron abierto. Pero no colocar notas por solo una sospecha.
+
+ 

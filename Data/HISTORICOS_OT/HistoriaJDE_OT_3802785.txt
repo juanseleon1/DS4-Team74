@@ -1,0 +1,9 @@
+ENERO 22/2019 OT:3802785 PROGRAMO: JULIAN BECERRA EJECUTO: ANDRES YEPES
+
+SE REALIZA INSPECCION Y VERIFICACION DE LAS RTD USANDO EL BLOQUE SECO WIKA ARROJADON LOS SIGUIENTES DATOS Y NOVEDADES.
+
+Temp. Cojinete empuje radial RA1 lado tur.Patrón 40ºC 80ºC 120ºCinstrumento 39.6ºC 79.1ºC 118.8ºC 77ºC Alarma 80ºC DisparoNota: No se visualiza la alarma en la pantalla SACO 16D1 ABB
+
+Temp. Cojinete guía radial lado tur.Patrón40ºC 80ºC 120ºCinstrumento 39.3ºC 78.1ºC 118.6ºC 77ºC Alarma 80ºC DisparoNota: Sin novedades
+Cojinete Guía Axial turbina lado tur.Patrón 40ºC 80ºC 120ºCinstrumento 39.2ºC 78.9ºC 117.8ºC 77ºC Alarma 80ºC DisparoNota: Sin novedades
+Cojinete Guía Radial Turbina lado tur.Patrón 40ºC 80ºC 120ºCinstrumento 40ºC 80.5ºC 119.2ºC 77ºC Alarma 80ºC DisparoNota: Sin novedades 

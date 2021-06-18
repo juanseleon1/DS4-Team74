@@ -1,0 +1,5 @@
+2016/04/09 RUBEN ARBOLEDA
+OT creada para realizar montaje de contactos auxiliares para la indicacion remota en la estacion de operacion 
+
+2016/04/12 - 2016/04/15 GIOVANNY DIAZ - SEBASTIAN HINCAPIE, OT: 3070790
+Se realizó montaje de contactos auxiliares a los breakers de marca ABB, se probó cada señal de abierto/diaparado desde la DG1 hasta la estación de operación, en coordinación con Cesar Tulio Jimenez se realizó los ajustes y se ordenó el display en la estación de operación. 

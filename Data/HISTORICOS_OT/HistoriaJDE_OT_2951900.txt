@@ -1,0 +1,6 @@
+XE: REVISAR Y MEDIR CALEFACCIÓN GENERADOR.
+
+DICIEMBRE 10 DE 2015
+Se realizó el mantenimiento según el instructivo GCTRE0002. Se realizaron las pruebas eléctricas a las resistencias.
+Ver registros en el archivo de Troneras.
+Programó: William Lopera.

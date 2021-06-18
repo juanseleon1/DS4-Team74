@@ -1,0 +1,42 @@
+2018/03/15 LESLIE MARULANDA
+SE EMITE EL CONCEPTO TECNICO ACERCA DE LA COMPRA DEL TRANSDUCTO I/P, EL PROCESO DE COMPRA ES CM-2018-00752.
+2018/02/04 LESLIE MARULANDA
+OT: 3669679
+EQUIPO A COMPRAR: TRANSDUCTOR I/P (CORRIENTE A PRESION)
+
+PROVEEDOR SUGERIDO: AUTOMATIZACION S.A
+
+CODIGO OW DEL PROVEEDOR: 22129
+
+DIRECCION DE ENTREGA: A42
+
+CODIGO DESCRIPCION: 108464
+
+DESCRIPCION 1: INSTRUMENT, MEDICIÓN Y CONTROL 
+
+DESCRIPCION 2: TRANSDUCTOR I/P (CORRIENTE A PRESION)
+
+CANTIDAD: 3
+
+UNIDAD DE MEDIDA: UN
+
+VALOR UNITARIO: $ 1250000
+
+
+
+ANEXOS:
+
+1. Transductor de corriente a presión, transductor I/P (electroneumático), este deberá convertir una señal de entrada de control de 4 a 20 mA en una señal de salida de control 3 a 15 psi proporcional a la entrada, el transductor deberá ser ajustable con sus respectivos ajustes de cero y span, el proveedor deberá entregar los equipos ajustados de acuerdo a la siguiente tabla:
+Corriente entrada mA Presión salida psi4.00 3.008.00 6.0012.00 9.0016.00 12.0020.00 15.00
+La conexión eléctrica (señal entrada control) es a 2 hilos (two wire) correspondiente al positivo y negativo, el transductor deberá tener una presión de suministro de aire ajustable entre 0 a 100 psi, este deberá tener linearidad < 1.0% del span, repetibilidad < 0.5 del span, histerisys < 1.0 % de span, con las tomas de entrada y salida de 1/4 pulgada y rosca npt, adicional deberá tener puertos de 1/4 pulgada y rosca npt para instalación de manómetros, los equipos deberán tener una protección teniendo en cuenta que su montaje es en campo en tubería, no se admiten para montaje en gabinete,  el transductor deberá tener como mínimo 1 año de garantía, los equipos deberán tener un tiempo de entrega igual o inferior a 15 días.
+
+
+
+
+
+2018/01/9 LESLIE MARULANDA
+
+SE CREA LA ORDEN DE TRABAJO PARA AJUSTAR LA SEÑAL DE CONTROL TRANSDUCTOR I/P Y LA CORRECTA OPERACION DE LA VALVULA DUMP.
+
+2018/01/18 LESLIE MARULANDA 
+SE LOGRA AJUSTAR LA VALVULA QUEDANDO OPERATIVA CON TRANSDUCTOR IP, SIN EMBARGO CON ESTA ORDEN SE COMPRARAN LOS  TRANSDUCTORES DE ESTA VALVULA Y LA FEED.

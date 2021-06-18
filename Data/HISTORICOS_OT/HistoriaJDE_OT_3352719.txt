@@ -1,0 +1,9 @@
+27/12/2017
+Gustavo Morales
+Apertura automática 220 banco T2 52T2 por actuación del rele 86 a causa de un disparo del sistema de C02.
+
+2016-12-29
+Se cancela por falta de recursos 
+Se programa visita técnica con el personal de Accequip para revisión del sistema contra incendio para evaluar y solucionar todos sus problemas.
+Una vez evalúen se crea una nueva OT
+Learcilas

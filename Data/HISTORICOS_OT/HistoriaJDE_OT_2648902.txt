@@ -1,0 +1,14 @@
+XI: VERIFICAR, MEDIR, COMPROBAR INSTRUMENTACION COJINETE INFERIOR GENERADOR TRONERAS
+
+10/DICIEMBRE/2014
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+Se realiza inspección visual al cojinete inferior y todos los elementos electrónicos e instrumentación (RIO´s y sensores), se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL 9.01 VDC  y el CIPR 9.43 VDC, AXIAL 8.77 VDC.
+Nivel de aceite se encontró en 1581.5 mm  no se le adiciono aceite, se dreno el instrumento por presentar medida errónea referenciado con el visor análogo: el nivel patrón es 1600 mm. 
+
+Se inyecto señal con el calibrador de procesos para comprobar  alarma y disparo de las RTD según formato de instrumentación, que se encuentra en la siguiente ruta: \\Wperezg5\MTTO UNIDADES GPEPORCE\2014\SEMESTRALES TRONERAS 
+
+Se realiza mantenimiento de cada una de las RTD asociadas a cojinete y se depuran alarmas en la pantalla de unidad.
+
+Programador: Oscar Arango
+Ejecuto: fredy Duarte - Alvaro Piedrahita

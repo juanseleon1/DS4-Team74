@@ -1,0 +1,9 @@
+LA UNIDAD 3 DE G4 PRESENTA RUPTURA DEL PERNOFUSIBLE ALABE 20
+
+
+
+Programador: Camilo Montagut - 06/10/2016 
+
+Se cambia el perno fusible numero 20  por presentar falla. Se realiza limpieza y se ajusta el tornillo sensor a 9.8 mm según dato de calibración.
+
+Ejecuta: equipo mantenimiento mecánico UOG  

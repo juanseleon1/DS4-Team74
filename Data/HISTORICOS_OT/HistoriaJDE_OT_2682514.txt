@@ -1,0 +1,2 @@
+2015/01/23 GUILLERMO CORDOBA - RUBEN ARBOLEDA
+Se identifica falla en la valvula de salida de la mmotobomba AFAA #2, la cual no abre completamente, provocando un incremento de la presión en la bomba que oscila entre los 110 y 120PSI

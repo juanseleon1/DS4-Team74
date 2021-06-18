@@ -1,0 +1,6 @@
+
+FECHA: MARZO 30 DE 2016 OT 3060740
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+Se cambia el único anemómetro que tiene el aerogenerador lo anterior debido a que en la tarde de ayer la maquina se quedó sin medida de viento pero funcionando, al fallarse horas más tarde por comunicaciones y luego de dar Reset se quedó en System OK pero los frenos no recibían orden de abrirse por falta de medida de viento.

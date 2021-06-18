@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL REGULADOR HIDRAULICO CENTRAL PORCE 2.
+
+FECHA : 25\ 03\ 2015 OT # 2718825,PROGRAMO : R JIMENEZ, EJECUTO : OLGA VIANA
+
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite pertenecientes al sistema deL REGULADOR HIDRÁHULICO TURBINA (S3). Según IDM: GCP2E0017. No se encuentran averías NI FALLAS en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+
+

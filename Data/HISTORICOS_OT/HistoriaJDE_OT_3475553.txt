@@ -1,0 +1,13 @@
+Planeador:642009
+Aprobador:355694
+Fecha de solicitud:08 de Mayo de 2017
+Tipo de mantenimiento: Preventivo
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Limpieza de estación
+ Descarga y verificación de datos de la estación
+ Análisis de datos de estado del datalogger 
+ Realización de aforo
+ Realizar levantamiento topográfico de la sección
+
+NOTA: Se aplaza para la semana 24 (14 de junio de 2017)

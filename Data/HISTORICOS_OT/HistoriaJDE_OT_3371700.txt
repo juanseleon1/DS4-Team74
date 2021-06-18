@@ -1,0 +1,9 @@
+REALIZAR MANTENMIENTO ELECTRICO A MOTOR DE LA BOMBA DE CIRCULACION ACEITE
+
+fecha:19/01/2017 ot: 3371700 PROGRAMÓ: R JIMENEZejecutó: JADER ORREGO - OLGA M VIANA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite del transfomador hace revision y mantenimiento al tablero de control y potencia   realizan pruebas electricas al motor de la bomba, VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación
+
+registro mb1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE M VDCR - S484R16.5R3.4R35.8 505S - T482S13.9S3.3S36.0 505T - R483T15.7T3.3T36.2 505
+registro mb2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE M VDCR - S484R16.4R3.4R29.7 505S - T482S 15.4S3.3S28.0 505T - R483T15.2T3.3T28.2 505

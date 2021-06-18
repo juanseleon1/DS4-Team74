@@ -1,0 +1,6 @@
+
+FECHA: OCTUBRE  24 DE 2013
+
+EJECUTO:  P.Luis ,Alvarito Eliecer Probayo
+
+Se sube al AG7 y se le coloca a uno de los  cable de la fase R termoencojible  500 MM 900 voltios para una prueba que sale del generador al  contactor del generador y  también a la salida del generador a uno de los cables de la fase T hasta debajo de la caja .

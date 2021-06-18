@@ -1,0 +1,6 @@
+
+ABRIL 17/2019  OT:  3829170  PROGRAMÓ: HGIRALRI EJECUTÓ: PEDRO ROBAYO, ALVARITO PUSHAINA Y ELIECER PUSHAINA
+
+Se presenta perdida de medida de velocidad de viento, se realiza inspección y se encuentra el cable fracturado bajo el anemómetro, se realiza el cambio del instrumento y se verifica la correcta medida en el Scada.
+
+Se presenta falla en el Loop, se verifica en el Diag+ y se observa falla en 7.18 0D29, que significa falla en la comunicación de este módulo con el 7.0, se realizan varias pruebas mejorando las conexiones entre los módulos 7.0 y las peinetas, pero la falla continua, se cambian los dos módulos del 7.0; se deja en servicio el aerogenerador.

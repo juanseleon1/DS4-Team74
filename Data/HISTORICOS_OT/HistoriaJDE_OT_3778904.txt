@@ -1,0 +1,10 @@
+
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE4
+OT: 3778904
+
+FECHA: 07/11/2018
+
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.
+
+PROGRAMO: LUIS ADRIAN CARDONA

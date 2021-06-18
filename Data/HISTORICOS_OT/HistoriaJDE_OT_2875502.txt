@@ -1,0 +1,2 @@
+2015/10/29 JHONATAN USME - EDWIN ARANGO (PRACTICANTE) OT: 2875502
+Se realizó medidas de voltajes y densidades, se encontró densidad minima 1200, densidad maxima 1275, voltaje total: 133.9, se adicionó 3 litros de agua, se dejo en condiciones normales. 

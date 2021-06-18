@@ -1,0 +1,48 @@
+FECHA: MARTES 26/02/2019 
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, JESUS GARCIA
+ASOCIADO A LA OT: 3807028
+ASUNTO: EJECUTAR MP PROGRAMADO 
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  ______________
+
+PRESION DE ARRANQUE: _______53 BAR_______
+
+PRESION DE PARO: ______61 BAR________
+
+TIEMPO DE TRABAJO: _______8 MINUTOS_______
+
+TIEMPO DE REPOSO: ______________
+
+TENSION DE BANDAS  ______________
+
+TEMPERATURA CARCAZA MOTOR: ______47° C________
+
+TEMPERATURA CARCAZA UNIDAD:______41° C________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:______29/10/2018________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:______________
+
+
+
+
+Observaciones:_LA TENCION DE LAS BANDAS SE ENCUENTRAN BIEN. EL TIEMPO DE REPOZO ES SEGUN EL CONSUMO Y ESTE DEPENDE DE LAS FUGAS DEL SISTEMA. NO SE EVIDENCIAN FUGAS. ________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

@@ -1,0 +1,2 @@
+SOLICITANTE: Anexo. - FECHA: Junio 29 del 2013.                                                                                                               CONTROLADOR  INSTTRUMENTACION  DE  RESERVA  DE  G33  EN  FALLA.                                                               FAVOR  ATENDER.
+NOTA: SE REVISA EL CONTROLADOR Y SE ENCUENTRAN  FALLADAS LAS TARJETAS PROFIBUS  FI 830F, SE LE REALIZO UN RESET Y NO  NORMALIZARON  NI HACIAN LA TRANSFERENCIA, SE PROCEDE A CAMBIAR DICHAS TARJETAS Y SE NORMALIZA EL CONTROLADOR.

@@ -1,0 +1,9 @@
+MIERCOLES 17 DE FEBRERO DE 2016
+se da paro de emergencia la unidad # 1, a las 18:21 por falla controlador de unidad.se presenta problemasa de alimentacion en el rack 2/3. el cual maneja las salidas digitales.
+
+jueves 18 de febrero de 2016
+
+REFERENTE A LA UNIDAD # 2: 
+Se entrega unidad para explotación comercial después de atender falla con OT: 3020854 en el controlador de unidad, se cambia memoria EPROM y se carga manualmente el programa a la CPU; Se realizan pruebas de arranque y paro de la unidad paso a paso hasta energizada. Luego se lanza secuencia en automático funcionando correctamente la unidad, en el regulador de velocidad se cambió la tarjeta UCT ya que se encontró regulador DIGIPID 1500 fallado. La tarjeta que se instaló presenta una falla de comunicación MODBUS, pero no interfiere en el funcionamiento de la unidad.
+Realiza: grupo electrónico y electrónico 
+Informa: Jorge Rodríguez 

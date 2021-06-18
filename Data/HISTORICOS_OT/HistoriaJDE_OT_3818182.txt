@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2018/08/12
+Síntoma: Descargar datos de la estacion y cambiar GPS para que sincronice con el goes

@@ -1,0 +1,11 @@
+FECHA: 19/22/2018  OT N°:  3674382 PROGRAOR: RICHARD JIMENEZ
+EJECUTÓ: JAIRO TORRES, JHONATAN ARANGO, CARLOS VASQUEZ, RONAL ARANGO, YOANIS RODRIGUEZ
+Referente al a Unidad N°1: Se entrega la unidfad despues de la Inspeccion del trafornador de la fase T Banco 1 al centro de control quedando disponible para su explotacion comercial. N° OT3674382 N° de Consignacion: 152103                                                                                                                      
+Se realiza inspección domo fase T Banco 1 a raíz de las trazas de acetileno evidenciadas en pruebas cromatográficas realizadas a este compartimento, se verifican conexiones lado de alta, se realiza tratamiento de aceite, igualmente se verifica estado de vejiga, indicador de nivel y se realiza prueba de factor de potencia a transformador.                                                                                                                               
+ La unidad es entregada a las 22:34 pm queda disponible, se continúa monitoreando comportamiento de gases en el aceite.   Jefe de Trabajo: Angel Adonis Cadavid.
+
+FECHA: 19/01/2018  OT N°:  3674382 PROGRAOR: RICHARD JIMENEZ PLANEADOR:ADONIS CADAVID
+
+OT CREADA PARA ATENDER LA INSPECCION Y CORREGIR PROBLEMA QUE ESTA GENERANDO ACETILENO AL INTERIOR DEL DOMO DE LA FASE T BANCO 1
+
+

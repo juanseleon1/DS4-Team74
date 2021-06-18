@@ -1,0 +1,6 @@
+SEMESTRAL MECANICO/H4000 TIPO2
+GRUA GIRATORIA (PIVOTANTE) AEROGENERADORES
+
+MAYO 31/2018 OT: 3730551  PROGRAMÓ: HGIRALRI EJECUTÓ: EPUSHAIN
+
+Se realiza medida de los eslabones de la cadena y se encuentra bien, se lubrica con grasa ceplatyl y se verifica el correcto funcionamiento de su mecanismo

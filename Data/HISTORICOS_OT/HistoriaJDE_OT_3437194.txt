@@ -1,0 +1,14 @@
+FECHA:28/03/2017
+
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCIÓN: EN EL MOMENTO EN QUE SE RESTABLECE AUTOMATICAMENTE  LOS SERVICIOS AUXILIARES DE LA PLANTA GPE 3 LA PLANTA DE EMERGENCIA NO ARRANCA EN MODO AUTOMATICO.
+POR FAVOR REVISAR SU PROGRAMACIÓN Y CONTROL DEL RESPECTIVO INTERRUPTOR.
+
+MUCHAS GRACIAS.
+
+ABRIL 7 DE 2017
+La planta de Diésel no estaba arrancando en modo automático y con dificultad de encender en manual, se encontró que el cargador de la batería en carga normal no la está cargando lo que se procedió a dejar el cargador en carga rápida, se realizaron pruebas de arranque abriendo los servicios auxiliares de 13/2 KV de G3 y la planta de emergencia enciende en modo automático asumiendo la carga de los servicios auxiliares de 440V quedando en condiciones normales la planta.  
+
+Realizo: Grupo eléctrico y turno 2.
+Informó: William Lopera.

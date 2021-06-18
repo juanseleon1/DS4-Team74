@@ -1,0 +1,14 @@
+05 NOVIEMBRE DE 2018 GUILLERMO LEÓN ECHEVERRY VÉLEZ
+
+Falla en la comuniacion de la IHM del TCCS unidad 4 con el sistema SCADA, se encuentra la pantalla en negro 
+
+
+05/11/2018
+
+se encuentra la IHM del sistema TCCS unidad 4 con pantalla negra, esta IHM no reconoce el disco duro y por esta razón sale de la aplicación, se ajusta y verifica el disco duro y actualiza , para reiniciar la aplicación del sistema , esta queda normalizada.
+
+esta IHM será cambiada por una nueva 
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR

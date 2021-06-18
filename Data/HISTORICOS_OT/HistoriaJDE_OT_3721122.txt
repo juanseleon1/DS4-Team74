@@ -1,0 +1,5 @@
+2018/05/05 RUBEN ARBOLEDA
+Se crea OT para realizar pruebas de disparos 86E y 86M a la Unidad 7 después de ovarhaul.
+
+2018-05-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - CESAR AUGUSTO HOYOS - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3721122, PASO:1-1,2          
+Se realiza pruebas de disparos a la Unidad 7, se aplicó protocolo establecido para estas pruebas. 

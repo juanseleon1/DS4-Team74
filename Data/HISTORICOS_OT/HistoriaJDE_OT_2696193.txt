@@ -1,0 +1,13 @@
+2015-02-12 JUAN CARLOS DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE NO SE REALIZO LA TRANSFERENCIA AUTOMATICA (AL INTERRUPTOR 2) AL MOMENTO DE QUEDARSE SIN TENSIÓN POR EL LADO DE DP1.ANTES DE REALIZAR LA OPERACIÓN SE VERIFICO LA CONDICIÓN DE TRABAJO DEL PLC.
+
+SE OBSERVA:
+ INTERRUPTOR 1 NO ABRE.
+ INTERRUPTOR 2 SE QUEDA BLOQUEADO O EN POSICIÓN INTERMEDIA.
+
+2015/02/14 CESAR HOYOS - GIOVANNY DIAZ - RUBEN ARBOLEDA
+Queda en operación normal la transferencia  del CCM1 se realizan pruebas en manual y en automático operando correctamente. Se encontró lo siguiente a saber: 
+Alarma de bajo voltaje en barra 2: Se encontró un borne suelto en la salida del totalizador  QB1 el cual lleva la señal de los transformadores de voltaje al relé.
+Se encontró problemas en el contacto NC  (21-22) del relé  KA7 el cual lleva la señal al PLC  de interruptor 2 abierto. Se desmontó y se realizó mantenimiento.
+Para abrir y cerrar los interruptores en manual y  automático es necesario que la laminilla por la cual se realizan maniobras de apertura y cierre con la llave, “ ESTE CERRADA”  para cerrar el switch S5 y de paso al negativo del control.

@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en la ejecucción de pruebas que se le realizarán a los cables del teleférico por parte de las empresas contratistas Fatze y Sytecsa.
+
+Programador: Camilo Montagut - 22/03/2017
+
+Finalizan las pruebas magnetoinducticas ejecutadas en los dos cables de sustentación. los dos cables tractores y los dos cables tensores del teleférico, pruebas realizadas a cargo de un tercero contratado por la empresa contratista Sytecsa.
+
+Los resultados finales de las pruebas quedan a cargo del ingeniero Yofred Rodríguez
+
+Ejecuta: equipo mantenimiento mecánico UOG en conjunto con la empresa contratista Sytecsa.

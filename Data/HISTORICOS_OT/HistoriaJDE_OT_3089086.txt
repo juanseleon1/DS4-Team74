@@ -1,0 +1,8 @@
+XM: MUESTREO Y ANALISIS ACEITE USADO DE LOS COJINETES SUPERIORES, INFERIORES Y TURBINA DE LAS UNIDADES GENERADORAS.
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2016-05-03
+SE REALIZA TOMA DE MUESTRAS SEGUN PROCEDIMIENTO.
+
+Las pruebas fueron realizadas por EATIC y los resultados almacenados en el servidor de la unidad operaciones porce, en la siguiente dirección: \\epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO\Analisis de aceites
+
+Los resultados demuestran que el aceite se encuentran en condiciones aptas para operación.

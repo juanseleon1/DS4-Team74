@@ -1,0 +1,21 @@
+FEBRERO 04-2014
+
+VALVULA PEGADA, EN EL FILTRO AUTOLIMPIABLA.
+
+-------------------------------
+
+1. Informa, personal de operación, falla en electroválvula correspondiente al filtro auto limpiante subsistema 2 U3 (el mecanismo de apertura presenta un problema, quedándose pegado/atascado). Se crea la OT Nº 2465007.
+ En semana, se inicia la inspección realizando pruebas manuales y automáticas. De este modo se confirma que el mecanismo de la electro válvula se queda pegado al iniciar la operación.
+El día Domingo, 02 de febrero, se realiza una atención a la falla.
+ Se inicia, con ayuda de operación, por bloquear eléctricamente desde los interruptores de tensión ubicados en el CCM. 
+ Al realizar la inspección, se encuentran dos cables desconectados (Fuera de la bornera y con cinta en cada extremo).  Se buscan planos eléctricos y  registros en bitácora.
+ Se abre la tapa de la electro válvula, se revisan los contactos de los microSW y se limpian con líquidos. Finalmente se realiza un pequeño ajuste en las laminillas de contacto.  NOTA: En bitácora, no se encuentran registros de la desconexión de cables en el tablero, tampoco se pueden hallar los planos del subsistema
+ Se normaliza la tensión y se procede a revisar la lógica cableada del tablero. Se determina que al estar desconectados dichos cables, se "pierde" la conducción de los 120V (No se energiza la bobina 1, por tanto no se energiza el PLC). Se compara con el tablero Tablero de Control     del subsistema 1, el cual funciona correctamente con los cables conectados.
+ Luego se realiza una prueba: Se desconectan desde la bornera los mismos conductores (En el S/S 1), se da arranque y se comprueba que el subsistema queda off (Es decir, con el mismo problema del S/S 2). Se reconectan los cables  y se prueba con un arranque el cual es exitoso. Se verifica el correcto funcionamiento del tablero y se normaliza dejando todo en condiciones de operación.
+ Una vez resuelta la falla del tablero, se inician con las pruebas en la electroválvula. Se dan órdenes de arranque y paro (Apertura y cierre). Las pruebas son exitosas y se comprueba que el dispositivo queda operando correctamente.
+
+INFORMAN: 
+CRISTIAN ANDRES GOMEZ TECNOLOGO EN OPERACIÓN Y MANTENIMIENTO 
+JAIRO GUINGUER TECNOLOGO EN OPERACIÓN Y MANTENIMIENTO
+
+

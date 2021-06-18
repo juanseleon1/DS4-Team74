@@ -1,0 +1,7 @@
+2017/05/19. CARLOS SANCHEZ.
+SE GENERA PARA REALIZAR EL CAMBIO DE LOS MANOENSOSTATOS DE LAS LÍNEAS POR LOS QUE ESTÁN CON LA CALIBRACIÓN Y LA PRESIÓN ADECUADA PARA EL SISTEMA. 
+
+14/06/2017.
+se realiza el cambio del instrumento, ya que le anterior tenía el principio de medida en presión relatva y el indicado es en presión absoluta. 
+se instala y se deja ajustado en el siguiente rango:  0,6bar = 4ma  6,16bar = 20ma. 
+nestor fabian ochoa.

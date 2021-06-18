@@ -1,0 +1,6 @@
+Se realizó montaje de relé supervisor de tensión, adecuación de señal y programacion de PLC
+
+Se realizo pruebas de funcionamiento, para lo cual respondio de manera corecta. 
+
+Lideró: Giovanny Díaz
+Ruben Arboleda

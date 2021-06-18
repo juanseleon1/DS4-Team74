@@ -1,0 +1,100 @@
+
+EJECUTANTES:Mauricio Quijano-Luis Eduardo Arcila-Cesar tulio Jiménez-Cesar Hoyos-Adonis Cadavid.
+FECHA:2017/03/22
+
+Se realiza cambio en las resistencias asociadas al canal de corriente excitación  R102, R104, R106, R108, R110 de la tarjeta Converter.
+Las resistencia que se encontraban instaladas incrementaban la medida de corriente en 150 amperios que al cargar reactivos en la unidad activaba la protección FIELD TIME OVERCURRENT ALARM, esta alarma lleva la unidad a absorber reactivos con el fin disipar la energía térmica acumulada en el rotor por el nivel alto de corriente, es de aclarar que la corriente real no llegaba a los limites superiores definidos para este rotor que es de 1250 Amperios donde se activa la protección capacidad térmica de campo modelo I2T.
+
+La unidad es solicitada por redespacho en el periodo 19 para cambiar las resistencias.
+Con el cambio de estas resistencias la medida de corriente normaliza, la unidad es probada con 20 Megavares operando correctamente, igualmente fue asignado el registro R61 al canal análogo 1 para activar la señal de temperatura rotor, esta queda operando normalmente.
+
+
+OPERADOR: JHON MARIO PEREZ
+FECHA 18/03/2017
+SE COLOCARON 10 MEGAVARES A LA UNIDAD 8 DURANTE 2 HORAS QUE ESTUVO SINCRONIZADA Y SU FUNCIONAMIENTO FUE NORMAL. NO SE PRESENTÓ OSCILACIÓN ALGUNA.
+
+
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA- ÁNGEL ADONIS CADAVID
+FECHA: 16/03/2017
+SE REVISA EL REGULADOR DE TENSIÓN DE LA UNIDAD 8 POR EL PROBLEMA DE LA OSCILACIÓN DE MVAR, ENCONTRÁNDOSE UNA TERMINAL FLOJA EN EL TRANSFORMADOR DE CORRIENTE DEL BARRAJE DE EXCITACIÓN.
+SE CAMBIA POR UNA TERMINAL NUEVA, QUEDANDO EL REGULADOR BAJO OBSERVACIÓN.
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA
+FECHA: 16/03/2017
+SE PRESENTA OSCILACIÓN DE LA POTENCIA REACTIVA SIN CAUSA APARENTE.
+SE REALIZA INFORME PARA COMPARAR LA PROGRAMACIÓN CON LAS OTRAS UNIDADES Y ELEVAR LA CONSULTA A MARIO AUGUSTO.
+
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA
+FECHA: 15/03/2017
+SE CAMBIA TARJETA SEQUENSER POR LA TARJETA DE REPUESTO DE LA U6 PARA DESCARTAR FALLA EN CONSIGNA DE MVAR 
+SE REALIZAN PRUEBAS Y SE OBSERVA QUE AUN CONTINUA EL PROBLEMA
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA
+FECHA: 07/03/2017 
+OT: 3386919
+SE CAMBIA TARJETA CONVERTER POR LA TARJETA DE REPUESTO DE LA U6 Y SE DEJAN LAS MISMAS RESISTENCIAS SIN RESULTADOS POSITIVOS.
+R104: 13.46 K-R106: 5.6 K-R108:16 K-R110: 5 K-R102: 53 K-
+EN LA TARJETA DE LA U6 EL VALOR DE LAS RESISTENCIAS ES:
+R104: 16.25 K-R106: 6.97 K-R108:10 K-R110: 3.97 K-R102: 53.5 K
+
+EJECUTANTE: LUIS EDUARDO ARCILA
+FECHA: NOVIEMBRE 1 DE 2016
+SE CAMBIA TARJETA REGULATOR SIN RESULTADOS POSITIVOS.
+
+APROBADOR: ANGEL ADONIS CADAVID
+FECHA:2016/08/20 ANGEL ADONIS CADAVID OCHOA
+SE DIRECCIONA OT AL EQUIPO ELECTRONICO
+
+
+
+EJECUTANTES:Mauricio Quijano-Luis Eduardo Arcila-Cesar tulio Jiménez-Cesar Hoyos-Adonis Cadavid.
+FECHA:2017/03/22
+
+Se realiza cambio en las resistencias asociadas al canal de corriente excitación  R102, R104, R106, R108, R110 de la tarjeta Converter.
+Las resistencia que se encontraban instaladas incrementaban la medida de corriente en 150 amperios que al cargar reactivos en la unidad activaba la protección FIELD TIME OVERCURRENT ALARM, esta alarma lleva la unidad a absorber reactivos con el fin disipar la energía térmica acumulada en el rotor por el nivel alto de corriente, es de aclarar que la corriente real no llegaba a los limites superiores definidos para este rotor que es de 1250 Amperios donde se activa la protección capacidad térmica de campo modelo I2T.
+
+La unidad es solicitada por redespacho en el periodo 19 para cambiar las resistencias.
+Con el cambio de estas resistencias la medida de corriente normaliza, la unidad es probada con 20 Megavares operando correctamente, igualmente fue asignado el registro R61 al canal análogo 1 para activar la señal de temperatura rotor, esta queda operando normalmente.
+
+
+OPERADOR: JHON MARIO PEREZ
+FECHA 18/03/2017
+SE COLOCARON 10 MEGAVARES A LA UNIDAD 8 DURANTE 2 HORAS QUE ESTUVO SINCRONIZADA Y SU FUNCIONAMIENTO FUE NORMAL. NO SE PRESENTÓ OSCILACIÓN ALGUNA.
+
+
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA- ÁNGEL ADONIS CADAVID
+FECHA: 16/03/2017
+SE REVISA EL REGULADOR DE TENSIÓN DE LA UNIDAD 8 POR EL PROBLEMA DE LA OSCILACIÓN DE MVAR, ENCONTRÁNDOSE UNA TERMINAL FLOJA EN EL TRANSFORMADOR DE CORRIENTE DEL BARRAJE DE EXCITACIÓN.
+SE CAMBIA POR UNA TERMINAL NUEVA, QUEDANDO EL REGULADOR BAJO OBSERVACIÓN.
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA
+FECHA: 16/03/2017
+SE PRESENTA OSCILACIÓN DE LA POTENCIA REACTIVA SIN CAUSA APARENTE.
+SE REALIZA INFORME PARA COMPARAR LA PROGRAMACIÓN CON LAS OTRAS UNIDADES Y ELEVAR LA CONSULTA A MARIO AUGUSTO.
+
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA
+FECHA: 15/03/2017
+SE CAMBIA TARJETA SEQUENSER POR LA TARJETA DE REPUESTO DE LA U6 PARA DESCARTAR FALLA EN CONSIGNA DE MVAR 
+SE REALIZAN PRUEBAS Y SE OBSERVA QUE AUN CONTINUA EL PROBLEMA
+PROGRAMADOR: LUIS EDUARDO ARCILA
+EJECUTANTES: LUIS EDUARDO ARCILA
+FECHA: 07/03/2017 
+OT: 3386919
+SE CAMBIA TARJETA CONVERTER POR LA TARJETA DE REPUESTO DE LA U6 Y SE DEJAN LAS MISMAS RESISTENCIAS SIN RESULTADOS POSITIVOS.
+R104: 13.46 K-R106: 5.6 K-R108:16 K-R110: 5 K-R102: 53 K-
+EN LA TARJETA DE LA U6 EL VALOR DE LAS RESISTENCIAS ES:
+R104: 16.25 K-R106: 6.97 K-R108:10 K-R110: 3.97 K-R102: 53.5 K
+
+EJECUTANTE: LUIS EDUARDO ARCILA
+FECHA: NOVIEMBRE 1 DE 2016
+SE CAMBIA TARJETA REGULATOR SIN RESULTADOS POSITIVOS.
+
+APROBADOR: ANGEL ADONIS CADAVID
+FECHA:2016/08/20 ANGEL ADONIS CADAVID OCHOA
+SE DIRECCIONA OT AL EQUIPO ELECTRONICO
+
+

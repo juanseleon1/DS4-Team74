@@ -1,0 +1,21 @@
+MP ANUAL, EQUIPOS:
+2487 ESTACION HIDRAULICA U1 G3
+2488 ESTACION HIDRAULICA U2 G3
+2489 ESTACION HIDRAULICA U3 G3
+2490 ESTACION HIDRAULICA U4 G3
+2491 ESTACION HIDRAULICA U5 G3
+2492 ESTACION HIDRAULICA U6 G3
+
+
+09/08/2018
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+Se realiza una verificación con calibrador de presión Fluke a los transmisores de presión del circuito hidráulico.
+Se verificaron los lazos de control de los inyectores N°1 N°2, N°3 Y N°4, se realizan movimientos de apertura al 100%, al 75%, al 50% y al 25% y respondieron correctamente.
+
+REALIZO: GRUPO DE ELECTRONICA

@@ -1,0 +1,15 @@
+SE GENERA OT CON EL FIN DE LLEVAR LOS COSTOS POR CAMBIO DE LOS RELES DE PROTECCION DE LA UNIDAD.
+
+AGOSTO 08/2016 OT:3196081 PROGRAMO: JGUINGUER EJECUTO: AVILLA
+se realizan todos lo preparativos para hacer la prueba de corto circuito y asi probar la funcionalidad del rele sel 300G proteccion del generador el cual se instalo en la central.
+
+
+ se realiza tendido de cable de media tension para alimentar el transformador de excitacion 
+
+ se hace medida de reisistencia de aislamiento al cable de media tension para garantizar el correcto funcionamiento.
+
+ se realiza cambio de fusibles del seccionador para proteger el transformador de excitacion.
+
+                                
+
+

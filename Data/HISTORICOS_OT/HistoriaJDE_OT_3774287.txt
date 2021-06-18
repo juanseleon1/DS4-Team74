@@ -1,0 +1,6 @@
+12 DE OCTUBRE DE 2018.
+SE CAMBIA AVR 2 POR PRESENTAR CONSTANTEMENTE FALLA SOBRE CARGA ROTOR.
+
+SE cierra OT el trabajo se realizara generando OT en Maximo.
+
+Informa: Jorge Rodríguez

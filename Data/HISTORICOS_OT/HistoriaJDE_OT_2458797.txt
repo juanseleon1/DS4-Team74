@@ -1,0 +1,6 @@
+
+FECHA: ENERO 23 DE 2014
+
+RESPONSABLE: HENRY GIRALDO Y  ALVARITO PUSHAINA
+
+Se presenta disparo por falla comunicaciones, se inspecciona y se encuentra el Mcb 104F1 disparado y se repone, funciono unos minutos y se volvió a disparar, nuevamente se repone el 104F1 y un tiempo después se dispara, se cambia el modulo 4,0 y se normaliza el AG dejándolo en funcionamiento.

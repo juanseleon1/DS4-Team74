@@ -1,0 +1,17 @@
+OCTUBRE 05 DE 2017
+PREVENTIVO ELECTRICO LUBRICACION FORZADA GENERADOR GUADALUPE III.
+MANTENIMIENTO PREVENTIVO ANUAL. 
+Se realiza mantenimiento preventivo a la bomba #2. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: estos fueron los datos obtenidos de las pruebas realizadas:
+
+VOLTAJEFASE VOLTIOSR - S446S - T445T - R449 
+CTE. DE ARRANQUEFASE AMPERIOSR47.9S37.9T27.7
+CTE. DE TRABAJOFASE AMPERIOSR9.1S6.6T5.7
+AISLAMIENTO / TIERRAFASEMR448S483T481
+Ejecuto: Luis Correa-Mario Morales
+Programo: Carlos Andres Forero
+
+ 
+
+

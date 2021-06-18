@@ -1,0 +1,11 @@
+
+SEPTIEMBRE 06/2017 OT: 3762877  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se inspecciona el circuito de potencia del G2 y se encuentra todo en condiciones normales, lo anterior con el propósito de resolver la falla de Time Out Thyristor G2, aprovechando este trabajo se destapa la caja multiplicadora y se inspecciona el estado de los piñones se encuentran bien, se deja en servicio el aerogenerador con G1.
+
+
+
+
+SEPTIEMBRE 09/2017 OT: 3762877  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y PEDRO ROBAYO
+
+Continuando con la búsqueda de la solución de la falla Time Out Thyristor G2, se procede a verificar la secuencia de fase del circuito del G2, durante los 20 segundos que dura la maquina con tiristores antes de salir la falla, se mide la secuencia por debajo del contactor 24K2 y se encuentra contraria, se verifican las conexiones en el generador (G2) y se encuentran bien, se revisan en la parte superior del porta fusibles del G2 y encontramos la fase L2 y L3 invertidas, se realiza el cambio y se deja en servicio el aerogenerador.

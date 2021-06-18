@@ -1,0 +1,9 @@
+2015-03-16. JUAN CARLOS DUARTE MUÑOZ.
+
+REVIZAR LA ALARMA QUE SE PRESENTA EN EL NODO 3: "ALARMA CARGA BAJA EN BATERIA CILINDROS. *BAJO PESO CILINDRO: GENERAL-ZONE 298-ADR101-LP2-ND3."
+
+NOTA: EL SISTEMA DE PESAJE SE ALARMA, REGISTRA EL CILINDRO 11 EN 166 KG.
+
+2015-03-18. CÉSAR AUGUSTO HOYOS HENAO.
+
+Se realiza cambio de célula de carga por una que se encontraba en el sistema de pesaje de las DP"S (este sistema aun no se encuentra en operación). Ya no se cuenta con células de carga disponible debido a que se han ido reemplazando, se esta haciendo la consulta si las que se han desmontado tienen arreglo y, se esta consultando con el proveedor en Uruguay si se puede enviar una de las células malas a sus instalaciones para que hagan un análisis del por qué se estan dañando estan celdas.

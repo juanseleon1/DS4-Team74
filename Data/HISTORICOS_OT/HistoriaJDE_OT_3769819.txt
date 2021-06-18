@@ -1,0 +1,49 @@
+FECHA: LUNES 29/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, RODOLFO GARCES
+ASOCIADO A LA OT: 3769819
+ASUNTO: EJECUTAR MANTENIMENTO PROGRAMADO AL COMPRESOR N°2 DE LOS REGULADORES HIDRAULICOS.
+ 
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  _______7982 HORAS_______
+
+PRESION DE ARRANQUE: ______53.8 BAR________
+
+PRESION DE PARO: ______61 BAR________
+
+TIEMPO DE TRABAJO: _______7´.31"_______
+
+TIEMPO DE REPOSO: ______________
+
+TENSION DE BANDAS EN MM. ______________
+
+TEMPERATURA CARCAZA MOTOR: ______42° C________
+
+TEMPERATURA CARCAZA UNIDAD:______38° C________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:______29/10/2018________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:______OCTUBRE 2018________
+
+
+
+
+Observaciones:  SE REALIZA ASEO GENERAL AL EQUIPO Y SE DRENA EL TANQUE ACUMUADOR ASOCIADO AL COMPRESOR,
+       SE CAMBIA ACEITE, SE ENCONTRABA CONTAMINADO CON AGUA. 
+                   EL EQUIPO SE ENTREGA OPERANDO EN CONDICIONES NORMALES AL PERSONAL DE OPERACION
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

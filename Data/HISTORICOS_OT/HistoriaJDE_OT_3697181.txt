@@ -1,0 +1,11 @@
+
+2018/03/08 _ CARLOS ENRIQUE MONCADA. OT N° 3697181.
+Se cambia cilindro de CO2.
+Referente al Sistema Contraincendios del TCIG y el TCCS de la Unidad Nº1: Se deshabilita la cabeza eléctrica de disparo asociada al banco de CO2 Nº 21, el cual protege en caso de incendio a estos tableros; por ende el tablero queda con detección de humo pero no con descarga automática de CO2, en caso de escucharse o generarse la alarma de incendio en dichos tableros, el operador deberá dirigirse al sitio y verificar el porque de la alarma y en caso de visualizar humo deberá cerrar las puertas de los recintos y accionar la cabeza eléctrica de forma manual.                                                                                                                                                                       
+Realizo: Julio Cesar Parra
+
+Miercoles 07 de Marzo /2018
+
+Referente al TCS y al TCIG de la unidad 1: siendo las 11:50 se activa alarma sonora del sistema contra incendio al hacer verificacion en el sistema ONIX se pudo constatar la activacion de una alarma de incendio, al bajar a revisar si hubo o no descarga de CO2 del  sistema contra incendio de estos tableros se encontro el equipo de supervision (Vesda)que vigila estos tableros activo en sus etapas, siendo esta la causa de la actuacion de la cabeza de disparo y porterior descarga del cilindro de CO2, se abren los tableros y se deja que el agente extintor se evapore, despues se hace revision en los tableros sin encontrar anomalias visuales, y se terminan de secar los excesos del agente CO2 con liencillo, finalmente se le informo a Edar Ardila Ing. encargado del sistema contra incendio Civalco
+
+Informo y ejecuto Jorge Mario Peñaranda

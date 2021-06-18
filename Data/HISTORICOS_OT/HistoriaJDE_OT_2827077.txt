@@ -1,0 +1,14 @@
+
+2015/12/22_ CARLOS ENRIQUE MONCADA
+
+SE EJECUTA MANTENIMIENTO Y VERIFICACION DE LA INSTRUMENTACION EN LOS TABLEROS DE CONTROL RITMAYER. SE REVISA  QUEDANDO ESTA DISPONIBLE PARA LA OPERACIÓN.
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero control compuertas ritmeyer
+
+Realizar mantenimiento plc del tablero de control ritmeyer de las compuertas radiales, además de transductores de medida de las galerías y de la presa en torre de captación.

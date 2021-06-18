@@ -1,0 +1,5 @@
+
+16/09/2014 Dionis Mairicio Zapata Valecia # O.T: 2601560 RT U1 PL
+Se cambio banco de ventiladores en el puente 1, el ventilador # 2 de este banco estaba con rodamientos malos (Pegado).
+
+Se bajo la gabeta Fase A del puente 2, ya que estaba presentando la alarma ''FALLA DE CONDUCCION TIRISTOR 2 PUENTE 2'' para revisar, y se encontro que el cable que lleva la señal de disparo a este tiristor desde la DP15 estaba flojo en la bornera que esta situada en el disipador de dicho tiristor, se le dio apriete a este borne y se soluciono el problema.

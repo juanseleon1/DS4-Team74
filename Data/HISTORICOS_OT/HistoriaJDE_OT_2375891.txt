@@ -1,0 +1,33 @@
+12/09/2013 SE CREA ORDEN DE TRABAJO PARA LA COMPRA DE ACTUADOR LIMITORQUE PARA LA VALVULA 210-MBV-2201
+DIEXER CARO
+
+Suministro de dos actuador eléctrico Limitorque modelo L120, para ser instalado sobre válvula de compuerta de 8" #300 (Alimentación economizador LP), con las siguientes características: 
+ Actuador L120/10 con Caja B320-20 
+ Voltaje de alimentación: 480 Voltios 
+ Torque: 385 Ft/Lbs 
+ Control Estándar - Cableado Estándar 
+ Encerramiento a prueba de humedad. 
+ Carcasa NCU 
+ Factory mutual 
+Options: Includes reversing contactor, control transformer, 2 x primary fuses, 1 x secondary fuse, and customer terminal block. 
+El proveedor debe tener carta de representación de la marca Limitorque y suministrará el Servicio de asistencia técnica para el montaje de actuadores Limitorque Modelo L-120 que incluye: 
+
+Toma de datos de válvulas. 
+Mecanizado de acoples, manzanas y vástagos extendidos. 
+Pruebas en manual del conjunto mecánico para asegurar correcto funcionamiento del acople y movimiento de la válvula. 
+Verificación de la configuración de los puntos de apertura y cierre de conjunto actuador - válvula. 
+Verificación de los parámetros de seguridad y protecciones del actuador como: 
+Recorrido. 
+Tiempo de operación. 
+ Limitadores de Torque. 
+ Controles manuales.
+ Control Remoto 
+ Puesta en marcha en automático y manual 
+ Interruptores de recorrido. (Calibración de recorrido). 
+ Pruebas de funcionamiento en modo local y remoto 
+Los equipos se recibirán una vez satisfagan las necesidades de operación local y remota del proceso y cumplan con lo esperado  
+ Estas labores se realizaran en la central Termosierra de EPM
+Tiempo de entrega 15 Semana en la central Termosierra 
+Proveedor Sugerido Saufer Limitorque 
+Costo unidad 25.000.000 
+Cantidad solicitada 1 UN

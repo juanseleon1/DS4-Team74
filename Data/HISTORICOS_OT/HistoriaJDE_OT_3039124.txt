@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez Rios
+Fecha: 07 de Marzo de 2016
+Síntoma: La comunicacion se bloquea constantemente para ingresar a los datalogger, ya que el suiche de estos datalogger es serial y al hacer comunicacion remota se bloquea y no permiten el acceso a distancia.

@@ -1,0 +1,15 @@
+   MP SEMESTRAL       
+         * SE REALIZA LIMPIEZA Y REMOSION DEL POLVO DE ESCOBILLAS.
+    * SE CAMBIAN LAS ESCOBILLAS NUMEROS: 4B, 5B, 9A, 10A.
+
+ESCOBILLAS
+1A: 37.8 mm                                                           6A: 37 mm  
+1B: 36 mm           6B: 37.5 mm 
+2A: 39 mm           7A: 36.5 mm
+2B: 35 mm                       7B: 36.8 mm
+3A: 38.5 mm           8A: 36 mm
+3B: 38.4 mm           8B: 39 mm
+4A: 38.5 mm           9A: 27 mm-Se reemplazo 
+4B: 28 mm ---- Esta escobilla se reemplaza                   9B: 34 mm    
+5A: 37.8 mm           10A: 29 mm--- se reemplazó.
+5B: 28 mm-Se reemplazo           10B: 33 mm

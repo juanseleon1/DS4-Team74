@@ -1,0 +1,37 @@
+REALIZAR CAMBIO DE SUICHE HIDRAULICO
+FECHA PLANEACION MANTENIMIENTO: 06/08/2018
+N°OT: 3724138
+
+PLANEADOR: SANTIAGO RAMIREZ ECHEVERRI
+
+PROGRAMADOR: CARLOS ENRIQUE MONCADA BELTRAN.
+
+Referente a la válvula esférica de P32: 
+Se realiza consignación local de la unidad 2 para realizar cambio del suiche hidráulico de final de carrera de cierre de la válvula esférica (POS 306 del plano 06780003071100), el cual se encontraba atascado en posición aplicado. Se realizan bloqueos para evitar desaplicación del sello de servicio y despresurización de la línea hidráulica. Se cambia el suiche hidráulico por un repuesto nuevo que estaba disponible en el almacén. Se normaliza los bloqueos y se realizan pruebas de aplicación y desaplicación del sello de servicio en local/manual observando operación normal. También se realiza operación de apertura y cierre de la válvula esférica en local/automático observando operación normal del sello de servicio. 
+
+Ejecutan: Equipos de mantenimiento y operación Turno 1. ( John Jairo González V, Wilder Herrera, Esneider Rivera, Fabian Gomez)
+Informan: Carlos Antonio Sánchez y Santiago Ramírez Echeverri.
+
+2018/07/29 _ CARLOS ENRIQUE MONCADA. OT N° 3724138.
+La válvula no se ha cambiado a la espera de la orden del Ing Santiago Ramirez para su planeacion de cambio.
+
+2018/05/13 _ CARLOS ENRIQUE MONCADA. OT N° 3724138.Referente a la Unidad N°2:
+Durante la secuencia de arranque la válvula aborta la secuencia de apertura aún estando el obturador abierto y al cerrar no aplica el sello de servicio. El control de unidad entra en conflicto con la secuencia de arranque y el paro de emergencia activos. Se procede a resetear las secuencias reiniciando el PASS. En la válvula esférica se evidencia falla del sensor de final de carrera hidráulico POS 306 (AA636) el cual se quedó atascado en posición “ Aplicado”  (confirmación de cierre de obturador), lo cual en caso de falla de la válvula solenoide POS 107 (AA662), se puede accionar el sello de servicio aún estando el obturador en movimiento. Queda pendiente cambiar el sensor de final de carrera en mención, pues no se cuenta con repuesto en almacén. También se evidenció que el sensor inductivo que confirma la apertura del obturador no estaba confirmando, razón por la cual se abortaba la secuencia de apertura de la VE por tiempo excedido. Se ajusta soporte del sensor inductivo y se verifica su correcto accionamiento. Finalmente se realiza apertura y cierre en local automático de la válvula esférica comprobando operación normal. Luego se realiza secuencia de sincronismo automático y entra en sincronismo a las 13:49 con 175MW, repartiendo cargas con las demás unidades a 550MW.
+NOTA: Dados los inconvenientes en las secuencias de arranque, hubo desviación en los periodos 12 y 13 (280MWh aproximadamente), los periodos 10 y 11 fueron autorizados y se redespachados los periodos 14,15 y 16.
+Informó: Turno 1, Carlos Moncada y Santiago Ramírez.
+Realizó. Gabriel Arboleda, Carlos Valdez, Julio Parra, Carlos Moncada, Santiago Ramirez.
+
+2018/05/13 _ CARLOS ENRIQUE MONCADA. OT N° 3724138.
+Se crea OT para revisión de la secuencia de arranque de la válvula esferica de la U2.
+
+2018/08/05 Santiago Ramírez Echeverri.
+Referente a la válvula esférica de P32: 
+Se realiza consignación local de la unidad 2 para realizar cambio del suiche hidráulico de final de carrera de cierre de la válvula esférica (POS 306 del plano 06780003071100), el cual se encontraba atascado en posición aplicado. Se realizan bloqueos para evitar desaplicación del sello de servicio y despresurización de la línea hidráulica. Se cambia el suiche hidráulico por un repuesto nuevo que estaba disponible en el almacén. Se normaliza los bloqueos y se realizan pruebas de aplicación y desaplicación del sello de servicio en local/manual observando operación normal. También se realiza operación de apertura y cierre de la válvula esférica en local/automático observando operación normal del sello de servicio. 
+OT: 3724138. Se anexa consignación local para detalles de los bloqueos realizados.
+Ejecutan: Equipos de mantenimiento y operación (Turno 1)
+Informan: Carlos Antonio Sanchez y Santiago Ramírez Echeverri.
+
+PENDIENTE: 
+1. Realizar mto al microsuiche desmontado y verificar luego si queda funicional, para repuesto de segunda.
+2. Reabastecer mínimo 2 repuestos. (código de repuesto: 96260)
+

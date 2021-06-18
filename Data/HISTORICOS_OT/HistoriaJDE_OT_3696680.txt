@@ -1,0 +1,5 @@
+06/03/2018. 14:00.
+
+Se observa que por la Valvula Solenoide (Azul)que permite el suministro de aire comprimido al tanque acumulador le esta pasando aire, lo que genera una alta presiòn en el funcionamiento del sistema y hace que el nivel de aceite en un momento dado baje permitiendo asi alarmar el sistema por Nivel bajo y Muy bajo de Aceite, se requiere atenciòn, revisiòn, mantenimiento y/o cambio de dicho elemento.
+
+Informa: Wilson Arango Bedoya.

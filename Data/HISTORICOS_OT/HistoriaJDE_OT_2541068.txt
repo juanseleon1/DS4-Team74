@@ -1,0 +1,19 @@
+DATOS MEDIDOS
+ FECHA 05/08/2014
+ UMA 5
+ OT 2541068
+CORRIENTES
+ R 9,5
+ S 8,8
+ T 8,6
+VOLTAJES
+ RS 465
+ ST 464
+ TR 465
+ REALIZO GIOVANNY DIAZ - YEISON ORTEGA
+DATOS DE PLACA
+ I 11,6
+ V 440
+ P 7,5 HP
+OBSERVACIONES
+El control en automático no funciona a causa de descalibración del termostato

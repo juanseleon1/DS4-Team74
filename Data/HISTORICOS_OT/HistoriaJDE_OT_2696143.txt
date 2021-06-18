@@ -1,0 +1,9 @@
+
+2015-02-12
+
+Se pierde la señal SN-6.23 temperatura aceite Fase S Banco 1
+ 
+Se revisa y se encuentra la señal mal direccionada, se realiza cambio en el controlador desde la estación de ingeniería
+y se modifica en el despliegue, quedando la señal en condiciones normales.
+
+LEARCILAS

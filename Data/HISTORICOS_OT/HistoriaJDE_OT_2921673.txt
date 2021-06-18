@@ -1,0 +1,9 @@
+2015-11-02. JUAN C DUARTE MUÑOZ.
+
+CORREGIR EN EL NODO 1 LA ALARMA "LOW BATTERY VOLTAGE" QUE SE ACTIVA EN OCASIONES.
+
+2015-11-04
+Se solicita cotización de baterías para su respectivo cambio.
+Luis Eduardo Arcila
+ 2016-O2-04
+Se cambian baterias quedando en condiciones normales de operacion. 

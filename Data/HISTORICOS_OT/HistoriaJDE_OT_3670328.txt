@@ -1,0 +1,37 @@
+FECHA: 2018/01/13 OT:3670328 PROGRAMÓ: RICHARD JIMENEZ EJECUTÓ: DAVISON PÉREZ
+Referente a la unidad #2.
+Se realiza inspección a los anillos razantes por bajo aislamiento en el barraje positivo.
+Se toman medidas de aislamiento del rotor desde los anillos rozantes dando un valor de 505 V y un aislamiento de 24.6 M.
+Se realizan pruebas con la maquina energizada con un voltaje de 13.2 KV. observando un comportamiento normal.
+Realizo: equipo eléctrico mantenimiento.
+Informo: Davison Pérez  Richard Jiménez.
+
+TE: BLOQUEOS ELECTROMECANICOS UNIDAD GENERACION P2
+
+2018-01-11
+Durante el proceso de sincronización y toma de carga de la unidad, se da paro de emergencia la unidad con 125 MW  activando las alarmas de relés de protecciones Multiline 1 y 2 y evidenciando el disparo de tierra rotor activado en el momento del evento, después de evaluar las causas del paro de la unidad, el personal eléctrico de la central realiza mediciones de aislamiento en la unidad y después de verificar la resistencia de aislamiento en 30 Gohmios se realizan pruebas controlando la unidad en la tensión de excitación para incorporar la unidad de nuevo al sistema. 
+
+NOTA: queda pendiente por el grupo ELECTRICO determinar el bajo aislamiento en esta unidad.
+
+Realizado Por :  Walter Tobón
+
+2018/01/11 ANGEL ADONIS CADAVID OCHOA.
+
+DESPUÉS DE IDENTIFICAR LA CAUSA DE LA SALIDA DE LA UNIDAD GENERADO POR LA FALLA A TIERRA ROTOR SE PROCEDE A REALIZAR LAS SIGUIENTES REVISIONES:
+- RETIRAR ESCOBILLAS PARA CHEQUEAR DE FORMA INDEPENDIENTE EL ROTOR Y EL ANILLO PORTA ESCOBILLAS INCLUIDO BARRAJE Y CABLE HACIA LA EXCITACIÓN.
+- DESCONECTAR RELÉ DE SUPERVISIÓN TIERRA ROTOR.
+- SE REALIZA MEDIDA DE AISLAMIENTO AL ROTOR CON UNIDAD PARADA Y ESCOBILLAS DESCONECTADAS DANDO VALOR DE 30M.
+- SE CHEQUEA PORTA ESCOBILLAS INCLUIDO BARRAJE Y CABLE HASTA EL TABLERO DE EXCITACIÓN, ESTA MEDIDA NO FUE EXITOSA YA QUE SE PRESENTABA VOLTAJE INDUCIDO EN ESTA.
+-  SE DA ORDEN DE ARRANQUE, SOLO GIRO MECÁNICO A LA UNIDAD CON ESCOBILLAS DESCONECTADAS PARA MEDIR AISLAMIENTO CON UNIDAD GIRANDO EL RESULTADO FUE DE 30M.
+- AL CONSTATAR QUE EL AISLAMIENTO DEL ROTOR SE ENCONTRABA EN BUEN ESTADO TANTO CON UNIDAD PARADA COMO CON UNIDAD GIRANDO SE PROCEDE A NORMALIZAR ESCOBILLAS Y RELÉ DE PROTECCIÓN A TIERRA, SE ENERGIZA LA UNIDAD EN CONTROL MANUAL HASTA LLEGAR GRADUALMENTE A TENSIÓN NOMINAL.
+- LA UNIDAD ENERGIZADA NO PRESENTA DISPARO POR FALLA A TIERRA ROTOR, SE PROCEDE A SINCRONIZAR Y QUEDA EN OBSERVACIÓN.
+ES DE ACLARAR QUE LA UNIDAD SALE DESPUÉS DE 15 MINUTOS DE HABERLA SINCRONIZADO DESPUÉS DEL MANTENIMIENTO, LAS PRUEBAS ANTERIORES SE REALIZARON EN EL PERIODO FUERA DEL REDESPACHO GENERANDO DESVIACIÓN 
+
+
+
+
+
+
+
+
+

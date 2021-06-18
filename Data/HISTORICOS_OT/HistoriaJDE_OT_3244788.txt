@@ -1,0 +1,9 @@
+14/09/2016
+ALEJANDRO VERGARA
+No da condiciones de maquina lista en remoto, por las señales  U4-8.116, regulador fuera de orden y la señal U4-8.119 regulador de velocidad no listo para arranque.  
+
+Se revisaron todos los parametros, se ajustaron, la maquina da lista para arranque en remoto.14/09/2016
+ALEJANDRO VERGARA
+No da condiciones de maquina lista en remoto, por las señales  U4-8.116, regulador fuera de orden y la señal U4-8.119 regulador de velocidad no listo para arranque.  
+
+Se revisaron todos los parametros, se ajustaron, la maquina da lista para arranque en remoto.

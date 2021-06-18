@@ -1,0 +1,14 @@
+
+FECHA: SEPTIEMBRE 06 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presentan varios paros por falla comunicación en el controlador superior, se logra identificar la falla instantánea en el modulo 7,2, se procedió a cambiarlo, los conectores de entrada de señal de este modulo están malos y no aprietan bien, por lo cual se presentan paros por incrementos ficticios en la medida de temperatura del rodamiento delantero del generador.
+
+
+FECHA: SEPTIEMBRE 09 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se presenta nuevamente falla de comunicaciones, se verifica el estado del modulo 7,2 y se encuentra bien, se coloca cinta aislante en los conectores de este modulo, no se encontró ninguna anormalidad en las conexiones, se siente una vibración fuerte en el generador.

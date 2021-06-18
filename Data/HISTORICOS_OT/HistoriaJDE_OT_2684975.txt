@@ -1,0 +1,18 @@
+
+
+27/Enero/2015
+Al cerrar una de las puertas del regulador de tensión, la unidad se da paro por falla excitación.
+Al revisar se encuentra “ Error Corriente”  y “ Error voltaje”  y el relé 94EX alarmado.
+Se limpian los conectores de los cables planos, se reinicia el regulador de tensión y se revisa el funcionamiento de todas las tarjetas electrónicas, 
+se le da de nuevo arranque a la unidad, pero al momento de sincronizar sale la alarma de incendio en el sensor 18 que corresponde al interruptor 
+de campo. 
+Se revisa encontrándose un apaga chispa en posición diferente al otro; se acomoda de nuevo y se le da nuevamente arranque a la unidad, 
+quedando en normal funcionamiento.
+
+Cesar Hoyos
+Jorge Giraldo
+LEARCILAS
+
+
+
+

@@ -1,0 +1,11 @@
+INFORME PRESENTADO POR FERNANDO DE JESUS BAYER. ABRIL 20 DE 2016
+
+15:42  Se presenta última apertura de las unidades, por Oscilación y posterior falta de señal 44kv, desde subestación Jericó. Cuando se restableció el servicio de 44kv, se procede a realizar los sincronismo de unidades, cuando se alcanzaron las condiciones optimas para sincronizar la unidad 1, se hace operación de cierre de dicho interruptor, pero el  interruptor, no cierra, la volante del mismo se devuelve, se repite la misma maniobra y continua el percance, se hace sincronismo de las otras dos unidades, se hace reporte al centro de control, incluyendo lo del interruptor de unidad 1.
+Se procede a realizar la inspección del interruptor y  su mecanismo asociado detrás de la cabina de control, todo se normal, se retira volante del interruptor, se retira carcasa del mismo, se miran las partes eléctrica, conexiones, cableado, bobina de apertura y todo esto se ve normal.
+17:00 Se hace presente el compañero Jorge Cifuentes, para prestar apoyo en labores con el interruptor, se revisa mecanismo del interruptor, incluida las partes móviles traseras del interruptor, concluimos que el problema puede ser, mecánico y no eléctrico, se observa limalla en mecanismo de enganche del interruptor, se procede a hacer limpieza con limpiador dieléctrico y se aplico lija a los contactos móviles de conmutación. 
+Se hacen pruebas de cierre en vacío, las cuales salen positivas. Se avisa al centro de control. 17:41 Se procede a realizar maniobra de sincronismo la cual se efectúa de manera normal. Y se informa al centro de control.
+INFORMA: GORTIZG
+
+
+
+SE SOLICITA REVISAR EL MECANISMO DE OPERACIÓN DEL INTERRUPTOR DE POTENCIA DE LA UNIDAD 1 DE TAMESIS DEBIDO A QUE NO CIERRA INFORMA OPERADOR: FERNANDO BAYER

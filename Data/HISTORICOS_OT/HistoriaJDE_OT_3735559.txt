@@ -1,0 +1,72 @@
+13/06/2018
+LUIS ENRIQUE CARDONA
+OT PADRE GENERADA PARA EL MANTENIMIENTO ANUAL DE U3 RIOFRIO
+NOTA: SE REALIZO EL MANTENMIENTO ANUAL U3 RIOFRIO
+
+UNIDAD 3, JULIO 12 AL 13 DE 2018 
+
+RODETE PELTON UNIDAD 3 OT: 3741899 
+Se inspecciono el rodete con tintas, no se evidenciaron fisuras. Se evidencio cavitación en todos los cangilones en la parte anterior de las puntas, se le aplico resina Loctite a cada uno de los cangilones con el fin de ensayar si esto nos funciona para evitar que la cavitación avance y no tener que bajar la turbina para repararla con soldadura, se dejó un tiempo aproximado de 13 horas de secado de la resina. Se normalizo y se entregó el equipo en condiciones operativas. 
+
+GRUPO INYECTOR TURBINA UNIDAD 3 OT: 3741900 
+Se realizo inspección visual del grupo inyectores se evidencio una holgura de 0.102mm en el inyector inferior. Esta corrección se realizó con la OT 3729237. El inyector superior no presento fugas. El equipo quedo en condiciones operativas. 
+
+COJINETE TURBINA 1 UNIDAD 3 OT: 3741906 
+Se realizo desarme de la carcasa del cojinete, se sacó el aceite el cual se encontró muy sucio, se realizó limpieza interna con liencillo y se le adiciona aceite hasta el nivel indicado en la mirilla. Se normalizo y se entregó el equipo en condiciones operativas. 
+
+COJINETE TURBINA 2 UNIDAD 3 OT: 3741908 
+Se realizo desarme de la carcasa del cojinete, se sacó el aceite el cual se encontró muy sucio, se realizó limpieza interna con liencillo y se le adiciona aceite hasta el nivel indicado en la mirilla. Se normalizo y se entregó el equipo en condiciones operativas.
+ 
+COJINETE GENERADOR UNIDAD 3 OT: 3741905 
+Se saco el aceite del cojinete el cual se encontró muy sucio, se realizó limpieza con liencillo y se agregó aceite nuevo hasta donde indica la mirilla. Se normalizo el equipo y se entregó en condiciones operativas. 
+
+REGULADOR HIDRAULICO UNIDAD 3 OT: 3741910 
+Se saco el aceite del regulador y se realizó limpieza interna con liencillo, se hizo una inspección visual de todos los componentes los cuales se encontraron en buen estado. Se normalizo el equipo y se entregó en condiciones operativas. 
+
+COJINETE EXCITACIÓN UNIDAD 3 OT: 3741902 
+Se saco el aceite del cojinete el cual se encontró muy sucio, se realizó limpieza con liencillo y se agregó aceite nuevo hasta donde indica la mirilla. Se normalizo el equipo y se entregó en condiciones operativas. 
+
+
+TRABAJOS CORRECTIVOS REALIZADOS 
+
+COMPUERTA DE DESARENADO BOCATOMA OT: 3551567 
+El día miércoles 11 de julio se subió a la bocatoma y se evaluó el estado del mecanismo de la compuerta de desarenado, para programar su reparación. El día jueves 12 de julio se subió a la bocatoma nuevamente aprovechando el paro de las unidades por pruebas eléctricas, se vació el tanque de desarenado, se identificaron 2 partes flectadas en vástago de la compuerta; se subió el vástago hasta la losa que soporta la base del mecanismo y se le hizo fuerza para enderezarlo en sitio. Se corrigieron las 2 partes flectadas que tenía el vástago. El mecanismo de la compuerta de desarenado quedo en buenas condiciones de operación. 
+
+GRUPO INYECTOR TURBINA 3 OT: 3729237 
+Se ajusto el varillaje hasta el tope, se tomaron medidas con galgas y quedo en cero, se presurizo la tubería para verificar fugas y mostro cero fugas. El equipo quedo en condiciones operativas y cero fugas de agua.
+
+BARANDAS DE PROTECCION UNIDADES 2 Y 3 OT: 3417790 
+Se tomaron medidas para fabricar una carcasa que cubra toda la volante de las unidades, esta decisión se tomó siguiendo las recomendaciones de Alejandra Gómez quien presta apoyo en la parte de salud ocupacional en la dirección. 
+
+1. OT: 3743278 Cojinete Turbina 1 U3 RF tiempo: 2 Hora fecha: 12/07/2018
+
+·Se verifica RTD la cual se encuentra en buen estado 
+·Se verifica alarma y disparo 
+·Acompañamiento del personal mecánico en el retiro e instalación del cojinete
+·Se inyecta señal de temperatura con el bloque seco y se arroja los siguientes datos:
+Temperaturas de: Cojinete Turbina 2 U2Patrón 0 70 100 120Equipo0 66.5 94.5 113.1Valor programado Alarma:75°C Valor programado dev. 100°CValor programado Disparo:90°CComentarios:Tiempo de muestra 10 min.  Se encuentra en operación con: Temp. Dev. 49°C / Temp. coj.  Tur. 49.7°C / Temp. Coj. Gen. 47.1°C
+
+
+2. OT: 3743277 Cojinete Turbina 2 U3 RF tiempo: 2 Hora fecha: 12/07/2018
+
+·Se verifica RTD la cual se encuentra en buen estado 
+·Se verifica alarma y disparo 
+·Acompañamiento del personal mecánico en el retiro e instalación del cojinete
+·Se inyecta señal de temperatura con el bloque seco y se arroja los siguientes datos:
+Temperaturas de: Cojinete Turbina 2 U2Patrón 0 70 100 120Equipo0 67.2 95.2 114.5Valor programado Alarma:75°CValor programado Disparo:90°CComentarios:Tiempo de muestra 10 min. 
+
+3. OT: 3747090 INSTRUMENTACIÓN TRANSFORMADOR 3 HORAS FECHA: 12/07/2018
+
+Disparo:
+·Imagen térmica 75°C ok
+·Relé Buchholz ok
+·Temp. Aceite dev. 75°C ok
+·Bajo nivel aceite ok
+·Válvula sobrepresión ok
+Alarma:
+·Imagen térmica 100°C ok (termómetro con un contacto fallando)
+·Relé Buchholz ok
+·Temp. Aceite dev. 90°C ok
+·Alto nivel aceite trafo ok
+
+ 

@@ -1,0 +1,53 @@
+
+2018/08/14 _ CARLOS ENRIQUE MONCADA. OT N° 3753909.
+Valores tomados:
+
+V/I fase R = 122 V  - 3.6 A
+V/I fase S = 122 V  - 3.6 A
+V/I fase T = 122 V  - 3.4 A
+
+Fecha y Hora: Ok.
+No tiene alarmas presentes.
+
+Servicios auxiliares Esenciales (Medida Simeas)
+V/I fase R = 121 V  - 3.7 A
+V/I fase S = 121.3 V  - 3.9 A
+V/I fase T = 121 V  - 3.9 A
+
+Servicios auxiliares NO Esenciales (Medida Simeas)
+V/I fase R = 119.3 V  - 15.8 A
+V/I fase S = 120.7 V  - 2.3 A
+V/I fase T = 120 V  - 13.2 A
+
+Realizo: Jeniffer García, Carlos Moncada
+
+--------------------------------
+
+FECHA: 09/08/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+REALIZAR CONSIGNACION LOCAL, PERMISO DE TRABAJO LOCAL CON LOS TECNICOS E INFORMAR A LOS OPERADORES DE LA CENTRAL
+
+REALIZAR MANTENIMIENTO E INSPECCION EN TABLERO CARGADOR U&G RELE PROTECCIOINES CASETA EPM SUBETACION SAN BENIGNO 
+
+Realizar inspeccion y verificacion la comunicacion del sistema, verificacion de fallas, eventos y alarmas en los reles de proteccinees de la celda , ademas de limpieza de la fibra optica y  estado del tablero. OJO NOTA los reles  NO se deben  apagar y solo se realizara una inspeccion del sistema y anexar las notas de alarmas o fallas encontradas, ademas de los datos segun instructivo anexo a esta orden 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

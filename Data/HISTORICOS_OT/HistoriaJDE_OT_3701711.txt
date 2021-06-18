@@ -1,0 +1,8 @@
+
+2018/08/19 _ CARLOS ENRIQUE MONCADA. OT N° 3701711.
+Se realizan pruebas a la planta diesel N° 1, se abre la válvula manual de suministro de combustible, se deja trabajando la planta 20 minutos, se verifica que no hay fugas, esta queda habilitada por medio del control de nivel. 
+2018/08/18 _ CARLOS ENRIQUE MONCADA. OT N° 3701711.
+Se instalan los tres sensores de nivel de combustible (alto, medio y bajo) en la planta diesel N° 1 de la S/E tablón. Quedando a la espera del montaje de hidroválvula para habilitar el servicio.
+Realizo: Eladio Piedrahita, Carlos Moncada.
+2018/03/18 JHON ARLEY BAENA HENAO
+SE GENERA ESTA OT PARA REALIZAR EL CAMBIO DE LOS SENSORES DE NIVEL INTERMEDIO Y ALTO DEBODO A QUE SE ENCUENTRAN FALLADOS EN SU FUNCIONAMIENTO

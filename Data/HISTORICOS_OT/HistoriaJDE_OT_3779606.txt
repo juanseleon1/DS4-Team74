@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ.
+
+Se realiza inspección, limpieza y mantenimiento al tablero eléctrico +TLCT, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+Trabajo ejecutado por: Yoanis Rodríguez, Julio Parra y Jorge Galeano
+
+XE: VERIFICAR, INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCT DE LA UNIDAD
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS
+OT PADRE 3779285

@@ -1,0 +1,23 @@
+MAYO 25 DE 2015
+SALIDA FORZADA UNIDAD 3 POR PARO EMERGENCIA TUH
+
+El dia 24 de mayo a las 00:18 horas sale la unidad 3 de operacion por paro de emergencia, en el scada no se observa ninguna alarma que indique la causa del paro. Se dan condiciones de arranque y se sincroniza nuevemente la unidad.
+
+A las 3:09 del mismo dia, la unidad 3 vuelve a dar paro de emergencia similar al ocurrido horas antes. No se logra identificar las causas de la salida forzada, pero se observa (por parte de Gabriel Naranjo) que sale alarma de falla en las bombas de la undiad oleohidrulica del regulador de velocidad. Ademas de otras alarmas como detección de agua en aceite, sobrevelocidad electronica etc.
+
+Desde el momento del paro, se solicita redespacho a la unidad desde el periodo 5 al 10 (posteriormente se fueron pdidiendo mas periodos) para inspeccionar y detectar la causa de la falla. En la mañana y durante el dia se busco la causa de la falla y se hicieron varias acciones correctivas con las cuales se creyo se habia solucionado: correccion sensor de posicion del servomotor cuya varilla estaba torcida y reinicio del PLC. Se sincorniza nuevamente la unidad 3 a las 14:42 para cumplir con el progrma. 
+
+A las 16:30 vuelve a dar paro de emergencia la Undidad 3. Se redespacha desde el periodo 20 al 24. De acuerdo a las alarmas que salen el la IHM del TRV se tienen dos sospechas: la valuvla proporcional ya que sale falla retroalimentacion lazos de control de los servomoteres y del PLC y fuentes por las otras alarmas recurrentes.
+
+Despues de hacer pruebas (generando paros rapidos y desconectando señales para reporducir las fallas) con los lazos de control e identificar que no son los causantes del paro de emergencia se descarta problemas con la valvula proporcional.
+
+Finalmente fue despues de hacer la prueba al simular paro de emergencia que se identifico que la causa de las salidas forzadas era un modulo de entradas digitales del PLC fallado que contenia todas las señales que salian como alarma en la IHM del TRV.
+
+Se cambio el modulo -A1.4 del PLC del TRV en el tableron TUH de la unidad 3. Se terminan los trabajos a las 23:40 del 24 de mayo. Se sincroniza la unidad para cumplir con el programa de generacion despues de los redespachos
+
+La undiad quedo en observación y hasta el momento (mayo 25 15:35) no ha vuelto a dar paro de emergencia.
+
+Queda pendiente reponer el modulo cambiado de la unidad 2.
+
+Informa: Sandra Carmona
+Ejecución y analisis: Oscar Duque, Sandra Carmona, Guillermo Echeverry, Carlos Sanchez, Gabriel Naranjo, Jennifer Garcia.

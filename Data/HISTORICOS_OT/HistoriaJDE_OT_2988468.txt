@@ -1,0 +1,7 @@
+
+EN LA OT: 2983205 DE MANTENIMIENTO PREVENTIVO SE ENCONTRÓ LO SIGUIENTE:
+2016/01/15 SEBASTIAN HINCAPIE - EDWIN ARANGO, PROGRAMO: RARBOLG
+Se realizo limpieza general al tablero, inspección termografica, en la cual se encontró unos puntos calientes en los breakers y bornera, se realizó ajuste y mejoró, adicionalemnte se encontró un punto caliente en una terminal del transformador, se crea OT correctiva: 2988468 para atender la corrección
+
+2016/01/19 MARIO RESTREPO - SEBASTIAN HINCAPIE - PROGRAMO: RARBOLG
+Se desenergzó el transformador con el grupo de operación de turno, se realizó limpieza de borne caliente y transformador, se dejó energizado por 2 horas y luego se realizó una inspeccion termografica, se evidención mejoría, se dejó en condiciones normales.

@@ -1,0 +1,10 @@
+JHON MARIO PEREZ ARENAS. FEBRERO 20 DE 2017
+
+LA PLANTA DIESEL DE 75 KVA PRESENTA MAL FUNCIONAMIENTO. LA MAQUINA ARRANCA PERO NO REGULA, SE QUEDA BUSCANDO LA VELOCIDAD. 
+2017/04/12 DIEGO BEDOYA
+Se realiza el cambio de filtro del ACPM en la planta auxiliar diésel de 75 KVA, esta planta presentaba problemas durante la operación, presentando variación en el voltaje y la frecuencia, en el momento de desmontar el filtro, se encontró vacío de ACPM, lo que nos indica que ya estaba colmatado. En el momento que se monta el filtro nuevo, la planta responde muy bien; por lo que se entrega a operación en condiciones normales de operación.
+El trabajo fue realizado por Fabio Herrera, Andres Alzate y Diego Bedoya
+
+NOVIEMBRE 21 DE 2017 
+OT CERRADA
+ANDRES RAMIREZ

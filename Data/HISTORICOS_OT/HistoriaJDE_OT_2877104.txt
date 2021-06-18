@@ -1,0 +1,9 @@
+Septiembre 15/ 2015. PROGRAMO: OT: 2877104. CARLOS MONCADA. EJECUTO: DAVID ATEHORTUA.
+
+Realizar mantenimiento e inspección de la instrumentación en el Regulador de Tensión.
+
+Se cambia transductor CA4 de potencia Activa de la unidad en el tablero de control de unidad.
+
+
+
+

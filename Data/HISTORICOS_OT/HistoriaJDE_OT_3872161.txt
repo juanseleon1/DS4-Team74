@@ -1,0 +1,6 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 24-09-2019
+Tipo de mantenimiento: CORRECTIVO
+Acciones de mantenimiento: 
+REALIZAR REVISION DE LA ESTACION  PVM QUE SE ENCUENTRA FUERA DE SERVICIO 

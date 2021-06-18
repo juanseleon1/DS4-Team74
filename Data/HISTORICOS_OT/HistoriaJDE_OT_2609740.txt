@@ -1,0 +1,11 @@
+09/30/2014 REPORTO: CARLOS ANDRES MEJIA
+
+BUEN DIA, FAVOR VERIFICAR LA INDICACION DEL AMPERIMETRO DEL TABLERO KA3 CONTROL DEL BANCO DE TRANSFORMADORES BANCO 3, LUEGO DE REALIZAR MEDICION CON LA PINZA AMPERIMETRICA POR PARTE DEL GRUPO DE ELECTRICISTAS SE ENCONTRO INDICANDO 60 AMPERIOS Y LA PINZA INDICO 41 AMPERIOS.
+GRACIAS.
+
+06/10/2014 PROGRAMO MAURICIO QUIJANO
+
+Se revisa el amperímetro en mención, se encuentra trabajando bien, lo que está fallando es que el instrumento está mal seleccionada la escala y por eso no coinciden las medidas, la escala del instrumento es de 150/5a y el instrumento que se necesita instalar es de 100/5a.
+Se solicitó cotización del instrumento para realizar la compra.
+.
+ 

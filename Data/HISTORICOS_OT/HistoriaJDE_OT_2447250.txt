@@ -1,0 +1,18 @@
+SABADO ENERO 4 DE  2014
+UNIDAD #3 Se demora mucho para sincronizar, se reinicia el sincronizador desde el minibreker por 3 ocaciones hasta que finalmente sincroniza a las 09:21, esto genera retrazo en el cumplimiento del programa de generacion con 40 MW de desviacion.
+pendiente revisar.
+se informa a los ing. Nicolas Grillo y Sandra Marcela Carmona.
+
+Informa: Turno 2
+
+MARTES ENERO 21 DE 2014 
+
+Del analisis posterior a este evento se interrogaron los reles de las 4 unidades a los cuales se les extrajo los ajustes. La comrparcion de los settings no arrojo ningna diferencia entre los reles por lo cual se descarta que esta sea la causa de la salida forzada (por alguna sensibildiad en algun parametro).
+
+Durante la interrogacion al rele REC 670 de la unidad 3, se observo que este se reincio solo sin haber sido tocado ya que aun no se habia conectado el PC a traves del cable de red ethernet.
+
+En vista del analisis anterior se decide cambiar el rele REC 670 de la unidad 3 por el repuesto de almacen. 
+
+Este trabajo se realizara con la OT 2452713.
+
+Informa: Sandra Carmona

@@ -1,0 +1,12 @@
+2018/01/14 CESAR HOYOS - RUBEN ARBOLEDA
+Para la ejecución de la OT: 3671196 cambio de inyector 4 de la unidad 3 se requiere realizar el vaciado de la tubería, se crea esta OT para registrar los tiempos y eventos de dicha actividad.
+
+2018-01-23 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3671196, PASO:1          
+Se realizó el vaciado de tubería de I etapa, se aplicó el procedimiento de vaciado, durante este proceso se dio orden de paro al ventilador para evitar el ruido y poder coordinar las maniobras, al finalizar las labores en cámara de válvulas se le dio orden de arranque y provocó disparo de interruptor principal (Transfundía automática) se crea OT: 3675636 para su revisión, se dejó parado y se normalizó el interruptor.
+Se adiciona la planilla de vaciado a la OT.
+
+2018-01-25 REALIZÓ: JORGE ALIRIO HERNANDEZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3671196      
+Se realizó el proceso de llenado de la tubería de I etapa, se presentó falla en el sucihe del servomotor bloqueado en el contacto de arranque de las motobombas, se realizó puente y arrancó normalmente, este suiche presenta sulfatación se dejará para modernización.
+
+2018-01-25 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ - EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3671196, PASO:5.1          
+Se realizó puesta en servicio de las Unidades 1, 2, 3 y 4, la Unidad 2 no fue posible darle arranque por falla en los inyectores 1, 2 y 4.

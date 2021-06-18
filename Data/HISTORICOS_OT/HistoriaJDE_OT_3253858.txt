@@ -1,0 +1,27 @@
+- FECHA : JUEVES SEPTIEMBRE 22 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : MARIO RESTREPO - JEISON ORTEGA - FREDY AGUIRRE
+- ASOCIADO A LA OT :
+- ASUNTO : BOMBAS DESAGUE CM VERIFICAR DESPIEGUE ALARMAS Y ALARMA SONORA ESCADA Y CONTROLADOR SERVICIOS AUXILIARES
+  
+Buscando  probar y verificar cuando se genera una falla real en alguna de las dos bombas de desagüe CM  , que es lo que pasa realmente y como se ve el evento en : 
+1. Controlador N° 2 de servicios auxiliares CM 
+2. Sala de operación CM 
+
+
+Se realiza  lo siguiente al respecto :
+
+1. Se genera falla en la bomba N° 1 abriendo breaker de potencia y muestra : 
+·Controlador N° 2 servicios auxiliares : la bomba se ve normal en el animado …no muestra que está fallada 
+·Controlador N° 2 de servicios auxiliares despliegue alarmas : muestra la falla 
+·Escada sala de operación CM : la bomba se pone en color rojo ( falla ) en el animado 
+·Escada sala de operación CM despliegue alarmas : muestra la falla
+·Escada sala de operación CM : no se activa la alarma sonora 
+
+2. Se genera falla en la bomba N° 2 abriendo breaker de potencia y muestra : 
+·Controlador N° 2 servicios auxiliares : la bomba se ve normal en el animado …no muestra que está fallada 
+·Controlador N° 2 de servicios auxiliares despliegue alarmas : muestra la falla 
+·Escada sala de operación CM : la bomba se pone en color rojo ( falla ) en el animado 
+·Escada sala de operación CM despliegue alarmas : muestra la falla
+·Escada sala de operación CM : no se activa la alarma sonora 
+

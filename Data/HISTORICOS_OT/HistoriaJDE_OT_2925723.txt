@@ -1,0 +1,16 @@
+
+ NOVIEMBRE 05 DEL 2015 - JEOVANNY CORREA 
+La bomba de refrigeración de la unidad G41 no arranca en automático, hay que hacerlo en modo manual.
+03/NOVIEMBRE/2015
+Se esta realizando un seguimiento al comportamiento a esta señal, puesto que se evidencia un bloqueo del modulo de salidas de la RIO, el cual enia el comando de encender Bomba de refrigeracion en modo automatico. Se reviso la programacion logica del modulo en la estacion de ingenieria y todo se observa normal e igual que la programacion en otra unidad de generacion.
+Se esperara un tiempo la evolucion de este evento y se se vuelve a repetir, nos enfocaremos en el hardware del variador de velocidad, puesto que la señal de salida llega directamente al variador de velocidad, a las borneras de control.
+Ejecuto: Zoraida Monsalve
+Programador: Oscar Arango
+
+06/NOVIEMBRE/2015
+Referente a la refrigeracion Guadalupe 4:  Se realizo un trabajo que consistió en migrar unas señales del controlador de comunes a los controladores de unidad de cada máquina, o sea que cada máquina es la encargada de arrancar su propia bomba, por la RIO 02… Por esto se considera que se deben dejar las bombas de refrigeración en automático, para arrancar y parar…
+esto se ejecuto con el fin de resolver el problema que se venia presentando con el bloqueo del modulo RIO y el arranque fallido de las bombas en el momento de ejecutar las secuancias de arranque.
+Despues de realizar un seguimiento se observa que las bombas trabajan normal y no se ha presentado nuevamente el bloqueo del modulo.
+
+Ejecuto: Zoraida Monsalve - Francisco Gonzalez - Grupo Electrico
+Programador: Oscar Arango

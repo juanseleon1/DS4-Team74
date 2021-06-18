@@ -1,0 +1,4 @@
+
+JULIO 29/2018 OT: 3749574   PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta falla por Feedback Switch G1 Top (en esta semana lleva varios paros por la misma falla) se verifica en las graficas el estado del la señal análoga y digital del estado del contactor del G1 y se observa que la señal digital deja de estar presente mientras que la análoga continua, se verifican voltajes en Top Box y se encuentra en 23,7 Vdc la fuente que alimenta el modulo 105A2 (modulo de la señal digital), también se observa alarmado el modulo naranja del 7,0 al calibrar el voltaje por encima de los 24Vdc este modulo se normaliza, se simulan las señales análogas para los contactores del G1 y G2, el retorno fue bueno aunque la luz del retorno en el modulo digital era tenue, se cambia el modulo 105A2 y se deja en servicio y observación el aerogenerador. 

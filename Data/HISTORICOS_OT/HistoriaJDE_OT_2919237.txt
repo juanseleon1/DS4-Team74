@@ -1,0 +1,17 @@
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+OCTUBRE 29 DE 2015
+
+SE PLANEA LA OT PARA REVISIÓN DEL INTERRUPTOR DE CAMPO , CON EL FIN DE DETERMINAR LA CAUSA DEL MAL FUNCIONAMIENTO DEL MISMO Y SOLUCIONARLA.
+
+
+PROGRAMADOR: WILLIAM LOPERA
+ 
+
+OCTUBRE 29 DEL 2015 / JEOVANNY CORREA G
+
+ Revisar el interruptor de campo de la unidad G34 el cual presenta aperturas y cierres en el momento de energizar.
+
+OCTUBRE 29  DE 2015
+
+Por oprtunidad se lleva la unida hasta energizda y se da orden cierre al interruptor de campo de modo manual desde el regulador de tension, y opera correctamente, se le da nuevamente secuencia hasta energizada y se energiza de forma automatica y tambien funciona correctamente, queda en observación porque fisicamente no se encuantra nada en mal estado en el interruptor de campo.
+Relizó: William Lopera.

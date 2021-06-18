@@ -1,0 +1,5 @@
+TE: REALIZAR BUSQUEDA DE FALLAS Y MONITOREO DE CONDICION DEL AISLAMIENTO, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE RESPALDO CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+2015/09/01 JHONATAN USME - RUBEN ARBOLEDA OT: 2859660
+Se encontro parada, con chiller's parados por falla, 
+EQUIPO: AFAA 3 CORRIENTE: R:28, S:28,2, T:27, VOLTAJES RS:453, ST:453, TR:452, AISLAMIENTO DE MOTOR: 407 M Presion: 15 PSI La medida de corriente se encuentra baja es posible que al estar mucho tiempo parado el sistema la tubería tenga aire, adicionalmente se realizó con valvulas de los chiller 2 y 3 cerradas.

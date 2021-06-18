@@ -1,0 +1,11 @@
+2015/05/08 RUBEN ARBOLEDA
+En la noche del jueves 07 de Mayo de 2015 a causa de una tormenta se afectaron varios motores del taller industrial, se hace esta OT para la revisión del estado de aislamiento y verificacion del control en general para determinar el estado.
+
+2015/05/08 FERNANDO RUIZ - JHONATAN USME
+Se realizó revisión del estado electrico de los motores del taller, se enocntró en condiciones normales los controles de los motores, se destaparon y se hicieron medida de aislamiento así: 
+TORNO 1: 429MOhm
+TORNO 2: 146MOhm
+CEPILLO: 7.82MOhm
+TALADRO GRANDE: 53.3MOhm
+Queda pendiente realizar medida al taladro fresadora, ya que las carpas quedaron por encima y no es facil el acceso a este taladro. 
+

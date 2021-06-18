@@ -1,0 +1,9 @@
+
+2018/07/31 OT:3749941  Luis Eduardo Arcila
+
+Mantenimiento general por el personal de General Fire
+Se cambia estacion manual al transformador 10
+Se realizan pruebas de alarmas en los bancos de transformadores.
+Se hace seguimiento de conexiones
+Se prueban sensores térmicos, estaciones manuales, sistemas de activación de descarga, avisos luminosos, señales audibles y luces estroboscópicas.
+Se retiran cilindros de CO2 para recarga en banco de transformadores 1 cilindro

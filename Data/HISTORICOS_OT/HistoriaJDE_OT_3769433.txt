@@ -1,0 +1,2 @@
+2018-11-09 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3769433, PASO:1          
+Se realizó revisión y limpieza general al tablero de control del generador asincrponico. 

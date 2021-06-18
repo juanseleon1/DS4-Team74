@@ -1,0 +1,9 @@
+
+2015/07/14 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+LOCALIZACIÓN 1 2 3 4 5 6 7 8
+ANILLO A        mm 24,0 21,0 19,5 29,4 21,8 21,6 21,5 28,8
+SUPERIOR B        mm 22,4 30,0 19,8 19,6 22,0 22,5 21,0 21,3
+ANILLO A        mm 32,6 25,6 23,5 20,9 22,0 26,6 24,0 28,3
+INFERIOR B        mm 32,6 32,2 20,5 24,0 26,7 31,0 20,0 20,7
+
+Se realizó cambio a un total de 19 escobillas.

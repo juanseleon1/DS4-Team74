@@ -1,0 +1,5 @@
+2019/03/21 RUBEN ARBOLEDA
+Se crea OT para realizar extraccion de aceite con el fin de normalizar el nivel.
+
+
+2019-03-21 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3821182          Se realizó extracción de aceite al transformador del banco 1 fase S, el nivel estaba en: 89,6% y 63,7°C se extrajo un total de 72 Litros, el nivel después de estabilizar hasta el 2019/03/22 quedó en 71,8% con temperatura 58,4°C

@@ -1,0 +1,11 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES UNIDADES DE GENERACION 3 A 6 GUADALUPE3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:CARLOS OSPINA
+
+ENERO 30 DE 2018
+
+fecha: 15/o2/2018
+-se realizó mantenimiento a los instrumentos del grupo radiadores, rtd (verificando visualmente el estado y ejecutando limpieza) e instrumentos de flujo asociados.
+programo: luis adrian cardona

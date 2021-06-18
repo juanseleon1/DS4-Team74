@@ -1,0 +1,10 @@
+DICIEMBRE 02/2013
+
+Revisar el intercambiador de  calor del Cojinete de Empuje (Cojinete Superior) de la Unidad 2 de Guadalupe 3, por presentar temperatura alta.
+
+Informa
+
+Operadores Guadalupe 3.
+
+Nota: se lavan los intercambiadores y su tuberia, se gira la unidad y a la hora de funcionamiento salen nuevamente las alarmas de temperatura en el cojinete de empuje.
+se cambia la motobomba 1 por la motobomba 2 observando disminucion en las temperaturas hasta quedar normales, con esta evudencia se procede a revisar la motobomba 1 y a calibrar su inmpulsor aumentandeo su presion de funcionamiento de 33 psi a 51 psi y se cambia el filtro de descarga del sistema el cual se encontraba obstruido segun la advertencia del instrumento (change), luego se pone en fucionamiento la motobomba 1 para la unidad y se observa normalidad en las temperaturas.

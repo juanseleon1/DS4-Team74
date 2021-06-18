@@ -1,0 +1,27 @@
+
+03/10/2018
+GUSTAVO MORALES
+REVISAR MINIBREAKER DE CONTROL E4 CORRESPONDIENTE AL CONTROL DE INTERRUPTOR DE LA UNIDAD 8
+
+2018/10/02 OT:3771208 PROGRAMO RUBEN ARBOLEDA
+Se realizó revisión del minibreaker de control e4 correspondiente al control de interruptor de la unidad 8, este minibreaker se estaba disparando segundos después del cierre, se encontró los dos diodos correspondientes a las bobinas de cierre y apertura del interruptor en el tablero +GBC-8-CUBICO INTERRUPTOR GENERADOR quemados. Se reemplazaron y se le cerró el minibreaker esto ocasionó el cierre inmediato del interruptor de potencia y posteriormente el disparo del Banco 4 y la Unidad 7.
+Se desconecto la salida 212 de los reales PP1 Y PP2 para evitar disparo del Banco 4. Se sincronizó la unidad 7.
+Se siguió la señales de cierre del interruptor de potencia y se encontró relé C en tablero +DU8.1. quemado.
+Se reemplazo el relé por uno del almacén. Se realizó prueba de sincronismo con seccionador abierto y fueron buenas, se abrió nuevamente el interruptor.
+Se normalizaron  las conexiones de los rele de protecciones PP1 Y PP2 en la salida 212. 
+Posteriormente se cerró el seccionador y se sincroniza la unidad 8 quedando en condiciones normales.
+Hora de sincronismo: 18:30.
+Realizó:
+Johnson Gómez- Mauricio Quijano - Giovanny Díaz - Edwar Londoño - Luis Arcila - Cesar Tulio Jiménez -Rubén Arboleda 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+XE: TERMOGRAFIA EQUIPOS ANEXOS A LA UNIDAD
+
+   ESTE PROCEDIMIENTO APLICABLE A LOS SIGUIENTES EQUIPOS DE LAS UNIDADES    GENERADORAS Y SE REALIZA EN LINEA: - ANILLOS ROZANTES - BARRAJE SALIDA ESTATOR - NEUTRO TIERRA  - INTERRUPTOR CAMPO - EXCITACIÓN PRINCIPAL - TRANSFORMADOR S. AUX - TABLERO DIST PPAL S.AUX  - REGULADOR HIDRAULICO   - MOTOBOMBAS REFRIGERACION - MOTOBOMBAS CIRC ACEITE CGS - MOTOBOMBAS REFRIG COJINETE  - BANCO TRANSFORMADOR - SECCIONADORES
+
+016/JUNIO/2016
+REFRENTE A LAS TERMOGRAFIAS A REALIZAR ANTES DEL MTTO PREVENTIVO CUATRIMESTRAL
+
+Se reprograma esta ejecuacion de OT debido a que el programa de generacion y el despacho economico de la planta, no permitio realizar adecuadamente este trabajo. Ademas de que el personal que se tenia asignado para este trabajo no estaba disponible para salir a realizar labores de mantenimiento puesto que el turno de operacion estaba completo y no podia dejar el turno de operacion. la persona que realizaria este trabajo seria Esteban Hurtado.
+Por tales motivos se observa el ingreso de tiempo dentro de la OT, solo para las labores previas que realizo el operador.
+
+Planeador: Oscar Arango

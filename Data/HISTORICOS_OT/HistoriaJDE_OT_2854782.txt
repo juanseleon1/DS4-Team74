@@ -1,0 +1,6 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+
+PROGRAMADOR: JOSE MONTOYA
+02/09/2015
+Se realizó limpieza, inspección visual y se revisaron las borneras de control de los diferentes tableros del  regulador de tensión, Se realizó mantenimiento a los filtros de aire de cada tablero.
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS

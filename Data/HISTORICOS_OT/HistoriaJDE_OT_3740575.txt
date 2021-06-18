@@ -1,0 +1,50 @@
+FECHA: JUEVES 19/07/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RODOLFO GARCES, JUAN DAVID FLOREZ
+ASOCIADO A LA OT: 3740575
+ASUNTO: EJECUTAR MANTENIMIENTO PROGRAMADO  
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  ______7981 HORAS________
+
+PRESION DE ARRANQUE: _______53.7 BAR_______
+
+PRESION DE PARO: _______61.2 BAR_______
+
+TIEMPO DE TRABAJO: _______8´11"_______
+
+TIEMPO DE REPOSO: ______________
+
+TEMPERATURA CARCAZA MOTOR: ______________
+
+TEMPERATURA CARCAZA UNIDAD:_______38° C_______
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:______________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:______________
+
+
+
+
+Observaciones: - Se realiza limpieza general
+      - Revision de aceite y nivel optimos
+                  - Tencion de banda adecuada.
+                  - El equipo esta en optimas condiciones operativas 
+
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

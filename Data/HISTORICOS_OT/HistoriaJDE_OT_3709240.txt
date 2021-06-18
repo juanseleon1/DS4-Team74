@@ -1,0 +1,13 @@
+09/04/2018 OT 3709240 Cesar Tulio / Luis Eduardo Arcila
+Se prueban tarjetas de la unidad 4 en el controlador de la unidad 8 para descartar y ensayar las reparadas en RPM.
+Se encontraron dos tarjetas falladas DSBC173 y DSCS140 se cambian por unas reparadas, entrando el controlador en modo P2 (Programación)
+se descarga el programa quedando en P1 (Run)
+19/04/2018 OT 3709240 Cesar Tulio / Luis Eduardo Arcila
+El rack superior no entra en funcionamiento, fallada la tarjeta DSBC172. Se reemplaza por una de repuesto, entrando en modo P1 (Run) funcionamiento normal del controlador.
+Se deja en prueba y la unidad en manual.
+
+
+
+
+
+

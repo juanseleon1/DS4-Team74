@@ -1,0 +1,17 @@
+
+2018/09/07 _ CARLOS ENRIQUE MONCADA. OT N° 3760154.
+
+Se hacen cambios de modulos de control FCM y monitoreo FMM en los sistemas contra incendios de la central Porce 3. Se realizan pruebas
+quedando normalizados estos subsistemas.
+
+Realizo: Grupo de Mantenimiento SCI.
+
+Informo: Carlos Moncada.
+
+----------------------
+
+2018/08/29 _ CARLOS ENRIQUE MONCADA. OT N° 3760154.
+
+Se crea OT para el cambio por averia de los modulos de control FCM y monitoreo FMM.
+
+Realiza: Grupo Mantenimiento CIVALCO.

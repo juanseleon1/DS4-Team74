@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2019/07/29
+Síntoma: Datalogger de la caseta 1 no tiene conexion a la red.

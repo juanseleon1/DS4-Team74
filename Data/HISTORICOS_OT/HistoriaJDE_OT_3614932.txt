@@ -1,0 +1,6 @@
+FECHA: 02/10/2017    SOLICITADO POR: Natalia Urrea - Jeovanny Correa - Operación G4
+DESCRIPCIÓN: En el tablero Notifier del sistema contra-incendio Guadalupe 4 se encuentra presente alarma de incendio correspondiente a detector de humo L01D014 zona 1 - Oficina Jefe área 
+En el momento que se presentó la alarma se verifica en sitio encontrando que no es real, se reconoce alarma y queda pendiente revisión por parte del personal de mantenimiento.
+03-10-2017
+programo jose montoya
+se reviso el detector y se realizo mantenimiento y queda trabajando bien.

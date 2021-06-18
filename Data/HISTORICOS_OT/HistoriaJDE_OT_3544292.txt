@@ -1,0 +1,20 @@
+08/06/2017
+
+FALLA EN LA COMUNICACIONES DE LA CIO3 CORRESPNDIENTE A FALLA FUENTES Y FALLA SEÑALES TRANSFORMADOR EXCITACION
+
+INFORMA TURNO 2 OPERACION 
+
+
+18/07/2017
+
+Se realiza verficacion de la CIO3 se enceuntra falla en el harwaret se instala y configura una nueva CIO el sistema queda en observacion .
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR 
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

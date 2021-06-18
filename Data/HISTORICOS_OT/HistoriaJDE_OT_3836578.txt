@@ -1,0 +1,11 @@
+REALIZAR INSPECCION Y PRUEBAS AL ROTOR DEL GENERADOR LA LA UNIDAD 2 PAJARITO. 
+
+MAYO 15 DE 2019 OT: 3836578- PROGRAMO: FARFREY OSPINA EJECUTO: DIEGO PATIÑO 
+SE VERIFICA conexion de anillos al rotor, se retiran todas las escobillas y se procedea realizar limpieza general con liquido limpiador dielectrico y posteriormente se realizan pruebas electricas.
+
+resistencia aislamiento 500vdc
+a los 30 segundos 1.28g al minuto 1.38 g dar: 1.08
+
+resistencia ohmica. 416.8miliohmios 
+
+EL EQUIPO ENTRA EN OPERACION CORRECTAMENTE. 

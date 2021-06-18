@@ -1,0 +1,23 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ:ABRIL 30 /2014.
+SE REVISA Y SE ENCUENTRA BOMBA DE FLUJO, VENTILADOR FUNCIONANDO Y SE REALIZO TERMOGRAFIA, SE DETECTA QUE LA ALARMA ESTA APARECIENDO ANTES DE 90 °, SE VERIFICARÁ EN EL SCADA
+
+
+ ABRIL 30 DEL 2014 - JEOVANNY CORREA 
+
+El Transformador G33 fase S esta alarmado el devanado de alta, sus temperaturas en instrumento del trafo está en 84 ºC y en la pantalla de operación está en 85 ºC y su punto de alarma es 90 ºC y el disparo esta en 100 ºC. Se rebaja potencia reactiva y continua alarmado.
+
+19/06/2014
+ Se verificaron los transductores de temperatura devanado de alta y de aceite tanto en la fase S como en la fase T.
+ Estos transductores se verificaron  inyectándoles temperatura con el calibrador de procesos.
+El rango de trabajo es     
+IN:-20  a 120°c.
+Out:  4 a 20 mA
+
+Los valores inyectados fueron :
+-20°c ------ 4mA
+15°c-------- 8mA
+50°c---------12 mA
+85°C ---------16 Ma
+120°c---------20mA
+
+REALIZO: FREDY DUARTE Y FRANCISCO GONZALEZ

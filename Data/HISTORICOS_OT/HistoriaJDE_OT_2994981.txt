@@ -1,0 +1,27 @@
+2016/01/23 ADONIS CADAVID
+Grupo de mantenimiento Eléctrico:
+Realizar desmontaje de sensores para verificación mecánica
+Realizar montaje de sensores y calibración de los mismos, con el fin de que la motobomba pare en la altura requerida.
+Verificar, ajustar y limpiar borneras 
+
+
+Grupo de mantenimiento mecánico
+Verificar funcionamiento, nivel de aceite y levantamiento del rotor
+
+2016/02/10 JHONATAN USME - EDWAR LONDOÑO - PROGRAMO: RARBOLG
+Se realizó calibración de sensores, el desmontaje y montaje de los sensores se registro el tiempo en la OT de los frenos # 2994534, Se dejó en condiciones normales.
+2016/01/25 DIEGO BEDOYA
+Se realiza el lavado del intercambiador del cojinete superior, se cambian todos los empaques de este intercambiador, se cambian los empaques de entrada y salida de aceite al intercambiador, se limpia la tubería de entrada de agua al intercambiador.
+El trabajo fue realizado por Antonio Molina, Rubén López y Andres Alzate.
+
+marzo 25 de 2017 
+
+ot cerrada
+
+andres ramirez
+
+
+
+
+
+

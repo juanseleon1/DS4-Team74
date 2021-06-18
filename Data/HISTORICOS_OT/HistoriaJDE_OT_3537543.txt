@@ -1,0 +1,13 @@
+CE: TERMOGRAFIA EQUIPOS ANEXOS A LA UNIDAD
+
+   ESTE PROCEDIMIENTO APLICABLE A LOS SIGUIENTES EQUIPOS DE LAS UNIDADES    GENERADORAS Y SE REALIZA EN LINEA: - ANILLOS ROZANTES - BARRAJE SALIDA ESTATOR - NEUTRO TIERRA  - INTERRUPTOR CAMPO - EXCITACIÓN PRINCIPAL - TRANSFORMADOR S. AUX - TABLERO DIST PPAL S.AUX  - REGULADOR HIDRAULICO   - MOTOBOMBAS REFRIGERACION - MOTOBOMBAS CIRC ACEITE CGS - MOTOBOMBAS REFRIG COJINETE  - BANCO TRANSFORMADOR - SECCIONADORES
+El presente correo es con el fin de informarles que el día de hoy se realizó la inspección termográfica de la Unidad #5 de Guadalupe 3, correspondiente al mantenimiento programado para el 27 de este mes.
+
+Por medio de este correo les informo las novedades encontradas en dicha ruta:
+
+1. Punto caliente en el barraje de baja del Trafo Fase R unidad 5.
+2. Escobillas de la excitatriz desconectadas o desgastadas.
+3. Escobillas de los anillos rozantes inferior y superior con temperaturas de 110°C.
+4. Contactor SYX1 del tablero de los compresores aire de frenado y regulador turbina con punto caliente, temperatura de 97°C.
+
+

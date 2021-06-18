@@ -1,0 +1,10 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 29/06/2017
+
+MANTENIMIENTO PREVENTIVO PARA LOS BANCOS Y PRUEBA DE AUTONOMIA.
+REGISTRAR LOS VOLTAJES DE CADA CELDA Y CORRIENTE.
+
+JULIO 25 DE 2017.
+Se realizó mantenimiento preventivo al banco de baterias de la central troneras, se ajustaron tornillería, toma de voltajes de cada celda, limpieza general y consumo de corriente, sin ninguna novedad.
+Programó: William Lopera.

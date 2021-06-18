@@ -1,0 +1,7 @@
+FECHA: SEPTIEMBRE 14 DE 2016
+
+EJECUTANTE: JOHN ORREGO, ELISAUL FUENTES Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se realiza el cambio de los retenedores de la bomba 2 de la caja multiplicadora, se le adicionan 10 galones de aceite XMP320, la fuga no se logró corregir con este trabajo, se deja en servicio pero con la bomba 1. La señal del módulo 4,2 borne 8 queda desconectada y con el parámetro 11:02 en 80.

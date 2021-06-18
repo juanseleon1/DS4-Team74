@@ -1,0 +1,8 @@
+2019/03/15 RUBEN ARBOLEDA
+Se crea OT para extraer muestras de aceite para analisis de PCB's de las canecas ubicadas en el RESPEL. 
+
+2019-03-15 REALIZÓ: JHONATAN ANDRES USME - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3819475, PASO:1          
+Se realizó extracción de 19 muestras de aceite para análisis de PCB's, este aceite ha sido extraido de los transformadores de la central Playas y se encuentra en el RESPEL para enviar hacia medellin para aprovechamiento.
+
+2019/04/01 RUBEN ARBOLEDA OT: 3819475
+Se reciben los resultados de analisis de PCB's, no se tiene observaciones, el informe se anexa a la OT.

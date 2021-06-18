@@ -1,0 +1,3 @@
+NOV 6  2016  OT: 3190306 PROGRAMO: JGUINGUER  EJECUTO: AVILLA
+
+La central desde que entró en operación contaba con instrumentación basada en termómetros (mercurio). Debido a que este es un material altamente contaminante y otras condiciones como: obsolescencia tecnológica, lentitud a los cambios de las variables e inexactitud en la medida. Se decide realizar el cambio de la instrumentación por controladores digitales y RTDs Pt 100. 

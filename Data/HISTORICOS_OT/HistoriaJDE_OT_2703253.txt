@@ -1,0 +1,8 @@
+2015/02/23 RUBEN ARBOLEDA
+Se realizarà prueba electrica con variador de frecuencia. 
+
+2015/06/02 CÉSAR AUGUSTO HOYOS HENAO.
+Terminan las pruebas con el VDF, Los datos quedan almacenados en el analizador.
+
+
+

@@ -1,0 +1,13 @@
+MP:
+3348LUBRICACION FORZADA  U1 G43349LUBRICACION FORZADA  U2 G43350LUBRICACION FORZADA  U3 G4
+
+
+PLANEADORA:SANDRA CARMONA
+
+PROGRAMADOR:CAMILO MONTAGUT
+
+Programador: Camilo Montagut - 11/07/2018
+
+Se realiza limpieza de los filtros removibles de la lubricación forzada. Además se realiza reajuste de toda la tornillería del mismo equipo
+
+Ejecuta: equipo mantenimiento mecánico UOG

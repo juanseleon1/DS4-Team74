@@ -1,0 +1,7 @@
+MP ANUAL: -- 3556 COJINETE SUPERIOR U1 TR -- 3558 COJINETE INFERIOR U1 TR -- 3560 COJINETE TURBINA U1 TR -- 3584 ESTACION HIDRAULICA V/A U1 TR -- 3620 ESTACION HIDRAULICA U1 TR -- 3557 COJINETE SUPERIOR U2 TR -- 3559 COJINETE INFERIOR U2 TR -- 3561 COJINETE TURBINA U2 TR -- 3585 ESTACION HIDRAULICA V/A U2 TR -- 3621 ESTACION HIDRAULICA U2 TR
+
+Ot: 3588706 - Filtroprensado aceite cojinete superior - Programador: Camilo Montagut - 03/10/2017
+
+Se realiza el filtroprensado en tres pasos de 720 litros (aproximadamente) de aceite hidráulico mobil heavy medium 68. Se aprovecha y se realiza muestreo de aceite para su posterior análisis en el laboratorio. Finalmente se ingresa el aceite al mismo cojinete. 
+
+Ejecuta: equipo mantenimiento mecánico UOG

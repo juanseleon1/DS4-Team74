@@ -1,0 +1,9 @@
+Se crea Ot para el registro de tiempos y actividades correspondientes a la corrección de la tubería de refrigeración del cojinete superior
+
+Ot: 3597337 - Cambiar tubería refrigeración- Programador: Camilo Montagut - 02/10/2017
+
+Debido a fugas de agua que se presentaron en anteriores ocaciones se procede a hacer el cambio de la tubería de refrigeración del cojinete. Finalmente se aisla térmicamente la tubería con felpa y cinta de mica, evitando que el agua condensada llegue a caer en el bobinado del estator.
+
+Nota: tener en cuenta que al desmontar la tubería de bronce se encontró que estaba en mal estado debido a los lodos y a las particulas abrasivas encontradas en todo el sistema de refrigeración.
+
+Ejecuta: equipo mantenimiento UOG

@@ -1,0 +1,15 @@
+FECHA:31/10/2016
+SOLICITANTE:GEOVANNY ANDRES ECHEVERRI
+DESCRIPCION: SALIDA FORZADA POR BAJO NIVEL DE ACEITE DEL TANQUE  ACUMULADOR A CONSECUENCIA DEL DESACOPLE  MECANICO ENTRE EL MOTOR Y LA BOMBA N°1 DEL SISTEMA HIDRAULICO.  
+
+GRUPO MECANICO
+Fabricar nuevo acople y organizar todo lo relacionado con la bomba.
+
+GRUPO ELECTRICO
+Conectar/desconectar el motor y realizar las pruebas necesarias y preventivos al motor 1.
+
+Planeador: Oscar Arango.
+
+NOVIEMBRE 8 DE 2016
+Se desmonto el motor de la bomba para cambio de rodamienstos, se desarma, se petroliza con liquido dielectrico la parte estatorica, se mejora el aislamiento, se arma y se vuelve a montar, se toman medidas de voltajes y corrientes quedando en condiciones normales.
+William Lopera.

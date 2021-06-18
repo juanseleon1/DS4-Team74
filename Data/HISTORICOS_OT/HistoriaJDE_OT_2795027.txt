@@ -1,0 +1,49 @@
+- FECHA : MARTES JULIO 14 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - WILDER HERRERA 
+- ASOCIADO A LA OT : 2795027
+- ASUNTO : HACER MANTTO MP
+
+
+Datos de placa:         P = 75 hp    V = 480 vac    I = 91A
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 1.98 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 463.3 v
+       ST = 466.6 v                                                             
+       RT = 464.3 v
+       Corriente de arranque:  
+Fase R = 400 a
+       Corriente de marcha:  
+Fase R = 62.4 a
+Fase S = 63 a 
+Fase T = 64 a                                                                              
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 6 A     Calibración térmico de potencia : 600 A
+     
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 13.9 H
+
+6. Observaciones: Medida de aislamiento tomada con la acometida, equipo utilizado : megger MI3121 H
+                                    * Se toma termografía con la calefacción conectada = 28 ° C
+                                    * DATOS CALEFACCIÓN
+                                      - RS : 49.7 v   ST : 25.3 v    RT : 25.4 v
+                                      -  R : 5.9 A   S: 5.8 A   T : 0 
+                                   * Medida de aislamiento sin acometida - solo motor  : 1.98 Goh 
+                                   * Medida de aislamiento con acometida + motor : 867 Moh
+                                   * Medida acometida : 1.53 Goh
+                                   * Se aprovecha arranque de las bombas por parte de los mecánicos ( Darío A - Camilo F ) para tomar 
+                                     datos de corriente 
+                                      

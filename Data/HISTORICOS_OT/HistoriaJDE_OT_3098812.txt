@@ -1,0 +1,7 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación en las actividades de limpieza y ajuste de la central de Toneras para el mes de mayo
+
+Programador: Camilo Montagut - 08/06/2016
+
+Se da por terminada la ot que relaciona el mantenimiento diario de la central de troneras cumpliendo con las actividades progamadas para el mes de mayo. Se realizo el mantenimiento según instructivos mantenniendo aseado y funcional los equipos rotativos, áreas y elementos de la planta 
+
+Ejecuta: equipo mantenimiento mecánico GIII

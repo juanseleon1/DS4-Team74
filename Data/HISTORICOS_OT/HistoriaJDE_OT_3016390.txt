@@ -1,0 +1,11 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: CAMILO MONTAGUT
+
+PREVENTIVO MECANICO FRENOS GENERADOR GUADALUPE
+
+Programador: Camilo Montagut - 09/03/2016
+
+Se limpia la grasa del recinto de los frenos y se registra que las zapatas tienen una medida de 15 mm
+
+Ejecuta: equipo mantenimiento mecánico GIII

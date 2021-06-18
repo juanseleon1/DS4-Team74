@@ -1,0 +1,11 @@
+02 SEPTIEMBRE 2018 GUILLERMO LEON ECHEVERRY VELEZ
+
+Referente al TUH Unidad N°4: La presión del sistema del TUH al hacer la bomba carga del sistema se hace un pico de presión superior al nivel de alarma, el cual está seteado en 160 bar, se cambió el parámetro de alarma y se sube a 162 bar y continuó sacando alarma en el scada, razón por la cual se inhibe la alarma por alta presión del sistema TUH y se dejan los parámetros de carga y alarma en los valores normales operativos, carga 148 bar paraba bomba 156 bar y alarma 160bar.
+
+22/10/2018 GUILLERMO ECHEVERRY
+
+Se hace seguimiento al evento y a la fecha no se ha vuelto a presentar.
+
+INFORME MECÁNICO 31-10-2018 / RENATO MONTOYA
+
+SE REALIZA RECARGA DE LOS ACUMULADORES DE NITRÓGENO DE LA ESTACIÓN HIDRÁULICA DEL REGULADOR DE VELOCIDAD Y SE GENERA OT: 3763679 PARA REALIZAR DICHO TRABAJO. ESTO SOLUCIONA EL INCONVENIENTE QUE SE TENIA CON LOS PICOS EN LA CARGA DEL SISTEMA

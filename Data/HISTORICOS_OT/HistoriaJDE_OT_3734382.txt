@@ -1,0 +1,9 @@
+
+2018/06/19 _ CARLOS ENRIQUE MONCADA. OT N° 3734382.
+Se realiza el montaje y puesta a punto del sistema troncalizado de radio comunicaciones como prueba piloto para migracion a nueva tecnología. Esta prueba estara en funcionamiento hasta el 25 de junio.
+Realizo: unidadades TI y TO, equipo Electronico Porce 3.
+
+
+
+2018/06/08 CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA INSTALAR UNA PLATAFORMA DE RADIOS DE COMUNICACION EN PRUEBA

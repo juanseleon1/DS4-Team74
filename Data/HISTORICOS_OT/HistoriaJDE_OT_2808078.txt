@@ -1,0 +1,2 @@
+2015/07/01 OSCAR GIRALDO - JUAN DAVID GARCÍA - CESAR HOYOS - CARLOS ARTURO GIRALDO
+Se realiza medidas de temperaturas y flujos al sistema de aire acondicionado de casa de maquinas, variando frecuencia del ventilador en camara de valvulas, adicionalmente se realizó medidas en diferentes puntos de la caverna de casa de maquinas Guatepé para determinar temperaturas y realizar un informe la empresa de Aire Ambiente. 

@@ -1,0 +1,11 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 29/06/2017
+
+MANTENIMIENTO PREVENTIVO PARA LOS BANCOS Y PRUEBA DE AUTONOMIA.
+REGISTRAR LOS VOLTAJES DE CADA CELDA Y CORRIENTE.
+
+JULIO 10 DE 2017
+Se realizó mantenimiento a los bancos de baterías de Guadalupe 3, 125 Vcc, se verificaron corriente del banco, temperatura y voltaje en cada batería en cada una de las celdas, encontrándose en condiciones normales.
+Realizó: Grupo eléctrico.
+Informó: William Lopera.

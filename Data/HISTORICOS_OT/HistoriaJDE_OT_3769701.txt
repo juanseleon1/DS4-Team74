@@ -1,0 +1,11 @@
+
+
+SENSORES
+
+ACTIVIDAD:
+
+OCTUBRE 26/2018 OT: 3769701  PROGRAMÓ: HGIRALRI EJECUTÓ:  HGIRALRI
+
+
+Se inspeccionan los anemómetros y veletas, también se verifica el estado de los sensores de alta y baja velocidad.
+

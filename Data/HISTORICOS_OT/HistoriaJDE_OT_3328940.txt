@@ -1,0 +1,7 @@
+SOLICITANTE:PEDRO ROBAYO
+FECHA: NOVIEMBRE 29-2016
+EJECUTANTE:PEDRO ROBAYO
+
+
+Se sube al AG5 para revisar alarma que sale en el RFC  la cual es 4.0 . Se hace el  cambio del  modulo 4.0 y la alarma se desactiva.
+Queda en operación el AG.

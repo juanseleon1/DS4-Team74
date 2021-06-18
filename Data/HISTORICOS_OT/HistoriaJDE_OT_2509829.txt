@@ -1,0 +1,18 @@
+
+FECHA: ABRIL 16 Y 17  DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+Por falla comunicación en controlador superior que dispara el Main switch, es necesario abrir el interruptor del trafo para poder manipular con seguridad el Main switch, la falla no se ha logrado encontrar.
+
+
+FECHA: ABRIL 18  DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+Por falla comunicación en controlador superior que dispara el Main switch, es necesario abrir el interruptor del trafo para poder manipular con seguridad el Main switch, al parecer la falla se presenta en un conector de la fibra óptica, se apretó en la base quedamos a la espera de la evolución.
+
+
+
+
+

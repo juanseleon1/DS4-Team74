@@ -1,0 +1,9 @@
+2014-12-10. JORGE ALBEIRO GARZON ESTRADA.
+
+REVIZAR EL COMPORTAMIENTO DE LAS BOMBAS DEL REGULADOR (LA UNIDAD EN PARO PARCIAL O ENERGIZADA)PORQUE ESTAN TRABAJANDO CONTINUAMENTE, OCASIONANDO, EL INCREMENTO DE TEMPERATURA EN EL REGULADOR DE VELOCIDAD CON 48°C.
+LA BOMBA SELECCIONADA SUBE MUY LENTO Y BAJA RAPIDO.
+
+2014/12/11 GUILLERMO CORDOBA - JHONATAN USME OT: 2655824
+Se realizó limpieza y mantenimiento del michosuiche, para lo cual el obturador se encontraba pegado por una rebaba producto del trabajo continuo, esto ocasiono un incremento en la resistencia del contacto, impidiendo así su normal funcionamiento. 
+
+Se dejo en funcionamiento normal. 

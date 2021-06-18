@@ -1,0 +1,7 @@
+Fecha de reporte falla: 28/02/2017 Reporta: Wilson Efraín Morales
+Síntoma en Oficina:  Lectura anormal del datalogger
+Diagnóstico de Oficina: Sin acceso remoto al datalogger del tablero TDPI-3
+Modo de Falla:  Error de adquisición de datos
+Falla Inmediata:  Equipo no adquiere datos de los sensores
+Falla básica:  Batería de Lithium descargada
+Anomalías encontradas: Batería de Lithium descargada y AVW200 en cortocircuito

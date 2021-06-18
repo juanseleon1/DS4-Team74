@@ -1,0 +1,7 @@
+FEBRERO 28/2019  OT: 3817487  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR 
+
+Se realiza termografía a los barrajes de potencia de los tableros de la base de la torre, también a las conexiones del trafo 690v /13,8kv.
+
+MARZO 12/2019  OT: 3817487  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR Y HENRY GIRALDO 
+
+Se realiza termografía al empalme de los cables entre rígido y flexible, también al tablero de potencia de la Top Box y al generador.

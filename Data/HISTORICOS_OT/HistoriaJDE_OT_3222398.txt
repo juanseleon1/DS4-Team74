@@ -1,0 +1,7 @@
+2016-09-13 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222398, PASO:1          
+Mantenimiento preventivo Unidad 3, Frenos, El freno 3 de la unidad 3 se encuentra el cableado fallado en alguna parte del trayecto entre la caja y el sensor, fue necesario dejarlo con un puente, se hace OT correctiva: 3244893
+
+En esta OT se realizó revision, medidas y limpieza de los sensores, se dejo operativo el sistema con el puente realizado2016-09-13 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222398, PASO:1          
+Mantenimiento preventivo Unidad 3, Frenos, El freno 3 de la unidad 3 se encuentra el cableado fallado en alguna parte del trayecto entre la caja y el sensor, fue necesario dejarlo con un puente, se hace OT correctiva: 3244893
+
+En esta OT se realizó revision, medidas y limpieza de los sensores, se dejo operativo el sistema con el puente realizado

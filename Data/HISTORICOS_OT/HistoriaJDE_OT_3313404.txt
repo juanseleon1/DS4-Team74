@@ -1,0 +1,11 @@
+XE: TERMOGRAFIA EQUIPOS ANEXOS A LA UNIDAD
+
+   ESTE PROCEDIMIENTO APLICABLE A LOS SIGUIENTES EQUIPOS DE LAS UNIDADES    GENERADORAS Y SE REALIZA EN LINEA: - ANILLOS ROZANTES - BARRAJE SALIDA ESTATOR - NEUTRO TIERRA  - INTERRUPTOR CAMPO - EXCITACIÓN PRINCIPAL - TRANSFORMADOR S. AUX - TABLERO DIST PPAL S.AUX  - REGULADOR HIDRAULICO   - MOTOBOMBAS REFRIGERACION - MOTOBOMBAS CIRC ACEITE CGS - MOTOBOMBAS REFRIG COJINETE  - BANCO TRANSFORMADOR - SECCIONADORES
+Noviembre 28 de 2016
+Se realizo la rutina de termografias segun la ruta de verficacion, con la unidad cargada a maxima generacion.
+
+En la siguiente ruta del servidor se encuentran los informes detallados de las termografias de la G35:
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\Informes Mantto Gpe 3\Informes U5 Gpe 3\INFORME U5 G3 2016-11-30
+
+Planeador: Oscar Arango
+Ejecutante: Geovanny Echeverri

@@ -1,0 +1,12 @@
+
+2018/04/18 OT 3713839  Luis Eduardo Arcila
+Mantenimiento general por el personal de General Fire
+
+2018/04/24 OT 3713839  Luis Eduardo Arcila
+se continuan con los trabajos de mantenimiento general del sistema por el personal de General fire
+
+2018/04/26 OT 3713839  Luis Eduardo Arcila
+Se realizan pruebas de activación de alarmas en transformadores.
+ Se realiza prueba de activación de estaciones manuales 
+Se descargan eventos de activación 
+Se normaliza el sistema y se deja operativa

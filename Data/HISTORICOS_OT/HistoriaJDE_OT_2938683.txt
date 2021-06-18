@@ -1,0 +1,8 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+PROGRAMADOR JOSE MONTOYA
+26-11-2015
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al variometro de posición del distribuidor.
+En esta unidad se observa muy des calibrada la posición del distribuidor, se cambia tarjeta AM2 y se calibra nuevamente.
+Se realiza verificación de apertura del distribuidor en posiciones 25%, 50%, 75% y 100% corroborando las medias de corriente y voltaje para la válvula distribuidora, distribuidor, posición del vario metro y porcentaje de apertura físico y en operación.

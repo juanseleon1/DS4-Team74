@@ -1,0 +1,11 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud: 06 SEPTIEMBRE 2017
+Tipo de mantenimiento: (correctivo) 
+Realizar las siguientes acciones :
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de sensores y protectores
+ Reparación sistema de datalogger
+ Reparación sistema de transmisión
+ Reparación sistema de potencia. 
+              REVISION TRANSMISION

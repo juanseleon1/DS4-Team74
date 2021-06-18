@@ -1,0 +1,13 @@
+XE: REVISAR Y LIMPIAR BARRAJE SALIDA ESTATOR TRONERAS
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+
+SEPTIEMBRE 13 DE 2018.
+Se realizó el mantenimiento electrico semestral según el instructivo GCTRE0001. Se revisó el barraje de salida del generador, se revisan y se reaprietan conexiones, CT´s de medida,  y se realizó limpieza en todas las barra en general. Todo en condiciones normales.
+Realizó: Mario Morales - Sergio Areiza.
+Programó: William Lopera

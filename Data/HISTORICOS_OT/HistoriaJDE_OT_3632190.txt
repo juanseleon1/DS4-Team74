@@ -1,0 +1,108 @@
+
+30/10/2017
+PLANEADOR JEFE DE TRABAJO: YOFRED BERNARDO RODRIGUEZ VAHOS
+MP ANUAL G42 , BLOQUEO ELECTROMECANICO.
+ENTREGA DE LA UNIDAD G42 LUEGO DEL ANUAL DEL 30/10/2017 - 02/11/2017
+Se entrega unidad 2 de Guadalupe 4 para generación comercial luego de realizado el mantenimiento preventivo anual con número de consignación @135928, OT padre: 3632190 
+las actividades realizadas por las diferentes disciplinas fueron las siguientes:
+Anual Mecánico:
+üInspección rueda Francis
+üAdecuación mecánica de cruceta en cono de aspiración.
+üMantenimiento cojinetes
+üAdecuación tubería independiente para duchas de cuba móvil
+üVálvula de admisión
+üFrenos generador
+üDistribuidor
+üLubricación Forzada 
+üInterruptor y seccionador de unidad
+üTuberías de refrigeración de cojinete de turbina e inferior.
+üMantenimiento y cambio de aceite a la estación hidráulica 
+
+Anual Eléctrico:
+üAnillos rozantes 
+üBanco uno de trafos de potencia
+üSeccionador e interruptor de maquina 
+üTransformadores de potencial 
+üSeccionador y transformador de servicios auxiliares 
+üInterruptores y tableros de servicios auxiliares de unidad 
+üMantenimiento cuatrimestral
+üTransformador de excitación.
+üExcitación estática
+üRefrigeración de unidad y variador de frecuencia
+üMotores bomba de aceite estación hidráulica 
+üMotores compresores estación Hidráulica
+üLubricación forzada control y motores
+üServicios auxiliares de unidad, transformador 13/480, fusibles seccionador
+üCalefacción de unidad
+üInspección cabezas de bobina superiores e inferiores
+üNeutro
+
+
+Anual Electrónico:
+ümantenimiento de RTD cojinetes 
+üse realiza verificación lazos control temperaturas cojinetes
+ümantenimiento a las celdas del regulador de tensión
+üpruebas del regulador electrónico; fallas leves, fallas graves y alarmas
+üMetrología banco 1 de transformadores y unidad 2
+üMantenimiento cuatrimestral
+üMantenimiento al RV, RACK (se desmontó), tarjetas 
+üMantenimiento a los instrumentos del sistema de refrigeración. (RTD´S, y flujometros)
+üVerificación a transductores del RV
+üVerificación a presostatos de la estación hidráulica
+üVerificación de transductores de presión de la válvula de admisión y compresores de la estación hidráulica
+
+Pruebas de alarmas y disparos al Banco 1 de potencia.
+Se realiza protocolo de chequeos de alarmas y disparos a la unidad.
+
+Se realiza un giro mecánico hasta las 514 RPM para la revisión de todo el conjunto del generador e identificar posibles ruidos, en los diferentes puntos no se observó ninguna irregularidad ni tampoco ningún ruido.    
+posteriormente se hizo seguimiento de variables de funcionamiento con la maquina hasta energizada y luego cargada a 35MW ,40 MW y 75MW y 1.6 MVAR en cada etapa descrita se fueron realizando las mediciones de vibraciones y temperaturas de La unidad.
+Queda disponible para la explotación comercial a las 20:49 del 02/11/2017
+Ejecutan: Equipo de operación y mantenimiento UOG
+Bloqueos de Unidad: Fabián Giraldo - Fernando Yepes (Marlon Toro/ CCCG)
+Desbloqueos de Unidad: Gerardo Pérez - Esteban Hurtado (Gabriel Montaño / CCCG)
+Informa jefe de trabajo: Yofred Rodriguez 
+
+
+
+las actividades  a realizar  por las diferentes disciplinas serán las siguientes:
+Mecánico:
+ü Inspección rueda Francis.
+ü Mantenimiento cuatrimestral
+ü Mantenimiento cojinetes, válvula de admisión, frenos generadores, distribuidor, tuberías de refrigeración.
+ü Mantenimiento y cambio de aceite a la estación hidráulica 
+ü Mantenimiento tanque acumulador.
+Eléctrico:
+Pruebas al estator, rotor (resistencia aislamiento, IP, factor de potencia, DAR.
+Mantenimiento de:
+ü Anillos rozantes 
+ü Banco dos de trafos de potencia
+ü Seccionador e interruptor de maquina 
+ü Transformadores de potencial 
+ü Seccionador y transformador de servicios auxiliares 
+ü Interruptores y tableros de servicios auxiliares de unidad 
+ü Mantenimiento cuatrimestral
+
+
+Electrónico:
+ü mantenimiento de sensores de cojinetes 
+ü se realiza verificación lazos control temperaturas núcleo, devanados, cojinetes
+ü mantenimiento a RTD´S
+ü mantenimiento a las celdas del regulador de tensión
+ü pruebas del regulador electrónico; fallas leves, fallas graves y alarmas
+ü instalación de válvula 304 y pruebas de conexión y desconexión
+ü Metrología de la unidad
+ü Mantenimiento cuatrimestral
+ü Mantenimiento al RV, RACK (se desmontó), tarjetas 
+ü Mantenimiento a los instrumentos del sistema de refrigeración. (RTD´S, y flujometros)
+
+ jefe de trabajo: Yofred Rodriguez 
+Ejecutan: Alirio Hernández, Juan Caicedo, Camilo, José Montoya,  equipo, eléctrico, electrónico y mecánico.
+Bloqueos de Unidad: 
+Desbloqueos de Unidad: 
+
+
+
+
+
+
+

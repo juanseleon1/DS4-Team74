@@ -1,0 +1,53 @@
+2018/10/16 RUBEN ARBOLEDA
+Se crea OT para realizar actividades relacionadas con el cambio de trnasformadores del Banco 1.
+
+2018-10-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - ANDRES FELIPE RAMIREZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3775017, PASO:1
+Se realizó proceso de bloqueos en subestación correspondientes al banco 1, se abrió el interruptor de 230KV, se abrió los seccionadores y todos los 5 seccionadores se dejaron con perilla en posición local y la puerta con candado, No se colocó seccionador de puesta a tierra debido a falla en el mecanismo, se instaló 3 tierras portátiles en el portal. 
+
+2018-10-16 REALIZÓ: FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3775017, PASO:2    
+Se realizó adecuación de acometida para el desarme de los transformadores en el patio, se instaló un cable desde la bodega de los polos que requiere el contratista para el desarme de los transformadores.
+
+2018-11-19 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3775017, PASO:3
+Se inició con el apoyo en el armado de la GIS, se adecuó elementos para el armado
+
+2018-11-20 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3775017, PASO:4
+Se continuó con el apoyo en el armado de la GIS en la Fase R
+
+2018-11-21 REALIZÓ: JHONATAN ANDRES USME - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3775017, PASO:5
+Se continuó con el apoyo en el armado de la GIS del banco 1, se desarmo el andamio de la fase R y se armó en la fase S, y se inició con el armado en la fase S.
+
+2018-11-21 REALIZÓ: RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:5,1
+Se continuó con la fabricación de los manholes de inspección para el banco de transformadores 1
+
+2018-11-21 REALIZÓ: JHONATAN ANDRES USME - RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:5,11
+Se continuó con la fabricación de los manholes de inspección para el banco de transformadores 1
+
+2018-11-22 REALIZÓ: JHONATAN ANDRES USME - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3775017, PASO:6
+Se continuó con el armado de la GIS en la fase S del banco 1
+
+2018-11-22 REALIZÓ: RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:6,1
+Se continuó con la fabricación de los manholes de inspección para el banco de transformadores 1
+
+2018-11-22 REALIZÓ: FERNANDO ANTONIO RUIZ - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3775017, PASO:6,2
+Se realizo la instalación de los empaques para los manholes del banco de transformadores.
+
+2018-11-23 REALIZÓ: RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:7
+Se continuó con la instalación de los empaques para las escotillas de los manholes en el banco 1
+
+2018-11-26 REALIZÓ: RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:8
+Se finalizó la instalación de los empaques en las tapas de los manholes del banco 1
+
+2018-11-27 REALIZÓ: RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:9
+Se inició la instalación de las tapas para los manholes del banco 1. 
+
+2018-11-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3775017, PASO:10,1
+Se realizó la desconexión y el retiro de los tableros de imagen térmica del banco 1. 
+
+2018-11-28 REALIZÓ: RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3775017, PASO:10
+Se finalizó la instalación de las tapas para los manholes del banco 1, con lo que finaliza ésta labor.
+
+2018-12-04 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3775017, PASO:11
+Se realizó adecuación de cable para prueba de corto circuito con excitación independiente para la unidad 2, no se conectó ya que se requiere la unidad para pruebas con el regulador de velocidad nuevo. 
+
+2018-12-05 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3775017, PASO:12
+Se realizó apoyo en pruebas a los tableros de control del banco 1.

@@ -1,0 +1,11 @@
+18/06/2018 María Isabel Arias Rendón
+
+Realizar mediciones de vibraciones en la unidad para verificar estado de balanceo.
+Se medirían vibraciones con la maquina sin carga con excitación conectada y después sincronizada con carga nominal.
+
+2018-06-19 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3736554, PASO:1          
+Se realizó acompañamiento al personal de mantenimiento mecánico en la adecuación de pesos a la Unidad numero 7, para el balanceo con carga de la Unidad.
+
+2018/06/19 DIEGO BEDOYA
+Se realiza el montaje del peso segun recomendación del ingeniero Julio Zapata, se monta un peso de 5kg en el ventilador inferior junto al polo N°9. con este peso mejoró considerablemente la vibración de la unidad.
+el trabajo fue realizado por Oscar Vélez y Juan David Flórez

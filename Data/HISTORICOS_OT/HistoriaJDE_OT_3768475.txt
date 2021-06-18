@@ -1,0 +1,11 @@
+LUNES 24 DE SEPTIEMBRE 2018
+
+
+
+Referente al sistema contra incendio.
+El día 22/09/2018 se instala el panel de control PCIZ-HUMO y tarjeta (NFS2-640 )
+el cual controla y supervisa subsistema de extracción de humo, el equipo sincronizó de manera adecuada y emite voltajes idóneos de operación. entre los los dias 23 y 24 /09/2018 se realizó prueba de funcionalidad del panel de control 
+PCIZ-HUMO y los dispositivos de detección, alarma y control de incendio asociados al panel en mención, las pruebas fueron satisfactorias y se pueden revisar en formato de prueba en correo electrónico del Ing. Hector Gómez.
+Informó: Ing. Edwar ardila Sefair.
+Ejecutó:  Ing. Edwar Ardila Sefair y Operador Jorge Peñaranda.
+Coordinó: Ing. Hector Gómez.

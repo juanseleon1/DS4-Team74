@@ -1,0 +1,5 @@
+
+
+MAYO 02/2017
+
+Scada S/E tiene despliegues desactualizados, no muestra estado bombas drenajes y otros.

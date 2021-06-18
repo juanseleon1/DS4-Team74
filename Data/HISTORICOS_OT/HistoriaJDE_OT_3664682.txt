@@ -1,0 +1,4 @@
+2018-01-11 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3664682, PASO:1          
+Se realizó mantenimiento preventivo a los tableros de Servicios auxiliares DC de la subestación, se realizó limpieza general y una inspección termografica se encontró lo siguiente.
+NK3- TABLERO SERVICIOS AUXILIARES A 125 VCC Se evidencia un punto caliente se recomienda revisar empalme
+Se adjunta informe termografico a la OT.

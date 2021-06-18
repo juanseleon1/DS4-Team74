@@ -1,0 +1,7 @@
+
+FECHA: JUNIO 02 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+
+Debido a las frecuentes paradas por perdida de presión se analizan algunas variables durante estos paros, primero se encontró el parámetro 20.18 en 0, se corrigió a su valor normal, luego se compararon los datos de potencia, voltajes, corrientes, orden de cierre del 17K2, entre otras variables, se logro encontrar una indicación de apertura del contactor 17K2 por 100 mili segundos, se reviso el camino de alimentación de la bobina y se encontró un cable suelto en la bobina del contactor 16K1, se apretó y se deja en servicio. En la noche la falla volvio a ocurrir.

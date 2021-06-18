@@ -1,0 +1,24 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+MAYO 31
+
+Debido a incremento de niveles de material orgánico en la reja de entrada a la conducción Bocatoma-Tubería de presión Guadalupe III, fue necesario operar el rastrillo de manera continua y este tuvo una falla, lo que implicó reducir la generación en la cadena Guatron y desmontar el motor del equipo para reparación . Este motor se inspecciona eléctricamente y se encuentra bien en su bobinado y aislamiento ;se desarma para encontrar la falla interna (posiblemente rodamientos) y corregir para dejar funcional el equipo. De común acuerdo con el Centro de Control ,se solicita autorización a XM, por el acuerdo MME CREG 17 - 18 para la reducción en la generación de la cadena Guatron , en los períodos 19 al 22 , del 31 de mayo, OT: 3502018
+Atendieron: Equipos de Operación y Mantenimiento de la U.O. Guadalupe.
+Informó: Oscar Restrepo Álvarez
+
+
+FECHA. MIERCOLES 31 DE MAYO DE 2017.
+SOLICITANTES: MARLON TORO.
+FAVOR REVISAR RASTRILLO DE BOCATOMA GUADALUPE 3 PORQUE EL MOTRO ELECTRICO DE ESTE FALLO. MUCHAS GRACIAS.
+
+ATT: MARLON TORO.
+
+PROGRAMADOR:WILLIAM LOPERA
+
+
+NOTA:LA OT TIENE PASO MECÁNICO PARA SERGIO RAMÍREZ Y SU EQUIPO DE TRABAJO EN EL CORRECTIVO DE ESTE ASUNTO.
+
+01 DE JUNIO DE 2017
+Se revisa el freno del motor encontrando la bobina del freno quemada por esfuerzo mecanico y el motor frenado con rodamiento destruido, se desmonta el motor, se cambia rodamientos, se hace mantenimiento general y pruebas electricas al motor obteniendo resultados  satisfactorios. se monta nuevmente y se deshabilita la bobina de frenado electrico y se calibra y se deja el freno mecanico.
+
+William Lopera. 

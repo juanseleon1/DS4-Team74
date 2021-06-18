@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez Rios
+Fecha: 03 de Abril de 2017
+Síntoma: Terminar mantenimiento de la instrumentacion sismica con la actualizacion de firmware y sistema operativo de los equipos Basalt. Esta OT es prolongacion de tiempo de la OT N° 3412816

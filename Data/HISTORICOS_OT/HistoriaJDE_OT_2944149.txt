@@ -1,0 +1,6 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+02-12-2015
+PROGRAMADOR JOSE MONTOYA
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión,.
+Se realizó limpieza general del tablero de control de la válvula.
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS.

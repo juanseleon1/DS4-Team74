@@ -1,0 +1,5 @@
+
+
+ 09/06/2017. SERGIO OLIVARES D.
+
+ Se realizo conexion del equipo RDS, para medidas de rotores en linea, como tambien se retiro un porta-  escobilla para mandar a fabricar porque faltan 12 en total en todas las máquinas de segunda etapa. 

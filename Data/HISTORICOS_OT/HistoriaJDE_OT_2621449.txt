@@ -1,0 +1,5 @@
+
+FECHA: OCTUBRE 31 DE 2014
+
+EJECUTANTE: HENRY GIRALDO
+Se le adiciona agua al sistema de refrigeración, se encontró la presión en 1 bar y se deja en 2,5 bar.

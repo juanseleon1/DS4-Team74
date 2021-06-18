@@ -1,0 +1,15 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Procedimiento aplicable a los tableros de arrancadores y control de los compresores.  Realizar inspección visual de tapas flojas, puertas y cerraduras, bornes de potencia, borneras, terminales, peinetas, conexiones de potencia y cableado.   
+
+ESTA OT SALE PARA EL AIRE COMPRIMIDO, PERO SE DEBE INTERVENIR CADA COMPRESOR QUE DEPENDA DE EL.
+
+----------------------------------------
+FECHA: 2014-08-04
+EJECUTÓ: DAVIDON PEREZ - JHON J ORREGO - OLGA VIANA
+Se realiza mantenimiento al  sISTEMA  AIRE COMPIMIDO, tableros DE ARRANCADORES, MOTORES, CABLEADO DE POTENCIA y TABLEROS CONTROL DE LOS COMPRESORES DEL SISTEMA DE REGULADOR TURBINA (S2). Según IDM: GCP2E0017. No se encuentran averías en los equipos. Se diligencian planillas con los datos de Vol, Ies y Res. Finalmente se normaliza el subsistema quedando en condiciones normales de operación. 
+INFORMÓ: CRISTIAN GÓMEZ
+
+----------------------------------------

@@ -1,0 +1,8 @@
+2015-09-09. 
+
+CORREGIR EL PORCENTAJE DE APERTURA DE LA AGUJA 1 LA CUAL CON 10 MW TIENE UNA DIFERENCIA DEL 8% CON RESPETO A LAS DEMÁS AGUJAS. OCASIONANDO LA ALARMA AGUJAS FALLA INDICACIÓN. INFORMADO MANTENIMIENTO.
+
+2015-09-09.
+Se cambia válvula moog y se calibra mecanicamente quedando en condiciones normales de operación.
+Diego Bedoya
+Luis Eduardo Arcila 

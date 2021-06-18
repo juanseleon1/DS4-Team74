@@ -1,0 +1,14 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+24/JULIO/2014 MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan calibrados así: CTPL 8.31 VDC y CTPR 10.46  VDC   - KPH: 10.22 VDC.
+Nivel cojinete de turbina se encontró normal con respecto a la mirilla física.  No se le adiciono aceite, el patrón es 1 bar.
+
+No se pudo realizar la inyección de señales, por falta del calibrador de procesos. Cuando se presente oportunidad en baja carga se 
+realizara esta verificación de alarmas y disparos.
+
+Se realizó limpieza e inspección visual a las RTD del cojinete. 
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte

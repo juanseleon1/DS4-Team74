@@ -1,0 +1,5 @@
+ENE 30/2014 OT: 2461673 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edwin Lopera.
+Se corrigen las fugas en la tapa superior de la cuba.
+
+SOLICITANTE: Javier Giraldo FECHA: Enero 30/2014.
+Corregir fuga de aceite.

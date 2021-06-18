@@ -1,0 +1,9 @@
+Realizar pruebas y modificacion en la serie de alabes de la unidad, con los sensores inductivos nuevos 
+
+
+23/02/2015
+
+Se realiza la instacion de los 24 dispositivos y sensores para la nueva serie de alabes moviles, ademas se realiza verificacion del disparo en la unidad para garantizar que este sistema funciona, solo esta pendiente realizar prueba fisica con el personal mecanico retirando perno fusible y actuando el sistema
+
+Realizado por Wtobonl
+

@@ -1,0 +1,33 @@
+Datos de placa:         P = 40HP    V = 440vac    I = 47 A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:    Si        
+1.2. Revisión cableado: SI
+1.3.  Mantenimiento contactor: SI
+1.4. Revisión conexión: SI
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 0.43 Mohm
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  479 V
+       ST =   480 V                                                                
+       RT =   481 V
+       Corriente de arranque:  
+Fase R = 127 A
+       Corriente de marcha:  
+Fase R = 36.8 A
+Fase S =  37.4 A
+Fase T =  38.2 A                                                                               
+2.3. Temperatura excesiva carcaza: NO
+        Temperatura excesiva cojinetes: NO
+        Vibración anormal: NO
+        Ruido anormal: NO
+
+3. Calibración térmico control: 4 A
+
+4. Funcionamiento control normal: SI 
+
+5. Horómetro = 24.23 H
+
+6. Observaciones: Se realiza buenaimpieza a la gaveta de la motobomba y al cubiculo, y ademas se hace limpieza general al tablero de control.  

@@ -1,0 +1,12 @@
+DOMINGO 17 OCTUBRE/2014
+
+EL REGULADOR DE TENSION DE LA U2 DE MANERA REPETITIVA ESTA SACANDO ALARMA: FALLA PUENTE RECTIFICADOR Y FALLA CONDUCCION TIRISTORES.
+
+
+20/11/2014
+
+se realizan verificaciones en el programa del TRE y las CCM, ABB suiza envia prosedimiento para verificar la red de estos equipos y aun continua el problema, se requiere la unidad para realizar pruebas en vacio y con carga para poder determninar la caracteristica de este falla que aun continua, se recomienda no realizar reset de esta falla para evitar disparos inesperados de este sistema, se realiza nota al coordinar de operacion y su delegada
+
+Realizado por Wtobonl
+
+Se cierra por fin de año 2014 para continuar en otra orden el año 2015 

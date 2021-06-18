@@ -1,0 +1,6 @@
+Queda disponible la transferencia de los servicios auxiliares SA 4 unidades 7 y 8, en revisión se encontró cable suelto del microswiche que da indicación de interruptor 1 extraído, se corrige este problema se realizan ajustes a programa del PLC y se prueba la transferencia tanto en manual como en automático.
+Se realizaron varias pruebas y en todo el sistema operó normalmente.
+
+Realizó:
+Luis Eduardo Arcila
+Adonis Cadavid.

@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DAVISON PEREZ.
+
+Se realiza inspección al barraje de fase aislada, a las puestas a tierra y a la estructura. Se inspeccionan las RTD´s, se realiza mantenimiento al tablero de control del aire a presión y se verifican presiones en los ductos.
+Trabajo ejecutado por: Davison Perez, Oscar Montoya, Ronal Arango, Olga Viana
+
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS
+OT PADRE 3779285

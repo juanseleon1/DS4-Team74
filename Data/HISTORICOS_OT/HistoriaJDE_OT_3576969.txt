@@ -1,0 +1,12 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 24/08/2017
+
+MANTENIMIENTO CORRECTIVO, CAMBIO DEL MOTOR FALLADO DEL COMPRESOR POR UNO DE REPUESTO PARA TENER RESPALDO DE AIRE COMPRIMIDO PARA LAS UNIDADES 5 Y 6.
+
+
+
+NOVIEMBRE 8 DE 2017.
+Se instaló un motor que se solicito de la playas con las mismas especificaciones tecnicas del motor que se fallo, este motor antes de montarse se le realizó mantenimiento general, revisión de los rodamiento, limpieza con liquido dielectrico y pruebas de resistencia de aislamiento.
+el motor instalado fue probado con carga xcon una corriente de 8.5 Amperio por fase y la nominal es de 12 amperios, queda trabajando en condiciones operativas.
+William Lopera.

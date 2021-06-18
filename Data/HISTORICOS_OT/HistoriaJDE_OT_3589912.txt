@@ -1,0 +1,10 @@
+06 DE SEPTIEMBRE 2017
+
+Referente a la UPS N° 1: Continua pendiente revisar el modulo N°2, se encuentra alarmado y sin asumir carga.
+
+ Informa: JOHN JAIRO GONZALEZ V
+                GUILLERMO ECHEVERRY
+     JORGE MARIO PEÑARANDA
+ 08 SEPTIEMBRE DE 2017
+
+Al revisar conexionado, chequear tensiones y hacer seguimineto de cableado y control en la UPS, se encuentra abierto el portafusible, con fusible abierto del modulo Nº2, borne positivo, se normaliza y el módulo queda operativo.  ejecutó Turno 2 de Operación.

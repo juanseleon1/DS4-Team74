@@ -1,0 +1,11 @@
+08/06/2018 - 8:00 am.
+
+Por identificación del operador del Centro de control se detecta deficiencia en la potencia activa programada en control conjunto 40 Mw pero aparece la Unidad G35 en 24 Mw, se verificó fisicamente en la Unidad y se encuentra el Regulador de Velocidad alarmado con alarma leve y se procede a verificar y se encuentran agujas prioritarias 1 - 3 abiertas y 2 - 4 cerradas, se detecta el actuador del inyector nro. 4 frio, se procede a cambiar de prioridad de inyectores y el actuador del inyector nro 4 no actua, se pide al Centro de Control que baje carga a esta Unidad para realizar Solicitud de Trabajo.
+
+Se solicita diagnosticar y corregir.
+
+Informa: Turno 3 de Operación Mauricio Caicedo - Wilson Arango Bedoya.
+
+08-06-2018
+PROGRAMADOR JOSE MONTOYA
+SE REVISA EL SISTENA ELECTRONICO CORRESPONDIENTE A LA AGUJA 4 DE LA UNIDAD, SE OBSERVA DRIVER MALO, SE CAMBIA SE REALIZAN VERIFICACIONES DE APERTURA Y SE GIRA HASTA SINCRONIZAR, QUEDA TRABAJANDO BIEN.

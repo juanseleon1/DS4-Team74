@@ -1,0 +1,84 @@
+2018/05/02 RUBEN ARBOLEDA
+Se crea ésta OT para realizar apoyo por parte de la central para el montaje de la GIS en las 3 fases del banco 4.
+
+2018-05-02 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:1          
+Se realizó acompañamiento y aprendizaje en el proceso del montaje de las GIS del banco 4.
+
+2018-05-03 REALIZÓ: JHONATAN ANDRES USME - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3720946, PASO:2          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-04 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:3          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-07 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:4          
+Se realizó apoyo y acompañamiento al personal de montajes en el banco 4 para el montaje de la GIS.
+
+2018-05-08 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:5.1          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-10 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:7.1          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-11 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:8          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-14 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:9          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-15 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:10          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3720946, PASO:11          
+Se realizó movimiento del cable de 13.2Kv desde primera etapa hacia el transformador de excitación de la Unidad 7, para realizar prueba de corto circuito en banco de transformadores 4 en próximos días. 
+
+2018-05-16 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3720946, PASO:11.1          
+Se realizó la desconexión del barraje de 13,2KV en el transformador de excitación de la Unidad numero 7 y se conectó el cable de 13.2Kv para tener excitación independiente para energizar el banco 4 y realizar pruebas.
+
+2018-05-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:12          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:13          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-18 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:14          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-19 REALIZÓ: EDWAR ALEXANDER LONDOÑO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3720946, PASO:15          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-20 REALIZÓ: EDWAR ALEXANDER LONDOÑO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3720946, PASO:15          
+Se continuó con el armado de las GIS del banco 4
+
+2018-05-20 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3720946, PASO:16-16.1          
+Capacitación sobre la GIS
+
+2018-05-22 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:18          
+Se realizó apoyo al personal de montajes en la limpieza general de las celdas de los transformadores.
+
+2018-05-23 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3720946, PASO:19          
+Se realizó apoyo al personal de montajes en la limpieza general de las celdas de los transformadores.
+
+2018-05-24 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3720946, PASO:20          
+Se realizó apoyo al personal de montajes en la limpieza general de las celdas de los transformadores.
+
+2018-05-25 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - JUAN CARLOS GRANADOS - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3720946, PASO:21          
+Se realizó corto circuito en para realizar prueba de corto circuito largo desde la Unidad 7. 
+en las borneras de control, caja: CT-T4, Se instala puente de 4 borneras en X4 Bornes 1,2,3,4
+En cable de potencia se cortocircuitan las 3 fases, se instalan puentes entre: Fase R-S y Fase S-T
+En el portal se retiraron las tierras instaladas, se verificó pararrayos y bajantes; se encuentran en buen estado. 
+En casa de maquinas se realizó medida de IP a: 
+Barraje de Unidad 8: 614MOhm- IP: 1,27
+Barraje de la Unidad 7: 763 MOhm - IP: 1,28
+Se retiraron tierras del circuito de 13,2KV para alimentación de transformador de excitación de Unidad 7 independiente (desde interruptor generador asincrónico), 
+Transformador de Excitación Unidad 7 + Cables: 4,16MOhm, se puso a calentar el transformador de excitación para mejorar aislamiento. 
+
+2018-05-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3720946, PASO:24          
+Se realizó corto circuito en para realizar prueba de corto circuito largo desde la Unidad 7. 
+en las borneras de control, caja: CT-T4, Se instala puente de 4 borneras en X4 Bornes 1,2,3,4
+En cable de potencia se cortocircuitan las 3 fases, se instalan puentes de tierra, éste proceso se habia hecho en dias anteriores, pero los puentes fueron retirados por personal de T&D para aterrizar los otros bancos y realizar pruebas de los bujes.
+
+2018-05-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3720946, PASO:25          
+Se realizó acompañamiento general en las pruebas de corto circuito largo, se retiró los puentes tanto de control como potencia realizados en Subestacion para realizar prueba de tensión controlada.
+
+2018-06-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3720946, PASO:26          
+Se normalizó el transformador de excitación de la Unidad 7, se retiró el cable de 13.2Kv y se dejó ubicado en la bandeja portacables, también se realizó la desconexión en el extremo del interruptor del generador asincrónico y se instaló el cable del tranformador del generador asincrónico, se realizó la conexión del barraje del tranformador de exitación y se tapó dejandolo en condiciones normales.

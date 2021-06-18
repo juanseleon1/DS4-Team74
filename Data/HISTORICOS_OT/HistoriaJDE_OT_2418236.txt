@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL ESTATOR GENERADOR CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418236 PROGRAMADOR: JRODRIGL EJECUTA: DAVID ATEHORTUA
+
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados a los radiadores.
+Se inspecciono los instrumentos asociados al sistema contra-incendio del generador y se inspecciono los cables y conexiones de las RTD´s dentro del recinto del generador (radiadores).
+
+Informa : Jorge Rodríguez

@@ -1,0 +1,5 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 02-05-2017
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación,Descarga y verificación de datos de la estacion.

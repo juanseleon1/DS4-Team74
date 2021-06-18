@@ -1,0 +1,6 @@
+HEILER PALACIO OCTUBRE 31 2018
+SE DIO PARO EL CHILLER 2 POR PRESENTAR TEMPERATURA ALTA A LA SALIDA DE LA IPPA2 
+
+2018/11/02 DIEGO BEDOYA
+es revision de la IPAA2 se evidencia que no estaba realizando el flushing, por tal motivo la temperatura de la salida era alta, se procede a trabajar con normalidad el chiller.
+el trabajo se realizo con el acompañamiento del operador Carlos Salazar.

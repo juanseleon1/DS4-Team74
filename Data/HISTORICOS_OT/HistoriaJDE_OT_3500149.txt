@@ -1,0 +1,8 @@
+Fecha: 30/05/2017
+Persona que informa: Jhon Jairo Correa
+Favor revisar el controlador de la unidad 2 no comunica el suiche con el puerto del controlador de unidad dejando pendiente alarma P5 suiche CTD 5 desconectado y P2 suiche 2 CTD unid 1.
+
+PLANEADOR:JOHNSON GOMEZ
+FECHA: SEPTIEMBRE 20 DE 2017
+
+SE CIERRA ESTA OT SIN SOLUCION POR SINIESTRO 

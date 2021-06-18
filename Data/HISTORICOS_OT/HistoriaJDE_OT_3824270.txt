@@ -1,0 +1,18 @@
+Solicitante-Planeador: 4994 
+Aprobador: 356921
+Fecha de solicitud: 01-04-2019
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+
+Inspección general del estado de la estación
+Cambio de desecante de gabinetes
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Cambio de DCP CR-10X por CR-800
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor
+Realización de aforo
+Calibración de pluviómetro
+Cambio preventivo en infraestructura civil o mecánica de la estación
+Realización de perfil topografico.

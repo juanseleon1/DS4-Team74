@@ -1,0 +1,45 @@
+MAYO 17/2018 MARIA ISABEL ARIAS RENDON 
+
+Posterior al vaciado de la tuberìa y a los respectivos bloqueos realizar cambio de sellos aguas arriba
+
+
+2018/05/20 JAIME RAMIREZ
+En la fecha comprendida entre los días 18 , 19 , y 20 de mayo de 2018 , se realizó el cambio de sellos de la unidad 7 de Guatape , porque se evidencio que tanto el de aguas arriba como el de aguas abajo  instalados en el mes de enero de 2018, no se estaban aplicando y se requería un buen sellado de estos para la reparación  de tres inyectores  que presentaban fuga de agua por los tubos testigos de esta unidad.
+
+El vaciado de la tubería se inició el día viernes 18 de mayo , y al día siguiente sábado 19  de mayo a las 8: 00 am se inició el trabajo .
+
+Al desmontar se encontró que los sellos aguas arriba , estaban en buen estado , pero separados uno del otro  ósea que en ningún momento aplicaron , lo único que se observó raro en ellos es que uno de los empaques externos del sello móvil tenía un sobrante de aproximadamente 5 centímetros esto hace que el sello se amarre  y no se deslice los 2,5 mm  para su aplicación con el sello fijo .
+
+Adicionalmente se observa que este sello al operarlo abre más de 5 mm  que no es lo normal para este caso .
+
+A este sello le retiramos todos los empaques y lo montamos en su respectiva brida  y le hicimos movimientos circulares de 360 °  y no mostro ninguna pega que nos indicara por lo menos que estuviera ovalado .
+
+Tampoco se observó entalladura alguna del sello contra la pista de la brida .
+
+Solo se encontraron unas entalladuras en la arista interna del maquinado en acero inoxidable del cuerpo de la válvula, pero estas en ningún momento fueron causa para que los sellos no aplicaran.
+
+Queda por analizar que las ocasiono y si  la causa fue determinante en la no aplicación de ellos.
+
+Debido a que este sello se encontraba en buen estado, se decidió cambiarle los empaques por otros de 10 mm calibrado  y montarlo en el lado de aguas abajo con la brida que tenía montada la válvula esférica y que no sufrió ningún defecto, no siendo esta la tercera pieza complementaria de ese matrimonio ( sello fijo , sello móvil y brida )
+
+Se hicieron pruebas de operación aplicación y desaplicación y funcionaron correctamente .
+
+
+Al desmontar los sellos aguas abajo , se evidencio un desgaste agresivo en todo el diámetro de ambos sellos , típica falla  de cuando se opera la válvula de admisión con ellos aplicados 
+
+allí curiosamente y a la misma altura de los de aguas arriba encontramos las mismas entalladuras en la arista interna de acero inoxidable del cuerpo de la válvula , pero igual esta no es una causa para que los sellos en algún momento no apliquen, pues su movimiento  nunca  llegara a tocar en  esta zona . 
+
+se montó allí un juego se sellos nuevos con su respectiva brida ( tres piezas del matrimonio  reparados en el taller industria SAIT  ) 
+
+igualmente se realizaron operaciones de aplicación y desaplicación  y funcionaron correctamente, pero se observó una separación entre sellos  de más de 5 mm que nos es normal para este caso  y se hace necesario hacer un control dimensional de otro juego reparado que está en la bodega. Para determinar porque esta anomalía y hacer ajustes antes de su puesta en servicio.  Que no es malo pero no se ajusta a la realidad de los planos. 
+
+finalmente se hizo una operación de apertura y cierre de la válvula de admisión en la sala de máquinas , para observar que los sellos  no rozaran con el cuerpo de la válvula y esta se encuentra sin problema.
+
+además  en el vástago del bloqueo mecánico de la válvula de admisión  ( zona que hace contacto con el cuerpo de la válvula )se corrigió una entalladura considerable , producida en algún momento que se desbloqueó el cilindro  para su apertura  y no se extrajo lo suficiente como para dejar descender libremente la válvula y esta abrió rozando la punta interna  con el cuerpo de la válvula, ocasionándole el defecto ya mencionado. 
+
+La válvula de admisión se instaló en el sitio de trabajo el día sábado 19  de mayo y el día domingo  20 se terminó su instalación y llenado de tubería .
+
+Feliz noche 
+
+Jaime Alberto Ramírez R  
+Líder operación integrada  

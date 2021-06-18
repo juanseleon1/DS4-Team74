@@ -1,0 +1,5 @@
+2018/07/05 RUBEN ARBOLEDA
+En la OT anterior de mantenimeinto preventivo se encontró pegado el contactor, fallado un fusible y el tranformador de 480/120VAC, se realizó el cambio del contactor y del fusible, queda pendiente la compra de un transformador. 
+
+2018/12/30 RUBEN ARBOLEDA
+No se ha conseguido el transformador, por cierre de fin de año se cierra la OT, se seguirá cotizando para su reemplazo.

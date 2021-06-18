@@ -1,0 +1,20 @@
+MANTENIMIENTO BANCO DE BATERIAS Y UPS DE LOS SERVICIOS AUXILIARES DE LA PLANTA TR
+
+
+NOVIEMBRE 10 DE 2016
+Se realizaron las siguientes actividades en el mantenimiento preventivo y correctivo, desarrollado en los siguientes equipos:
+UPS y CARGADORES: Se realizó mantenimiento preventivo a las diferentes tarjetas electrónicas que conforman la UPS, conexiones de control y de potencia, y a todos los demás elementos que conforman el equipo. En el cargador se inspecciono, limpio y se verifico los módulos electrónicos, puntos de conexión y el sistema de control. 
+Nota: Al realizar la prueba de autonomía del banco de baterías, se detectaron las siguientes fallas en el monitor de la UPS:
+-Red no idónea
+-Pre alarma baterías
+-Reserva no idónea 
+-Fin descarga tensión baterías
+Al identificar las fallas mencionadas y al verificar que la UPS, no respondía a la carga que tiene asignada y que los monitores de visualización y de control en sala de operación de las maquinas no respondía, se procedió a revisar las condiciones de servicio de las baterías y se identificó lo siguiente:  
+-Siete baterías de las dieciocho que conforman el banco, presentan voltaje anormal muy por debajo del voltaje de flotación como seria lo normal.
+-Presentan deterioro y ruptura en el revestimiento protector.
+En la siguiente ruta del servidor se anexan los registros fotográficos del deterioro de las baterías y su respectivo cambio: 
+<\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\Brs>
+Al identificar estas fallas tan visibles y notorias, se procedió a realizar el respectivo cambio del banco de baterías, ya que no se contaba con respaldo eléctrico para el sistema de monitoreo, de las maquinas generadoras desde sala de control.
+Nota: Se realiza el cambio, se deja conectado y en voltaje de igualación durante veinticuatro horas según recomendaciones del fabricante para garantizar un voltaje de flotación adecuado. Después de verificar las adecuadas condiciones del banco se procede y se realiza la prueba de autonomía banco de baterías UPS. Dando los resultados esperados garantizando la confiabilidad y la continuidad del servicio eléctrico, en la siguiente ruta del servidor quedan anexados los resultados: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\Brs  >
+
+PROGRAMÖ: Carlos Forero.

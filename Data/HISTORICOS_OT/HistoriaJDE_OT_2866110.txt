@@ -1,0 +1,6 @@
+03/SEPTIEMBRE/2015
+Esta OT se saca para realizar el trabajo de cambiar el visor fisico de nivel de aceite del tanque acumulador de la unidad G36. El visor que se tiene instalado actualmente se le rompio el vidrio y por ello no se puede visualizar el nivel del tanque.
+Este nuevo instrumento  tiene la ventaja de ser de acero inxidable, valvulas de corte en ambos extremos y visualizacion con paletas magneticas libres de contacto con el aceite.
+
+
+Nota: se monta el mencionado visor y se comprueba su nornmal funcionamiento

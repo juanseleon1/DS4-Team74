@@ -1,0 +1,9 @@
+FECHA: Septiembre 27/2018PROGRAMO: Daniel PalaciosEJECUTO: Olga Maria Viana, Héctor Darío Puerta y Luis A Pacheco
+
+En las celdas de MT de 4.16 KV lado de baja del generador y en las celdas de MT 13.2 KV lado de alta del transformador se realizan las siguientes actividades:
+Se abren puertas y se chequean con el tester de ruido la ausencia de tensión, se descargan los cables secos a tierra , se realiza inspección visual y se limpian los barrajes de potencial y los cables secos de MT, se verifica el buien estado de las puestas a tierra, cableado, conexiones y componentes electricos como CTs, PTs y DPS, se hace inspección visual a los fusibles y sus conexiones, se aspiran y limpian cubículos.
+Trabajo ejecutado por: Olga Maria Viana, Héctor Darío Puerta y Luis A Pacheco
+
+FECHA:26 Y 27 DE SEPTIEMBRE DEL 2018 PLANEADOR:LUIS FEDERICO ALVAREZ ALVAREZ, PROGRAMADOR: DANIEL PALACIOS.
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y LIMPIEZA DE CELDAS DE MEDIA TENSION, SE INSPECCIONAN VISUALMENTE LOS BARRAJES, SOPORTES Y ESTADO DE LA PINTURA, BORNES Y CONEXIONES,TERMINALES DE MEDIA TENSION Y SE LIMPIAN CON ALCOHOL INDUSTRIAL, TAMBIEN SE VERIFICAN EL BUEN FUNCIONAMIENTO DE LOS MINIBREAKER Y BORNERAS DE CONTROL, CALEFACTORES Y ACCESORIOS, PUERTAS BISAGRAS Y LAS BARRAS DE NEUTRO FASES Y CONEXION A TIERRA, REALIZAR LAS PRUEBAS ELECTRICAS DE RUTINA Y REGISTRAR LOS DATOS OBTENIDOS.

@@ -1,0 +1,12 @@
+22/12/2017 - 14:55.
+
+Por efectos de salida forzada de la Unidad TRU2, se hace revisiòn y seguimiento a traves del sistema de Contraincendios apoyodos por el personal de Interfire y se detecta Instrumento de temperatura (Termostato)con Set de disparo descalibrado. 
+
+Informa: Wilson Arango Bedoya - Tecnologo Operador.
+
+22/12/2017 
+programador jose montoya
+Referente ~a la descarga CO2 ocurrida en la Unidad~ 2~ (TRU2) se revisa sistema contra incendios, se encuentra falla en sensor de temperatura No. 6 módulo 30 correspondiente al recinto del generador, se realiza acompañamiento al personal de Interfire durante la revisión de la anomalía, se encontró que el sete de disparo de dicho termóstato estaba ajustado en 41ºC, se procede a anular desde el control de la supervisión del sensor No. 6, quedando habilitadas solo 7 de los 8 sensores instalados~ en este recinto, se normaliza el sistema por parte del personal de Interfire, quedando habilitado por el banco de respaldo de CO2. Se hace solicitud de trabajo # 3662935                                                                             Informa: Luis Adrián Cardona - Sergio Areiza - Wilson Arango B.
+
+Central Troneras : Referente a la descarga ocurrida en el generador Unidad No. 2, se encuentra termostato No. 6 del módulo 30 activado el cual ocasionó paro de máquina y descarga de los cilindros inicial y extendida, se procede a revisar módulo y termóstato 30, encontrando el indicador de temperatura del termóstato 6 seteado a una temperatura inferior a la establecida.                          Nota : Normalmente el indicador de temperatura se debe encontrar en 96 °C disparo sistema contra incendio. En este caso el indicador estaba en 40 °C, lo cual ocasionó disparo de CO2 y paro. Pendiente por revisar indicador, módulo y termóstato en oportunidad de paro de máquina. Se deja aislado termóstato 6 y módulo 30. Se deja el sistema en funcionamiento normal con la protección de respaldo.                                                                                                                                   Realizó: Edgar Naranjo y Duván calderón - Interfire S.A.S.
+queda pendiente verificar el sensor de temperatura con el baño termico  cuando la maquina este parada.

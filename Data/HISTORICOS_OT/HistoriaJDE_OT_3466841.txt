@@ -1,0 +1,6 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION _____  DE LA CENTRAL PORCE II.
+
+AGOSTO 16 DE 2017
+OT: 3466841
+DIAGNOSTICO: Las mediciones del estado vibracional de la unidad mediante equipo externo no son válidas, debido a que aún no se han realizado las correcciones y ajustes al sistema de monitoreo VibroSystM referencia ZOOM 5, según recomendaciones del informe entregado a la central en julio de 2015 por la unidad operación y mantenimiento.
+INFORMÓ: Pablo Gómez

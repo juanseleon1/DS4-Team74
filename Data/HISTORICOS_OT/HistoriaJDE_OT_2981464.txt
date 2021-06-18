@@ -1,0 +1,46 @@
+2016-01-07 DIEXER CARO
+
+SE GENERA ORDEN DE TRABAJO PARA LA COMPRA DE LAS ELECTROVALVULAS SOLENOIDES 20PL-1 Y 20PL-2 DEL SISTEMA ATOMIZACION PURGA DE LA UNIDAD 2
+
+OT: 2981464
+
+EQUIPO A COMPRAR: ELECTROVÁLVULA SOLENOIDE              
+
+PROVEEDOR SUGERIDO: IOMICROM SAS
+
+CODIGO OW DEL PROVEEDOR: 724857
+
+DIRECCION DE ENTREGA: A42
+
+CODIGO DESCRIPCION: 108464
+
+DESCRIPCION 1: INSTRUMENT, MEDICIÓN Y CONTROL 
+
+DESCRIPCION 2: ELECTROVÁLVULA SOLENOIDE HV2722451              
+
+CANTIDAD: 2
+
+UNIDAD DE MEDIDA: UN
+
+VALOR UNITARIO: 5.605.750
+
+
+ANEXOS:
+
+
+Electroválvula Solenoide              
+Tipo: 4 vías / 2 posiciones
+Conexión a Proceso: 3/8" NPT Hembra
+Presión de Operación: 0 - 250 PSI
+Cuerpo: Bronce
+Voltaje: 125VDC                                                       
+Potencia: 26,6 Watts                                                    
+Sellos: NBR y FKM  
+Serie: HV2722451 Aprueba de Explosión 
+Elementos para ser instalados en los actuadores 20PL-1 y 20-PL-2 de la Unidad de Generación # 2, para uso continuo en operación con combustible líquido, los elementos se recibirán con los accesorios de conexión a proceso de 3/8 NPT A 1/2 OD Numero de parte del racor 2507-810-1-6 Swagelok, instalados en los puertos de operación de las Válvulas  
+
+ELEMENTOS PARA LA CENTRAL TERMOSIERRA MODULO ATOMIZACION U2 VALVULAS 20PL-1 y 20PL-2 
+
+
+2016-05-23 DIEXER CARO
+SE MONTAN ELECTROVÁLVULAS DEL SISTEMA DE PURGA MODULO DE ATOMIZACIÓN DE LA UNIDAD 2, SE CONEXIONAN MECÁNICA Y ELÉCTRICAMENTE, AL MOMENTO DE PROBAR EL FUNCIONAMIENTO, ESTAS NO RESPONDEN, SE CONTINUARA CON LA HABILITACIÓN DE ESTAS.

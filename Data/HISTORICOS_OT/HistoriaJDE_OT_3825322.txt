@@ -1,0 +1,14 @@
+2019/04/02 RUBEN ARBOLEDA
+Se crea OT para realizar el movimiento de las baterias de la UPS.
+
+2019-04-02 REALIZÓ: OSCAR ALIRIO GIRALDO - OMAR SANCHEZ (OPERADOR),  PROGRAMO: RARBOLG OT: 3825322, PASO:1          
+Se inició con la adecuación del Rack para las batería.
+
+2019-04-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3825322, PASO:2          
+Se empeiza con la adecuacion del rack y el cableado de las baterias de la UPS para su traslado al cuarto del banco de baterias 1 y 2 de las unidades.
+
+2019-04-05 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3825322, PASO:3          
+Se continua con la adecuacion de los elementos para el cambio de lugar del banco de batarias UPS.
+
+2019/05/24 RUBEN ARBOLEDA
+Se continuará las labores en maximo, debido a que se requiere la compra de un cable 1/0 para realizar la instalación.

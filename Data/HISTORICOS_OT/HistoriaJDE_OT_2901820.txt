@@ -1,0 +1,9 @@
+2015-10-13. JUAN CARLOS DUARTE MUÑOZ.
+
+REVIZAR EN LA O.S. SEÑAL: "U1-8.126 *REG. VEL. CONT.FRE. ORDEN DE OPERADOR". SE PRESENTA CON LA UNIDAD EN PARO PARCIAL O CON LA UNIDAD PARADA, 
+EN LA LISTA DE EVENTOS, LLENANDO VARIAS PAGINAS.
+
+2015-10-21
+
+se encuentra canal malo en la tarjeta DSDI-110A 
+Se cambia el canal de la U1-8.126 a la U1-8.128 tanto en bornera como en programacion quedando en funcionamiento normal. 

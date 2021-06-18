@@ -1,0 +1,28 @@
+MP ANUAL, EQUIPOS:
+263518 REGULADOR TENSION 1 TRT1 U1 G3
+263519 REGULADOR TENSION 2 TRT1 U1 G3
+263520 REGULADOR TENSION 1 TRT2 U2 G3
+263521 REGULADOR TENSION 2 TRT2 U2 G3
+263522 REGULADOR TENSION 1 TRT3 U3 G3
+263523 REGULADOR TENSION 2 TRT3 U3 G3
+263524 REGULADOR TENSION 1 TRT4 U4 G3
+263525 REGULADOR TENSION 2 TRT4 U4 G3
+263526 REGULADOR TENSION 1 TRT5 U5 G3
+263527 REGULADOR TENSION 2 TRT5 U5 G3
+263529 REGULADOR TENSION 2 TRT6 U6 G3
+
+09/08/2018
+OT 3748979
+
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+Se realiza una verificación a todos los transductores del regulador de tensión, esta verificación se hace simulando los valores correspondientes a cada uno de los transductores y comprobando su correcto funcionamiento, durante la verificación se encontró la señal de salida de los transductores B04, fuera de Rango, se procedió a cambiar dichos transductores y a normalizar regulador
+
+Se realiza inspección y limpieza al tablero, borneras y cableado asociados al regulador de tensión.
+
+REALIZO: GRUPO DE ELECTRONICA

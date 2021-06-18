@@ -1,0 +1,16 @@
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717969.
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación al cableado, todo se encuentra dentro de los parámetros normales y operativos.
+La bornera TB 105 tiene los siguientes bornes abiertos: 119-120-129-130.
+
+La bornera TB 106 tiene los siguientes bornes abiertos: 101 a la 132.
+
+La bornera TB 107 tiene los siguientes bornes abiertos: 101 hasta 115 y 118 hasta 118.
+
+En la bornera TB 127 la RTD Nº 4 Fase C, desconectada y con tarjeta de medida erronea.
+
+Realizo: Julio Cesar Parra, Neiro Fabian Pérez.
+
+
+
+XL: LIMPIAR Y VERIFICAR INSTRUMENTACION GEN +TCIG, DE LA UNIDAD 4 P3.

@@ -1,0 +1,28 @@
+
+REALIZAR PRUEBAS ELECTRICAS AL TRANSFORMADOR 13.2/44 KV DE LA CENTRAL LA HERRADURA.
+REPORTO:GULILLERMO ORTIZ.
+INFORME POR PARTE DEL INGENIERO CESAR TOBAR DE OPERACION Y MANTENIMIENTO:
+
+CESAR ALFONSO TOVAR ARIAS Reporte de pruebas eléctricas Transformador de potencia de la PCH la Herradura 27/03/2019
+
+Buen día a todos, reciban un cordial saludo.
+
+Durante el día 28 de febrero del presente año se realizaron al transformador de potencia de la PCH la Herradura  pruebas eléctricas, cromatografía de gases con equipo DGA portátil (MYRKOS) y rigidez dieléctrica del aceite a solicitud del equipo de mantenimiento de la dirección pequeñas centrales, debido a que en las pruebas fisicoquímicas al aceite se detectó que el color del aceite se encuentra en un valor alto según la norma IEEE C57.106-2015 tabla 2 y 4,  por tal motivo se ejecutaron las siguientes pruebas especiales:
+
+ Factor de potencia del aislamiento 
+ Capacitancias cl+chl,cl,chl; ch+chl,ch, chl
+ Resistencia óhmica de devanados
+ Corriente de excitación (balance magnético)
+ Impedancia de cc
+ Relación de transformación
+ Desmagnetización del núcleo.
+ Espectroscopia dieléctrica (DIRANA)
+ Rigidez dieléctrica del aceite
+ Cromatografía de gases con DGA portátil (myrkos)
+
+En las pruebas de resistencia óhmica, corriente de excitación, impedancia de CC, TTR, Factor de potencia del aislamiento y capacitancias no se observan resultados anómalos o que indiquen la presencia de algún defecto o falla, los parámetros medidos en las pruebas antes mencionadas se encuentran acordes a los resultados históricos. sin embargo la prueba de espectroscopía dieléctrica nos muestra un grado alto de humedad en el aceite, a su vez la prueba de rigidez dieléctrica del aceite nos muestra un valor promedio de 46,6 kV lo cual está dentro de los valores admisibles para este equipo según la tabla 3 de la norma IEEE c57.106-2015, de igual forma la cromatografía de gases realizada con el equipo DGA portátil (myrkos) arrojo resultados que podemos considerar aceptables y ubican el equipo en condición 1 de la tabla 3 de la norma IEEE c57.104-2008 por lo cual se considera que el equipo se encuentra en aparente buen estado y puede continuar operando pero recomendamos revisar el estado del secador de sílica y verificar que no exista algún tipo de fuga de aceite en el transformador que permita la entrada de humedad del exterior, también solicitamos muy amablemente que nos compartan los resultados de las próximas pruebas fisicoquímicas y cromatográficas.
+
+los datos de las pruebas quedan almacenados en la nube de One drive en la cual todos los ingenieros electricista de la dirección pequeñas centrales tienen acceso y en las bases de datos de cada equipo de prueba.
+
+SE PROCEDE AL CIERRE DE LA ORDEN DE TRABAJO
+INFORMA:GORTIZG

@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: SEPT19-205
+EJECUTANTE: GERMAN ECHAVARRIA Y PEDRO ROBAYO
+
+
+
+Se abre el circuito 743 a als 10:10 Y alas 10:14 sale el 742 quedando por fuera el parque ,se hace una revision al rele y se observa que fue una falla a tierra en la fase a  alos 98.89 Kmm nuevamente se cierra y vuenve a salir pero el rele mustra en la fase C  a 96.22 km se vuelve a cerra  alas 10:55 y hasta el momento no se vuelto a salir y tampoco han dicho si se encontro algo en la linea y se normaliza el parque a las 11.22  

@@ -1,0 +1,2 @@
+2018-06-21 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3717938, PASO:1          
+Se realizó mantenimiento al motor de uma 5 transformador c/m gt    CORRIENTE: R:8,3, S:8,2, T:7,6, VOLTAJES RS:450, ST:449, TR:449,TEMPERATURA MAXIMA DE MOTOR 88,4°C Salida del contactor, se encuentra en nivel 2 de criterios NETA, se realiza OT Correctiva.

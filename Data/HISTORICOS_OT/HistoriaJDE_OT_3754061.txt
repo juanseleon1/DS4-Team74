@@ -1,0 +1,4 @@
+
+AGOSTO 10/2018 OT:3754061    PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta paro del aerogenerador por Safety Chain, también se presenta falla comunicación, esta ultima falla borra al dar Reset al safety Chain, durante el paro se disparo el mini breake 20F2, al tratar de reponerlo se disparaba, se verifica en la góndola los módulos arrancadores de las bombas de aceite de la caja multiplicadora y sistema hidráulico pero se encuentran bien, se realiza prueba en los arrancadores de la yaw y se encuentra el modulo de la mitad fallado, se realiza el cambio, se aprovecha el paro y se colocan los soportes de refuerzo en la veleta y el anemómetro, se deja en servicio el aerogenerador.

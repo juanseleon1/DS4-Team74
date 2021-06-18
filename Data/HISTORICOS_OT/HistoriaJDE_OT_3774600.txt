@@ -1,0 +1,17 @@
+PLANEADOR: ANGEL ADONIS
+PROGRAMADOR: RMONTOYG
+FECHA: 14-10-2018
+OT: 3774600
+
+Referente al sistema N°2 del TAST UNIDAD N°1: VERIFICAR PRESION DIFERENCIAL ALTA
+ 
+Informa y ejecuta Renato Montoya, Turno 2, grupo Mecánico.
+
+INFORME:
+
+Referente a la Unidad 1 / subsistema 2 TAST
+Se verifica funcionamiento encontrando la presión diferencial muy alta, se inspecciona suciedad del filtro el cual se encontro limpio por que ya se había lavado. Se encontró obstruido con vaselina una de las tomas del instrumento que muestra la presión deferencial. Se retira dicha obstruccióny se realizan pruebas de funcionamiento, quedando en una presión diferencial de 0,03 bar.
+Queda pendiente verificar el funcionamiento de la válvula AA07 ya que presenta falla; se deja dicha válvula en manual y abierta un 30% aproximadamente.
+
+Realizó: Equipo mecánico y Equipo de operación.
+Informo: Renato Montoya

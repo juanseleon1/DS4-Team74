@@ -1,0 +1,7 @@
+
+
+FECHA: DICIEMBRE 18 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se revisa falla por stop Yaw error y se encuentra la guaya de entorchamiento pegada en el sensor y lo estaba accionando, además, se requiere nuevamente puentear los cables negro y café del conector del sensor de nivel ya que estaba indicando intermitente bajo nivel del aceite de la caja multiplicadora. Se deja en servicio el aerogenerador.

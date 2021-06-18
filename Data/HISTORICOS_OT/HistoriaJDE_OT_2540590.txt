@@ -1,0 +1,6 @@
+
+FECHA: JUNIO 01 DE 2014
+
+RESPONSABLE: GERMAN ECHAVARRIA Y  HENRY GIRALDO
+
+Se coloca el LPC que había en el AG6 y queda trabajando adecuadamente.

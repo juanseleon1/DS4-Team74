@@ -1,0 +1,6 @@
+2017/03/17 RUBEN ARBOLEDA - GIOVANNY DIAZ
+Se evidencia que la señalización intermitente de la unidad 3 (By Pass y V Admision) no está funcionando, se realiza OT para el montaje de un relé que estaba en prueba en la Unidad 4 (OT: 2618281)
+
+2017-03-17 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3427927, PASO:1-2         
+El relé retirado de la unidad 4 (OT: 2618281) se instaló en la Unidad 3, se parametrizó y se reemplazó el cableado ya que no alcanzaba, se verificó su funcionamiento y se dejó en condiciones normales. 
+

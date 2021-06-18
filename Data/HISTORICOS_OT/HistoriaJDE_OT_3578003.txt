@@ -1,0 +1,8 @@
+08/25/2017
+
+SOLICITANTE:
+
+EN REVISION SE ENCUENTRA PARADO CON LA ALARMA "LOW OIL PRESSURE POWER FAILURE".
+
+Cesar Hoyos 29-08-17 
+Se revisa por parte de personal de Johnson Control's encargados del mantenimiento de los Chiller, se realizó prueba de aislamiento al motor eléctrico valores promedios de 40G por cada fase, se realiza cambio de la tarjeta M53; dicha tarjeta presentó falla en el ajuste del FLA del 100% del chiller. Se realizó cambio de esta tarjeta del chiiler 3 al chiller 2, queda en funcionamiento normal.

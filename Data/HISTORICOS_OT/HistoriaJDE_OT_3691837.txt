@@ -1,0 +1,13 @@
+DOMINGO 25FEBRERO/2018
+
+UNIDAD 1 TCU (PAS RESPALDO) 
+SE ENCUENTRA FALLA EN EL CONTROL DE UNIDAD  PAS U1 RESPALDO, SE CORROMPE EL SISTEMA OPERATIVO FUE NECESARIO FORMATEAR E INSTALAR EL SISTEMA CON UN BACKUP, LA UNIDAD QUEDA OPERATIVA Y CON LOS DOS PAS SINCRONIZADOS Y OPERATIVOS
+REALIZO: WALTER TOBON
+INFORMO. TURNO 1 DE OPERACION
+TERMNADA CERRAR
+
+25/02/2018
+
+Unidad 1 TCU (PAS respaldo) :Se encuentra falla en el control de unidad PAS U1 respaldo, se corrompe el sistema operativo fue necesario formatear e instalar el sistema con un backup, la unidad queda operativa y con los dos PAS sincronizados y operativos
+Realizo: Walter Tobon.
+TERMINADA CERRAR

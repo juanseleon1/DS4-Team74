@@ -1,0 +1,15 @@
+26 DE MARZO DE 2018:
+EN EL DEVANADO R1 RTD #3 PRESENTA TEMPERATURA DE 123°C ESTA TEMPERATURA APARENTEMENTE NO ES REAL.                 EN LA RTD #7 TIENE 109°C Y RTD #8 107°C, LA TEMPERATURA DEL INTERCAMBIADOR ESTA A LA ENTRADA 35°C Y SALIDA 31°C
+
+25/03/2018
+
+Unidad 1 multiline 1 Temperatura devanado R1 RTD #3 se encuentra con una temperatura de 123°C se verifica los ajustes del relé, se encuentra activo el disparo en 125 °C se bloquea y actualiza formato.                                                                                        Queda pendiente verificar la RTD por oportunidad.
+
+REALIZADO POR WTOBONL
+
+
+26/03/2018
+Referente a la unidad # 1: La RTD # 3 estatotor, se encuentra marcando 144°C Por causa desconexión del cable  en borne #5, de la bornera X002. Se normaliza y la medida queda en 68°C                                                                                                              Informa: Nestor Ochoa
+
+
+TERMINADA CERRAR

@@ -1,0 +1,45 @@
+25/04/2017
+
+Realizo: Tatiana Galvis
+         Edgar Rodas
+
+Programo: Carlos Andres Forero 
+ 
+INSPECCION, REVISION Y MEJORA SISTEMA ELECTRICO DEL RESTAURANTE ZONA A.
+
+INFORME CONEXIONES Y TABLEROS ELECTRICOS RESTAURANTE ZONA A
+HALLAZGOS
+1. Al realizar el aforo de cargas e identificar los interruptores de cada circuito se halló
+que el tablero TF4 con cargas del restaurante de Zona A se encontraba en un estado
+crítico al presentar varios puntos calientes.
+
+2. Se encontró también que hay varios equipos que están siendo conectados a un
+mismo interruptor lo cual genera una sobre carga y por lo tanto se supera la corriente
+nominal del interruptor ocasionando que éste se accione.
+
+3. A demás, en los casos del mini Split y pela papas del cuarto fruver están una fase
+de un interruptor de 15 A y la otra fase de un interruptor de 20 A, esto se evidencia
+en varias cargas del tablero de potencia.
+
+4. En el tablero se evidencian que algunos equipos están siendo conectados al
+interruptor número 11 de 20A el cual se está accionando cuando utilizan el horno
+microondas, no se cambió este interruptor por uno mayor porque el cable que tiene
+en este momento es de calibre 12 AWG THHN el cual soporta una corriente máxima
+de 20A y del interruptor sale un solo cable, es decir los empalmes están hechos en
+las cajas de los tomas corriente.
+
+RESOLUCIONES
+1. Se cambió el tablero TF4 de 42 circuitos que presentaba los puntos calientes por
+uno nuevo de 32 circuitos y se nivelaron algunas cargas, sin embargo los hallazgos
+2, 3 y 4 quedan igual.
+
+2. Se identificaron el mayor número de circuitos que fue posible en cada uno de los
+tableros, sin embargo hay varios que quedan sin identificar porque no se encontró
+a que equipo pertenecen.
+
+3. Se realizó en AUTOCAD planos unifilares de los tableros con los circuitos que se
+lograron identificar. Se anexan dichos planos en el informe en general.
+
+ANEXOS
+1. Plano unifilar tablero TF4
+2. Plano unifilar tablero TA3

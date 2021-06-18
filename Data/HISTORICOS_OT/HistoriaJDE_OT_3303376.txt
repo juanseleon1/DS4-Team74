@@ -1,0 +1,17 @@
+
+2016/11/17 _ CARLOS ENRIQUE MONCADA. OT N° 3303376.
+SE REALIZA VERIFICACION  A LA IHM DE LA U1 LA CUAL SE ENCONTRABA BLOQUEADA POR ACTUALIZACION DE LICENCIA DEL PROGRAMA MONITOR PRO, ESTA SE ACTUALIZA Y QUEDA HABILITADA Y EN OPERACION.
+
+REALIZO: CARLOS SANCHEZ, NESTOR OCHOA, CARLOS MONCADA.
+
+2016/11/04
+REVISAR IHM CONTROL DE UNIDAD #1 SE ENCUENTRA BLOQUEADA NO DEJA ABRIR LA APLICACIÓN MONITOR PRO
+
+INFORMA : GRUPO OPERACIÓN P2
+
+
+
+El día 04/11/2016 a las 12:11 am se presenta paro de la unidad 1 por aparente falla en la RTD 47 del cojinete combinado segmento 10 este día presento problemas la aplicación de la la IHM por base de datos corrupta fue necesario instalar una nueva copia y se normaliza este sistema, realizado por NESTOR Ochoa y Carlos Sanchez 
+
+Recopilado por Wtobonl
+

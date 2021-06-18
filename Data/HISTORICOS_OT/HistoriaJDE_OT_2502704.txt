@@ -1,0 +1,13 @@
+XE: VERIFICAR, INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCT DE LA UNIDAD
+
+----------------
+
+fecha: 2014-06-02
+
+ejecutó: olga viana - julian giraldo
+
+Se realiza limpieza y mantenimiento al tablero de control, acometidas, motores de las motobombas y válvulas motorizadas de bombeo del sistema de circulación de aceite cojinete guía turbina. Según IDM: GCP3E0014.  No se encuentran averías ni fallos en los equipos. Se toman datos de Ies, Vol y Res, y se diligencias las respectivas planillas de registro. Una vez terminado el procedimiento, se normaliza el sistema y queda en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+----------------

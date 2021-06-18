@@ -1,0 +1,13 @@
+XE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD
+
+-------------------------
+
+FECHA: 2014-06-03
+
+EJECUTÓ: JORGE MUÑOZ - DAVISON PEREZ
+
+Se realiza mantenimiento al a los bancos de resistencias de 2W correspondientes al sistema calefacción del Generador. Se realiza limpieza, se revisan conexiones en bornes y tablero de control; se diligencia planilla con los valores de medidas de resistencia, volta y corrientes. IDM: GCP3E0005.  No se encuentran averías ni fallos. Una vez realizado el procedimiento, se normaliza el equipo quedando en condiciones de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+--------------------------------

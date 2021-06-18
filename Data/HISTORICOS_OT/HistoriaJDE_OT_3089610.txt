@@ -1,0 +1,9 @@
+
+
+
+FECHA: ABRIL 25 DE 2016 OT 3089610
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Después de reponer la línea 742 el aerogenerador queda fallado por problemas de comunicación controlador superior se inspecciona en la Top Box y se encuentra disparado el Breake 102F3, se repone y se deja en servicio el aerogenerador.

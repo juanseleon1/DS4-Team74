@@ -1,0 +1,5 @@
+AE: VERIFICACION Y LIMPIEZA SERVICIOS AUXILIARES MISCELANEOS GT
+
+2016/01/15 SEBASTIAN HINCAPIE - EDWIN ARANGO, PROGRAMO: RARBOLG
+Se realizo limpieza general al tablero, inspección termografica, en la cual se encontró un punto caliente en el breaker marcado como protecciones Jorge Alarcon, se realizó ajuste y se evidenció mejoría, la corriente de este cables es de 2 Amperios, siendo un cable calibre 16, se creó OT para identificar la carga que esta asociada al breaker marcado como Protecciones Jorge Alarcon. 
+

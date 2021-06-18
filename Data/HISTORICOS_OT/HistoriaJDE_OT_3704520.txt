@@ -1,0 +1,19 @@
+
+FECHA: 27/03/2018 
+
+DESCRIPCIÓN: Se observa diferencia de potencia activa indicada entre el PECA y el SCADA en G43, diferencia de 18 MW aproximadamente
+
+SOLICITADO POR: Mario Zapata - Francisco Córdoba - Operación G4.
+
+27 de Marzo de 2018
+
+Se ajusta la regleta B, ubicada en la parte inferior del regulador electrónico y normaliza la medida. Queda la unidad en observación.
+
+Esteban Vásquez Maldonado
+
+31/03/2018
+
+SE REVISAN BORNERAS Y CONEXIONES DE MEDIDA Y CONTROL SE AJUSTAN Y SE REAPRIETAN. SE REVISA EL LAZO DE POTENCIA ACTIVA DESDE EL TRANSDUCTOR HASTA LA CPU, ADICIONALMENTE SE VERIFICA CON LA MALETA TRIFÁSICA EL TRANSDUCTOR DE POTENCIA ACTIVA, EL CUAL SE ENCONTRABA BIEN. 
+SE REALIZA VERIFICACIÓN AL TRANSDUCTOR DE POTENCIA ACTIVA, ESTOS FUERON LOS RESULTADOS:
+CORRIENTE PATRÓN PRUEVA1,83 3,5 3,53,4 6,5 6,53,92 7,5 7,5
+REALIZÓ : JUAN DAVID GUTIÉRREZ - BERNARDO BEDOYA - JUAN CAICEDO

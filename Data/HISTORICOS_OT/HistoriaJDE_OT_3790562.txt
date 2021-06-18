@@ -1,0 +1,12 @@
+OT estaciones climatoligica
+Solicitante-Planeador: 856921
+Aprobador: 8192
+Fecha de solicitud: 30-11-2018
+Tipo de mantenimiento: Proactivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Instalacion de fibra optica para conexion de estacion climatologica en tiempo real.

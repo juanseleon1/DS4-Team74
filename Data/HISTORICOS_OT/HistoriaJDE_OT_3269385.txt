@@ -1,0 +1,40 @@
+- FECHA : MIÉRCOLES OCTUBRE 05 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : MARIO G. B. - JEISON ORTEGA - DUBÁN HINCAPIÉ
+- ASOCIADO A LA OT : 3269385
+- ASUNTO . REVISAR Y VERIFICAR CAUSA ALARMA POR BAJA TENSIÓN 480 V SERVICIOS AUXILIARES COMPUERTA 
+
+Buscando ir ubicando la falla que se anota en el archivo anexo (10/04/16 08:00:22:000 Ser Com Capt/Tab PC4 Baja Tension 480Vac Ack Inactivo AlarmTrueTime  SPCOperador UI2 ) , se sube a captación caseta control compuerta y se encuentra lo siguiente según plano :
+
+1. Relé  K101 es el responsable de vigilar voltaje 480 Vac por sobre y subtensión
+2. Este relé es alimentado desde el barraje de 480 Vac a través del minibreaker tripolar  F105 
+3. El rango de calibración está para subtensión en 440  Vac 4. El rango de calibración está para sobretensión en 480 Vac 5. Los voltajes entre fases están  en 464 Vac : voltaje entre barras y son iguales a los que llegan a las entradas del minibreaker F105.
+6. El rango de calibración para sobre y subtensión están en ( + - ) el 8%
+    * Subtensión = 408.8 Vac 
+    * Sobretensión = 475.2 Vac
+7. Estamos buscando en internet las dos calibraciones de Tt1  y Tt2 asociadas a los tiempos de respuesta y donde se ven muy altos ...esta parte la vamos a mirar para tener claro que hacer en caso de volver a repetirse esta alarma..
+
+Nota : aunque la etiqueta en el Escada anuncia por BAJA TENSIÓN ,  muy factible sea un trasciente  por sobre tensión ...hay que seguir observando ..
+
+
+Con base en lo anterior  , por favor y si vuelve a salir la alarma , informar por este medio para mirar que hacer ...recalibrar ???  u otra alternativa ...
+
+IMPORTANTE : el día jueves octubre 06 operacion CM reporta que la alarma volvió a salir en el escada 
+
+                              ** Se sube al sitio y se recalibra así : 
+
+Por favor , y para tratar de solucionar la alarma que se ha venido presentando en zona compuerta “   FALLA POR BAJA TENSIÓN 480 VAC  PC4 COMPUERTA “   , tener en cuenta lo siguiente :
+
+1. Relé que vigila este voltaje :  K101
+2. Minibreaker que alimenta relé K101 con referencia de las tres fases L1 - L2 - L3 : F105
+3. Calibración :
+·Voltaje real barraje PC4 = 464 V
+·Voltaje  referencia relé K101 = 440 v
+·Calibración para vigilancia por subtensión = 440  v  X  -10 % = 396 v…estaba en 8 % 
+·Calibración para vigilancia por sobretensión  = 440  v  X  +10 % = 484  v… estaba en 8 %
+·Calibración temporizador Tt1 asociado a vigilancia por subtensión : 2 segundos …estaba en 13 segundos 
+·Calibración temporizador Tt2 asociado a vigilancia por sobretensión : 2 segundos …estaba en 12 segundos 
+
+Nota : la idea es que sigue en observación  hasta que todo quede claro y como debe ser para su correcta operación …
+
+  IMPORTANTE : el viernes octubre 07  no se reporta que la alarma haya vuelto a salir 

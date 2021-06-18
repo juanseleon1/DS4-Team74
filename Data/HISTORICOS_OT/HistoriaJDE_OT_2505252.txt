@@ -1,0 +1,10 @@
+ABRIL 08 DEL 2014 JEOVANNY CORREA 
+La señal de nivel del sistema de refrigeracion generadores de Guadalupe III no registra, en las alarmas sale nivel muy bajo. 
+
+REFERENTE SENSOR DEL FOSO DE REFRIGERACION
+
+Se estaba presentando perdida de la medida analoga que se muestra en el control de la sala de operacion, pero al comprobar fisicamente el nivel, este se encontraba normal. Se realizaron diferentes pruebas con el sensor, la linking Device, con el modulo analogo de la RIO, con todo el lazo Profibus y se identifico que el problema lo estaba ocasionando la la Multibarrera (bornera propia del bus Profibus que recoje 6 instrumentos con protocolo Profibus PA).
+Se procedio a cambiar esta bornera por una nueva que se tenia en el laboratorio. Se verifico la señal en la sala de operacion y localmente y todo queda funcionando normal.
+
+Programador: Oscar Arango
+Ejecuto: Francisco Gonzalez - Fredy Duarte

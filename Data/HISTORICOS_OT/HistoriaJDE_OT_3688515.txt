@@ -1,0 +1,16 @@
+JUEVES 15 FEBRERO 2018 PARO RAPIDO 86 R 
+
+SALE DE SINCRONISMO LA UNIDAD N°3 CON 127 MW Y 0 MVAR POR ALTA TEMPERATURA EN ACEITE COJINETE DE TURBINA 
+
+INFORMA: FABIAN GOMEZ, ESNEIDER RIVERA , JOHN J GONZALEZ
+
+
+15/02/2018
+
+Se realiza verificacion de los eventos del sistema de lubricacion de la turbina (TLCT) en la unidad 3. se encuentra falla en conexionado del modulo 20 profibus de la RTD1 temperatura aceite cuba, se encuentra con una diferencia de 15 grados con relaccion a las otras tres indicaciones, se normaliza la indicacion y queda en observacion el sistema.
+
+REAlIZADO POR WTOBONL
+
+TERMINADA CERRAR 
+
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ

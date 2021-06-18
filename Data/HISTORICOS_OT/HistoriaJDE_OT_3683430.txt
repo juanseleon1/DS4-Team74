@@ -1,0 +1,7 @@
+FECHA: 06/02/2018 SOLICITADO POR: Natalia Urrea - Iván Franco - Operación G4
+DESCRIPCIÓN: Falla comunicación sistemas comunes Guadalupe IV. En las estaciones de operación de CCCG y Planta Guadalupe IV se presenta falla en señal de frecuencia y voltaje de la barra de 230KV. (Las señales se encuentran congeladas)
+
+FECHA:06/02/2018
+programo: Luis Adrian Cardona
+Referente al problema  en el lazo comunicación modbus de sistemas comunes: Se revisan uno a uno los esclavos de la red ( camara de valvulas GIV, PECA 300, drenajes GIV,valvula de cono Miraflores, servicios auxiliares 208, servicios auxiliares 480, planta diesel), se identifican y se marcan cables de cada uno de ellos, encontrando ausencia de comunicación con la planta Diésel y servicios auxiliares 480, por lo que se deshabilitan del lazo de comunicación desde la estacion de ingenieria y se normalizan los demás esclavos, se verifica que el correcto funcionamiento de señales y permisivos involucrados en la modificacion realizada.
+realizo: Grupo electronico, Juan Caicedo.

@@ -1,0 +1,25 @@
+2018/06/26 _ CARLOS ENRIQUE MONCADA. OT N° 3733833.
+Se realiza limpieza y mantenimiento y verificación del cableado. se pasa a verificar las temperaturas del trafo y  se encuentra desconectada la H4, las otras estan normal. Cuando se hace la tranferencia a la planta diesel no está mostrando las medidas del Q2, las demas estan normal.
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+MPGETPO: LIMPIAR, VERIFICAR Y CHEQUEAR CONTROL DEL PROCESO TABLERO CONTROL COMPUERTA ADUCCION PRESA 
+
+FECHA: 21/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA  RECORDAR REALIZAR INSPECCION FISICA EN LAS VALVULAS DE COMPUERTAS Y REALIZAR PERMISOS DE CONSIGNACION INTERNA PARA REALIZAR LA LABOR, ADEMAS DE LOS PERSIMOS DE ALTURAS PARA EL INGRESO  PARA LAS VALVULAS.
+
+*Realizar inspeccion de las valvulas motorizadas Profibus de las compuertas son 6 valvulas 
+*Realizar inspeccion de los lazos profibus PA de la instrumentacion , verificar conexion y estado de equipos 
+*Realziar inspeccion de los instrumentos profibus PA de la estacioin hidraulica, cordinar pruebas de esta estacion con el personal  mecanico 
+*Realizar inspeccion de los sensores de poscion en los servo motores de las dos compuertas  de guarda y plana ubicados en la plataforma.
+*veriricar el estado del PLC y la IHM 
+*Tomar hoja de datos de cada instrumento Profibus y actualizar Backup del sistema
+
+
+
+ 

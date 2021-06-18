@@ -1,0 +1,18 @@
+
+Diciembre 08 /2018
+
+21:15 a 22:08 horas.
+La unidad 1_PL, sale de sincronismo por paro de emergencia Rele 86E1 activado, se activa alarma y descarga del sistema CO2 banco principal; en Panel del sistema C.I presenta alarma Estacion manual de descarga generador 1.
+
+22:11 a 22:25 horas.
+La unidad 1 se da paro de emergancia Rele 86E1 activado ocasionado nuevamente por falla en sistemma contraincendio generador, falla en estacion manual de descarga generador 1. 
+
+Se procede a normalizar el sistema de descarga CO2, luego de la descarga del panel principal se habilita y se selecciona el panel de reserva, el cual luego de algunos minutos es tambien descargado por la misma falla; quedando los generadores sin proteccion contraincendio.
+Por quedar presente la falla de la estacion manual de descarga, se abren los disparos de los generadores desde bornera para evitar posible salida de sincronismo.
+
+Recargar sistema de CO2 contraincendio generadores Playas. 
+
+PLANEADOR: FREDY MUÑOZ
+FECHA:DICIEMBRE 24 DE 2018
+SE EJECUTA EN LA OT 3773426
+

@@ -1,0 +1,22 @@
+- FECHA : DICIEMBRE 20 DE 2013
+- REALIZÓ : WILFER HINCAPIÉ - WILDER HERRERA
+- ASOCIADO A LA OT : 2442783
+- ASUNTO : APROVECHANDO EL PARO DE LA MÁQUINA POR OPERACIÓN , VERIFICAR DESGASTE ESCOBILLAS.
+                      * CAMBIAR SI ES NECESARIO.
+
+
+-- DATOS TOMADOS :
+    ** ANILLO INFERIOR :
+        - 1A = 34.9 mm    2A = 33.5 mm   3A = 34.4 mm   4A = 36.1 mm   5A = 36.1 mm
+        - 1B = 32.3 mm    2B = 35.1 mm   3B = 39.1 mm   4B = 35.2 mm  5B = 38.1 mm
+    
+     ** ANILLO INFERIOR :
+        - 6A = 38.2 mm    7A = 38.1 mm   8A = 39.9 mm   9A = 34.1 mm   10A = 36.5 mm
+        - 6B = 38.8 mm    7B = 38.3 mm   8B = 39.0 mm   9B = 38.5 mm  10B = 39.0 mm
+    
+-- NOTA : se tomaron medidas escobillas falla rotor a tierra 
+                   ** Escobilla superior = 15.5 mm
+                   ** Escobilla inferior = 10.2 mm.... esta escobilla requiere cambio 
+
+-- NOTA IMPORTANTE : ambas escobillas requieren cambio , en especial la inferior pues ya pasó el desgaste por la línea que 
+                                               demarca la vida útil de la misma. 

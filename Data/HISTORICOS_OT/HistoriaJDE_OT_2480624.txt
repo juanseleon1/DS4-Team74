@@ -1,0 +1,9 @@
+Se identificó una falla en la gaveta de la CW10, se realizó correción de cableado de potencia y control, 
+
+Se hizo pruebas de funcionamiento y se dejó en opreacion normal. 
+
+Realizó: Oscar Giraldo
+Planeó: RUben Arboleda
+
+
+

@@ -1,0 +1,31 @@
+11/12/2016
+SOLICITANTE: RAMIRO A TORRES
+
+SE PERCIBE VIBRACION ALTA EN LA PARTE DE LA EXCITACION DE LA MAQUINA Y EN LAS ESCALAS PARA SUBIR AL RECINTO GENERADOR.
+2016/11/13 DIEGO BEDOYA
+Se realiza registro de vibraciones de las juntas del estator de la unidad 1, con las medidas de vibración se está realizando un cuadro comparativo con el fin de monitorear dichas vibraciones. 
+El registro de vibraciones fue realizado por Fabio Herrera y Andres Alzate.
+
+DATOS VIBRACION JUNTAS ESTATOR U1 - GTP (RMS) mm/segFecha toma vibración 07/09/2016 21/10/2016 21/10/2016 24/10/2016 06/11/201613/11/2016Punto de medición V1 superior: 1,53 1,37 1,14 2,051,372,41Punto de medición V1 inferior: 0,61 2,11 1,19 1,50,822,17Punto de medición V2 superior: 1,44 2 1,35 2,391,632,57Punto de medición V2 inferior: 0,51 1,44 0,92 0,811,11,47Punto de medición V3 superior: 0,48 0,63 0,47 0,640,570,69Punto de medición V3 inferior: 1,02 1,7 1,28 1,210,61,6Punto de medición V4 superior: 0,72 1,03 1,06 1,230,771,12Punto de medición V4 inferior: 0,57 1,32 1,16 1,510,591,34Punto de medición V5 superior: 1,31 1,73 1,56 1,81,372,12Punto de medición V5 inferiror: 0,42 1,38 2,4 0,860,461,08Punto de medición V6 superior: 1,41 2,5 2,4 1,961,392,21Punto de medición V6 inferiro: 0,56 0,77 1,09 0,650,451,16Punto de medición V7 superior: 1,17 2,4 1,84 1,541,122,27Punto de medición V7 inferior: 3,21 3,9 3,53 2,383,254,23Punto de medición V8 superior: 3,5 0,86 1,21 1,350,931,76Punto de medición V8 inferior: 6,44 3,87 3,61 5,469,25,71
+
+
+enero 14 de 2017
+
+ot terminada 
+
+andres ramirez 11/12/2016
+SOLICITANTE: RAMIRO A TORRES
+
+SE PERCIBE VIBRACION ALTA EN LA PARTE DE LA EXCITACION DE LA MAQUINA Y EN LAS ESCALAS PARA SUBIR AL RECINTO GENERADOR.
+2016/11/13 DIEGO BEDOYA
+Se realiza registro de vibraciones de las juntas del estator de la unidad 1, con las medidas de vibración se está realizando un cuadro comparativo con el fin de monitorear dichas vibraciones. 
+El registro de vibraciones fue realizado por Fabio Herrera y Andres Alzate.
+
+DATOS VIBRACION JUNTAS ESTATOR U1 - GTP (RMS) mm/segFecha toma vibración 07/09/2016 21/10/2016 21/10/2016 24/10/2016 06/11/201613/11/2016Punto de medición V1 superior: 1,53 1,37 1,14 2,051,372,41Punto de medición V1 inferior: 0,61 2,11 1,19 1,50,822,17Punto de medición V2 superior: 1,44 2 1,35 2,391,632,57Punto de medición V2 inferior: 0,51 1,44 0,92 0,811,11,47Punto de medición V3 superior: 0,48 0,63 0,47 0,640,570,69Punto de medición V3 inferior: 1,02 1,7 1,28 1,210,61,6Punto de medición V4 superior: 0,72 1,03 1,06 1,230,771,12Punto de medición V4 inferior: 0,57 1,32 1,16 1,510,591,34Punto de medición V5 superior: 1,31 1,73 1,56 1,81,372,12Punto de medición V5 inferiror: 0,42 1,38 2,4 0,860,461,08Punto de medición V6 superior: 1,41 2,5 2,4 1,961,392,21Punto de medición V6 inferiro: 0,56 0,77 1,09 0,650,451,16Punto de medición V7 superior: 1,17 2,4 1,84 1,541,122,27Punto de medición V7 inferior: 3,21 3,9 3,53 2,383,254,23Punto de medición V8 superior: 3,5 0,86 1,21 1,350,931,76Punto de medición V8 inferior: 6,44 3,87 3,61 5,469,25,71
+
+
+enero 14 de 2017
+
+ot terminada 
+
+andres ramirez 

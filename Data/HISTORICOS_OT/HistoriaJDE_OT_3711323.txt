@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711323
+
+BAE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OSCAR M. MONTOYA
+
+Se realiza mantenimiento, limpieza e inspección al tablero +TSAU, a las acometidas y cajas de conexión del sistema de servicios auxiliares de la unidad según el instructivo.
+Trabajo realizado por: Oscar Montoya, Jairo torres, Carlos Vasquez y Alejandro Echeverry.

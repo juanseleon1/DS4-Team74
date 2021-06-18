@@ -1,0 +1,22 @@
+18/09/2017 TURNO 1
+
+
+Referente a la unidad # 2:
+Presenta problemas en la estación hidráulica, se evidencia fuga de aceite en la bomba # 2. Se hace pruebas con las dos bombas, se nota perdida de presión en el circuito y en el tanque acumulador. Se hacen varias pruebas y no se normaliza la estación, se avisa al ingeniero encargado y al personal de mantenimiento. 
+
+18/09/2017
+
+Unidad # 2: (TUH) estación hidráulica.
+Se encuentra en falla este sistema ya que ambas Bombas se fallan por pase en la descarga a tanque de la BW(TR10), se descarga el sistema y se cambia esta electro-válvula BW(TR10). además se encuentra fuga en la válvula de intermitencia 30A. en la válvula esférica el sello de operación no confirma, el personal mecánico realiza pruebas y autoriza realizar puente de las señales de confirmación (desaplicación sello de operación) en los bornes BN2 64 - 72 (TCV). Se realizan pruebas y ajustes en la estación hidráulica, válvula esférica y regulador de velocidad con los siguientes datos.
+Carga válvula de intermitencia línea: 5 segundos.
+Descarga válvula de intermitencia línea: 2,5o minutos.
+Apertura distribuidor: 37 segundos. Valor PU  100% - 0.999
+Cierre distribuidor: 20 segundos. valor PU  0%-0.009.
+NOTA  en el momento de las pruebas con agua se evidencia excesivo pase de agua con el distribuidor cerrado en 0.009 PU se les informa al personal mecanico de este pase de agua esto dificulta la regulacion del PID por velocidad.
+
+REALIZADO POR WTOBONL
+terminada cerrar
+
+                                                                                                           
+
+

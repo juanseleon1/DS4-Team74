@@ -1,0 +1,9 @@
+2015/12/02 EDWAR LONDOÑO - FERNANDO RUIZ - JAIDIBER MARIN (PROGRAMO: RARBOLG)
+ESCOBILLA 1 2 3 4 5 6 7 8
+ANILLO A        mm 27,4 28,0 37,7 25,0 28,8 26,7 36,1 40,3
+SUPERIOR B        mm 48,3 41,1 40,1 43,0 29,4 39,3 30,0
+ANILLO A        mm 30,4 40,9 42,7 46,0 50,0 44,0 31,8
+INFERIOR B        mm 25,5 29,4 29,0 35,8 24,4 21,4 38,5
+
+Se realizó el cambio dos escobillas, 3A anillo superior por estar defectuosa, se veia fracturada, y la 6b del anillo inferior por
+estar por debajo de la medida minima. 

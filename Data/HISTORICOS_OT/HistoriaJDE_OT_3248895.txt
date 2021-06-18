@@ -1,0 +1,9 @@
+
+2016/11/07_ CARLOS ENRIQUE MONCADA. OT N°3248895.
+SE CAMBIAN LOS DOS TRANSMISORES IQ1 CON PRESION  2.7 BAR E IQ2 0.87 BAR.  
+
+Se realiza la instalación de dos nuevos sensores de presión para las medidas de presión, se instalan dos sensores de presión de 0 a 6 Bar se verifica en el programa del PLC los lazos de corriente para determinar la escala de estas medidas, se normaliza la indicación en el sistema y se realiza formula en el SCADA para determinar la presión diferencial de estas medidas. Se realizan pruebas con la unidad girando en vacío y luego con la unidad sincronizada, la indicación se normaliza, se entrega la unidad para explotación comercial. 
+
+ESTANDO LA UNIDAD (3) SINCRONIZADA Y CON UNA POTENCIA ACTIVA DE 135 MW SE DA PARO RÁPIDO POR FALLA PRESIÓN DIFERENCIAL Y ESTE EVENTO GENERA EL PARO DE AMBAS BOMBAS.
+FECHA: SEPTIEMBRE 18 - 2016.
+SOLICITANTE: TURNO 1 OPERACION.

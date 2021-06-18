@@ -1,0 +1,6 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 13-08-2018-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación, 
+Se realiza revicion de parametros en el sensor de Humedad y Temperatura.

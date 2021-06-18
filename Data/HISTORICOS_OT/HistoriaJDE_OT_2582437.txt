@@ -1,0 +1,19 @@
+AGOSTO 15-2014
+
+SEGUIMIENTO DEL DESGASTE DE LAS ESCOBILLAS
+
+ MEDIR LONGITUD
+ MEGGER
+ HOROMETRO DE LA MAQUINA
+
+LOS DATOS DEBEN SER ASENTADOS EN REGISTRO, HACER PERMISO DE TRABAJO Y CONSIGNACION LOCAL DE LA MAQUINA
+
+-------------------------------------------
+fecha: 2014-08-15 ot: 2582437 mtto: eléctrico
+ejecutó: OLGA VIANA - JHONATAN ARANGO
+Se realiza MEDIDA DE AISLAMIENTO Y LONGITUD DE ESCOBILLAS perteneciente  al sistema de EXCITACIÓN (anillos rozantes). Según IDM: GCP2E0004. Se TOMAN VALORES  ResISTENCIA DE AISLAMIENTO, LONGITUD DE ESCOBILLAS y SE diligencia LA RESPECTIVA PLANILLA DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+NO SE CAMBIAN ESCOBILLAS.
+*** LA ESCOBILLA nº 12 NO POSEE SU TORNILLO DE RESORTE.
+el mtto se realiza por oportunidad con planta en 0 mva.
+informa: CRISTIAN GÓMEZ
+-------------------------------------------

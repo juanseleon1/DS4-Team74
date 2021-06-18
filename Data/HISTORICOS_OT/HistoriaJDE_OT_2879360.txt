@@ -1,0 +1,5 @@
+2015/09/16 ANTONIO ARCILA
+REVISAR VALVULA DE ALIVIO MODULO DE COMBUSTIBLE LIQUIDO UNIDAD 1 DEVIDO A QUE PRESENTA FUGA EN EL DIAFRAGMA.
+ASIGANAR A MECANICOS
+2015/09/20 leslie marulanda
+se soluciona la fuga, informe actividad queda documentada en datos suplementario, se coloca en 35 debido a que el sistema no deja ingresar el tiempo y asi pasarla a estado 80,

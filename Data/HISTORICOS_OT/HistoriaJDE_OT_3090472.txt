@@ -1,0 +1,6 @@
+
+26/Abril/2016
+Se encuentran falladas las señales de temperatura de la unidad 6.
+Se revisa y se encuentra el breaker del tablero de adaptación disparado por presentarse corto entre los puentes de las borneras de alimentación 120 Vac.
+Se corrige falla y se normaliza el controlador, quedando en condiciones normales de funcionamiento.
+Learcilas 

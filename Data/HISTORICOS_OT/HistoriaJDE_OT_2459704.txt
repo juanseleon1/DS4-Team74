@@ -1,0 +1,9 @@
+27 ENERO 2014.
+SE FALLAN LAS VALVULAS ENTRADA Y SALIDA FILTRO 1 DEL TAST UNIDAD 2.
+SOLICITANTE: Gabriel Naranjo
+
+27 Enero 2014
+PROGRAMADOR: GABRIEL NARANJO.
+Se revisa la falla de las válvulas de entrada y salida filtro 1 del TAST Unidad 2, se sospecha que el módulo de entradas digitales A01.08 presenta problemas, se procede a cambiarlo. Se le realizara seguimiento.
+REALIZO: OLGA VIANA - GABRIEL NARANJO
+

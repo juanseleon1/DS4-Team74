@@ -1,0 +1,15 @@
+03/09/2017
+
+realizar mantenimiento anual segun instructivos
+
+05/10/2017
+
+
+Se realiza verificación y limpieza de la IHM y el PLC, además se verifica el voltaje de indicación en el relé BESSLER de tensión bornes B1 y B8 con medida 24.2 Vdc ,
+Se verificación y ajustan bornes en relés de protección de unidad y línea, además de los sincronizadores manual y automático.
+
+REALIZADO POR WTOBONL
+
+terminada cerrar 
+
+  

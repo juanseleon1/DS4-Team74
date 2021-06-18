@@ -1,0 +1,2 @@
+Fecha: 2016/06/15
+Actividades a realizar en mantenimiento preventivo: Inspeccion visual de la caseta y sistema de puesta a tierra, Limpieza de equipos y caseta, Toma de medidas de alimentacion y baterias, Conexion con el equipo y descarga de informacion, Verificacion de parametros de configuracion, Prueba de sensor, Verificacion de offsets y ajuste del sensor.

@@ -1,0 +1,35 @@
+FECHA : MIERCOLES 15/07/2015
+PROGRAMADOR : YOVANNY RIVERA 
+EJECUTA : CAMILO FLOREZ , DARIO ATEHORTUA 
+ASUNTO : REALIZAR MP PROGRAMADO 
+
+Empresas Públicas de Medellín E.S.P. 
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:_____3_________
+
+HOROMETRO:( H )____________
+
+TIEMPO DE TRABAJO:( min.)_____5´40"_______
+
+MW PLANTA: ______55_________
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

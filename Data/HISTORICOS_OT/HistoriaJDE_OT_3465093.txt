@@ -1,0 +1,2 @@
+FECHA: Marzo 22/2017 PROGRAMO: Daniel PalaciosEJECUTO: Dario Puerta.
+Se realiza mantenimiento según plan de periféricos, se hace revisión, limpieza y verificación al tablero de distribucion de la UPS N° 4 (TUPS 4).

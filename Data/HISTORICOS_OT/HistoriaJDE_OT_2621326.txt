@@ -1,0 +1,5 @@
+2014/10/23 GUILLERMO CORDOBA - YEISON ORTEGA
+Se realizó medida de los sensores con puertas cerradas, no se realizó apertura del interrutor ya que el seccionador no está, presenta un acople por medio de barras. 
+Se realizó limpieza general exterior, en la operación de una de las puertas se evidencío que el acrilico que protege el relé "A", utilizado para la apertura del interruptor presentó un sobrecalentamiento, con lo cual solo el acrilico se estaba derritiendo, se retiro ésta tapa y se dejó el relé destapado, es de resaltar que este relé permanece energizado mientras la unidad se encuentra parada. 
+
+

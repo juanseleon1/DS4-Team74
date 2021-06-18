@@ -1,0 +1,14 @@
+11 DE JULIO DEL 2018
+PREVENTIVO BOMBA # 1 REGULADOR HIDRAULICO UNIDAD GENERADOR GUADALUPE III
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo a la bomba #1. Se revisaron todos los puntos de conexión, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspección y limpieza al motor y a todo el gabinete de control. 
+Nota: estos fueron los datos obtenidos de las pruebas realizadas:
+
+VOLTAJEFASE VOLTIOSR - S460S - T459T - R462 
+CTE. DE ARRANQUEFASE AMPERIOSR59S34.2T44.4
+CTE. DE TRABAJOFASE AMPERIOSR10.1S10.1T9.9
+AISLAMIENTO / TIERRAFASEGR45.3S52.8T61
+Ejecutaron: Luis Correa-Sergio Areiza 
+Programo: Carlos Andres Forero

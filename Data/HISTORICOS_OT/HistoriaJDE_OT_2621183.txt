@@ -1,0 +1,15 @@
+2015/02/10 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+Se realizo medidas e inspeccion a diferentes equipos
+ACRAA 2: PRESION 41PSI
+Temperatura de salida ACRAA, segun camara termografica:  23.5ºC
+Termperatura de ACRAA segun instrumento en las IPAA's: 17ºC
+Presion de entrada al filtro LAKOS: 34PSI
+Presion de salida del filtro LAKOS: 4PSI
+Presion segun instrumento (Tuberia Agua Cruda): 5.8PSI
+Agua de Condensacion
+Entrada: 34ºC
+Salida: 26.1ºC
+Presion: 66PSI
+AFAA 2: 
+Presio a la salida: 110PSI
+Temperatura aproximada: 5ºC

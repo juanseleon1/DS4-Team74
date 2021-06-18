@@ -1,0 +1,47 @@
+- FECHA : DOMINGO SEPTIEMBRE 14 DE 2014
+- REALIZÓ : FRANCISCO QUINTERO - WILDER HERRERA
+- ASOCIADO A LA OT : 2578585
+- ASUNTO : HACER MANTTO MP
+
+* DATOS DE PLACA 
+  - POTENCIA : 35.8 KW
+  - VOLTAJE : 480 V
+  - CORRIENTE : 56.8 A
+
+* MANTTO CONTROLES 
+  - MANTTO INTERRUPTOR : SÍ
+  - MANTTO CONTACTOR : SÍ
+  - REVISIÓN CABLEADO : SÍ 
+  - REVISIÓN CONEXIONES Y TORNILLERÍA : SÍ
+
+* MANTTO MOTOR
+  - AISLAMIENTO CON RESPECTO A TIERRA : 3.12 Goh
+
+* VALORES DE VOLTAJE Y CORRIENTE
+  - VOLTAJE 
+     ** RS : 470 V
+     ** ST : 470 V
+     ** RT : 470 V
+
+  - CORRIENTE 
+    ** ARRANQUE FASE R : 303.6 A
+    ** FASE R : 40.5 A
+    ** FASE S : 40.6 A
+    ** FASE T : 38.5 A
+
+* VARIABLES MECÁNICO
+  - TEMPERATURA EXCESIVA CARCAZA : NÓ
+  - TEMPERATURA EXCESIVA COJINETES : NÓ
+  - VIBRACIÓN ANORMAL :NÓ
+  - RUIDO ANORMAL : NÓ
+
+* CALIBRACIÓN TÉRMICOS
+  - CALIBRACIÓN TÉRMICO DE CONTROL : 50 A
+  - CALIBRACIÓN TÉRMICO DE POTENCIA : 67 A
+
+* FUNCIONAMIENTO DE CONTROL NORMAL : SÍ
+
+* OBSERVACIONES : continúa pendiente hacer palnacas de accionamiento cierre y apertura  interruptor de potencia
+                                          Pendiente acople para apertura y cierre damper 
+                                          Medida de  aislamiento con Megguer Metrel  MI3121H
+  

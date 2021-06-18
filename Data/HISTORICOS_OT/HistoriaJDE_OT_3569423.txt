@@ -1,0 +1,8 @@
+REALIZAR CAMBIO DE SELLOS AGUAS ARRIBA Y AGAUS ABAJO DE VALVULA ESFERICA UNIDAD 6.REALIZAR END A LA RUEDA PELTON.
+
+Se cambian sellos aguas arriba y aguas abajo
+las piezas montadas (cajas de sellos y sellos fijos y moviles) son fabricados no reparados, se instaló valvula de 3 vias 2 posiciones para la aplicación del sello de mantenimiento y se realizó mantenimiento a la valvula de aplicacion de sellos de servicios.
+Se hicieron pruebas de aplicación de sellos de servicio y mantenimiento comprobando su estanqueidad. 
+
+Nota: No se pudo obtener un paralelismo exacto en la valvula debido a reparación manual hecha anteriormente en el asiento del sello fijo aguas abajo
+se hace necesario programar reparacion maquinada para lograr buen paralelismo.  

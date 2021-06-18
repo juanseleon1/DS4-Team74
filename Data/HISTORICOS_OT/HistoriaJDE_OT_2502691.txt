@@ -1,0 +1,13 @@
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD
+
+----------------------
+
+FECHA: 2014-06-03
+
+REALIZÓ: RONALD ARANGO Y FREDY ECHEVERRI
+
+Se realiza mantenimiento al conjunto de barrajes de salida  fases aisladas, pertenecientes al estator U3 (18KV). Se inspecciona estado de los barrajes, de las botas aisladoras que cubren las trencillas de conexión, puesta a tierra y estructura en general. Se revisa que no exista desprendimiento de la pintura y se limpia y aspira todo el conjunto. Según IDM: GCP3E0026 No se encuentran averías ni condiciones anormales. El sistema se normaliza y queda en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN A GÓMEZ
+
+------------------------------

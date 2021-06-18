@@ -1,0 +1,7 @@
+
+FECHA: OCTUBRE 9 DE 2015  OT: 2901305
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla en el módulo 7,16, se realiza el cambio, al momento de conectar las señales uno de los conectores presentó problemas para entrar y durante esta operación se dañó una de los pines, se realiza el empalme con un conector que había en subestación, se realizan las pruebas y queda operativo el aerogenerador. El conector empalmado es el que entra en la salida 2 del módulo 7,16.

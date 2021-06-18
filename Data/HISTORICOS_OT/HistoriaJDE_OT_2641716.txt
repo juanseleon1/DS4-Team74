@@ -1,0 +1,12 @@
+2015/02/04 GIOVANNY DIAZ - SEBASTIAN HINCAPIE
+Se realizo medida de aislamiento: 1.72 GOhm
+CORRIENTE
+R 0,9
+S 0,9
+T 0,9
+VOLTAJE: 
+RS 451
+ST 449
+TR 451
+OBSERVACIONES: 
+Se realizo con motor en vacio, a causa de falta de bandas.

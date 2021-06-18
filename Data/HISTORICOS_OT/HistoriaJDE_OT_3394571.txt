@@ -1,0 +1,31 @@
+INSPECCIONAR EL FUNCIONAMIENTO DEL MOTOBOMBAS DE LUBRICACIÓN FORZADA UNIDADES GT. MEDIANTE LA MEDIDA DE PRESIONES, ALTURA DE LEVANTAMIENTO Y VIBRACIONES DEL MOTOR
+
+ESTE EQUIPO DEBE ESTAR CONSIGNADO PARA MANTENIMIENTO, LAS PRUEBAS SE REALIZAN CON EQUIPO EN FUNCIONAMIENTO Y LA UNIDAD PARADA.
+
+2017/02/23 DIEGO BEDOYA
+Se realiza la revisión de las motobombas de lubricación forzada en la U5, se obtienen los siguientes datos:
+
+ BOMBA PPAL  BOMBA RESV.
+Presión de arranque (kg/cm2):   120      130
+Presión de trabajo (kg/cm2):   90      105
+Desplazamiento del rotor (mm):   0.03      0.03
+Trabajo realizado por: Andres Alzate y Fabio Herrera
+
+OT TERMINADA Y CERRADA 
+JUNIO 12 DE 2017
+ANDRES RAMIREZ INSPECCIONAR EL FUNCIONAMIENTO DEL MOTOBOMBAS DE LUBRICACIÓN FORZADA UNIDADES GT. MEDIANTE LA MEDIDA DE PRESIONES, ALTURA DE LEVANTAMIENTO Y VIBRACIONES DEL MOTOR
+
+ESTE EQUIPO DEBE ESTAR CONSIGNADO PARA MANTENIMIENTO, LAS PRUEBAS SE REALIZAN CON EQUIPO EN FUNCIONAMIENTO Y LA UNIDAD PARADA.
+
+2017/02/23 DIEGO BEDOYA
+Se realiza la revisión de las motobombas de lubricación forzada en la U5, se obtienen los siguientes datos:
+
+ BOMBA PPAL  BOMBA RESV.
+Presión de arranque (kg/cm2):   120      130
+Presión de trabajo (kg/cm2):   90      105
+Desplazamiento del rotor (mm):   0.03      0.03
+Trabajo realizado por: Andres Alzate y Fabio Herrera
+
+OT TERMINADA Y CERRADA 
+JUNIO 12 DE 2017
+ANDRES RAMIREZ 

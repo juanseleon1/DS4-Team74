@@ -1,0 +1,12 @@
+MP ANUAL: - 3589 ESTATOR GENERADOR TR 1 - 3590 ESTATOR GENERADOR TR 2
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABESAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.
+
+18/09/2017
+MANTENIMIENTO PREVENTIVO ANUAL.
+Se realizó el mantenimiento según el instructivo anual.
+Se revisó y se inspecciono todas las cabezas de bobina y los polos (estator-rotor). no se hallan anomalias. Se realizan pruebas con el personal de la unidad de operacion y mantenimiento (Carlos Palacio-Gabriel Santiago).  
+
+Nota: las pruebas de aislamiento realizadas al rotor, del antes y el después del respectivo lavado de la excitación, están en los parámetros normales para su correcto funcionamiento.
+
+Ejecuto: Jonh Mario Morales 
+Programo: Carlos Andres Forero

@@ -1,0 +1,18 @@
+PREVENTIVO ELECTRICO MOTOR BOMBA # 2 LUBRICACION FORZADA GENERADOR GUADALUPE III.
+OCTUBRE 15 DE 2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: estos fueron los datos obtenidos de las pruebas realizadas:
+
+VOLTAJEFASE VOLTIOSR - S449S - T447T - R451 
+CTE. DE ARRANQUEFASE AMPERIOSR32.3S27.2T20
+CTE. DE TRABAJOFASE AMPERIOSR8.5S7.6T8
+AISLAMIENTO / TIERRAFASEMR412S411T411
+Ejecuto: Luis Correa-Mario Morales
+Programo: Carlos Andres Forero
+
+ 
+
+
+

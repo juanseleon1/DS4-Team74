@@ -1,0 +1,14 @@
+2016/06/13 RUBEN ARBOLEDA
+Tarea: Realizar planos del sistema de control cojinete superior y anexarlo a los planos de la unidad
+
+2016/06/08  y 2016/06/13 GIOVANNY DIAZ, PROGRAMO: RARBOLG, PASO 1 Y 2
+Se inicio con la elaboraicón de los planos del cojinete superior. 
+
+2016/07/03 RUBEN ARBOLEDA
+No se ha continuado con la elaboraicón debido a quie Giovanny Diaz ha estado haciendo reemplazos de operación en la central Guatapé y en la Central Playas, queda pendiente de continuar.
+
+2017/03/28 RUBEN ARBOLEDA
+Se pasa la OT a estado 35 en espera de cotninuar
+
+2018/04/18 RUBEN ARBOLEDA
+Se cierra ésta OT, no se ha continuado por falta de recurso disponible.

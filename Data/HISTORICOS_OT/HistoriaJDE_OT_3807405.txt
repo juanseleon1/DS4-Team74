@@ -1,0 +1,20 @@
+2019/02/01 RUBEN ARBOLEDA
+Se crea OT para realizar orden y aseo en las dos bodegas del asincrónico.
+
+2019-02-01 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3807405, PASO:1          
+Se realizó orden y aseo en el taller de mantenimiento eléctrico en zona del asincrónico.
+
+2019-02-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3807405, PASO:2          
+Se continuó con la aplicación de la metodología 5S en las bodegas del asincrónico. 
+
+2019-02-08 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3807405, PASO:3          
+Se realizó orden y aseo general en la bodega del asincrónico, aplicando la metodología de las 5S, se sacó elementos para la chatarra.
+
+2019-02-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: ELONDOOC OT: 3807405, PASO: 4        
+Se continuó con la aplicación de la metodología 5S en las bodegas del asincrónico, se sacaron elementos de la bodega pequeña.
+
+2019-02-14 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: ELONDOOC OT: 3807405, PASO:5          
+Se continuó con la aplicación de la metodología 5S en las bodegas del asincrónico. 
+
+2019-02-19 REALIZÓ: JHONATAN ANDRES USME - FERNANDO ANTONIO RUIZ,  PROGRAMO: ELONDOOC OT: 3807405, PASO:6          
+Se continuó con la limpieza general de la bodega pequeña del asincrónico aplicando la método de las 5S, se dejó lista para aplicar revoque por parte de servicios de apoyo.

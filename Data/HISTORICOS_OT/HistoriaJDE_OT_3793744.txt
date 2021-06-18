@@ -1,0 +1,17 @@
+SOLICITANTE: OPERACIÓN TURNO 3 - ARFECHA: 10/12/2018
+
+Al cerrar manualmente el By pass al 100%, presenta ruido ensordecedor que sólo cesa abriéndolo parcialmente. Esta maniobra se repitió 3 veces con el mismo resultado. Requiere revisión y correctivo.
+
+
+Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+Programador: Camilo Montagut - 27/12/2018
+
+Se cambia de estado la ot. Se tienen los materiales para comenzar con el trabajo de mantenimiento y solo queda la espera del recurso humano.
+
+Ejecuta: equipo mantenimiento mecánico UOG

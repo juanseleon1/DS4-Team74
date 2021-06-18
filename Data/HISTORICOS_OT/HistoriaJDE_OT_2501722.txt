@@ -1,0 +1,5 @@
+
+XM: LIMPIAR Y CHEQUEAR LA LUBRICACIÓN FORZADA DE LA UNIDAD
+
+PLANEADOR: INGENIERO HECTOR GÓMEZS, PROGRAMADOR: RMONTOYG, 13/05/2014 CONSIGNACIÓN @C0098560 - OT: 2501722
+Se realiza según procedimiento. Se realiza pruebas de presión de las bombas mostrando una presión constante de 13.6 KPa y un flujo entre 18 y 26.4 l/m. igualmente se encuentran los filtros limpios. Se debe tener en cuenta que en el instructivo se debe cambiar la llave de 36 mm por una de 24 mm.

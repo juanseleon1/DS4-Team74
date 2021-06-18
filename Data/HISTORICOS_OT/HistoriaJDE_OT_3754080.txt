@@ -1,0 +1,7 @@
+2018/08/11 _ GUILLERMO LEON ECHEVERRY
+GUILLERMO ECHEVERRY
+Se encuentra la pantalla de la IHM, en negro, no muestra datos, pero la comunicación se encuentra bien.
+2018/08/11  Guillermo Echeverry
+se hace cambio de la pantalla por una de repuesto, se re hace la revision de las comuncaciones y todo queda operativo.
+Ejecutó: Jeniffer García , Jorge Poveda , Guillermo Echeverry, Alex Calle
+Informa: Guillermo Echeverry

@@ -1,0 +1,11 @@
+2018/09/19 _ CARLOS ENRIQUE MONCADA. OT N° 3767097.
+Se realiza inspeccion y reparación en el ODF de FO de la S/E 500 Kv. Se encuentran 9 pictail FC/SC cortados de raiz ocasionado la pérdida del enlace de las comunicaciones de porce 3. Se procede al cambio de los pictails y fusionando las fibras respectivas.
+Se realizan pruebas de conexion entre la S/E 500 Kv y el trunking normalizando el servicio y dejandolo habilitado.
+El enlace entre estos ODFs tiene 1.200 metros aproximados en fibra ADSS.
+Realizo: Grupo FUREL (Yamid Ososrio, Jesus Uribe, Fabian Penagos) de la USTO, Carlos Moncada.
+Informó: Carlos Moncada.
+
+
+2018/09/19 _ CARLOS ENRIQUE MONCADA. OT N° 3767097.
+
+Se crea OT para la reparación del enlace de fibra óptica entre S/E 500 Kv y el Trunking de Porce 3.

@@ -1,0 +1,44 @@
+- FECHA : LUNES SEPTIEMBRE 08 DE 2014
+- REALIZÓ : WILFER HINCAPIÉ - WILDER HERRERA
+- ASOCIADO A LA OT : 2599790
+- ASUNTO : HACER MANTTO MP
+
+Datos de placa:         P = 60 HP    V = 460vac    I = 70.0 A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:    sí       
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 1.87 Goh.
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  474.3 v
+       ST =  475.7 v                                                                 
+       RT =  475.5 v
+       Corriente de arranque:  
+Fase R = 295 amp.
+       Corriente de marcha:  
+Fase R = 54.7 amp.
+Fase S =  52.1 amp.
+Fase T =  53.0 amp.                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 60 amp.      Calibración térmico potencia : 60 amp.
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 1530.16 H
+
+6. OBSERVACIONES : el térmico de control de la motobomba está asociado al térmico de potencia ( Q1 )
+                                           * El QAC8 : es un térmico de control general para el control de las tres bombas ( a amp. ver plano 
+                                              - 12.8 )
+                                           * Se realizó medida de aislamiento a la acometida : 
+                                           * Equipo operando normal. 
+
+6. Observaciones:

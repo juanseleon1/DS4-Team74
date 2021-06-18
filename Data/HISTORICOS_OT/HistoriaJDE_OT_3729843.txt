@@ -1,0 +1,43 @@
+FECHA: SABADO 09/06/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: DARIO ATEHORTUA, EMILIO PAMPLONA.
+ASOCIADO A LA OT: 3729843
+ASUNTO: EJECUTAR MANTENIMIENTO TRIMESTRAL PROGRAMADO A LA PLANTA DIESEL DE SUBESTACION.
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO ________836__________
+
+PRESION DE ACEITE (PSI) ________105__________
+
+TIEMPO DE TRABAJO (min) _________15_________
+
+TEMPERATURA DE ACEITE (°C) _______40___________
+
+TEMPERATURA AGUA (°C) _________50_________
+
+VOLTAJE DE SALIDA _________486_________
+
+CICLOS POR MINUTO ________60 HZ__________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

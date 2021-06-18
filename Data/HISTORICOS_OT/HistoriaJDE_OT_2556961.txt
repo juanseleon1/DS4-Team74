@@ -1,0 +1,6 @@
+2014/07/01 - Juan David García - Jhonatan Usme
+Se realizo medida de sensores se encontró en funcionamiento normal, se midio las bobinas así: 
+20HL: 347 Ohm
+20BP: 344 Ohm
+20SVO: 468 Ohm
+20SVC: 474 Ohm

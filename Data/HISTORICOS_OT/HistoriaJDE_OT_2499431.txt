@@ -1,0 +1,6 @@
+
+FECHA: MARZO 28 DE 2014
+
+EJECUTO: DIOMER- PEDRO LUIS- PEDRO ROBYO  
+
+Se trae el LPC del AG1 y se le quita la fuente para colocarla en el LPC del AG6 pero esta fuente que estaba en el AG6 estaba buena se lleva nuevamente el LPC del AG1, con el instructivo del señor Jussed se le hace un back al disco duro del LPC del AG6 y al conectarlo continuaba con el pitico ,pero el señor Diomer Ignacio Diaz sugerio que se limpiarala tarjeta de memoria RAM con borrador de nata se hizo esto y se monto nuevamente la tarjeta fue efectivo quedando en servicio el LPC

@@ -1,0 +1,22 @@
+
+
+SE HA VENIDO EVIDENCIANDO EL AUMENTO DE TEMPERATURA DEL METAL EN EL COJINETE (71 A 73.5° C) DESPUES DEL MANTENIMIENTO; GENERANDO Y MANTENIENDO LA ALARMA "ALARMA ALTA TEMP METAL COJ EXCITACION" CON GENERACION DE 10.4 MW. LA TEMPERATURA PROMEDIO DEL METAL ESTABA EN 70°C CON 10.3 MW. 
+REPORTA  LUIS JOHN FAJARDO W.
+
+PROGRAMADOR:
+
+EN COMUNICACION CON EL OPERADOR , MANIFIESTA QUE LA TEMPERATURA ESTABILIZÓ EN 72 A 72.5 °C Y QUE LA ALARMA ESTA EN 72°C Y DISPARO EN 75°C, SE SOLICITARA AL PLANEADOR HACER EL TRAMITE PARA AUTORIZACION DE  SUBIR EL SET POINT TEMPERATURAS DE ALARMA DISPARO A 75°C Y 78°C, ASI QUEDAN IGUALES LOS PARAMETROS COMO LAS OTRAS DOS MAQUINAS.
+
+Buenos días Luis,
+
+Para cerrar La OT 3793725,  en comunicación con el operador Luis Ciro , manifiesta que la temperatura estabilizó en 72 a 72.5 °C y que la alarma esta en 72°C y disparo en 75°C, por favor hacer el trámite de autorización de  subir el set point de temperaturas de alarma disparo a 75°C y 78°C, esto lo puede hacer Luis Ciro. Asi quedan iguales los Set Point como las otras dos máquinas.
+Con esto daremos por terminada la orden de trabajo.
+
+Muchas gracias.
+
+Saludos.
+
+
+
+
+Juntos transformamos nuestra historia Victor Leon Quintana Santamaria Líder - Direccion Pequeñas Centrales de Generacion de Energia Tel: (574) 380 39 86 - Móvil: 0343802220 www.epm.com.co <https://www.epm.com.co/site/portals/manuales/firma_correo/paso2/www.epm.com.co>

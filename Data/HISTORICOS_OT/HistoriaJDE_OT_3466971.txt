@@ -1,0 +1,9 @@
+XM: LIMPIAR Y CHEQUEAR CIRCULACION AGUA SELLO OPERACIÓN DE LA UNIDAD
+
+PLANEADOR: RMONTOYG
+FECHA: 03/05/2017
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2017-05-08
+OT PADRE: 3466843
+CONSIGNACIÓN: @135887
+
+Se realiza lavado de filtros y se encuentra uno de ellos con problemas de desgaste en el eje. Pendiente para cambio. Se normaliza sistema.

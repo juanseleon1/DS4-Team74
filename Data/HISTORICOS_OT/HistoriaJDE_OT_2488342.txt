@@ -1,0 +1,9 @@
+FECHA: 11/03/2014
+EQUIPO: Tableros criticos sistema contra incendio de  G3
+
+Descripcion: Las 4  baterias en la prueba de autonomia muestran deficiencia
+Nota:se debe comprar baterias para cambiarlas en los gabinetes TABLERO CO2 GENERADORES,FUENTE AUXILIAR 
+Informo:  jose montoya
+
+Se cambian las baterias y queda el sistema trabajando ok
+ejecuto: Dany Santamaria

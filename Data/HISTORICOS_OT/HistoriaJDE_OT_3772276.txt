@@ -1,0 +1,12 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA OCTUBRE05:2018
+EJECUTANTE;ALVARITO PUSHAINA , HENRY GIRALDO Y PEDRO ROBAYO
+
+
+°EL DÍA jueves se hace verificacion de las tres fuentes de alimentacion dando valores operativos 24,6.24.7 24.7
+°Tambien se hace cambio del conector del modulo 7.10 salida 2 que estaba muy malo
+°Se aprovecah la parada para recuperale agua al sistema de refrigeracion.
+°Se cambia el tanque acumulador de 105 bar
+°Se cambia la valvula 325 segun el plano hidraulico que corresponde ala valvula limitadora de presion de la yaw
+°Se hce cambio de dos conectores del modulo 7.16 que estaba muy malos 
+°Se hacen pruebas y se deja el aerogenerador en servicio  

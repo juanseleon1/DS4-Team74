@@ -1,0 +1,18 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+
+03/03/2016
+MANTENIMIENTO PREVENTIVO TRIMESTRAL ELECTRONICO
+
+Se realiza mantenimiento al tablero de control del regulador hidráulico, revisando el estado de los arrancadores suaves, el PLC, el correcto funcionamiento del aire acondicionado y la pantalla de visualización grafica, todo esto sin novedades.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+
+Se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+
+DISTRIBUIDOR: 240 mm a 100%  -180 mm a 75%  - 120 mm a 50%
+                            60 mm a 25%   -   0 mm a 0%
+
+Se encuentra la instrumentación del regulador hidráulico en condiciones operativas normales.
+
+Ejecuto: Francisco Gonzalez - Alvaro sanchez - Duban Agudelo
+Programador: Oscar Arango

@@ -1,0 +1,22 @@
+03/09/2017 - TURNO 01
+Se presenta falla en la secuencia de paro y arranque de este sistema por medio de la secuencia de unidad .
+
+TURNO 01
+
+
+03/09/2017
+
+se realiza verificacion del programa en el sistema TCCC de la unidad 1 este comando es enviado desde la secuencia de arranque y paro de la unidad , se encuentra falla en estos comandos enviados por el control de unidad se hace necesario colocar un set reset para estos comandos y evitar que se queden las indicaciones activas en el proceso esto devido a la GATEWAY de ABB, se realizan pruebas y verificacion con la unidad y el proceso TCCC queda operativo y observacion.
+
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR 
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl
+
+  

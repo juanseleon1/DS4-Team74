@@ -1,0 +1,2 @@
+Se sube al AG6 para mirar el módulo de temperatura 7.7.
+La salida 1 del módulo estaba averiada. Se repara empalmando el cable directamente con el módulo, queda provisional dicha salida. Se recuperarle agua al sistema. 

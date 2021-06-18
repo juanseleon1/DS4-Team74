@@ -1,0 +1,9 @@
+SOLICITANTE: OPERACIÓN TURNO 3FECHA: 30/04/2016
+
+Falla control de unidad por comunicaciones generó paros multiples. Revisar. 
+
+
+MAYO 01 DE 2016
+
+Por presentar fallas en la comunicación profibus de esta unidad se verifica todo el lazo de control y se encuentra cable flojo en la RIO 02.ademas se encuentra suiche hub 1 sin comunicación, por el momento queda la comunicación de los 2 controladores por el Hub 2. Queda la unidad en observación. Informo: William Lopera  Esteban Vásquez M
+Realizo: Equipo eléctrico y electrónico 

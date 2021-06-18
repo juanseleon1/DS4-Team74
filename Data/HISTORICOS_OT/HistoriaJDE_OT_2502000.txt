@@ -1,0 +1,14 @@
+PLANEADOR: SANTIAGO RAMÍREZ
+PROGRAMADOR: RENATO MONTOYA
+
+DESCRIPCIÓN DEL TRABAJO: Inspeccionar estado del sello del eje y en caso de encontrarse averiado el anillo movil, se pretende cambiarlo. Para poder realizar esto se debe desarmar todo el cojinete de turbina.
+
+FECHA PLANEADA PARA EJECUCIÓN: DE 1 A 10 DE JUNIO.
+
+NOTAS:
+
+ABRIL 3 DE 2014:  Se elabora OR 1372247 para comprar segmentos circulares constitutivos del anillo movil, en material THORDON SXL. Informó: Santiago Ramírez.
+
+JUNIO 1 DE 2014: Se realiza bloqueo de la unidad y se comienza con los trabajos
+Horas de servicio de la unidad 3: 14556
+Horas de operación del sello: 14556. 

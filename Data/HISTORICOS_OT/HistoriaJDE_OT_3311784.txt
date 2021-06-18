@@ -1,0 +1,13 @@
+
+MOTOBOMBA VPI2 PRESENTA FALLA ELECTRICA POR SOBRECORRIENTE. ACTUA LA PROTECCION TERMICA CON UNA MEDICION DE CORRIENTE DE 90 AMP.
+CORRIENTE NOMINAL DEL MOTOR 13.8 AMP.
+NO SE OBSERVA PEGA MECANICA DE LA BOMBA.
+
+FECHA: NOVIEMBRE 12 - 2016.
+SOLICITANTE: LUIS FDO LOPERA - VICENTE GAMBOA.
+
+
+FECHA: 2016/11/15  OT: 3311784  PROGRAMÓ: CRISTIAN A GÓMEZ H EJECUTÓ: JHONATAN ARANGO 
+
+REFERENTE A LA MOTOBONBA BPI                
+Se realiza revisión del subsistema, medidas de corriente y voltaje e inspección de las conexiones eléctricas. Se encuentra el cable de la fase S con la terminal reventada por lo que el motor quedo trabajando en 2 faSes incrementando la corriente hasta ocasionar el disparo de la protección térmica, se poncha una nueva terminal.  Se realizan pruebas y queda trabajando en perfectas condiciones con una corriente de trabajo de 11.2 A   

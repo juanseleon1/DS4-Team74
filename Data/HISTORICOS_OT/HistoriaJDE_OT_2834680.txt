@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL AL CONTROL Y MOTORES.
+
+AGOSTO 20 DE 2015.
+
+Se realiza mantenimiento general al tablero de control, se realiza pruebas elctricas al control y las señales que van a la Rio 09, se acoplan los  motores y se le hacen pruebas de sentido de giro, se realiza limpieza general.
+Realizó: Fernando Correa - Mateo Pérez.
+Programó: William Lopera.

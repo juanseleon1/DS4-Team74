@@ -1,0 +1,5 @@
+MAR 26/2014 OT: 2458969 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Fueron instalados el control y la potencia a los motores, se simulan las pruebas y funcionan normalmente.
+
+SOLICITANTE: Javier Giraldo Fecha: Enero 27/2014.
+Continuar con el montaje del sistema de lubricación forzada.

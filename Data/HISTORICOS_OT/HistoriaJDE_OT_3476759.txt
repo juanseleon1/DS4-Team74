@@ -1,0 +1,9 @@
+XE: HACER MEDIDA DE TERMOGRAFIA EQUIPOS UNIDAD
+
+EQUIPOS INCLUIDOSUNIDAD 1 GENERACION TR3664RECINTO ANILLOS U1 TR 3618NEUTRO TIERRA U1 TR 3542BARRAJE SALIDA ESTATOR U1 TR 3546CELDA INTERRUPTOR U1 TR 300797MOTOBOMBA 1 REGULADOR U1 TR 3597MOTOBOMBA 2 REGULADOR U1 TR 3598MOTOBOMBA 1 REFRIG U1  TR 3605UNIDAD 2 GENERACION TR3665RECINTO ANILLOS U2 TR 3619NEUTRO TIERRA U2 TR 3543BARRAJE SALIDA ESTATOR U2 TR 3547CELDA INTERRUPTOR U2 TR 300798MOTOBOMBA 1 REGULADOR U2 TR 3599MOTOBOMBA 2 REGULADOR U2 TR 3600MOTOBOMBA 1 RECUP ACEITE U2 TR 3604MOTOBOMBA 1 REFRIG U2  TR 3606
+
+JUNIO 07 DE 2017.
+Se realizaron las respectivas termografias a los activos correspondientes a la unidad 2 previo al mantenimiento, esto con el fin de realizar correcciones.
+Esteban Hurtado.
+En la siguiente ruta del servidor se encuentra el informe detallado de las termografias realizadas a la unidad y sus perifericos. Ademas del consolidado de todos los informes de las diferentes disciplinas:
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\2-Troneras general\Informes Mantto Troneras\Informes U2 Troneras\INFORME U2 TR 2017-06-01

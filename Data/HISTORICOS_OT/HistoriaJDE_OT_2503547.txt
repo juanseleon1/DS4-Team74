@@ -1,0 +1,24 @@
+
+FECHA: ABRIL 05 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presenta falla por Supply voltaje Low, se inspecciona y se encuentra el contactor 24K2 con los contactos en posición intermedia, se procedió a cambiarlo por uno reparado que había en el almacén, luego de realizar el trabajo se dio reset y al momento de entrar el generador 1 se presenta falla por Feedback bypass G1 top, se deja para mañana inspeccionar esta falla.
+
+
+FECHA: ABRIL 06 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se inspecciona la top box (potencia) y se encuentra el contactor 17K2 con el mismo problema que el 24K2 en la bottom box, se forzó al cierre pero no retorna a cero, se queda en posición intermedia, se cambiará mañana por uno del AG6
+
+
+FECHA: ABRIL 07 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO, ALVARITO PUSHAINA Y ELIECER PUSHAINA
+
+Se realiza el cambio del contactor 17K2, se realizaron pruebas de cierre en vacio y respondió adecuadamente, se dejo en servicio
+
+
+

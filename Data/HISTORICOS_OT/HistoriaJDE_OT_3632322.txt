@@ -1,0 +1,8 @@
+ANUAL MECANICO: SECCIONADOR UNIDAD GENERACION GUADALUPE 4
+
+
+Programador: Camilo Montagut - 2017/11/07
+
+Se realiza limpieza y engrase de todas las piezas móviles (bielas y rodamientos) del seccionador de máquina. Además se hace inspección con sensor de ultrasonido en todas las líneas de presión en búsqueda de fugas de aire
+
+Ejecuta: equipo mantenimiento mecánico UOG

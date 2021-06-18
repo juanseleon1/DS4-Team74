@@ -1,0 +1,14 @@
+Planeador: nombre y apellido
+Aprobador: Juan Alejo Osorio Montoya
+Fecha de creación: DD/MM/AAAA
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa; 
+§Cresta 
+§Talud aguas arriba
+§Talud aguas abajo 
+§Estribos 
+§Vertedero 
+§Compuertas (vertedero o descarga de fondo) 
+
+ Descargar la información en la base de datos de seguridad de presas.

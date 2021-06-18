@@ -1,0 +1,5 @@
+2015/02/26 EDWAR LONDOÑO - MARIO RESTREPO
+El By Pass de la Unidad numero 8 presentó una falla en la bobina, por lo tanto no es posible operarlo electricamente, en caso de requerir para nivelar presiones es necesario operarlo manualmente oprimiendo el bastago de la valvula 20BP, ubicado cerca a la valvula esferica de la unidad 8.
+Se realizo mantenimiento a los sensores y se encontro en condiciones normales. 
+
+Se encontro terminales de las bobinas en mal estado y mucho aceite en la camara de la bobina 20SVC. 

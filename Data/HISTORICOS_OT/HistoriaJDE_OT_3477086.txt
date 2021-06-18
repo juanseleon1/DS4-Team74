@@ -1,0 +1,4 @@
+FECHA: MAYO 23/2017PROGRAMO: DANIEL PALACIOSEJECUTO: DIEGO RESTREPO.
+Se realiza inspección, limpieza y mantenimiento al tablero +TUH, a las acometidas de las motobombas y a los motores. A estos se les midió la resistencia de aislamiento y se llenaron registros con estos datos.
+
+XE: MEDIR, VERIFICAR Y LIMPIAR EQUIPO HIDRAULICO +TUH DE LA UNIDAD

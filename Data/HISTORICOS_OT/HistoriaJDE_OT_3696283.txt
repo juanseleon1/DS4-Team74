@@ -1,0 +1,9 @@
+MARTES 06 DE MARZO DEL 2018
+
+
+Referente al TLCT de la unidad 2: La temperatura de los segmentos se ha incrementado en 4.5°C desde el mes de enero hasta la fecha, el nivel de la cuba de aceite ha disminuido 13mm, los segmentos con temperatura mas alta son los segmentos 1,3,6 y 7 estan por encima de 59°C, alarma por alta temperatura en el TLCT esta en 60°C, SE GRAFICO EN EL ESCADA LA TEMPERATURA DE LOS SEGMENTOS Y EL NIVEL DEL ACEITE, el escada no responde bien o es muy lento esto dificulto hacer un analisis mejor de la falla, pendiente hacer analisis mas detallado. Informa turno 2 Jorge Peñaranda
+
+SABADO 10 DE MARZO DEL 2018
+
+00:45 Por presentar incremento de temperatura en los segmentos del cojinete de turbina; se determina dar paro a la unidad por operación, después de analizar que obedecía a bajo nivel de aceite. Se le informa y consulta al ingeniero Renato Montoya y se coordina con el CCG (Rómulo Patiño) para realizar el ajuste de nivel de aceite; terminando e iniciando un nuevo periodo con el fin de evitar una desviación.                                                                                                     
+02:05 Posterior a la recuperación de aceite del cojinete de turbina, se evidencia un comportamiento normal en las temperaturas de los segmentos ya que bajaron de 63.5 ºC a 54.5 ºC. Debido a que la ejecución del procedimiento tomó más tiempo de lo esperado, se generó una desviación de 44 MW aproximadamente.                                                                                                          Ejecutó e Informó: Operación: Turno 3: Mauricio Ruiz - Camilo Montoya - Juan Forero.

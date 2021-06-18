@@ -1,0 +1,19 @@
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+------------------------------
+
+fecha: agosto 20-2014 ot: 2583045 mtto: eléctrico
+ejecutó: davisón perez - olga viana
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite lubricación forzada pertenecientes al sistema de generador (S2). Según IDM: GCP2E0017. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+el mtto se realiza por oportunidad con planta en 0 mva.
+*** El presostato S2753-5  P58 se encuentra descalibrado. Por tanto no da condiciones de arranque para el motor.
+registros bomba nº 1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S474R104,3R11,3R8,74 500S - T473S106,8S12S9,05 505T - R476T106,3T11,4T9,35 500
+registros bomba nº 2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S475R 118,4R 11,7R8,16 500S - T478S 115,7S 10,5S8,56 505T - R476T 117,9T 11T8,79 500
+informa: cristian a gómez h
+------------------------------

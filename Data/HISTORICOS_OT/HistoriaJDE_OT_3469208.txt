@@ -1,0 +1,18 @@
+28/04/2017
+Se dá paro de emergencia en la unidad # 2 por excitación principal, se presenta falla en los AVR# 1 Y 2, falla fusible rectificadores. 
+TURNO OPERACION 1 
+
+29/04/2017
+Unidad 2 TRE (Regulador de tensión): Se encuentra falla en AVR 1 y AVR 2 abriendo los 6 fusibles de AC, se realiza verificación y la falla provino del AVR 2 corto circuitando los tiristores de la fase R, se realizan verificaciones y pruebas en el AVR 1 se cambian los fusibles de este banco y se realizan pruebas de aislamiento en el banco1, barraje de DC y barraje de AC se encuentra bajo aislamiento en barra DC340 kilo ohmios se normaliza y queda en más o menos 20 Giga ohmios  se ajustan lazos control PID de voltaje excitación y corriente, ajustado los valores Vm-min:93,3% ie-scl:530 Ve-scl:4600 , además se verifican los pulsos de los tiristores, se realizan pruebas y ajustes en vacío y con la unidad sincronizada. El banco 2 de tiristores queda deshabilitado 
+Realizado por: Walter Tobón 
+
+01/05/2017
+
+Unidad 2 TRE AVR 1: Se realizan pruebas y verificación en el sistema de refrigeración de los tistiristores se encuentra falla en el rele KVALP, se instala sistema de monitoreo de temeperatura, el rele queda pendiente para reemplazar. El sistema queda operativo se realizan pruebas con la unidad girando
+Realizado por: Walter Tobón 
+
+SE CIERRA POR ESPERA DE ELEMENTOS GESTIONADOS POR EL ING OSCAR ADRIAN CUANDO ESTOS LLEGUEN
+13/07/2016
+
+
+

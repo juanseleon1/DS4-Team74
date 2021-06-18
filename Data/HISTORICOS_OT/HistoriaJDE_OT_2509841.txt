@@ -1,0 +1,7 @@
+FECHA: 19/04/2014.   SOLICITANTE: MARTA PARRA, MARLON TORO.  
+Sale con paro de emergencia Unidad N3 de Guadalupe 4, después de presentar alarma. disparo U3 en 5 min 125v DC Bajo)
+
+SE VERIFICO LA TENSION EN LA BARRA 1 Y EN LA BBARRA 2 Y SE ENCONTRO CON EL VOLTAJE  NORMAL 125VDC, LUEGO SE PROCEDIO A REALIZARLE UNA VERIFICACION AL TRANSDUCTOR QUE ENVIA LA SEÑAL HACIA EL CONTROL Y SE ENCONTRO BIEN. SE PROCEDE NUEVAMENTE A CONECTAR DICHO TRANSDUCTOR  AL CONTROL  Y QUEDA  TRABAJANDO CORRECTAMENTE.
+
+REALIZO : FRANCISCO GONZALEZ 
+                                                                                                                                                 

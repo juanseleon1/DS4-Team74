@@ -1,0 +1,7 @@
+FECHA: 24/10/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri - Carlos Torres - Gabriel Montaño - Operación G3
+DESCRIPCIÓN: Se dió paro de emergencia la unidad G33 con 45 MW y 0 MVAR, al parecer por falla en módulo de comunicaciones RIO 07. Al verificar las alarmas en los log de eventos se evidencia lo siguiente: Regulador de velocidad botón paro de emergencia, regulador de velocidad falla alimentación DC y AC, se verifica presencia de alarmas pendientes en tablero control regulador de velocidad encontrando todo en condiciones normales.
+
+25/10/2018
+SA HACE UNA REVISION Y SE EVIDENCIA EL MODULO CI830 DETERIORADO, ESTE MODULO MANEJA LA COMUNICACION PROFIBUS DP DE LAS ENTRADAS Y SALIDAS REMOTAS HACIA EL CONTROL, SE CAMBIA DICHO MODULO Y SE NORMALIZAN LA SEÑALES DEL REGULADOR QUEDANDO TODO EN CONDICIONES NORMALES DE OPERACION.
+
+REALIZO: GRUPO ELECTRONICO

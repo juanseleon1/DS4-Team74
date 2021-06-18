@@ -1,0 +1,13 @@
+FALLA COMUNICACION SISTEMA CENTRALOG.
+FECHA: SEPTIEMBRE 03 - 2017
+SOLICITA: TURNO 1
+
+
+03/09/2017
+
+Se realiza verifciacion de los canales de comunicacion de la estacion, se encuentra que se realiza mal procedimiento en el arranque de la estacion y por esta razon no cargar el sistema, ademas se encuentra falla en la comunicacion de fibra. pendiente por verificar conexion en subestacion de la red CENTRALOG
+
+Realizado Por Wtobonl
+
+
+CERRADA POR FALTA DE PROGRAMAS PARA RESTABLECER EL SISTEMA 

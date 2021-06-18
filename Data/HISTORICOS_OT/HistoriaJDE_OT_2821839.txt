@@ -1,0 +1,48 @@
+- FECHA : JUEVES JULIO 16 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - WILDER HERRERA
+- ASOCIADO A LA OT : 2821839
+- ASUNTO : OPERAR COMPUERTA PARA CIERRE MANUAL PROGRAMADO PARA INICIO VACIADO TÚNEL DE ACCESO.
+           1. HACER INSTRUCTIVO PREVIO PARA CIERRE COMPUERTA 
+           2. ORGANIZAR TODOS LOS CANDDADOS Y TARJETAS PARA CONDENACIONES DESPUÉS DEL CIERRE
+           3. NOTA : SE DETECTA QUE EL MICROSUICHE QUE INDICA   " COMPUERTA CERRADA" ESTÁ MALO POR CORROSIÓN 
+              EXCESIVA. 
+           4. SE CONSIGUEN TRES MICROS CON MONTAJES PARA ORGANIZAR Y REEMPLAZAR EL FALLADO.
+           5. IMPORTANTE : EN ESTA OT SE REPORTA EVENTO SOBRE FALLA CONTROLADOR DONDE LA BOMBA N° 1 HIDRÁULICA 
+              ESTUVO PARTE DEL VIERNES EN LA NOCHE ARRANCANDO Y PARANDO POR FALLA EN CONTROLADOR POR TEMPERATURA 
+              ALTA.
+
+   INSTRUCTIVO PARA CIERRE :
+
+  INSTRUCTIVO PARA CIERRE COMPUERTA  VACIADO TÚNEL
+
+IMPORTANTE: iniciar con este instructivo cuando ya se reciba la información desde CM de tener todas las válvulas mariposa cerrada y que se puede proceder al cierre manual de la compuerta de control.
+
+   EN TABLERO DE SERVICIOS AUXILIARES MCPC4
+1. Cerrar interruptor gaveta Q8  N11  que alimenta con 125 Vcc  del control y la potencia de la electroválvula 20QPCT
+2. Colocar el selector  en posición  REMOTO
+
+   EN LA ESTACIÓN HIDRÁULICA 
+1. Desbloquear válvulas 38/1  38/2  38/3 colocándolas en posición abierta.
+   EN TABLERO CONTROLADOR  IHM
+1. Colocar selector del controlador en posición 1 (Mantto) - Nivel 1
+2. Pasar controlador de posición AUTOMÁTICO a MANUAL  -  Nivel 2
+3. Colocar selector posición 3 (Mantto ) -  Nivel 1
+4. Desplegar servicios auxiliares - Nivel 2
+5. Seleccionar Regulador hidráulico compuerta Nivel 2
+6. Ubico válvula 20QPCT : nivel 2
+7. Doy orden de cerrar a la válvula : nivel 2
+
+
+   EN TABLERO DE SERVICIOS AUXILIARES MCPC4 después de cerrar compuerta.
+1. Abrir interruptores Q1 - Q2  N10  para inhabilitar la potencia a las bombas de la compuerta
+2. Colocar selectores de ambas bombas en posición DESCONECTADO N10
+3. Abrir interruptor Q8 N11 para inhabilitar control compuerta 
+4. Colocar selector en posición LOCAL  de interruptor Q8 N11
+
+
+BLOQUEOS Y TARGETEOS  DESPUÉS DE CIERRE COMPUERTA 
+
+1. Colocar candado a cada uno de los interruptores Q1 - Q2 - Q8 y marcar debidamente
+2. Colocar tarjeta de NO OPERAR a cada selector asociado a Q1 - Q2 - Q8
+3. Colocar tarjeta de NO OPERAR a cada válvula 38/1  - 38/2  - 38/3
+

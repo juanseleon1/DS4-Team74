@@ -1,0 +1,8 @@
+XM: VERIFICAR NIVEL Y FUGAS COJINETE SUPERIOR UNIDAD GENERACION TRONERAS.
+
+
+Programador: Camilo Montagut - 21/12/2016
+
+Se revisa el nivel de aceite del cojinete y se encuentra en nivel patrón. Además se realiza limpieza en toda la superficie del recinto del cojinete. 
+
+Ejecuta: equipo mantenimiento mecánico UOG

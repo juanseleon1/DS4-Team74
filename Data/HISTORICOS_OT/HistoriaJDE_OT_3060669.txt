@@ -1,0 +1,17 @@
+28/03/2016 CESAR AUGUSTO HOYOS
+
+Se realizará conexión de las señales audivisuales del sistema contra incendio de las unidades de generación que están pendiente por estas conexiones. Este código de equipo pertenece al sistema viejo mientras se actualiza el código del nuevo equipo.
+
+19-04-16 GIOVANY DIAZ-SEBASTIN HINCAPIÉ.
+Se instalan los minibreaker de las señales audiovisuales del sistema de CO² de las unidades, quedan pendiente las unidades 4 y 6. No se han instalado por falta de recurso humano.
+22-04-16 SEBASTIAN HINCAPIÉ- OSCAR GIRALDO- CESAR AUGUSTO HOYOS.
+Se realizan pruebas de descarga al sistema contra incendio de las unidades 1-2 y banco 1 transformadores fase S-R y T, sin novedad. Ver anexos del informe.
+27-4-16. JEISON ORTEGA-SEBASTIAN HINCAPIÉ.
+Se conectaron las señales de la unidad 4, queda pendiente la de la unidad 6 hasta que la máquina pare.
+29--4-16. JEISON ORTEGA-SEBASTIAN HINCAPIÉ.
+Se conectaron las señales de la unidad 6, quedan conectadas las 8 unidades.
+
+
+
+
+

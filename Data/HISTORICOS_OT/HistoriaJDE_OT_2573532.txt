@@ -1,0 +1,9 @@
+XE:  BUSQUEDA FALLAS DE LAS MOTOBOMBAS DE RESPALDO AGUA CONDENSADA ACAA2 Y AGUA CRUDA ACRAA2 DEL AIRE ACONDICONADO DE CASA MAQUINAS GUATAPE.
+2014/0820 GIOVANNY DIAZ - YEISON ORTEGA - OT: 2573532
+Se realizó medida de aislmiento: 4.94MOhm
+La medida de corrientes se evidencio de manera baja con respecto a la nominal: 
+R: 40.9
+S: 42.8
+T: 39.4
+Nominal: 91
+Los valores de Voltaje se encontraban en condiciones normales, al igual que el funcionamiento delc control.  

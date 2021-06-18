@@ -1,0 +1,12 @@
+IE: BIENAL ELECTRICISTA, TOMA DE MUESTRA ACEITE EN TRANSFORMADOR PARA EL ANALISIS FURANOS DE TRONERAS.
+12/12/2018
+Esta OT se termina y se cierra sin cumplir con la prueba por el siguiente motivo:
+Se informa el estado de implementación de la técnica denominada “ Determinación de furanos por Cromatografía líquida de alta eficiencia (HPLC) según norma ASTM D5837 debido a la degradación del papel de los equipos que posee EPM.
+Te cuento que en lo que hemos podido se ha evolucionado ostensiblemente en el montaje de la técnica del asunto.  En el momento ya se tiene lo siguiente:
+·Resolución óptima de picos cromatográficos de los furanos de interés según norma.
+·Cumplimiento de parámetros de asimetría de picos cromatográficos de los furanos de interés según norma.
+·Cumplimiento de parámetros de platos teóricos de picos cromatográficos de los furanos de interés según norma.
+·Establecimiento de rangos dinámicos lineales tanto teóricos como experimentales derivados de una casuística dada en cuanto a las concentraciones posibles a encontrar en el mercado, es decir de acuerdo a la linealidad a cumplir con criterios de aceptación y rechazo y con una óptima rigurosidad técnica.
+·Evaluación de repetibilidad para poder ofrecer el servicio que requerimos.
+De acuerdo a lo anteriormente expuesto y lo que se tiene pendiente por implementar,  se pretende realizar la cuantificación de los diferentes furanos por el método de estándar externo dado, intentando entregar con puesta a punto la metodología analítica, realizando pruebas de enriquecimiento de aceites con los analitos en cuestión (chequeos de verificación de buen funcionamiento de la técnica) para mediados de diciembre; Incluso si llegamos a finalizar el único parámetro que tenemos pendiente por implementar antes del 15 de diciembre, les avisaríamos para prestarles el servicio lo más oportunamente posible.
+Sentimos el atraso ocasionado pero sinceramente no ha sido posible por ausencia de personal operativo y por el sin número de actividades que actualmente posee el laboratorio pero muy pronto estaremos listos con dicha técnica.

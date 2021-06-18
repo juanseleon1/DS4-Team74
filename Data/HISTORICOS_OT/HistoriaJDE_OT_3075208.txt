@@ -1,0 +1,18 @@
+ENERO 2015
+REALIZAR VERIFICACION  METROLÓGICA A TRANSMISOR DE TEMPERATURA DEVANADO ESTATOR PAJARITO.
+
+ENERO 19/2016 OT: 3075208 PLANEADOR: WGARCIAC
+DEVANADO ESTATOR
+PATRON             U1                        U3                   U5
+60ºC                   60.5ºC                   59,6ºC            60,2ºC                           
+70ºC                   70.2ºC                   70ºC               70,1ºC                                             
+80ºC                   80,2ºC                   79,8ºC            80ºC                          
+90ºC                   90.2ºC                   89,9ºC            90ºC                                                   
+100ºC    100,4ºC                 100,1ºC          100ºC                              
+110ºC                 110,4ºC                 110,2ºC          110,4ºC                              
+120ºC                 120,5ºC                 120,3ºC          120,1ºC                             
+130ºC                 130,3ºC                 130,2ºC          130,2ºC                            
+Valor programado alarma 120ºC                   
+Valor programado disparo 130ºC 
+
+NOTA: NO SE REPORTA TIEMPO YA QUE ES PARA REGISTRO DEL SISTEMA DE CALIDAD

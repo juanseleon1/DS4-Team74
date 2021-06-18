@@ -1,0 +1,2 @@
+2018/06/27 RUBEN ARBOLEDA
+Se crea OT para realizar pruebas de ajuste al relé de protecciones falla a tierra estator (95-100%) en la Unidad 8, para esto se realizará cortocircuito en el transformador de neutro por el lado de baja y posteriormente por el lado de alta, se cuenta con la unidad parada por programa de generación, se aprovechará para realizar este ajuste.

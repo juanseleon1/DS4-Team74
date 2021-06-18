@@ -1,0 +1,5 @@
+2018/07/24 RUBEN ARBOLEDA
+Se crea OT para realizar adecuación electrica en caseta de hidrometría en vertedero. 
+
+2018-07-24 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3747982, PASO:1          
+Se realizó montaje de caja de distribución, tubería y cableado general para 2 tomas dobles a 110VAC en caseta de estación de hidrometría en la zona del vertedero. 

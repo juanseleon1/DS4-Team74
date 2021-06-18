@@ -1,0 +1,14 @@
+08/10/2017 INFORMA: JOHN JAIRO OCHOA, MAURICIO CAICEDO
+
+Al momento del re arranque a la unidad después del giro inicial, por fallo en la lógica de control del sistema de frenado, se aplican accidentalmente los frenos, ocasionando desgaste excesivo en las zapatas. Se deja deshabilitado la electro de frenos y se deja condenado el sistema principal.
+
+
+Ot: 3620546 - Desgaste de zapatas - Programador: Camilo Montagut - 2017-10-09
+
+Luego del pasado evento del sábado 7 de octubre donde los frenos de la unidad 3 de Guadalupe 3 se activaron en la secuencia de rearranque de la misma unidad, se realiza inspección a los elementos que involucran este sistema. 
+
+Se evidencia quemadas superficiales a lo largo de toda la pista de frenado sin embargo no se detecta desprendimiento de material ni deformación por calentamiento de la misma pista. Respecto a las pastas de frenos se encuentran en buen estado, sin deformaciones y sin pérdida de material.
+
+Queda pendiente realizar una observación más detallada de todo el sistema y si es el caso realizar limpieza en sitio de la pista de frenado
+
+Informa: Camilo Montagut

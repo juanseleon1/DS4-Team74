@@ -1,0 +1,12 @@
+09/12/2017 CARLOS A MEJIA
+
+Favor intervenir motor del extractor E2 del portal, al momento de revisarlo, en el arranque se desconecta por sobre carga, se desconectan las bandas y se detecta problemas en el movimiento del motor.
+
+Se pone en operacion el extractor E1, despues de colocar tapas y rejilla.
+Informo: ING. Juna Carlos Granados.
+
+2018-01-10 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3657915, PASO:3 
+Se realizó armado del ventilador E2 con el fin de enviar a cotizar la reparación.
+
+2018-06-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3657915, PASO:4          
+Se realizó Conexión del extractor E2 del portal y cambio de fase para corregir sentido de giro, Se realizó medida de aislamiento con resultado de 60.2MOhm, se dejó en funcionamiento normal, 

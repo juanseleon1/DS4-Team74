@@ -1,0 +1,21 @@
+
+2018/09/15 _ CARLOS ENRIQUE MONCADA. OT N° 3763647.
+Referente al paro rapido de la Unidad N°1:
+Se solicita redespacho de los periodos 8 a l 18 dado que el PLC de launidad presenta avalancha de eventos.
+Se realiza reaprete de tornilleria en el tablero TCV, correspondientes a las bombas de la estación Hidroflow AG1 y AG2; igualmente se coloca resistencia para forzar la señal de presión del tanque Hidroflow quedando este en 53 bar. En el recinto de turbina se observa fuga de aceite del cojinete inferior impregnando la instrumentación del mismo, señales analógicas, nivel de aceite cuba, presión IQ1 e IQ2, temperaturas del sello del eje, aceite cuba.
+Se realiza limpieza y reapreta tornilleria. Se hace limpieza general a todo el recinto de turbina. Queda pendiente hacer seguimiento de la fuga de aceite del cojinete inferior.
+La unidad se normaliza y se sincroniza a las 15:08 repartiendo cargas a 270 MW. Se hace seguimiento de observación has ta las 18:00, a esta hora es entregada para explotación comercial.
+Realizo: turno 3 Operación, grupo Eléctrico, Eléctronico y Mecánico.
+Informó: Cristian Gomez, Carlos moncada, Jorge Rodriguez.
+
+-------------------
+09/09/2018
+
+Referente a la unidad # 1:
+Se da paro rápido, a la 01:46 se presenta alarma lubricación cojinete superior fuera de servicio, se verifica y se encuentra que las bombas están por fuera, también se evidencia que las bombas del sello del eje están en fuera de servicio esto con la unidad cargada con 135 MW. Se da reset al control desde la IHM y se intenta poner las bombas en servicio y no recibe los comandos de arranque. Se verifica potencia y control todo se encuentra normal, se revisan los eventos y se encuentra avalancha de eventos de la estación hidroneumática (270 eventos continuos) lo cual genera que el PLC no funcione correctamente. A la 1:58 se da paro rápido la unidad por temperatura muy alta en el aceite cuba cojinete superior, la unidad en el proceso de paro manda cerrar el distribuidor, pero no cierra la válvula esférica, toca cerrarla de manera manual desde el tablero TCV, lo cual se dificulta al no recibir el comando de cierre. se normaliza la unidad y se gira, se sincroniza a las 3:26 con 135 MW. 
+Para este evento se pide redes-pacho del periodo 5. 
+
+Referente a la unidad # 1:
+Se da paro rápido la unidad # 1, por discrepancia sello de operación válvula esférica. Se revisa y se encuentra que también para varios subsistemas, sello del eje, cojinete combinado y cojinete superior.  Se encuentra el mismo problema en el PLC, el cual se satura de eventos y manda parar los subsistemas de la unidad. se normaliza la unidad y se sincroniza a las 5:13 con 135 MW.
+Para este evento se piden los periodos 8, 9 y 10. Se le informa al grupo de mantenimiento para su revisión.  
+Informa: grupo de operación - turno # 2

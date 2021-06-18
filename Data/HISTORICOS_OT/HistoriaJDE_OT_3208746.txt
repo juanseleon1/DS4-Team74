@@ -1,0 +1,87 @@
+FECHA : VIERNES SEPTIEMBRE 16 DE 2016
+
+- PROGRAMÓ : MARIO G. B.
+
+- REALIZÓ : MARIO RESTREPO - WILFER HINCAPIÉ
+
+- ASOCIADO A LA OT : 3208746
+
+- ASUNTO : HACER MANTTO MP
+
+** DATOS DE PLACA 
+
+    - POTENCIA :35.8 KW
+
+   - VOLTAJE : 480 V
+
+  - CORRIENTE : 56.8 A
+
+
+
+** MANTTO CONTROLES 
+
+   - MANTTO INTERRUPTOR : sí
+
+   - MANTTO CONTACTOR :  sí
+
+   - REVISIÓN CABLEADO : sí
+
+   - REVISIÓN CONEXIONES : ´sí 
+
+
+
+** MANTTO MOTOR 
+
+    - AISLAMIENTO CON RESPECTO A TIERRA : 2.8 GOH
+
+
+
+**  VALORES DE VOLTAJE 
+
+    - RS : 470.5 V
+
+    - ST : 468.4 V
+
+   - RT : 468.9 V
+
+** VALORES DE CORRIENTE
+
+    - ARRANQUE FASE R : 323.9 A
+
+    - FASE R : 41.8 A
+
+    - FASE S : 41.2 A
+
+   - FASE T : 39.2 A
+
+** VARIABLES MECÁNICAS 
+
+    - TEMPERATURA EXCESIVA CARCAZA : nó
+
+   - TEMPERATURA EXCESIVA COJINETES :nó
+
+    - RUIDO ANORMAL : nó
+
+   - VIBRACIÓN ANORMAL : nó
+
+** CALIBRACIÓN TÉRMICOS 
+
+    - TÉRMICO CONTROL : 57 A 
+
+    - TÉRMICO POTENCIA : 160 A
+
+
+
+** HORÓMETRO : N/A
+
+
+
+** OBSERVACIONES : Nota : El damper asociado a este ventilador hay que operarlo manualmente
+
+                                           - Medida de aislamiento solo motor : 2.8 Goh Equipo utilizado MEGGUER MIT 420 A 500 v
+
+                                           - Medida de aislamiento con acometida : 0.4 Goh
+
+                                          - Medida de aislamiento solo acometida : 0.12 Moh
+
+                                          - Queda operando como principal .

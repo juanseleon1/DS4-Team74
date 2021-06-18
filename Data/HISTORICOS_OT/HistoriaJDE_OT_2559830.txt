@@ -1,0 +1,15 @@
+Julio 06 /2014
+
+REVISAR EL INDICADOR DE AGUAS ABAJO DE LA VÁLVULA ESFÉRICA U1 DE G4, MANTIENE UNA MEDIDA ERRADA (2.6 BAR) CON ESFÉRICA ABIERTA O CERRADA 
+
+Informa 
+
+Turno 1 de Operacion.
+
+06 DE AGOSTO 2014
+
+Se desmonta el transmisor de presion aguas abajo y aguas arriba, se verifican con equipo patron, y se le realiza limpieza a la tarjeta electronica del instrumento por presentar sulfatacion y esta contaminacion ocacionaba la congelacion de la medida.
+
+Informa.
+
+Grupo electronico.

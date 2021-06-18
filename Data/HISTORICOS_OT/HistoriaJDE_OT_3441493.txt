@@ -1,0 +1,17 @@
+
+28/07/2017. SERGIO OLIVARES D. -- O.T.3441493 -- EJECUTORES:JUAN DAVID GARCIA G. -                                     JHONATAN USME Q.
+                SEBASTIAN HINCAPIE H.
+             
+ Falla: El seccionador del banco N°2 ubicado en la unidad N°3 de casa de maquinas, se queda bloqueado al cierre.
+Solución: Se gira acople dentado del lado derecho del eje principal del seccionador, el cual se une con el eje de accionamiento de operación exterior. El giro del acople fue aproximadamente de 15° en sentido horario. Se realizo prueba de apertura y disparo, y de apertura y cierre, dejando todo en condiciones normales. Cuando el Seccionador se dispara (por fusible disparado) la palanca de accionamiento de debe girar a la izquierda para que su desbloqueo y después a la derecha para cerrar. Se realizo limpieza general. Se dejo todo normal. No se encontro ninguna informacion tecnica. 
+
+
+agosto 14 de 2017 
+ot terminada y cerrada 
+andres ramirez 
+
+
+30/03/2017. SERGIO OLIVARES D.
+En la OT: 3439105 se evidenció que el Seccionador se queda bloqueado al cierre. Se hicieron varias pruebas y no se pudo calibrar adecuamente por falta de tiempo, se crea esta OT para que el personal de mantenimiento mecánico realice la calibración de los topes del seccionador.
+2017/07/12 DIEGO BEDOYA
+Hasta el momento no ha sido enviada la información técnica necesaria (planos y datos de calibración) por parte del grupo de mantenimiento eléctrico para poder realizar la calibración que se requiere en este seccionador.

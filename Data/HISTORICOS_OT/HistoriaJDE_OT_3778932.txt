@@ -1,0 +1,2 @@
+2019-02-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778932, PASO:1          
+Se realizó mantenimiento al motor de motobomba cw1 refrig u1 gt     NO SE REALIZÓ MEDIDA DE CORRIENTES,   AISLAMIENTO DE MOTOR: 4,74 M No se realizó arranque para medida de voltajes y corrientes debido a una tarjeta de operación.

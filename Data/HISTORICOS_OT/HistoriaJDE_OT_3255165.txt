@@ -1,0 +1,6 @@
+FECHA: SEPTIEMBRE 23 DE 2016
+
+EJECUTANTE: PEDRO ROBAYO Y ALVARITO PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por alta temperatura aceite caja multiplicadora, se inspecciona en la góndola y no se encuentran fugas y el nivel está bien, se encuentra que la bomba 1 no estaba trabajando aun teniendo la orden de arranque, se encuentra una mala conexión en la alimentación de 24 Vdc del módulo arrancador de esta bomba, se corrige y se deja en servicio el aerogenerador.

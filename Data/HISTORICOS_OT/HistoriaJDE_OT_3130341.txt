@@ -1,0 +1,34 @@
+PLANEADOR: Santiago Ramírez
+PROGRAMADOR: Renato Montoya
+
+DESCRIPCIÓN:
+
+En noviembre de 2015 se evidenció fuga excesiva de aceite por el empaque de la tapa del vástago del cilindro hidráulico de la compuerta de descarga. Para controlar la fuga fue necesario instalar un dispositivo de bloqueo a la compuerta para reducir la presión en el cilindro hidráulico.
+
+Se planeó el cambio de los empaques de las tapas de cilindros hidráulicos para Junio de 2016, de tal forma que se sincronicen este trabajo con los mantenimientos anuales de las unidades y otros trabajos. Adicionalmente, debido a la fuga de aceite evidenciada en el cilindro de la unidad 2, también se planeó cambiar los empaques de las tapas de los vástagos de los cilindros de las otras compuertas, ya que se optimizaría el tiempo de disponibilidad de la planta, esto debido a que para cambiar dichos empaques se debe vaciar el túnel de descarga hasta la cota 313msnm (nivel de piso de galería de compuertas).
+
+Cronograma: Se adjunta cronograma planeado.
+
+Fecha planeada de inicio: 1 de Junio de 2016, 7:00
+Fecha planeada de terminación: 6 de Junio de 2016. 23:59.
+
+
+Estos empaques ya habían sido cambiados en el cilindro hidráulico de la unidad 4 en el mantenimiento de las compuertas realizado en junio de 2015. Sin embargo se decide cambiarlos nuevamente ya que en ese momento se instalaron empaques fabricados por un proveedor local (Internacional de empaques). Para esta ocasión se cuentan con empaques fabricados en materiales de mayor resistencia mecánica y química, fabricados por Chesterton a través de un representante local (Ferretería Pedro Sánchez). En la compuerta de la unidad 1,2 3 es la primera vez que se cambian estos empaques. Todos estos empaques presentaban fuga, siendo crítica la fuga del cilindro de la unidad 2, el cual motivó el reemplazo de estos empaques en todas las unidades de manera preventiva.
+Desarrollo
+
+Informe diario de avance Junio 1:
+- Se completa vaciado del túnel de descarga hasta 1 metro por debajo del piso de la galería de compuertas de CM (cota 314 msnm, presión aguas abajo 1,0 bar. 
+- Se instalan stop logs en la descarga. Fue necesario la ayuda de 2 buzos para desenganchar el dispositivo.
+- Se desmontan los cilindros hidráulicos de las unidades 3 y 2. 
+- Se bloquean compuertas para liberar los cilindros hidráulicos de las compuertas 1 y 4.
+Ejecutó: Equipo de mantenimiento UOPO.
+Informó: Santiago Ramírez.
+
+Informe diario de avance: Junio 2:
+- Se desmontan los cilindros hidráulicos de las compuertas 1 y 4
+- Se cambian los empaques de las tapas de los vástagos de los cilindros hidráulicos de las cuatro compuertas. En todos los cilindros se encontró el sello raspador averiado (pos 46), siendo el más afectado el del cilindro U2. Las bandas de estabilización y fricción (pos 44) se encontraron desgastadas, se evidenció mayor desgaste en las bandas del cilindro U4. Se instalaron los empaques nuevos con la asistencia del técnico de Chesterton. Adicionalmente, se identificó que las tapas tenían alojamientos para otro sellos bidireccional (pos 47) y otra banda estabilizadora (pos 44) del lado de carga. Por tal razón, se instaló otra banda (pos 44) de las viejas en mejor estado, para mejorar estabilización.
+- Se realiza prueba hidrostática al cilindro hidráulico de la compuerta 3 a 150 bar por 2 horas, concluyendo satisfactoria la prueba. 
+- Se instalan rótulas al cilindro hidráulico 3. Queda listo para montar.
+- Se inicia prueba hidrostática en el cilindro hidráulico 2.
+Ejecutó: Equipo de mantenimiento UOPO.
+Informó: Santiago Ramírez.

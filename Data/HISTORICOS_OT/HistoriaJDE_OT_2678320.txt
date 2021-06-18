@@ -1,0 +1,12 @@
+TE: VERIFICAR Y MEDIR INTERUPTOR POTENCIA GENERADOR
+
+ENERO 29/2015  OT: 2678330 PROGRAMÓ: FARFREY OSPINA  EJECUTÓ: SEBASTIAN P.
+
+INFORME SOBRE EVENTO OCURRIDO EN LA CENTRAL RIO FRIO  TÁMESIS
+
+El pasado Jueves 29 de 2015, nos encontrábamos  realizando el mantenimiento semestral de la unidad 2 de la central Rio Frio,  nos dispusimos a realizar el desbloque de la unidad 2, cuando el operador  realizo la maniobra de cierre del  seccionador del lado del transformador se ocasiono un cortocircuito en la entrada del Interruptor de 480VAC de la máquina. 
+
+Al evaluar el incidente se encuentran la las barras  de entrada y salida del interruptor de 480VAC de la maquina con  gran daño  debido al corto circuito.
+
+La unidad 2 de la central Rio Frio queda parada en espera de cambio del barraje y del interruptor que resultaron afectados.
+ 

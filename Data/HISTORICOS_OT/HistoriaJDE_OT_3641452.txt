@@ -1,0 +1,5 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+22-11-2017
+Se realizó limpieza e inspección visual, se revisaron las borneras de control de los diferentes tableros del regulador de tensión. Se realizó mantenimiento a los filtros de aire de cada tablero.
+Se revisó el estado de los sensores de vibración.
+Se realizó mantenimiento a los tableros del vibrosistem y los transformadores

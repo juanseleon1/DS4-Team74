@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Oscar Montoya.
+Se realiza inspección, limpieza y mantenimiento al tablero de control y de protecciones de la unidad +TPU.
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

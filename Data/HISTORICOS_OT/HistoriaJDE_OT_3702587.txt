@@ -1,0 +1,20 @@
+
+FECHA: 16/03/2018 OT:3702587 REALIZO: CESAR TULIO JIMENEZ JIMENEZ
+SE HACEN PRUEBAS DE COMUNICACION PARA ENLAZAR LOS SERVIDORES DEL SCADA MEDIANTE SKYPE, CON LA GENTE DE ABB.
+
+FECHA: 20/03/2017  -  21/03/2018 REALIZO: CESAR TULIO JIMENEZ
+SE SIGUEN HACIENDO PRUEBAS DE COMUNICACION, SE LOGRA QUE LA GENTE DE ABB SE CONECTE AL SCADA Y SE HACEN PRUEBAS DE QUE SE PUEDA MODIFICAR Y EJECUTAR COMANDOS. SATISFACTORIAMENTE.
+
+FECHA: 22/03/2018 REALIZO: CESAR T. JIMENEZ Y ING. ABB DANIEL VARGAS
+SE REALIZA:
+Full Backup: Se realiza Full Backup del Sistema 800xA.
+Import / Export: Realización de Import/Export de las principales estructuras del Sistema 800xA. Control / Functional / Object Type / Workplace Structure.
+Se realizaron imágenes tipo Acronis y se guardaron en el drive E:\Image en lo servidores y en las estaciones de operación e ingeniería en el E:\Data. 
+Se realiza backup de la configuración de la RTA Board.
+Se verifican los nodos presentes en el RNRP. No hay errores.
+Sobre los nodos de tipo Domain Controller, se ejecuta el comando dcdiag, Se encuentran errores, pendiente revisar los códigos de error para su corrección.
+Se ejecuta el comando “ afwsysinfo” , el porcentaje de la base de datos se encuentra en condiciones normales, 32%.
+Se verifican los servicios del Sistema 800xA.
+Se encuentra un servicio OPC del IEC61850 en falla, se corrige.
+Verificación PAS (Process Administration Services). Se verifican que todos los servicios estan en “ Started” .
+Verificación base de datos históricos… Ok.

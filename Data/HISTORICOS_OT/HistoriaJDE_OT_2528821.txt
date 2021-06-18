@@ -1,0 +1,16 @@
+En la ejecucion de la OT: 2514869
+Se realizó revisión de tranferencia del +SA4, con las siguientes novedades: 
+
+A la hora de abrir breaker en DP2 del +SA4, el interruptor QF2 (DP2) ubicado en +SA4 se sobrecalentó, provocando humo en el interruptor, ambos interrupptores se queadron abiertos. 
+
+Luego el PLC intentó cerrar el QF1 (DP1), pero éste no cerro, 
+
+Se procedio a realizar maniobras mecanicas en interruptor QF2, inicialmente no respondio, luego de un momento respondio normalmente (Mecánicamente). 
+
+2014/05/15 RUBEN ARBOLEDA - CESAR HOYOS 
+Se realizó adecuación de programa en PLC, con el contador T55, se realizó pruebas de funcionamiento tanto en manual, como en automatico. 
+
+Se dejo en operacion normal. 
+
+Realizó: Cesar hoyos - Ruben Arboleda
+

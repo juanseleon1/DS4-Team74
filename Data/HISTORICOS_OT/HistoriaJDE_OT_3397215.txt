@@ -1,0 +1,15 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CI R1
+
+ABRIL 03/2017 PROGRAMO: JGUINGUER  EJECUTO: AVILLA
+SE HACE VERIFICACION DE RTDs LOS VALORES SON LOS SIGUIENTES:
+
+Temperaturas de: Cojinete de EmpujeEquipo 0°C 20°C 40°C 60°C 80°C 100°C 120°CSensor 10.9 21.3 41.1 61.0 81.1 100 116.9 6.04Sensor 20.2 20.2 40.3 60.2 80.3 100 113.1Valor programado Alarma:75°CValor programado Disparo:80°CComentarios:
+
+
+
+
+
+
+
+ 

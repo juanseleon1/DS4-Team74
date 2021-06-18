@@ -1,0 +1,9 @@
+
+
+
+TRAFO
+ACTIVIDAD:
+
+JUNIO 01/2019 OT: 3833007  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+Se comprueba el buen estado del transformador y de la estación de transformación, el nivel de gas SF6 se encuentra por debajo de los valores adecuados de operación, no se realizan maniobras desde este equipo, no hay presencia de cuerpos extraños en la caseta, se realiza limpieza de las instalaciones. No es posible reapretar bornes ya que están protegidos por termoencogible.

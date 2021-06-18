@@ -1,0 +1,12 @@
+INSPECCION INSTRUMENTACION COJINETE SUPERIOR UNIDAD GENERACION GUADALUPE 4
+
+03/03/2016
+MANTENIMIENTO PREVENTIVO TRIMESTRAL ELECTRONICO
+
+Se realiza inspección visual y limpieza al visor del sensor de nivel y se revisan sensores de vibración, se encontraron en CSPL: 7.90, se deja calibrado así: CSPL 8.93 VDC, CSPR 9.29, VDC y el AXIAL se deja en 7.43 VDC.
+Nivel de aceite cojinete superior se encontró en 722mm, el nivel patrón es 725mm, No se le adiciono aceite al cojinete.
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta \\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\TRIMESTRALES G4-2015 y se realizó limpieza a las RTD del cojinete.
+
+Ejecuto: Francisco Gonzalez - Alvaro sanchez - Duban Agudelo
+Programador: Oscar Arango

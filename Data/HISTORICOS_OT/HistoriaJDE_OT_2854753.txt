@@ -1,0 +1,17 @@
+CM: Vibraciones umas-ventiladores-extractores Guatape. Este equipo debe estar en línea
+
+2015/09/28 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones delextractor S2 y se obtienen los siguientes resultados:  
+
+Sistema de medición RMS
+1 Horizontal: 2.4 mm/seg
+1 Vertical: 7.3 mm/seg
+1 Axial: 8.3 mm/seg
+2 Horizontal: 3 mm/seg
+2 Vertical: 1.6 mm/seg
+3 Horizontal: 2.3 mm/seg
+3 Vertical: 1.5 mm/seg
+3 Axial: 5 mm/seg
+4 Horizontal: 3.3 mm/seg
+4 Vertical: 1.4 mm/seg
+4 Axial: 3.9 mm/seg

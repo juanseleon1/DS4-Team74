@@ -1,0 +1,11 @@
+MP ANUAL, EQUIPOS.
+2738 INTERRUPTOR DE CAMPO U1
+2739 INTERRUPTOR DE CAMPO U2
+2740 INTERRUPTOR DE CAMPO U3
+2741 INTERRUPTOR DE CAMPO U4
+2742 INTERRUPTOR DE CAMPO U5
+2743 INTERRUPTOR DE CAMPO U6
+
+JUNIO 30 DE 2017
+Se realizó el mantenimiento de acuerdo al instructivo, se hace pruebas manuales al mecanismo encontrándose todo normal, Pruebas de resistencia de contacto y se lubrican los resortes y accionamientos mecánicos.
+Programó: William Lopera

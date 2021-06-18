@@ -1,0 +1,18 @@
+JUEVES 15 DE MARZO DEL 2018
+
+REFERENTE AL COJINETE INFERIOR UNIDAD 1: LA MEDIDA DE TEMPERATURA  DE ACEITE 2 DE LA CUBA SE ENCUENTRA DESFASADA 5°C CON RESPECTO A LA MEDIDA DE TEMPERATURA ACEITE CUBA 1. INFORMA TURNO 2
+
+
+20/03/2018
+
+Nestor favor retomar esta nota y reailzar un analisis de esta medida, realizar informe de evidencias encontradas y las accines correctivas ha realizar.
+
+por favor me informas y documentas esta OT 
+
+NOTA realizada por Wtobonl
+28/03/2018
+se realiza inspección al sensor y revisión de terminales, todo se encuentra normalmente, para verificar dichos sensores es necesario sacar el aciete a la cuba, ya que no poseen termo poso. se deja la Ot en 35 hasta disponibilidad de la unidad para poder hacer este trabajo.
+cabe resaltar que esta medida no afecta en nada a la operación, se le ha estado realizando seguimiento y el valor es lineal , con respecto a la rtd1. Manteniendo los 5°C de diferencia. la idea es descartar ya sea las rtds o alguna consión del proceso. 
+Néstor Fabián Ochoa.
+
+terminada cerrarda 

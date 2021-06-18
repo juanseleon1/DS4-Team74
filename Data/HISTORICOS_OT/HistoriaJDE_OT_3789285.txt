@@ -1,0 +1,14 @@
+FECHA: DICIEMBRE 18/2018 PROGRAMADOR: Daniel Palacios.EJECUTO:.
+Los trabajos no se pudieron realizar porque dentro de la consignación de la MCH no se programo las maniobras con el interruptor del transformador. Se realizara este trabajo en el 2019 y se realizara bajo el nuevo sistema de información MAXIMO.
+
+
+DOMINGO 25 NOV/2018
+
+
+En la realizacion de la ruta de inspeccion de la Mini central se visualizo el ventilador de refrigeracion del trafo de servicios Aux. parado, favor revisar o hacer cambio.
+
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: RICHARD JIMENEZ
+
+Revisar el ventilador de la fase R parte inferior del transformador de potencia de la minicentral, se encuentra parado.
+La temperatura aumento 20 grados en una fase

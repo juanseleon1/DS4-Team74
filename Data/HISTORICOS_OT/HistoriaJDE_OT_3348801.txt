@@ -1,0 +1,6 @@
+
+DICIEMBRE 21 DEL 2016 / JEOVANNY CORREA G
+El sincronizador de las unidades de Guadalupe IV se está fallando, esta falla se ha evidenciado cuando sincroniza la unidad G41.
+21-12-2016
+se revisa el sincronizador y queda normal
+

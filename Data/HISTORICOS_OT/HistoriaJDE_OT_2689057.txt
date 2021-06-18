@@ -1,0 +1,10 @@
+
+2016/01/15_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO A LOS TABLEROS DE CONTROL  DE LAS COMPUERTAS DE DESCARGA EN LAS CASETAS 1 y 2. SE REVISA  QUEDANDO ESTA DISPONIBLE PARA LA OPERACIÓN.
+
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero de controladores PLC
+
+Realizar mantenimiento a tablero de controladores de las casetas 1, 2 y caseta principal de los vigilantes, verificar señales de las compuerta de descarga de fondo.realizar backup de programa

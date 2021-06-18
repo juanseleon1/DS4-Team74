@@ -1,0 +1,71 @@
+
+
+COMPRESOR DE SERVICIOS GENERALES NÚMERO 1 SE ENCUENTRA FALLADO Y NO REPONE , HACE EL CHEQUEO DE ESTADO PARA ARRANQUE Y SE ALARMA Y QUEDA FALLADO . FAVOR REVISAR 
+REPORTO:OSCAR RESTREPO. 
+
+INFORME 'PRESENTADO POR LOS OPERADORES. PENDIENTE AJUSTE DE PARAMETROS (ORDEN DE TRABAJO 3560110 )
+NO SE REPORTA TIEMPO.
+INFORMA: GORTIZG
+
+
+DATOS DEL EVENTO
+
+ OT número: 3724634
+
+15/05/2018
+COMPRESOR DE BAJA PRESION N°1.
+
+COMPRESOR DE SERVICIOS GENERALES NÚMERO 1 SE ENCUENTRA FALLADO Y NO REPONE , HACE EL CHEQUEO DE ESTADO PARA ARRANQUE Y SE ALARMA Y QUEDA FALLADO . FAVOR REVISAR REPORTO: OSCAR RESTREPO.
+
+
+Fecha y hora de Normalización: Martes 05 de junio 2018; a las 10:00
+
+RECURSO HUMANO
+
+TECNOLOGO OPERADOR: Ivan Jiménez Arenas // Erney Ant Betancur B
+LÍDER ELECTRÓNICO: 
+TÉCNICO ELECTRICISTA: 
+TRANSPORTE: 
+
+
+ANTECEDENTES
+
+Estando el compresor habitado se presentaba la siguiente alarma sin posibilidad de dar reset al sistema de control
+“ CK SYSTEM INLET CONTROL” , lo cual no permitía el arranque exitoso del compresor.
+
+
+DESCRIPCIÓN DEL PROBLEMA
+
+El sistema de control para el arranque del compresor presentaba falla mostrando una alarma la cual indicaba el lugar aproximado donde se hallaba la anomalía, sin arrojar otros eventos que evidenciaran el origen especifico de la falla.
+
+SOLUCIÓN FALLA.
+
+Inicialmente se verifico el sistema de control, chequeando las alimentaciones de sus diferentes fuentes.
+Una vez evaluada las fuentes sin evidenciar falla alguna, se procedió a identificar las diferentes etapas del compresor y así ubicar el punto al que estaba haciendo referencia la alarma, la cual se producía en la primera etapa del sistema de compresión; fue asi como se evidencia una bornera quemada y averiada dentro de una caja de empalmes inhibiendo las señales de buen funcionamiento del compresor. Ver fotos.
+
+
+PRUEBAS REALIZADAS
+
+ØSe elimino parte del cable averiado por alta temperatura.
+ØSe procedió a cambiar el conector averiado por una bornera de 4 puntos.
+ØSe realizo un reconocimiento de alarmas en el sistema de control, cancelando las fallas presentes.
+ØSe procedió a dar un arranque al compresor, permitiendo que cargara los tanques acumuladores hasta alcanzar una presión de 105 PSI
+
+OBSERVACIONES
+
+Se realizaron pruebas de funcionamiento, según la tabla de referencia del fabricante, respondiendo a cada uno de los ajustes de funcionamiento del compresor.
+
+
+Informe elaborado y presentado por:
+Erney Ant Betancur // Ivan Jimenez.
+
+
+
+
+
+
+
+
+
+
+

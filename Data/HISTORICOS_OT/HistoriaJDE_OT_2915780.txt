@@ -1,0 +1,9 @@
+
+ OCTUBRE 26 DEL 2015 / JEOVANNY CORREA 
+
+ La unidad G34 presenta falla al conectar el regulador de tension.
+
+OCTUBRE 26 DE 2015.
+Se revisa todo el sitema de la unidad y se encontró el interruptor Q03 que corresponde a la prexcitación abierto lo cuan no dejaba energizar la unidad, se normaliza y queda trabajando en condiciones normales.
+
+William Lopera.

@@ -1,0 +1,67 @@
+2017/04/04 ANTONIO ARCILA
+CAMBAIR O REPARAR EL ROTAMETRO LADO COLECTROR DEL ANALIZADOR HIDROGENO U3, EL ROTAMETRO NO REGULA Y MANIIENE ALTO FLUJO DE H2 POR ENCIMA DE LOS 900 SCCM.
+ASIGNAR A INSTRUMENTISTAS.
+
+2017/08/17 FERNANDO JIMENEZ
+SE REALIZA INTERVENCION DEL EQUIPO EL CUAL SE HALLA FALLADO Y SE REALIZA COTIZACION DEL ELEMENTO A REMPLAZAR  EL CUAL TIENE LAS SIGUIENTES ESPECIFICACIONES 
+
+Model Number:
+  1355GBG3DBNC1AAA
+.
+Base Model
+  1355G 150mm Sho-Rate
+Max Pressure
+  200 psig [14 bar]
+Max Temperature
+  250F [121C]
+Meter Accuracy
+  Standard-5%
+Scale Type
+  [3] Direct Read decal on tube
+End Block Material
+Brass
+Connection Size
+  1/4-in
+Connection Type
+  316SS FNPT w Locknut
+Inlet
+  Back
+Outlet
+  Back
+O-Ring Material
+  Viton
+Packing Material
+  Viton
+Valve
+  NRS-316SS #2 -Inlet
+Tube Size
+  R-2-15-AAAAG
+Float
+  1/8 Ball
+Float Material
+  Carboloy
+Range
+  110 - 1100 SCCM
+Reference Conditions
+70F1atm
+Inscription1
+  SCCM H2@70F & 14.70 psi[g]
+Inscription2
+Fluid
+  H2
+Density
+  0.0695 S.G.
+Viscosity
+  0.00880 cP
+Operating Temp
+  70 F
+Operating Press
+  14.70 psi[g]
+Accessories
+Options
+Option-Tag
+Certifications
+Factor Tag
+Factor Tag2
+TAG Type
+  No Tags Required

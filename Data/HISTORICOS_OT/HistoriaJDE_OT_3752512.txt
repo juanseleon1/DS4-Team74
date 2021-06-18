@@ -1,0 +1,11 @@
+FECHA: 07/08/2018    SOLICITADO POR: Natalia Urrea- Orlando Correa - Gustavo Quintana Operación G3
+DESCRIPCIÓN: Se presenta en varias ocasiones apertura del circuito de 13.2KV R53-10 en Guadalupe III. Al verificar las protecciones se observa operación por sobre-corriente en las fases A y C.
+Se informó a William Lopera y se decide dejar abierto este circuito para revisión.
+
+AGOSTO 08 DE 2018
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+PROGRAMADOR:WILLIAM LOPERA CORREA
+
+AGOSTO 8 DE 2018
+Se revisa el circuito desde Guadalupe 3 hasta Gudalupe 4 con el acompañamiento del personal de poda de distribución y se encontró un arbola tocando las lineas a la salidad del campamento los cedros, se retira y se da orden de cierre nuevamente al interruptor operando normalmente.
+Programaó: William Lopera.

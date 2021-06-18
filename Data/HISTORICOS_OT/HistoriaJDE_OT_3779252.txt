@@ -1,0 +1,7 @@
+
+COMPROBACION FUNCIONAL
+ACTIVIDAD:
+
+2018/11/13 OT: 3779252  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO 
+
+Se verifica el correcto funcionamiento del sistema.

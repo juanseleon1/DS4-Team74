@@ -1,0 +1,11 @@
+MP ANUAL:
+2281BANCO DE TRANSFORMADORES C/M G3 U1.2282BANCO DE TRANSFORMADORES C/M G3 U2.2283BANCO DE TRANSFORMADORES C/M G3 U3.2284BANCO DE TRANSFORMADORES C/M G3 U4.2285BANCO DE TRANSFORMADORES C/M G3 U5.2286BANCO DE TRANSFORMADORES C/M G3 U6.
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+NOVIEMBRE 22 DE 2018
+Se abren barrajes por el lado de alta y baja de los tres transformadores, se realiza su respectivo mantenimiento anual electrico.
+Una vez realizado el mantenimiento, se realizó pruebas electricas al banco por parte de la unidad operación y mantenimiento (Carlos Palacio), se realizó protocolo de alarmas y disparos a los 3 transformadores respondiendo las protecciones satisfactoriamente, se verificarón fugas de aceite, ajuste de tornillería y calibración de los seccionadores de linea y tierra. 
+William Lopera.

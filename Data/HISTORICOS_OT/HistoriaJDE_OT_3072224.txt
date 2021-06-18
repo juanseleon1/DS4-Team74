@@ -1,0 +1,12 @@
+DIONIS M. ZAPATA V        11/04/2016
+
+Se traslada el modulo de 24vdc del panel del s.c.i generales, al panel del s.c.i de generadores, ya que la salida de 24vdc hacia las baterias de el panel de generadores fallaron.
+Esta en revision dicha fuente.
+
+DIONIS M. ZAPATA V. 12/04/2016
+Se continua con la revision y reparacion de la fuente
+
+DIONIS M. ZAPATA V.  13/04/2016
+Se repara la fuente y se monta en el panel de S.C.I Generales, esta en observacion.
+
+

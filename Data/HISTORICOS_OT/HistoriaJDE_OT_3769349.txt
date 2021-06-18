@@ -1,0 +1,11 @@
+MP ANUAL:
+ - 2715 CALEFACCIÓN GENERADOR U1 - 2716 CALEFACCIÓN GENERADOR U2 - 2717 CALEFACCIÓN GENERADOR U3 - 2718 CALEFACCIÓN GENERADOR U4 - 2719 CALEFACCIÓN GENERADOR U5 - 2720 CALEFACCIÓN GENERADOR U6
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+OCTUBRE 5 DE 2018
+Se realiza mantenimiento electrico preventivo electrico. Se revisaron las resistencias de calefaccion, midiendo resistencia Ohmica entre ellas, se toman medidas de corrientes y voltajes, se realizo limpieza con dielectrico, se reviso el gabinete de control, conexiones y demas elementos.

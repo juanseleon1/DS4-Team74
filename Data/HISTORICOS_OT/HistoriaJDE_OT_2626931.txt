@@ -1,0 +1,7 @@
+NOVIEMBRE 11/2014 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA VIANA
+Se realiza mantenimiento segun instructivo, se hacen medidas de resistencia de aislamiento a los motores, se deja el sistemas en condiciones de operación.
+. En el modulo +N1 del tablero del sistema se encuentra mala marcación de las respectivas bombas.
+. En el modulo +N3 falta perilla de accionamiento en BCAC2.
+. En el modulo +N4 falta perilla de accionamiento.
+
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD

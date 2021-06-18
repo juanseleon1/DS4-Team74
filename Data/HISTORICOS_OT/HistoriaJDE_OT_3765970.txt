@@ -1,0 +1,6 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2018-09-18
+
+OT PARA EL CAMBIO DE LOS MECANISMOS DE DETECCIÓN DE APLICACIÓN DEL SELLO DE OPERACIÓN DE LA VÁLVULA DE ADMISIÓN DE LA UNIDAD 1 DE PORCE 2
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2018-09-20
+Se realiza intervención a mecanismos de confirmación aplicación y desaplicación sello de operación de operación. Se desmontan los tres mecanismos y se encuentra en los tres la leva interna deteriorada. Se cambia dicha leva se cambian o’ rings y se montan los tres sistemas nuevamente, se realizan prueba de funcionamiento y quedan operando bien el sistema.

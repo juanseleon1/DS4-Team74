@@ -1,0 +1,2 @@
+2018-11-09 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3769457, PASO:1          
+Se realizó revisión y limpieza general al interruptor general del generados asincrónico. 

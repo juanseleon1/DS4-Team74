@@ -1,0 +1,17 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2016-03-02
+OT PARA MONTAJE DE PUNTA DE RODETE DE LA UNIDAD 2 DE PORCE 2.
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2016-03-02
+EN ESTA OT SE REGISTRAN LOS TIEMPOS DE INTERVENCION MECÁNICA PARA EL MONTAJE DE LA PUNTA DE RODETE DE LA UNIDAD 2 DE PORCE 2.
+
+COMENTARIOS DE LA EJECUCIÓN.
+
+Inicio de trabajos: 30 de Abril
+Fin de trabajos: 20 de Mayo
+
+La instalación de la punta de rodete fue realizada conforme a lo planeado, sin emabrgo, durante la ejecución se encontró el rotor con falla a tierra y fue necesario extraerlo para reemplazar el polo 22. También fue necesario realizar prueba de carga al puente grua principal con 250 toneladas para garantizar la confiabilidad del puente grua durante las maniobras de extracción e instalación del rotor. Estas actividades correctivas no planeadas requirieron extender el paro de la unidad por 20 dias más. 
+
+Fue necesario fabricar punta de rodete nueva ya que la desprendida no pudo encontrarse en la almenara, lo que sugiere que fue arrastrada hacia el tunel de descarga. La punta de rodete nueva fue fabricada por el proveedor SAIT S.A. . Para la instalación de la punta de rodete fue necesario retirar el cono de aspiración. 
+El informe detallado de este trabajo se encuentra en el servidor de la unidad operaciones porce en la siguiente dirección:
+\\epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO.
+

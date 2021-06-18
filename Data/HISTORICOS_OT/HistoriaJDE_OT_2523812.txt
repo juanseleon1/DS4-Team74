@@ -1,0 +1,69 @@
+Trabajos mecánicos.
+05 de Mayo de 2014:
+El primer día de inicio de desarme da la unidad 3 después de ser entregada por operación se inició con:
+·Levantamiento del rotor 7 mm y se bloquea mecánicamente con gatos.
+Se organizan tres frentes principales de trabajo y uno de apoyo con el objetivo de garantizar las condiciones para retirar el rotor conformado así:
+·Cojinete combinado.
+Grupo de trabajo: Antonio Molina (en la grúa), Rodolfo Garcés, Camilo Flórez, Andrés Echeverry y Fabio Sierra.
+Trabajo realizado: Se retirar sistema excitación, que incluye las tapas superiores e inferiores de anillos rozantes, luego se procede a retirar tapas o piso del generador para tener acceso al cojinete combinado, en este se procede a extraer el aceite, se retira la tapa superior, se retiran laberintos, se desacoplan tuberías de aireación, de aceite y se iza ménsula se ubica al lado del transformador de reserva.  
+Además se con este equipo de trabajo se asegura el área instalando las baranda de seguridad y se realiza control dimensional de las tapas cabezas de bobina superior, con el objetivo de tener puntos de referencia con respecto al rotor para instalar las tapas de fibra de vidrio que remplazaran las de acero. 
+·Cojinete inferior.
+Grupo de trabajo: Diego Bedoya, Humberto Flor, Atanasio Jaramillo, Fabio Herrera y Rubén López.
+Trabajo realizado: se desmontan tuberías, tapas superiores, laberintos y se desmontan segmentos. 
+Queda faltando por desmontar el anillo bomba.
+·Recinto de turbina.
+Grupo de trabajo: Darío Atehortua, Anderson López, Giovanny Rivera, Jaime Jaramillo.  
+Trabajo realizado: desacople de ejes rotor turbina, se desmonta tapa cojinete turbina y laberinto, anillo auxiliar (riel) y laberinto del cojinete guía inferior, el anillo auxiliar se desacopla con el objetivo de desmontar laberinto del cojinete guía inferior.
+·Grupo de apoyo.
+Grupo de trabajo: Jesús García y Héctor Torres.  
+Trabajo realizado: trasegar aceites de los cojinetes superior, inferior y turbina, tanque regular  y sumidero a canecas de 55 galones, esto se realiza para poder avanzar en el desmontaje de los cojinetes y modernización del sistema hidráulico.
+06 de mayo de 2014
+Se continúa con actividades de desarme de la unidad 3 para entregarla a montajes.
+·Tapa cabezas de bobina superior.
+Grupo de trabajo: Antonio Molina (en la grúa), Rodolfo Garcés, Camilo Flórez, Andrés Echeverry, Yesid Sánchez  y Fabio Sierra.
+Trabajo realizado: Se continúa con el control dimensional y se procede a desmontar tapa cabezas de bobina originales, se desarma y se posiciona la nueva tapa cabezas de bobina, se posiciona con respecto a las referencias trazadas y con respecto a las aletas del anillo ventilador de rotor, se copian estas referencias a la tapa nueva y se retira.
+·Cojinete inferior.
+Grupo de trabajo: Diego Bedoya, Humberto Flor, Atanasio Jaramillo, Fabio Herrera y Rubén López.
+Trabajo realizado: se desmonta anillo bomba y se procede a recoger herramienta de este recinto. 
+·Cono de aspiración y caracol.
+·Grupo de trabajo: Darío Atehortua y Giovanni Rivera.
+·Trabajo realizado: se pone compuerta en almenara, se procede a vaciar cono de aspiración y caracol, se inspecciona compuerta, se encuentra con fuga muy pequeña en la parte superior lado izquierdo del By-pass.
+Se abre escotilla de caracol. 
+·Intercambiadores cojinete combinado. 
+Grupo de trabajo: Jaime Jaramillo y Anderson López.
+Trabajo realizado: se desmonta tubería.
+·Intercambiadores cojinete inferior y de turbina. 
+Grupo de trabajo: Fabio Herrera, Rubén López y Diego Bedoya.  
+Trabajo realizado: desmontaje de tubería y de los 4 intercambiadores.
+·Recinto de turbina (desacople servos).
+Grupo de trabajo: Darío Atehortua, Atanasio Jaramillo, Humberto Flor y Giovanni Rivera.  
+Trabajo realizado: se inicia con desmontaje del piso de turbina y se desacoplan los servos del anillo distribuidor 
+·Izaje, desmontaje y puesta piso de turbina del ROTOR.
+Grupo de trabajo: Antonio Molina (en la grúa), Rodolfo Garcés, Camilo Flórez, Andrés Echeverry, Yesid Sánchez  y Fabio Sierra.  
+Trabajo realizado: se monta dispositivo en el eje del rotor para izaje, se procede desmontar rotor y se descarga en el vacío entre la herramienteria y bodegas de esta. 
+Esta actividad es apoyada por los demás frentes de trabajo, especialmente por el grupo del recinto de turbina.
+·Intercambiadores de refrigeración del generador.
+Grupo de trabajo: Antonio Molina (en la grúa), Rodolfo Garcés, Camilo Flórez, Andrés Echeverry, Yesid Sánchez  y Fabio Sierra.  
+Trabajo realizado: se inicia desmontaje de tubería. 
+·Desmontaje de dispositivo de izaje del rotor.
+Grupo de trabajo: Giovanni Rivera, Héctor Torres, Ricaurte López y Jesús García.  
+Trabajo realizado: se instalan líneas de vida y  se desmonta dispositivo de izaje. 
+07 de mayo de 2014
+Se continúa con actividades de desarme de la unidad 3 para entregarla a montajes.
+·Intercambiadores Generador.
+Grupo de trabajo: Antonio Molina (en la grúa), Rodolfo Garcés, Camilo Flórez, Andrés Echeverry, Yesid Sánchez.
+Trabajo realizado: se desmonta tubería e intercambiadores de refrigeración del generador.
+·Recinto de turbina (anillo distribuidor).
+Grupo de trabajo: Darío Atehortua, Atanasio Jaramillo, Humberto Flor y Rubén López.
+Trabajo realizado: se desacoplan bielas del anillo distribuidor y se desmonta este.
+·Rotor.
+Grupo de trabajo: Giovanni Rivera, Ricaurte López, Fabio sierra. Jaime Jaramillo, 
+Este grupo está apoyado por un grupo de 4 electricistas, traban en conjunto y está conformado por: Wilfer Hincapie, Giovanni Díaz, Francisco Quintero, Wilder Aguirre. 
+Trabajo realizado: se desmonta anillos ventilador, se procede preparan cuñas para ser extraídas, durante la jornada se extraen algunas.
+·Caracol (Mampara).
+Grupo de trabajo: Jesús García, Héctor Torres, apoyados por dos personas del aseo.
+Trabajo realizado: se monta mampara de aluminio para recoger fugas.
+·Intercambiadores de cojinetes, mantenimiento, pruebas y montaje (lavado en el guaje).
+Grupo de trabajo: Diego Bedoya, Fabio Herrera y Anderson López.
+Trabajo realizado: se inicia lavado de intercambiadores (se transportan al sitio)
+

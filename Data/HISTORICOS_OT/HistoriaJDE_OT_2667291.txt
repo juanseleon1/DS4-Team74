@@ -1,0 +1,15 @@
+REALISAR PRUEBAS ELECTICAS AL SISTEMA MOTRIZ,
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+fecha: marzo 13 del 2015 ot: 2667291
+ejecutó: geovanny echeverry - jhonatan arango
+Se realiza mantenimiento a los  MOTORES, CABLEADO DE POTENCIA y TABLEROS CONTROL DE circulación de aceite cojinete guia superior perteneciente al sistema de generador (S3). Según IDM: GCP2E0017. No se encuentran averías en los equipos. Se diligencian planillas con los datos de Vol, Ies y Res. Finalmente se normaliza el subsistema quedando en condiciones normales de operación. 
+el mtto se realiza por oportunidad con planta en 0 mva.

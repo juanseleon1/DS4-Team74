@@ -1,0 +1,14 @@
+MEDIDA DE VIBRACIONES (RUTAS DE INSPECCIÓN) UNIDAD U2 CENTRAL GUATAPÉ SEGÚN PROCEDIMIENTO N° GANTM0002.
+
+
+Nota: 
+El informe se en cuentra en el servidor U; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+  03 Area Guatape 
+    01 Central Guatape OW6328
+       03 Unidad Generadora U2 OW6293
+          01 Vibraciones mecanicas
+                RUTA U2 GTP
+
+La unidad esta en condiciones normales de funcionamiento

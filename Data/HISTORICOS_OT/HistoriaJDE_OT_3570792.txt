@@ -1,0 +1,7 @@
+JHON MARIO PEREZ ARENAS. AGOSTO 17 DE 2017
+
+REVISAR SEÑAL INDICADORA DE APERTURA Y CIERRE DEL SECCIONADOR UNIDAD 2.
+
+18/08/2017. SERGIO OLIVARES D. EJECUTORES: JUAN DAVID GARCIA - OSCAR GIRALDO.
+ En la caja de control del interruptor se encontro cable suelto que lleva el positivo, 
+ por lo cual no encendia la señalización.

@@ -1,0 +1,6 @@
+08/10/2018 - 5:20 
+
+Se identifica que estando la Motobomba como prioridad y en funcionamiento no bombea el aceite al tanque acumulador, se pone en estado apagado y se deja como prioridad la motobomba 2, solicitamos diagnosticar, y /o realizar mantenimiento correctivo.
+
+Informa y realiza: Ivan Zapata - Wilson Arango.
+

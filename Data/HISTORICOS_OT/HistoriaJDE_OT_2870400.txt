@@ -1,0 +1,8 @@
+SE DA PARO LA UNIDAD CON 135 MW Y 13.2 KV, SEGUN MUESTRAN LOS REGISTROS DE LOS EVENTOS SE DA POR UNA SOBRECORRIENTE EN EL INTERRUPTOR PRINCIPAL DEL SAU Y ESTE NO HACE TRANSFERENCIA AL DE EMERGENCIA. LUEGO DE SINCRONIZAR NUEVAMENTE PUDIMOS OBSERVAR QUE LOS SUBSISTEMAS DE REFRIGERACION ESTAN CONMUTANDO CONSTANTEMENTE Y NO ES POR BAJO VOLTAJE PUES EN ESE MOMENTO SE ENCUNTRAN LAS BOMABAS CON 480 VOLT Y LA UNIDAD EN 13.3 KV.
+COMO PREVENCION SE DEJA TRABAJANDO EL CONTROL EN MODO PRUEBA (MANUAL).
+
+FECHA: 08/09/2015 OT# 2870400 PROGRAMADOR: CMONCADA EJECUTA: JENIFFER GARCIA - NEIRO FABIAN PEREZ
+Referente a la unidad # 2:
+Se verifica tablero de control CCM 2 sistema de refrigeración de la unidad, se encontraron varias conexiones flojas, se reapretaron bornes en relés de control,  además se verifica funcionamiento de la válvula de 4 vías ya que si la válvula saca una falla, el PLC manda a parar el subsistema que está en funcionamiento  y transfiere al subsistema de respaldo, para evitar que se transfiera se desconecta borne 14 en el tablero de control de la válvula 4 vías mientras se modifica el programa de control en el PLC para que no tenga en cuenta esta señal de la válvula.
+Trabajo realizado por: Grupo de operación y mantenimiento de la U.O.P.                                                                                                                          
+Informa: Ing. Jorge Rodriguez

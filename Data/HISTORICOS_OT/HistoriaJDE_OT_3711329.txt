@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711329
+
+BAE: INSPECCION Y LIMPIEZA RECINTO GENERADOR UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA MARIA VIANA.
+
+Se hace revisión en el recinto del generador de la iluminación, tomas eléctricas, cableados del recinto, se revisa el estado del sistema de puesta a tierra, el estado de la soportería metálica, revisión de las mallas de separación en barras y punto neutro y se realiza limpieza en la totalidad del recinto (con grupo mecánico).
+Trabajos realizados por: OIga Viana, Yoanis Rodriguez, Dario Puerta, Jhonatan Arango.

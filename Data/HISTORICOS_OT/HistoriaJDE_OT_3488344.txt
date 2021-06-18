@@ -1,0 +1,10 @@
+FECHA: 22/05/2017
+SOLICITADA POR: JUAN DAVID GRANADA / OSCAR ARANGO
+
+Se esta presentado la señal "Falla Interna SEL 387E", despues de realizar un seguimiento detallado al lazo de control, se evidencia una falla en el canal ALARM - Supervision del estado interno del rele. Se hablo con Juan David Granada del equipo de protecciones y propone enviarle un rele nuevo para programarlo, luego se debe cambiar por el que esta presentando problemas.
+
+Solicitante: Oscar Arango
+Programador: Jose Montoya
+
+JORGE ALIRIO HERNANDEZ QUINTERO
+ SE REALIZA CAMBIO DE RELE SEL 387E , SE REALIZA MONITOREO Y LA FALLA DESAPARECE.

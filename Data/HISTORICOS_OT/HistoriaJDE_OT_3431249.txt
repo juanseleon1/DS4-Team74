@@ -1,0 +1,23 @@
+MANTENIMIENTO GENERAL MOTOBOMBA CS BCS 2 UNIDAD 1 CENTRAL PORCE 2.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones.
+5. Inspeccionar fugas.
+6. Engrasar (identificar puntos)
+7. Revisar alineación.
+8. Verificar estado general exterior (pintura).
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2017-03-26
+ESTA BOMBA SE ENCONTRABA FUERA DE SERVICIO POR DAÑOS EN EL IMPELER.
+SE REALIZA ARMADO DE BOMBA 2  DEL SELLO DEL EJE DE LA UNIDAD 3
+SE REPARA VALVULA DE CHEQUE TIPO LENTEJA Y SE MONTA
+SE MONTA Y ALIENA BOMBA
+SE REALIZAN PRUEBAS Y QUEDA EN OPERACION
+
+TRABAJO REALIZADO POR: LUIS MORALES Y FRANCISCO GUINGUER

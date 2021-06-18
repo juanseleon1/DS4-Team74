@@ -1,0 +1,15 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+--------------------------------------
+
+FECHA: 2014-08-04
+EJECUTÓ: DAVISON PEREZ - JHON J ORREGO
+Se realiza mantenimiento al sistema de cojinete guía inferior, tableros eléctricos y cajas de conexión de los equipos, motobombas y válvulas motorizadas del sistema de bombeo y circulación de aceite  lubricación forzada. Según IDM: GCP2E0017. No se encuentran averías en los equipos. Se diligencian planillas con los datos de Vol, Ies y Res. Finalmente se normaliza el subsistema quedando en condiciones normales de operación.
+INFORMÓ: CRISTIAN A GÓMEZ
+--------------------------------------

@@ -1,0 +1,14 @@
+XL: REVISION Y MTTO GENERAL
+SERVICIOS AUXILIARES UNIDADES GT 
+
+EL INSTRUCTIVO DE MANTENIMIENTO SE REFIERE ES AL PLC, FALTA LAS ACTIVIDADES PARA LOS SERVICIOS AUXILIARES
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2514868
+Se realizó revisión de tranferencia de servicios auxiliares Unidad 5 y Unidad 6. 
+
+Se registró los tiempos de: 
+Tranferencia hacia respaldo (DP1): 6 segundos
+Tranferencia hacia principal (DP2): 2 minutos
+
+Se encontró en funcionamiento normal.
+Duración: 0.5 Horas

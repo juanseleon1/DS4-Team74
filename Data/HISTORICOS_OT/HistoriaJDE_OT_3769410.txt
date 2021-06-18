@@ -1,0 +1,6 @@
+
+2018/10/04 DIEGO BEDOYA
+Se realiza la revisión del nivel de aceite del cojinete de turbina de la U8, el registro fue el siguiente:
+Prosonic: 362 mm
+Flexómetro: 303 mm
+El trabajo fue realizado por Andres Alzate y León Parra

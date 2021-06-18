@@ -1,0 +1,10 @@
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios
+EJECUTO:Diego Restrepo.
+PLANEADOR: RMONTOYG
+OT PADRE: 3466843
+CONSIGNACIÓN: @135887
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos TCBAM, acometidas y conexiones de los motores de AC y DC. Se toman medidas en los motores de aislamiento y se llenan registro.
+
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD

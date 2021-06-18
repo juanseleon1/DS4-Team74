@@ -1,0 +1,9 @@
+Realizar pruebas e instalar swicht de gestion para la red de la unidad 2 de Porce II
+
+
+08/01/2014
+
+
+Se realizan pruebas con switch gestionable en la red de control de la unidad 2 de Porce II para evitar coliciones de multicast y broadcast. se configura e instala un nuevo swicht para esta gestion e independizar las redes de control de esta unidad.
+
+Realizado por Wtobonl

@@ -1,0 +1,56 @@
+FECHA: LUNES 01/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, CAMILO FLOREZ
+ASOCIADO A LA OT: 3759042
+ASUNTO: EJECUTAR MANTENIMIENTO PRGRAMADO
+   SE REALIZA EL MP SIGUIENDO EL INSTRICTIVO DE MANTENIMIENTO, SE ANOTAN LOS DATOS EN LA PLANILLA ADJUNTA.
+   EL EQUIPO SE ENCUENTRA EN CONDICIONES OPERATIVAS NORMALES.
+   SE ENTREGA AL PERSONAL DE OPERACION DE LA CENTRAL. 
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DE TEMPERATURA, HOROMETRO Y PRESION DE FLUJO MOTOBOMBAS DE REFRIGERACION GENERADORES
+
+Nota : Realineamiento Anual
+
+Motobombas de refrigeración # __2___
+
+horometro:__________44137.1______________
+
+vibraciones cojinete ventilador 1VP(mm/s):_____1.1______
+
+vibraciones cojinete ventilador 2HP(mm/s):_____1.8______
+
+vibraciones cojinete de acople 3VP(mm/s):______1.4_____
+
+vibraciones cojinete de acople 4HP(mm/s):______1.7_____
+
+vibraciones bomba acople 5VP (mm/s):____2.0______
+
+vibraciones bomba acople 6HP (mm/s):____1.6______
+
+vibraciones bomba descarga 7VP (mm/s):_____1.4_______
+
+vibraciones bomba descarga 8HP(mm/s):______0.9______
+
+temperatura motor: ( °C ):___60_____
+
+temperatura bomba: ( °C ):____37_____
+
+Presión de trabajo: ( Kg/cm ):_____3.3_______
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0044

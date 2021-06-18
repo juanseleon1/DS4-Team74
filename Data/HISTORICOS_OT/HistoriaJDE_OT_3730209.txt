@@ -1,0 +1,41 @@
+2018/05/28 RUBEN ARBOLEDA
+Se crea OT para registrar labores de apoyo al personal de medellin, con la revisión del RETIE y RETILAP.
+
+2018-05-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3730209, PASO:1          
+Se realizó acompañamiento al personal de CIDET y Dagelec para la ejecución del diagnostico RETIE y RETILAP el alcance del diagnóstico será casa de máquinas, cámara de válvulas, captación, subestación de Guatapé  entre otros, se inició con la revisión en Subestación Guatapé
+
+2018-05-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:2          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Subestación, se realizó medidas de iluminación.
+
+2018-05-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:3          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Subestación, se realizó medidas de tensiones de paso y toque.
+
+2018-05-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:3          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Casa de Máquinas, se realizó medida de iluminación normal y de emergencia.
+
+2018-05-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:4          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Casa de Máquinas, se realizó medida de iluminación y sistemas de puesta a tierra
+
+2018-05-31 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:5          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Casa de Máquinas, se realizó medida de iluminación y sistemas de puesta a tierra
+
+2018-06-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:6         
+ Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Casa de Máquinas, se realizó medida de sistemas de puesta a tierra
+
+2018-06-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3730209, PASO:7          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en Captación y cámara de válvulas.
+
+2018-06-09 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3730209, PASO:8          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en túnel de acceso, casa de maquinas y Subestación.
+
+2018-06-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3730209, PASO:9          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en túnel de acceso, casa de maquinas y Subestación.
+
+2018-06-11 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3730209, PASO:10          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en túnel de acceso, casa de maquinas y Subestación.
+
+2018-06-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3730209, PASO:11          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en túnel de acceso, casa de maquinas y Subestación.
+
+2018-06-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3730209, PASO:12          
+Se continuó con el apoyo al personal de CIDET en el diagnostico RETIE y RETILAP en túnel de acceso, casa de maquinas y Subestación.

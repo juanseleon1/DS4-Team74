@@ -1,0 +1,17 @@
+FECHA: JUEVES 19/06/2018
+PROGRAMO: WILFER HINCAPIE
+EJECUTO: WILFER HINCAPIE
+ASUNTO:  EJECUTAR  VARIAS LABORES EN CASA DE MAQUINAS PLAYAS
+  * Editar planos de SIEMENS para posterior actualizacion.  
+  * Verificaciòn de estado de discos duros para cambio en IHM 
+  * Reporte de tiempos, OT´s y anexos del grupo electricistas
+  * Desmontaje de equipos y sensores, para revisiòn y reparaciòn.
+  * Toma de muestras de aceite trafo N3.
+
+SE CAMBIA DE ESTADO EL 01 DE JULIO DE 2018. SE EJECUTA.
+
+FECHA: MIERCOLES 04 DE OCTUBRE DE 2018.
+SE CIERRA LA OT PORQUE SE EJECUTAN LOS TRABAJOS EXITOSAMENTE
+
+
+ 

@@ -1,0 +1,10 @@
+Fecha: 24/01/2018   Solicitado por: Mario Zapata  - Gustavo Quintana
+DESCRIPCIÓN: Revisar en el regulador de velocidad  falla agujas prioritarias 2 y 4  . Esta alarma provocó  una falla grave en el regulador de velocidad  ,  provocando así un paro rápido en  la unidad nro. 1 , teniendo en cuenta que , antes del paro  dicha unidad  no generó  alarmas en la pantalla  G3 S8 de la sala de control.
+
+SE REVISA EL CONTROL Y SE ENCUENTRA UNO DE LOS ACTUADORES PEGADO, SE LE REALIZARON MOVIMIENTOS Y NORMALIZO TODO EL SISTEMA.
+
+REALIZO: GRUPO DE ELECTRONICA
+
+
+
+

@@ -1,0 +1,5 @@
+MANTENIMIENTO GENERAL VALVULA ADMISION CENTRAL PORCE 2.
+
+Se realizo limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los microsuiches de estado de la válvula, sello de operación y aplicación del Bulón, comprobando su correcta visualización en el sistema de control.
+

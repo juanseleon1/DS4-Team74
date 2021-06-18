@@ -1,0 +1,8 @@
+2016/05/24 FERNANDO RIUZ - GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG, PASO 1 OT:3120658
+Se realizó limpieza general al tablero de control de la UMA, 
+
+2016/05/25 FERNANDO RIUZ - GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG, PASO 1.1 OT:3120658
+se realizó medida de aislamiento y corriente de servicio. 
+
+2016/06/20 FERNANDO RUIZ - GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG, PASO 2 OT:3120658
+EQUIPO: UMA 10 CORRIENTE: R:3,1, S:3,1, T:3,1, VOLTAJES RS:459, ST:459, TR:453, AISLAMIENTO DE MOTOR: 760 M La perilla de control esta reventada, queda sin ésta, Se anexa la planilla en formato PDF a la OT.

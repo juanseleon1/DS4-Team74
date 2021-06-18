@@ -1,0 +1,14 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO: JHON JADAER ORREGO.
+Se realiza inspección al barraje de fase aislada, a las puestas a tierra y a la estructura. Se inspeccionan las RTD´s, se realiza mantenimiento al tablero de control del aire a presión y se verifican presiones en los ductos.
+Trabajo ejecutado por: John Jader Orrego, Frank Manuel Córdoba, Alejandro Echeverri y Ángel Sánchez 
+
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

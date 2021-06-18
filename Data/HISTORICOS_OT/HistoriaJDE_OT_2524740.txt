@@ -1,0 +1,19 @@
+Verificar el estado de los presostatos ubicados en los bujes de salida de la linea 1 correspondientes, los cuales son en SF6 y presentan alarmas activas y disparo.
+
+09/05/2014
+
+Se realiza verificacion de los presostatos de repuesto para cambiar en el caso de una eventualidad, ademas se hace necesario fabricar racord para verificacion de estos equipos.Realizado por Wtobonl
+
+
+Se solicita consiganación de emergencia de la línea 1 y el banco 2 al CND para el 11 de Mayo, de 8:00 a 13:00. (consignación 108395) Tiempo en el cual se realizará la inspección, limpieza y verificación de los contactos de los presostatos de las 3 fases. Se realizará también prueba de disparo del interruptor 5U210 por estas señales. Informó: Santiago Ramírez.
+
+11/05/2014
+
+Se normaliza el disparo de las GIS en la fases R, S y T de la linea 1, se encontro presencia de hormigas en los transductores, ademas de problemas en el controlador del TSAC para enviar los disparos pertinentes a las protecciones de cada linea, se normalizan. 
+
+realizado por Equipo Mantenimiento y Operacion 
+Nota realiza por Wtobonl
+
+
+Se limpian contactos y se sella tapa del visor y conector con silicona. Se prueban señales de alarma y disparo de cada presostato quedando la alarma a 3,5 bar y disparo en 3 bar. La lectura de presión de SF6 en las tres fases es de 4,5 bar. Se recomienda chequear periódicamente voltaje de retorno de los presostators en la bornera X003 del TUPS4.
+La prueba de disparo del interruptor 5U210 no se pudo realizar durante la maniobra de conexión como se tenía planeado debido a que se presentó problemas de comunición. Al corregir este problema se simuló condición y se verifió salida del PLC del disparo hacia el rele de protecciones. Informó: Santiago Ramírez.

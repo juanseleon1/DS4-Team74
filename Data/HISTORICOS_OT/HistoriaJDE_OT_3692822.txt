@@ -1,0 +1,10 @@
+XL: VERIFICAR Y LIMPIAR PREVENTIVO CONTROL UNIDAD GENERACION TRONERAS
+
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR: LUIS CARDONA
+
+Se realizó inspección visual, verificación y limpieza del tablero de control.
+Se revisó la conexión de los cables y se reapretó la bornera de control.
+Se realizó verificación y mantenimiento a la pantalla de unidad 

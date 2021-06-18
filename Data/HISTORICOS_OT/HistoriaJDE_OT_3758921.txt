@@ -1,0 +1,12 @@
+XE: VERIFICAR Y REVISAR EL CONTROL, PREVENTIVO ELECTRICO FRENOS GENERADOR TRONERAS 
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+SEPTIEMBRE 13 DE 2018
+Se realizó el mantenimiento electrico semestral según el instructivo GCTRE0006.
+Se revisaron los sensores de posición de los frenos y se realiza limpieza a los sensores inductivos, se hacen pruebas para verificar su correcto funcionamiento, no se evidencian anomalías.
+Programó: William Lopera.

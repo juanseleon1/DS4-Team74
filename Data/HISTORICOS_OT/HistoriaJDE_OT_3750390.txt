@@ -1,0 +1,29 @@
+
+2018/08/088 _ CARLOS ENRIQUE MONCADA. OT N° 3750390.
+Se realiza inspección de las comunicaciones del sistema verificando los RELES encontrandolos sin en fallas y sin alarmas presentes, todos los equipos se encuentean en modo RUN.
+La Pantalla del RELË de pretección respaldo Linea y verificaciíon de sincronismo se encuentra poco visible no permitiendo leer de manera clara los eventos y fallas.
+Realizo: Jeniffer García, Iván Darío Ramirez.
+
+
+FECHA: 31/07/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+REALIZAR CONSIGNACION LOCAL, PERMISO DE TRABAJO LOCAL CON LOS TECNICOS E INFORMAR A LOS OPERADORES DE LA CENTRAL
+
+REALIZAR MANTENIMIENTO E INSPECCION EN CONTROLADOR DE BAHIA Y RELES DE PROTECCIONES LINEA 1 SUBESTACION 500 Kv
+
+Realizar inspeccion y verificacion la comunicacion del sistema, verificacion de fallas, eventos y alarmas del rele SIPROTEC, ademas de limpieza de la fibra optica y  estado del tablero. OJO NOTA el rele no se debe apagara y solo se realizara una inspeccion del sistema y anexar las notas de alarmas o fallas encontradas. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 

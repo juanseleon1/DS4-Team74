@@ -1,0 +1,24 @@
+Planeador: Wilson Efrain Morales Giraldo
+Aprobador: Daniel Eduardo toscano Patiño
+Fecha de creación: 02/11/2016
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+·Recorrido por los componentes de la presa; 
+oCresta 
+oTalud aguas arriba
+oTalud aguas abajo 
+oEstribos 
+oVertedero 
+oCompuertas (vertedero o descarga de fondo) 
+oGalerías
+·Realizar lectura de la instrumentación; 
+oPiezómetros
+oPozos de observación 
+oInclinómetros 
+oMedidores de infiltraciones 
+oExtensómetros
+oCeldas de carga
+oMedidor de asentamiento 
+oCeldas de asentamiento
+oCelda de presión total
+ Descargar la información en la base de datos de seguridad de presas.

@@ -1,0 +1,11 @@
+PREVENTIVO BOMBA # 2 REGULADOR HIDRAULICO UNIDAD 3 GENERADOR GUADALUPE III
+
+PLANEADOR:CARLOS GIORDANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+Junio 13 de 2018
+Se realiza mantenimiento cuatrimestral electrico general al tablero de control, se realiza pruebas elctricas al motor y limpieza general, sin ninguna novedad
+Realizó: Edgar Rodas - Tatiana Galvis.
+
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE MR - S448.3R155.2R14.8R947S - T448.5S153.9S 12S914T - R452.3T147.6T14.3T897Programó: William Lopera.

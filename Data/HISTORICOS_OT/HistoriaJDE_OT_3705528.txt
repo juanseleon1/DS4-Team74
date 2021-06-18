@@ -1,0 +1,12 @@
+PREVENTIVO ELECTRICO NEUTRO TIERRA UNIDAD GENERACION GUADALUPE 3
+
+
+
+PLANEADOR:GERMÁN BETANCUR
+
+PROGRAMADOR:WILLIAM LOPERA.
+
+
+Abril 12 de 2018.
+se realizó el mantenimiento cuatrimestral electrico de acuerdo al instructivo GCG3E0005, se hace mantenimiento a los CT’ S de corriente, se revisan las resistencias del neutro se limpian y se miden comprobando que estén en buen estado. 
+Programó: William Lopera

@@ -1,0 +1,9 @@
+SOLICITANTE: OPERACIÓN G3 TURNO 2 FECHA:07/12/2015
+
+SERVOMOTOR PRESENTA FUGA CONSIDERABLE DE ACEITE. REVISAR Y CORREGIR.
+
+Programador: Camilo Montagut - 12/05/2015
+
+Se realiza apriete de toda la tornillería del servo verificando que no queden fuas de aceite. Es de tener en cuenta que si la fuga persiste se debe cambiar el empaque interno del equipo
+
+Ejecuta: equipo mantenimiento mecánico GIII

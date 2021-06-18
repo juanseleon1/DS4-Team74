@@ -1,0 +1,13 @@
+ENERO 15 DE 2014
+
+SANDRA MARCELA CARMONA TOBON
+
+Se genera esta OT para efectuar el cambio del rele RE670 por fallas en su operacion. Se reeamplaza por respuesto nuevo del almacen y se programa en conjunto con personal de protecciones Ing Juna David Granada.
+
+Ejecutantes: Sandra Carmona
+
+Se realiza cambio de Rele REC670 en U3 exitosamente, se realizan pruebas al equipo y se deja operativo. EL resultado del analisisi arroja que el relé que fallo tenia problemas con la fuente de alimentacion a 125 Vdc y reiniciaba constantemente. Estas fuentes van a ser cambiadas por iniciativa del fabricante.
+
+Durante el cambio de equipo y pruebas se detecto minibreaker de aliemtnacion de los PT de linea abierto, no disparado.
+
+Informa: Sandra Carmona y Johan Ramirez

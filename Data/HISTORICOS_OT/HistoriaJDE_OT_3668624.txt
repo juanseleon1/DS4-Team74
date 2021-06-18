@@ -1,0 +1,9 @@
+2018/01/09
+CARLOS HDO. SALAZAR
+NO SE ESTÁ ACTIVANDO LA ALARMA LUMINOSA.
+
+2018-01-09 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3668624, PASO:1          
+Se realizó revisión de la alarma visual de la Unidad 3, durante la revisión de esta en una de las pruebas funcionó correctamente, se realizaron varias pruebas y se dejó funcionando.
+
+2018-01-14 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3668624, PASO:2         
+El día de hoy se encontró fuera de servicio la alarma visual de la unidad 3, se realizó revisión y se encontró relé RUA con deficiencia en su funcionamiento, se destapó y se realizó limpieza, se instaló y se dejó en condiciones normales.

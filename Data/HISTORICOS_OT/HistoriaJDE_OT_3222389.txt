@@ -1,0 +1,7 @@
+CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+2016-09-13 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222389, PASO:1         
+Mantenimiento preventivo Unidad 3, válvula de admisión, fue necesario realizar el cambio de un sensor, correspondiente a la señalización de apertura del By Pass, este sensor presentaba el siguiente fenomeno: Cuando se sensaba quedaba destellando el led de indicación, si se apagaba y se energizaba quedaba normal, pero si se volvia a sensar inciaba a destellar, se cambio y se dejó en condiciones normales.CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+2016-09-13 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222389, PASO:1         
+Mantenimiento preventivo Unidad 3, válvula de admisión, fue necesario realizar el cambio de un sensor, correspondiente a la señalización de apertura del By Pass, este sensor presentaba el siguiente fenomeno: Cuando se sensaba quedaba destellando el led de indicación, si se apagaba y se energizaba quedaba normal, pero si se volvia a sensar inciaba a destellar, se cambio y se dejó en condiciones normales.

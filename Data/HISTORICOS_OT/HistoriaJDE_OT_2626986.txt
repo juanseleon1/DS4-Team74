@@ -1,0 +1,4 @@
+NOVIEMBRE 10/2014 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA VIANA
+Se realiza mantenimiento segun instructivo, se hacen medidas de resistencia de aislamiento a los motores, se deja el sistemas en condiciones de operación. El interruptor Q1 de la alimentación de la bomba 1-AC, no se encuentra en el tablero +TCBA(ubic ado en S2) si no en el la plataforma del S3.
+
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD

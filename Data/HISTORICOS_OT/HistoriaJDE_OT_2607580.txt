@@ -1,0 +1,11 @@
+2014/09/2014 JUAN CARLOS GRANADOS.
+MANTENIMIENTO PREVENTIVO ESTATOR.
+- REVISION DE CUÑAS.
+- REVISION DE AMARRES DEVANADO.
+- PRUEBAS ELECTRICAS PREDICTIVAS.
+- LIMPIEZA NUCLEO ESTATORICO ZONA DE RADIADORES.
+
+2014/11/21 GRUPO DE MANTENIMIENTO ELECTRICO
+Se realizó pruebas, verificación y pintura en general acorde a lo planeado, el estator fue limpiedo mediante Limpieza Criogenica por la empresa CRITECH en la OT: 2477362, Fue necesario ralizar adecuacion de plataformas, adecuación electrica. 
+
+Para la prueba del CID, se realizó la adecuación de 20 vueltas cada una a 90° (Aproximadamente) y a un metro de distancia del estator, tanto en la parte interna, superior y externa. 

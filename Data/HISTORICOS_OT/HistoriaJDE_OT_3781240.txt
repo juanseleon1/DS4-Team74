@@ -1,0 +1,14 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento mecánico preventivo del teleférico
+
+
+Programador: Camilo Montagut - 16/11/2018
+
+Se realiza el mantenimiento mensual de lubricación en el teleférico donde se incluye las actividades de engrase y limpieza de los siguientes equipos:
+
+- Bronzinas de la torre soporte
+- Polea motriz y contradisco
+- Poleas auxiliares (desviadoras, reenvío y soporte)
+- Poleas de carricoche
+- Reductor
+
+Ejecuta: equipo mantenimineto mecánico UOG

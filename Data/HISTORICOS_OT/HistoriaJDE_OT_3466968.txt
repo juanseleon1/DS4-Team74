@@ -1,0 +1,10 @@
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios
+EJECUTO: Julian Giraldo.
+PLANEADOR: RMONTOYG
+OT PADRE: 3466843
+CONSIGNACIÓN: @135887
+
+Se realiza inspección, limpieza y mantenimiento al tablero eléctrico +TLCT, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+
+XE: VERIFICAR, INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCT DE LA UNIDAD

@@ -1,0 +1,18 @@
+DIONIS MAURICIO ZAPATA VALENCIA 08/08/2016
+
+REVISAR LAS BASES DE DATOS YA QUE NO SINCRONISAN CON LAS ESTACIONES DE OPERACION Y LA DE INGENIERIA
+
+
+Dionis Mauricio Zapata Valencia. 16/08/2016
+
+Se realiza conexcion remota con el personal de SIEMENS Bogota, y se habilita el monitoreo y control de las Unidades, queda pendiente habiltar bases de Datos para los historicos.
+
+Dionis M. Zapata V.   03/09/2016
+El dia Jueves 01/09/2016, presenta falla el sistema de control Scada, se dejan de monitorear las maquinas, quedan trabajando desde el Nivel 3 (Local -Automatico).
+El Dia Viernes 02/09/2016 se conectan de forma remota (desde Bogota) el personal de SIEMENS, y logran solucionar parte del problema.
+*Se Resetean todos los servidores.
+*Se modifican los Logs ASRs
+*Con estas acciones y modificaciones logran subir los servidores Web y RTSCS, los servidores PSOS, quedan deshabilitados hasta que el personal de Siemens, este en planta, por el momento con estas acciones quedan habilitados los historicos y el monitoreo y control de las maquinas.
+
+No se pueden hacer madificaciones a las variables, ni hacer Backup. 
+ 

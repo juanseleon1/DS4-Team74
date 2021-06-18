@@ -1,0 +1,15 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: NOVIEMBRE 25-2016
+EJECUTANTE: PEDRO ROBAYO ,ELIECER PUSHAINA 
+ 
+
+Noviembre 25 PROBAYO
+
+Se continua con la revision del control de la falla en el AG13 se encontro el fusible del modulo 2036 quemado
+
+ Noviembre 26 PROBAYO
+Se continua con la revision del control de la falla en el AG13 en esta ocacion se hace el cambio del a fuente 102 A1 y se retiran todas las entradas del modulo 2036 para energizarlo y descartar quedando el RFC en RUM quedando pendiente para mañana para ir conectando entrda por entrda y asi descartar cual es la que eta en corto 
+
+Noviembre 30 
+
+Se conectan todas las entradas del modulo 2036  9.1quedando muy bien ( Henry)

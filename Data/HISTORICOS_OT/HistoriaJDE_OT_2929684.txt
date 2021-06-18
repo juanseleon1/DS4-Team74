@@ -1,0 +1,4 @@
+FECHA: NOVIEMBRE19/2015PROGRAMO: DANIEL PALACIOSEJECUTO: DANIEL MOLINA VALENCIA (CIVALCO)
+Se realizan las pruebas al sistema de la Unidad 2, con la anomalia que el modulo de control del estrobo esta por fuera y el modulo de control de la campana se encuentra en falla (se requiere cambio de ambos). El resto de los dispositivos estan respondiendo normalmente a los eventos realizados.
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD

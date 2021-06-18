@@ -1,0 +1,6 @@
+SEMESTRAL ELECTRICISTA/H4000 TIPO2
+CADENA PARADA DE EMERGENCIA AEROGENERADOR
+
+JUNIO 06/2018 OT: 3730481  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO Y HENRY GIRALDO
+
+Se accionan los paros de emergencia de la Top Box, Bottom Box, Estación Hidráulica y Grúa, también se acciona de forma manual el sensor de vibración externa; con cada uno de estos accionamientos se comprueba la apertura de los Tip´s, la apertura del Main Switch y la activación del Safety Chain. 

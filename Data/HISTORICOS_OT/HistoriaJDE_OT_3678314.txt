@@ -1,0 +1,15 @@
+MANTENIMIENTO PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+ENERO 30 DE 2018.
+
+
+FEBRERO 15 DE 2018.
+Se realiza mantenimiento preventivo electrico general segun instructivo GCGE0009, sin ninguna novedad, no se cambio niguna escobilla.
+Pruebas realizadas a los anillos rozantes antes y despues de lavado la excitación.
+
+Voltaje Aplicado Voltaje Recibido Valor resistencia Antes 500 500 1.01 GDespués 500 504 1.02 G
+Prgramó: William Lopera.

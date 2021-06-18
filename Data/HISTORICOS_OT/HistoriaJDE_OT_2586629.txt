@@ -1,0 +1,8 @@
+2014/08/24 RAMIRO A TORRES.
+Sale la alarma repetidamente "falla tierra cargador 2" en generales de primera etapa. alimenta las cargas de segunda etapa.
+2014/09/03 ADONIS CADAVID - CESAR HOYOS - GIOVANNY DIAZ - YEISON ORTEGA RUBEN ARBOLEDA.
+El día 2014/09/02 a las 2 de la tarde se presentó alarma falla a tierra cargador, en la estación de operación, el día 2014/09/03 se inició con la revisión aunque la alarma desapareció se realizó instalación de equipo para detección de tierras, pero la falla no se encontraba presente, se realizó normalización de relés en el cargador y se dejo en observación con la instrucción al equipo de operación en caso de aparecer la alarma informar para rastrearla.
+2014/09/24 ADONIS CADAVID - CESAR HOYOS- YEISON ORTEGA - OSCAR GIRALDO
+Informa operación que la alarma de cargador 2 a tierra está presente, se instala el equipo de detector de tierras y se identifica el negativo del circuito de válvula esférica de la unidad 8 a tierra. Se procede a rastrear la línea  y se llega hasta la electroválvula 20BP correspondiente al By-pass, se destapa la caja de conexión eléctrica y se encuentra llena de agua; se desmonta la bobina se limpia todo el conjunto y se cambia una terminal defectuosa. Se revisa las otras 2 electroválvulas 20HL y SVC encontrándose normales las conexiones eléctricas. Se identificó que en algún momento estas electroválvulas les cayó agua porque presentan cierto grado de sulfatación en la parte superior, hay que realizar seguimiento de donde pudo o puede provenir el agua.
+Se normalizan los reles en el cargador 2 borrando la alarma en el saco de alarmas generales.
+

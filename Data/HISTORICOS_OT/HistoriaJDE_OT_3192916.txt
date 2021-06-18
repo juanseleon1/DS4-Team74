@@ -1,0 +1,4 @@
+PREVENTIVO MECANICO VALVULA ADMISION UNIDAD GENERACION GUADALUPE 3
+
+Se realizó según instructivo.
+El accionamiento de la válvula de By Pass presentó falla al cerrar debido al desembrague entre el piñón de la volante y el piñón del vástago, se desmonta el mecanismo y se corrige la falla mediante ajuste del mecanismo (tuerca y cuña flojos)                             

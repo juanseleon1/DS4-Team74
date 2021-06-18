@@ -1,0 +1,7 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+DESMONTAR INSTRUMENTACION DEL SISTEMA DE FRENOS DEL GENERADOR.
+
+12/ABRIL/2014
+Se realiza la desconexion y el desmontaje de los  4 sensores de frenado y los 4 sensores de desgaste de zapatas, con su respectiva base.          Se retira el cableado existente para cambiarlo por uno nuevo.
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+

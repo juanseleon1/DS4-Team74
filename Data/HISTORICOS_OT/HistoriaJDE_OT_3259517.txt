@@ -1,0 +1,9 @@
+27/09/2016
+ALEJANDRO VERGARA
+para revisión del sistema escada ya que la parte de control conjunto MW no habilita la señal para su trabajo la señal es AK2A42-CMWCCMW ETAPA 2
+
+Como el control de la maquina 6 esta apagado, no la ve, cuando se requiera se puede simular que esta maquina esta vigente, con en controlador en linea.27/09/2016
+ALEJANDRO VERGARA
+para revisión del sistema escada ya que la parte de control conjunto MW no habilita la señal para su trabajo la señal es AK2A42-CMWCCMW ETAPA 2
+
+Como el control de la maquina 6 esta apagado, no la ve, cuando se requiera se puede simular que esta maquina esta vigente, con en controlador en linea.

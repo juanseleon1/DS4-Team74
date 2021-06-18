@@ -1,0 +1,6 @@
+FECHA: MAYO 30/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO: JOHN JADER ORREGO.
+PLANEADOR LUIS FEDERICO ALVAREZ A.
+Se realiza inspección, limpieza y mantenimiento al tablero de control y de protecciones de la unidad +TPU.
+Trabajo ejecutado por: John Jader Orrego, Ángel Sánchez, Alejandro Echeverry, Alejandro Cardona.
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

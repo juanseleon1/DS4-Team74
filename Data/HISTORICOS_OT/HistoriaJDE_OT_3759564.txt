@@ -1,0 +1,12 @@
+
+CON LA UNIDAD SINCRONIZADA Y CARGADA CON 135 MW SALE DE SINCRONISMO POR FALLA CONTROLADOR.
+FECHA: AGOSTO 28 DE 2018.
+
+SOLICITA: CARLOS M GUINGUER - VICENTE GAMBOA H.
+
+FECHA: 28/08/2018 OT: 3759564 PROGRAMADOR: IVAN DARIO RAMIREZ EJECUTA: ELADIO PIEDRAHITA
+
+Se realiza mantenimiento a RACK 4/5 del controlador de unidad, se verifica nuevamente el funcionamiento de los diferentes subsistemas, se gira la unidad y se sincroniza, se carga con 90 MW y se observa un buen comportamiento de los diferentes subsistemas.
+
+Informa: Jorge Rodríguez - Iván Darío Ramírez
+

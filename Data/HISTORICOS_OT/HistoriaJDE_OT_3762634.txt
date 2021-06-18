@@ -1,0 +1,12 @@
+FECHA: Septiembre 03/2018PROGRAMO: Daniel PalaciosEJECUTO: Yoanis Rodriguez
+
+Se realiza limpieza de excitacion a la unidad, se toman medidas de aislamiento del rotor y de longitud de las escobillas, se llenan registros. La medidad de aislamiento es:
+
+1. ANTES DE LIMPIAR:
+  ANILLO SUPERIOR: 134.1 MOHM.
+ ANILLO INFERIOR: 134.7 MOHM.
+
+2. DESPUES DE LIMPIAR:
+ ANILLO SUPERIOR: 3.34 GOHM..
+ ANILLO INFERIOR: 3.67 GOHM.
+NOTA: No se cambiaron escobillas por encontrarsen en el rango de aceptación por longitud.

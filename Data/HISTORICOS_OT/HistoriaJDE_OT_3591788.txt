@@ -1,0 +1,32 @@
+
+Programador: Camilo Montagut - 20/12/2017 
+
+Se inspecciona la bomba de refrigeración encontrando que en algunos momentos la bomba reduce su capacidad de levantar presión en comparación con la bomba de la unidad 1. Queda pendiente programar desmonte de la motobomba para verificar su condición interna (impeller, sellos, eje y bujes)
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:SERGIO RAMÍREZ
+
+SEPTIEMBRE 08 DE 2017
+
+
+08/09/2017. 8:45.a.m
+
+Se evidencia que la motobomba de Refrigeraciòn principal de la unidad nro. 2, viene reduciendo su capacidad de levantar presiòn, comparativamente con la Motobomba de la unidad 1, se verifica que estando a la misma carga la 1 genera una presiòn de 2,8 Bar y la 2 hoy solo esta llegando a 1 bar, es importante entonces diagnosticar y normalizar, se le viene ayudando con la Bomba de Respaldo.
+
+Solicita: operaciòn Troneras. Turno 3.
+
+WILSON ARANGO BEDOYA.+
+
+NOTA:
+
+LA BAJA PRESION QUE PRESENTA LA MOTOBOMBA TIENE 2 CAUSAS POSIBLES:
+
+-OBSTRUCCION DEL FILTRO DE SUCCION, EL CUAL SE ENCUENTRA UBICADO EN EL CANAL DE DESCARGA DE LAS TURBINAS RAZON POR LA CUAL SE HACE NECESARIO BAJAR EL NIVEL PARA ACCESAR AL FILTRO Y LIMPIARLO, LO CUAL REQUIERE PARO DE LAS UNIDADES.
+
+- BAJA EFICIENCIA DE LA BOMBA SITUACION POSIBLE UNA VEZ SE LIMPIE EL FILTRO.
+
+TODO LO ANTERIOR SE ATENDERA EN EL PROXIMO PARO DE CADENA, POR LO TANTO LA OT QUEDA EN 35 

@@ -1,0 +1,6 @@
+
+FECHA: MARZO 03 DE 2015
+
+RESPONSABLE:  HENRY GIRALDO  
+
+En la madrugada se paró el aerogenerador por falla comunicación y por Supply Voltage Low, se inspecciono y se encontró disparado el Main Siwtch y el contactor del condensador 6 y 8 conectándose y desconectándose, también el contactor de potencia 24K2 entrando y saliendo solo, se revisa el módulo 151A3 que es el que tiene estas señales y se encuentra mojado al igual que su base, el aire acondicionado lo había prendido en días anteriores durante la falla de la UPS, se cambia la base y prueba con el modulo actual, se da reset y al momento de entrar en servicio sale falla Feedback Bypass, se observa que los conectores de los lados del módulo no conectan bien, se organizan y el aerogenerador queda en servicio, quedan las puertas de la Bottom Box delantera y trasera abiertas y el aire acondicionado apagado, el otro aire queda en servicio.

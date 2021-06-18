@@ -1,0 +1,13 @@
+SOLICITANTE: OPERACIÓN TURNO 2 -GUSTAVO QUINTANAFECHA: 28/12/2018
+
+Bomba de infiltraciones No. 2 se está alarmando constantemente por sobre corriente , se informó a  William Lopera. Queda seleccionada la bomba No. 1 como prioritaria.
+
+ENERO 2 DE 2019
+Referente al control y potencia drenajes Troneras. Se realizó mantenimiento general eléctrico al control y potencia del pozo drenajes, se hicieron pruebas de resistencia de aislamiento al motor # 2  estando en buenas condiciones con 4.49 Giga Ohmios entre fases con respecto a tierra, se verifica corriente de trabajo estando en 44 amperios por fase, dentro de la corriente nominal del motor que son 66 amperios. Debido que la bomba ha estado presentando alarma en algunas ocasiones por sobrecalentamiento se pasó el arrancador de la bomba uno para la dos y el de la dos para la bomba uno, para descartar que la falla sea por el arrancadores suaves, se deja la bomba # 2 como prioritaria y en monitoreo para identificar si el problema persiste o se traslada a la otra bomba. 
+Realizó: Grupo Eléctrico.
+Informó: William Lopera. 
+
+
+DICIEMBRE 30 DE 2018
+Referente a la motobomba número 2 de drenajes Troneras. Debido que se está alarmando el arrancador suave por sobrecalentamiento, se verifican corrientes de trabajo, evidenciando que cuando entra el contactor de línea por medio de los transistores, se demora en estabilizar la corriente  nominal del motor, ocasionando que en debidas ocasiones se alarme actuando la protección. Se deja trabajando como prioritaria la bomba 2 y se deja en monitoreo.
+Informó: William Lopera.

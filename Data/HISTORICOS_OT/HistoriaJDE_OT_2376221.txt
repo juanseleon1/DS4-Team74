@@ -1,0 +1,78 @@
+SOLICITANTE:
+
+PARA VISUALIZAR LAS REVOLUCIONES DE LA UNIDAD 2 DE CARACOLÍ, SE DEBE INSTALAR UN TACOMETRO CON SU RESPECTIVO DISPLAY.
+
+DIC 18/2014 PLANEADOR: WGARCIAC
+LA OT SE CERRARA POR CIERRE CONTABLE DEL SISTEMA DE INFORMACIÓN, SE ABRIRÁ NUEVAMENTE EN ENERO DE 2015.
+
+
+LAS RPM NOMINALES DE LA UNIDAD SON 1200.
+
+Datos generales del sensor fotoelectrico para RPM.
+Rango de detección:                        10 ... 450 mm
+Rango de ajuste:                              60 ... 450 mm
+Objeto de referencia                         Blanco estándar, 100 mm x 100   
+    mm
+Emisor de luz                                    IRED
+Tipo de luz                                        Infrarrojo, luz alterna , 950 nm
+Límite de luz extraña                         10000 Lux
+Elementos de indicación y manejo
+Indicación de trabajo                        LED verde
+Indicación de la función                    LED amarillo, se enciende si el 
+    receptor recibe luz
+Elementos de mando:                      Regulador del rango de detección
+Datos eléctricos
+Tensión de trabajo                            UB 10 ... 30 V CC , Clase 2
+Rizado máx.                                      10 %
+Corriente en vacío                             I0 < 25 mA
+Retardo a la disponibilidad                tv  200 ms
+Salida
+Tipo de conmutación                         conmutación claro/oscuro
+Señal de salida                                  2 salidas de contrafase, 
+     protegidas contra cortocircuitos, 
+     contra la inversión de la polaridad,
+               a prueba de sobretensión
+Tensión de conmutación máx.          30 V CC
+Corriente de conmutación máx.        100 mA por salida
+Caída de tensión                                Ud  2,5 V CC
+Frecuencia de conmutación               f 500 Hz
+Tiempo de respuesta                          1 ms
+Condiciones ambientales
+Temperatura ambiente                       -20... 55 °C 
+Temperatura de almacenaje              -20 ... 75 °C 
+Datos mecánicos
+Tipo de protección                              IP67
+Conexión                                            2 m cable PVC
+Material
+Carcasa                                              ABS
+Salida de luz                                       Acrílico
+Masa aprox.                                       40 g
+Conformidad con Normas y Directivas
+Conformidad con estándar
+Norma del producto                             EN 60947-5-2:2007
+                                                              IEC 60947-5-2:2007
+Con cinta reflectiva      20 cms
+
+
+INDICADOR DE VELOCIDAD (RPM)
+
+Especificaciones generales del transductor de velocidad (rpm) con indicación digital.
+Programable
+Con pantalla digital para indicación de RPM
+Tipo de Señal: entrada de Pulsos, 
+Fuente auxiliar 24 Vdc, para alimentar el sensor
+Suministro: voltaje  120 V AC  60 Hz
+Frecuencia de Entrada: 0.001... 5000 Hz
+Led de monitoreo de falla
+Led de monitoreo  de encendido
+Salida: 4 relés programables
+Salida análoga: 4 ... 20 mA
+Resolución: 0.1% del valor medido
+Exactitud: 0.1%  del valor medido
+Protección: contra cortocircuitos
+Aislado eléctricamente
+Temperatura ambiente: -20... +60 °C 
+Grado de protección: IP20
+Montaje en tablero.
+
+

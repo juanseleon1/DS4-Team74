@@ -1,0 +1,13 @@
+FECHA: 27 SEPTIEMBRE DE 2017.   SOLICITANTE: GUSTAVO QUINTANA - MARIO ZAPATA
+
+Revisar  el  cerrojo  de la válvula de admisión  , el cual se está desaplicando en el proceso de arranque de la unidad nro. 2; el area del cerrojo y el sensor inductivo, se encuentran muy humedos.
+
+28/09/2017
+
+Se revisa el cerrojo una vez abre la valvula de admision y se verifica su aplicacion tanto fisica como en la pantalla.
+es normal que en el proceso de abrir o cerrar la valvula de admision este se desactive, y se active al terminar los movimientos ya que el objetivo es mantener la posicion en tanto que el sistema hidraulico no esta recuperando la posicion de la valvula de admision.
+
+Queda en observacion.
+
+
+

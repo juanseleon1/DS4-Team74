@@ -1,0 +1,8 @@
+
+2018/01/31 _ CARLOS ENRIQUE MONCADA. OT N° 3623340.
+Se realiza limpieza general y verificación de la serie de alabes encontrando los sensores inductivos 7, 21 y 23 en mal estado. Se procede al cambio de estos y quedando habilitados. Se instalan RTD's de temperatura en los disipadores de los tiristores de los AVR del regulador de Tensión U3, queda pendiente habilitarlas.
+Se intervienen los servicios auxiliares de la U3 para habilitarle la medida de temperatura.~
+REALIZO: NEIRO FABIAN PEREZ, JULIO CESAR PARRA, JENIFFER GARCIA.
+--------------------------
+
+MANTENIMIENTO GENERAL ESTATOR GENERADOR CENTRAL PORCE 2.

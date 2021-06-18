@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: DIEGO RESTREPO.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @ 135893
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos +ECF y +TCFM tableros de control válvulas de frenos de la unidad 1, verificación en el tablero +TCF la aplicación y desaplicación de los frenos, revisión y verificación de los microsuiches finales de curso, se toma medida de aislamiento y se llena registro al motor aceite frenos y gatos.
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD

@@ -1,0 +1,12 @@
+INSPECCIONAR EL FUNCIONAMIENTO DEL MOTOBOMBAS DE LUBRICACIÓN FORZADA UNIDADES GT. MEDIANTE LA MEDIDA DE PRESIONES, ALTURA DE LEVANTAMIENTO Y VIBRACIONES DEL MOTOR
+
+ESTE EQUIPO DEBE ESTAR CONSIGNADO PARA MANTENIMIENTO, LAS PRUEBAS SE REALIZAN CON EQUIPO EN FUNCIONAMIENTO Y LA UNIDAD PARADA.
+
+2015/12/04 DIEGO BEDOYA
+Se realiza la revisión de las motobombas de lubricación forzada en la U6, se obtienen los siguientes datos:
+
+Presión de arranque (kg/cm2): 125
+Presión de trabajo (kg/cm2): 105 
+Desplazamiento del rotor (mm): 0.05
+
+estos datos son de la bomba de reserva dos (2), la bomba principal uno (1) con el código 667144 no levanta presión.  

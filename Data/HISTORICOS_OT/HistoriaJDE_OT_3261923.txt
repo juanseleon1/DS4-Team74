@@ -1,0 +1,10 @@
+19 SEPT 2016
+PROGRAMADOR: GABRIEL NARANJO
+EQUIPO: SERVICIOS AUX TSAU-04 P3
+ESTA OT SE REALIZA POR SOLICITUD DEL GESTOR GRUPO OPERACIÓN PORCE ING. NICOLAS AGUILAR. PARA CUMPLIR CON LA TAREA DE REALIZAR UN DIA AL MES TAREAS DE MANTENIMIENTO.
+
+Se participo en compañia del grupo de mantenimiento electrico y electronico en la verificación de la correcta transferencia de servicios auxiliares de las unidades 3 y 4 de Porce 3.
+Esta prueba se realizo utilizando la maleta trifásica para simular los diferentes voltajes en la barra.
+
+Se realizan pruebas de verificación en los relés SIPROTEC de los servicios auxiliares de unidad , estas pruebas y verificaciones consistían en la verificación de los ajustes en los interruptores Q1 y Q2, los cuales se encontraron en los valores de mínima tensión de 400 V y 300 V operando esta transferencia en el valor de mínima tensión de 400 V verificada esta medida mediante simulación con la maleta trifásica en diferentes pruebas o rampas.
+Además de la verificación del TSAU, se ajustan los tiempos de transferencia bombas en el TCCC y TCCS de las unidades para evitar la falla y paro rapido por transferencia de servicios auxiliares, este tiempo se modifca de 3 segundos a 10 segundas evitando paro de la unidad por transferencia de servicios auxiliares dando tiempo a la transferencia del TSAU para normalizar . ademas se ajustan los termicos de las valvulas en el TAST las cuales estaban mal ajustadas y se fallaban en cada transferencia.

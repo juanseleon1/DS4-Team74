@@ -1,0 +1,9 @@
+Planeador:642009
+Aprobador:355694
+Fecha de solicitud:17 de Marzo de 2017
+Tipo de mantenimiento: Preventivo
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Realización de aforo
+ Cambio preventivo en infraestructura civil o mecánica de la estación
+ Instalación de poleas para aforo desde la orilla

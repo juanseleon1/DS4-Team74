@@ -1,0 +1,5 @@
+08 SEPTIEMBRE DE 2018 GUILLERMO LEON ECHEVERRY VELEZ
+
+Referente al AGC de la Unidad Nº 3: la unidad se encontraba con una potencia de 127 Mw, a las 23:50 se recibió la orden del CCG de colocar las unidades 2 y 3 en Regulación Secundaria "AGC". La unidad Nº3  se quedó en 127 Mw y luego de dos minutos empezó a bajar potencia hasta llegar a 117 Mw; la Unidad Nº2, también en AGC subió potencia hasta 146 Mw. Por instrucción del CCG se saca de AGC a la Unidad Nº3 y se sube potencia de forma manual desde el Scada a 150 Mw, y se coloca de nuevo en AGC. A los 3 minutos aproximadamente de estar haciendo regulación vuelve y empieza la unidad a bajar potencia, por lo que de nuevo toca sacarla de AGC para subir potencia desde el Scada. La unidad solo respondía a la regulación por espacio de 4 minutos aproximadamente y  luego empezaba a bajar potencia. Esta maniobra se hizo 8 veces, por lo cual XM solicitó a las 00:35 sacar la Unidad Nº3 de Regulación Secundaria. 
+
+En las gráficas del Scada del Comando de la Válvula Proporcional no se observó ninguna anomalía durante el evento. Se informó del evento al Ingeniero Héctor Gómez.   Informa Turno Nº2 de Operación.

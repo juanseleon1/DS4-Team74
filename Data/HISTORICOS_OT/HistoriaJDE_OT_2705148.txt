@@ -1,0 +1,9 @@
+SE CREA OT PARA REALIZAR LA SOLICITUD DE MATERIALES QUE SERVIRAN EN LA MANUFACTURA DE ANDAMIOS Y ESCALERAS, PRINCIPALMENTE PARA SER UTILIZADOS EN BOCATOMA
+
+Programador: Camilo Montagut - 29/10/2015
+
+Se realiza la terminación de la OT una vez finalizada la adquisición de materiales para la manufactura de elementos en la bocatoma de Guadalupe III y de Tenche. Estos trabajos se realizaran con posteriores OT
+
+Ejecuta: Equipo manteniemitno UOG
+
+

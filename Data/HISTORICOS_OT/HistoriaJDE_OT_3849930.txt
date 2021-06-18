@@ -1,0 +1,6 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud:02-07-2019
+Tipo de mantenimiento:correctivo
+Acciones de mantenimiento: 
+la estacion se esta enviando 0 caudal como si se encontrara desconectados los convertidores de medios de fibra a cobre

@@ -1,0 +1,14 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+ENERO 30 DE 2018
+
+fecha: 15/o2/2018
+
+-se realiza limpieza y se revisan sensores de vibración, quedan ajustados   así: cspl 9.46vdc, el cspr 8.90vdc y axial 9.70vdc. 
+nivel de aceite cojinete superior quedo en: 540mm, el nivel patrón es 530 mm.
+-se realizó limpieza e inspección visual a las rtd del cojinete.
+programo: luis adrian cardona

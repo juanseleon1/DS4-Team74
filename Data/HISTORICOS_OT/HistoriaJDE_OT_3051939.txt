@@ -1,0 +1,6 @@
+SOLICITANTE:PEDRO ROBAYO
+FECHA:MARZO 17-2016
+EJECUTANTE: ELIECER ELISAUL Y PROBAYO
+
+
+Se sube AG3  para mirar causas de la sobrevelocidad generadopr 1 según alarma y de inicio se percibe un olor a quemado se quita la tapa y se desconectan los cables del generador 1 y se toma medida de aislamiento dando valor 0 . Se inicia con la quitada del manquito y el acople para poder quitar la pata del generador y asi poder ver el embobinado encontrando indicios de corto circuito en el embobinado segun fotos enviandas al grupo

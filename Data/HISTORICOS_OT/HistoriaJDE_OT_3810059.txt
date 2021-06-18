@@ -1,0 +1,6 @@
+JHON MARIO PEREZ. FEBRERO 12/2019
+
+Revisar señal analogica de temperatura aire generador en la unidad 8, presenta un valor diferente al de la señal digital en la estación de operación, Temp. en instrumento 37°C y en scada 27°C. 
+
+28/05/2019. VICTOR ZULETA
+El instrumento se encuentra dentro del recinto del genrador, a diferencia de las otras maquinas que poseen un termometro con extencion y bulbo capilar, por ende, se cancela dicha solicitud por no tener el repuesto.

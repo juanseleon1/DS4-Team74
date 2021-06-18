@@ -1,0 +1,5 @@
+02/03/16 CÉSAR AUGUSTO HOYOS HENAO.
+Por oportunidad del paro de  la planta se cambiará los mini breaker  de DG2 los cuales ya se encuentran de cambio. Se está realizando la gestión para la compra.
+07/04/16 GIOVANNY DIAZ-SEBASTIAN HINCAPIE-JOAN GOMEZ-CESAR HOYOS
+Se realiza cambio de las protecciones tipo mini breaker debido a obsolecencia tecnológica en la DG2 celda 2 y 3, en la celda 2 se cambian 3 protecciones de tipo caja moldeada, en la DG1 celda 3 se cambian 4 protecciones tipo mini breaker.
+Queda pendiente por parte del señor Cesar Tulio Jiménez organizar la programación de la señalización en el Scada de manera tal que coincida con lo físico, tanto en  la DG2 como en la DG1.

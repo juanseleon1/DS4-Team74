@@ -1,0 +1,4 @@
+Inspección y medidas generales de las motobombas de refrigeración para los generadores de Guatape.
+
+2018/07/13 GIOVANNY DIAZ 
+Se realizó mantenimiento al motor de motobomba CW9 refrig U8 GT    CORRIENTE: R:61, S:61, T:62, VOLTAJES RS:452, ST:452, TR:447,TEMPERATURA MAXIMA DE MOTOR 65,7°C Presenta punto caliente en la peineta de salida, fase S a la salida de la gaveta se crea OT correctiva # 3745521

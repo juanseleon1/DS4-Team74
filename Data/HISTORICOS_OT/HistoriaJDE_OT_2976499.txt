@@ -1,0 +1,9 @@
+01/01/2016
+ALEJANDRO VERGARA
+
+Durante el proceso de arranque de la unidad no muestra señalización la valvula piloto
+
+01/01/2016
+Se encuentra el presostato que da la orden de apertura a la válvula piloto descalibrado
+Se calibra y se le da arranque a la unidad, mostrando las señales de la válvula piloto trabajando normalmente.  
+Learcilas

@@ -1,0 +1,12 @@
+
+FECHA: MARZO 11 DE 2016 OT 3045297
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Debido a que el sistema de control del AG6 se reinicia continuamente se procede a cambiarle el disco duro al LPC, se realizan pruebas de manera satisfactoria. El disco duro que se coloco es uno que German ya tenía lista para usarse.
+
+FECHA: ABRIL 10 DE 2016 OT 3045297
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+La noche anterior se presentó falla por corriente diferencial, se inspecciona la base del AG y se encuentra mojado una parte del control, se deja todo apagado y en la mañana de hoy se energiza nuevamente quedando con problemas el módulo 19B2 (diferencial de corriente) se cambia y se deja en servicio el aerogenerador.

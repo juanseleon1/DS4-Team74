@@ -1,0 +1,11 @@
+XE: VERIFICAR Y LIMPIAR COLECTORES VAPORES DE LA UNIDAD
+
+---------------------
+FECHA: 2014-06-03
+
+EJECUTÓ: RONALD ARANGO - FREDY ECHEVERRI
+
+Se realiza mantenimiento al colector de vapores de aceite N°1 correspondiente al sistema de cojinetes unidad 3. Se revisan extractores (motores), tablero de control y acometidas. IDM: GCP3E0011. no se encuentra ningún fallo ni averías. Una vez realizado el procedimiento se normalizan los equipos, quedando el sistema en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+-----------------------------------------

@@ -1,0 +1,10 @@
+
+2018/04/18 OT:3713840 Luis Eduardo Arcila
+Mantenimiento general por el personal de General Fire
+
+2018/04/24 OT:3713840 Luis Eduardo Arcila
+Se realiza mantenimiento por parte de la firma General Fire Control a los tableros críticos inspección de paneles de control del SCI a fin de identificar incremento en el reporte de fallas en los mismos; se identifica un incremento significativo de problemas en el panel de control de tableros críticos(20 en total), se procede a realizar el chequeo de conexiones y se encuentra falla de suministro de voltaje de potencia en la caja de módulos de la unidad 1, se verifica suministro desde la caja de módulos de la unidad 3 y se corrige esta falla. El panel de control presentó una falla a tierra que también se corrigió. 
+
+2018/04/26 OT:3713840 Luis Eduardo Arcila
+Se realiza reprogramación de panel de control de tableros críticos por parte de la firma General Fire Control. Se verifica reporte de fallas. Se realiza pruebas de detectores de humo en las unidades 1, 2, 3, 4 y 5; estas no presentaron novedades de funcionamiento. Se realiza pruebas de estaciones manuales de tableros críticos. Se detecta falla en 3 módulos de control SOM y se toma listado para solicitud de cambio.
+Se descarga eventos de activación. Se normaliza el sistema quedando en normal funcionamiento.

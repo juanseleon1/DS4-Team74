@@ -1,0 +1,7 @@
+OCTUBRE 05 DE 2017
+MANTENIMIENTO PREVENTIVO ANUAL. 
+Se realizó el mantenimiento según el instructivo anual.
+Se inspecciono todo el sistema de control y de potencia y a la vez su correcto funcionamiento, verificación y ajuste de todos los puntos de conexión. Fueron realizadas las pruebas eléctricas a las resistencias (registro de corrientes y voltajes). No se evidencias anomalías, todo bajo los parámetros normales de funcionamiento. Para revisar los registros verificar el archivo de G33 anuales. 
+
+Ejecuto: Sergio Areiza.
+Programo: Carlos Andres Forero.

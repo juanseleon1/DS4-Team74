@@ -1,0 +1,5 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: NOVIEMBRE 15-2015
+EJECUTANTE: GERMAN ECHAVARRIA Y PROBAYO
+
+Se sube al AG10 para revizar la alarma de sobrecorriente de la bomba 1 y se encontro el modulo de  arranque quemado, pero al momento de abrir la puerta se revento la fibra, se hace la reparacion de la  fibra y el cambio del módulo quedando el AG en servicio.

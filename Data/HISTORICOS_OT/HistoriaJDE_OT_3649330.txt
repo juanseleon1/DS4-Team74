@@ -1,0 +1,13 @@
+Se cierra la OT dado que los operadores identifican una obstrucción en la cámara de apertura del servomotor de la válvula esférica, proceden a drenar la cámara, consiguiendo el cierre total de la válvula.
+Fecha: 26/11/2017
+Esta unidad desde el pasado mantenimiento 2017/11/22. Quedo con una gran fuga de agua por la válvula esférica, obligando a mantener girando unidades de GIII en vacío, con el fin de poder sostener el nivel del tanque de captación de GIV en condiciones operativas.
+
+Se toma la decisión de drenar las cámaras de apertura y cierre del serbo motor de la válvula esférica, se evidencia gran obstrucción de lodo en la cámara de apertura. Se procede a abrir y cerrar válvula esférica de forma local - manual e ir drenando cada una de sus cámaras consecutivamente, buscando el punto final de cierre de la válvula. Se observa que en cada operación es más eficiente el cierre, hasta llegar finalmente al punto de condiciones operativas de la válvula y quedando con presiones aguas arriba 40.8 bar y aguas abajo 0.4 Bar.
+
+Se gira la unidad en vacío en varias ocasiones para garantizar el correcto cierre de la válvula y las condiciones de grupo listo.
+
+Ejecutan: Equipo operación
+Carlos Torres, Francisco Gonzales, Gabriel Montaño.
+
+FECHA: 22/11/2017    SOLICITADO POR: Natalia Urrea - Francisco Córdoba- Operación G4
+DESCRIPCIÓN: En el proceso de bloqueo de la unidad para el mantenimiento cuatrimestral, se evidencia que la válvula esférica no cierra al 100%, lo que no permite insertar el bulón.  Fue necesario dejar en funcionamiento el sistema hidráulico. 

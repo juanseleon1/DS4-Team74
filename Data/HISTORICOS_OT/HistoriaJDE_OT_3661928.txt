@@ -1,0 +1,21 @@
+
+PROGRAMADOR:WILLIAM LOPERA
+
+DICIEMBRE 20 DE 2017
+REALIZAR MANTENIMIENTO PREVENTIVO ELECTRICO AL CONTROL, POTENCIA, MOTORES, FINALES DE CARRERA, PLANTA DE EMERGENCIA Y TABLERO DE CONTROLDEL TELEFERICO COMO MANTENIMIENTO PREVENTIVO.
+
+NOTA : Los materias los recoge el señor Gustavo Gallego, CC. 8268289, Placas SNU755
+
+DICIEMBRE 28 DE 2017.
+Siguiendo con el mantenimiento preventivo electrico y electronico se realiza las siguientes actividades:
+ Mantenimiento, pruebas de resistencia de aislamiento y revisión general al motor de potencia arrojando los siguientes datos: Fase R con tierra - 9.03 G, Fase S - 9.36 G  Y Fase T - 9.02 G.
+ Mantenimiento a sensores de supervisío del cable portante en la torre y su respectivo cableado.
+ mantenimiento general a los finales de carrera, tableros de control y mando de las dos cabinas.
+ Limpieza, revisión y ajustes a borneras, componentes electricos de los tableros de control de las estaciones superior e inferior.
+ Mantenimiento general a las baterias de las cabinas y de ambas estaciones.
+ Mantenimiento a motores, presostatos, electrovalvulas y caja de control de la estacion hidraulica.
+ Limpieza general a las sirenas indicadoras de viaje.
+ Mantenimiento a las proecciones de sobre voltajes (Enerpro).
+ limpieza general de bandejas porta cables y carcamos.
+Realizó: Grupo electrico y electronico.
+Informó: William Lopera.

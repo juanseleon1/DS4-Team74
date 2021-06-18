@@ -1,0 +1,8 @@
+2018/06/21 RUBEN ARBOLEDA
+Se crea OT para extraer muestras de aceite para analisis de:
+Contenido de PCB's. 
+Lo anteior se realiza después de la puesta en servicio de los transformadores nuevos, banco 4 Guatape.
+Tranformador con serie #: 201572
+
+Resultado:  <2.08 ppm fecha de analisis: 2018/07/04, 
+Se adjunta el informe a la OT 3738297

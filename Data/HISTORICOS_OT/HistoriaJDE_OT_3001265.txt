@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016/07/02 RUBEN ARBOLEDA
+EN LA OT: 2914288 se evidenció falla en una bobina del motos (1-6), esta OT se cierra sin costos ya que el motor estaba en proceso de reparación, se instaló el 2016/06/17, adicionalemnte ya salio la otra OT:3097161

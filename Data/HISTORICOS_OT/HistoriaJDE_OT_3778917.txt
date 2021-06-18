@@ -1,0 +1,25 @@
+PREVENTIVO INTERRUPTOR POTENCIA UNIDAD GENERACION GUADALUPE 4
+
+
+Ot: 3778917 - CM: interruptor de máquina - Programador: Camilo Montagut - 14/11/2018
+
+Se realiza mantenimiento preventivo donde se incluye las siguientes actividades:
+
+- Inspección de todas las superficies, resortes, piezas móviles.
+- Ajuste de la tornillería de fijación de los apagachispas.
+- Lubricación en todos los graseros y piezas móviles.
+- Prueba de estanqueidad. Se registra una pérdida de presión de 4.5 bar por hora.
+- Inspección de fugas en tuberías, acoples y accesorios.
+- Prueba de funcionamiento del accionamiento mecánico y de la válvula de soplado de los apagachispas
+- Limpieza general.
+
+Además se realiza inspección en el tanque de aire de la unidad (reservorio) donde se encuentra óxido en las superficies internas del mismo. 
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+FECHA: 07/11/2018.
+MANTENIMIENTO CUATRIMESTRAL INTERRUPTOR DE MAQUINA.
+OT: 3778917.
+SE REALIZA INSPECCION AL INTERRUPTOR DE MAQUINA DE LA UNIDAD #1, SE VERIFICA EL ESTADO DE LAS BORNERAS DEL SISTEMA DE CONTROL, SE VERIFICA ESTADO DE TRENCILLAS Y SE REALIZAN PRUEBAS DE APERTURA Y CIERRE EN MANUAL Y DESDE EL PULSADOR, SE OBSERVA TODO EN OPERACIÓN NORMAL. SE REALIZA AJUSTE DE CONEXIONES Y TORNILLERIA EN APAGACHISPA FASE R YA QUE SE ENCONTRO UN POCO FLOJO.
+INFORMÓ: ESTEBAN HURTADO.

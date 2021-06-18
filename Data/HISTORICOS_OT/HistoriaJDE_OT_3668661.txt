@@ -1,0 +1,13 @@
+FECHA: 28/22/2018  OT N°:  3668661 PROGRAMÓ: CRISTIAN GÓMEZ HISTORIAL ALARMAS
+FECHA EVENTO ACCIÓN28-ene-18 Inspección Visual 8am, No Alarma Se realiza purga del relé Buccholhz26-ene-18 Inspección Visual 8am, No Alarma Se realiza purga del relé Buccholhz25-ene-18 Inspección Visual 3:30pm, No Alarma Se realiza purga del relé Buccholhz24-ene-18 Inspección Visual, No Alarma Se realiza purga del relé Buccholhz23-ene-18 Alarma 9:00pm Se adicionan 15 Galones de Aceite Minela Dielectrico al Domo del Trafo23-ene-18 Alarma 7:00pm Se realiza purga del relé Buccholhz23-ene-18 Alarma 3:30pm Se realiza purga del relé Buccholhz23-ene-18 Alarma 1pm Se realiza purga del relé Buccholhz23-ene-18 Alarma 7am Se realiza purga del relé Buccholhz16-ene-18 Alarma Se realiza purga del relé Buccholhz07-ene-18 Alarma Se realiza purga del relé Buccholhz30-dic-17 Alarma Se realiza purga del relé Buccholhz19-dic-17 Alarma Se realiza purga del relé Buccholhz19-dic-17 Alarma Se adicionan 30 Galones de Aceite Minela Dielectrico al Domo del Trafo17-dic-17 Alarma Se realiza purga del relé Buccholhz15-dic-17 Alarma Se realiza purga del relé Buccholhz12-dic-17 Alarma Se realiza purga del relé Buccholhz10-dic-17 Alarma Se realiza purga del relé Buccholhz09-dic-17 Alarma Se realiza purga del relé Buccholhz06-dic-17 Alarma Se realiza purga del relé Buccholhz04-dic-17 Alarma Se realiza purga del relé Buccholhz01-dic-17 Alarma Se realiza purga del relé Buccholhz (Personal Operación)22-nov-17 Inspección Visual, No Alarma Se realiza purga del relé Buccholhz21-nov-17 Alarma Se realiza purga del relé Buccholhz16-nov-17 Alarma Se realiza purga del relé Buccholhz30-oct-17 Terminan Pruebas a los cables de Portencia Entra a operación comercial la unidad 1
+FECHA: 25/01/2018  OT N°:  3668661 PROGRAOR: CRISTIAN GÓMEZ
+EJECUTÓ: PERSONAL MTTO ELECTRICISTAS U.O.P
+Referente al a Unidad N°1: Se realiza inspección VISUAL domo fase T Banco , se verifican conexiones lado de alta, se verifica indicador de nivel. LUEGO SE REALIZA PURGA DE AIRE DEL RELE BUCCHOLHZ, SE TOMA MUSTRA DE ACEITE PARA EL ENVIO AL LABORATORIO DE AETIC PRUEBA DGA, Y HACE UNA LOCAL CON EL EQUIPO KELMAN.    
+                                                                                                 
+FECHA: 09/01/2018  OT N°:  3668661 PROGRAMADOR: CRISTIAN A GÓMEZ
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+SE GENERA OT PARA DOCUMENTAR LAS ACCIONES REFERENTES A LA ALARMA BUCHHOLZ NIVEL 1 CABLE, FASE T BANCO 1.
+DILEGENCIAR EL SEGUIMIENTO QUE SE HA VENIDO REALIZANDO AL EVENTO. 
+
+

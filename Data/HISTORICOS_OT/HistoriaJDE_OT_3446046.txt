@@ -1,0 +1,17 @@
+El día jueves 6 de Abril el personal de mantenimiento de la central Guatapé, realizaron las pruebas de control electro hidráulico de las compuertas cilíndricas de Captación y se determina el siguiente estado:
+
+Compuerta de captación torre I Etapa
+
+·Se encuentra la compuerta asentada en las mordazas de los bloqueos
+·Se revisa el control eléctrico del sistema y se observa que todo está en condiciones normales e indicando que la recuperación está bloqueada debido a que la compuerta está asentada,  como se menciona en el ítem anterior.
+·Se procede a verificar el aislamiento del motor y se encuentra en estado normal de aislamiento 4.5 M con respecto a tierra.
+·Se revisan si existen fugas externas y se observa  un trazo de fuga que al parecer fue por la base inferior del cilindro y se depositó sobre la base de los cerrojos de bloqueo.
+·Se realizan las operaciones de control necesarias para recuperar la compuerta y esta operó de forma normal y en automático hasta llegar a posición abierta y posterior paro de la bomba hidráulica.
+·Se realizó un descenso manual despresurizando el sistema para garantizar que la función de recuperación funcionara de forma normal, caso este que fue exitoso. 
+·Después de 15 minutos se observó que esta compuerta estaba descendiendo, para lo cual se dio de forma automática la función de recuperar; esta operación se realizó durante dos veces, por lo cual se  se decidió dejar la compuerta apoyada en los cerrojos y el control bloqueado.
+·En conclusión se observa que esta compuerta funciona normal en su parte electrohidráulica pero que el sistema tiene una fuga que impide que la compuerta se mantenga por más de 15 minutos abierta.
+
+Nota: se debe tener presente que puede haber fuga en los sellos del servomotor o en el sistema hidráulico pero que para las pruebas que se pretenden hacer no habría inconvenientes operativos, siempre que se siga al pie de la letra el manual operativo del sistema.
+
+2018/04/18 RUBEN ARBOLEDA
+Se cierra ésta OT, no se ha continuado por falta de recurso disponible.

@@ -1,0 +1,5 @@
+17/10/2014 ABAD RAMIREZ
+EL LED DE SEÑALIZACION DE VALVULA ABIERTA NO FLACHEA EN APERTURA NI EN CIERRE PARA INDICAR QUE SE REALIZA EL PROCESO.
+
+2014/10/20 GIOVANNY DIAZ - JHONATAN USME
+Se realizó revisión del funcionamiento, se identificó falla en la aproximación de uno de los sensores de indicación, se hizo mejora, adicionalmente en el cableado se identificó un borne flojo en el tablero +DU, se ajustó y se dejó en funcionamiento normal. 

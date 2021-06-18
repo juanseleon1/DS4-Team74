@@ -1,0 +1,17 @@
+- FECHA : SÁBADO SEPTIEMBRE 29 DE 2019
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ: JEISON ORTEGA - MAURICIO PINO
+- ASOCIADO A LA OT : 3770327
+- ASUNTO : APROVECHAR PARO POR OPERACIÓN PARA REVISAR DESGASTE DE ESCOBILLAS 
+           * CAMBIAR LAS QUE TENGAN UNA MEDIDAD POR DEBAJO DE 25 mm
+
+           * SE REVSISÓ Y SE ENCONTRÓ :
+             A1 = 39 mm  B1 = 39 mm        A6 = 39 mm   B6 = 39 mm
+             A2 = 39 mm  B2 = 39 mm        A7 = 35 mm   B7 = 39 mm
+             A3 = 35 mm  B3 = 39 mm        A8 = 39 mm   B8 = 39 mm
+             A4 = 35 mm  B4 = 34 mm        A9 = 38 mm   B9 = 39 mm
+             A5 = 34 mm  B5 = 33 mm        A10 = 35 mm   B10 = 39 mm
+             
+ ESCOBILLA PROTECCION TIERRA ROTOR = 34 mm   ESCOBILLA PROTECCIÓN TIERRA ROTOR = 35 mm
+       
+        IMPORTANTE : NO SE CAMBIARON ESCOBILLAS      

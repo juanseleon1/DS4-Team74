@@ -1,0 +1,13 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OSCAR MAURICIO MONTOYA.
+Se realiza inspección y limpieza al barraje de salida, se realiza inspección y mantenimiento a mallas separadoras del barraje, baquelitas separadoras de barras, conexiones entre barras y estado del aislamiento, también se revisan el estado de los CT´s, de sus conexiones eléctricas en el tablero +CCCTS.
+Trabajo ejecutado por: Jairo Torres, Jhonatan Arango y Oscar Montoya.
+
+XE: LIMPIAR E INSPECCIONAR BARRAJE ESTATOR GENERADOR UNIDAD
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

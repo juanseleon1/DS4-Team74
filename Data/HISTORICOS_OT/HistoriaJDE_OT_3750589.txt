@@ -1,0 +1,26 @@
+FECHA: 01/08/2018 SOLICITADO POR: Natalia Urrea - Camilo Cadavid - Operación G4
+DESCRIPCIÓN: Se presenta alarma esporádica de falla interna relé 300G PP1 de la unidad 1, se verifica en sitio el estado del relé y se encuentra aparentemente normal. La alarma borra inmediatamente.
+
+01/08/2018
+
+Se solicita al equipo Proteciones Electricas de la Unidad Operacion y Mtto Generacion Energia, al ingeniero Juan David Granada informacion al respecto. Queda a la espera del diagnostico para ejecutar las acciones necesarias por parte de mtto.
+
+Informa: Sandra Carmona
+
+17/08/2018
+
+Se envia rele SEL 300G de repuesto al equipo de protecciones para programarle ajustes y ser insltalado en la unidad 1 mientras se evalua el rele instalado actualemente.
+
+Estamos a la espera del equipo y las instrucciones para la instalacion.
+
+Informa: Sandra Carmona
+
+30/08/2018
+
+Se solicita informacion al respeto de este evento al operador de la planta John Jairo Meneses e informa que la alarma no ha vuelto a presentarse. 
+
+Se va a dar un lapso de tiempo de una semana para continuar la evalucion y de no presentarse nuevamente se cierra OT sin ningna intervencion. 
+
+El rele de repuesto esta en posesion del equipo de protecciones en proceso de carga de ajustes para ser instalado en caso de ser necesario
+
+Informa: Sandra Carmona

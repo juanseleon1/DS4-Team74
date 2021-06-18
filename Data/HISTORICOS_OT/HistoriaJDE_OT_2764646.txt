@@ -1,0 +1,4 @@
+FECHA: MAYO 20/2015 PROGRAMO: DANIEL PALACIOS  EJECUTO: DAVISON PEREZ
+Se realizo OT segun instructivo, se hizo pruebas a los frenos para revisar señales al PLC.
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD

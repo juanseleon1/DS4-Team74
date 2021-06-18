@@ -1,0 +1,9 @@
+2016/07/12 RUBEN ARBOLEDA
+Se presentó apertura del circuito de camara de valvulas en el interruptor de 480VAC correspondiente al circuito de Guatapé - Alejandría, se realizó revision y se encontró falla en breaker general de 480VAC en la distribución general, éste breaker es de 225 Amperios, se realizó cambio por uno de 630 amperios con ajuste de dial a 0.5In, queda alrededor de 315 Amperios, 
+
+Se probó y se evidencio falla en ventilador S7, corespondiente a una bornera del motor, se inicia la reparación del ventilador S7 en la OT: 3177415. 
+
+ésta OT queda pendiente de la llegada de los pararrayos para su montaje y normalizar las conexiones de 13.2Kv en camara de valvulas. 
+
+2016/06/30 GIOVANNY DIAZ
+Se realizó normalizacion de circuito, se dejo en condiciones normales despues de la llegada de los pararayos.

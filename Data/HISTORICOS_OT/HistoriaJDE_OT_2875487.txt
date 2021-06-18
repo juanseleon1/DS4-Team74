@@ -1,0 +1,8 @@
+XM: VERIFICAR Y LIMPIAR PREVENTIVO REGULADOR HIDRAULICO UNIDAD GENERACION TRONERAS
+
+
+Programador: Camilo Montagut - 01/10/2015
+
+Se desmontan los filtros del regulador hidráulico y se les hace la debida limpieza. Se sopletean y se montan los elementos, verificando el buen estado de los mismos y se verifica que no se existen fugas de aceite al limpiar todo el recinto                                                                 
+
+Ejecuta: equipo mantenimiento mecanico GIII

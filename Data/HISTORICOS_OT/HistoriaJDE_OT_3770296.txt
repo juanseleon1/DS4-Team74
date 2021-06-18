@@ -1,0 +1,22 @@
+29/09/2018 LUIS FERNANDO CASTRILLON MORALES OT: 3770296
+SE PRESENTA ALARMA Y DISPARO PROTECCION TIERRA ESTATOR, FALLA ELECTRICA. NO SE DEJA RESETEAR, QUEDANDO LA UNIDAD CON UN DISPARO PUESTO Y SIN CONDICIONES DE ARRANQUE.
+LA UNIDAD ESTABA PARADA CUANDO SE PRESENTA ESTE EVENTO.
+
+Se presenta alarma y disparo tierra estator por activación del relé SEL-26645, con señalización de Trip, Warning y 64S. 
+Se procede a operar el Target Reset, pero el disparo continua puesto impidiendo el arranque de la máquina. 
+Se le desconecta la alimentación a este Relé, pero al conectársela de nuevo se vuelve a activar la alarma y el disparo. 
+Se desconecta conector de las salidas (out) de este relé para poder tener condiciones de maquina lista.
+Se procede a desconectar cable en punto de neutro de la máquina y tomar una medida de aislamiento a tierra del devanados del estator y se observa que este punto presenta chispazos cuando se le conecta la tierra directamente al cable de conexión del neutro y el transformador de aterrizamiento. 
+Se abren las conexiones de los PT's, después se procede a abrir el seccionador de máquina y se realiza la prueba de aislamiento, registrándose un valor de 37 M-ohm. 
+Se conecta el punto neutro de nuevo y se revisa de nuevo el relé de protección tierra estator, observándose que ya no tiene la alarma ni el disparo activados, por lo que se conecta el conector de las salidas del relé. 
+Se normalizan PT's, se cierra el seccionador de maquina y no se presenta la falla, se arranca la unidad y se sincroniza al sistema - SIN. 
+Al parecer al abrir el seccionador de maquina se aisló la falla a tierra, porque cuando se abrió la conexión de los PT's el disparo continuaba puesto.
+Lo único que aisló la falla fue el seccionador de máquina, lo que indica que puede haber un problema de tierras en algún elemento del barraje de salida y el seccionador.
+Pendiente por revisar estos puntos.
+
+Realizo:
+JUAN CARLOS GRANADOS.
+CESAR TULIO JIMENEZ.
+EDWAR LONDOÑO.
+JHONATAN USME.
+CARLOS ANDRES MEJIA.

@@ -1,0 +1,9 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: FRANCIS LONDOÑO - JUAN TOBON
+FECHA: 03/05/2017
+CONSIGNACIÓN: @135887
+
+DESMONTAR EL ANILLO DEL DISTRIBUIDOR PARA REALIZAR LA INSPECCIÓN DE LOS PATINES AXIALES Y RADIALES
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2017-05-08
+Se desmonta anillo distribuidor y se encuentran los patines radiales 1 y 3 malos y se cambian. Se arma nuevamente el anillo. Se inspeccionan patines axiales y se engrasan.

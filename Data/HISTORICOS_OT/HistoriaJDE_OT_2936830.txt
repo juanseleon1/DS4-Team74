@@ -1,0 +1,14 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+NOVIEMBRE 14 DE 2015
+
+
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+
+   NOVIEMBRE 14 DEL 2015 - JEOVANNY CORREA 
+El sistema mecánico de la unidad G32 que acopla el servomotor con el indicador de apertura y cierre está haciendo contacto permanentemente con la estructura ocasionando el corte de la varilla. 
+
+Se corrige la friccion de la parte movil con la fija del instrumento de posicion servomotor deflector mediante calzos en su base.

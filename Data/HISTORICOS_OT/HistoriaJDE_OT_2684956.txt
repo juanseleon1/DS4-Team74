@@ -1,0 +1,7 @@
+2015/01/28 RUBEN ARBOLEDA
+A solicitud directa de Yesid Sanchez, se requiere revisar el funcionamiento del torno. 
+
+2015-05-27 GIOVANNY DIAZ - JHONATAN USME - RUBEN ARBOLEDA - YESID SANCHEZ
+Se realiza revision del funcionamiento del torno, despues de buscar informacion no se encontro planos referentes al torno, se inicio con la busqueda de falla, se identificó falla en el los microsuiches que actuan para girar el motor en ambos sentidos, se realizo limpiza y correcion. 
+
+Adicionalemnte se evidencio sulfatacion en el control del freno, lo que provocaba que el circuito se quedara abierto, se adecuó y se limpio, se dejó el torno en funcionamiento normal. 

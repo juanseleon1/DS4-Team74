@@ -1,0 +1,8 @@
+JHON MARIO PEREZ ARENAS. ENERO 11 DE 2019
+
+Revisar incremento de temperaturas en las tres fases del banco 2 en aceite y en devanados. El banco se encuentra con 140 MW por programa de generación durante todo el día. 
+
+31/01/2019 MARIA ISABEL ARIAS RENDÓN
+
+Se realizó revisión del banco y se encontró que el problema estaba en la comunicación con el instrumento de medida ya que las temperaturas registradas en el banco estaban en FASE R: 62°C, 82°C Y 84.6°C. Fase S: 66°C, 88.6°C y 89.4°C, fase T: 61.7°C, 84.6°C y 85.6°C lo que está dentro del rango permisible y que dista mucho de la señal que estaba llegando al scada. El grupo electrónico realizó el ajuste 
+

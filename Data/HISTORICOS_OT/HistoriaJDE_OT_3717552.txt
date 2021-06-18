@@ -1,0 +1,4 @@
+Inspección y medidas generales de las motobombas de refrigeración para los generadores de Guatape.
+
+2018/07/13 GIOVANNY DIAZ 
+Se realizó mantenimiento al motor de motobomba CW10 refrig reserv GT  CORRIENTE: R:115, S:111, T:105, VOLTAJES RS:451, ST:452, TR:450,TEMPERATURA MAXIMA DE MOTOR 69,6°C 

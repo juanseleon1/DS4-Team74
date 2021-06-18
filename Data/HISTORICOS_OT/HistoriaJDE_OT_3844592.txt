@@ -1,0 +1,16 @@
+MANTENIMIENTO CORRECTIVO
+Fecha de reporte falla: 2018/06/15  Reporta: Carlos Andrés Andrade
+Síntoma en Oficina:Pérdida de señal desde oficina
+Fecha de atención falla: 2019/07/31 Atiende: Raúl Mauricio Álvarez
+
+Diagnóstico de Oficina: Perdida de señal de sensor
+Modo de Falla:Falla de sensor de nivel respaldo
+Falla Inmediata: No hay comunicación con el datalogger 
+
+Falla básica: Falla en sensor por condiciones ambiantales que acortaron su vida útil
+Recursos utilizados: Sensor Hidrostático Paroscientific
+Anomalías encontradas: 
+*Se reinstala sensor de nivel SN2, con transmisión de datos por radio enlace. 
+*Caja de encerramiento de radio esclavo y regulador de voltage con espacio insuficiente. Pendiente cambio por una de mayor tamaño en un futuro mantenimiento.        
+*Marcación   de cables borrada, pendeinte remarcar con termoencogibles en próximo mantenimiento 
+*Se instala sensor nuevo SN2 y se ajusta offset de 625.7336 para ajustar con medida de radar y SN1  

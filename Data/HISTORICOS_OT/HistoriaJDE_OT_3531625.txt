@@ -1,0 +1,32 @@
+2017/07/05 Se hace OT corretiva ya que en la OT: 3476780 se encontró un punto caliente: 
+Se realizó informe termográfico a la MOTOBOMBA CW2 REFRIG U2 GT, se evidenció una alta temperatura en la fase T a la llegada del interruptor, La temperatura de los cables a la entrada del Breaker se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 48.7°C, presenta una deficiencia mayor en su funcionamiento, se debe hacer un correctivo. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2017/07/05 ANDRES RAMIREZ - JUAN GRANADOS - SERGIO OLIVARES - RUBEN ARBOLEDA
+Teniendo en cuenta que la Unidad 1 estaba parada al igual que la motobombas CW1, se coordió con el grupo de operación de turno y se paró la CW2 y se arrancó  la CW1, se requiere desenergizar el CCM1 para realizar la correción, se espera el fin de semana salida de bancos 1 y 2 para cambio de PT's OT's: 3530733 y 3530783 y ahí aprovechar para hacer el correctivo.
+
+2017-07-09 REALIZÓ: FERNANDO ANTONIO RUIZ - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3531625, PASO:1-2          
+Se realizó mantenimiento correctivo a la motobomba CW2, la cual tenía un punto caliente en la fase T a la llegada del breaker, se realizó cambio de terminal y se realizó limpieza a las otras 2 fases.
+
+2017-07-10 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3531625, PASO:3          
+Se realizó una inspección termografica al interruptor de la motobomba CW2, se evidenció una disminución de 57.5°C, a la temperatura inicial 122°C en la fase T a la entrada del interruptor, la temperatura final 65.3°C, se recomienda realizarle el mismo procedimiento a la fase S tan pronto como sea posible ya que también presenta una Delta T23.9°C , implica una deficiencia en su operación. las corrientes y voltajes medidos están dentro de los parámetros normales de operación . Realizar inspección termografica periódicamente, en caso de un incremento mayor se recomienda parar la motobomba
+
+Queda pendiente corregir la fase S.
+
+2017-08-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3531625, PASO:4          
+Se realizó mantenimiento correctivo a la motobomba CW2, la cual tenía un punto caliente en la fase S, se le cambio la terminal a la llegada del interruptor.
+
+2017-08-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3531625, PASO:4.2          
+Se realizó seguimiento e informe termográfico a la motobomba CW2 después de realizar el mantenimiento correctivo, se notó que la temperatura bajó de 93 a 83, se recomienda realizar un seguimiento.
+
+2017-08-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3531625, PASO:5          
+Se realizó mantenimiento correctivo a la motobomba CW2, se cambió por segunda vez la terminal de la fase S a la llegada del interruptor, queda en observación
+
+2017-10-06 REALIZÓ: FARLEY GIOVANNY DIAZ - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 3531625, PASO:6          
+Se realizó cambio de totalizador de la motobomba CW2, aprovechando paro de planta para el cambio de tablero de 208VAC, adicionalmten se realizó una adecuación provisional con el fin de poner en funcionamiento y verificar el mejoramiento en los puntos calientes, queda pendeitne realizar una inspeccion termografica.
+
+2017-10-07 REALIZÓ: FARLEY GIOVANNY DIAZ - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 3531625, PASO:7          
+Se realizó inspeccion termografica a la motobomba CW2, se evidenció una mejoría en la temperatura, se dejó en condiciones normales, se adjunta el informe a la OT.
+
+
+
+

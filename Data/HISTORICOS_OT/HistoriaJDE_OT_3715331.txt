@@ -1,0 +1,10 @@
+23 DE ABRIL DE 2018 IVAN DARIO ZAPATA GOMEZ
+LA MOTOBOMBA DE REFRIGERACION AIRE DE LA UNIDAD 1 DE GUADALUPE 3 PRESENTA BAJA PRESION, ESTA EN 14.4 PSI.  REQUIERE REVISION.
+
+
+Programador: Camilo Montagut - 16/05/2018
+
+Se verifica porque la bomba de refrigeración presenta baja presión y se encuentra que la malla de la granada está destruida en su parte inferior. 
+Se hace la corrección con malla en acero inoxidable, se cambia empaquetadura de las bridas y se realiza el montaje de la bomba.
+Se hacen pruebas en la bomba y se registra una presión de funcionamiento de 16.4 Bar
+Ejecuta: Equipo de mantenimiento mecánico UOG.

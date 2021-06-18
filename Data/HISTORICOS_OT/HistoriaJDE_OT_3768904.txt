@@ -1,0 +1,5 @@
+2018/09/26 RUBEN ARBOLEDA
+Se crea OT para realizar revision de los sensores de frenos de la Unidad 2.
+
+2018-09-26 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768904, PASO:1         
+Se realizó revisión de los frenos de la Unidad 2, ya que en días anteriores se había realizado un puente para dar condiciones de maquina lista, se ajustó la lámina del sensor del gato 4, se realizó prueba de funcionamiento quedando en condiciones normales, se retiró el puente.

@@ -1,0 +1,16 @@
+PLANEADOR: FRANCIS LONDOÑO VERA, 2017-10-18
+MTTO INTERCAMBIADOR  IPAA 2, VALVULA DE 4 VIAS Y FILTRO AUTOLIMPIANTE
+HOROMETRO ACRAA: 68206
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2017-10-19
+- Se lavan placas intercambiador.
+- Se revisa actuador de la válvula de 4 vias y se cambia o'ring que se encontró en mal estado.
+- Se revisa micro-suiche de la válvula de 4 vias del intercambiador 1 quedando operativa.
+
+Nota: Queda pendiente Mantenimiento de la selenoide del tanque de compensación ya que tiene fuga de aire
+
+Toma de tiempo retrolavado y flujo normal 5 minutos.
+
+Horómetro ACRAA: 68206 hrs.
+
+Trabajo realizado por: Leonardo Higuita y Elkin Gómez de CSL LARCO.

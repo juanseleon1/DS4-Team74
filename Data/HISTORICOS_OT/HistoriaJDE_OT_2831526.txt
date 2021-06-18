@@ -1,0 +1,36 @@
+
+
+29/07/2015. SERGIO OLIVARES D.
+
+       1. Se encontro temperatura alta en la fase R, en la bornera de salida de potencia:
+
+Nombre          Temperatura        Emisividad
+            Fase R              68,0°C                 0,95
+            Fase S              41,3°C                 0,95
+            Fase T              41,3°C                  0,95
+
+ Se hizo ajuste de las tres borneras, disminuyendo la temperatura en las tres fases:
+
+ Nombre          Temperatura        Emisividad
+            Fase R              35,0°C                 0,95
+            Fase S              40,8°C                 0,95
+            Fase T              35,0°C                  0,95
+
+          REGISTRO DE VOLTAJES
+          FASE RS = 466V
+          FASE ST = 467 V
+          FASE RT = 464 V
+
+         REGISTRO DE CORRIENTES 
+         FASE R = 55.5 A
+         FASE S = 53.3 A
+         FASE T = 53.2 A
+
+         Tambien se ajustaron las tres fases de la bornera de entrada, que se encontraba en nivel 2, segun criterios Neta
+
+          Nombre     Temperatura      Emisividad
+          Fase T            45,7°C                    0,95
+          Fase S           34,4°C                    0,95
+          Fase R            34,1°C                   0,95
+
+         Se dejo todo normal.

@@ -1,0 +1,11 @@
+MANTENIMIENTO PREVENTIVO COJINETE SUPERIOR UNIDAD GENERACION GUADALUPE 4
+
+
+
+Programador: Camilo Montagut - 09/09/2016
+
+Se cierra ot preventiva ya que las actividades de mantenimiento se ejecutan en la ot: 3227489 que obedece a la inspección y corrección de la fuga de aceite del mismo cojinete.
+
+Nota: No se ingresan tiempos.
+
+Ejecuta: equipo mantenimiento mecánico UOG

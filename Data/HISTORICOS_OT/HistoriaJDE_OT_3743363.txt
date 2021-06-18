@@ -1,0 +1,17 @@
+2018/06/28 RUBEN ARBOLEDA
+Se crea OT para realizar conexión de potencia al dializador de aceite en el taller.
+
+2018-06-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3743363, PASO:1          
+Se inicio con adecuación de potencia en el taller para la conexión del Dializador.
+
+2018-06-29 REALIZÓ: FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743363, PASO:2          
+Se continuó con la adecuación de potencia  en el taller para la conexión del Dializador.
+
+2018-07-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743363, PASO:3          
+Se continuó con la adecuación de potencia  en el taller para la conexión del Dializador, se debe cambiar la acometida y el interruptor, se inició con la adecuación de una caja para instalar un interruptor tripolar.
+
+2018-07-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743363, PASO:4          
+Se realizó adecuación de un interruptor de ajustable de 74 a 80 Amperios para la alimentación del Dializados, se realizó instalación de una caja de paso.
+
+2018-07-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3743363, PASO:5          
+Se realizó prueba del Dializador en compañía y operación del personal de mantenimiento Mecánico (Andres Álzate/León Parra), se presentó falla en un grupo de resistencias, se desconoce la causa, se contacto con el proveedor para identificarla, queda pendiente una visita por su parte.

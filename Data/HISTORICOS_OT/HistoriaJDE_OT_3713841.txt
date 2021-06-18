@@ -1,0 +1,10 @@
+
+2018/04/18 OT:3713841  Luis Eduardo Arcila
+Mantenimiento general por el personal de General Fire
+
+2018/04/25 OT:3713841  Luis Eduardo Arcila
+Se verifica reporte de fallas. Se realiza pruebas de estaciones manuales de tableros generadores. 
+Se verifica funcionamiento de los sistemas sonoros y luminosos del SCI Generadores.
+Se descarga eventos de activación. 
+Se normaliza el sistema y se deja operativo.
+

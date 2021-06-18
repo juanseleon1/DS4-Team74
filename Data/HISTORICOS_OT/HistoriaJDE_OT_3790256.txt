@@ -1,0 +1,7 @@
+
+REVISAR EL MEDIDOR DE TEMPERATURA DEL TRAFO DE POTENCIA FASE S DE LA UNIDAD 2 POR OCASIONAR EL PARO PARCIAL DE LA UNIDAD POR OSCILACION DE TEMPERATUTA ACEITE Y DEVANADO DE LATA DEL TRAFO FASE S.
+
+17/12/2018
+
+Al revisar el sistema se encuentran 2 cables de la RTD flojos (terminal sueltas), se cambian las terminales y se deja en observación, después de una semana se detecta que el problema de la oscilación de la temperatura ha desaparecido, por esto se procede a conectar la salida del relé de disparo por alta temperatura de devanado del Qualitrol.
+Informo:  BERNARDO BEDOYA B. 

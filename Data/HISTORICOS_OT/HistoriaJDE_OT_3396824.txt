@@ -1,0 +1,9 @@
+FECHA: JUEVES 23/02/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ
+ASOCIADO A LA OT: 3396824
+ASUNTO: INSPECCIONAR Y LAVAR FILTRO 
+
+MIERCOLES 15 FEBRERO /2017
+
+El circuito de agua de Los sellos de turbina U2, presenta perdida en las lineas de presion, generando alarmas constantes por presiones bajas en ambas lineas, y la presion diferencial esta alta. programar inspeccion y lavado del filtro y calibracion del sistema de descarga automatica del agua de retrolavado.  

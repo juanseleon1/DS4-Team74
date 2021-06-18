@@ -1,0 +1,20 @@
+16/08/2018 - Juan Camilo Montoya 
+
+Referente a la IHM del Control de Unidad Minicentral: Se genera la presente OT por encontrarse el equipo
+apagado con problemas de disco duro.
+Informa: Operación - Turno 3.
+
+
+17/08/2018 
+
+Referente a la IHM del tablero CUG, se enceuntra falla en el disco duro se inicia la aplicacion y se ejecuta con problemas de espacio,  esta actividad queda pendiente realizar durante el mantenimiento programada para la mini central 
+
+NOTA realizada por WTOBONL
+
+10/09/2018 
+
+Minicentral pantalla de control CUG se realiza verificación del sistema operativo y la aplicación del proceso, se encuentra falla en el proceso por disco duro, se realia actualizacion del panel y depuración de temporales, el sistema queda de nuevo operativo y normalizado 
+
+realizada por WTOBONL
+
+terminada cerrar 

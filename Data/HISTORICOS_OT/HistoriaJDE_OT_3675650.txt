@@ -1,0 +1,22 @@
+23/01/2018 JUAN CAMILO MONTOYA FONNEGRA
+Se genera la presente OT por presentarse falla en el mòdulo del Rectificador 1 dejando el canal fuera de servicio.
+
+
+23/01/2018
+
+se realiza verificacion del sistema y monitoreo de temperatura se evidencia falla en la CCI1 al parecer ocacionada por problemas en el harwaret se retira repuesto del almacen para realizar la configuracion y cambio de este modulo.
+
+pendiente para realizar por oportunidad por la disponibilidad de la unidad 
+
+realizado por Wtobonl
+
+27/01/2018
+
+se realiza verificacion del sistema en la CCI1 se actualiza el firware y ademas se  instala sistema de extraccion de aire en el procesador para controlar las temperaturas en este sistema.
+
+el sistema queda operativo y en observacion 
+
+
+realizado por Wtobonl
+
+TERMINADA CERRAR 

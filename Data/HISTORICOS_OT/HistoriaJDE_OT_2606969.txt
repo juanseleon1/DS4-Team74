@@ -1,0 +1,10 @@
+
+ SEPTIEMBRE 24 / 2014 - WILSON ARANGO
+ 
+ Revisar el control y la potencia de la bomba 1 de drenajes de Guadalupe IV. Esta se alarma por falla en el arranque y falla por sobre corriente. 
+
+SEPT.25 DE 2014.
+
+se realzan pruebas de encendido en modo manual y automático a la bomba # 1 para verificar las corrientes de arranque, de trabajo y vibraciones, encontrándose en condiciones de trabajo normales, se le modifica al arrancador suave el parámetro LOC  que corresponde al umbral de sobre carga de corriente que estaba al 150% y quedo en el 155%, este parámetro se le aumento por estar un poco ajustado a la máxima corriente de arranque del motor. Esta bomba queda en observación y conectado con el equipo analizador de red.
+
+WILLIAM LOPERA

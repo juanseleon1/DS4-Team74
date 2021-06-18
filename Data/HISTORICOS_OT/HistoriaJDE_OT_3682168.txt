@@ -1,0 +1,10 @@
+FECHA: 05/02/2018 SOLICITADO POR: Natalia Urrea - Operación G4
+OT: 3682168
+DESCRIPCIÓN: Se presenta alarma “ G4U1 PRESIÓN ACUMULADOR NO NORMAL”  TAG G4U1TOTK01NOR_A. Corresponde a baja presión en el tanque acumulador del sistema hidráulico de la unidad N°1; el cual se presentó cuando la presión llegó a 36 bar. 
+Se revisa en IHM de Bombas y Compresores; encontrando una presión de 35,5 bar, señal de válvula de intermitencia abierta y las dos bombas encendidas. Al ver que no sube presión se acciona manualmente la electroválvula de intermitencia hasta que la presión llega a 40 bar. 
+
+Este evento ya se había presentado antes, el grupo de mantenimiento mecánico revisó y por tratarse de un evento esporádico se definió que, de presentarse nuevamente, se debe cambiar la válvula de intermitencia y empezar a analizar la causa raíz.
+
+DEBIDO AL EVENTO QUE SE ESTA PRESENTANDO POR BAJA PRESION TANQUE ACOMULADOR Y TENIENDO EN CUENTA QUE SE HA TENIDO QUE FORZAR MANUALMENTE LA V. INTERMITENCIA 221, POR NO OPERAR CORRECTAMENTE, SE DECIDE CAMBIAR LA VALVULA POR UNA NUEVA, CON EL FIN DE DESCARTAR QUE ESTE SEA EL PROBLEMA ASOCIADO A BAJA PRESION DEL TANUQE, POR SER UN EVENTO NO FRECUENTE, SE COMIENZA POR DESCARTAR ESTA OPCION. SE CAMBIA V. INTERMITENCIA POR UNA NUEVA, SE REALIZAN PRUEBAS Y SE VERIFICA SU CORRECTO FUNCIONAMIENTO. 
+
+INFORMO: CARLOS OSPINA

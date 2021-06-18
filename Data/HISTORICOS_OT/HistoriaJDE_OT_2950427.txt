@@ -1,0 +1,9 @@
+2015-11-29. JUAN C DUARTE MUÑOZ.
+IDENTIFICAR PORQUE EL COMPRESOR NO ESTA ARRANCA EN LOS MODOS: MANUAL NI AUTOMÁTICO.
+
+2015/11/30 EDWAR LONDOÑO - JAIDIBER MARIN - PROGRAMO: RARBOLG
+Se realizó revision general, se encontró falla en un contacto del relé D3, se realizó correción y pruebas quedando en servicio normal. 
+
+2016-02-06 ALEJANDRO CASTRO -PROGRAMADO:DBEDOYAS   
+Se realizò la limpieza y cambio de aceite de los compresores 3 y 4 de interrupotores.
+quedan en funcionamiento normal.  

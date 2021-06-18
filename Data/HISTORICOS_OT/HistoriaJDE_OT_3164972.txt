@@ -1,0 +1,9 @@
+
+
+FECHA: JULIO 3 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presentan varios paros por corrientes asimétricas, se realiza prueba de condensadores y de los 8 que hay instalados solo 3 salieron bien y los demás con falla, se realiza el cambio de 4 condensadores nuevos (ubicados en las posiciones 3, 4, 5 y 6) y se colocan 2 de los que estaban en funcionamiento y que quedaron ubicados en las posiciones 7 y 8; durante los trabajos se encontró con problemas el contactor del condensador 3, se cambió por el del condensador 10 que esta fuera de servicio, se deja en servicio el aerogenerador. Se cambia aire acondicionado.

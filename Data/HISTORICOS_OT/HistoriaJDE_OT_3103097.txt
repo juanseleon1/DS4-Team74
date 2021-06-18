@@ -1,0 +1,6 @@
+05/06/2016 RAMIRO A TORRES.
+
+SE PARA EL GRUPO DE BOMBAS 1. SE RESETEA PERO NO DA RESULTADO. NO HAY BREAKES DISPARADOS. SE INCREMENTA LA TEMPERATURA DEL ACEITE LOGRANDOSE BAJAR HECHANDOLE AIRE A LAS FASES R Y T.
+
+2016/05/06 GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó revision general, se encontró relé 80Q11Y1 flojo, se ajusto y el grupo arrancó, se retiró el relé y se le realizó limpieza general ya que presentaba sulfatación, se dejó en condiciones normales.

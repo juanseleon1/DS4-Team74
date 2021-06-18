@@ -1,0 +1,4 @@
+PLANEADOR
+XI: VERIFICAR INSTRUMENTACION AL SISTEMA ACEITE SELLOS U1 Y U2 SI.
+2018/07/12
+Se desmonta el switche para ajustarlo nuevamente porque el ajuste que se le había dado no fue el correcto.

@@ -1,0 +1,4 @@
+
+OCTUBRE 23/2018 OT: 3777322  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO, PEDRO ROBAYO
+
+Se presenta falla en la base del módulo 152A2, se cambia y se deja en servicio el aerogenerador, la falla se produjo por filtración de agua del aire acondicionado dentro del tablero.

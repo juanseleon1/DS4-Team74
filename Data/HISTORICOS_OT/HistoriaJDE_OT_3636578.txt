@@ -1,0 +1,6 @@
+Fecha: Noviembre 8/2017Programo: Daniel Palacios O.Ejecuto: Frank Córdoba y Julián Giraldo
+
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres. Contador operaciones Q0=1411, contador operaciones del motor de la bomba Q0=2781.
+Trabajo ejecutado por: Frank Córdoba y Julián Giraldo
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

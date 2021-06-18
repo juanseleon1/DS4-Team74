@@ -1,0 +1,20 @@
+Solicitante-Planeador: 620571
+Aprobador: 355694
+Fecha de solicitud: 31-05-2017
+Tipo de mantenimiento:  Correctivo
+
+La idea es que la lista de acciones la adecuen al mantenimiento que van a realizar.
+
+Estaciones hidrometeorológicas
+
+Realizar las siguientes acciones de mantenimiento correctivo:
+                Inspección general del estado de la estación
+                Limpieza de estación
+                Descarga y verificación de datos de la estación
+                Actualización de programa de la estación
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+                Verificación del nivel de mira vs. sensor                          
+                Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+                Reparación sistema de sensores y protectores
+                Reubicación del sensor de radar

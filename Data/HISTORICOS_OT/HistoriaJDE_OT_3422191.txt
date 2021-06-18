@@ -1,0 +1,30 @@
+AC:  INSPECCION DE RUTINA GENERAL A LAS OBRAS CIVILES PROPIAS DEL PROCESO GENERAR ENERGÍA DE LA SUBGERENCIA OPERACIÓN GENERACIÓN.
+
+RUTA 1 SI OBRAS CIVILES LA SIERRA, APLICA PARA LOS SIGUIENTES EQUIPOS:
+
+200180 OBRAS SIERRA SI124817 ESTRUCTURA CAPTACION SI124875 CIMENTACIONES CICLO COMBINA SI124876 ESTRUCTURA DESCARGA REFRIGE SI129669 EDIFICIO CASA MAQUINAS SI129659 PUERTO RIO MAGDALENA SI129662 SISTEMA INUNDACIONES SI129664 ZONA EXTERIOR C/M S/E SI129665 PORTERIA PRINCIPAL SI129666 EDIFICIO TALLER BODEGA SI129782 EDIFICIO TRATAMIENTO AGUA SI
+Los días 23 y 24 de marzo se realizó la inspección detallada civil correspondiente al MP anual de la central y generada por la OT 3422191.
+
+El diagnóstico resumido es el siguiente:
+
+Diagnóstico:
+Se plantean los siguientes frentes de trabajo por atender:
+1. Elementos del proceso:
+- Reparación de muro agrietado en tanque de recuperación de aceite.
+- Reparación de grietas en vía interna.
+- Realizar limpieza y retiro de sedimentos y vegetación en el sistema de drenaje (cuneta perimetral y caja) del dique donde se ubican los tanques de almacenamiento en la central La Sierra.
+- Cambiar el sistema de cárcamos prefabricados en la entrada de casa de máquinas.
+- Reponer los cárcamos metálicos deformados.
+- Reparar sello en apoyo de tanque D2 de la estación de recibo de puerto Serviéz.
+
+2. Elementos arquitectónicos y de urbanismo.
+- Las fisuras que se presentan en diferentes muros del edificio administrativo en la central La Sierra pueden ser tratadas de forma convencional: pulir, limpiar bordes, llenar, resanar y pintar.
+
+- En la estación de recibo de puerto Serviéz: 
+·Modificar condiciones de aislamiento y ventilación del cielo falso de la caseta de alojamiento temporal de conductores y reparar el cielo falso.
+·Modificar disposición de tuberías sobre cielo falso de corredor del edificio de control, para evitar deterioro del cielo falso.
+·Rehabilitar el sistema de aguas residuales de los baños; se debe verificar pendientes de desagües y dirección del flujo.
+
+
+El informe detallado de la inspección se encuentra en la ruta:
+U:\2010 D OPERACIONES GENERACION ENERGIA\5.MANTENIMIENTO\5.13 OBRAS CIVILES\E. INSPECCION RUTINA GENERAL\16. LA SIERRA\2017

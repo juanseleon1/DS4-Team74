@@ -1,0 +1,139 @@
+
+NOVIEMBRE 20/2017 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+ERINSON SANCHEZ
+ARMANDO RODRIGUEZ
+ELIECER PUSHAINA
+HENRY GIRALDO
+
+Se tienden los 9 cables rígidos de potencia al interior de la torre entre la base de la torre y la sección de 36 metros, se dejan asegurados en los respectivos soportes.
+
+
+DICIEMBRE 06/2017 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+PEDRO ROBAYO
+
+Se instalan las barras distribuidoras en el tablero de potencia de la base del aerogenerador.
+
+
+DICIEMBRE 11/2017 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+PEDRO ROBAYO
+
+Se instalan los cables que van a los tiristores
+
+
+
+ENERO 02/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ELIECER PUSHAINA
+HENRY GIRALDO
+
+Se realiza parte del aseo en la góndola, se toman medidas de los cables y de los materiales que falta por instalar e iniciar la puesta en servicio del aerogenerador, se coloca cinta en los cables que salen del interior del generador, algunos de estos cables habían perdido parte del aislamiento.
+
+
+
+ENERO 09/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ERINSON SANCHEZ
+JONATHAN DUQUE
+PEDRO ROBAYO
+
+Se cortan y conectan las puntas de cable que salen del transformador y llegan a la parte superior de la cuchilla (seccionador), también se colocan cables de tierra al interior de la torre.
+
+
+ENERO 13/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+ELIECER PUSHAINA
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Se tienden los 9 cables flexibles de potencia al interior de la última sección de torre y bandejas de la góndola al igual que el cable de 25 hilos entre Top Box y Bottom Box, queda pendiente empezar el empalme del cable rígido y el flexible.
+
+
+
+ENERO 14/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+HENRY GIRALDO
+
+Se empalman los 9 cables de potencia en la sección de 36m de la torre
+
+
+ENERO 15/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+ELIECER PUSHAINA
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Se coloca contactor nuevo para el G1 (17K2) con sus respectivas platinas de cobre, se tiende y conecta el cable de 5 hilos calibre 12 AWG en Top Box y Bottom Box al igual que el de 25 hilos. También se cortaron 101 metros de cable flexible de potencia para colocar los cables de conexión y tierras en la góndola entre tablero y generador.
+
+
+ENERO 16/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Se organizan y se conectan en la parte inferior del contactor 17K2 los cables flexibles que llegan de la Bottom Box, también se coloca barra de tierra en el tablero de potencia Top Box y se conectan las tierras que salen de esta barra a la base del generador eléctrico, además se dejan tendidos los cables entre el contactor 17K2 al generador (G1) quedan ponchados en la Top Box y pendiente en el generador.
+
+
+
+
+
+ENERO 17/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Se conectan los cables del G1 en el contactor al igual que los del contactor del G2 (parte inferior) y se conectan sin torquear en el generador, también se colocan y se conectan los cables que salen del contactor del G1 (parte inferior) y se dejan presentados en la parte superior del contactor del G2 (falta cambiar los aisladores ya que con los robos los dañaron).
+
+
+ENERO 18/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JULIAN URREGO
+ELIECER PUSHAINA
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Se extienden y conectan las tierras que van desde el bucle a la barra de tierra de la góndola, se realizan pruebas al generador y se conectan los cables al generador.
+
+
+
+ENERO 20/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+ELIECER PUSHAINA
+ALVARITO PUSHAINA
+JONATHAN DUQUE
+
+Se inicia con el manteniendo del AG1 actividades engrase rodamiento principal, recuperar agua al sistema de Refrigeracion, cambio de filtros, engrase rodamientos generador, limpieza general, torque de disco, yaw base de rodamiento principal, secciones de torre y base de la torre, queda pendiente el cubo por altos vientos.
+
+
+ENERO 25/2018 OT: 3774569  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+ERINSON SANCHEZ
+ALVARITO PUSHAINA
+JONATHAN DUQUE
+
+Se realiza torque a los pernos de las palas dentro del cubo, después de esta inspección se deja en servicio el aerogenerador

@@ -1,0 +1,8 @@
+FECHA:JULIO/06/2016
+
+SOLICITANTE:GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCIÓN:FUGA DE AGUA EN VIA DE CIERRE SERVOMOTOR, VALVULA DE ADMISIÓN.
+
+Nota:
+la fuga se localizó en un conector del tubo que lleva la presion de cierre al servomotor, se procede a cerrar los valvulas del circuito aguas arriba para interrumpir la presion y cambiar empaque al mencionado conector quedando asi sellada la fuga. 

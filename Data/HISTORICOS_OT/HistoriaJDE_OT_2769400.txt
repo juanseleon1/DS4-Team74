@@ -1,0 +1,4 @@
+FECHA: Agosto 16/2015PROGRAMO: Daniel PalaciosEJECUTO: Oscar Montoya.
+Se realiza mantenimiento al tablero, a los contactores, revisión y verificación de tornillería y cableado, mantenimiento a los motores de agua cruda y tratada. En el contactor la bomba N°2 de agua tratada se encuentra flameadas las terminales de las fases S y T. se corrige esta situación. Se realizan medidas de aislamiento a motores y se llenan registros.
+
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD

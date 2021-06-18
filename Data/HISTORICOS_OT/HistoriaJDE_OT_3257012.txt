@@ -1,0 +1,29 @@
+2016-09-25 REALIZÓ:  JHONATAN USME - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251104, PASO:1          
+Se realizó movimiento del eje de anillos y soporte porta escobillas y se realizó medida de aislamiento al recinto de anillos sucio, con los siguientes datos:
+ Anillo Superior Sucio: <500KOhm
+Anillo Inferior Sucio: <500KOhm
+Barraje - Porta escobillas Superior - Sucio: 3,57GOhm
+Barraje - Porta escobillas Inferior - Sucio: 332MOhm
+La limpieza del recinto de anillos fue criogenica y se realizó por parte del contratista CRIOTECH, 
+
+2016-09-26 REALIZÓ: OSCAR GIRALDO - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3257012, PASO:2 
+Se realizó mantenimiento preventivo al recinto de anillos, la limpieza criogénica no fue eficiente debido a la cantidad de aceite que contiene el recinto, al aplicar presión, toda la suciedad se desplazaba de un lado al otro del recinto, se realizó limpieza con liquido dieléctrico y petrolizadora, Se realizó medida de aislamiento limpio: 
+Anillo Superior Limpio: 16,32 GOhm
+Anillo Inferior Limpio: 5,65GOhm
+Barraje - Porta escobillas Superior - Limpio: 8,82GOhm
+Barraje - Porta escobillas Inferior - Limpio: 30,6GOhm
+Se realizó pintura de los anillos rozantes y pintura de los anillos portaescobillas.2016-09-25 REALIZÓ:  JHONATAN USME - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251104, PASO:1          
+Se realizó movimiento del eje de anillos y soporte porta escobillas y se realizó medida de aislamiento al recinto de anillos sucio, con los siguientes datos:
+ Anillo Superior Sucio: <500KOhm
+Anillo Inferior Sucio: <500KOhm
+Barraje - Porta escobillas Superior - Sucio: 3,57GOhm
+Barraje - Porta escobillas Inferior - Sucio: 332MOhm
+La limpieza del recinto de anillos fue criogenica y se realizó por parte del contratista CRIOTECH, 
+
+2016-09-26 REALIZÓ: OSCAR GIRALDO - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3257012, PASO:2 
+Se realizó mantenimiento preventivo al recinto de anillos, la limpieza criogénica no fue eficiente debido a la cantidad de aceite que contiene el recinto, al aplicar presión, toda la suciedad se desplazaba de un lado al otro del recinto, se realizó limpieza con liquido dieléctrico y petrolizadora, Se realizó medida de aislamiento limpio: 
+Anillo Superior Limpio: 16,32 GOhm
+Anillo Inferior Limpio: 5,65GOhm
+Barraje - Porta escobillas Superior - Limpio: 8,82GOhm
+Barraje - Porta escobillas Inferior - Limpio: 30,6GOhm
+Se realizó pintura de los anillos rozantes y pintura de los anillos portaescobillas.

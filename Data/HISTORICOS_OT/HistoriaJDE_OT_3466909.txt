@@ -1,0 +1,5 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Ronal Arango.
+Se realiza inspección al barraje de fase aislada, a las puestas a tierra y a la estructura. Se inspeccionan las RTD´s, se realiza mantenimiento al tablero de control del aire a presión y se verifican presiones en los ductos.
+
+
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD

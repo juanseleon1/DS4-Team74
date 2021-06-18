@@ -1,0 +1,6 @@
+
+FECHA: DICIEMBRE 17 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Debido a los paros continuos por Feedback Switch G2 Top se inspecciona el estado del contactor 18K2 del generador 2, se realiza una prueba de cierre y se escucha un ruido al momento de cerrar el contactor, el sonido es de una energizacion y desenergizacion de la bobina de cierre, se encuentra un borne mal ajustado en el circuito de energizacion de ésta, se corrige y se realizan pruebas pero el contactor queda con el mismo ruido, se inspecciona el núcleo y se encuentra polvillo oscuro, se procede a cambiar la bobina pero el problema continua, se decide dejar en operación con la bobina que tenia, mañana se continuara con la intervención.

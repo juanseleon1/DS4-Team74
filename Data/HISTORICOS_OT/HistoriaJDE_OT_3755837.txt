@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2018/08/06
+Síntoma: No se hay comunicación entre el servidor y la red de comunicaciones de Riogrande II

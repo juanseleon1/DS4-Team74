@@ -1,0 +1,5 @@
+2017/11/29 RUBEN ARBOLEDA
+Se crea la OT para sacar aceite de los aforos del Banco 3FT y Banco 4 FT
+
+2017-11-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3653177, PASO:1          
+Se sacan los aforos de los bancos de transformadores y se dejan adecuados en el RESPEL. 

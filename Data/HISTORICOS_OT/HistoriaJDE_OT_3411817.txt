@@ -1,0 +1,3 @@
+02/03/2017
+Unidad condensadora 1
+Presenta problemas de arranque, se procede arrancar el compresor, entra y se sale al instante. Se verifica el control, se encuentra en buen estado y funcionamiento correcto. se deduce que por protecciones internas no arranca el equipo. 

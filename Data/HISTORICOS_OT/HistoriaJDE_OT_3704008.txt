@@ -1,0 +1,14 @@
+24/03/2018 - JUAN CAMILO MONTOYA FONNEGRA 
+
+Referente al Caudal Ecológico: Se realiza la presente OT por encontrarse fuera de servicio la comunicación de este proceso en el Scada; trayendo como consecuencia la imposibilidad de visualizar las variables del sistema, especialmente el caudal de la válvula HB cuando la minicentral sale de servicio.
+
+Informa: Operación: Turno:3 Camilo Montoya - Fernando Roldán.
+
+
+
+Referente esta falla, se normaliza y atiende el evento con la OT 3739765 
+
+realiza WTOBONL
+
+cancelada esta OT  
+

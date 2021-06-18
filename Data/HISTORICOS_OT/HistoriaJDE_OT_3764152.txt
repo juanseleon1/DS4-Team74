@@ -1,0 +1,22 @@
+FECHA: 10/09/2018
+PROGRAMO: 591910.
+EJECUTO: 1997 y 856933
+OT: 376 41 52
+Horas: 4
+ACTIVIDAD: Se procede a armar bomba, la cual se encontraba desarmada en espera de un repuesto,  
+
+
+FECHA: 11/09/2018
+PROGRAMO: 591910.
+EJECUTO: 856933, 4612, 856991 y 922929
+OT: 376 41 52
+Horas: 8
+ACTIVIDAD: se inicia con montaje de bomba, queda pendiente montar el motor.
+
+
+FECHA: 12/09/2018
+PROGRAMO: 591910.
+EJECUTO: 856991 y 1997
+OT: 376 41 52
+Horas: 8
+ACTIVIDAD: se continua con el montaje del motor del motor de la bomba, se termina y se le entrega la motobomba al grupo electrcista para su conexion electrica y posteriores pruebas.

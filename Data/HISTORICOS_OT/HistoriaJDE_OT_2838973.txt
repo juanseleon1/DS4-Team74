@@ -1,0 +1,17 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LOS INYECTORES DE LA UNIDAD
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico de los inyectores y se registra las actividades ejecutadas en lops mismos equipos:
+
+- Limpieza y drenaje de el aceite remanente
+- Cambio de las 4 boquillas
+- Cambio de 2 cabezas de aguja (aguja 2 y 4)
+- Cambio de ejes de las 4 agujas
+- Reparación de los rompeolas
+- Adecuación de graseros en los travezaños
+- Cambio de los bujes de los travezaños (aguja 2 y 4)
+- Cambio de empaquetadura (Chesterton) al interior de los servomoteres de las agujas
+
+Ejecuta: equipo mantenimiento mecánico GIII

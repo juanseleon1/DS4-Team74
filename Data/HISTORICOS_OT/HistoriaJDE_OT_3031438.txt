@@ -1,0 +1,5 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+Se realiza una limpieza del tablero de control y se revisan los termómetros de temperatura del devanado de alta, del devanado de baja y temperatura del aceite.  Se verifica el punto de alarma y el punto de disparo, no se encontró novedades
+ 
+Realizo : grupo de electronica

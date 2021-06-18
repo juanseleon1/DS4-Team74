@@ -1,0 +1,10 @@
+Tarea: 
+Realizar pruebas de modelamiento de regulacion primaria en las Unidades de la central Guatapé. 
+
+Se realizó pruebas de modelación de las 8 unidades de generación de la central guatapé, en compañia y toma de datos de la empresa KUSPIDE Ingeniería y Oswaldo Alzate - Mario Augusto Gómez.
+
+Lo anterior acorde al acuerdo 640 entre XM y EPM
+
+Lideró: Juan Davig García
+Planeó: Ruben Arboleda
+

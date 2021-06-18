@@ -1,0 +1,14 @@
+20 OCTUBRE DE 2017. OT 3117192 ARTURO BETANCUR
+
+Se cambiaron 18 baterías a la UPS Trip-Lite de la sala de control de la Herradura. Como en total son 30 baterías, se desmontaron las 12 baterías viejas. 
+
+Se instalaron 6 baterias nuevas en la ups de camara de válvulas, queda pendiente por instalar otras 6 baterías para que queden las 30 baterías originales 
+
+
+19 MAYO DE 2016
+
+REVISAR UPS MARCA TRIP LITTE DE LA SALA DE CONTROL YA QUE SÓLO ESTÁ RESPALDANDO LA CARGA DURANTE 5 MINUTOS. POR LO PRONTO, SE CONECTARON LAS CPU´S DE LOS COMPUTADORES DEL SCADA Y RED EPM, EN LA SALA DE CONTROL, DE LOS TOMAS NARANJADOS DE LA UPS POWERWARE(RACK FIBRA ÓPTICA).
+
+PARA REALIZAR ESTA SOLICITUD SE DEBE ESPERAR A QUE LAS MÁQUINAS ESTEN PARADAS PORQUE AFECTA LA COMUNICACIÓN CON LOS 
+
+ARTURO BETANCUR

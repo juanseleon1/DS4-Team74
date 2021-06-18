@@ -1,0 +1,21 @@
+FECHA: SEPTIEMBRE 23 DE 2016
+
+EJECUTANTE: HENRY GIRALDO, PEDRO ROBAYO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Debido a que el aerogenerador presenta falla cuando va a entrar en servicio a una alta velocidad de viento, se presenta falla Phase Shift Error y/o Grid Error, se decide cambiar el módulo WP4060, pero la falla de Grid Error continua, se deja detenida hasta que bajan los vientos y entra en servicio con el G2.
+
+
+FECHA: SEPTIEMBRE 24 DE 2016
+
+EJECUTANTE: HENRY GIRALDO, PEDRO ROBAYO, ALVARITO PUSHAINA Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Debido a que la falla de Grid Error continua al entrar a generar con el G1, se verifican los tiristores y se encuentran físicamente buenos, también se revisa el contactor 17K2 y se encuentran los contactos un poco gastados, se cambian por unos en mejor estado, se realiza prueba pero la falla continua, se decide retirar el banco de tiristores del AG3 para realizar una prueba en el AG2 pero la falla continua. Se decide colocar el módulo WP4060 del AG3, se da arranque cuando los vientos han bajado un poco pero salió falla de Feedback G1 Top.
+
+FECHA: SEPTIEMBRE 25 DE 2016
+
+EJECUTANTE: HENRY GIRALDO, PEDRO ROBAYO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Se revisa el contactor 17k2 y se encontraba pegado, se normaliza y se meguea el generador dando infinito en el generador 1, se da orden de arranque al aerogenerador y queda en servicio.

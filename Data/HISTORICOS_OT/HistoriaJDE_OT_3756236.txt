@@ -1,0 +1,10 @@
+
+EN EL MOMENTO EN QUE SE ENERGIZA LA MAQUINA EL AVR 2 PRESENTA FALLA SIN PRESENTAR OTRAS ALARMAS ASOCIADAS,
+LUEGO DE PARAR LA UNIDAD SE DEJA REARMAR EL AVR. ESTE EVENTO A SUCEDIDO DE MANERA CONSECUTIVA.
+
+FECHA: AGOSTO DE 17 DE 2018.
+SOLICITA: LUIS FDO LOPERA - VICENTE GAMBOA H.
+
+Se cargan parametros nuevamente a los reguladores y se verifica su funcionamiento operado correctamente.
+
+Realiza: Ing. Oscar Adrían Duque - Carlos Moncada - Iván Darío Ramírez

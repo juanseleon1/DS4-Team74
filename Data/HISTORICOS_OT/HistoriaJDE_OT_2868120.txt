@@ -1,0 +1,8 @@
+
+FECHA: SEPTIEMBRE 6 Y 13 DE 2015  OT: 2868120
+
+EJECUTANTE: PROBAYO Y HGIRALRI 
+SOLICITANTE: HENRY GIRALDO
+
+Se hace intercambio de fuentes en el AG14, la 34A1 se cambia por la 102A2 para descartar falla de comunicaciones ya que ha salido por varias ocasiones el AG.
+Debido a que después de intercambiar las fuentes se presentó nuevamente la falla de comunicaciones y se pegó 2 veces el contactor 17K2 se procede a normalizar las fuentes como estaban en un principio.

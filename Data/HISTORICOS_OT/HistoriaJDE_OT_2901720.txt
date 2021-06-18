@@ -1,0 +1,9 @@
+2015/10/12. CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA REVISAR EL SELLO SE LA TURBINA POR PRESENTAR FUGA DE AGUA.
+
+ATENCIÓN CORRECTIVA:
+
+Fue necesario indisponer la unidad entre el 12 de Octubre y el 1 de Noviembre de 2015 (21 días) para realizar la reparación. Se encontró avería de las pistas fijas y moviles del sello del eje, también reventados los 16 niples de inyección de agua y sus resortes. Se instaló sello thordon nuevo, pista fija recificada, niples nuevos y resortes nuevos. También se instaló un sensor nuevo para supervisar el desgaste de las pistas móviles y RTDs de contacto, estos instrumentos nuevos fueron desarrollados por el equipo de mto de la unidad operaciones porce. La unidad entra en servicio el 1 de Noviembre con el sello del eje trabajando en condiciones normales. El informe detallado de esta reparación se encuentra en el servidor de la unidad operaciones porce, en la siguiente dirección:
+\\epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO
+
+Informó: Santiago Ramírez.

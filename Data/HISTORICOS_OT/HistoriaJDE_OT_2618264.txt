@@ -1,0 +1,9 @@
+ REVISAR COMPUERTAS PRINCIPALES TORRE CAPTACION TRONERAS
+
+ para la revision se instaló la compuerta de emrgencia, esperando poder acceder a la compuerta ppl y observar 
+ el estado de los sellos donde asienta la compuerta sin resultado, debido a que la compuerta de emergencia no selló.
+ se accede entonces aguas abajo de la compuerta por el lado exterior de la torre de captacion y se observa que el     mayor pase lo tiene la compuerta 2, la compuerta 1 esta con un pase aceptable.
+ se inspeccionaro ademas los sellos de las compuertas princioales 1 y 2 encontrandosen en buen estado.
+ es posible que el pase de la compuerta 2 se deba al mal estado de los sellos del asiento.
+ para reparar el sellado de las compuertas mencionadas se requiere bajar el nivel del embalse y el desvio de las 
+ aguas y asi poder corregir las fugas tanto de las compuertas principales como de la compuerta de emergencia.  

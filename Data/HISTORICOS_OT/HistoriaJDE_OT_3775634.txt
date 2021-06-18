@@ -1,0 +1,20 @@
+GERARDO AUGUSTO PEREZ ATEHORTUA 17/10/2018
+SE OBSERVA BAJO NIVEL DE ACEITE EN EL RECIPIENTE LUBRICADOR DE LA UNIDAD DE MANTENIMIENTO DEL SISTEMA DE AIRE COMPRIMIDO DE LOS FRENOS DE LAS UNIDADES. ES NECESARIO RECUPERAR DICHO NIVEL PARA MANTENER LA OPTIMA OPERACION DE LAS ELECTROVALVULAS DEL SISTEMA DE FRENADO.
+
+
+Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+Programador: Camilo Montagut - 27/12/2018
+
+Se espera un día en que no generemos con el fin de agregar aceite en la unidad de mantenimiento. Ya se tiene el aceite lubricante en la central de Troneras.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+

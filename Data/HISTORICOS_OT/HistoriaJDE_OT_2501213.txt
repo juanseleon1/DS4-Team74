@@ -1,0 +1,11 @@
+MAYO 07 DE 2014
+Se realiza la siguiente OT por presentar probles en el Regulador de tension banco #1 al momento de girar la unida despues de realizar el mantenimiento especial de reparacion de polos
+
+ESTEBAN VASQUEZ.
+
+23/04/2014
+PROGRAMADOR WILLIAM LOPERA, JOSE MONTOYA
+Se realiza el mantenimiento y la verificación de todos los elementos que se encuentran en el tablero de control.
+05/05/2014
+Se realiza la verificación y calibración del lazo de control del distribuidor y válvula distribuidora según protocolo.
+DISTRIBUIDORVALV. DISTRIBUI.% V mA % V0 -8,0 4,25 0 -8,0425,0 -3,972 8,32    50,0 0,011 12,28    75,0 4,0 16,32    100,0 7.99 20,26 100 -8,06

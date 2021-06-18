@@ -1,0 +1,4 @@
+FECHA: OCTUBRE 22/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: JORGE E. MUÑOZ.
+Se realiza limpieza general y revision de conexiones segun procedimiento en la OT.
+
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD

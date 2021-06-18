@@ -1,0 +1,9 @@
+SOLICITANTE:
+
+EN LA CENTRAL NIQUIA SE PRESENTA UN RUIDO DEMASIADO ALTO EN EL SISTEMA DE ANILLOS EN LA EXCITACIÓN.
+REPORTA. HECTOR RAMIREZ.
+
+OT: 2551726 AGOSTO 5 DE 2014 PROGRAMO: FARFREY OSPINA EJECUTO: ARMANDO RODRIGUEZ
+Se realiza inspección y limpieza, se detecta que las escobillas se desgastaron más rápido de lo  habitual,  se procede con el cambio total de las escobillas del anillo  inferior y se realiza cambio de anillos rozantes de la unidad, los otros anillos  se desmontan y se dejan pendientes para rectificarlos, la unidad queda generando normalmente. }
+
+agosto 12 de 2014 se identifica de nuevo  que las escobillas estan generando ruido. se piden 30 escobillas codigo 8068 en el almacen a08 quedamos pendientes a realizar el cambio por oportunidad en una parada de la maquina las escobillas que se pedieron en almacen son las originales de la maquina.

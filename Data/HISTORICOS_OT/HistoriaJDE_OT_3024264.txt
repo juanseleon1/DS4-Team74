@@ -1,0 +1,20 @@
+INSPECCIONAR EL FUNCIONAMIENTO DEL MOTOBOMBAS DE LUBRICACIÓN FORZADA UNIDADES GT. MEDIANTE LA MEDIDA DE PRESIONES, ALTURA DE LEVANTAMIENTO Y VIBRACIONES DEL MOTOR
+
+ESTE EQUIPO DEBE ESTAR CONSIGNADO PARA MANTENIMIENTO, LAS PRUEBAS SE REALIZAN CON EQUIPO EN FUNCIONAMIENTO Y LA UNIDAD PARADA.
+
+2016/06/16 DIEGO BEDOYA
+Se realiza la inspección de las bombas de lubricacion forzada y se toman los siguientes datos en su funcionamiento:
+
+ Bomba Principal Bomba de Reserva
+Presion de arranque (kg/cm2):  140     140
+Presión de trabajo (kg/cm2): 120 120
+Desplazamiento del rotor (mm):   0.05  0.05
+
+el trabajo fue realizado por Anderson López y Rodolfo Garces
+
+
+octubre 02 de 2016
+
+ot cerrada 
+
+andres ramirez

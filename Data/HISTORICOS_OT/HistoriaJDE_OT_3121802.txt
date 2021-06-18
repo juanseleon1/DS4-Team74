@@ -1,0 +1,5 @@
+24/05/2016   02:14   FRANCISCO JAVIER CORDOBA CIFUENTES
+
+G41 PORCENTAJE DE APERTURA DEL DISTRIBUIDOR SE ENCUENTRA ABIERTO AL 15% Y NO PERMITE BUSCAR CONDICIONES DE GRUPO LISTO.
+
+26/05/2016 Se realizan pruebas al distribuidor y la valvula distribuidora de la unidadd G41 viendose los parametros de calibracion de la tarjeta AMP en el regulador de velocidad con medidas desfasadas, se procede a cambiar dicha tarjeta y a relizar movimientos para realizar la calibracion, queda en los parametros establecidos, se realizan pruebas a la unidad quedando en buen funcionamiento.

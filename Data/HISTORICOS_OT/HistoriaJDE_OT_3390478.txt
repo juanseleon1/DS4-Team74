@@ -1,0 +1,15 @@
+SOLICITANTE: TURNO 3 OPERACIÓN G3FECHA: 08/02/2017
+
+Compresor 1 frenos unidades G35 - G36 no funciona. Falla general de operación.
+
+
+
+Programador: Camilo Montagut - 15/02/2017
+
+Se realiza mantenimiento preventivo donde se incluye limpieza de las correas y poleas, inspección de estado y tensión de las correas, y cambio de aceite (select T 30).
+
+Además se ajustaron las tuberías por presentar una pequeña fuga de aire.
+
+Se aprovecha y se cambia  (select T 30) de los otros compresores que presentaba humedad o bajo nivel.
+
+Ejecuta: Equipo mantenimiento mecánico GIII

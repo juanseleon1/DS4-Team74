@@ -1,0 +1,1 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo que comprende la fabricación y el montaje de un sensor para verificar el nivel del agua en la bocatoma. Este nivel se ubicará continuo a las rejas coladeras de la bocatoma (comienczo del vertical) 

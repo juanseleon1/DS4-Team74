@@ -1,0 +1,17 @@
+15/07/2018
+
+Referente al Regulador de Tensión Unidad N°2: Se realiza la presente OT por presentar error en la medida de tensión el regulador; se solicita atención de la falla lo más pronto posible.
+Informa: Operación - Turno 3: Uriel Castrillón - Camilo Montoya.
+
+
+15/07/2018
+
+Referente al Regulador de Tensión Unidad N°2: Se realizan ajustes en el AVR2 de los lazos Vm - Min, Vm - SCL, Vm - Val normalizando la consigna de  voltaje en 13.000KV. Queda normalizado y operativo.
+
+En el AVR1 que se encuentra fallado por problemas en la CPU se prueban y verifican las dos CPU'S reparadas por RPM, en este sistema ambas no responden y quedan con error. Se enviaron de nuevo para verificar, el AVR1 queda bloqueado por fusibles abiertos y falla en la CPU.
+
+La unidad queda disponible y operativa. 
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR

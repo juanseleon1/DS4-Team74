@@ -1,0 +1,7 @@
+
+FECHA: MAYO 10 DE 2015 OT: 2762704  
+
+EJECUTANTE: HENRU GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por sobre velocidad externa, esta está asociada al módulo PCH, salió repetidamente y fue necesario cambiar este módulo.

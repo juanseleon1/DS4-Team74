@@ -1,0 +1,5 @@
+Revisar la comunicación Modbus del regulador de velocidad de la unidad, esta se esta fallando continuamente y pierde la consigna de potencia, rechazando la carga.
+
+Se verificaron los lazos de control del regulador de velocidad y se reapretaron conexionado en el transductor de potrencia activa.
+
+Realiza. Jorge Rodríguez

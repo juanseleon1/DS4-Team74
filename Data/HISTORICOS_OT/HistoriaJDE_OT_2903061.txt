@@ -1,0 +1,13 @@
+23/10/2015
+
+Se realiza la adecuación de dos nuevas RTD´s además de la consecución de las dos RTD´s actuales las cuales se encontraron malas, también con el personal mecánico se adecua un nuevo sensor de desgaste para el sello, estos elementos están pendientes de instalar en el momento que los mecánicos comiencen el ensamble del sello, se realizan labores de mantenimiento.
+
+Realizado por Wtobonl
+
+
+28/10/2015
+
+Se realiza la instalacion de las RTD´s 1 y 2 en cada sello, ademas se adecuan dos RTD´s mas la 1A y 2A para dar indicacion sobre los mismos segmentos del sello, en el sensor de desgaste del sello se instala una medida de longitud para el desgaste con un sensor 4 - 20 mAmp el personal mecanico realiza la adecuacion de este dispositivo se realizan pruebas y este queda indicando 10.2 mAmp como punto de partida o cero del desgaste.
+queda pendiente la verificacion de estas modificacion con la unidad girando 
+
+Realizado por Wtobonl

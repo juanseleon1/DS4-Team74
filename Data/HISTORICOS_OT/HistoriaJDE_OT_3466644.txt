@@ -1,0 +1,5 @@
+ 
+
+10/06/2017 Luis Eduardo Arcila
+Se realiza mantenimiento al tablero de control, se le da torque a toda la tronilleria de las borneras y reles.
+Por problemas en el mecanismo del Q2 no se pudo probar  la tranferencia automatica (Tarjeta de seguridad )

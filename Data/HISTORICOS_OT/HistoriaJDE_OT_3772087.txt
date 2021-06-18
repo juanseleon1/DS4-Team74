@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL AL CARGADOR DE BATERIAS NUMERO 2 DE GUADALUPE 3.
+
+
+OCTUBRE 5 DE 2018
+Se realizó mantenimiento preventivo electrico a los cargadores número 2 con su respectivo banco de baterías, se extrae cada uno de los módulos se hace mantenimiento y se vuelve a insertar, se toman medidas de voltajes a cada una de las baterías encontrándose en 2.2 Vcc  con un total de 60 celdas  para un voltaje total de 134.1 Vcc con una corriente de 3.5 amperios. Se normaliza los cargadores y queda todo en condiciones normales.
+Realizó: Grupo eléctrico.
+Informó: William Lopera.

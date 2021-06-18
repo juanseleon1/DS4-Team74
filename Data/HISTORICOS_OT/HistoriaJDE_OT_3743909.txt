@@ -1,0 +1,5 @@
+2018/07/10 RUBEN ARBOLEDA
+En la OT: 3729808 se evidenció puntos calientes, se crea esta OT para corregir.
+
+2018-07-10 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3743909, PASO:1          
+Se realizó mantenimiento correctivo a la motobomba AFAA 3, se anexa informe a la OT.

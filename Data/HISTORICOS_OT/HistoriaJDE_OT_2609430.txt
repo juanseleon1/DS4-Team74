@@ -1,0 +1,13 @@
+Favor realizar mantenimiento en el control de las compuertas de captacion y recuperar la comunicacion Profibus de este sistema
+
+
+29/09/2014
+
+
+se inicia con los trabajos de mantenimiento del control y la adquisicion de materiales para adecuar los conectores profibus con una nuevas cajas de conexion tipo IP68
+
+
+Realizado por Wtobonl
+
+
+faltan las pruebas de estos lazos de control  se cierra esta OT para realizar una nueva y continuar con las pruebas pendientes de este sistema, la instalacion se ha terminado si contratiempos

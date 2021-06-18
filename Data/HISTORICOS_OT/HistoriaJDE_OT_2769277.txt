@@ -1,0 +1,8 @@
+XL: LIMPIAR Y CHEQUEAR REGULADOR TENSION TRE DE LA UNIDAD
+
+
+23/06/2015
+
+No fue posible realizar  mantenimiento según instructivo. Solo se verifican los  relés SIPROTEC de protecciones como en la TM e IHM de este sistema.
+
+Realizado por Wtobonl

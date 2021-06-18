@@ -1,0 +1,7 @@
+
+Se realizan las actividades:
+
+1. limpieza general al tablero del PLC.
+2. Se reapretó borneras de control 
+
+Se encuentra todo dentro de los parámetros normales de funcionamiento.

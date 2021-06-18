@@ -1,0 +1,45 @@
+FECHA: MARTES 17/04/2018
+PROGRAMO: YOVANNY RIVERA.
+EJECUTO: RICAURTE LOPEZ
+ASOCIADO A LA OT: 3705351
+ASUNTO: EJECUTAR EL MP TRIMESTRAL A LA PANTA DE EMERGENCIA DE LA SUBESTACION DE PLAYAS. 
+     NOTA:  LA MOTOBOMBA DE REPOSICION DE COMBUSTIBLE SE DEJA DESCONECTADA, DEBIDO A CONTAMINACION         POR AGUA DEL RESERVORIO DE  COMBUTIBL.
+        SE RECOMIENDA EXTRAER EL COMBUSTIBLE CONTAMINADO, LAVAR EL TANQUE Y REPONERLO POR DIESEL          NUEVO.
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO ________180__________
+
+PRESION DE ACEITE (PSI) ________86__________
+
+TIEMPO DE TRABAJO (min) ________8__________
+
+TEMPERATURA DE ACEITE (°C) ________80__________
+
+TEMPERATURA AGUA (°C) ________80__________
+
+VOLTAJE DE SALIDA ________488 kv__________
+
+CICLOS POR MINUTO ________60__________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones:_LOS NIVELES SE ENCUENTRAN EN PORSENTAAJES ADECUADOS._____________________________________________________________________________
+SE REALIZA LIMPIEZA EN GENERAL.__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

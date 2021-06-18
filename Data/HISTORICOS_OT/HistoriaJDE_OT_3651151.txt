@@ -1,0 +1,11 @@
+Planeador:642009
+Aprobador:355694
+Fecha de solicitud: 27 de noviembre de 2017
+Tipo de mantenimiento: Preventivo
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Limpieza de estación
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación del nivel de mira vs. sensor
+ Realización de aforo
+ Verificación del emplazamiento de la estación

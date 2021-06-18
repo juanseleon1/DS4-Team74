@@ -1,0 +1,12 @@
+2014/27/09.  SERGIO OLIVARES D.
+No se encontro como equipo Alarmas Generales de I etapa, se cargarà  segun la ventana de alarma "INTERRUPTOR ACOPLE BANCO DISTRIBUCION - MB - 125 CC" A SERVICIOS AUX DC ETAPA1 C/M GT MARCA METALANDES TENSION 125 VDC. 
+No se encontro informaciòn correspondiente de donde provenia la alimentacion para la alarma luminosa; en la informacion correspondiente faltan hojas para seguir la señal.
+Se hizo seguimiento del cable y se encontro el relè "RAG" malo, el contacto que alimenta la alarma luminosa se quedo cerrado. El rele se encontro deteriorado por manipulacion. Se cambio por uno nuevo que se tenia fuera de inventario.
+Queda pendiente la alarma "INTERRUPTOR ACOPLE BANCO DISTRIBUCION - MB - 125 CC", la cual no hay registro si estaba antes de realizar este trabajo, se planea en la OT: 2611238
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CS R1
+
+FEB 18/2016 PROGRAMO: JGUINGUER    EJECUTO: ALEXANDER VILLA
+SE HACE VERIFICACION DE RTD METAL 1 Y 2   COJINETE  SUPERIOR LOS VALORES SON LOS SIGUIENTES:
+PATRON          METAL 1             METAL 2           
+20ºC                 20,15ºC               11,45ºC                              
+40ºC                 40,13ºC               35.73ºC                           
+60ºC                 60,12ºC               55,82ºC             
+80ºC                 80,21ºC               80,21ºC             
+100ºC               100ºC                  100ºC               
+Valor programado alarma metal 70ºC                   
+Valor programado disparo metal 80ºC 
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+2016-02-09. JUAN C DUARTE MUÑOZ.
+
+CORREGIR LAS RPM EN MOTOR DE LA UNIDAD. SE OBSERVAN POR DEBAJO DE LAS ESTABLECIDAS LO QUE OCASIONA TRABAJO DEFICIENTE DE LA UMA. QUEDA PARADA Y CON TDS.
+
+2016/07/02 RUBEN ARBOLEDA
+Se realizó la revisión del equipo en la OT: 3120660, eléctricamente se encuentra en servicio el motor, y se evidencia que el conjunto de poleas y bandas están en buen estado, se sospecha de falla en el Blower, 

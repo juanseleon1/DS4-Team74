@@ -1,0 +1,23 @@
+
+2017/09/28 _ CARLOS ENRIQUE MONCADA. OT N° 3600289.
+
+Referente a la unidad 2:
+
+*Se encuentra en el distribuidor perno fusible del álabe 1 reventado. Durante el procedimiento de cambio del pernofusible se evidencia atascamiento entre la “ manivela POS202”  y la “ bieleta POS203”  siendo necesario retirarlas en conjunto y desatascarlos en el taller industrial. Por tal razón, se solicita redespacho desde el periodo 8 hasta el periodo 24.
+*Se normaliza alabe 1 con pernofusible nuevo y se ajustó perno excéntrico. 
+*Se realizó registro de holguras de los álabes verificando tolerancias de cierre entre álabes. Se calibró el álabe 24 y se pulieron ralladuras en el lainer inferior en zonas del álabe 1,13,24. 
+*En la válvula esférica se verifica los mecanismos de supervisión del anillo móvil del sello de servicio, encontrando reventados los mecanismos de los microsuiches IDE1 (inferior) e IDE2 (lateral), el IDE3(superior) queda habilitado y ajustado confirmando el desplazamiento del anillo móvil. 
+*Se calibró tornillo tope de la válvula 31T pues al cerrar la válvula esférica no estaba habilitando presión para el cilindro 1T para aplicar el sello de servicio. 
+*Se habilita alarma de supervisión de pernofusible reventado por medio de la nueva serie de sensores inductivos y el Paro rápido queda habilitado con esta alarma temporizada a 15 min. 
+*Se realizan pruebas de la estación hidráulica verificando operación de normal de la válvula de intermitencia entre 58.5 bar y 60.5 bar. Queda pendiente verificar el ajuste de montaje para recalibrarla.
+*Se ejecutan las secuencias de arranque hasta energizada y bajo paro normal, evidenciando que ambas secuencias se ejecutaron correctamente. Se entrega la unidad disponible al CCG a 1:33 am.
+*Se concluye que las causas de que la unidad no haya ejecutado el paro normal el pasado lunes a las 23:27 donde se quedó girando en vacío 100rpm aún con el sello de servicio aplicado, fue que el sello de servicio no había aplicado correctamente y simultáneamente se había quedado el álabe 1 abierto por la ruptura de su perno fusible.
+OT 3600289
+Ejecutó: Equipo de mantenimiento y operación de la UOPO
+Informaron: Luis Federico Álvarez, Jorge Alberto Rodriguez, Renato Montoya, Santiago Ramírez, Francis Londoño y Walter Tobón.
+
+
+
+18/09/2017
+
+En el momento de parar la unidad se escucha ruido anormal, se verifican alarmas y no presenta ningún evento o falla. En el proceso de paro no alcanza a parar en su totalidad, queda girando a 100 rpm (20hz). Se verifica sello de operación y muestra aplicado, válvula esférica cerrada y distribuidor cerrado. A esta velocidad no se puede aplicar frenos, para poder cortar el paso de agua es necesario aplicar el sello de mantenimiento (sello aguas arriba). para la unidad en su totalidad, se informa al ingeniero encargado y al grupo de mantenimiento para su revisión.

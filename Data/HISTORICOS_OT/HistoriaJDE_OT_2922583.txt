@@ -1,0 +1,21 @@
+MANTENIMIENTO PREVENTIVO MECANICO RUEDA PELTON GUADALUPE 3
+
+
+Ot: 2922583 - CM: rodete- Programador: Camilo Montagut - 30/11/2015
+
+A las 60019.847 horas de servicio del rodete Neyrpic 27496-3, se realiza inspección en el mismo equipo y no se evidencia cavitación en los cangilones. La mayoría de los cangilones presentan poros en el cangilón inferior. Además se evidencia que varios cangilones están desgastados en su espesor 
+
+No se evidencia cavitación en los rompeolas 
+
+Los líquidos penetrantes aplicados no revelaron fisura
+Se verifica que el andamio para inspección se encuentra en muy buen estado. Faltan 8 platinas en el andamio
+
+El siguiente link contiene el registro fotográfico de la inspección:
+
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\3-Mantto Mecánico\03-Guadalupe 3 Mecánico\06 REGISTRO INSPECCIÓN DE RUEDAS G3\INFORMACIÓN RODETES\REGISTRO FOTOGRÁFICO\U2\Inspección 2015-11-11>
+
+Se verifica colinealidad de la arista media del rodete con la punta de los inyectores, encontrándose en igual medida
+
+Por último e engrasa las toberas y travesaños en el compartimiento de rodete
+
+Ejecuta: Equipo mantenimiento mecánico GIII

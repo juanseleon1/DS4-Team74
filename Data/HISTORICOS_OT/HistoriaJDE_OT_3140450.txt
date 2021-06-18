@@ -1,0 +1,3 @@
+09-06-2106. solicitante: alexander Madrid C
+
+Se da disparo la unidad por cable flojo en en el transductor de potencia del regulador de velocidad, se realizan ajustes en el conector, se arranca de nuevo la unidad y queda operando de forma adecuada.

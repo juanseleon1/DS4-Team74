@@ -1,0 +1,10 @@
+AGOSTO 31 DE 2018 
+
+HACER EL MOONTAJE DE LOS 5 MICROFILTROS PARA LAS AGUJAS , LOS DOCE FILTROS MALHE  Y COMPLETAR EL NIVEL DE ACEITE EN EL REGULADOR DE VELOCIDAD HIDRAULICO DE LA UNIDAD 5 DE GUATAPE, E INICIAR PRUEBA DE RECORRIDO DE AGUJAS Y DEFLECTORES PARA DEJAR LA UNIDAD A PUNTO DE ARRANQUE. 
+
+ESTE TRABAJO LO VA A REALIZAR : ANDRES ALZATE , FABIO HERRERA , ORLANDO ZULETA , JUAN DAVID FLORES .
+
+SUPERVISA : JAIME A RAMIREZ 
+
+2018/09/07 DIEGO BEDOYA
+Se realiza la calibracion de los comandos de agujas, tambien del servomotor de deflectores, se tienen algunos inconvenientes con el servomotor; ya que en el momento de arrancar la unidad no responde adecuadamente, se evidencia que es producto de la descalibracion de los sensores de velocidad y del trasductor del deflector ubicado en el regulador hidráulico. se Realizan estas calibraciones y queda la unidad en condiciones normales de operación.

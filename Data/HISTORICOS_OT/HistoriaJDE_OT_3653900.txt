@@ -1,0 +1,8 @@
+FECHA: 03/12/2017    SOLICITADO POR: Gustavo Quintana - Operación Troneras
+DESCRIPCIÓN: En el momento de subir carga, se presenta ruptura perno fusible # 18 de la unidad N°1 de Troneras. Se revisa en sitio encontrando que es real. Esta máquina se encuentra indisponible por lo que requiere atención inmediata.
+
+Programador: Camilo Montagut - 06/12/2017
+Se cambia pernofusibles número 18 y se realizan movimientos del álabe para verificar que no existan obstrucciones para su funcionameinto normal.
+Se realiza engrase y limpieza . Finalmente  se entrega el trabajo a operación y se gira la unidad hasta sincronizada
+
+Ejecuta: equipo mantenimiento mecánico UOG

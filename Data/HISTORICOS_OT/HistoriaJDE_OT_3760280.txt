@@ -1,0 +1,4 @@
+
+AGOSTO 29/2018 OT: 3760280  PROGRAMÓ: HGIRALRI EJECUTÓ:  HENRY GIRALDO
+
+Se presentas paros por Feedback Switch G1 Top, se revisa y se encuentra el Brake de alimentación del voltaje del contactor disparado, se repone, estando el aerogenerador fuera de servicio el Brake se vuelve a disparar, se deja desconectado el aire acondicionado del tablero de potencia, se deja en servicio el aerogenerador.

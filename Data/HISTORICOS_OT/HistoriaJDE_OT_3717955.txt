@@ -1,0 +1,10 @@
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717955.
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+Se realiza limpieza, mantenimiento, verificación del cableado y la instrumentación encontrando tdo dentro de sus parametros normales.
+(La bornera XIII se encuentra con 5 borneras abiertas). 
+TB 110: bornes 101, 106 y 106 abiertos.
+TB 111: bornes 101, 110 abiertos.
+Realizo: Julio Cesar Parra, Neiro Fabian Pérez.
+
+
+XL: VERIFICAR Y LIMPIAR CONTROL CIRCULACION TCCS COJINETE SUPERIOR DE LA UNIDAD 4 P3.

@@ -1,0 +1,15 @@
+En la ejecución de la OT: 
+
+"OT   2494402   Realizó: Jhonatan usme - Giovanny Diaz
+Se realizó puesta en servicio del compresor 1 de la isla captación, marca Atlas Copco, para esto se realizó acompañamiento a un tecnico de la empresa Atlas Copco, se montó un controlador nuevo (MK5), el cual se le hizo tramite de compra. 
+
+El compresor quedo en funcionamiento con el nuevo control, aunque se presenta un desbalanceo de corrientes en las bobinas del motor, lo cual provoca una disparo de la protección termica del motor. 
+
+2014/04/07 ADONIS CADAVID - GUILLERMO CORDOBA - RUBEN ARBOLEDA
+Se realizó diagnostico del motor, se encontró una fase con un desbalance de voltaje, se coordinó con el personal de distribución para la revisión de alimentación de 13.2Kv al tranformador. pero no se pudo realizar por falta de medidor de tensión de alta tensión, queda pendiente planear una nueva revisión. 
+
+Con lo anterior se encuentra en desbalance de corriente en el funcionamiento del compresor, lo que ocasiona un disparo de falla termica de motor. 
+
+En la OT: 2536065 se realizo el cambio de transformador del compresor, despues de ésto se dejó en condiciones electricas normales. 
+
+

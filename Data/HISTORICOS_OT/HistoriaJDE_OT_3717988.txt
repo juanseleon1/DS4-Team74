@@ -1,0 +1,20 @@
+2018/06/04 _ CARLOS ENRIQUE MONCADA. OT N° 3717988.
+PLANEADOR LUIS FEDERICO ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación al cableado, se miden voltajes en las fuentes, todo se encuentra dentro de los parámetros normales y operativos.
+
+Se probaron los sensores de Fracking y cerrada.
+La instrumentación asociada al cojinete se encuentra operativa.
+Se verifican sensores de posición de la compuerta en la IHM y en los modulos del PLC.
+401.08>07: (Recuperando).
+401.08>08: (Falla Recuperando).
+401.08>09: (Abierta).
+El cable 4001 se encuentra desconectado.
+En la bornera X41 el borne 26 abierto.
+En la bornera X62 todos los bornes abiertos.
+En la bornera X64 todos los bornes abiertos.
+Se revisan las médidas de los instrumentos de nivel y presión de las bombas, estos coinciden con los visualizados en la IHM.
+Realizo: Eladio Piedrahita, Neiro Fabian Pérez.
+
+
+
+XL: VERIFICAR Y LIMPIAR EL CONTROL DE LA DESCARGA +TCD DE LA UNIDAD 4 P3.

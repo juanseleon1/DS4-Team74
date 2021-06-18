@@ -1,0 +1,4 @@
+SECCIONADOR 89T31 NO CERRO REMOTAMENTE. FUE NECESARIO CERRARLO EN FORMA MANUAL CON PALANCA. TAMBIEN PRESENTA FALLA AL CIERRE EL SECCIONADOR 89T32 (MUY DURO).
+
+2016/08/28 CESAR HOYOS - JOHN MARIO PEREZ, RARBOLG
+Cesar H realizó la consulta del estado actual de este seccionar, no se encontró reportes de estado en falla, se cierra la OT sin costos.

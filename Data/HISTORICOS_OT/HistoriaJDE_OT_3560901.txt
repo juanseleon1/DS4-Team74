@@ -1,0 +1,6 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 08-08-2017
+Tipo de mantenimiento: Preventivo
+Desmonte de equipos o estación
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estacion, se bajan datos, limpieza general de la estacion. Se construye nueva columna para la instalacion de nuevo brazo para Sensor Radar.

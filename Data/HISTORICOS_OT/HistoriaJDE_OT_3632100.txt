@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en la toma de muestras de aceite hidráulico perteneciente a los equipos de la central de Guadalupe III
+
+Programador: Camilo Montagut - 20/12/2017 
+
+Se realiza el muestreo de aceite en los siguientes equipos perteneceintes a las centrales de guadalupe 3 y de troneras:
+
+- Cojinetes superior, inferior y turbina
+- Estaciones hidráulicas (incluye los tanques sumideros de las válvulas mariposa de Troneras)
+
+Queda pendeinte enviar las muestras al laboratorio EATIC para su posterior análisis
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,7 @@
+XM: VERIFICAR Y REVISAR, MECANICAMENTE LA VALVULA DE ADMISION.
+
+Programador: Camilo Montagut - 01/10/2015
+
+Se revisa el nivel del tanque de aceite (apertura y cierre de la válvula mariposa) y se realiza apriete de la tornillería del prensa estopa al encontrarse una pequeña fuga de agua en el actuador de la misma válvula. Se inspecciona tubería y bridas (agua y aceite) encontrando buenas condiciones en los mencionados elementos.                                                                              
+
+Ejecuta: equipo mantenimiento mecanico GIII

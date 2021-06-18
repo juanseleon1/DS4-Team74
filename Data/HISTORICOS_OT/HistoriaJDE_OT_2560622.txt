@@ -1,0 +1,22 @@
+
+
+4/Julio/2014
+Perdida de señales en la estación de operación de la Unidad 7, se revisa y se cambia la tarjeta DSBC172 quedando en condiciones normales.
+5/Julio/2014
+De nuevo se pierden las señales, se revisa el controlador y muestra error 88 en la CPU, se realiza mantenimiento general a todas las tarjetas y se procede a  normalizar. 
+ Trabaja normalmente durante más de dos horas hasta que de nuevo sale el mismo error.
+ Se cambian las tarjetas DSBC172, DSMB176, DSCA114, DSBC173 sin tener resultados satisfactorios.
+6/Julio/2014
+Se procede a intercambiar  la CPU DSPC172 con el controlador de la Unidad 8, pero no se encuentra ningún problema,  la tarjeta trabaja bien en la  
+Unidad 8 pero sigue saliendo el mismo error en la Unidad 7.
+7/Julio/2014
+Se cambian las dos fuentes DSSR122 y se le hace seguimiento de voltaje a las otras dos fuetes, Se procede a desarmar completamente el Backplane superior e  inferior  
+para su respectiva revisión y mantenimiento pero no se obtiene ningún resultado. 
+11/Julio/2014
+Se prueba de nuevo otro repuesto de la tarjeta DSBC172 y el controlador trabaja en condiciones normales.
+NOTA: La tarjeta DSBC172 que se tenia de repuesto también presentaba el mismo problema.
+
+
+
+
+

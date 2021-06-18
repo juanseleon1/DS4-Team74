@@ -1,0 +1,10 @@
+
+ ABRIL 21 DEL 2014 - JEOVANNY CORREA G
+
+ El instrumento de medida de la señal del foso de refrigeracion de Guadalupe IIII esta tomando un dato erroneo, sacando alarmas por bajo y alto nivel de refrigeracion. 
+
+se revisa el  instrumento, se le cambia la bornera de conexion de la multibarrera y se normaliza  la medida.
+
+Realizo: Francisco  Gonzalez.
+
+ 

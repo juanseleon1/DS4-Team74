@@ -1,0 +1,10 @@
+Lunes mayo 19 de 2014 
+Operación GlV
+Revisar y corregir el normal funcionamiento de este equipo, la unidad no toma consignas mayores a 60 Mw.
+
+MAYO 20 DE 2014.
+
+Se realiza la verificacion del lazo de control del distribuidor, encontrandose con los valores de voltaje normales, se procedio a darle mando directo al distribuidor al 100% para garantizar la maxima apertura respondiendo normal. Se sincroniza la unidad y se le da consigna de 75 MW respondiendo el distribuidor normal.
+
+Realizó: Equipo electronico.
+Informó: William lopera.

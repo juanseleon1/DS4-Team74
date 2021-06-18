@@ -1,0 +1,13 @@
+
+2017/11/15 _ CARLOS ENRIQUE MONCADA. OT N° 3656172.
+Referente a los servicios Auxiliares 480 V:
+Se revisa sistema para verificacion de NO transferencia.
+
+Informó: Carlos Moncada
+06/12/2017
+Se realiza pruebas y verificacion a los PLC y reles de la transferencia, se encuentran fallas en el programa de los PLC en las celdas N03,N05 Y N06. Se restablece el programa , ademas hay falla en la señal del interruptor Q2 celda N04 señal de carro conectado. Se forza esta señal y Cristian Gomez Queda encargado de normalizar esta señal.                                                                                                                               Se realizan pruebas quedando operativa y funcional, queda pendiente verificar los reles de baja tension
+Realizado por Grupo elecronico 
+Informa Wtobonl
+
+
+

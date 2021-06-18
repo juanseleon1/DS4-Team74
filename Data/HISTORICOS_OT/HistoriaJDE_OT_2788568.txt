@@ -1,0 +1,10 @@
+2015/06/06 MARIO RESTREPO - SEBASTIAN HINCAPIE - GIOVANNY DIAZ
+Se realizó inspeccion termografica, se evidenció falla en dos pararrayos a la entrada del cable que viene desde subestación, Delta de Temperauta:30.4 lo que corresponde a nivel 3 de criterios Neta, Se realizó maniobras en camara de valvulas (Apagar ventiladores),  el portal (Cambio de circuito) y en subestación para alimentar el portal por el circuito R50-04, 
+En Subestación se extrajo el interruptor del R50-11 (A2) para instalar los 2 pararrayos (Fase R y Fase S) de marca SIEMENS con 10Kv, fue necesario retirarles el soporte plastico a cada uno y recortarlos 1 centimetro para poderlos acoplar. 
+
+2015/06/07 MARIO RESTREPO - SEBASTIAN HINCAPIE - GIOVANNY DIAZ
+Se realizó limpieza al cubiculo del interruptor en casa de maquinas y se realizó maniobras operativas en camara de valvulas, el portal y subestación para normalizar la tensión. 
+
+2015/06/07 GIOVANNY DIAZ
+Se realizó inspección  termografica en condiciones similares de carga, despues de realizar maniobras operativas de puesta en servicio, se evidenció mejoría en los pararrayos cambiados, en el pararrayos de la fase T se observa temperatura de 30.6°, en los cambiados 27°. 
+

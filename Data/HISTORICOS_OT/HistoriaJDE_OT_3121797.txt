@@ -1,0 +1,19 @@
+2016-05-23. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE SALE LA ALARMA EN LA O.S. "ABL U7-8.49 PROTECCIÓN TIERRA ESTATOR DISPARO". 
+
+EN EL SACO NO SE PRODUCE LA ALARMA 64G NI TAMPOCO EN LAS PP1 Y PP2.
+
+Planeador: Johnson Gómez
+
+fecha mayo 24 de 2016
+
+se revisa situación de alarma y se detecta que la entrada digital 8.49 del computador de unidad esta fallada y se activa sin haber llegado el voltaje; razón por la cual se decide cambiar de entrada digital por la reserva 8.51 quedando operando en condiciones normales.
+se activa en el programa la entrada 8.51 y se programa para realizar las acciones de control que la anterior señal realizaba.
+
+se realiza este procedimiento para utilizar las señales de reserva las cuales son utilizadas para casos de falla de alguna entrada existente.
+Además se actualiza diagrama esquemático y tabla de cableado de la unidad 7
+
+
+Johnson Gómez
+cesar tulio Jiménez

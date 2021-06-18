@@ -1,0 +1,5 @@
+Fecha: 25 de junio de 2015
+Se visualiza en el tablero control de unidad el paro de los servicios auxiliares de la unidad y está cargada con 135 mw luego genero un paro rápido queda la válvula esférica abierta, se coloca el tablero tcv en manual y se da la orden de cierre a la válvula esférica, es necesario entrar de forma manual la lubricación forzada y aplicar el freno.
+
+FECHA: NOV 20/2015  OT#2803082  PROGRAMADOR: CMONCADA  EJECUTA: JENIFFER GARCIA
+En el mantenimiento de la unidad se calibraron los finales de carrera de la válvula de admisión y del sello de operación y se realizan varias pruebas funcionando bien la válvula, se observa un buen comportamiento en el funcionamiento del organo de guarda en general. Informa: Jorge Rodríguez 

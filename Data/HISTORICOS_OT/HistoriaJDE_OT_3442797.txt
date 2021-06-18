@@ -1,0 +1,13 @@
+FALLA IHM SISTEMA DE FRENOS FRENOS DE LA UNIDAD N 1
+FECHA PLANEACION MANTENIMIENTO: 01/04/2017
+PLANEADOR: WALTER TOBON
+
+PROGRAMADOR: WALTER TOBON
+
+01 ABRIL 2017
+
+Se encontraba fallada la IHM y el sistema deshabilitado se cambia la fuente de alimentacion y se realiza verificacion de los cooler . El sistema queda normalizado. 
+Realizo: WALTER TOBON
+         
+TERMINADA CERRAR 
+

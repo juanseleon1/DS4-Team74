@@ -1,0 +1,20 @@
+BM: Medir vibraciones motobombas cw refrigeración unidades generadoras, la clara Guatape, affa, acra, aca. Este equipo debe estar en línea.
+
+2015/09/28 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba AFFA2 y se obtienen los siguientes resultados:  
+
+ Sistema de medición (RMS)
+
+1 Horizontal: 2.8 mm/seg
+1 Vertical: 2.1 mm/seg
+2 Horizontal: 0.5 mm/seg
+2 Vertical: 1.8 mm/seg
+2 Axial: 0.8 mm/seg
+3 Horizontal: 1.5 mm/seg
+3 Vertical: 1.7 mm/seg
+4 Horizontal: 1.1 mm/seg
+4 Vertical: 1.6 mm/seg
+
+
+
+   

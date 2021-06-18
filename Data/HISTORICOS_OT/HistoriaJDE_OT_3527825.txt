@@ -1,0 +1,8 @@
+JULIO 31 DE 2017 OT:3527825  PROGRAMÓ: JGUINGUL EJECUTARON: ALEXANDER VILLA 
+Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control RTX1 Power del Sistema Regulación de Tensión.
+Tablero: Regulador de Tensión RTX1 U1 S1Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 74-180 0 0 -5 2008-85 55 1.2 -2.4 240012-5 115 2.4 0 45001685 175 3.6 2.5 680020180 240 4.9 5 9200
+Instrumento 1: Tensión de Campo (V)
+Instrumento 2: Corriente de Campo (A)
+Instrumento 3: Potencia Activa (MW)
+Instrumento 4: Potencia Reactiva (Mvar)
+Instrumento 5: Tensión Terminal(V) 

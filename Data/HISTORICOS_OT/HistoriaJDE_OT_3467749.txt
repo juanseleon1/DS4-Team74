@@ -1,0 +1,6 @@
+2017/04/26
+Gustavo Morales
+Revisar falla ventilador # 8 Ups
+
+2017/04/26 Luis Eduardo Arcila
+No se deja cancelar se cierra, se atiende en la OT: 3447275

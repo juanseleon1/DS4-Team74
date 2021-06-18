@@ -1,0 +1,13 @@
+ML: REVISION Y MTTO GENERAL
+OT PARA LOS TRABAJOS A LA RED TELEFÓNICA PL
+
+FALTA INSTRUCTIVO DE MANTENIMIENTO
+
+Dionis M. Zapata V.  Jueves 28/03/2019
+ Siendo las 10:54horas se queda todo el campamento el cardal sin comunicaciones, a las 13:00horas se procede a revisar la falla y se detecta que el cable de F.O que va entre S/E y el Campamento el Cardal, se encuentra abierto en algun punto del tramo, entonces se procede a cambiar todos los canales de comunicacion, que van por el cable de F.O de comunicaciones (Cable fallado), al cable de F.O de Control y de esta forma son restablecidas las comunicaciones en el campamento el cardal, de forma provisional, se detecta tambien que el hilo #9 del cable de F.O de control, esta fallado, (abierto)
+Dionis Zapata.
+Jhon F. Muñoz.
+
+
+Dionis M. Zapata V.  Viernes 29/03/2019
+ Con personal de la empresa Furel, se busca el punto de falla del cable de F.O, entre el campamento el cardal y S/E, se encuentra un árbol caido sobre la F.O, y con la motosierra de la central este es cortado para liberar el cable, y se procede a empalmar la F.O y se instala un domo, la F.O queda probada y disponible. 

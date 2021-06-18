@@ -1,0 +1,11 @@
+MANTENIMIENTO CORRECTIVO
+Fecha de reporte falla: 05/25/2016Reporta: Jeison Julián Suarez
+Fecha de atención falla: 05/17/2017Atiende: Raúl Mauricio Álvarez
+Síntoma en Oficina: Sin conexión remota
+Diagnóstico de Oficina: Sin acceso remoto a los datalogger de la isntrumentación geotécnica, sísmica e hidrometereológica
+Modo de Falla: Error de transmisión de datos  
+Falla Inmediata: No hay comunicación con los datalogger 
+Falla básica: Sin conexión remota por daño asociado a descarga eléctrica
+Mantenimiento programado: cambio de transceiver y patch cords de fibra óptica en caseta principal y cambio de interfaces de comunicación de datalogger NL120.
+Reporte 05/22/2017: se requiere trabajo adicional debido a un daño en NL120 del datalogger de la galería 889, Además se debe realizar un cambio de IP en el datalogger de la galería 816 por conflicto con Ip de otro equipo de la red, dicho mantenimiento está programado para el 2017/05/23 
+Reporte 05/23/2017: Se realizó el trabajo pendiente y se rehabilitáron las comunicaciones, con la anotación que el transceiver llevado para instalar en casata CAS_VERT presenta fallas, lo cual se informará al personal de TI para ser reemplazado.

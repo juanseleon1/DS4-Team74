@@ -1,0 +1,18 @@
+19/08/2016. JORGE PEÑARANDA
+
+FALLA MEDIDA PICKUP VELOCIDAD 1 UNIDAD 4 , SE PIERDE MEDIDA VELOCIDAD 1 Y SALE CONSTANTEMENTE FALLA POR PICKUP1 . 
+
+
+19/08/2016
+
+Se realiza verificación de los lazos de velocidad en la unidad , se ajusta el pickup 1 el cual estaba descalibrado, se realizan pruebas con la unidad girando verificando la medida en el regulador de velocidad y los lazos de entrada de los pickup. Se normaliza y la unidad queda operativa 
+
+
+Realizado por Wtobonl 
+
+
+terminada cerrar
+
+
+
+

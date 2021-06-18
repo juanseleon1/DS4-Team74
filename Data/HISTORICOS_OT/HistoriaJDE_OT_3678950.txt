@@ -1,0 +1,10 @@
+
+28/02/2018 OT:3678950 Luis Eduardo Arcila
+Se realizan las actividades:
+1. Calibración de agujas
+2.   Se cambia valvula Moog del comando de agujas numero 1
+3. Calibración al deflector.
+4. Se cambiaron todos los micro filtros de las servo válvulas 
+5. Limpieza de intercambiador de aire.
+6. Limpieza general al tablero del regulador.
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

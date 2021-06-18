@@ -1,0 +1,4 @@
+REVISION Y AJUSTE DE BORNERAS Y LIMPIEZA GENERAL AL TABLERO.
+
+14/12/2016 OT: 3335994  planeo: wgarciac ejecutó: villa
+se hace depuración de eventos y limpieza de buffer, queda el control de unidad en condiciones operativas.

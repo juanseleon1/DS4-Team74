@@ -1,0 +1,8 @@
+
+FECHA: ABRIL 9 DE 2016 OT 3070752
+
+EJECUTANTE: PEDRO SOLANO, ELISAUL FUENTES Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se presenta falla por corrientes asimétricas, se da un nuevo arranque y sale falla Grid Error, también se presenta falla Supply Voltage Low, se observa el voltaje muy caído en las fases L1 y L2, se inspecciona en la base de la góndola y se encuentran con recalentamiento los fusibles de la fase L1 y L2.
+Se realizan los trabajos de cambio de los fusibles de la fase L1 y L2, el capuchón superior de la L2 se cristalizo y fue necesario retirarlo por pedazos y colocar uno nuevo con su respectiva abertura, el mecanismo de este capuchón nuevo se incrusto en la parte mecánica que quedo soldada en la estación, se colocan cintas termoencogible y aislante, en la fase L1 solo se cambió el fusible y se limpió el mecanismo del capuchón existente ya que también se quedó soldado, la fase L3 no fue necesario cambiarlo aunque también presenta resistencia para ser retirado, esta soldado, se deja el AG en servicio. Durante los trabajos se daño un fusible de los de repuesto.
+

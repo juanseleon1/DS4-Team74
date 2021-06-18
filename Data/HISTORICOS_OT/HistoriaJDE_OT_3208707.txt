@@ -1,0 +1,60 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+ 23/08/2016. SERGIO OLIVARES D.
+
+    Se realizo medidas aislamiento a 500 VDC:
+
+ 1. ANTES DE LA LIMPIEZA.
+
+    ROTOR + BARRAJE = 550 M
+
+               ROTOR                    = 497 M
+
+               BARRAJE                = 1.2  G 
+
+             
+              2. DESPUES DE LA LIMPIEZA.
+
+    ROTOR + BARRAJE = 673 M
+
+               ROTOR                    = 840 M 
+
+               BARRAJE                = 2.87 G 
+
+              3. RESISTENCIA OHMICA = 239.6 m
+
+              4. INDUSTANCIA = 202 mH
+
+              5. CAPACITANCIA = 8.15 µF 
+
+              Se dejo todo normal.
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+ 23/08/2016. SERGIO OLIVARES D.
+
+    Se realizo medidas aislamiento a 500 VDC:
+
+ 1. ANTES DE LA LIMPIEZA.
+
+    ROTOR + BARRAJE = 550 M
+
+               ROTOR                    = 497 M
+
+               BARRAJE                = 1.2  G 
+
+             
+              2. DESPUES DE LA LIMPIEZA.
+
+    ROTOR + BARRAJE = 673 M
+
+               ROTOR                    = 840 M 
+
+               BARRAJE                = 2.87 G 
+
+              3. RESISTENCIA OHMICA = 239.6 m
+
+              4. INDUSTANCIA = 202 mH
+
+              5. CAPACITANCIA = 8.15 µF 
+
+              Se dejo todo normal.

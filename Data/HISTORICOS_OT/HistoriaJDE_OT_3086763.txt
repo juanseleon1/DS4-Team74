@@ -1,0 +1,6 @@
+Dionis M. Zapata V. 20/04/2016
+
+Se retoma el inconveniente que hay con la Unidad 2, que no hace el proceso completo de paro normal de la unidad, en el último paso (Paso 8) no lo culminaba porque vee, que No para el sistema de Cojinete Turbina, y después de un tiempo saca la alarma de ´´Falla de secuencia de Paro Normal`` Si en esos momento se intenta arrancar la máquina de nuevo, el Scada muestra condiciones de arranque normal, pero no realiza la secuencia, ya que hay una falla, porque no ha culminado normalmente el proceso de Paro, esto se soluciona yendo hasta el controlador de Unidad, y en la IHM, en la pantalla de Secuencias / Paro Normal, se le dice abortar secuencia y de esta forma borraba la Falla.
+
+Dionis M. Zapata V. 21/04/2016
+Investigando porque No mostraba Cojinete Turbina Parado, se revisaron los parámetros del subsistema de Cojinete Turbina en el controlador 3 y se encontraron los Setpoint tanto de presión de las Bombas y del circuito y como el Flujo de aceite, todos estos parámetros en Cero, se parametrizaron con los valores que tiene la Unidad 3, y se hicieron pruebas de arranque y paro de la Unidad y todo funciono en óptimas condiciones.

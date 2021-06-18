@@ -1,0 +1,11 @@
+ 23/07/ 2017. JUAN FERNANDO ROLDAN.
+SE ENCUENTRA FALLADA LA IHM DEL COJINETE
+
+
+23/07/2017
+
+se encuentra falla  la CPU del TCCC U1, no reconoce el disco duro esta CPU es nueva y se realizara proceso de garantia, si instala y configura una nueva CPU y este proceso queda normalizado.
+
+Realizado por WTOBONL
+
+TERMINADA CERRAR

@@ -1,0 +1,11 @@
+Solicitante-Planeador: 355694
+Aprobador: 355694
+Fecha de solicitud: 13-02-2017
+Tipo de mantenimiento:  Correctivo
+Acciones de mantenimiento: 
+
+Estaciones hidrometeorológicas
+
+               
+Realizar las siguientes acciones de mantenimiento correctivo:  
+              Realizar cambio de estación campbell scientific por VAISALA, estación obsoleta.

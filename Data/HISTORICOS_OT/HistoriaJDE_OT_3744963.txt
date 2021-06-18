@@ -1,0 +1,8 @@
+2018/08/29 OT:3744963  Dionis Zapata / Cesar Tulio Jimenz / Luis Eduardo Arcila
+Se realiza mantenimiento al controlador de unidad y a su tablero.
+Se chequean señales del controlador para verificar el estado de las tarjetas.
+Falla la tarjeta SDCS-140 quedando por fuera del sistema SCADA.
+Se envía a RPM para su reparación.
+
+
+

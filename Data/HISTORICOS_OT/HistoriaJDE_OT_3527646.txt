@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL ELECTRICO AL  BANCO 6.
+
+
+JUNIO 30 DE 2017.
+Se retira el transformador de la fase R para reparación, cambio de aislamiento y se inserta el de reserva ASEA con número de serie 5705121, se realiza mantenimiento según instructivo al banco, se hacen pruebas eléctricas, protocolo de alarmas y disparo del banco, energización en vacío según procedimientos electrónico. Todos los resultados de las pruebas están almacenados en la carpeta de pruebas y bitácora que se llevó a cabo para el mantenimiento.
+Programó:William Lopera.
+

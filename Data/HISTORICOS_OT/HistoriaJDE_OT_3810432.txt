@@ -1,0 +1,4 @@
+
+FEBRERO 12/2019 OT: 3810432  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta paro por comunicación; con la información recopilada del Diag+ se observa incremento de fallas en el módulo 7,2 con falla 0DF1 (falla en la transmisión de datos en la entrada de los módulos) corrigen las puntas de los conectores los cables del Loop entre el módulo 7,1 y 7,2 también entre 7,2 y 7,3; se deja en servicio el aerogenerador y en observación.

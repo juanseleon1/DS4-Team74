@@ -1,0 +1,20 @@
+LAVAR FILTROS TAST DE LA UNIDAD
+FECHA PLANEACION MANTENIMIENTO: 26/08/2018
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: OSCAR PARRA.
+
+26 AGOSTO 2018
+Referente al TAST Unidad Nº4: Por presentarse obstrucción por sedimentación en las bombas de refrigeración de la unidad se colmatan los filtros del sistema:Presión de succión bombas: 0.6 barPresión diferencial Filtro 1: 0.80 barPresión diferencial Filtro 2: 1.13 barSe le hace fluching al proceso (Filtros) sin obtener resultados positivos. Se informa al Ing. Encargado: Jorge Rodriguez y se para el sistema para que mantenimiento intervenga.Informa: Operación - Turno 1:  John Jairo González - Fabián Gómez - Wilder Herrera - John Esneider Rivera. 
+**********************************************************************************************************************************************************
+SE REALIZA DESARME DE FILTRO Y SE PROCEDE A REALIZAR LAVADO CON AGUA A PRESION (HIDROLAVADORA) AL FILTRO ASI COMO AL ALOJAMIENTO DE ESTE, SE ARMA NUEVAMENTE Y SE ENTREGA AL EQUIPO DE OPERACION PARA SU NORMALIZACION, EL SISTEMA FUNCIONO CORRECTAMENTE.
+
+EJECUTO: GABRIEL ARBOLEDA, MANUEL PERLAZA
+INFORMA: OSCAR PARRA
+
+
+
+
+
+
+

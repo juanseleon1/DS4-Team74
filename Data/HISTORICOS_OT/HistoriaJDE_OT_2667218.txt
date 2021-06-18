@@ -1,0 +1,5 @@
+PLANEADOR: RENATO MONTOYA, 2015-01-03
+REALIZAR CORRECCIÓN DE FUGAS DE VÁLVULAS EN SISTEMA DE ENFRIAMIENTO RADIADORES GENERADOR.
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-01-03
+Se interviene sistema debido a que la presión no subía de 60 Kpa. Se observa fuga excesiva por válvulas y racores de drenaje del Radiador 2, se desmontan y se pone teflón a las roscas y se aprieta conjunto, cesando la fuga. Además se forza cierre válvulas drenaje de globo de los demás radiadores, ya que algunas no cierran por completo. Se procede al llenado y presurización del sistema quedando en 160 Kpa.  Pendiente compra de válvulas y cambio de las misma.  

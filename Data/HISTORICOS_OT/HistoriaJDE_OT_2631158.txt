@@ -1,0 +1,6 @@
+
+FECHA: NOVIEMBRE 02 DE 2014
+
+EJECUTANTE: GERMAN ECHAVARRIA
+
+Por presentarse alarma de paro emergencia Yaw, se inspecciona el estado del cable del twist del cable de potencia, se encuentra enredado y activando el switch, se desbloquea y permite el giro de la Yaw. 

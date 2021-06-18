@@ -1,0 +1,45 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+2016/11/01 DIEGO BEDOYA
+Se les cambian los micro filtros a los comandos de aguja, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 5 así:
+   
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34                                            33
+Presión de paro (kg/cm2):                        39                                            38
+Nivel de arranque (cm):                            -4                                            -9  
+Nivel de paro (cm):                                   3.5                                           2.5
+Tiempo de trabajo (s):                               50                                          120
+
+Realiza el trabajo Anderson López, Rodolfo Garcés. 
+
+OT TERMINADA 
+03 DE ENERO DE 2017 
+ANDRES RAMIREZ EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+2016/11/01 DIEGO BEDOYA
+Se les cambian los micro filtros a los comandos de aguja, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 5 así:
+   
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34                                            33
+Presión de paro (kg/cm2):                        39                                            38
+Nivel de arranque (cm):                            -4                                            -9  
+Nivel de paro (cm):                                   3.5                                           2.5
+Tiempo de trabajo (s):                               50                                          120
+
+Realiza el trabajo Anderson López, Rodolfo Garcés. 
+
+OT TERMINADA 
+03 DE ENERO DE 2017 
+ANDRES RAMIREZ 

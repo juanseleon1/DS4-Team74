@@ -1,0 +1,43 @@
+2017/04/28 MARITZA BACCA
+CON ÉSTA OT SE HACE LA REUNIÓN PARA HACER SEGUIMIENTO Y VERIFICACIÓN DE LAS OTS ABIERTAS EN EL SISTEMA.
+
+Digitación OT 3379061: Favor ponerle 0,5 horas a Rafa y digitar la siguiente información de toma de datos (U3)
+
+OT 3235060 Vapor: Favor organizar la OT del asunto con la información que le corresponde en el anexo de la OT y en la del activo que parecen estar trocadas.
+
+Pon por favor el estado del arte de ambas OT al dia de hoy. 
+
+La OT de ciclo simple es 3093077
+
+OTs 3208824 Y 3466802 CENTRO CONTROL TTO AGUA SI: favor revisar la información de las OTs del asunto que según información de lso muchachos fueron ejecutadas en la semana santa (martes y miércoles).
+
+Favor decidir si hay que cancelar alguna de las dos.
+
+Reparación tablero DISTRIBUCION CDBT 480V U1-2 SI:
+
+La presente para que hagamos un resumen de la situación del tablero del asunto que según me cuentan tiene los siguientes problemas:
+
+1. La pantalla de visualización no está indicando.
+2. Falla en el motor de carga  INT 5025 (OT 3420069)
+3. Falla en el relé de tension FV2 de barra 0,480kV. En el momento esta fuera de servicio, reporta Antonio Porras (OT 3414772)
+
+Favor si tienen perfiles, reportar en los datos suplementarios del activo 129851.
+
+Si no los tienen, favor reportarlos a Carlos Caro para que los ingrese.
+
+La idea es conseguir el soporte directamente con el fabricante para que no nos enredemos con customizaciones.
+
+OTs de AUXILIARES ELECTRICOS GAS SI:
+
+En el sistema tenemos las siguientes dos OTs, veo que en 2016 se hizo una OT que correspondóa a éstos equipos.
+
+33273593466816
+¿Qué trabajos justificaría hacer éste año en ése equipo?
+
+Informe OT 3466108 A/A: Favor registrar el informe de la OT del asunto en los anexos del activo.
+
+
+
+
+
+

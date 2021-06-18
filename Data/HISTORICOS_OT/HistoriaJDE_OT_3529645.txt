@@ -1,0 +1,6 @@
+VERIFICAR MEDIDA DE TEMPERATURA ENTRADA ACEITE COJINETE TT05.
+
+03/07/2017.
+se encuentra modulo profibus en falla, se realiza un reset y queda operando normalmente. 
+
+nestor fabian ochoa.

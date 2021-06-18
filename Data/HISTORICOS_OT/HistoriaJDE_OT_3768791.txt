@@ -1,0 +1,12 @@
+25/09/2018 - 19:32.
+Por fluctuacion en señales de corriente y voltaje y lectura de temperatura negativa que llega a la pantalla - ventana Control de Unidad se verificò y constatò mal contacto del resorte en la escobilla de temperatura en el anillo inferior de la excitacion.
+Solicitamos atender dicha eventualidad para descartar posible falla con el regulador de Tensiòn.
+Realizò: Equipo de Operaciòn Turno 3 - Luis Fabian Giraldo - Wilson Arango Bedoya.
+
+TRABAJO REALIZADO:
+Se atiende esta solicitud y se halla gastada, se procede al cambio y se realiza trabajo en la escobilla haciendo una pequeña perforacion para garantizar un mejor contacto del resorte; se verifica la señal y normaliza. 
+
+Nota: se debe comprar porta escobilla ya que el que tiene actualmente presenta desgaste. 
+
+Ejecuto: Daniel Arango-Edison Hernandez
+Programo: Carlos Andres Forero

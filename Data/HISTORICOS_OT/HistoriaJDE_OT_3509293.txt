@@ -1,0 +1,48 @@
+
+
+ 06/06/2017. SERGIO OLIVARES D. EJECUTORES: JUAN DAVID FLOREZ C. - DWAR LONDOÑO O
+          JHONATAN USME. 
+
+
+ Equipo Marca: EQUIPRAC (CARRIER)
+ Capacidad: 120. 000 BTU/H
+ Localizado en el primer piso del edificio de la sub-estacion, para refrigerar equipos de control y proteccion de la sub-estacion.
+
+
+ CONDENSADORA N°1: (COMPRESOR)
+                   
+ CORRIENTE:    30.2  --   32.9   --  30.04 AMP
+ VOLTAJE:         204  --   203     --  205  VOLT.
+
+            VENTILADOR:  
+ CORRIENTE.    2.2  AMP.
+ VOLTAJE:        204  VOL.  
+ PRESION POR BAJA: 62 PSI
+
+ -----------------------------------------------
+ CONDENSADORA N°2: (COMPRESOR)
+
+ CORRIENTE:    33.3  --   32.4   --  35.2 AMP
+ VOLTAJE:         202  --   206     --  204  VOLT.
+
+            VENTILADOR:  
+ CORRIENTE.    2.1  AMP.
+ VOLTAJE:        203  VOL.
+ PRESION POR BAJA: 63 PSI
+  
+ --------------------------------------------
+
+ UNIDAD MANEJADORA:    
+
+ CORRIENTE:    5.2  --   5.3   --  5.0 AMP
+ VOLTAJE:         205 --   203  --  204  VOLT.
+
+ ------------------------------------------------------------
+
+ VOLTAJE DE CONTROL 23.9 VAC.   --   TEMPERATURA DE SUMINISTRO: 10°C.
+
+ SE REALIZO MANTTO GENERAL PREVENTIVO, LIMPIEZA DE SERPENTINES Y  FILTROS, SE HICIERON AJUSTES  TANTO DE LA PARTE ELECTRICA COMO DE LA MECANICA.
+
+   
+
+

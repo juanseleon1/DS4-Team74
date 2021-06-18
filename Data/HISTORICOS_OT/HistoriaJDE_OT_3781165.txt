@@ -1,0 +1,4 @@
+
+NOVIEMBRE 01/2018 OT: 3781165  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO, PEDRO ROBAYO Y CARLOS VALDELAMAR
+
+Después de un paro por Supply Voltage Low se presenta falla corriente tiristor L1-L2-L3, se revisa y se encuentra quemado uno de los fusibles del módulo 151A3, se cambia y se prueba que el módulo funcione bien, fue necesario cambiar el Mcb 153F1 que alimenta el módulo anterior, se deja en servicio el aerogenerador.

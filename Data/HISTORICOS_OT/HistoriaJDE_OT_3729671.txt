@@ -1,0 +1,11 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+
+PLANEADOR:CARLOS GIORDANELLI
+
+Se realizó limpieza externa al tablero de control del transformador.
+Se realizó inspección visual, limpieza y verificación a los sensores de       temperatura Fase R-S-T y las caratulas de los termómetros.
+Se realizó limpieza a las RIO asociadas a los trafos.
+Se reapretaron bornes del tablero de control de los trafos y se verificaron las alarmas y disparos manualmente, accionado los microswitches en los instrumentos de temperatura. 
+
+PROGRAMADOR:LUIS CARDONA

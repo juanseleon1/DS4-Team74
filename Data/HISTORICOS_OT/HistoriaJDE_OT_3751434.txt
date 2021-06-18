@@ -1,0 +1,27 @@
+FECHA: 03/08/2018
+
+DESCRIPCIÓN: LA VÁLVULA ROTORK, NO ESTÁ EFECTUANDO LA APERTURA NI EL CIERRE EN AUTOMÁTICO, ESTÁ EL DISPLAY APAGADO. 
+
+INFORMÓ: GEOVANNY ANDRÉS ECHEVERRI QUINTERO - FRANCISCO JAVIER CÓRDOBA CIFUENTES  OPERACIÓN TURNO 2
+
+
+PLANEADOR:OSCAR RESTREPO
+
+AGOSTO 05 DE 2018
+se revisa falla en válvula (display apagado ), se cambió fusible en alimentación de tarjeta electrónica ( 0.5 A )  y se normalizo indicación del display . queda en observación mientras para la unidad y este sistema opere en modo automático 
+
+PROGRAMADOR:LUIS CARDONA 
+
+AGOSTO 07 DE 2018
+
+durante el arranque de la unidad se produjo nuevamente accinamiento del fusible en la tarjeta de control, por lo que se hizo necesario dejar puenteada en la rio05 la señal de la valvula en modo remoto, y seguir operando este sistema de modo manual, hasta que se pueda intervenir la tarjeta electronica.
+
+PROGRAMADOR: LUIS CARDONA
+
+27/08/2018
+
+VALVULA MOTORIZADA U4 G3: REFERENTE A G34 SE ATIENDE SOLICITUD N° 3751434 FALLA VÁLVULA DE REFRIGERACIÓN COJINETES ROTOR K, SE REVISA LA VÁLVULA Y SE ENCUENTRA FUSIBLE QUEMADO, SE REMPLAZA DICHO FUSIBLE Y SE NORMALIZA EL CONTROL DE LA VÁLVULA.
+ INFORMÓ: UAIMER DIAZ.
+
+
+

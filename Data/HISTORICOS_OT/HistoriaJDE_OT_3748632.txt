@@ -1,0 +1,29 @@
+MP ANUAL, EQUIPOS:
+2321 COJINETE TURBINA U1 G3
+2322 COJINETE TURBINA U2 G3
+2323 COJINETE TURBINA U3 G3
+2324 COJINETE TURBINA U4 G3
+2325 COJINETE TURBINA U5 G3
+2326 COJINETE TURBINA U6 G3
+
+09/08/2018
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+Se desconecta y se retira el flujometro de salida de agua del cojinete de turbina. y se le realiza limpieza.
+se realiza nuevamente el montaje y conexionado del flujometro de salida de agua del cojinete de turbina.
+Se desconectan y se retiran las RTDs de temperatura de entrada y salida de agua del cojinete.
+se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, del cojinete de turbina.
+Se realiza el montaje y la conexión de las RTDs de temperatura de entrada y salida de agua del cojinete.
+
+ El nivel de aceite se encontró en 142.9 mm, el nivel patrón es 150 mm. El nivel se deja en el punto de referencia mecánica.
+
+
+VIBRACIONES: CTL:9.0 VDC
+                          CTP:8.08 VDC
+
+REALIZO: GRUPO DE ELECTRONICA

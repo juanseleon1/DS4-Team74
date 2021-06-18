@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: OSCAR MONTOYA.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza inspección y mantenimiento a mallas separadoras del barraje, baquelitas separadoras de barras, conexiones entre barras y estado del aislamiento, también se revisan el estado de los CT´s, de sus conexiones eléctricas en el tablero +CCCTS. Se retiran tapas superiores e inferiores de las cabezas de bobinas del estator y se hace inspección.
+
+XE: LIMPIAR E INSPECCIONAR ESTATOR GENERADOR UNIDAD VERIFICAR ESTADO DE LAS CABEZAS DE BOBINAS SUPERIORES E INFERIORES

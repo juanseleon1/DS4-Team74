@@ -1,0 +1,6 @@
+
+EN LA OT: SE ENCONTRO: 
+La temperatura de los cables del cubículo se encuentran en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 19.6°C, lo cual implica una deficiencia mayor, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2015/01/29 SEBASTIAN HINCAPIE - GIOVANNY DIAZ OT: 2686398
+Se realizo correcion de punto caliente, para lo cual se desarmo tanto la peineta de salida de la gaveta y se verifico el contacto con la peineta del cubiculo, se dejo en condiciones normales de funcionamiento.

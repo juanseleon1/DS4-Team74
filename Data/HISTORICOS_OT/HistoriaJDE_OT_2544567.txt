@@ -1,0 +1,15 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+Se realizo mantenimiento según  orden de trabajo no se encontró novedades. Se verificaron los transductores de temperatura devanado de alta y de aceite tanto en la fase S como en la fase T.
+ Estos transductores se verificaron  inyectándoles temperatura con el calibrador de procesos.
+El rango de trabajo es     
+IN:-20  a 120°c.
+Out:  4 a 20 mA
+
+Los valores inyectados fueron :
+-20°c ------ 4mA
+15°c-------- 8mA
+50°c---------12 mA
+85°C ---------16 Ma
+120°c---------20mA
+
+Realizo: Fredy Duarte

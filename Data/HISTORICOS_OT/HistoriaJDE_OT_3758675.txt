@@ -1,0 +1,10 @@
+27/08/2018. TURNO 2 .
+
+LA IHM DEL SISTEMA DE FRENOS EN LA UNIDAD 3 PRESENTA PROBLEMAS EN LA COMUNICACION FRECUENTEMENTE".
+
+
+27/08/2018
+
+Se realiza la modificacion en la configuracion del programa CONTROL BUILDER  para instalar una nueva IHM de la marca PHOENIX CONTACT, queda normalizado el sistema.
+
+Realizado por Wtobonl

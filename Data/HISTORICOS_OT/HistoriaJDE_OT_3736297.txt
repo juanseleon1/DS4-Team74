@@ -1,0 +1,4 @@
+
+2018/06/16 DIEGO BEDOYA
+Se realiza el cambio de los ocho (8) filtros MAHLE de los cuatro (4) comandos de aguja de la unidad Nª8, debido a la salida constante de alarma filtros obstruidos,
+el trabajo fue realizado por Fabio Herrera y Jorge Duque

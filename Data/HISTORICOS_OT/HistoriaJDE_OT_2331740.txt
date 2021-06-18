@@ -1,0 +1,18 @@
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+JULIO 10 DE 2013
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+OT: 2331740      REALIZO : JOSE OSBALDO LOPERA - ARLEY BAENA
+
+se realizo mantenimiento en las motobombas de el cojinete superior.
+se tomaron medidas de corriente , voltaje a los motores. se reviso toda la parte de control y potencia, se realizaron pruebas y se encontraron normales las motobombas, los registros de las pruebas realizadas quedan en la sala de operacion porce II.

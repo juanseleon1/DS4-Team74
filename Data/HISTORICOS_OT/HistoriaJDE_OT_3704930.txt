@@ -1,0 +1,8 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-17 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704930, PASO:1          
+Se inició con el mantenimiento al transformador de neutro de la Unidad 7, se realizó limpieza general y revisión de las resistencias, se verificó el ajuste de los tonillos, en éste transformador hace falta un transformador de 480/380, para calefacción del cubículo y para iluminación, se recomienda cambiar y unificar por un transformador de 480/220/110, de 2KVA para iluminación, toma y calefacción.
+
+2018-04-18 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704930, PASO:2          
+Se finalizó con el mantenimiento del transformador de neutro de la Unidad 7, se dejó en condiciones normales

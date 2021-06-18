@@ -1,0 +1,13 @@
+2018/01/02 RUBEN ARBOLEDA
+Se crea la OT para regesitrar los tiempos y labores relacionadas con el cambio de los tranformadores del banco 4.
+
+2018-01-02 REALIZÓ: JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3665657, PASO:1          
+Se realizó el descargue del primer transformador de potencia para cambiar los del banco 4, se apoyó al personal de montajes con las labores para descargarlos (Operación del puente grúa), se dejó en la sala de montajes.
+2018-01-03 REALIZÓ: JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3665657, PASO:2          
+Se apoyo al personal de montajes para iniciar labores de prearmado del transformador ubicado en la sala de montajes, para esto se realizó movimiento de piezas y bujes.
+2018-01-04 REALIZÓ: JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3665657, PASO:3          
+Se realizó apoyo al personal de montajes en la operación del puente grúa para el prearmado y prueba de bujes del trasformador ubicado en la sala de montajes.
+2018-01-04 REALIZÓ: JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3665657, PASO:4          
+Se realizó apoyo al personal de montajes con la operación del puente grúa para descargar de la cama baja el segundo transformador, se deja al frente de la sala de operación. 
+
+El personal de montajes continua con las labores del cambio de transformador

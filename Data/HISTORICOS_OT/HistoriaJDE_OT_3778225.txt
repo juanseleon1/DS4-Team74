@@ -1,0 +1,9 @@
+2018/10/25 RUBEN ARBOLEDA
+Se crea OT para realizar revisión y mantenimiento general al transformador de neutro de la Unidad 2
+
+2018-10-25 REALIZÓ: OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778225, PASO:1          
+Ser realizó mantenimiento preventivo al transformador de neutro de la Unidad 2, se realizó limpieza y se realizó medidas electricas así: 
+Resistencia de aislamiento: 
+AT-Tierra: 249MOhm
+BT-Tierra: 1,75MOhm
+AT-BT:16,5GOhm

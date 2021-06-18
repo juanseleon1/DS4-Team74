@@ -1,0 +1,7 @@
+21/09/2018 
+Fernando Castrillon
+
+Presenta problemas el acople de la bomba (Elastomero)
+
+2018/09/23 DIEGO BEDOYA
+Se cambia elastómero, se alinea eje de bomba con respecto al eje del motor. Queda en condiciones normales de operación. Se coloca nuevamente el sistema de CGS en automático y Bomba N°1 principal. Realizó Andrés Álzate; León Parra

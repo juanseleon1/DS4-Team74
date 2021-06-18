@@ -1,0 +1,28 @@
+FECHA: MAYO 09 DE 2016 OT 3105426
+
+EJECUTANTE: HGIRALRI
+SOLICITANTE: HENRY GIRLADO
+
+Se presenta falla por temperatura alta en el agua del sistema de refrigeración, se revisa y se encuentra la presión del agua en 2,4 bares pero el sistema tiene mucho aire se drena éste y se le adiciona un balde de agua, se deja la presión en 2,5 bares. Se deja en servicio el aerogenerador.
+
+
+
+FECHA: MAYO 11 DE 2016 OT 3105426
+
+EJECUTANTE: HGIRALRI
+SOLICITANTE: HENRY GIRLADO
+
+
+Se presenta falla por temperatura alta en el agua del sistema de refrigeración, se revisa y se encuentra la presión del agua en 2,4 bares pero el sistema tiene mucho aire se drena éste y se le adiciona un balde de agua, se deja la presión en 2,5 bares. Se deja en servicio el aerogenerador.
+
+
+
+FECHA: MAYO 18 DE 2016 OT 3105426
+
+EJECUTANTE: HGIRALRI Y GERMAN ECHAVARRIA
+SOLICITANTE: HENRY GIRLADO
+
+
+Debido que a seguido presentándose incremento en la temperatura del agua del sistema de refrigeración y la temperatura de la caja multiplicadora, (en días anteriores se realizó el cambio de la motobomba de agua, también se cambió el intercambiador agua - aceite de la caja multiplicadora), se decide el día de hoy comprobar las conexiones de las mangueras en el sistema de refrigeración y se encontraron bien, también se verifica la velocidad de la motobomba de agua y se encuentra en la posición 3, se comprueban los torques de los cables y platinas en la caja de conexiones del generador todos están bien.
+
+El aerogenerador queda en operación bajo observación.

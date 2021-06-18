@@ -1,0 +1,13 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO.
+Se hace revisión en el recinto del generador de la iluminación, tomas eléctricas, cableados del recinto, se revisa el estado del sistema de puesta a tierra, el estado de la soportería metálica, revisión de las mallas de separación en barras y punto neutro y se realiza limpieza en la totalidad del recinto (con grupo mecánico y electrónico)
+Trabajo ejecutado por: John Jader Orrego, Frank Manuel Córdoba, Alejandro Echeverri y Ángel Sánchez
+
+XE: INSPECCION Y LIMPIEZA RECINTO GENERADOR UNIDAD
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

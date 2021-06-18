@@ -1,0 +1,4 @@
+
+DICIEMBRE 27/2018 OT: 3797395  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Debido a falla interbus (Feedback Switch G1 Top) se inspecciona el tablero del controlador superior, se encontró el módulo 7,0 en rojo, pero sin fallar el RFC, se observan los módulos 7,5 y 7,9 intermitentes pero sin fallar el Loop, se retiran los cables del Loop de estos dos módulos y se colocan de nuevo, la intermitencia borra por unos minutos, se deja en servicio el aerogenerador

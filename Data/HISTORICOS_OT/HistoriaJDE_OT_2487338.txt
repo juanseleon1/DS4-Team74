@@ -1,0 +1,10 @@
+
+
+Fecha: 10 de Marzo de 2014
+Programador: Gabriel Naranjo
+Se solicita PLC marca siemens Step7-300 del almacen para realizar pruebas en el controlador del sistema de refrigeración de las unidades. Con el fin de realizar la depuración de mensajes de alarmas del SCADA.
+
+
+Fecha: 08 Feb 2015
+Se cierra la OT luego de realizada la depuracion de mensajes de alarmas del SCADA del TCSR y de devolverse el controlador al almacen. 
+Realizo: Gabriel Naranjo.

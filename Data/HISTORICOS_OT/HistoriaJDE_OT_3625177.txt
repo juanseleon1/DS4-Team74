@@ -1,0 +1,16 @@
+SOLICITADA POR: HECTOR MEJIA CASTRILLON
+FECHA: 13/10/2017
+
+LA PLANTA DE EMERGENCIA DE LA SUBESTACION EL SALTO ESTA ARRANCANDO SOLA ASI EL CONTROL ESTE EN MODO MANUAL, LOS SERVICIOS AUXILIARES SE ENCUENTRAN FUNCIONANDO NORMAL. SE DEJA EL CONTROL DE LA PALNTA EN CERO MIENTRAS SE HACE LA REVISION.
+
+
+OCTUBRE 14 DE 2017
+Se revisa el control desde la sala de control de la subestacion el salto por presentar problemas de arranque, se encontro en el tablero de control en una de las tarjetas con la pista de control deteriorada, se corrige y se realiza pruebas de arranque operando normal.
+Realizò: Jhon Mario Morales - Francisco Gonzalez.
+Informò: William Lopera.
+
+OCTUBRE 23 DE 2017
+Planta Diésel Sub/Salto:                                                                                                                            Se revisó la planta diésel por falla de encendido y apagado, se desconecta el contador horario por problemas de funcionamiento, se retorna  al modo automático, se prueba la planta en servicio por 15 minutos trabajando y fue normal el funcionamiento. Queda en modo automático
+Realizó revisión:
+Jhon Mario Morales
+Jorge Echeverri 

@@ -1,0 +1,7 @@
+
+XM - VERIFICAR, LAVAR Y AJUSTAR EL COJINETE SUPERIOR DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG: 05/11/2013 - OT 2408064 - @C0087667
+
+Se realiza según procedimiento. Se revisa el nivel el cual se encontró en el instrumento digital en -1.3 mm y en el instrumento análogo en -2 mm. Se encuentran los filtros limpios. Igualmente se realiza limpieza al recinto del cojinete con liencillo y líquido desengrasante Westlode.
+

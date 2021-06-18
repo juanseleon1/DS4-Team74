@@ -1,0 +1,10 @@
+2014/05/27        
+                                                                                                                                                                                                                                                                      REALIZAR METROLÓGIA A TEMPERATURA DEVANADO TRANSFORMADOR FASE R BANCO 1 UNIDAD 1 GUADALUPE 3
+
+SE REALIZA LA VERIFICACION METROLOGICA Y SE EVIDENCIO LO SIGUIENTE:
+PUNTO DE ALARMA VENIA REFERENCIADO EN 90°C Y SE GENERO EN 80°C
+PUNTO DE DISPARO VENIA REFERENCIADO EN 100°C Y SE GENERO EN 90°C
+LOS VENTILARORES ARRANCARON A LOS 60°C
+
+
+INFORMA: ALEX JOHN RESTREPO

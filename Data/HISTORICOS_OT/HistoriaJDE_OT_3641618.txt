@@ -1,0 +1,11 @@
+MP ANUAL EQUIPOS:
+- 644198 ALARMAS DISPAROS +TDM1 U1 G3
+- 644199 ALARMAS DISPAROS +TDM2 U2 G3
+- 644200 ALARMAS DISPAROS +TDM3 U3 G3
+- 644201 ALARMAS DISPAROS +TDM4 U4 G3
+- 644202 ALARMAS DISPAROS +TDM5 U5 G3
+- 644206 ALARMAS DISPAROS +TDM5 U6 G3
+
+NOVIEMBRE 17 DE 2017.
+Se realizó todo el protocolo de alarmas y disparos de la unidad, banco de transformadores de potencia, obteniendo buenos resultados, el protocolo se encuentra almacenado en la bitácora de la unidad en la carpeta de pruebas.
+William Lopera.

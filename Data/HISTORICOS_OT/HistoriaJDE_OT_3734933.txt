@@ -1,0 +1,15 @@
+FECHA: 12 JUNIO DE 2018
+
+SOLICITANTE: FRANCISCO CORDOBA - GEOVANNY ECHEVERRI
+
+DESCRIPCION: EL RELE K4 125VDC SE ENCUENTRA FALLADO Y ESTE MISMO ES EL QUE DA CONDICIONES DE VALVULA DE ADMISION LISTA.
+
+POR FAVOR ATENDER ESTA SOLICITUD.
+
+GRACIAS.
+
+12-06-2018
+PROGRAMADOR JOSE MONTOYA
+Referente a la unidad G41. Válvula de admisión no lista G4U1 OT: 3734933
+No hay permisivos para el arranque de la unidad, se revisa y se encuentra el relé K4 de 125 DC en tablero de la válvula de admisión quemado, se cambia y queda con condiciones OK.
+Informó: José Montoya

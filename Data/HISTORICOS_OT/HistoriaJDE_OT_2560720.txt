@@ -1,0 +1,12 @@
+
+OCTUBRE 19 \ 2014 OT: 2560720 PROGRAMÓ:  R JIMENEZ EJECUTÓ: OLGA VIANA.
+Fue realizado el mantenimiento según el instructivo se deja el equipo en condiciones operativas.
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

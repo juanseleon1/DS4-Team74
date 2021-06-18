@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOS EJECUTO: OSCAR MONTOYA.
+
+Se realiza mantenimiento, limpieza e inspección al tablero +TSAU, a las acometidas y cajas de conexión del sistema de servicios auxiliares de la unidad según el instructivo.
+Trabajo ejecutado por: Oscar Montoya y Luis Pacheco
+
+XE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

@@ -1,0 +1,10 @@
+FECHA: AGOSTO 10/2018PROGRAMO: RICHARD JIMENEZ  EJECUTO: DAVISON PEREZ . OPERACION TURNO 1 (JOHN JAIRO GONZALEZ, ESNEIDER             RIVERA, FABIAN GOMEZ,WIDER HERRERA)
+
+Viernes 10 Agosto 2018
+
+Después de la suspensión del circuito de 44 Kv desde Guadalupe IV ,el sensor de señal de corriente de la bomba de drenaje N°1 (F02.1) queda alarmado, este no repone dejando la bomba de drenaje  N°1 fallada, se verifica ausencia de tensión y se hacen los correctivos necesarios, la bomba de drenaje N°1 queda en falla. se le informa al ingeniero encargado Jorge Rodriguez. Informo: Turno 1 (JOHN JAIRO GONZALEZ, ESNEIDER RIVERA, FABIAN GOMEZ,WILDER HERRERA)
+
+Referente al TCID: Se realiza revisión del módulo de protección de la Bomba de Drenaje N°1, al encontrarse en falla, por esta razón se bloquea el control, se hace apagado del módulo y el sistema queda en condiciones operativas. Realiza: Equipo Eléctrico UOP, Operación Turno 1. Informa: Richard Jiménez 
+
+
+

@@ -1,0 +1,29 @@
+NOVIEMBRE 18/2013
+
+REVISAR EL SENSOR DE NIVEL DE ACEITE  DEL COJINETE SUPERIOR DE LA UNIDAD 4 DE GUADALUPE 3.
+PRESENTA MEDICION ANORMAL CON MAQUINA GIRANDO.
+
+
+INFORMA 
+
+OPERADORES GUADALUPE 3.
+
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:OSCAR DARIO ARANGO
+
+DICIEMBRE 06/2013
+Se realiza la escalización de los sensores de nivel de aceite de los cojinetes superior, con apoyo del personal mecánico se adiciono y se saco aceite para comprobar los valores de nivel en las zapatas de cada uno de los cojinetes. Dejando ajustados los valores de alarma y disparo de cada cojinete.
+
+Los valores para el sensores de nivel quedaron así:
+
+MAQUINA PARADA                   MAQUINA GIRANDO
+Muy Alto:    700                           Muy Alto:     260
+Alto:            610                           Alto:            240
+Patrón:       530                           Patrón:        210
+Bajo:           460                           Bajo:           180 
+Muy Bajo:   350                           Muy Bajo:   160
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte - Francisco Gonzalez

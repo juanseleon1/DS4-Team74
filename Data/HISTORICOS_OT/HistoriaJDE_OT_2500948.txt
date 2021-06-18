@@ -1,0 +1,9 @@
+- FECHA : MARZO 31 DE 2014
+- REALIZÓ :  ANDRÉS ZAPATA - JAIME ARDILA - WILFER HINCAPIÉ -  WILDER HERRERA -  FELIPE SALAZAR - DARÍO  
+-  ATEHORTÚA - FABIO SIERRA - YOVANY RIVERA - MARIO GONZÁLEZ  
+- ASOCIADO A LA OT : 2500948
+- ASUNTO :  VER INFORME ANEXO.
+
+A las 16:09 sale de sincronismo nuevamente por paro rápido ocasionado por ruptura en los pernofusibles 5, 7 y 8. Este evento genera discrepancia entre las dos medidas de posición del distribuidor la cual ocasiona el bloqueo al control del regulador de velocidad electrónico,  ocasionado por avería en la cinta .Se remplazan los pernofusibles, se corrige el funcionamiento de la cinta quedando  normalizado  el sistema. Se sincroniza la unidad a las 19:03. Queda operando correctamente.
+
+

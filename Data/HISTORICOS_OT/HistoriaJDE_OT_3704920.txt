@@ -1,0 +1,54 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704920, PASO:1-1,1          
+Se realizó adecuación de plataformas redondas y plataforma en media luna para la inspección visual del estator
+
+2018-04-06 REALIZÓ: FERNANDO ANTONIO RUIZ - CESAR AUGUSTO HOYOS - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3704920, PASO:2-2,1-2,2         
+Se realizó una inspección visual al estator de la unidad 7, se evidenció una resina entre: 
+cabeza de bobina Superior 
+ranuras: 10 y 11
+ranuras: 28 y 29
+ranuras: 174 y 175
+Cabeza de bobina inferior
+Ranuras: 147 y 148
+En general el estator se encontró muy libre de elementos y/o partículas en las ranuras.
+
+2018-04-09 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704920, PASO:3.1          
+Se realizó el armado de la bobina para la prueba de EL CID del estator de la Unidad 7, se fabricaron 4 bobinas de 5 espiras cada una, a 1 metro de distancia del estator aprox. 
+Adicionalmente se instaló una espira de sombra en una bobina.
+Para éstas bobinas se utilizó 2 rollos de cable dúplex negro calibre 12.
+
+2018-04-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704920, PASO:5          
+Se realizó apoyo al personal de proyectos e ingeniería para la ejecución de las pruebas de los 3 CT's de 2500/5 del neutro, 5000/5-5-5 de la salida de maquina y 5000/5 del interruptor de maquina, se encontraron en buenas condiciones.
+
+2018-04-10 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3704920, PASO:6          
+Se inició con la prueba del CID, o de baja inducción al estator de la Unidad 7, ésta prueba fue coordinada por Gabriel Santiago.
+
+2018-04-11 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704920, PASO:7          
+Se finalizó con la prueba del CID,  o de baja inducción al estator de la Unidad 7, ésta prueba fue coordinada por Gabriel Santiago, quien entregó el siguiente informe: 
+Prueba ELCID: 
+ En toda la geometría del estator, se observan puntos que posiblemente fueron originados por golpes durante actividades pasadas de recuñado; Se evidencia la presencia de puntos calientes en estos sitios (por la decoloración de la pintura); De acuerdo con las mediciones realizadas, lo anterior no tiene mayores repercusiones en el comportamiento térmico de la máquina. 
+ Las corrientes de Eddy presentes en el núcleo, el términos generales son altas, principalmente en la zona inferior del estator, sobrepasando los 100mA (referencia recomendada)
+ No se observan defectos que comprometan el interior de las ranuras, y por consiguiente la integridad de las barras.
+
+2018-04-12 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3704920, PASO:8         
+Se retiró la bobina de la prueba de El cid del estator de la unida 7, ésta bobina se dejó enrollada en una carreta vacía.
+
+2018-04-14 REALIZÓ: JHONATAN ANDRES USME - ORLANDO ZULETA (MTTO MECANICO),  PROGRAMO: RARBOLG OT: 3704920, PASO:9 -9.1          
+Se inició con el mapeo del estator de la Unidad 7.
+
+2018-04-15 REALIZÓ: JHONATAN ANDRES USME - ORLANDO ZULETA (MTTO MECANICO),  PROGRAMO: RARBOLG OT: 3704920, PASO:10 -10.1          
+Se inició con el mapeo del estator de la Unidad 7.
+
+2018-05-05 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704920, PASO:11          
+Se realizó el armado del barraje de neutro de la Unidad 7.
+
+2018-05-05 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704920, PASO:11.1          
+Se realizó el armado del barraje de salida de la Unidad 7.
+
+2018-05-05 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704920, PASO:12          
+Se realizó el montaje de los sensores de los gatos de frenado de la unidad 7, se realizó prueba de señalización, se dejó en condiciones normales.
+
+2018-05-10 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704920, PASO:13          
+Se realizó medida de Índice de polarización a la Unidad 7, para verificar el estado.

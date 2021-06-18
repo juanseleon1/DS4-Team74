@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2019/07/03
+Síntoma: Voltaje de alimentacion por debajo de los limites normales. La estacion esta desenergizada.

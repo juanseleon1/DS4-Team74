@@ -1,0 +1,5 @@
+2017/08/28 RUBEN ARBOLEDA
+Se evidenció un sobrecalentamiento en la fase R en las borneras a la salida del arrancador suave hacia el motor, se hace necesario cambiar el cableado y las borneras. se deja indisponible el ventilador S1, se anexa la foto en la ot. 
+
+2017-08-28 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3579576, PASO:1          
+Se realizó reparación de cable fallado en el ventilador S1, se cortó el cable y se conectó nuevamente en la bornera, se dejó en condiciones normales.

@@ -1,0 +1,11 @@
+2015-11-18-JUAN CARLOS DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE SE PRESENTA LA "ALARMA 2 EXCITACIÓN". 
+
+EN EL TABLERO SILCO 5 SE REGISTRA COMO "FLT OR GUTAP-5A. CURRENT FAULTS. 
+26 *ONE BRIDGE FAILED ALARM".
+
+CUANDO SE RECONOCE LA ALARMA SALE ALARMA 3 EXCITACIÓN. PERO, QUEDA PENDIENTE LA ALARMA 2 EXCITACIÓN.
+
+2015/11/19 GIOVANNY DIAZ - JUAN DAVID GARCIA - OSCAR GIRALDO OT: 2941032
+Se realizó pruebas de funcionamiento y se encontró falla en la tarjeta GPA del puente de tiristores #3, se realizó el cambio y se ejecutarón pruebas de funcionamiento, se dejo en condiciones normales. 

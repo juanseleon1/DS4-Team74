@@ -1,0 +1,9 @@
+DIC 17 DE 2018  OT: 3788053   PROGRAMO: JGUINGUL  EJECUTO: ALEXANDER VILLA - ANDRES YEPES
+SE VIRIFICA LA INSTRUMENTACION DEL TRANSFORNADOR DE POTENCIA DE LA UNIDAD TODO SE ENCUENTRA EN BUENAS CONDICIONES DE OPERACION.
+
+ALARMAS
+
+Descripción Verificación Alta Temperatura Devanado 75°C  OKVentiladores Devanado 50°C OKRelé Buchholz OKAlta Temperatura Aceite 80°C  OKVentiladores Aceite 75°C OK
+DISPAROS PROTECCIONES MECANICAS
+
+Descripción  Verificación Muy Alta Temperatura Devanado 95°C OKRelé Buchholz   OKMuy Alta Temperatura Aceite 90°C OKVálvula de Sobrepresión  OK

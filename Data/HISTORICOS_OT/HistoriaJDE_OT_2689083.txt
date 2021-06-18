@@ -1,0 +1,8 @@
+2016/01/25 CARLOS ENRIQUE MONCADA
+ESTA OT SE CANCELA YA QUE SE REEVALUARA EL MP AUTOMATICO.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Tablero de servicios auxiliares comunes casa de maquinas 20 KKL
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Actualizar planos . Adicionar señales de sistema refrigeración chiller.

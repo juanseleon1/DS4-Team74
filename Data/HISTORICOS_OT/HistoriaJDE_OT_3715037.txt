@@ -1,0 +1,8 @@
+15/04/2018
+Hora: 23:30
+
+Referente a la unidad # 1:
+
+Al momento de girar la unidad hasta el programa # 1(Energizada). Se da paro rápido, se verifica y se encuentra falla en el cojinete superior (temperatura muy alta patines guía RTD 58-69). Se revisa y se encuentra que el TILLQUIST guía 5 (RTD 62) la conexión estaba floja, se corrige el problema y se le da reset a la unidad. se normaliza y se gira nuevamente hasta energizada.  Este evento no genera desviación.
+
+ESTA FALLA LA ATENDIERON Y CORRIGIERON LOS OPERADORES DE TURNO 2 DE PORCE 2: CARLOS GUINGUER, JORGE GONZALEZ Y ARLEY BAENA.

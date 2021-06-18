@@ -1,0 +1,9 @@
+
+
+COMPROBACION FUNCIONAL
+ACTIVIDAD:
+
+JUNIO 14/2018 OT: 3730496  PROGRAMÓ: PEDRO ROBAYO EJECUTÓ:  HENRY GIRALDO
+
+
+Se verifica el correcto funcionamiento del sistema.

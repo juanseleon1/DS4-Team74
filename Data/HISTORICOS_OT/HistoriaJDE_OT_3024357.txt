@@ -1,0 +1,10 @@
+PARO DE EMERGENCIA UNIDAD # 2 - 22 DE FEBRERO DE 2016
+
+Se da paro de emergencia la unidad # 2 a las 05:47, esto sucede al momento de darle giro mecánico llegando a 84  Hz. Se activan automaticamente las protecciones sobre velocidad eléctrica y mecánica.
+
+Referente al paro de emergencia por sobre velocidad unidad #2.
+Se encontró sensor de posición de la válvula IA malo, se cambia y se ajusta lazo de control, se realizan pruebas de comandos de apertura y cierre del distribuidor desde el tablero de control del regulador, se observa un buen comportamiento del distribuidor a las consignas dadas, se normaliza la máquina y se gira en modo manual para observar el comportamiento con agua, no se escuchan ruidos, se coloca regulador en automático y se lleva la maquina hasta velocidad nominal, se observa un buen comportamiento del regulador de velocidad, controlando la velocidad de la maquina, se pide autorización para sincronizarla y se carga con 90 MW, se hace un seguimiento al comportamiento de las  temperaturas en los cojinetes combinado, superior y de turbina, todas las temperaturas se encuentran en los valores que tenía la unidad antes de presentar la falla del regulador de velocidad.
+Se entrega la unidad al CCG para explotación comercial a las 12: 25 PM.
+OT: 3024357.
+Realiza: Grupo Eléctrico, Electrónico y Operación.
+Informa: Jorge Rodríguez. 

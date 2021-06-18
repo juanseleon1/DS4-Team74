@@ -1,0 +1,9 @@
+2017-07-22. OT:3548029 LUIS EDUARDO ARCILA
+se retiran todos los sensores del sistema contraincendios de las puertas de los transformadores, puenteándolos físicamente con el fin de tener el sistema a punto en caso de un disparo; aun estando las puertas abiertas.
+Se recomienda restringir el acceso a los recintos de trasformadores al mínimo, solo operadores durante la ronda.
+Si se trata de mantenimiento, bloquear el sistema, solo de ese equipo o recinto de trasformador donde se está trabajando, en forma manual (Valvula CutOff) y una vez terminado, normalizar y mantener las  puertas cerradas.
+También se restringe  el acceso de visitantes a las áreas de recintos de trasformadores y generadores. 
+
+
+
+

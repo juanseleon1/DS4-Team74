@@ -1,0 +1,5 @@
+FECHA: 01/05/2018  SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+OT: 3719136
+DESCRIPCIÓN: Se realizó prueba quincenal del Sistema Hidroeyector de Guadalupe IV. Dentro del procedimiento establecido se encuentra abrir la válvula globo hidroeyector. Después de 30 minutos de funcionamiento se procede a finalizar la prueba, pero dicha válvula no cierra. Se le informa al grupo mecánico, quienes después de realizar pruebas definieron cerrar la válvula de corte y dejar el sistema indisponible.
+SE REVISA EL SISTEMA Y SE ENCUENTRA QUE LA VALVULA GLOBO DE ACCIONAMIENTO PRINCIPAL DEL HIDROEYECTOR SE ENCUENTRA DESPINADA, YA QUE NO SE DEJA OPERAR HACIA LA POSICION DE APERTURA Y CIERRE. SE PROCEDE A DESARMAR LA VALVULA Y SE ENCUENTRA EL VASTAGO ASCEDENTE DESPINADO DEL CONO D ESELLADO, SE LLEVA LA PIEZA HACIA EL TALLER INDUSTRIAL, SE REALIZA CORRECTIVO Y SE NORMALIZA EL SISTEMA, SE VERIFICA SU CORRECTO FUNCIONAMIENTO. 
+INFORMO: CARLOS OSPINA

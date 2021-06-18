@@ -1,0 +1,26 @@
+PLANEADOR: FRANCIS LONDOÑO VERA, 2017-09-11
+MANTENIMIENTO GENERAL MOTOBOMBA VTA 1 POZO DE INFILTRACIONES
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones.
+4. Inspeccionar fugas.
+     5. Revisar calibración sello mecánico.
+6. Revisar alineación.
+PROGRAMADOR: JUAN GILBERTO TOBON CUARTAS, 18-10-2017
+INFORMACION SOBRE LA EJECUCION DE LA OT
+- TEMPERATURA MOTOR: 30°C
+- TEMPERATURA BOMBA 28°C
+- PRESENTA FUGA LEVE POR EL PRENSA-ESTOPA
+- TORNILLERÍA Y ANCLAJES BIEN AJUSTADOS
+- GUARDAS EN BUEN ESTADO
+- PINTURA EN BUE ESTADO
+- NO PRESENTA FUGAS
+- SELLOS EN BUEN ESTADO
+
+TRABAJO REALIZADO POR: DEIVI BAENA-GUSTAVO LOPERA

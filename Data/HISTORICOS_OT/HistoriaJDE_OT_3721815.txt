@@ -1,0 +1,6 @@
+7 DE MAYO DE 2018:
+REFERENTE AL BANCO DE BATERIAS # 4 DE LA UPS #1 DE CASA DE MAQUINAS PORCE II: 
+PRESENTA BAJO NIVEL DE AGUA DESMINERALIZADA EN VARIAS BATERIAS. 
+
+FECHA: 05/07/2018 OT:3721815 PROGRAMADOR: RICHARD JIMENEZ EJECUTA: CAMILO CARDONA
+Se realiza ajuste del nivel  del e electrolito de los bancos de baterias de las UPS, se hace medicion del nivel de densidad del electrolito de los dos bancos de baterias.

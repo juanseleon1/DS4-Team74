@@ -1,0 +1,13 @@
+
+FECHA: FEBRERO 26 DE 2015
+
+RESPONSABLE:  ELIECER PUSHAINA
+
+Se cambian los retenedores a las dos secciones de freno de la yaw retirados del AG4
+
+
+FECHA: MARZO 2 DE 2015
+
+RESPONSABLE:  ELIECER PUSHAINA
+
+Se cambian los retenedores a las dos secciones de freno de la yaw retirados del AG8

@@ -1,0 +1,9 @@
+
+FECHA: 23/03/2017 OT # 3379037 PROGRAMO R JIMENEZ, EJECUTO JHONATAN ARANGO.
+SE REALIZA MANTENIMIENTO PREVENTIVO SEGÚN INSTRUCTIVO,SE HACE LIMPIEZA Y REVISION DE LAS BORNERAS DEL TABLERO DE LAS UNIDADES DE GENERACION
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION Y APRIETE DE BORNERAS
+
+Procedimiento aplicable a todas las borneras del tablero de control turbina en las tres unidades de la central Porce.  Consiste en revisar, reapretar y/o cambiar borneras defectuosas, en caso de ser necesario;  con el proposito de disminuir eventos indeseados por causa de cables flojos en las unidades de generacion.  

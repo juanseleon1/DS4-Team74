@@ -1,0 +1,7 @@
+MP MENSUAL:
+Planeador: Uriel Casas
+Aprobador: Juan Alejo Osorio
+Fecha de creacion. 02/10/2017
+Tipo de Mantto:Preventivo
+Aciones de Mantto preventivo a realizar: --- Recorrido por los componentes de la presa: Taludes, cresta, vertededero, compuertas,
+---Realizar lecturas de la instrumentacion: Piezometros, pozos de observacion, medidores de infiltracion, vertederos de aforo, acelerografo.--- Descargar la informacion en la base de datos de seguridad de presas.

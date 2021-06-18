@@ -1,0 +1,26 @@
+PLANEADOR:JOHNSON GOMEZ
+FECHA:FEBRERO 25 DE 2017
+
+ESTA OT SE REALIZA PAR ACOMPRA DE MATERIALES PARA EL REGULADOR DE LA UNIDAD 1 DE GUATAPE
+
+30/06/2017 PROGRAMO MAURICIO QUIJANO
+EN ESTA OT SE SOLICITA EL RELE DE FALLA TIERRA ROTOR CODIGO 109857.
+
+2017-07-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3406895, PASO:0.1          
+Se realizó adecuación de cable de 13.2KV el cual estaba hacia la unidad 6 se extendió hasta la unidad 1, también se realizó la conexión en el transformador de excitación U1, con el fin de realizar pruebas en el Regulador de tensión de la U1.
+
+2017-07-14 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG          
+Se sacaron elementos del Regulador de tensión de la Unidad 1 y se llevaron hacia la bodega.
+PLANEADOR:JOHNSON GOMEZ
+FECHA:FEBRERO 25 DE 2017
+
+ESTA OT SE REALIZA PAR ACOMPRA DE MATERIALES PARA EL REGULADOR DE LA UNIDAD 1 DE GUATAPE
+
+30/06/2017 PROGRAMO MAURICIO QUIJANO
+EN ESTA OT SE SOLICITA EL RELE DE FALLA TIERRA ROTOR CODIGO 109857.
+
+2017-07-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3406895, PASO:0.1          
+Se realizó adecuación de cable de 13.2KV el cual estaba hacia la unidad 6 se extendió hasta la unidad 1, también se realizó la conexión en el transformador de excitación U1, con el fin de realizar pruebas en el Regulador de tensión de la U1.
+
+2017-07-14 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG          
+Se sacaron elementos del Regulador de tensión de la Unidad 1 y se llevaron hacia la bodega.

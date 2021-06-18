@@ -1,0 +1,5 @@
+AGO 25/2014 OT: 2545443 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Se compran dos controles inalambricos nuevos siendo instalados en ambos puentes grúas para reemplazar los actuales por estar malos, para esto se realizan los cambios necesarios en el control, la potencia y progración de estos controles, adcionandoles algunas alarmas; fueron realizadas las pruebas con respuestas muy buenas y han  funcionado normalmente durante los últimos dos meses.
+
+SOLICITANTE: Javier Giraldo Fecha: Junio 5/2014.
+Programar los controles inalambricos nuevos.

@@ -1,0 +1,9 @@
+CL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+22-11-2017
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema.
+Se realiza verificación de los mandos de apertura del distribuidor.
+
+
+MEDIDAS DE CORRIENTE Y DESPLAZAMIENTO SEGÚN PORCENTAJE DE APERTURA DEL DISTRIBUIDOR0% 25% 50% 75% 100%  mAMedidor RVXmAMedidor RVXmAMedidor RVXmAMedidor RVXmAMedidor RVX 4,01 0,10% 7,99 25% 11,98 50% 15,19 74.9% 19,88 99,40%  VOLTAJE : -8,1VDC VOLTAJE : -3,98VDC VOLTAJE : 0,01VDC VOLTAJE :4,01VDC VOLTAJE : 7,93VDC  

@@ -1,0 +1,23 @@
+REVISAR TRANSMISOR DE NIVEL AGUAS ABAJO TCV UNIDAD N°2
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3732429.
+Referente al TCV Unidad N° 2:
+
+Se realiza el cambio del transmisor de presión aguas abajo. Se retiro uno nuevo del almacén, se le realiza parametrización y configuración; se hacen pruebas en la válvula esférica abriendo y cerrando, observando la igualación de presiones funcionando bien; tanto aguas arriba como aguas abajo. El sistema queda en condiciones operativas.  
+
+Realiza: Eladio Piedrahita, John Jairo González, Fabian Gómez.
+
+---------------------------
+
+N°OT: 3732429
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V
+
+Se realiza la presente OT para solicitar la inspección de la Válvula Esférica; ya que cuando la unidad se encuentra en proceso de arranque se presenta un des - equilibrio de presiones aguas arriba vs aguas abajo superior a 5 bar impidiendo que la válvula ejecute el proceso de apertura.
+
+01 JUNIO 2018
+Referente al TCV Unidad N°2: El transmisor de presión aguas debajo de la válvula esférica presenta una indicación de 27.44 bar se observa que la presión aguas arriba y aguas abajo no están equilibradas; pendiente revisar. Informa: Operación: Turno 1. John Jairo Gonzalez - Fabian Gomez.
+
+Referente al TCV Unidad N°2: Durante el proceso de arranque de la unidad, la secuencia se va a tiempo excedido en el paso 3: "Abrir Válvula Esférica"; ya que la válvula no abrió por presentar un diferencial de presión (Aguas arriba VS Aguas abajo) superior a 5 bar; Siendo necesario equilibrar presiones manualmente para poder darle continuidad al proceso de arranque de la unidad. Se solicita atender cuanto antes esta falla para evitar futuras desviaciones. Informa: Operación: Turno 3.
+

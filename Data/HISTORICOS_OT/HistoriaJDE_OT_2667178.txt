@@ -1,0 +1,8 @@
+
+FECHA: ENERO 03 DE 2015
+
+EJECUTANTE: PEDRO SOLANO, ELISAUL FUENTES, ALVARITO PUSHAINA Y HENRY GIRALDO.
+
+Por presentarse alarma por corrientes asimétricas y presentarse diferencias de mas de 90 amperios entre fases se procedió a cambiar los condensadores del aerogenerador, físicamente solo se lograron colocar 6 debido a que no hay cubículos para montar los demás.
+
+Se coloca el LPC que Germán había organizado, se le cambia nuevamente la dirección al RFC y se deja trabajando como AG6.

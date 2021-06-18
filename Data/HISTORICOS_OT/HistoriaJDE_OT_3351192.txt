@@ -1,0 +1,13 @@
+REALIZAR CAMBIO DE PLATOS AISLADORES EN EL CIRCUITO DE 44KV GUADALUPE - PORCE:
+
+REALIZAR PERMISO DE TRABAJO
+
+FECHA : 2016/12/22  OT # 3351192  PROGRAMÓ: CRISTIAN GÓMEZ H
+EJECUTÓ: Jorge Rodriguez, Cristian Gómez, Equipo de Mantenimiento U.O.P, Operación Turno 1  Porce y CCG.
+
+Referente a los circuitos R53-42 (44kV) y R53-05  (13.2kV).
+Se realiza intervención en las líneas de transmisión Guadalupe IV - Subestación tablón.   El día 22-12-2016, un segmento de un árbol cayó sobre las líneas en la torrecilla N°5 impidiendo el cierre del circuito de 44kV y fracturando los aisladores (de llegada a torre) del circuito de 13.2kV.
+Se coordina con CCG y C/M Porce II la apertura del circuito R53-05 desde Guadalupe IV, se revisan condiciones previas, se confirma la correcta apertura del circuito y también la correcta entrada / transferencia de las plantas Diesel en la S/E Tablón.  
+Se reconocen alarmas y se verifica la correcta transferencia de las plantas. Se comprueba ausencia de tensión en las líneas, se instalan las tierras portátiles y se da inicio a los trabajos. Se retira el segmento de árbol y se realiza el cambio de los 4 aisladores (Aisladores tipo “ plato”  de porcelana).
+Se procede a cerrar los circuitos desde Guadalupe IV y se confirma el cierre automático de los interruptores en S/E Tablón -- 11:03 Se cierra circuito R53-42 (44kV) ; 11:10 Se cierra circuito R53-05 (13.2kV) -
+Finalmente los dos circuitos quedan energizados, interruptor de acople abierto y plantas Diesel Off.  

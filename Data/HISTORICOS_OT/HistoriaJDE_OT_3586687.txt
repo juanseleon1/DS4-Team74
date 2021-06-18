@@ -1,0 +1,37 @@
+03-09-2017. SE DA PARO LA UNIDAD 5 EN PROCESO DE SINCRONIZACIÓN, POR APLICACIÓN DE FRENOS EN FORMA INTEMPSTIVA, CON 238 RPM. SE QUEMAN LAS ZAPATAS DE FRENADO.
+INFORMA: ELKIN SANTAMARÍA - ESTEBAN HURTADO 
+
+
+
+11/09/2017
+
+Buen día:
+
+
+Referente a la aplicación de frenos en G3U5, con maquina girando:
+
+üLos frenos en Guadalupe 3 se aplican por tiempo Y velocidad a la vez
+
+üPara que se apliquen los frenos una de las condiciones es que la velocidad este por debajo de 120 RPM
+
+üOtra es que una de las secuencias de paro este iniciada las cuales activan un tiempo para aplicar de 20 minutos
+
+üEn G3U5 en el arranque inicial después del mantenimiento mayor, uno de los paros se inició, lo cual activo el conteo del tiempo
+
+üEn la tarea de volver a dar condiciones para girar, este tiempo de 20 minutos siguió contando, lo más probable es que la secuencia de paro terminara satisfactoriamente antes de este tiempo y los últimos pasos de las secuencias de los paros se cumplieron y estos dan la orden de desaplicar frenos, pero aun no estaban aplicados ya que no se habían cumplido los 20 minutos iniciales para aplicarlos.
+
+üSe vuelve a lanzar la secuencia de arranque, y entre el paso 1 y el paso 6 de la secuencia los frenos se aplicaron, inclusive se pudieron aplicar con la maquina girando a menos de 120 RPM, aunque se informó que cuando esto sucedió la maquina tenía más de 200 RPM, pero entre el momento de la aplicación hasta el momento en que se miró en la pantalla de operación pudo pasar algún tiempo y este dato no pudo ser tan preciso
+
+üLa máquina pudo empezar a girar con los frenos aplicados o estaba girando a menos de 120 RPM cuando se aplicaron, lo cual ocasiono que los frenos se quemaran
+
+
+
+La solución para esta situación se implementó de la siguiente forma….
+
+üCuando hay una secuencia de arranque esta activa desde el paso 1 hasta el paso 15, hay una variable que siempre está en 1, esta misma se colocará en el reset del tiempo de 20 minutos para que deshabilite este comando mientras este la secuencia activa, después del paso 6 de la secuencia de arranque la maquina normalmente nunca aplicara los frenos por control, por la condición de velocidad mayor a 120 RPM, está siempre ha estado existente, además esta misma variable se pone como permisivo también en el bloque del comando aplicar frenos…
+
+
+JUAN ALBERTO CAICEDO HENAO
+
+
+

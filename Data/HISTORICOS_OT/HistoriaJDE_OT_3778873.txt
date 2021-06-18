@@ -1,0 +1,17 @@
+MANTENIMIENTO ELECTRONICO CUATRIMIESTRAL 
+FECHA: 28/11/2018
+OT: 3778873
+
+PLANEADORA:SANDRA CARMONA
+
+PROGRAMADOR: BERNARDO  BEDOYA
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL 8.43 VDC y CTPR 8.44 VDC, KPH: 20.13 VDC.
+Nivel de aceite se encontró en 60 mm, el nivel patrón es 60mm.
+
+Se inyectan las señales
+
+  COJ TURBINA °CPATRÓN °C METAL 1 ACTE 34040,240,26060,3 60,28080,3 80,2ALARMA 80,0 80,0DISPARO 85,0 85,0
+Se realizo inyección con el calibrador de procesos para comprobar alarma y disparo.
+
+Realizo: GRUPO ELECTRÓNICO.

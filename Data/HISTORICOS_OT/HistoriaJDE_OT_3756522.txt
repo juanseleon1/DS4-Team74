@@ -1,0 +1,12 @@
+
+2018/08/19 _ CARLOS ENRIQUE MONCADA. OT N° 3756522.
+Referente a la temperatura metal cojinete 1 de la turbina de la U2, se revisa RTD, esta se encuentra en buen estado, se revisa la bornera BN31 en el tablero TCS, bornes 60, 61 y 62 encontrando la medida entre señal y compensaciones correcta. Se verifica en el tablero de control de unidad en la bornera -BN3, bornes 50, 51 y 52 el cableado encontrando la falla en una de estas borneras la cual, se cambia; se revisa de nuevo  y esta queda normalizada en su medida.
+Realizo: Eladio Piedrahita, Carlos Moncada.
+
+2018/08/19 _ CARLOS ENRIQUE MONCADA. OT N° 3756522.
+Se crea OT para la atención de falla de la RTD de Temperatura del cojinete 1 de turbina de la U2.
+
+
+
+
+ 

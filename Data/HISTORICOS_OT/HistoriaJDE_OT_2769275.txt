@@ -1,0 +1,4 @@
+FECHA: Junio 15/2015PROGRAMO: Daniel PalaciosEJECUTO: Fredy Echeverri.
+Se realiza mantenimiento según instructivo de la OT, se realizan medidas de resistencia de aislamiento a los motores y se llenan registros.
+
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD

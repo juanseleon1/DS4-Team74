@@ -1,0 +1,11 @@
+07/05/2018 OT 3721575  Luis Eduardo Arcila
+Falla fuente SWSM 220A220  y módulo SWPM 1A1 del anunciador de alarmas SACO del banco 1 
+Se envían a RPM para su respectiva reparación.
+
+
+
+
+
+
+
+

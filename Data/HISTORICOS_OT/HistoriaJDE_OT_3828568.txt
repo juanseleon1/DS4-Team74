@@ -1,0 +1,6 @@
+EN EL TRANSCURSO DEL MES DE ABRIL; SE HAN PRESENTADO TRES (3) SALIDAS DE UNIDAD POR LA PROTECCION "DISPARO BAJO NIVEL TANQUE DESCARGA"; REVISAR EL CONTROL NIVEL DEL REGULADOR DE VELOCIDAD O INSTRUMENTO DE MEDIDA. REPORTA LUIS JOHN FAJARDO W.
+
+JUNIO 28 DE 2019 OT: PROGRAMO: JGUINGUER  EJECUTO: ALEXANDER VILLA
+Inicialmente se  revisa y se encuentra parámetro desajustado, en referencia de potencia activa, mínimo se halló en 0.75. 
+Se amplio 0.1 PU la tasa de referencia en potencia y la faja de tolerancia se dejó en 0. 
+El control de nivel actualmente se ajustó para regular en +/- 14 cm. Es decir, desde el SP 1778.7 a la 1778.77 como nivel máximo y a la 1778.63 como mínimo. Se verifico durante dos días siendo la respuesta del control satisfactoriamente. 

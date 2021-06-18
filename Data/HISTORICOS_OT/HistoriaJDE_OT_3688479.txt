@@ -1,0 +1,5 @@
+2018/02/15 RUBEN ARBOLEDA OT: 3688479
+Durante la ejecución de la OT: 3666107, se presento falla en el control para darle arranque a la motobomba ACAA 2, la cual estaba en servicio, se crea esta OT para su revisión.
+
+2018-02-16 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3688479, PASO:1-1.1          
+Se realizó revisión de la motobomba ACAA 1, se encontró falla en el suiche S10 (insercion de gaveta), éste suiche en ocasiones no actua, si por algun motivo se vualve a presentar se empuja el suiche, para verificar si está en posición correcta el piloto de acaa parada se enciende. Adicionalmente se realizó el cambio de bombillos de señalización se realizaron varias pruebas y se dejó en condiciones normales.

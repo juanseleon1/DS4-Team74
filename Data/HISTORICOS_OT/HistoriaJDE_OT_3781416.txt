@@ -1,0 +1,10 @@
+JHON MARIO PEREZ ARENAS. NOV 2/2018
+
+Se pierden las señales de control y monitoreo de la unidad 6 por falla comunicación. 
+La unidad se deja en modo remoto por estar en modo AGC por programa de generación.
+
+
+ 2018/11/06 Luis Eduardo Arcila
+
+Se reinicia la tarjeta SDCS-140 cargando de nuevo los despliegues.
+Queda en condiciones normales de operación.

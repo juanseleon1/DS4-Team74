@@ -1,0 +1,13 @@
+2016/10/26. FEDERICO MONTOYA.
+
+SE REVISO EL COMPUTADOR 1 DEL SISTEMA SCADA Y SE ENCONTRO QUE LOS DISCOS DUROS TIENEN PROBLEMAS; SE REQUIERE ENVIARLOS A UN LABORATORIO A REVISAR. EN CASO DE QUE NO TENGAN REPARACION SE TENDRIAN QUE REEMPLAZAR E INSTALAR LOS APLICATIVOS DE NUEVO. 
+
+
+27/10/2016
+Después de la intervención del personal de manteniendo, la estación de operación borro la imagen de registro en el disco duro de respaldo, esto imposibilito el poder rescatar el equipo con un BACKUP del sistema, NOTA los discos duros de las estacione de operación y PAS no se deben intercambiar.
+
+Se procede a instalar y configurar la estación UI2 de respaldo la cual queda operativa, la estación retirada se debe iniciar proceso de compra de discos duros y tratar de instalar la imagen del sistema de lo contario se deberá solicitar un servicio a SIEMENS para la instalación de este equipo.
+
+Realizado por Wtobonl
+
+cerrar esta OT, los discos se solicitaron para rehabilitar la estacion de operacion UIEGN1 por un proceso de compra. SE debe contratar a SIEMENS para reinstalar de nuevo esta estacion 

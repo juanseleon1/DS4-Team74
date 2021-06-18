@@ -1,0 +1,31 @@
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779635.
+
+En la IHM se observa la temperatura del radiador #4 mas bajitas que las otras. Se procede a revisar el instrumento.
+
+Al revisar el tablero de disparos se encuentra los bornes de esta RTD con tarjeta de bloqueo. 
+En la IHM se observa la temperatura devanado estator, fase C, n°6 fallada. 
+Se realiza el cambio de hora en el Relé ABB REC670.
+El modulo 3-05(A1830A RTD) se encuentra fallado.
+Tablero de disparos: se procede a reiniciar el modulo, se retira, se aplica liquido despalzador de humedad y se normaliza quedando sin fallas.
+
+INYECCION:
+RTD 22: Temperatura devanado estator, fase A, #8
+124.5  __ 63°C.
+
+EQUIPO PATRÓNRTD IHM20°C 20.09°C40°C 40.10°C60°C 60..04°C
+RTD 11: Temperatura devanado estator, fase B, #4
+124.7  __ 64°C.
+EQUIPO PATRÓNRTD IHM20°C 20.14°C40°C 40.1°C60°C 60..13°C
+RTD  Radiador 4: 
+110  __ 26°C.
+
+EQUIPO PATRÓNRTD IHM20°C 20.18°C30°C 30.18°C40°C 40..21°C
+*La RTD se deja en observación ya que presenta medidas muy desfasadas con las RTD's de los demas Radiadores.
+
+
+Realizó: Richard Londoño, Jeniffer García, Iván Darío Cano.
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779635.
+OT programada para el mantenimiento TCIG U2 P3.
+XL: LIMPIAR Y VERIFICAR INSTRUMENTACION GEN +TCIG, DE LA UNIDAD

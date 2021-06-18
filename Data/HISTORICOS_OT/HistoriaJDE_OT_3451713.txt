@@ -1,0 +1,8 @@
+
+
+Se presenta disparo del módulo de transformación, se encuentran fallados los fusibles de la fase S y T.
+Inf: Henry Giraldo
+
+ABRIL 10/2017 OT: 3451713  PROGRAMÓ: HGIRALRI EJECUTÓ: HGIRALRI
+
+SE REALIZA INSPECCIÓN A LA ESTACIÓN DE TRANSFORMACIÓN Y SE ENCUENTRAN DISPARADOS LOS FUSIBLES DE L1 Y L3, SE REALIZA EL RESPECTIVO CAMBIO.

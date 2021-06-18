@@ -1,0 +1,8 @@
+08 DE MARZO DEL 2018
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL ESTATOR GENERADOR GUADALUPE 3
+PLANEADOR:OSCAR ARANGO
+PROGRAMADOR:CARLOS FORERO
+
+Se realizó mantenimiento preventivo según instructivo GCG3E0006. Se retiran las tapas superiores del generador para tener acceso a las cabezas de bobina y a los polos del rotor, se verifica visualmente no se hallan anomalías. 
+
+Ejecutaron: Luis Correa-Mateo Perez

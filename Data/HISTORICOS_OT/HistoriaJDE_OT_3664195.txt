@@ -1,0 +1,5 @@
+2017/12/28 RUBEN ARBOLEDA
+Se crea OT para recoger cable desnudo y elementos que se encuentran en la subestación GTP.
+
+2017-12-28 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3664195, PASO:1          
+Se retiró elementos sobrantes de labores en subestación, estos elementos se adecuaron en la bodega de los polos, se adecuó un cableado, mordazas y tornillos.

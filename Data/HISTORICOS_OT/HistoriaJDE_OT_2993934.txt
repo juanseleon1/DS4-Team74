@@ -1,0 +1,3 @@
+Reporte: Raúl Mauricio Álvarez Álvarez
+Fecha: 2016/01/14
+Sintoma: Sensor mdeidor de junta MJ8 sin indicación 

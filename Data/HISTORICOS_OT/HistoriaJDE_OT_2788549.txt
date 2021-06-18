@@ -1,0 +1,10 @@
+VIERNES 24/04/2015
+ABAD RAMIREZ GIRALDO.
+EL CENTRO DE CONTROL MOTORES 1 NO ESTA ALIMENTADO POR SU INTERRUPTOR PRINCIPAL EL CORRESPONDIENTE, SE REVISA Y SE COMPRUEBA QUE NO SE ESTA REALIZANDO LA TRANSFERENCIA ESTA ALIMENTADO POR DP2.
+
+2015/06/07 RUBEN ABROLEDA
+En la OT: 2748449, se realizó el diligenciamiento con ruta de aprobacion V03, por lo tanto no ufe posible aprobarla. 
+2015/06/07 GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizó prueba de transferencias, se evidenció falla en microsuiche de la ventana en la tapa del interruptor QF2, adicionalmente la ventana del QF1 se encontraba en posicion intermedia, se subieron ambas ventanas y se realizó prueba de transferencia en automatico quedando todo normal.
+
+

@@ -1,0 +1,8 @@
+Buenas noches.
+Favor revisar el sensor de velocidad de la unidad 1, se a presentado en repetidas ocasiones la a alarma velocidad turbina n > 120% estando la unidad parada, en el SACO aparece unidad deslizando y se opera el relé falla mecánica.
+Muchas gracias.
+
+
+Reporto: Carlos Mejia 22/06/2014
+
+

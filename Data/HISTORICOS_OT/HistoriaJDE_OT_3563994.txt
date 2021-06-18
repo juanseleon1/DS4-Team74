@@ -1,0 +1,25 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+17/08/2017. SERGIO OLIVARESD . - O.T. 3563994. -  EJECUTORES: EDWAR LONDOÑO O. - DAVID GARCÍA (PRACTICANTE)
+
+Se realizo limpieza a los anillos con dielectric, y se tomaron las medias siguientes:
+
+
+1. ANTES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 19.3 M  
+ ROTOR                       = 19 M    
+ BARRAJE                    = 6.08 G
+
+2. DESPUES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 21.3 M
+ ROTOR                       = 20.2 M
+ BARRAJE                    = 9.75  G      
+
+3. RESISTENCIA OHMICA                                      = 239 m
+TEMPERARURA ROTOR                                  = 45.5°C
+ CORRECCIÓN RESISTENCIA OHMICA A 20°C   =  217.23 m
+
+5. INDUCTANCIA                      = 622.3 mH
+
+6. CAPACITANCIA                     =  3.96 µF
+

@@ -1,0 +1,8 @@
+
+REALIZAR MANTENIMIENTO ELECTRICO AL TABLERO DE CONTROL Y MOTORES DEL RASTRILLO
+
+PROGRAMADOR: WILLIAM LOPERA
+
+AGOSTO 9 DE 2018.
+Se realiza mantenimiento preventivo electrico, a los dos motores y tablero de control del rastrillo, se le hacen pruebas de resistencia de aislamiento y verificación de voltajes y corrientes, arrojando buenos resultados.
+Prpgramó: William Lopera.

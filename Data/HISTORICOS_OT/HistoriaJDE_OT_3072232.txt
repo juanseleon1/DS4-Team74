@@ -1,0 +1,15 @@
+11/04/2016
+ALEJANDRO VERGARA.
+SE PRESENTA PROBLEMA PARA CONECTAR LA EXITACION DE LA UNIDAD, EN EL DISPLAY SALEN TODAS LAS FALLAS COMO SI HUBIERA PROBLEMAS EN LAS TARJETAS DE LA CPU. SE DESCONECTA DE LA ALIMENTACION, SE VUELVE A ENCENDER Y AL CERRAR LA PUERTA SE VUELVEN A PRESENTAR VARIAS FALLAS EN EL REGULADOR, HAY PROBLEMAS DE LAS TARJETAS ELECTRONICAS.  
+
+
+11/04/2016
+
+En el regulador de tensión de la unidad 4 se encontró la tarjeta SECUENCER  con problemas de control; cuando se cerraba la puerta del tablero se paraba el programa, sacando varios errores.
+Se cambia dicha tarjeta por una del almacén y se carga de nuevo el programa, quedando el regulador trabajando en condiciones normales de operación.
+También se encontró el relé I09 con problemas de conmutación y se cambió por uno de reserva.
+
+Granados
+Johnson
+Learcilas
+

@@ -1,0 +1,6 @@
+PLANEADOR:OSCAR RESTREPO
+MARZO 2 DE 2017
+PROGRAMADOR: JOSÉ MONTOYA
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES GUADALUPE 4
+Se retiró y reviso la RTD # 5 para realizar correctivo fuga en el Radiador(mecánicos). 
+Se realizó mantenimiento a los instrumentos del grupo radiadores, y los instrumentos de flujo asociados y las RTD de los radiadores. No se encontró ninguna novedad.

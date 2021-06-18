@@ -1,0 +1,16 @@
+Julio 06 /2014
+
+REVISAR IHM REGULADOR HIDRAULICO U3 DE G4.
+
+La IHM se bloque constantemente, dejando sin poder operar las bombas, Compresores o borrar las alarmas.
+
+Informa 
+
+Turno 1 de Operacion.
+
+
+AGOSTO 05 DE 2014.
+
+Se reviza el programa de la HMI y se le vuelve a cargar de nuevo el programa quedando en condiciones normales, queda en observacion si se vuelve a bloquear.
+
+WILLIAM LOPERA.

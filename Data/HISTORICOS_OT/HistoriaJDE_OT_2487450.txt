@@ -1,0 +1,6 @@
+Se realizó el retiro de los puentes existentes, se hico pruebas de funcionamiento para lo cual se qudan pegados mecánicamente, se hizo cierre de la valvula de suministro de aire desde el tanque acumulador y puenteo de presostato para condiciones de unicad. 
+
+Se hizo la medida de sensores, y todos los gatos se dejaron en posicion abajo. 
+
+Realizó: Oscar Giraldo - Sebastian Hincapie
+Planeó: Ruben Arboleda - Sergio Olivares

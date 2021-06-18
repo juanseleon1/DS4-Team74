@@ -1,0 +1,10 @@
+ANUAL ELECTRICO: SECCIONADOR UNIDAD GENERACION GUADALUPE 4
+
+19/07/2017
+Se realiza mantenimiento general tablero seccionador de maquina, se revisan partes moviles, mecanismo , pin candado, pin chaveta , y se realiza lubricacion , cambio de grasa rodamientos del mecanismo , Se toman dato  registro de resistencia de contactos del seccionador
+Ressitencia de contacto:
+Fase R = 148 
+Fase S = 7.6 
+Fase T = 7.7 
+
+JUAN A. CAICEDO HENAO - ALIRIO HERNANDEZ

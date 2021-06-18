@@ -1,0 +1,12 @@
+
+2016/04/13_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA AL COMPUTADOR DE SERVICIOS AUXILIARES DE C/M. 
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Tablero de servicios auxiliares comunes casa de maquinas 20 KKL
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Actualizar planos . Adicionar señales de sistema refrigeración chiller.

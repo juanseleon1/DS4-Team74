@@ -1,0 +1,29 @@
+
+Informe unidad 2 de Guadalupe 4: Se entrega la unidad para operación comercial, luego de realizar inspección eléctrica (IP, factor de potencia) y fibroscopica, encontrando la maquina en condiciones normales para operar, dicha inspección se realizó con el fin de descartar anomalías, al encontrar el pasado 02 de Marzo un elemento no esperado en el recinto del generador.
+Consignación de emergencia: 143546, OT: 3415219.
+Atendieron: Unidad de operación, mantenimiento generación energía y los equipos de operación y electricista de la U.O. Guadalupe.
+Informó: Oscar Restrepo Álvarez.
+
+
+
+PLANEADOR:OSCAR RESTREPO
+
+MARZO 06 DE 2017
+
+
+Se envía consignación de emergencia para la unidad G42 (Marzo 09 de 2017), ya que en dicha máquina fue encontrado un elemento no esperado en el recinto del generador, en el pasado mantenimiento cuatrimestral preventivo, efectuado el jueves 02 de marzo de 2017. De común acuerdo con la Unidad Operación y Mantenimiento Generación Energía , es necesario realizar pruebas eléctricas y fibroscópicas en el generador , para determinar que no se tenga ninguna anomalía en los cabezales de bobinas del devanado estatórico. La fecha relacionada, tiene en cuenta que en Guadalupe 32 está programado para ese mismo día un mantenimiento preventivo ,con el fin de impactar lo menos posible la generación de la cadena Guatron.
+
+
+Se anexa explicación de la inspección y la Consignación, para ejecutar los trabajos el 09 de marzo de 2017.
+
+
+
+
+PROGRAMADOR:JORGE ALIRIO HERNÁNDEZ
+
+10/03/2017 se desconectan barrajes de salida y neuttro de la maquina , se realiza pruebas de IP
+FASE/FASES A TIERRA 30 SEG 60 SEG 10 MINUTOS TEMPERATURA IPR /ST 1.37 G 2.47 G 17.11 G 46°C 6.92S/RT 1.35 G 2.42 G 19.38 G 47°C 8T/RS 1.37 G 2.61 G 23. G 46°C 8.84
+SE RETIRAN ESCOTILLAS SUPERIORES (CANTIDAD 4), INFERIORES CANTIDAD 4 ESCOTILLAS, SE PROCE A REALIZAR INSPECCION VISUAL DE TALLADA Y SE ENCUENTRA NORMAL , RECINTO LIMPIO.
+
+EN COMPAÑIA DEL PERSONAL DE MEDELLIN SE REALIZAN PRUEBAS DE FACTOR DE POTENCIA Y FIBROSCOPIA, SE ENCUENTRA TODO NORMAL , SE PROCEDE A ENTREGAU LA UNIDAD PARA EXPLOTACION COMERCIAL.
+

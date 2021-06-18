@@ -1,0 +1,11 @@
+VIERNES 10 DE ABRIL 23:58
+
+Referente: Unidad 2                                                                                                               Durante la secuencia de paro normal de la unidad esta no abre automáticamente el interruptor de maquina estando con una potencia activa de 5 MW y una potencia reactiva menor a 10 MVAR. por tal motivo fue necesario darle un paro de emergencia; físicamente el interruptor abre pero el control lo muestra cerrado; la bomba de alta no arranca y los frenos no aplican. los demás sistemas TCCS, TCCC y TLCT continúan arrancados aun después de estar la unidad completamente detenida.                                                                                          Nota: de acuerdo a los parámetros establecidos, se opera de forma manual la bomba de alta y los frenos con el fin de garantizar el paro de la unidad en forma segura.
+
+SABADO 11 DE ABRIL
+
+Referente a la unidad Nº 2 se resetea los subsistemas reportados por el turno Nª 1 el dia anterior quedando de esta forma con condiciones de arranque la maquina. Esta maniobra se podria hacer de manera más segura desde la estación de ingeniería, pero no se contó con la clave de acceso.                                      
+Informa turno 2.  
+No se evidenció causa de la falla. 
+en el reseteo manual de la IHM de las bombas sistema de alta presión se falló la fuente de la IHM, la cual se reemplazó con una fuente de repuesto reparada.
+informó carlos sanchez.

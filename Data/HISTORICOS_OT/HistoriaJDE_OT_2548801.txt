@@ -1,0 +1,4 @@
+En la ejecución de la OT: 2514869, se realizo daño de 2 motores actuadores de interruptores, se encontró adicionalmente uno fallado, en esta OT se inica proceso de reparacion de motores. 
+
+Los materiales empleados fueron adquiridos en la OT: 2373889. 
+Lider de bobinado: Fernando Ruiz

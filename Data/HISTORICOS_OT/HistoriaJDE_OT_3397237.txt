@@ -1,0 +1,8 @@
+Planeador:Raul Mauricio Alvarez Alvarez
+Aprobador:Carlos Andrés Andrade
+Fecha de solicitud:2017/02/15
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento:
+ Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de datalogger
+ Reparación sistema de comunicaciones

@@ -1,0 +1,7 @@
+SOLICITANTE: CAMBIAR RELÉ DE BAJA Y ALTA TENSIÓN DE LA TRANSFERENCIA AC DE LA CENTRAL LA VUELTA. ESTA MOSTRANDO FALSA ALARMA DE VOLTAJE ALTO PERMANENTEMENTE. SE DEJA PUENTEADO LOS BORNES 26-28 PARA QUE LA PLANTA DIESEL QUEDE APAGADA.
+
+SOLICITANTE: ARTURO BETANCUR
+
+JULIO 30/ 2015 OT:2723523 PROGRAMO Y EJECUTO: JGUINGUER
+
+Falla relé de tensión servicios auxiliares 480Vac alimentador  principal el cual impedía  la transferencia automática del sistema  se procede a: Colocar en sistema en local para evitar apertura y cierres de los alimentadores, se hace cambio del relé de tensión y se ajusta con los siguiente valores  sub tensión 380Vac, sobre tensión 520Vac,  retardo de 5seg. los valores anteriormente mencionados fueron tomados del relé  fallado, se coloca el sistema en automático para  realizan pruebas simulando falta de  tensión en el alimentador principal, abre interruptor principal, arranca  planta diésel  y luego cierra interruptor de respaldo Luego se normaliza tensión alimentador principal, abre interruptor de respaldo Cierra interruptor principal y apaga planta diésel, esta operación se repite nuevamente y el sistema realiza  transferencia automática sin ningún inconveniente.  

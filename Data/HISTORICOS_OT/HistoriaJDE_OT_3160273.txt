@@ -1,0 +1,25 @@
+29/06/2016 FELIPE SÁNCHEZ
+
+LA OT SE CREA PARA REALIZAR LA INSPECCIÓN DEL ESTADO INTERNO DE LOS COMPONENTES DE LA VÁLVULA Y EL ACTUADOR.
+
+PARA LA EJECUCIÓN DE ESTE TRABAJO SE DEBEN TENER EN CUENTA LAS NORMAS DE SEGURIDAD INDUSTRIAL Y AMBIENTALES.
+
+SE RECOMIENDA EL USO APROPIADO Y NECESARIO DE LOS DIFERENTES ELEMENTOS DE PROTECCIÓN PERSONAL.
+
+NOTA: PARA LA EJECUCIÓN DE ESTA OT SE RECOMIENDA UN RECONOCIMIENTO DEL ÁREA PARA VERIFICAR CONDICIONES ADECUADAS PARA EL DESARROLLO DE LA MISMA.
+
+City gate:
+Antecedentes:
+
+Válvula línea sur no regula, además tiene paso
+En esta parte se reviso la parte interna de la válvula y se encontró asiento al contrario, luego al probar se evidencio que el control estaba al contrario.
+Cuando en sala se le daba comando a la primera en realidad estaban manipulando la segunda que es la que no tiene internos y viceversa.
+
+Línea norte:
+Se revisó la primera encontrándose bien los internos, la segunda tiene buen sello pero se encontró el prensa estopa muy ajustado hacia un lado y tampoco respondía a los comandos
+Se corrigió ajustando el prensa estopa  y cambiando el I/P del posicionador, esta ya responden desde sala.
+
+Es de anotar que el sistema DCS no responde a tiempo se realizaron varias pruebas en donde se evidencia la falta de respuesta de la comunicación tanto hacia campo como hacia los equipos.
+Se encontraron errores de conexionado en las dos líneas.
+El equipo calibrador de procesos presenta problemas al encender y el otro ya esta malo, es importante contar con esta herramienta ya que es de vital importancia para diagnosticar y verificar problemas en la planta.
+Adjunto en archivo como es la conexión de las vávulas

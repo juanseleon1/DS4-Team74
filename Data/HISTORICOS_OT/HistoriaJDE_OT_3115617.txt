@@ -1,0 +1,9 @@
+SOLICITANTE: William Lopera 18/5/2016
+Verificar y realizar mantenimiento preventivo al banco de baterias.
+
+
+
+MAYO 20 DE 2016
+Se realizó mantenimiento a los bancos de baterías de Guadalupe 3, 125 Vcc y al banco de la UPS, se verificaron los voltajes en cada batería y corriente total en cada uno de los bancos, encontrándose en condiciones normales.
+Realizó: Grupo eléctrico.
+Informó: William Lopera.

@@ -1,0 +1,13 @@
+SEPTIEMBRE 20 DE 2018 GUILLERMO LEÓN ECHEVERRY VELEZ
+
+Al momento de Salir de sincronismo la minicentral, la Válvula Howell-Bunguer no abrió automáticamente.
+
+ATIENDE WALTER TOBON Y ENCUENTRA INSTRUMENTO FALLADO
+
+22/09/2018
+
+Se realiza verificacion del control en la valvula HB y se encuentra falla en la medida de presioin aguas arriba, se bloquea esta señal para cambiar el transductor (PIT 03)  luego de la modernizacioin en este sistema, el control queda normalizado y trabajando en automatico.
+Realizado por WTOBONL
+
+TERMANDA CERRAR 
+

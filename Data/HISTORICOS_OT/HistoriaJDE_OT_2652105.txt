@@ -1,0 +1,9 @@
+JUEVES DIC. 04 DE 2014
+OPERADOR GERARDO PEREZ. TRONERAS
+REVISAR Y CORREGIR FALLA EN EL CONTROL DEL VENTILADOR FASE S DEL BANCO DE TRFS. DE POTENCIA CENTRAL TRONERAS.
+
+09/ENERO/2015
+Referente Trafo Fase S Troneras: Estaba saliendo constantemente la alarma “ Falla control ventiladores fase S” . 
+Se revisa el control y se encuentra un hilo suelto en el contacto auxiliar borne 92 de F1, se reaprieta este borne y se normaliza la señal.
+
+Realizó: Uaimer Diaz

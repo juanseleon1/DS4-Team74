@@ -1,0 +1,14 @@
+SOLICITA: CCCG                             FECHA: MAYO 19/2016
+
+Salen las unidades G41, G42 y G43 con paro de emergencia manual.                                                                                                 Causa del evento: Al presentar problemas el botón de ajuste de consigna de potencia activa de Guadalupe 3,   (no habilitaba el botón de confirmación de consigna de potencia activa), se procede a desconectar las unidades del conjunto, inmediatamente las unidades toman consigna de bajar la potencia activa, se conectan nueva mente al conjunto y quedan con una consigna total  para Guadalupe 3 de 6 MW y no se deja cambiar, el nivel de captación de Guadalupe 4 estaba en 1119,35MSNM, la planta de Guadalupe 3 en 35 MW , la planta de Guadalupe 4 en 118MW se procede al paro de emergencia manual de las unidades de Guadalupe 4, el evento no produjo desviación.
+
+Programador: Juan Caicedo
+Planeador: Oscar Arango
+
+
+08/06/2016
+
+SE ANALIZA ESTA FALLA Y SE TIENE QUE EN G3 SE TRABAJA EL CONTROL CONJUNTO POR POTENCIA ACTIVA, PERO DE TODAS FORMAS EL CONTROL TIENE EN CUENTA EL NIVEL DE LA BOCATOMA, Y SI ESTE NIVEL ESTA POR FUERA DE SU RANGO DE TRABAJO ( 1678.8 A 1680.1) EL CONTROL  CONJUNTO NO ACEPTARA LA CONSIGNA POR POTENCIA...
+
+JUAN A. CAICEDO HENAO 
+                                   

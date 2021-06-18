@@ -1,0 +1,11 @@
+05/06/2015
+Referente a la unidad 2:
+En la secuencia de arranque y estando energizada la unidad 2 presenta paro parcial 2, luego se observa que el sistema de refrigeración estaba fallado (CCM2). Se verifican subsistemas y se encuentra alarma por bajo flujo en los transformadores. Se resetea localmente esta alarma y se logran condiciones de arranque a la unidad.
+
+La unidad sincroniza a las 5:58 am. Este evento genera una desviación de 145MW
+Horas de servicio de la unidad 2: 73216
+
+INFORMÓ: Santiago Ramírez.
+
+Analisis causa Raíz de la falla:
+

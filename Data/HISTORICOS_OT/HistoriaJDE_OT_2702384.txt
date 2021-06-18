@@ -1,0 +1,7 @@
+
+FEBRERO 20 DE 2015.
+
+Se soldan los cables de temperatura banco de tristores directamente en el modulo CCI 1, por estar presentando mala medida en en control, se resetea el modulo y queda trabajando en condiciones normales.
+
+
+William Lopera.

@@ -1,0 +1,20 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+ENERO 15 DE 2014
+SE REVISA LA SITUACIÓN OCURRIDA EN EL SISTEMA DE INUNDACIÓN DE LA PLANTA, EL CUAL PRODUJO UN CIERRE DE LA VÁLVULA MARIPOSA,DE G4.
+
+VIERNES ENERO 16 DE 2015
+HECTOR GIRALDO OPERADOR CCCG
+REVISAR Y CORREGIR FUNCIONAMIENTO DE ESTE CONTROL.
+
+19/ENERO/2015
+REFERENTE BOMBA 2 SISTEMA DE DRENAJES GUADALUPE IV:
+Después de meguear el motor y comprobar que sus periféricos estaban bien (arrancador, contactor, protecciones), se realiza una inspección a las terminales del motor, encontrando una terminal de una de las fases suelta, se procede a reponchar la terminal dentro de la caja de empalmes del motor.
+Se realiza pruebas de arranque en vacío y con acople de la bomba, trabajando correctamente a una corriente de 28 Amperios.  
+Se deja el sistema en modo automático y con las tres bombas habilitadas.
+
+Se desmontan los dos arrancadores suaves de la bomba 1 y bomba 2 para realizarle mantenimiento y una revisión sobre la falla que se estaba presentando (OCF) que corresponde a sobre intensidad y se encontró las barras que se unen con los tiristores flojos y sulfatados, e igual los cables de entrada y salida del arrancador, se reaprietan, se les realiza mantenimiento, se vuelven a montar y queda trabajando en condiciones normales.   
+                                                                               
+Ejecutó: Equipo eléctrico, equipo electrónico, equipo mecánico.
+Informó: Carlos Ospina - William Lopera
+               Oscar Arango 

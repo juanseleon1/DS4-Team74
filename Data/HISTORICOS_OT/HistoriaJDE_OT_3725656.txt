@@ -1,0 +1,6 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 18-05-2018
+Tipo de mantenimiento: Preventivo
+Desmonte de equipos o estación
+Acciones de mantenimiento: (Ver lista)Realizar Montaje Nuevo de Estacion Lmm

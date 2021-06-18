@@ -1,0 +1,8 @@
+Se crea ot para el registro de tiempos y actividades que relacionan el apriete de la tubería de descarga del actuador de la valvula mariposa (etapa 1). La actividad se realizará con apoyo del personal electrónico con el fin de realizar movimientos en la válvula mariposa y verificar que la fuga haya sido corregida.
+
+Programador: Camilo Montagut - 2017/11/07
+
+se realiza inspección en toda la trayectoria de la tubería verificando el estado de las juntas y encontrándose en buen estado. Sólo se realiza apriete a la tornillería de la junta de expansión ubicada en el box culvert. Queda pendiente seguir inspeccionando la pluma de agua remanente
+Respecto a la cámara de válvulas se realiza apriete del acople universal en la tubería de descarga del actuador de la válvula mariposa ya que presenta fuga de aceite.
+
+Ejecuta: equipo mantenimiento mecánico UOG

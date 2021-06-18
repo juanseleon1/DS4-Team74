@@ -1,0 +1,13 @@
+MANTENIMIENTO PREVENTIVO ANUAL MOTOR BOMBA REFRIGERACIÓN UNIDAD 4 GUADALUPE 3.
+
+
+OCTUBRE 6 DE 2018
+Se realiza mantenimiento anual electrico general al tablero de control, variador de frecuencia, limpieza del motor y se realiza pruebas elctricas, sin ninguna novedad
+Realizó: Jorge Echeverri - Sergio Areiza.
+Programó: William Lopera.
+
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE GR - S440RVARIADORR17.1R 1.26S - T440SVARIADORS18.2S1.49T - R443TVARIADORT14.1T1.59
+
+
+
+

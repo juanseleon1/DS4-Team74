@@ -1,0 +1,9 @@
+ENERO 23-2019  PROGRAMO: JULIAN BECERRA EJECUTO: ALEXANDER VILLA   
+
+SE REALIZA MANTENIMIENTO A LOS TABLEROS DE CONTROL U+TC, U+CG1, U+GU2, U+TTR 
+REPARACIÓN DE LA PANTALLA TÁCTIL DEL TABLERO CONTROL DE UNIDAD U+TC.
+
+ TABLERO CONTROL TURBINA U+TT
+mA 4 8 12 16 20Inst. 1 1 4,8 8,4 12 15,4Inst. 2 1 5 8,6 12,6 17Inst. 3 -1 0,5 2 3,4 4,8                                              Instrumento 1: Delante de la válvula (bar)
+                                              Instrumento 2: Cámara espiral (bar)
+                                              Instrumento 3: Tubo de aspiración (bar)

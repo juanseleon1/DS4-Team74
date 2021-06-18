@@ -1,0 +1,15 @@
+2016/06/11
+
+PROGRAMADOR: YOFRED BERNARDO RODRIGUEZ VAHOS
+
+EL COJINETE DE TURBINA DE G43 PRESENTA PERDIDA DE ACEITE , LUEG DE LA INSPECCION EN LE PREVENTIVO TRIMESTRAL DE 08/06/2016 NO EVIDENCIÓ PERDIDADS DE ACEITE , HOY AMANECIÓ CON EL NIVEL BAJO , SE INSPECCIONARA EL SISTEMA PARA DETECTAR EL PUNTO DE FUGA.
+
+Referente al cojinete de Turbina G43
+Al parar la unidad se presenta la alarma "Disparo Nivel Aceite Cojinete Turbina"
+Se verifica el nivel fisicamente y se evidencia bajo nivel.
+Se realiza la OT 3142674 y su respectiva consignación local para intervenir el sistema
+Se inspecciona el estado de la cuba movil y se detecta fuga de aceite en tres de los agujeros de las juntas laterales de la cuba , se retiran 6 tornillos de 3/4" del mismo lado en de acero inoxidable y se cambian por tornillos M20 acero al carbono calidad 8.8 se aplica eliminador de empaques en el espigo y fuerza media en la rosca , adicionalmente se fabrican Guarniciones en cobre para los tornillos y se torquea nuevamente. se adicionan 8 litros de aceite.
+El manometro de presion de este cojinete debe de estar en una presion de trabajo de 14 psi , equivalente mas o menos a 0.9 bar.
+Se entrega la unidad a las 12:00pm
+
+Realizó: Diego Rojo- Didian Sepulveda y Yofred Rodriguez.

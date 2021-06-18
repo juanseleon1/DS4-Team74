@@ -1,0 +1,12 @@
+XL: LIMPIAR Y VERIFICAR EL CONTROL LUBRICACION TCBA FORZADA DE LA UNIDAD
+
+
+20/05/2015
+
+
+
+Se realizó mantenimiento según instructivo. además de realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas. generando señales en cada una de las medidas análogas de los segmentos, se realiza solo inspección de los  instrumentos y del controlador e IHM.
+Los detalles y planillas se anexan en el informe de Mantenimiento Mayor
+
+
+Realizado por Wtobonl

@@ -1,0 +1,11 @@
+13/04/2014
+SE ENCONTRO PARADO EL CHILLER 3 MOSTRANDO FALLA TEMP. CONTROL EN EL DISPLAY, SE DEJÒ PARADO PAR REVISIÒN.
+REALIZO: JAVIER ARCILA.
+
+
+El equipo presenta problemas para encontrar la presión del sistema de lubricación:
+Se corrige éste problema, cambiando filtro de aceite ubicado  al lado del transductor de presión del sistema de aceite.
+Equipo presenta  problemas en el sello mecánico ubicado entre el motor y la turbina:
+Se corrige éste problema calibrando la válvula que va directamente al sello mecanico. 
+Equipo presenta fluctuaciones con altas condensaciones y altas descargas de refrigerante.
+Se lava intercambiador de condensadora y se regulan válvulas de entrada y salida de agua de condensado para lograr una transferencia de calor óptima para el buen desempeño del  equipo, con un delta de  5°C.

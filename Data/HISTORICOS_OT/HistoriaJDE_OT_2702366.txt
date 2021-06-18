@@ -1,0 +1,20 @@
+FECHA: FEBRERO 21 DE 2015
+INFORMA: ESNEIDER RIVERA - JULIAN CADAVID - CESAR GIRALDO - GABRIEL NARANJO
+
+DESCRIPCION Y ATENCION DEL EVENTO:
+
+EL DIA SABADO 21 DE FEBRERO A LAS 6:28 AM LA UNIDAD 2 DE PORCE III SALE POR PARO PARCIAL DOS 86P2, SALEN ALARMAS DE DISPARO EN EL CONTROLADOR PERO NO SE ENGANCHARON LAS PROTECCIONES. SE SINCRONIZA A LAS 7:34.ESTE EVENTO NO GENERO DESVIACIÓN.
+POR SOLICITUD DE WALTER TOBON SE DEJA DESCONECTADO EL PUERTO DE RED DEL PAS1 TCU2. 
+
+
+21/02/2015
+
+Se ingresa al controlador de unidad principal y se encuentra falla en la aplicacion PAS , por esta falla se da instrucciones de desconexion a los operadores para realizar desconecion del puerto ethernet de este controlador y se realiza conmutacion de la aplicacion para el controlador de respaldo en el cual se realiza actualiacion de la aplicacion y se normaliza la unidad.
+NOTA el controlador principal debe quedar desconectado hasta poder realizar labores de actualizacion de licencia despues de la consulta enviada a SIEMENS sobre este evento.
+
+CERRAR SE ESTA ATENDIENDO CON LA ORDEN 2699213
+
+Realizado por Wtobonl
+
+
+

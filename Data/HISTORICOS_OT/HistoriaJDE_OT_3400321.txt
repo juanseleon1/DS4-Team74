@@ -1,0 +1,10 @@
+FALLA CANAL 1 AVR1
+
+19/02/2017
+
+Se realiza la verificaicion de la red y la CCI1 la cual se encuntra fallada al parecer por temperatura en el recinto, se realiza procedimiento de incio en esta CCI y se normalizan las fallas de este sistema, quedando el convertidor habilitado y operativo
+
+
+realizado por Wtobonl
+
+terminada Cerrar

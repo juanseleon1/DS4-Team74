@@ -1,0 +1,10 @@
+2015/10/18 JUAN DAVID GARCIA - OSCAR GIRALDO
+
+ ESCOBILLA 1 2 3 4 5 6 7 8
+
+ANILLO A        mm 27,0 24,0 33,0 25,0 37,0 32,0 39,0 22,0
+SUPERIOR B        mm 35,0 34,0 46,0 38,0 41,0 25,0 25,0
+ANILLO A        mm 49,3 43,0 36,0 34,0 28,0 21,0 38,0 33,0
+INFERIOR B        mm 24,0 46,0 34,0 41,0 32,0 38,5 45,0
+
+Se realizó el cambio de 8 escobillas, ya que algunas se encontraron con desgaste irregular.

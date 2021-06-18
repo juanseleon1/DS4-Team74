@@ -1,0 +1,14 @@
+FECHA : 23 NOVIEMBRE 2018
+
+SOLICITANTES: NATALIA URREA - GEOVANNY ECHEVERRI
+
+DESCRIPCIÓN: SE PRESENTA ALTA TEMPERATURA DE ACEITE Y SEGMENTO 5 DEL COJINETE DE EMPUJE POR FALLA EN EL INTERCAMBIADOR DE ACEITE.
+
+SE PARA LA UNIDAD POR OPERACION DESDE EL CENTRO DE CONTROL GUADALUPE PARA ATENDER ESTE CORRECTIVO.
+
+Nota: se desmonta valvula de entrada de aceite al intercambiador encontrandola con el elemento de sello despinado razon que ocasionaba que la valvula se quedara cerrada estando abierta.
+se corrige y se gira la unidad observando normalidad en las temperaturas.
+La temperatura del segmento 5 del cojinete de empuje se mantiene en 70 grados.
+Queda en observacion
+
+ESTE TRABAJO SE CONCLUYO CON LA OT 1196566 

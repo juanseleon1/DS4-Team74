@@ -1,0 +1,33 @@
+VIERNES 21 DE MARZO /2014
+
+Descripcion del Evento:
+
+6:00 am Sale alarma en prioridad 2 "Alabes Fuera de sincronismo" en unidad 3, inmediatamente baja carga de 167 a 8 MW y se queda en esta potencia sin abrir interruptor.  
+
+6:32 am Sale de sincronismo la unidad 3 debido a falla presentada en el TRV por "Alabes fuera de sincronismo"; la salida de la unidad se da con paro normal. Por autorizacion del ING Hector Gomez se solicita reespacho de la unidad 3 para el periodo 9, siendo autorizado por el centro de control
+
+Informa: Turnos 3
+
+Analisis del Evento:
+
+SE REVISO EL DISTRIBUIDOR DE LA UNIDAD 3, ENCONTRANDO ENCENDIDO EL LED DE ALARMA DEL PERNO FUSIBLE # 6, SE VERIFICO QUE EL PROBLEMA SE PRESENTO POR HUMEDAD (OXIDACION) EN LA TARJETA ELECTRONICA, EL ALABE NO PRESENTA PROBLEMA MECANICO, SE DESCONECTO EL CABLE Y EL SENSOR DEL PERNO FUSIBLE #6, SE REQUIERE LA MAQUINA PARADA PARA HACER LIMPIEZA DE LA TARJETA ELECTRONICA PARA NORMALIZAR LA PROTECCION CORRESPONDIENTE AL ALABE #6
+
+Informa: Turno 3
+
+Soluciones y medidas cautelares
+
+Dentro del analisis del evento, se concluye que la alta humedad esta afectando estas tarjetas. En esta oportunidad fue la fuga de una manguera que se rompio la que mojo directamente la tarjeta. Para dar solucion y que estos eventos no se repitan se propone cambiar el recinto de la tarjeta con un IP68. Ademas de cambiar la manguera de los inyectores que se rompio.
+
+En analisis de la compra y adquisicion de los equipso electronicos esta a cargo del Equipo Electronico: Walter Tobon, Carlos Sanchez.
+Del cambio de manguera esta a cargo Renato Montoya.
+
+Informa: Sandra Carmona 
+
+
+22-03-2014
+
+la causa de la salida forzada fue por fuga de agua en las mangueras de los inyectores, los mecanicos corrigen la fuga y se procede a limpiar y deshumedecer las tarjetas de estos sensores. se realiza compra de conectores  IP68 para modificar este sistema.
+
+CERRAR en otra OT se generan los cosotos de instalacion de los conectores nuevos
+
+Realizado por Wtobonl

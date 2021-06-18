@@ -1,0 +1,11 @@
+LIMPIAR LAS TUBERIAS DE DRENAJE DE LOS 6 RADIADORES DEL GENERADOR DE LA UNIDAD 1 , PUES NO ESTA EVACUANDO EL CONDENSADO DE LOS RADIADORES.
+
+Buenos días :
+Hoy a las 8:00 AM estuvimos revisando este caso con los operadores Carlos Gabriel Betancur y Wilson Arango donde les explique lo siguiente:
+Este es un tema de condensación que si es viejo y es debido a los cambios en humedad relativa y temperatura del agua , por épocas la condensación desaparece y luego es alta como ocurre en estos momentos , históricamente es la unidad que más problemas de condensación ha sufrido por estar más cerca al bombeo.
+En meses pasados estuvimos modificando el flujo de entrada para observar las variaciones en condensado,  lo que en el momento se puede disminuir sin afectar las temperaturas del generador , pero al otro día como expliqué anteriormente si cambian las condiciones toca volver a modificar la entrada de agua .
+Hoy verificamos si existen fugas arrancando la bomba de refrigeración de la unidad y sólo observamos de los 6 radiadores que sólo uno presentaba un goteo leve, esto con una presión de 1.6bar , luego con otra bomba de respaldo y a 3.2 bar comprobamos  que el problema no aumentó ; por lo cual concluimos que el problema que se está presentado no es de fugas de agua.
+Las canoas que en estos momentos existen fueron puestas guiar el agua condensada a los drenajes y no se afecten las resistencias del recinto.
+Para darle solución a este problema ya se tomaron varias medidas:
+Este año se compró el 50% de los materiales para iniciar con el cambio de las tuberías de refrigeración de Guadalupe 4 , cambio de tuberías de acero al carbono por tuberías de acero inoxidable,   en las tuberías del anillo distribuidor de los radiadores , luego de este cambio se instalará aislamientos en foild de aluminio y rellenos  que eviten la condensación.
+Este año con el mantenimiento mayor de G41  se  hará el overhault de los radiadores y lavado de las tuberías de drenajes , entrada y salida de flujos , mantenimiento que ya se hizo en las unidades 2 y 3 con muy buenos resultados.

@@ -1,0 +1,12 @@
+
+  Planeador:   Hernando Alonso Castrillón 
+Aprobador:    Carlos Andrés Andrade
+Fecha de solicitud:       04/07/2017
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+ Inspección general del estado de la estación
+ Retiro de tubería auto-limpieza y shaft encoder
+               Reinstalación de mira
+               Instalación brazo y radar
+               Aforo líquido

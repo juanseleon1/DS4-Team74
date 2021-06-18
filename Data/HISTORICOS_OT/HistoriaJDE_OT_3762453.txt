@@ -1,0 +1,27 @@
+- FECHA : MARTES SEPTIEMBRE 18 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - ANDRES BARRIGA - VICTOR GARCIA 
+- ASOCIADO A LA OT : 3762453
+- ASUNTO : HACER MANTTO MP SEMESTRAL
+                       * REALIZAR MANTTO SEGUN PASOS INSTRUCTIVO
+                       * REALIZAR MEDIDAS DE RESISTENCIA AISLAMIENTO Y OHMICA
+
+                       ** Valores obtenidos midiendo con equipo Megger 
+                           - Aislamiento antes de hacer limpieza 
+                             ** Rotor + barraje desde interruptor de campo = 1.83 Moh
+                             ** Barraje desde interruptor de campo = 1.85 Moh
+                             ** Barraje asociado a escobillas superior = 505 Moh
+                             ** Barraje asociado a escobillas inferior = 156 Moh
+                             ** Rotor = 126 Moh
+  
+                       Aislamiento después  de hacer limpieza 
+                             ** Rotor + barraje desde interruptor de campo = 185  Moh
+                             ** Barraje desde interruptor de campo = 50  Goh
+                             ** Barraje asociado a escobillas superior = 48 Goh
+                             ** Barraje asociado a escobillas inferior = 156 Moh
+                             ** Rotor = 169 Moh
+
+                        * Resistencia Ohmica = 159.1 milioh
+                           - Temperatura rotor = 47.2 ° C
+                           - Temperatura ambiente = 28 ° C
+

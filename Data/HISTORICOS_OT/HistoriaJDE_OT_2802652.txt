@@ -1,0 +1,8 @@
+25 DE JUNIO DE 2015 IVAN DARIO ZAPATA GOMEZ
+EN LA UNIDAD GENERADORA 4 DE GUADALUPE 3 ESTA DESCONECTADO EL HOROMETRO.
+
+28/JUNIO/2015
+Se reviso el Horometro de la Unidad 4, comprobando la alimentacion en el equipo, todo se encontro normal. Se aprovecho para reapretar las conexiones y colocar nuevas punteras a los cables de conexion. Se realiza seguimiento y se comprueba el correcto funcionamiento. Se informa al grupo de Operacion y se deja todo normal.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

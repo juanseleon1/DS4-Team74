@@ -1,0 +1,12 @@
+TANQUE ACEITE REGULADOR HIDRAULICO U7
+
+Revisar nivel aceite tanque regulador hidráulico unidad 7.
+
+NOVIEMBRE 03 DE 2014 DIEGO BEDOYA
+Se realizó el mantenimiento al regulador, se cambiaron los microfiltros a las válvulas Moog  y se obtubieron los siguientes resultados:
+ Bomba principal Bomba de reserva
+Presion de arranque(kg/cm2): 34 33
+Presion de paro(kg/cm2):38.5 37
+Nivel de arranque(cm):-8 -9
+Nivel de paro(cm):  0 -2
+Tiempo de trabajo(seg):  50 47

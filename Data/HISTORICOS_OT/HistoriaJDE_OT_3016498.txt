@@ -1,0 +1,20 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+MANTENIMIENTO ELECTRONICO CUATRIMESTRAL PREVENTIVO
+24/FEBRERO/2016
+
+Se realiza mantenimiento al regulador hidráulico, sin novedades.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador.
+
+Se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+
+AGUJA 1: 5.2Amp - 107 mm  a 75% - 70 mm  a  50% - 35mm a  25%
+AGUJA 2: 4.3Amp - 105 mm  a 75% - 70 mm  a 50% - 35 mm a  25%
+AGUJA 3: 5.6Amp - 103 mm a 75% - 68 mm a  50% - 35 mm  a  25%
+AGUJA 4: 5.9Amp - 105 mm a 75% - 68 mm a  50% - 35 mm  a  25%
+
+
+PROGRAMADOR: Oscar Arango
+Ejecuto: Francisco Gonzalez - Fredy Duarte - Zoraida Monsalve

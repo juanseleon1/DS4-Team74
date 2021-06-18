@@ -1,0 +1,2 @@
+2015/12/29 SEBASTIAN HINCAPIE - EDWIN ARANGO, PROGRAMO: RARBOLG
+Se realizó revision general, se encontró falla en el funcionamiento del freno, se creo OT correctiva: 2985541, no se realizó toma de medias electricas, se realizó limpieza general al sistema, se continua en la OT correctiva.

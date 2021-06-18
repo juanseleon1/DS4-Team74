@@ -1,0 +1,16 @@
+SEPTIEMBRE 14/2016
+
+Verificar Ajustes Transferencias Servicios Auxiliares en la unidad.
+
+
+
+14/09/2016
+
+Se realizan pruebas de verificación en los relés SIPROTEC de los servicios auxiliares de unidad , estas pruebas y verificaciones consistían en la verificación de los ajustes en los interruptores Q1 y Q2, los cuales se encontraron en los valores de mínima tensión de 400 V y 300 V operando esta transferencia en el valor de mínima tensión de 400 V verificada esta medida mediante simulación con la maleta trifásica en diferentes pruebas o rampas.
+
+Además de la verificación en estos interruptores se verifica el alimentador aguas arriba proveniente de los servicios 480 Vac barra A el cual depende del interruptor Q1 de llegada del TA-01 realizando las verificaciones y ajustes en esta interruptor se encontraba  con problemas de operación según los ajustes encontrados de mínima tensión de 400 V y 300 V los cuales operaban en 435 V por mínima tensión, se verifica y ajusta este relé de protección para operar en el rango de 300 V. se realizan pruebas y queda normalizada la unidad y el sistema de 480 Vac.
+
+Realizado por Wtobonl
+
+
+terminada cerrar 

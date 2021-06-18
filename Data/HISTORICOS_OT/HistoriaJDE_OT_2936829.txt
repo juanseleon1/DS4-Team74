@@ -1,0 +1,23 @@
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+
+NOVIEMBRE 14 DE 2015
+
+
+PROGRAMADOR: OSCAR ARANGO
+
+
+
+NOVIEMBRE 14 DEL 2015 - JEOVANNY CORREA 
+En la secuencia de paro de la unidad G32 se queda el en paso 5, el deflector no cierra se queda  abierto al 11.2 %
+
+10/MARZO/2016
+REFERENTE PEGA MECANICA DEFLECTOR
+Inicialmente se reporto fallas en la posicion al cierre del deflector, puesto que se quedaba en cierto porcentaje de apertura. Se reviso el regulador de velocidad, los elementos de medicion en el lazo de control y se confirma que el problema del deflector es mecanico, lo cual se habla con el grupo mecanico para realizar el correctivo necesario.
+Bajo consignación #1224439, Se realiza correctivo de pega mecánica al vástago del deflector #2, la cual no dejaba llegar el deflector al 0%, quedando aproximadamente al 12% de apertura. Se evidencio en los canales de lubricación material grafitado y oxido, el cual impedía el cierre total del servomotor de los deflectores.
+Se realiza limpieza por medio de grata, luego se lubrica el sistema.
+Se realiza pruebas de funcionamiento de todo el sistema operado con normalidad.
+Se verifica apertura y cierre de los deflectores, mostrando los valores de 0% al cierre 100% a la apertura. Adicionalmente se realiza mantenimiento  cuatrimestral.
+Realizo: Equipo de mantenimiento.  
+Informo: Gabriel Tamayo.
+Programador: Oscar Arango

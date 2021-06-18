@@ -1,0 +1,7 @@
+JHON MARIO PEREZ ARENAS. MARZO 12 DE 2018
+
+Realizar calibración y ajuste a la aguja 3 de la unidad 3. Esta se encuentra 10 puntos de diferencia con respecto a las demás.
+MARZO 13 DE 2018  OT 3698698   Cesar Tulio
+Se cambia valvula Moog al comando de agujas 3 y se calibra en el software 
+MARZO 12 DE 2018Luis Eduardo Arcila 
+Se calibra transductor del comando de agujas 3

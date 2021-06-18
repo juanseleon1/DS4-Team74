@@ -1,0 +1,18 @@
+23/09/2018
+
+Referente al sistema  2 de refrigeración unidad # 1:
+Se bloquea el subsistema # 2, para lavar el intercambiador de calor por parte del grupo de mantenimiento:
+Horómetro: 
+ATRU # 1: 50847
+ACRU # 1: 50330                                                                                                                                             ATRU # 2: 41183
+ACRU # 2: 11517                                                                                                                                                                                                                    
+
+Informa: Grupo de operación - Jorge G. - Alex C. - Arley B.
+
+NOTA: SE LAVA INTERCAMBIADOR 2 DE PLACAS, FILTRO AUTOLIMPIANTE SE INSPECCIONA VALVULA 4 VIAS PARA VERIFICAR SU ESTADO Y EMPAQUETADURA.
+
+QUEDA EN CONDICIONES OPERATIVAS
+
+REALIZO: ALEXANDER MORA, FRANCISCO GUINGUER
+
+INFORMO: JUAN G TOBON

@@ -1,0 +1,15 @@
+fecha:28/01/2018 ot: 3666149 PROGRAMÓ: R JIMENEZejecutó: JAIRO TORRES - OLGA M VIANA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite cojinete guia superior pertenecientes al sistema de generador (S3). Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASEG VDCR - S487R90.8R8.7R16.6 505S - T485S90.7S8.9S18.9 505T - R487T92.3T9.3T20.0 505
+registro mb2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASEG VDCR - S485R87.2R8.7R12.0 505S - T485S87.4S8.7S15.0 505T - R487T92.2T9.0T19.0 505
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

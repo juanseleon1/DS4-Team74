@@ -1,0 +1,25 @@
+XL: REVISION Y MTTO GENERAL
+SERVICIOS AUXILIARES UNIDADES GT 
+
+EL INSTRUCTIVO DE MANTENIMIENTO SE REFIERE ES AL PLC, FALTA LAS ACTIVIDADES PARA LOS SERVICIOS AUXILIARES
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2514869
+Se realizó revisión de tranferencia del +SA4, con las siguientes novedades: 
+
+A la hora de abrir breaker en DP2 del +SA4, el interruptor QF2 (DP2) ubicado en +SA4 se sobrecalentó, provocando humo en el interruptor, ambos interrupptores se queadron abiertos. 
+
+Luego el PLC intentó cerrar el QF1 (DP1), pero éste no cerro, 
+
+Se procedio a realizar maniobras mecanicas en interruptor QF2, inicialmente no respondio, luego de un momento respondio normalmente (Mecánicamente). 
+
+Despues el QF1 se cerró mediante orden de PLC, éste tambien se sobrecalentó provocando humo en el interruptor. 
+
+Ambos interruptores quedar operables manualmente mecánicamente. 
+
+Se realizó corrección de señalización visual del QF1, el cual estaba desviada. 
+
+Queda pendiente enviar adquirir motor actuadar de repuesto para ambos interruptores. 
+
+En la OT: 2420223 se realizó reparacion de 3 motores de estas caracteristicas, se espera oportunidad para realizar prueba con estos motores reparados.
+
+Duración: 1 Hora

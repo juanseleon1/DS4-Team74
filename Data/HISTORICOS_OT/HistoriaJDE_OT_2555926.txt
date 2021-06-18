@@ -1,0 +1,16 @@
+
+Se realizan las actividades:
+
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+4. Se cambió  la Moog del comando de deflectores
+5. limpieza de intercambiador de aire.
+6. limpieza general al tablero del regulador.
+
+Los paramentaros de calibración quedan dentro de los rangos normales de operación.
+
+Luis Eduardo Arcila
+
+
+

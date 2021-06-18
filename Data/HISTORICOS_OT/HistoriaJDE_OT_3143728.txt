@@ -1,0 +1,18 @@
+SOLICITANTE: EQUIPO METROLOGÍA UOG.FECHA: 16/06/2016
+
+Realizar metrología según Plan Anual, durante mantenimiento preventivo (PIM).
+
+Realizar inyeccion de Temperatura con el calibrador de procesos,para comprobar el correcto funcionamiento del Modulo de temperatura - Estator del Generador.
+
+Planeador: Oscar Arango
+
+Programador: Uaimer Diaz
+
+SE REALIZA UNA VERIFICACION DEL INSTRUMENTO INYECTANDO VALORES DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, EL COMPORTAMIENTO DEL INSTRUMENTO FUE BUENO SE VERIFICO SU PUNTO DE ALARMA Y PUNTO DE DISPARO Y RESPONDIO CORRECTAMENTE.
+
+PUNTO DE ALARMA:110°C
+
+PUNTO DE DISPARO:115°C
+
+REALIZO: UAIMER DIAZ
+ 

@@ -1,0 +1,10 @@
+Lunes julio 07 de 2014
+Operación Troneras
+La bomba N° 1 del regulador hidrahúlico no está trabanjando en automático ni en manual, revisar y corregir.
+
+26/AGOSTO/2014
+Se realizo la verificacion y revision del arranque de Bomba en forma Automatica y manual, en el modo manual desde el tablero local el motor arranca y para sin problemas.
+Se evidencio que en forma autoamtica cuando cae la presion no arranque, se verificaron conexiones, alimentacion de 480vac y señales de control y se encontro el presostato mecanico de calibracion manual, descalibrado. Se procedio a calibrar nuevamente deacuerdo al presion de arranque del sistema y se realizaron varios arranques y paros en forma automatica y el sistema responidio normalmente.
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte - Francisco Gonzalez

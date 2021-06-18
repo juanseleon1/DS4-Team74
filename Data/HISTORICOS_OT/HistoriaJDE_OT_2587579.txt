@@ -1,0 +1,11 @@
+Realizar prueba de señales y verificar funcionamiento y puesta en servicio de la disipadora. 
+
+2014/08/28 RUBEN ARBOLEDA ot: 2587579
+Se evidenció falla en la señal de los microsuiches, se encontró un microsuiche reventado, se cambiarán ambos por sensores inductivos, para lo cual se está a la espera por parte de Marco Uriel Alzate, para la fabricación de 2 bases con el fin de continuar con el proceso, se pone esta OT en estado 35 a causa de lo anterior. 
+
+2015/06/02 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+Se recibio por parte del personal de apoyo las bases, se realizó el proceso de isntalación de los dos sensores, queda pendiente realizar calibracion y pruebas a la apertura y cierre de la valvula disipadora.
+
+2015/06/03 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+Se realizó la adecuación del cableado con coraza, limpieza general, calibracion de sensores y prueba de funcionamiento, se dejó en condiciones normales.
+

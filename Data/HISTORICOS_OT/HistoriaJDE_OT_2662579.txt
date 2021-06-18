@@ -1,0 +1,16 @@
+21/12/2014 Sale de sincronismo la Unidad 2 por paro parcial  2,El evento se genera por falla sitema electrico,posiblemente generado desde el tablerto de regulador de tensión,lo anterior hace referncia a la salida de la unidad a las 23:57 se presenta en el SCADA un evento de disparo de emergencia 1  86E-E2 ; 86 E E1, Se procede a desconectar las comunicaciones y dar reinicio al controlador de unidad para evitar un paro rapido de la unidad como los ocurridos en dias anteriores posteriormente descritos; a la 00:01 se da paro  Parcial 2 . La unidad estaba regulando. Este evento tiene similitud con los ocurridos el día Martes 02 y el miercoles 10 de diciembre acentado en la bitacora, por el turno de operación .a las 00:09 se sincroniza la unidad de forma local.Se restablecen las comunicaciones, y el controlador de unidad, con la novedad de quedarse enganchada la secuencia de paro Parcial 2,con tiempo excedido, y el subsitema de refrigeración TCSR CON TODO SUS ELEMENTOS EN DISCORDANCIA O FALLLADOS EN EL SCADA Y EL TCU.Pero en el tablero TCSR2  el subsistema  presenta funcionamiento normal.TURNO 3
+
+21/12/2014
+
+la secuencia de paro parcial 2 se encuentra activa en la unidad 2 desde las 00:01 del dia 21 en las horas de la tarde se envía desde la consola de operación un reset a este tiempo excedido razón por la cual la secuencia se ejecuta y la unidad sale de sincronización, se ingresa al controlador principal y se encuentra un volcamiento de memoria y falla en escritura de disco razón por la cual se traslada la aplicación para el controlador de respaldo, se observa que el reinicio forzado de estos controladores agravo mas el problema y NO se debe realizar esta  acción.
+La unidad se normaliza por el controlador de respaldo y para rescatar el controlador principal se de realizar labores de formateo e instalación de las aplicaciones en este controlado.
+
+Realizado por Wtobonl
+
+22/12/2014
+
+se retira repuesto del controlador principal del almacén y se inician labores de instalación programación de la aplicación, cuando este se encuentre listo se realizaran pruebas con este equipo, además se deben realizar pruebas con el regulador de velocidad ya que este posee un problema en la secuencia con las comunicaciones.
+
+Realizado por Wtobonl 
+
+se cierrra y continua con la OT 2662616

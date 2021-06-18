@@ -1,0 +1,8 @@
+octubre 29 de 2017
+
+Edgar Barrera C
+
+EL PLC DEL SA3 NO RESETEA, ESTÁ EN STOP Y ALGUNAS VECES ACEPTA EL PUSLO RUN PERO SE DA PARA AL INSTANTE.
+
+25/11/2017 Luis Eduardo Arcila
+Se monta compra de PLC para reemplazar el existente 

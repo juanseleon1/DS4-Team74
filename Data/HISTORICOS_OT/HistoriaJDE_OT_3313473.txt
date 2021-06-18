@@ -1,0 +1,11 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2016-12-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3313473, PASO:1          
+Se realizó mantenimiento al motor de motobomba cw4 CORRIENTE: R:31,5, S:33,3, T:31,3, VOLTAJES RS:445, ST:447, TR:448,TEMPERATURA MAXIMA DE MOTOR 50,6°C, Se encontró en condiciones normales, se anexa la planilla a la OT.
+
+La temperatura de la peineta de entrada se encuentra en el nivel 1 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 8.5°C, lo cual indica que habria una posible deficiencia, sin embargo se recomienda tenerla en revision, no implica paro . Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2016-12-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3313473, PASO:1          
+Se realizó mantenimiento al motor de motobomba cw4 CORRIENTE: R:31,5, S:33,3, T:31,3, VOLTAJES RS:445, ST:447, TR:448,TEMPERATURA MAXIMA DE MOTOR 50,6°C, Se encontró en condiciones normales, se anexa la planilla a la OT.
+
+La temperatura de la peineta de entrada se encuentra en el nivel 1 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 8.5°C, lo cual indica que habria una posible deficiencia, sin embargo se recomienda tenerla en revision, no implica paro . Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.

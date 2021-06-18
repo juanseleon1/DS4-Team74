@@ -1,0 +1,12 @@
+19/07/2016 - 17:00.
+
+Se encontró los Servicios Auxiliares de G3U2, alarmados y sin realizar transferencia con los Servicios Auxiliares de máquina.
+
+Realiza: Turno 3 de Operación.
+
+Fernando Yepes - Elkin Santamaria - Wilson Arango.
+
+JULIO 22 DE 2016.
+Se revisó la falla sistema de la transferencia y se encontró que el interruptor Q02 en el momento de apertura cuando la unidad salió de sincronismo el contacto que indica la posición del interruptor no estaba haciendo buen contacto, se retiró el interruptor se corrige, se realizaron pruebas de apertura y cierre y queda realizando la transferencia de modo automático en condiciones normales.
+
+William Lopera.

@@ -1,0 +1,6 @@
+FECHA: NOVIEMBRE 14/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OSCAR MONTOYA.
+
+Se realiza inspección, limpieza y mantenimiento al tablero +TCD, a las acometidas de las motobombas y a los motores. A estos se les midió la resistencia de aislamiento y se llenaron registros con estos datos.
+Trabajo ejecutado por: Oscar Montoya, Luis Pacheco
+
+XE: VERIFICAR Y MEDIR EQUIPO HIDRAULICO DESCARGA DE LA UNIDAD

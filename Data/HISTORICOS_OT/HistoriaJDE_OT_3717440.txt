@@ -1,0 +1,3 @@
+El cojinete de turbina de la unidad 2 de Guadalupe 3 presenta bajo nivel de aceite 0.4 bar de presión. 
+
+Esta ot se atiende en el aplicativo de Maximo.

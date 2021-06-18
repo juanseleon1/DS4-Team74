@@ -1,0 +1,4 @@
+
+DICIEMBRE 24/2018 OT: 3797088  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+En la noche anterior el aerogenerador se falló por alta temperatura aceite caja multiplicadora y bimetálico, aun con la temperatura baja la alarma no borraba, se inspecciona el estado de las conexiones del módulo 7,9 que es al cual corresponde la falla del bimetálico, se encuentra un poco suelto el conector del punto 4, se introduce y se asegura con cinta, la alarma borra y se deja en servicio.

@@ -1,0 +1,4 @@
+Verificar falla del AVR1 de la unidad.
+
+
+cerrada por realizarse esta actividad en una OT de mantenimiento semestral

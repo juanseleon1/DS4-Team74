@@ -1,0 +1,4 @@
+EJECUTANTE:LUIS EDUARDO ARCILA
+FECHA: 6 DE JUNIO DE 2017
+Se realiza mantenimiento al tablero de control.
+Se verifica transferencia de circuito, quedando en condiciones normales de operación.

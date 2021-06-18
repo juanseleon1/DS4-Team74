@@ -1,0 +1,13 @@
+CAMBIAR Y REUBICAR EL SENSOR DE NIVEL DE ECEITE DEL COJINETE DE TURBINA DEBIDO A QUE ACTUALMENTE LA MEDIDA NO ES CONFIABLE CUANDO LA UNIDAD ESTÁ OPERANDO. SE DEBE REUBICAR EL NUEVO SENSOR EN LA MISMA POSICIÓN QUE SE ENCUENTRA INSTALADO EN LA UNIDAD 1 Y 2.
+
+19/04/2017
+Se procede a reubicar el sensor, se normaliza y se le realizan pruebas encontrándose error en la escalizacion del canal del plc, ya que esta en:
+4ma= -984mm 
+20ma= 864mm
+Y el instrumento está escalizado así:
+4ma = 0mm
+20ma = 1000mm.
+Como se puede ver las escalizaciones no son compatibles, por esta razón la medida no va a ser real hasta que se corrija esto. 
+Al sensor de nivel se le aumenta la capacitancia para eliminar interferencias de la máquina y queda operando bien. 
+
+Néstor Fabián Ochoa. 

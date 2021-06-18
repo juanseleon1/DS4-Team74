@@ -1,0 +1,8 @@
+
+NOVIEMBRE 20/2017. SE PIERDEN LAS SEÑALES EN EL SISTEMA SCADA.INF. LUIS FERNANDO CASTRILLON
+
+
+NOVIEMBRE 20/2017 Cesar Tulio / Luis Eduardo Arcila OT 3647520
+
+Falla en controlador error 88, tarjeta DSPC172 no se cuenta repuesto en el almacén.
+se realiza compra de esta tarjeta con el proveedor RPM, en espera del repuesto.

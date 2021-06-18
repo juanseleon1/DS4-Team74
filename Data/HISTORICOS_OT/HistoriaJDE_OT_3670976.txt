@@ -1,0 +1,32 @@
+2018/01/13 RUBEN ARBOLEDA OT: 3670976
+Se crea la OT para realizar: 
+Calibración de transductores
+Recorrido de las 4 agujas en vacio
+Recorrido de las 4 agujas con agua
+
+ verificar especialmente recorrido inyector 4 el cual no responde a las ordenes de apertura .
+
+este trabajo lo va a realizar 
+
+jaime ramirez , jorge duque , leonel alzate 
+
+supervisa 
+
+jaime a ramirez 
+
+
+notas : 
+
+se realizaron las pruebas de movimiento de agujas en vacio y todas respondieron  sin ninguna novedad ,  luego  se iniciaron pruebas con el caracol presurizado y la aguja numero 4 no responde a ninguna orden de apertura  ni en manual  tampoco desde el computador ,  se hace el cambio por otra valvula moog  y sigue la misma condicion , se verifico con otra valvula moog recien calibrada en banco y tampoco responde.
+
+se decide abrir el recinrto de turbina , para tratar de observar cual es la causa de este problema, pensando que al inyector le este entrandioa agua por alguna cavitacion en su cuerpo , pero al retirar los tapones de las camaras de aceite se observa poca salida de agua. 
+
+se decide hacer otra prueba metiendole aire por la camara de apertura  para verificar su recorrido  de forma manual  y descartar cualquier causa mecanica que este obstruyendo el movimiento , pero para hecer esta prueba se necesita que el caracol este sin agua , pero no pudimos lograr estanqueidad en los sellos de la valvula esferica entoces abortamos esta prueba  y decidimos cerrar el recinto porque se corria muchos riesgos estar alli con el acracol en esas condiciones .
+
+atravez del ingeniero cesar y el centro de control , se toma la decicion de trabajar esta unidad con dos agujas mientras se define  la ruta a seguir .
+
+jaime alberto ramirez 
+
+
+2018-01-13 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3670976, PASO:1          
+Se realizó apoyo al grupo de amnteimeinto mecánico en la revisión del inyector numero 4, se realizó varios cambios de las valvulas MOOG, pero el inyector no respondió a la apertura, se intentó realizar una inspección pero no fuie posible debido a la no aplicación de sellos aguas arriba y aguas abajo de la valvula esférica, se debe cambiar el inyector.

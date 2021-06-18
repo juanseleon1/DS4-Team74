@@ -1,0 +1,4 @@
+
+NOVIEMBRE 18/2018 OT: 3785509  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO, PEDRO ROBAYO 
+
+Se presentan paros por corrientes asimétricas, se realiza prueba de condensadores y se encuentran con fallas todos, se cambian 6 capacitores, se da prueba y se encuentran bien, se deja en servicio el aerogenerador.

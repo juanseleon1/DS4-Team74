@@ -1,0 +1,6 @@
+
+FECHA: DICIEMBRE 17 DE 2014
+
+RESPONSABLE: PEDRO ROBAYO, ELIECER PUSHAINA, ALVARITO PUSHAINA Y ELISAUL FUENTES
+
+Se realiza el cambio de las secciones de freno de la Yaw, además se cambian las pastas pero son de las que se han retirado de otros aerogeneradores. También se normaliza el conector del sensor de nivel y se conecta nuevamente.

@@ -1,0 +1,9 @@
+
+
+
+COMPROBACION FUNCIONAL
+ACTIVIDAD:
+
+ 2018/11/08 OT: 3779249  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO Y DANY SANTAMARIA
+
+Se verifica el correcto funcionamiento del sistema.

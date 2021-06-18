@@ -1,0 +1,5 @@
+2018/08/28 RUBEN ARBOLEDA
+OT creada para realizar mantenimiento preventivo a la motobomba
+
+2018-08-28 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3759577, PASO:1          
+Se realizó mantenimiento al motor de motobomba 1 regulador u6 gt    CORRIENTE: R:8,3, S:8,6, T:8,1, VOLTAJES RS:448, ST:451, TR:452,AISLAMIENTO DE MOTOR: 181,4 M 

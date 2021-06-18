@@ -1,0 +1,27 @@
+12/09/2017 CARLOS PALACIO: SE GENERA ESTA OT PARA LA EJECUCION DE PRUEBAS ELECTRICAS PREDICTIVAS EN ESTE TRANSFORMADOR.
+
+17/09/2017
+
+MANTENIMIENTO PREVENTIVO ANUAL.
+Se realizaron las siguientes actividades.
+
+ Se desconecto lado de alta y de baja para realizar pruebas electricas.
+ Se revisan posibles fugas. 
+ Se reapretan flanches para eliminar posibles fugas.
+ Se revisan el tanque de expansion, valvula de sobrepresion, rele de BUCHHOLZ.
+ Se ajustan todos los puntos de conexion de control y de potencia.
+
+Tambien se realizaron las siguientes pruebas electricas con personal de la unidad de operacion y mantenimiento (Carlos Palacio-Gabriel Santiago).
+
+- SFRA
+- Espectrocopia Dielectrica
+- Factor De Potencia
+- Relacion De Transformacion
+- Reactancia De Dispersion 
+- Resistencia De Devanados
+- Indice De Polarizacion
+
+Nota: Se conecta de nuevo el lado de alta y de baja, verificando los ajustes para evitar puntos calientes. 
+
+Ejecuto: Mateo Perez-Luis Correa-Jorge Echeverry-Tatiana Almario
+Programo: Carlos Andres Forero 

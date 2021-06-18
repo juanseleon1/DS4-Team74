@@ -1,0 +1,8 @@
+REFERENTE AL COJINETE DE TURBINA UNIDAD # 3:
+el sensor tiene perdida momentanea de señal, lo cual ocaciona la perdida condiciones de arranque de la unidad. 
+este evento se viene presentando repetidamente. 
+
+2015/12/15_ CARLOS ENRIQUE MONCADA.
+SE REVISAN LAS RTDs DEL COJINETE DE TURBINA, SE ENCUENTRAN EN ESTADO NORMAL. SE DAN CONDICIONES DE ARRANQUE A LA UNIDAD 3.
+
+

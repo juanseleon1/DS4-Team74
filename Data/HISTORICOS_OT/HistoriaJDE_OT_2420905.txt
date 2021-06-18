@@ -1,0 +1,18 @@
+NOV 21/2013 OT: 2420905 PROGRAMÓ: Javier Giraldo EJECUTÓ: Geovanny Echeverri.
+Fue realizado mantenimiento general y las pruebas eléctricas a los motores.
+
+Realizar mantenimiento general a los motores:
+
+- Motores filtros grueso 1, 2
+- Motores filtro fino 1, 2
+- Motovalvula de refrigeración.
+- Motovalvulas foso 1, 2
+- Motobomba lubricación cojinetes 1.
+- Motobomba lubricación cojinetes 2.
+- Compresor regulador 1.
+- Compresor regulador 2.
+- Motobomba regulador 1.
+- Motobomba regulador 2.
+- Motobomba fuga de aceite.
+- Motobomba foso drenaje 1.
+- Motobomba foso drenaje 1.

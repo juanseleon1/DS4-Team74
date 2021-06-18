@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Ronal Arango.
+Se realiza inspección y mantenimiento a mallas separadoras del barraje, baquelitas separadoras de barras, conexiones entre barras y estado del aislamiento, también se revisan el estado de los CT´s, de sus conexiones eléctricas en el tablero +CCCTS.
+
+XE: LIMPIAR E INSPECCIONAR BARRAJE ESTATOR GENERADOR UNIDAD

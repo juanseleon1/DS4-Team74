@@ -1,0 +1,2 @@
+2014/12/16 FABIO HERRERA, HUMBERTO FLOR
+Se realiza limpieza del interruptor de potencia de esta unidad, se verifican posibles fugas y se deja en condiciones normales de operación.

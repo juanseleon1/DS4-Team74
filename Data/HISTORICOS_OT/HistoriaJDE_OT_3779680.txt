@@ -1,0 +1,24 @@
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779680.
+
+Se realiza mantenimiento general, limpieza y verificación al cableado asociados al TCCS, todo se encuentra dentro de los parámetros normales y operativos.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Valores Medidas Fuentes:
+
+Ps-01>Vin=120.4 V    Vout=24.6 V
+Ps-02>Vin=120.3 V    Vout=24.6 V
+Ps-03>Vin= 24.5 V     Vout=24.3V
+Ps-04>Vin=120.3 V    Vout=24.5V
+Ps-05>Vin=120.3V    Vout=24.5V
+Ps-06>Vin= 24.4 V     Vout=24.2V
+
+Realizó: Neiro Fabián Pérez, Julio Cesar Parra, Ivan Darío Cano.
+
+
+
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779680.
+OT programada para el mantenimiento TCCS U1 P3.
+
+
+XL: VERIFICAR Y LIMPIAR CONTROL CIRCULACION TCCS COJINETE SUPERIOR DE LA UNIDAD

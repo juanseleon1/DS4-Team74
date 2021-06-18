@@ -1,0 +1,8 @@
+2015/09/07 EDGAR BARRERA
+ARRANCA BIEN A LLENAR COMBUSTIBLE EN UN CUARTO DE TANQUE PERO PARA EN MEDIO TANQUE, NUCNCA LLENA Y VARIAS VECES SE QUEDA SUICHEANDO EN MEDIO TANQUE.
+
+2015/09/16 PROGRAMO MAURICIO QUIJANO
+Se habilita el control de nivel de la planta diésel de 75 KVA, Este solamente llenaba el tanque hasta el nivel de 1/2,  se encuentra el microsuiche del nivel alto dañado, se revisa y se repara, se deja trabajando el control, se van a conseguir los microsuiches nuevos para cambiarlos. Se entrega el trabajo a Alejandro Vergara.
+El tanque queda en nivel alto este paro con el control, para que actúe la electro válvula el nivel debe bajar hasta menos de ¼ en el indicador.
+
+

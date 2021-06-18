@@ -1,0 +1,5 @@
+NOV 1 DE 2017    PROGRAMÓ: JGUINGUL     EJECUTARON: ALEXANDER VILLA 
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se verifica activación Alarma y Disparo.
+
+Temperaturas de: Núcleo Estator U2 S1Equipo 95 100Temperatura 1 94.8 99.5Temperatura 2 93.6 98.5Temperatura 3 94.6 99.5Valor programado Alarma:95°C OKValor programado Disparo:100°C OKComentarios:Sin novedades Temperaturas de: Devanado Estator U2 S1 Equipo 95°C 100°CFase R 94.5°C 99.4°CFase S 93.8°C 98.6°CFase T 94.1°C 99.0°CValor programado Alarma:95°C  OKValor programado Disparo:100°C OKComentarios:Sin novedades 

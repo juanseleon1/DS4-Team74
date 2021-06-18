@@ -1,0 +1,53 @@
+HEILER PALACIO 
+5/11/2016
+
+No arranca, ni en manual ni en automatico.
+2016/11/06 ANGEL ADONIS CADAVID OCHOA
+SE ASIGNA SOLICITUD AL EQUIPO ELECTRICISTA, 
+
+2016-11-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3304533, PASO:1          
+Se realizó revisión de la UMA 4, se realizó medida de aislamiento al motor y a la acometida con los siguientes resultados: 
+MOTOR:
+FASE R: 69,9 G
+FASE S: 40,6 G
+FASE T: 28,8 GG
+ACOMETIDA: 
+FASE R: 2,62 G
+FASE S: 3,03 G
+FASE T: 2,40 G
+Se realizó revisión del motor y se evidenció un fallo, la bornera y los cables hacia el motor se quemaron, es necesario desmontar y enviar a reparar.
+
+2016-11-11 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3304533, PASO:2          
+Se realizó el desmonte del motor de la UMA 4, se dejó en el taller electricista de Casa de Máquinas para enviar a cotizar reparación
+
+2017-02-15 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3304533, PASO:3          
+Se realizó la instalación del motor de la UMA 4, se realizó prueba de arranque en vacío y respondió normalmente, se realizó medida de aislamiento y registró: 25Mohm, queda pendiente por parte del grupo de mantenimiento mecánico realizar el montaje de las bandas y la alineación.
+
+2017/03/28 RUBEN ARBOLEDA
+Se cierra la OT, se hace un mantenimiento en la OT: 3327400HEILER PALACIO 
+5/11/2016
+
+No arranca, ni en manual ni en automatico.
+2016/11/06 ANGEL ADONIS CADAVID OCHOA
+SE ASIGNA SOLICITUD AL EQUIPO ELECTRICISTA, 
+
+2016-11-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3304533, PASO:1          
+Se realizó revisión de la UMA 4, se realizó medida de aislamiento al motor y a la acometida con los siguientes resultados: 
+MOTOR:
+FASE R: 69,9 G
+FASE S: 40,6 G
+FASE T: 28,8 GG
+ACOMETIDA: 
+FASE R: 2,62 G
+FASE S: 3,03 G
+FASE T: 2,40 G
+Se realizó revisión del motor y se evidenció un fallo, la bornera y los cables hacia el motor se quemaron, es necesario desmontar y enviar a reparar.
+
+2016-11-11 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3304533, PASO:2          
+Se realizó el desmonte del motor de la UMA 4, se dejó en el taller electricista de Casa de Máquinas para enviar a cotizar reparación
+
+2017-02-15 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3304533, PASO:3          
+Se realizó la instalación del motor de la UMA 4, se realizó prueba de arranque en vacío y respondió normalmente, se realizó medida de aislamiento y registró: 25Mohm, queda pendiente por parte del grupo de mantenimiento mecánico realizar el montaje de las bandas y la alineación.
+
+2017/03/28 RUBEN ARBOLEDA
+Se cierra la OT, se hace un mantenimiento en la OT: 3327400

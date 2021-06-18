@@ -1,0 +1,7 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 02-04-2019
+Tipo de mantenimiento: Preventivo
+Desmonte de equipos o estación
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estacion, se bajan datos, limpieza general de la estacion.
+Verificación de sistema de transmisión,  Análisis de datos de estado del datalogger y transmisor, y calibracion Pvm

@@ -1,0 +1,12 @@
+Planeador:                      Manuel Giraldo.
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              21/12/2017
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de transmisión
+              Verificación de los caudales
+              Cambio de cristales en las dos etapas

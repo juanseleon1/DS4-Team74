@@ -1,0 +1,9 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud:02 feb 2017
+Tipo de mantenimiento: (correctivo) 
+Realizar las siguientes acciones de mantenimiento correctivo:
+ Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de transmisión
+ Reparación sistema de potencia 
+              Reparación sistema de alimentación

@@ -1,0 +1,14 @@
+fecha:23/07/2018 ot: 3746817 PROGRAMÓ: R JIMENEZejecutó: jhonatan arango
+Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación, no se realiza losm demas pasos del instructivo ya que lo hace el contratista resposable del contrato de mantenimiento del los sistemas del aire acondicionado
+motor bomba # 1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S464R221R15.8R 0.477 505S - T463S212S16.2S0.497 505T - R460T205T15.2T 0.507 505
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

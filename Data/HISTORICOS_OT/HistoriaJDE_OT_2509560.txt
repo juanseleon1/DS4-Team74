@@ -1,0 +1,11 @@
+15/04/2014
+
+falla la IHM del TCCCU3 se encuentra apagada y el breaker disparado.
+
+15/04/2014
+
+En la IHM del TCCCU3 se encuentra apagada la IHM y el mini breaker disparado, se reemplaza la  fuente de alimentacion por encontarse en corto circuito y se realiza mantenimiento de esta IHM, ademas de pruebas en su funcionamiento normalizando la comunicacion y ejecucion del programa.
+
+Realizado Por Wtobonl
+
+Terminada Cerrar

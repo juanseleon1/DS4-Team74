@@ -1,0 +1,7 @@
+2018/10/16 DIEGO BEDOYA
+Se realiza el desarme de turbina, hasta llegar al cojinete para hacer el lavado del intercambiador, la tubería y la cuba.
+se hace el desacople del rotor para su extracción.
+
+SE DEJA ESTA OBSERVACION DEL ULTIMO DESARME PARA TENER REFERENCIA.
+NOVIEMBRE 26 DE 2014 DIEGO BEDOYA
+Se realiza el armado de la turbina, se hace el acople del rotor con el eje de turbina y se le da torque a los tornillos. (a los tornillos se le realiza el torque con el rachet S11000 traido de la termosierra, y se dejan con un torque de 8250 lb/pie).  Para realizar este torque con el equipo fue necesario calibrar la bomba a 7500 PSI.

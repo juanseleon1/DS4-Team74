@@ -1,0 +1,6 @@
+FECHA: 12/07/2018 SOLICITADO POR: Mario Zapata - Operación Troneras
+DESCRIPCIÓN: Transformador fase R, no está funcionando un ventilador.
+JULIO 12 DE 2018
+Referente al motor del ventilador # 1 de la fase R banco de trafos de troneras, se encontró el motor ventilador frenado y con el térmico Q11 disparado por sobre corriente, se procede a cambia el motor por otro de repuesto, se verifican corrientes de arranque y de trabajo operando correctamente dentro de los parámetros de placa del motor..
+Realizó: Grupo eléctrico.
+Informó: William Lopera. 

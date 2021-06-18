@@ -1,0 +1,8 @@
+MARZO 7 DE 2019  OT:3814431 PROGRAMADOR : JBECERF  EJECUTO: ANDRES YEPES
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, ACTIVACIÓN DE ALARMA Y DISPARO.
+
+
+Temperaturas de: Cojinete lado GeneradorEquipo 30C 60°C 90°C 120°CS44 (Radial) 30.4 60.5 90.5 120.4Valor programado Alarma:75°CValor programado Disparo:80°CComentarios:Sin novedades
+Temperaturas de: CojinetesEquipo 30C 60°C 90°C 120°CTemperatura Aceite 30.7 60.5 90.4 120.5Valor programado Alarma:70°CValor programado Disparo:75°CComentarios:Sin novedades
+
+

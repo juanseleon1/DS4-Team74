@@ -1,0 +1,26 @@
+TE: BLOQUEOS ELECTROMECANICOS UNIDAD GENERACION P2
+
+OT: 3623337   FECHA: 11-10-2017  PROGRAMÓ: CRISTIAN GÓMEZ EJECUTÓ: SANTIAGO RAMIREZ
+AL INICIAR LA CONSIGNACIÓN DE MANTENIMIENTO (27-09-2017), EL INGENIERO ENCARGADO DEL MANTENIMIENTO Y EL PERSONAL DE OPERACIÓN, REALIZAN LOS RESPECTIVOS BLOQUEOS DE LOS SISTEMAS ELECTRO-MECANICOS. UNA VEZ FINALIZADOS TODOS LOS TRABBAJOS (11-10-2017), SE REALIZAN LOS DESBLOQUES Y SE BUSCAN CONDICIONES DE GIRO. INSTRUCTIVO DE MANTENIMIENTO GCP2E0011.
+
+Referente a la unidad 3
+
+Las variables críticas del sello de turbina y del cojinete de turbina durante este tiempo fueron las siguientes:
+
+ Temperatura sello turbina: 25°C (Alarma: 35°C, Disparo: 40°C)
+ Presión de inyección sello (IQ1): 2.5bar
+ Presión entrada filtro: 4.1 bar
+ Presión salida filtro: 4 bar
+ Temperatura aceite cojinete: 55°C (Alarma: 70°C, Disparo: 75°C)
+ Temperatura metal 1: 56°C (Alarma: 73°C, Disparo: 83°C)
+ Temperatura metal 2: 57°C (Alarma: 73°C, Disparo: 83°C)
+
+La fuga de agua que se alcanza a observar por la escotilla del sello de turbina es tolerable y se espera disminuya con el tiempo dado el correcto asentamiento del sello.
+En la secuencia de paro, se probó el disparo por ausencia de presión de circulación de aceite en el cojinete (Presóstato PO).
+Se solicita declarar disponible la unidad 3 a partir del periodo 1 del 12 de octubre.
+Nota:  La central Porce 2 se solicitó en pruebas el 12 de octubre los periodos 1 a 12 para evaluar desempeño a diferentes potencias del sello de turbina.
+
+Ejecutan: Equipo de mantenimiento y operación de la unidad operaciones Porce.
+Líderes: Francis Londoño, Juan Gilberto Tobón, Carlos Moncada, Néstor Ochoa, Walter Tobón, Cristian Gómez, Richard Jiménez.
+Jefes de trabajo: Santiago Ramírez y Renato Montoya.
+Informan: Renato Montoya, Jorge Rodriguez y Santiago Ramírez.

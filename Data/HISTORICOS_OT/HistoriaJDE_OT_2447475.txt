@@ -1,0 +1,20 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+NOTA: PARA LAS MEDIDAS, FAVOR UBICAR A LOS SUPERVISORES ELECTRICISTAS DE LA PLANTA
+
+FAVOR DOCUMENTAR LOS REGISTROS, TAMBIEN EN LA OT.
+
+Se realizo inspeccion al tablero de control y de potencia del cojinete combinado de la unidad 2.
+
+una de las motobombas se encuentra en mantenimiento, por problemas en el sello mecanico el grupo de mantentimiento estan interviniendo esta bomba, se encuentra fuera de servicio dicha bomba.
+
+Realizo: Osbaldo Lopera y Arley Baena.
+
+
+

@@ -1,0 +1,13 @@
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD
+
+------------------
+
+FECHA: 2014-06-02
+
+EJECUTÓ: OLGA VIANA - JULIAN GIRALDO
+
+Se realiza Mantenimiento al transformador de excitación, interruptor de campo, tablero convertidor 1 y 2, y a las celdas auxiliares de potencia. También al banco de tiristores y los ventiladores de enfriamiento. Según IDM: GCP3E0001. Los equipos no poseen averías ni daños graves. Una vez terminado el procedimiento, normaliza el sistema quedando en condiciones normales de operación.  
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+---------------------------

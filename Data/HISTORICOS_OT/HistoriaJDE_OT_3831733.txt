@@ -1,0 +1,10 @@
+Solicitante-Planeador: 856921
+Aprobador:355694
+Fecha de solicitud:29/04/2019
+Tipo de mantenimiento: ( Correctivo)
+Acciones de mantenimiento: 
+                Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+                Reparación sistema de datalogger
+                Reparación sistema de comunicaciones
+                
+

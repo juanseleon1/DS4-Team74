@@ -1,0 +1,7 @@
+JULIO  31 DE 2017     OT NÚMERO: 3527791    PROGRAMÓ: JGUINGUL     EJECUTARON: ANDRÉS YEPES Y ALEXANDER VILLA
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de: Cojinete Excitación U2 S1Equipo 40°C 60°C 80°CTemperatura metal 38.84 58.83 78.82Temperatura Aceite 39.06 59.05 79.14Valor programado Alarma:Metal: 75°C / Aceite: 60°CValor programado Disparo:Metal: 80°C / Aceite: 65°CComentarios:Sin novedades 
+
+
+

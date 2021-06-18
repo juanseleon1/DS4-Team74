@@ -1,0 +1,11 @@
+2018/07/18 RUBEN ARBOLEDA
+En la OT: 3717603 se evidencó punto caliente a la salida del interruptor, se crea esta OT para realizar correctivo y seguimiento.
+
+2018-07-18 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3747226, PASO:1          
+Se realizó mantenimiento correctivo a la salida del interruptor del ventilador S9, se deja en observación.
+
+2018-07-21 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3747226, PASO:2          
+Se realiza revisión de punto caliente a la salida del interruptor de potencia del ventilador S9, se encuentra en condiciones normales. No ha sido posible realizar informes termografica debido a falla en el sistema operativo del computador industrial Panasonic.
+
+2018-07-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3747226, PASO:3         
+ Se realizó informe termográfico al ventilado S9, se anexa a la OT.

@@ -1,0 +1,15 @@
+
+PLANEADOR: RENATO MONTOYA
+PROGRAMADOR: CARLOS USUGA
+FECHA: 22/07/2018
+
+Operacion turno 1, reporta cambio de prioridad del Filtro 2 al Filtro 1 por encontrarse fallado, con una presión diferencial de 0.95 Bar y una presión de succión de la bomba de 1,6 Bar.
+*******************************************************************************************************************
+FAVOR VERIFICAR, REVIZAR Y LAVAR FILTRO, DEJARLO EN OPTIMAS CONDICIONES DE TRABAJO Y DISPONIBLE PARA EL PROCESO.
+*******************************************************************************************************************
+SE BLOQUE EL FILTRO POR PARTE DE OPERACION (TURNO 2), SE DESMONTA EL MOTOR, SE SACA EL FILTRO ENCONTRANDOSE SUCIO, SE LAVA EL FILTRO, SE MONTA NUEVAMENTE Y SE ENTREGA A OPERACION PARA NORMALIZAR SISTEMA. EL FILTRO QUEDA EN OPTIMAS CONDICIONES DE TRABAJO Y DISPONIBLE PARA EL PROCESO.
+
+
+EJECUTO: FERNANDO DELGADO, CARLOS VALDES, CARLOS USUGA, JORGE PEÑARANDA (BLOQUEO Y DESBLOQUEO)
+
+INFORMA: CARLOS USUGA

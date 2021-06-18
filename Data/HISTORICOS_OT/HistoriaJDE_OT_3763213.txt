@@ -1,0 +1,6 @@
+FECHA: 07/09/2018
+SOLICITANTE: FERNANDO YEPES, WALTER BAENA, JULIAN MORALES
+
+REVISAR LA MOTOBOMBA DE REFRIGERACION DE LA UNIDAD G41 POR BAJA PRESION DE AGUA. LA PRESION NORMAL DE ESTA MOTOBOMBA ES DE 1.6 BAR Y ESTA EN 1.1 BAR.
+
+Nota: Se para la motobomba y se arranca de nuevo mejorando la presion, es necesario programar el lavado del pozo de refrigeracion

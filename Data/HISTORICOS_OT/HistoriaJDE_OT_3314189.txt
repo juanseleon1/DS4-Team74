@@ -1,0 +1,8 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: NOVIEMBRE 15-2016
+EJECUTANTE: PEDRO ROBAYO
+
+
+Se hace cambio del rele 19B1 para descartar problema que tenemos por diferencial de corriente y en este momento lleva 30 horas el AG5 sin sacar la alarma de diferencial de corriente. 
+
+NOTA  EL MODULO NO FUE SACADO DEL ALMACEN PORQUE EL PROBLEMA CONTINUA 

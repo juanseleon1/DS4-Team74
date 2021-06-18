@@ -1,0 +1,19 @@
+2016-03-23 REALIZÓ: GIOVANNY DIAZ  - JUAN DAVID GARCIA, OT: 3131563
+FASE 1 MINUTO 10 MINUTOS IP X1 X2
+R 3,49 G 21,3 G 6,01 7,66 m 7,67 m
+S 2,88 G 16,5 G 5,81 7,62 m 7,79 m
+T 2,80 G 16,5 G 5,89 7,73 m 7,65m
+
+
+TEMPERATURA °C
+31,4
+HUMEDAD %
+42,3
+No se realizó medida del DAR
+
+2016/06/01 GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE) - SERGIO OLIVARES OT: 3131563
+IP GENERAL
+30 SEGUNDOS 1 MINUTO 10 MINUTOS DAR IP
+8,1 M 10,1M 19,46 M 1,29 1,85
+
+Se desarmó el barraje de salida y se realizó medida de aislamiento, se evidenció bajo aislamiento en la fase S hacia el barraje de salida, se hace OT: 3147589 para realizar revision. 

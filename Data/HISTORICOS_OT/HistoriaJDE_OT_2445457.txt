@@ -1,0 +1,12 @@
+DICIEMBRE 27/2013
+
+WX: REVIZAR TRANSMISOR DE PRESION AGUAS ARRIBA DE LA VALVULA DE ADMISION UNIDAD 2 DE PORCE 2.
+
+NOTA Se cambio transmisor de presión IT correspondiente a presión aguas arriba (control válvula de admisión), por presentar oscilación en la medida de control. Se le dio un giro a la unidad con el fin de comparar las medidas de presión tanto aguas arriba como aguas abajo y se comporto satisfactoriamente.
+Se normaliza la unidad y quedo con condiciones de arranque, con una medida de presión aguas arriba de 23.36 bar.
+
+Realizo: Uaimer Díaz  -- William Lopera - operación Porce II.
+Informo: Uaimer Díaz  -- William Lopera
+
+18/04/2016 Informan: Esteban Vásquez, Yofred Rodríguez, Bianey Bravo.
+OT Cerrada.

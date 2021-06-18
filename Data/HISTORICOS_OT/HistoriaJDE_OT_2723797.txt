@@ -1,0 +1,12 @@
+2015/03/23 MARIO RESTREPO - FERNANDO RUIZ
+Se solicito una caneca de aceite al almacén, se relizo prueba de rigidez dielectrica con resultado superior a 30Kv en 2.54mm, el aceite restante se adiciono así: 
+5 galones Banco 1 Fase R
+7 galones Banco 1 Fase S
+6 galones Banco 1 Fase T
+2 galones Banco 2 Fase R
+5 galones Banco 2 Fase S
+27 galones Banco 2 Fase T, ESTABA CON NIVEL 0.2, a una temperatura de 30°C, deacuerdo a la temperatura el nivel optimo es 5(aprox).
+
+2015/03/27-28 MARIO RESTREPO - SEBASTIAN HINCAPIE - EDWAR LONDOÑO
+Se relaizó la revision de los niveles de aceite de II etapa, se adicionó cerca de 50 galones de aceite al banco 3 fase T en la cuba, se llevo el nivel hasta 6.9 segun grafico de termperatura. 
+Los demás niveles estaban en condiciones normales. 

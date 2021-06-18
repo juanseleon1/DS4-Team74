@@ -1,0 +1,5 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+2015/05/30 RUBEN ARBOLEDA CANCELACION DE OT
+Esta ot no se realizó a causa de indisponibilidad por parte del grupo de mantenimeinto mecanico, posteriormente se realizó el montaje de una motobomba nueva OT: 2653323, adicionalmente salio para mantenimiento predictivo la OT: 2771449. 
+
+No fue posible realizar la cancelación de la OT, por lo tanto se cierra sin costos.

@@ -1,0 +1,8 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-10-01
+OT PARA REALIZAR EL PRETENSADO DE LOS ALABES MÓVILES DISTRIBUIDOR
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-10-12
+Se realiza pretensado de álabes móviles del distribuidor con el tirfor y los servomotores realizando bloqueos con los cerrojos hidráulicos y ajustando los pasadores excéntricos de las bielas del anillo distribuidor. Se cambia válvula de purga de aceite del tanque aire-aceite acumulador por presentar fuga. En el calibrado de los álabes móviles del distribuidor al interior del caracol quedan todos cerrados.
+
+
+

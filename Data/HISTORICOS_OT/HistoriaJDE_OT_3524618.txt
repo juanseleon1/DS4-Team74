@@ -1,0 +1,21 @@
+
+
+29/06/2017. SERGIO OLIVARES D. -  EJECUTORES: GIOVANNY DÍAZ -- FERNANDO RUIZ A - ANDRES ZAPATA V.             EMILIO PAMPLONA - RODOLFO GARCES
+
+ La motobomba se recibio impregnada de hollín,aceite y agua, con un aislamiento en cero. Se desarmo, se petrolizo, y se  horneo el estator durante 14 horas a 50°C para secar la humedad.
+
+ Se armo de nuevo, con cambió balineras, y cambio de aceite de rodamiento axial superior.
+ Rodamiento axial superior: 7220 B
+ Rodamiento inferior: 6211 ZZ
+ Aceite Rodamiento Axila Superior: ISO VG32
+
+PRUEBA EN VACÍO MOTOBOMBA N°2:
+            CORRIENTE ARRANQUE: 413 AMPERIOS
+            CORRIENTE:  17.8 --   18.5  --  19.1  AMPERIOS  --- CORRIENTE NOMINAL: 70 AMPERIOS A 460 VAC
+            VOLTAJE:        RS: 486 --  RT: 477   -- ST: 479  VAC
+            AISLAMIENTO: 14 GIGA- OHMIOS
+
+ Se recibio el día 27 de junio a las 7:30 AM
+ Se entrego el día 28 de junio a las 4:00 PM.
+
+

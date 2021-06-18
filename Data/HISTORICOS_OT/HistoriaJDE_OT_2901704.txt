@@ -1,0 +1,8 @@
+
+FECHA: OCTUBRE 12 DE 2015  OT: 2901704
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Desde la noche anterior se presentó paro por bajo nivel aceite caja multiplicadora, el día de hoy se realiza inspección visual y no se encuentran fugas, el nivel de aceite XMP320 se encuentra bien, se revisa el conector del sensor de nivel y no se encuentra nada anormal, se arrancan las bombas y se deja en servicio el aerogenerador, se observa que al girar la yaw en ocasiones se alarma el sensor. Se deja en servicio el aerogenerador con la yaw en manual.

@@ -1,0 +1,7 @@
+2016-05-06. JUAN C DUARTE MUÑOZ.
+
+REVIZAR LA FALLA INTERNA PROTECCIÓN GENERADOR EN SACO. EN LA PP2 SEL300G NO APARECE EN SERVICIO Y, EN EL DISPLAY SE REGISTRA "VECTOR 160 RELAY DISABLED".
+
+
+2016/08/21,RUBEN ARBOLEDA - EJECUTADA POR MOTAJES
+Despues de la falla en los cables de potencia de la central guatapé, para la puesta en servicio de las unidades se realizó pruebas de todas las señales y cambio de algunos relés, esta OT la ejecutó Juan Carlos Ortíz con el personal destinado para la revision de todas las señales de casa de maquinas, ésta OT se cierra sin costos.

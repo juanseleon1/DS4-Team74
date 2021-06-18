@@ -1,0 +1,15 @@
+2015/09/18 RAMIRO TORRES
+Se le da paro al Chiller 1 por presentar alta temperatura a la salida de la Ipaa 1, en 45°c. También presenta oscilaciones en la potencia y regulaciones frecuentes.
+
+2015/09/18 ángel adonis Cadavid Ochoa, Giovanny DIAZ
+Se revisa inicialmente el funcionamiento del control, se evidencia paso de agua en la válvula intermedia, se procede a ajustar el límite para el cierre, queda funcionando normalmente.
+Se arranca nuevamente el sistema y se evidencia que las temperaturas del agua de salida hacia el Chiller continúan sobre 30°c, lo que puede indicar que las placas se encuentran sucias.
+Se informa al equipo mecánico para intervenir este equipo.
+2015/09/22 DIEGO BEDOYA
+Se realiza el lavado del intercambiador de placas Ipaa1, se deja chequeada y con el agua de servicio.
+este trabajo fue ejecutado por: Yesid Sanchez, Daniel López y Jaime Jaramillo  
+
+2015/10/29 RUBEN ARBOLEDA
+Se realizó adecuación de microsuiches, se instaló un bloque de contactos de la IPAA 2, se realizó pruebas y se dejó en funcionamiento normal, se realizó limpieza general. 
+Luis Eduardo Arcila queda pendiente de adquirir el michosuiche para repornerlo en la IPAA 2.
+trabajo ejecutado por: Jhonatán Usme - Edwin Arango (practicante) - Adonis Cadavid - Luis Eduardo Arcila - Giovanny Diaz - Rubén Arboleda

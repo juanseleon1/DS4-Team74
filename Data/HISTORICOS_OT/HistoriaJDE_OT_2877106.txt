@@ -1,0 +1,5 @@
+Septiembre 15/ 2015.  OT:2877106. PROGRAMO: CARLOS MONCADA. EJECUTO: JENIFFER GARCIA, ELADIO PIEDRAHITA
+
+Realizar verificación de los transductores del regulador de tensión.
+
+Se cambia transductor CA4 de potencia Activa de la unidad en el tablero de control de unidad.

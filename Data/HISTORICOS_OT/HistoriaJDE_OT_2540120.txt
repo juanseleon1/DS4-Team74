@@ -1,0 +1,9 @@
+Viernes mayo 30 de 2014
+Operación GlV
+Están saliendo repetidamente las alarmas: Temperatura aceite etapa - 1 Trafo 1 - 2, nivel aceite etapa 1 trafo 3 - 4, se revisó y se encontraron normales los niveles y las temperaturas del aceite en estos bancos.
+
+AGOSTO 12 DE 2014.
+
+Se realiza una inspección a los niveles de aceite y se encontraron normales, se realiza la verificación de la instrumentación, lazos de control encontrándose en condiciones normales.
+
+NOTA: Estas alarmas no volvieron a salir en el control.

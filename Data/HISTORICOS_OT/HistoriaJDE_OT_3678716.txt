@@ -1,0 +1,8 @@
+CL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+PLANEADORA:SANDRA CARMONA
+PROGRAMADOR: JOSÉ MONTOYA
+ASIGANADA A PLANEADOR: ENERO 30 DE 2018
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al sensor de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores de posición del distribuidor.
+Se realiza verificación de los mandos de apertura del distribuidor.

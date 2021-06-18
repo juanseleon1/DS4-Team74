@@ -1,0 +1,12 @@
+FECHA:12 DE JULIO DE 2018
+
+SOLICITANTES: GUSTAVO QUINTANA - GEOVANNY ECHEVERRI
+
+DESCRIPCION: DESPUES DEL SINCRONISMO EL TPU DE LA UNIDAD NO ESTA CONMUTANDO LOS SERVICIOS AUXILIARES DE LA PLANTA HACIA  LOS PROPIOS DE LA UNIDAD; LOS SERVICIOS DE LA MAQUINA QUEDAN TRABAJANDO POR LOS SERVICIOS AUXILIARES DE LA PLANTA.
+
+POR FAVOR ATENDER ESTA SOLICITUD.
+GRACIAS.
+
+OCTUBRE 4 DE 2018
+Se atendió en el mantenimiento anual de la unidad, se cambiaron lor relé K1, K2, K3, K4 Y K5, debido que estos relés presentan desgaste de laresistencia en sus contactos lo que ocacionaba falsas alarmas y bloqueo de las transferencias de servicios auxiliares 440 Vac.
+Informó: William Lopera.

@@ -1,0 +1,6 @@
+2018-05-19 REALIZÓ: DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: SOLIVARE OT: 3692826, PASO:1         
+Se inició con el mantenimiento preventivo a las baterías de las UPS C/M, se realizó medida de densidad y se adicionó un total de 22 litros de agua destilada, se deja reposar para luego realizar otra medida de densidad. 
+2018-05-21 REALIZÓ: FERNANDO ANTONIO RUIZ - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3692826, PASO:2          
+Se finalizó con la limpieza general a las baterías de la UPS /C/M, queda pendiente realizar medida de densidad.
+2018-05-23 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3692826, PASO:3          
+Se finalizó con la medida de densidad de las baterías de la UPS de C/M.

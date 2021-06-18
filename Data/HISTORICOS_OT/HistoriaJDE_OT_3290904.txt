@@ -1,0 +1,38 @@
+JHON MARIO PEREZ ARENAS. OCTUBRE 25 DE 2016
+
+POR OSCILACION DEL VOLTAJE EN EL SISTEMA (VOLTAJE BAJO) DE DIÓ DISPARO LA MOTOBOMBA PARA FLUJO ACEITE COJINETE SUPERIOR EN LA UNIDAD 5. SE REQUIERE DE AJUSTE DEL VOLTAJE PARA EVITAR SALIDAS FORZADAS DE ESTA UNIDAD. 
+
+27-10-16 CESAR HOYOS
+
+Se instalará el analizador de redes para realizar seguimiento a las variable eléctricas. 
+
+2016-11-01 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3290904, PASO:1          
+Se realizó el montaje del Analizador de redes para monitorear el comportamiento de las corrientes y voltajes a la salida del breaker de la motobomba 1, en el sistema de refrigeracion del cojinete superior unidad 5, queda en observacion y grabando.
+
+2016-11-18 GIOVANNY DIAZ - RUBEN ARBOLEDA
+No se evidenció falla en el sistema, se le informó al grupo de mantenimiento mecánico para su revision
+
+2017/02/23 RUBEN ARBOLEDA
+Se cierra la OT, no se ha vuelto a presentar el evento.
+
+2017/03/28. SERGIO OLIVARES D.
+Tambien se evidencio que el reductor de velocidad de la motobomba N°1 se encontraba un poco pegado, y se solicito a los mecanicos su revisón la cual fue atendida. No se volvio a presentar el evento.
+JHON MARIO PEREZ ARENAS. OCTUBRE 25 DE 2016
+
+POR OSCILACION DEL VOLTAJE EN EL SISTEMA (VOLTAJE BAJO) DE DIÓ DISPARO LA MOTOBOMBA PARA FLUJO ACEITE COJINETE SUPERIOR EN LA UNIDAD 5. SE REQUIERE DE AJUSTE DEL VOLTAJE PARA EVITAR SALIDAS FORZADAS DE ESTA UNIDAD. 
+
+27-10-16 CESAR HOYOS
+
+Se instalará el analizador de redes para realizar seguimiento a las variable eléctricas. 
+
+2016-11-01 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3290904, PASO:1          
+Se realizó el montaje del Analizador de redes para monitorear el comportamiento de las corrientes y voltajes a la salida del breaker de la motobomba 1, en el sistema de refrigeracion del cojinete superior unidad 5, queda en observacion y grabando.
+
+2016-11-18 GIOVANNY DIAZ - RUBEN ARBOLEDA
+No se evidenció falla en el sistema, se le informó al grupo de mantenimiento mecánico para su revision
+
+2017/02/23 RUBEN ARBOLEDA
+Se cierra la OT, no se ha vuelto a presentar el evento.
+
+2017/03/28. SERGIO OLIVARES D.
+Tambien se evidencio que el reductor de velocidad de la motobomba N°1 se encontraba un poco pegado, y se solicito a los mecanicos su revisón la cual fue atendida. No se volvio a presentar el evento.

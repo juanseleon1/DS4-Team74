@@ -1,0 +1,4 @@
+2014/04/07
+Se realizó Limpieza al compresor, está pendiente realizar medida de variables
+Realizó: Oscar Giraldo - Sebastian Hincapie
+Planeó: Sergio Olivares

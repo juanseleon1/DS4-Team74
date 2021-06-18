@@ -1,0 +1,19 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+Se realizó medida de variables: 
+
+VOLTAJE: 
+RS: 463
+ST: 462
+TR: 460
+
+CORRIENTES: 
+R: 36
+S: 34 
+T: 34.7
+
+Temperatura máxima Motor: 66.2
+IMAGEN #: IR001221
+
+Realizó: Edwar Londoño - Oscar Giraldo
+Coordinó: Ruben Arboleda

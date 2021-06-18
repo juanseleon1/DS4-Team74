@@ -1,0 +1,7 @@
+FECHA : 04\ 15\ 2015 OT # 2720265,PROGRAMADOR : R JIMENEZ, EJECUTO : DAVISON PEREZ
+se realiza levantamiento  y verificacion de los diagramas unifilares de los servicios auxilares de la central, que corresponda con lo que hay instalado en la central.
+
+
+REALIZAR , VERIFICACION DEL DIAGRAMA UNIFILAR DE 480VAC, CASA DE MAQUINAS.
+
+FAVOR DOCUMENTAR LOS TRABAJOS.

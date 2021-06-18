@@ -1,0 +1,8 @@
+
+2017/08/09 Cesar Tulio / Luis E. Arcila OT 3563031
+
+Falla el controlador de la unidad 4 quedando en error 88
+se cambia tarjeta DSBC-73 y DSCA-140 quedando en condiciones normales. 
+
+
+

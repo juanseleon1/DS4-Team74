@@ -1,0 +1,7 @@
+
+FECHA: ABRIL 04 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presenta falla por comunicaciones y se inspecciona y se encuentra disparada el Mcb 104F1 disparado en la Top Box, se repone y se normaliza el aerogenerador.

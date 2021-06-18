@@ -1,0 +1,6 @@
+12/12/2018 - 9:20 am.
+Por sucesiva alarma por Nivel Alto en el cojinete Superior superando el progrmado de 300 mm se realiza modificación del setpoint hasta 305.
+
+Se solicita verificación de instrumento y su escalización.
+
+Realiza e informa Turno 3 - Mauricio Caicedo - Wilson Arango.

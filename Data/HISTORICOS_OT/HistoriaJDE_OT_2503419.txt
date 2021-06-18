@@ -1,0 +1,23 @@
+
+ABRIL 7 DE 2014 OT # 2503419, PROGRAMO R JIMENEZ, EJECUTO J ARANGO.
+ se encontró  suelto cable 27 del equipo AL02 X201 , que va del sincronizador de la unidad #1,se repone el cable, este cable correspondia a la unidad # 1, se le hace seguimiento con arranque en vacio hasta energizacion, y al momento de sincronozacion funcionando en condiciones normales
+
+
+FECHA: 05 ABRIL 2014
+
+SOLICITA: ING. HECTOR GÓMEZ
+
+TRABAJO A REALIZAR: SEGUN INFORME DIARIO DE OPERACIÓN DEL DÍA VIERNES 4 DE ABRIL, EN REVISIÓN DEL OPERADOR DE SUBESTACIÓN EL TABLÓN:
+
+Referente a la caseta 1 subestación tablón.
+
+Se encuentra falla en las medidas para la sincronización manual unidad # 2, (instrumentos afectados A/D03-A/D01-A/D02-F/D02)
+Tablero sincronizador de las unidades 1 y 2 selector (A/E02). 
+
+Se hace el seguimiento respectivo y se encuentra falta de voltaje 120 V que proviene del (-T03 transformador de (120v/ ? 3)/120V campo T2 fase S),
+No llega voltaje a los bornes 25 y 27 del selector (A/E02) se encuentra cable abierto el cual va desde el borne (S2- T03) hasta el borne (27-A/E02)
+no se realiza la reparación por estar las unidades trabajando, queda pendiente cambiar.
+
+NOTA: ESTA REVISION SE REALIZO  CON LAS UNIDADES PARADAS 
+
+REALIZO :WALTER NOE GOMEZ - ARLEY BAENA

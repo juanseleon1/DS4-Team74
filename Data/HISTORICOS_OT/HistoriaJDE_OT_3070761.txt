@@ -1,0 +1,19 @@
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+ABRIL 09 DE 2016
+
+SE REALIZA INSPECCIÓN DE LA FALLA EN LOS VARIADORES , PARA NORMALIZAR EL BOMBEO DE LOS COJINETES , EN LAS UNIDADES DE GENERACIÓN -GUADALUPE III.
+
+EL EVENTO NO PRODUJO DESVIACIÓN AL PROGRAMA DE GENERACIÓN.
+
+
+PROGRAMADOR:WILLIAM LOPERA 
+
+9/04/16 - 7:00 am
+En medio de tormenta se presentan fallas en Servicios Auxiliares de la Planta G3 por salida del Circuito 5103, al restablecer los servicios auxiliares quedan fallados los controles (Variadores ) de las Bombas de Cojinetes de la planta. 
+
+ABRIL 09 DE 2016
+Debido a falla en servicios Auxiliares de la Planta (R5103 ppal) y luego de normalizar este circuito quedaron alarmados los variadores de las Bombas de Cojinetes lo cual ocasiona disminución en el Nivel del tanque de refrigeración Cojinetes ante esta disminución y para prevenir calentamiento en los cojinetes de las Unidades de la Planta, fue necesario parar las 6 Unidades, se resetean los variadores  de las bombas de Cojinetes, se da rearranque a las 6 Unidades y se normaliza el Bombeo de Cojinetes.     Nota: Este evento no produjo desviación al programa de generación.
+
+William Lopera.

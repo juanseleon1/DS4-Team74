@@ -1,0 +1,5 @@
+Se realizó viaje hasta cámara de válvulas, se encontró que la válvula estaba abierta al 5%, se realizó desconexión de la bobina de disparo de la válvula mariposa (24 Voltios). 
+Se inicio con la verificación de las señales de los sensores, para lo cual se encotró en operación normal, se verificó los presostatos de las motobombas y las indicaciones de presión, se enocntró baja presión (2.8Kg), se busco información técnica para estableces condiciones de arranque de las motobombas, se encotró información en el plano 2403272a, en el cual se identificó que para operación normal de la válvula es necesario mantener la perilla b6 (Start, Stop) en posición Start correspondiente a la válvula mariposa en posición Abrir. 
+Realizó: 
+Juan David García - Oscar Alirio Giraldo - Rubén Darío Arboleda
+OT: 2427119

@@ -1,0 +1,31 @@
+2018/10/16 RUBEN ARBOLEDA
+Se crea OT para realizar el desarme y armado de la excitación de la U2 para montaje de sistema de vibraciones.
+
+201-10-16 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3775132, PASO:1
+ Se inició con el desarme de la excitación de la Unidad 2 para el montaje de sensores de vibración.
+
+201-10-16 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3775132, PASO:1,1
+ Se realizó apoyo en el desarme de la excitación de la Unidad 2 para el montaje de sensores de vibración.
+
+201-10-24 REALIZÓ: JHONATAN ANDRES USME - DANIEL ARANGO (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3775132, PASO:2
+ Se realizó el desarme de los porta escobillas de la Unidad 2, para realizar limpieza con hielo seco por parte del personal de la cuadrilla móvil, 
+
+201-11-20 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3775132, PASO:
+ Se realizó limpieza de los anillos rozantes de la Unidad 2, con liquido dieléctrico en la parte interna de los anillos rozantes y en la parte interna del eje.
+
+201-11-25 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3775132, PASO:4
+ Se inició con el montaje de los aislamientos en los porta escobillas de la Unidad 2
+
+201-11-26 REALIZÓ: JHONATAN ANDRES USME - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3775132, PASO:5
+ Se continuó con el cambio de aislamientos de los porta escobillas de la Unidad 2 y se realizó el cambio de 2 porta escobillas así: 
+Anillo Inferior: porta escobilla de 1 y 2
+Anillo Superior: Porta escobilla 1 y 2"
+
+201-11-26 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3775132, PASO:5,1
+ Se continuó con el cambio de aislamientos de los porta escobillas de la Unidad 2.
+
+201-12-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: FDIAZ OT: 3775132, PASO:6
+ Se continuó con el armado de la excitación de la Unidad 2.
+
+201-12-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: FDIAZ OT: 3775132, PASO:7
+ Se continuó con el armado de la excitación de la Unidad 2.

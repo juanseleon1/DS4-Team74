@@ -1,0 +1,17 @@
+FECHA: 18/12/2018 OT:3796489
+REALIZO: CESAR T. JIMENEZ Y DANIEL VARGAS ING. ABB
+
+Este reporte da un resumen de las actividades a ser realizadas sobre el Sistema 800xA de la Central Hidroeléctrica de EPM - Guatapé.
+Las actividades relacionadas se realizaron a través del acceso remoto al Sistema de Control de la Central.
+Full Backup: Se verifica el ultimo realizado por personal de la Central, en Diciembre 07 /2018. No tiene errores ni Warnings, lo cual indica que se mantiene la integridad del mismo.
+Realización de Import/Export de las principales estructuras del Sistema 800xA.c Control / Functional / Object Type / Workplace Structure. Imágenes tipo.
+Se verifica la carga de la RTA Board de los Connectivity Servers.
+Se verifican los nodos presentes en el RNRP. No hay errores.
+Sobre los nodos de tipo Domain Controller, se ejecuta el comando dcdiag, Se encuentra un solo error, que es normal, ya que el Servicio W32time, esta deshabilitado por la estrategia de sincronización del Sistema.
+Se ejecuta el comando “ afwsysinfo” , el porcentaje de la base de datos se encuentra en condiciones normales, 5%. Se mantiene, esta OK.
+Se verifican los servicios del Sistema 800xA.
+En el Objeto “ Lost and Found” , residen tags que pueden “ perderse”  o “ duplicarse” ; esto no sucede en el Sistema de EPM Guatapé. Esta OK.
+Se verifica el estado del Hardware de los controladores Advant sobre la red de control 2,
+Verificación PAS (Process Administration Services) Se verifican que todos los servicios estan en “ Started” .
+Se verifica la sincronización de los History Logs, Existen 4 History Logs que no están sicronizados, se procede a sincronizarlos…
+Verificación base de datos históricos… Ok.

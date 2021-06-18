@@ -1,0 +1,10 @@
+PREVENTIVO ELECTRICO ANUAL MOTOR BOMBA 1 ESTACION HIDRAULICA G32.
+
+
+JULIO 17 DE 2018.
+Se realizó mantenimiento electrico preventivo anual, limpieza general al tablero de control y motor, pruebas electricas y toma de voltajes, corrientes de arranque y de trabajo al motor obteniendo buenos resultados los cuales van anexo al informe del mantenimiento de la unidad. 
+
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASEGR - S444R 87R10R66.9S - T444S 81S9.5S75.9T - R447T 84T10T81.4
+Programó: William Lopera.
+
+

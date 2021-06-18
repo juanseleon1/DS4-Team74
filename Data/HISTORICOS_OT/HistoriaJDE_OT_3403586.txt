@@ -1,0 +1,2 @@
+2017-02-28 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3403586, PASO:1         
+Se realizó mantenimiento al motor de extractor E5    CORRIENTE: R:0,7, S:0,6, T:0,6, VOLTAJES RS:436,9, ST:435,2, TR:436,7,AISLAMIENTO DE MOTOR: 1,470 G Se realizó prueba de funcionamietno eléctrico, no cuenta con banda, se le informó a Diego Bedoya, , se creo OT: 3437190 correctiva.

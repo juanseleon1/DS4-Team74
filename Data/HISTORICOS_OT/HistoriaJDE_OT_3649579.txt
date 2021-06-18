@@ -1,0 +1,11 @@
+VERIFICAR INSTRUMENTACION TRANSFORMADOR DE POTENCIA SONSON 2 
+
+NOV 2 DE 2017 OT: 3649579 PROGRAMO: JGUINGUER  EJECURARON: ALEXANDER VILLA - ANDRES YEPES
+Se realiza verificación de señales Alarmas y Disparos del transformador de Potencia las cuales se encuentran en buen funcionamiento
+
+ALARMAS
+
+Descripción Verificación Alta Temperatura Devanado 80°C - 85°C  OKVentiladores Devanado 50°C OKRelé Buchholz OKAlta Temperatura Aceite 80°C  OKVentiladores Aceite 80°C OK
+DISPAROS PROTECCIONES MECANICAS
+
+Descripción  Verificación Muy Alta Temperatura Devanado 95°C OKRelé Buchholz   OKMuy Alta Temperatura Aceite 90°C OKVálvula de Sobrepresión  OK

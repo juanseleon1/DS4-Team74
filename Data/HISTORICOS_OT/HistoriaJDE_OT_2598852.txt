@@ -1,0 +1,6 @@
+
+FECHA: SEPTIEMBRE 07 DE 2014
+
+RESPONSABLE: GERMAN ECHAVARRIA Y HENRY GIRALDO
+
+A mediados de esta semana se cambiaron 6 baterías en la UPS del Scada, se colocaron en una bandeja ubicada en la parte inferior de la UPS que es la reserva, el día de hoy se retiraron 3 de esas baterías y se colocaron en la bandeja principal, se retiro la UPS externa, queda pendiente comprar 3 baterías mas para dejar completa la UPS que en total lleva 9 baterías. 

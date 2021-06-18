@@ -1,0 +1,86 @@
+DESCRIPCIÓN DE FALLO: 
+
+Falla presentada Durante el Mantenimiento de inspección mayor programado de la unidad 2. OT 2757271 el 17 de Mayo de 2015. Horas de servicio de la unidad: 19625
+En el procedimiento de cierre de compuerta de descarga para inspección de rodete, la compuerta no respondió al cierre y queda atascada en un punto (alrededor de 130-150 cm desde tope) pero sube de nuevo a la posición de apertura sin problemas. Se realizaron 3 intentos de cierre pero presentó el mismo comportamiento.
+
+PRESENCIARON EL EVENTO:
+Hector Mario Gómez(Jefe de trabajo)
+Renato Montoya (Lider Mto mecánico)
+
+AENCIÓN CORRECTIVA:
+
+Jefe de trabajo: Santiago Ramírez
+Lider Mto Mecánico: Renato León Montoya
+
+Se planea realizar extracción de la compuerta y de requerirse, desatascarla durante el paro de la central programado en el PIM de 2015 para extraer las compuertas de descarga de las unidades 3 y 4 para reparación del recubrimiento anticorrosivo. Este paro se tiene programado para Junio 11 - 15 de 2015.
+
+Informó: Rantiago Ramírez
+
+Junio 12 de 2015
+
+Compuerta 2 (Se retiró a las 16:30): Guía superior derecha suelta, de los cuatro tornillos, uno caído y  tres salidos doblados. Se evidencia que la causa de atascamiento eran los tornillos salidos de esta guia. 
+
+Informó: Rantiago Ramírez
+
+Junio 13 de 2015
+
+Se posicionan las 4 guías y se realiza procedimiento de soldadura entre todo su contorno y la estructura de la compuerta.
+
+Informó: Rantiago Ramírez
+
+Junio 14 de 2015
+
+Continúan trabajos correctivos en las compuertas 1 y 2:
+- Termina proceso de soldadura de las guías laterales.
+- Control dimensional a los eslabones.
+- Lavado de compuerta 2 
+- Inspección visual del estado de la pintura, empaques y registro fotográfico.
+- Comienza proceso de pintura en las guías laterales de las compuertas para proteger soldadura aplicada.
+
+Informó: Rantiago Ramírez
+
+
+Junio 15 de 2015
+
+Resumen del día:
+ Rescate de peces por parte del equipo ambiental y funcionarios de la UdeA. Se rescataron 246 peces.
+ Inspección de tubos de aspiración de las 4 unidades y los vanos de las compuertas, evidenciando desgaste del concreto por causa de los tornillos que fijaban las guías laterales en las 4 compuertas. También se encontró restos de concreto en los asientos de los sellos, los cuales fueron retirados y dos tornillos reventados de una de las guías de la compuerta 2 y la compuerta 3.
+Se instalan las compuertas 1 y 2.
+ En la compuerta 2 falló el empaque del servomotor, por lo tanto, se instaló el servomotor que se encontraba instalado en la compuerta 4.
+Se realiza protocolo de pruebas de apertura y cierre en seco, según manual de puesta en marcha de IMPSA.
+A las 5 am del 16 de Junio comienza llenado del túnel de descarga retirando un 4 stop logs (2 de cada vano), para permitir ingreso del río.
+
+Informó: Rantiago Ramírez
+
+Junio 16 de 2015
+
+Referente al mantenimiento de las compuertas de descarga de las unidades:              
+*Dado al poco caudal del río, se decide realizar vertimiento del caudal mínimo (150^3/seg) para incrementar el nivel del río y llenar más rápido el túnel de descarga. El vertimiento se ejecutó bajo protocolo entre las 10:30 y 15:30. 
+*Se retiran stops logs y comienzan trabajos de normalización de las unidades.
+*Se realiza protocolo de pruebas de apertura y cierre con agua a las compuertas 1 y 2, según manual de puesta en marcha de IMPSA.
+*Se debió pedir redespachos de las unidades así:
+-   Unidades 1 y 2: Por problema en el banco 1 de transformadores. 
+-   Unidad 3: Por problemas en el sistema de refrigeración del sello del eje. 
+-   Unidad 4: Por problemas en el sistema de refrigeración. Entró a explotación comercial en el periodo 4 del 17 de 
+
+Informó: Rantiago Ramírez
+
+
+Junio 17 de 2015
+
+Para dar condiciones de arranque estable al sistema de refrigeración de las unidades 1 y 2 se realizó:
+-          Lavado de los 2 filtros del sistema de inyección de agua al sello del eje de la unidad 2 y el filtro 2 de la unidad 1
+-          Protocolo de arranque aplicado a las unidades 3 y 4 después del llenado del túnel de descarga . (ver informe diario 17 de junio).
+-          Se dejan en operación turbina durante  1 hora y se observó comportamiento normal de los sistemas mecánicos.
+
+Informó: Rantiago Ramírez
+
+ver informe detallado en la siguiente direcciòn : \\Epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO\18. MTO COMPUERTAS DESCARGA 2015\INFORMES
+
+Junio 19 de 2015
+
+El banco 1 queda disponible, los trabajos fueron ejecutados por la orden de trabajo 2797762, por falla del trafo de la fase S. Causando bajo nivel de aceite.                                                                    Se procede a tratar 10 canecas, método de termosecado, toma de aceite en la cuba y de aceite a tratar con el fin de enviar a Medellín, Sub estación Colombia para su análisis. Solo se adicionan 4 canecas y media (41/2) al transformador, luego se purga para normalizar el transformador.       
+ Informo: Cesar Augusto GiraldoR. Luis Federico Álvarez, Personal de mantenimiento.                    Los trabajos fueron ejecutados por el personal de montajes liderado por John Jorge Gil y Oscar Medina Giraldo.                                                                                                                                           
+
+Se entregan las unidades 1 y unidad 2al centro de control, quedan disponibles para su explotación comercial.                                                                                                                                Informo: Cesar Augusto Giraldo             
+ 

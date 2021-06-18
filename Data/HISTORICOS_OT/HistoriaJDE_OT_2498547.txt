@@ -1,0 +1,13 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+10/ABRIL/2014
+
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados y las RTD de los radiadores.
+
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.
+Se realizó limpieza general a todas las RIO de la unidad.
+Se revisó el sistema contra-incendio de los gabinetes críticos y transformadores asociados a esta unidad.
+
+Progamador: Oscar Arango
+Ejecuto: Marlon Carmona - David Atehortua - Ana palacio

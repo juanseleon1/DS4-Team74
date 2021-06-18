@@ -1,0 +1,3 @@
+11/08/2015.  SERGIO OLIVARES D.
+Se hizo mantenimiento a las electroválvulas, medida de resistencia ohmica a las bobinas, y se verifico el micro-swiche del 
+ By-Pass, dejando todo normal.

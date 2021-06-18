@@ -1,0 +1,14 @@
+JHON MARIO PEREZ ARENAS ABRIL 29 DE 2016
+
+REVISAR ALARMA PENDIENTE REGULADOR FUERA DE ORDEN EN LA UNIDAD 3. ESTA OCASIONO APERTURA DEL INTERRUPTOR Y PARO DE LA UNIDAD CON FALLA MECÁNICA. 
+
+ABRIL 29 DE 2016
+Se encontró relé RO con bobina abierta, se cambia por uno de repuesto y borra alarma del regulador.
+Al darle condiciones a la unidad se encontró relé de frenos en automático malo, también se cambió por uno en buenas condiciones.
+También se evidenció eje torcido en la electro válvula  2130.
+
+Adonis
+Cesar Hoyos
+Luis Eduardo Arcila
+
+  

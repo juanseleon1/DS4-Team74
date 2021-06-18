@@ -1,0 +1,13 @@
+JUNIO 28 DE 2018   OT: 3729589  PROGRAMO: JGUINGUER  EJECUTO: ALEXANDER VILLA 
+Se realiza inyección señal de temperatura con el calibrador de procesos y se activa Alarma - Disparo 
+
+Temperaturas de: Núcleo Estator Equipo 20°C 40°C 95°C 100°C R OHMTemperatura 1 19.72 39.70 94.61 99.66 118.3Temperatura 2 19.83 39.81 94.83 99.88 119.0Temperatura 3 19.83 39.81 94.72 99.77 120.8Valor programado Alarma:95°CValor programado Disparo:100°CComentarios:Sin novedades  
+
+Temperaturas de: Devanado Equipo 20°C 40°C  95°C 100°C R OHM Fase R 19.6 39.60 94.61 99.61 118.2Fase S 19.40 39.38 94.40 99.45   119.5Fase T 19.61 39.49 94.50 99.55 117.8Valor programado Alarma:95°CValor programado Disparo:100°CComentarios:Sin novedades
+
+MAYO 28 DE 2016     OR NÚMERO: 3112337     PROGRAMÓ: JAIRO GUINGUER EJECUTARON: ANDRÉS YEPES Y ALEXANDER VILLA
+SE REALIZÓ INYECCIÓN DE TEMPERATURA Y VERIFICACIÓN DE ALARMAS Y DISPAROS DEL ESTATOR GENERADOR S11; TODO SE ENCONTRÓ EN NORMAL FUNCIONAMIENTO.
+VER ARCHIVO ANEXO EN DATOS SUPLEMENTARIOS.
+BHULL 
+
+VERIFICAR  ALARMAS Y DISPAROS RTDS ESTATOR GENERADOR.

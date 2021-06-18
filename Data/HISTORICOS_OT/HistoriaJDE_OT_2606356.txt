@@ -1,0 +1,6 @@
+SECCIONADOR 89T31
+
+Este seccionador no obedece mando eléctrico; fue necesario operarlo en modo local manual a la apertura y al cierre.
+
+2016/08/28 CESAR HOYOS - JOHN MARIO PEREZ, RARBOLG
+Cesar H realizó la consulta del estado actual de este seccionar, no se encontró reportes de estado en falla, se cierra la OT sin costos.

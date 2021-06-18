@@ -1,0 +1,23 @@
+2017/10/27
+REVISAR REGULADOR DE TENSION AVR1 Y AVR2 DE LA UNIDAD 2 DE PORCE 2 PRESENTO PARO PARCIAL 2 POR FALLA EN LA EXCITACIÓN FUSIBLES TIRISTORES CONVERTIDOR 1 EN FALLA , POSICIÓN SET POINT AVR1 PERDIDA DE MEDICION Y AVR2 FALLA EN LA CPU 
+INFORMA : FEDERICO MONTOYA - CARLOS ADRIAN NARVAEZ
+
+
+27/10/2017
+
+En el regulador de tensión (TRE) se encuentra fallado el AVR1 por apertura fusibles fase S y T, se encuentra en cortocircuito el tiristor 1 de este banco, además el AVR2 se encuentra bloqueado y en falla por problemas en la CPU y el transductor UV42. se instala la CPU del AVR1 en el AVR2 y se configura. Se ajusta el valor de sub tensión en su límite máximo de 500V a 680V. la causa de la falla en el AVR1 fue alta temperatura, se ajusta el valor de alta temperatura en ambos AVR a 70°C, el sistema queda en observación. 
+
+pendiente cambiar tiristores en banco o AVR1 esto se planeara luego 
+
+Realizad por Wtobonl
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl
+
+
+
+
+

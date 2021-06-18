@@ -1,0 +1,16 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 06-05-2019
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Limpieza de estación
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor
+Realización de aforo
+Acopañamiento a personal de speedweell
+Trabajos de montaje y aforos en la estación RN-4A que remplazará a la estación RN 4-B.
+Se cargan los tiempos de trabajo a esta estación por no estar habilitadad la nueva estación en el sistema.

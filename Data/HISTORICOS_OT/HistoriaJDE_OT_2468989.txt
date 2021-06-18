@@ -1,0 +1,8 @@
+Febrero 10 - 2014
+Verificar y probar el buen funcionamiento del termóstato y cada uno de los equipos asociados al sistema de aire acondicionado disipadora. 
+
+Se realizó revision de funcionamiento del equipo 2, ya que estaba en modo de solo ventilación (on FAN), se identificó falla en control con borne sulfatado y luego se evidenció falla en el termostato de control de temperatura, el cual no estaba cerrando contacto correspondiente al equipo 2, se realizó programación del termostato acorde al manual y se dejo en operacion noraml. 
+
+Realizó: Guillermo Corodoba - Victor Zuleta.
+Planeó: Ruben Arboleda
+

@@ -1,0 +1,7 @@
+PREVENTIVO ELECTRICO FRENOS GENERADOR GUADALUPE III
+05/07/2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo segun instructivo GCG3E0004. Se revisaron cada uno de los microswitches, se efectuo limpieza con dielectrico, se hizo lubricacion de las partes moviles de los finales de carrera y se verifico conmutacion de los contactos.
+
+Ejecuto: Jorge Echeverry-Jorge Mario Cardenas
+Programo: Carlos Andres Forero

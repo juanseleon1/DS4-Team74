@@ -1,0 +1,8 @@
+2015/05/12 MARIO RESTREPO - SEBASTIAN HINCAPIE
+Se crea la OT para realizar la revisión e inventario de las fugas que se encuentran en cada uno de los transformadores de potencia, para identificar su posible corrección. 
+
+
+ 03/06/2015. SERGIO OLIVARES D.
+
+ Se hizo identificacion de las fugas en todos los transformadores para realizar correccion de las mismas en 
+ la salida de los bancos, cuando se haga la recirculacion y renovacion de aceite en los cables BICC.

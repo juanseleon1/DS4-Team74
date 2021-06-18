@@ -1,0 +1,5 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 18-09-2018
+Tipo de mantenimiento:  Reconocimiento y busqueda de sitios y realización de aforos 
+Acciones de mantenimiento: No se visita la estación, se hacen tres aforos para cumplir con requerimientos ambientales.

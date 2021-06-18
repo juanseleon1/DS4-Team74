@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: OSCAR MONTOYA.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza revisión y limpieza al transformador de excitación en el piso S2, al seccionador de 500 V AC, a los bancos de tiristores, al barraje de salida de 125 V DC, al interruptor de campo siguiendo el procedimiento. 
+
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD

@@ -1,0 +1,18 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3699106.
+Se realiza mantenimiento general, limpieza y verificación a la estación Hidraulica de la MINICENTRAL P3.
+Se reapretan borneras.
+Se encuentran sulfatadas las terminales de los Presostatos PS1 y PS5, estas se deben cambiar por oportunidad.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizo: Julio Cesar Parra, Iván Darío Cano.
+
+---------------
+PLANEADOR: RMONTOYG
+PROGRAMADOR: CARLOS ENRIQUE MONCADA
+FECHA: 14/03/2018
+CONSIGNACIÓN: @180304
+OT PADRE: 3698544
+
+REALIZAR MANTENIMIENTO SEMESTRAL A LA ESTACION HIDRAULICA DE LA VÁLVULA HOWELL BUNGER

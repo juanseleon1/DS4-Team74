@@ -1,0 +1,8 @@
+2019/03/14
+
+SOLICITANTE: RAMIRO A TORRES.
+
+SE OBSERVA BAJA PRESION DE SF6 EN INTERRUPTOR CAMARA DE VALVULAS, DE LA ESTACION DE 13.2 KV DE CASA DE MAQUINAS.
+
+2019-03-14 REALIZÓ: JHONATAN ANDRES USME - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3819065, PASO:1          
+Se realizó recuperación de la presión de SF6 para el interruptor de camara de válvulas, la presión estaba en 2,8Kg y se dejó en 5.5Kg.

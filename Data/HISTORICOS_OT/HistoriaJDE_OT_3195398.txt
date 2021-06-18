@@ -1,0 +1,2 @@
+2016/07/20 EDWAR LONDOÑO - JHONATAN USME
+Se realizó la revisión de la alarma atención valvula mariposa, se evidenció que la valvula esferica no está abierta al 100%, por lo tanto no actua el microsuiche y se presenta discrepancia, se presume de apertura 98%, se dejó en condiciones actuales, se decidio no mover ya que para arrancar la motobomba se requiere de apertura al 75%.

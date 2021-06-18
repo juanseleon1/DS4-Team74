@@ -1,0 +1,13 @@
+
+ 2017/08/17 Luis Eduardo Arcila
+
+Se realizan las actividades:
+
+1. Falla tarjeta VAO-20 se cambia por una de repuesto, dejando cargar programa al regulador.
+2. Calibración de agujas se cambia Moog del comando de agujas No.3
+3. Calibración al deflector.
+4. Limpieza de intercambiador de aire.
+5. Limpieza general al tablero del regulador.
+6.Se cambiaron todos los micro filtros de las servo válvulas 
+
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

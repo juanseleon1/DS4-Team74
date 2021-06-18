@@ -1,0 +1,16 @@
+23/03/2018 JUAN CARLOS GRANADOS
+Actividades de bloqueos y desbloqueos unidad.
+Actividades de paro y arranque unidad.
+Pruebas de funcionamiento unidad después del mantenimiento.
+
+2018-04-25 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704302, PASO:1          
+Se realizó aplicación de sellos cortafuegos en el  recinto del estator u8, se aplicó lana mineral y FS-One. 
+2018-05-31 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704302, PASO:1          
+Se realizó medida de aislamiento general a equipos de la Unidad 8 con los siguientes resultados: 
+IP General Estator: 340MOhm, IP 1,2
+Transformador de Exitación: Aislamiento: 25MOhm
+Rotor Generador: Aislamiento: 12MOhm
+2018-06-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - CESAR AUGUSTO HOYOS - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3704302, PASO:2-2,2          
+Se realizó protocolo de pruebas de disparos en la unidad 8, se hicieron a satisfaccion.
+2018-06-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - JUAN CARLOS GRANADOS - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3704302, PASO:3-3,2          
+Se realizó puesta a punto de la Unidad 8 para entrada en servicio, se presentó dificultad con la valvula de selección de bombas en el regulador hidraulico de la Unidad 8, se realizó el cambio de una la bobina, dos bobinas de la que se trajeron del almacén estan falladas en el cable a la entrada de la bobina.

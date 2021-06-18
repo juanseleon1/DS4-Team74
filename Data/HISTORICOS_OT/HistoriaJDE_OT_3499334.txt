@@ -1,0 +1,15 @@
+SE DA PARO RÁPIDO CON 118 MW Y 15 MVAR (CONECTADA EN AGC).
+FECHA: MAYO 28 - 2017
+SOLICITANTE: TURNO 1
+--------------------------------------------------------
+Referente a la unidad #2
+Se da Paro Rápido con 118 MW y 15 MVAR (conectada en AGC).
+El motivo es “ baja tensión”  la cual da apertura del interruptor Principal. AL INtentar transferir al interruptor de Respaldo, el programa encuentra "transferencia bloqueada" esto ocaciona que la unidad quede sin servicios auxiliares gerendo el paro rápido.posterior al Paro Rápido, salió alarma: “ SAU2: MUY ALTA TEMPERATURA DEVANADO TRAFO DISPARO” .
+ACCIÓN:
+Se procede a dar reset quedando con condiciones la unidad, se da arranque hasta giro mecánico, se realizan pruebas de transferencia a los interruptores Principal y Respaldo verificando su correcto funcionamiento.  
+adicional, se realiza termografia a los devanados del transformador de servicios auxiliares, indicando una temperatura de 68°C. 
+realizó: Cristian Gomez - turno 1 operación
+informó: cristian gómez                                                                                         
+--------------------------------------------------------
+
+**Se informa al grupo electrónico para que realize una verificación de programa del plc de saux de la unidad. tambien se solicita revisión la estampa de tiempo del sistema escada. la secuencia de tiempo que mustra "no es confiable", mostrando primero en la escala de tiempo el paro rápido y minutos mas tarde (cuando la unidad ya estaba detenida) las secuencias de alarmas y eventos. 

@@ -1,0 +1,9 @@
+Trabajo de Mejora/Montaje en la estación el Mango. 
+Descripción del trabajo:
+a. Integrar 4 mediciones de apertura de compuerta de Porce II por medio de:
+ 1. Un datalogger con interfaz Ethernet en la caseta de equipos ubicado en la presa Porce II.
+ 2. Instalar sistema de potencia compuesto por batería y cargador
+ 3. Programar el datalogger con el programa de lectura de las señales y escalarlas para que la lectura sea en  unidades de metros.
+b. Conectar el datalogger a la red Ethernet local sobre fibra que integra a la estación Clm El Mango.
+c. Configurar el programa de la estación climatológica el Mango para tomar lecturas del datalogger auxiliar de la caseta de la presa.
+Planeador: Jeison Julián Suarez

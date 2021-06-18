@@ -1,0 +1,8 @@
+24/10/2017
+Gustavo Morales
+Se da paro al ventilador S4 por vibracion excesiva y además se observa floja la guarda.
+
+2017/11/07 DIEGO BEDOYA
+Se realiza la revisión del ventilador S4 de la 1° etapa y se encuentra la chumacera interna en mal estado, se procede a desmontar para determinar cuál fue el problema, se llama al proveedor para realizar la cotización de estas chumaceras.
+Referencia: MP 310- PARA EJE DE 50 MM.
+El trabajo lo está realizando Andres Alzate, Yesid Sánchez y Carlos Yepes

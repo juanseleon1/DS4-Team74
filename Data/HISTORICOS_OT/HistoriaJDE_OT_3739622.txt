@@ -1,0 +1,9 @@
+16 DE JUNIO DE 2018
+
+Referente al sistema inyección de aceite U # 3:
+Se presenta alarma por filtro obstruido, y Las bombas AI1 y AI2 presentan baja presión de aceite lo cual falla el sistema. Este evento sucede con la unidad generando, se da reset y no borra la alarma, se avisa al Ing. Adonis Cadavid. Queda pendiente revisar cuando la unidad pare. Al momento del proceso de paro, se pueden poner en funcionamiento las bombas en manual, para terminar secuencia y paro normal de la unidad. 
+Informa: Grupo de operación - Carlos Guinguer - Arley Baena.
+FECHA: 27/06/2018 OT:3739622 PROGRAMADOR: RICHARD JIMENEZ EJECUTA: CAMILO CARDONA
+Se verifican las polaridades en borneras del tablero, encontrandose cable flojo en la bornera MS, entre las borne 3 y 11, se organiza cableado y se verifica la señalización, se reconocen las fallas que se tenían presentes y se verifica su correcto funcionamiento.
+Informan: Adonis Cadavid - Jorge Rodríguez.
+

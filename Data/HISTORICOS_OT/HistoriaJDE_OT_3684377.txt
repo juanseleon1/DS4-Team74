@@ -1,0 +1,13 @@
+2018/03/13 _ CARLOS ENRIQUE MONCADA. OT N° 3684377.
+
+Se realiza Mantenimiento al Transformador 2(Barra 2)de los servicios miscelaneos 208 Vac. Se verifican temperaturas en las RTD's  de las fases R, S, T, se ajustan borneras, se hace limpieza a los tableros.
+ 
+el subsistema queda habilitado para la operación.
+
+Realizó: Jeniffer García, Neiro Fabian Pérez.
+
+2018/02/07 _ CARLOS ENRIQUE MONCADA. OT N° 3684377.
+
+Se crea OT para el mantenimiento de los servicios Miscelaneos TRAFO2.
+
+Realizó: Jeniffer García, Neiro Fabian Pérez.

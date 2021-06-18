@@ -1,0 +1,7 @@
+LOS OPERADORES REPORTA QUE EL SISTEMA DE REFRIGERACIÓN DE LA UNIDAD P31 PRESENTA AVALANCHA DE EVENTOS DE TODOS LOS INSTRUMENTOS DEL SUBSISTEMA
+
+08/11/2016
+
+Se realiza verificación de las conexiones de red en las tarjetas IEC104 del TCSR de la unidad 1, las cuales se encontraron sin problemas, además se verifican las tarjetas PROSOFT de las dos conexiones y se encuentra problemas en hardware en la conexión principal, la cual se retira y se reinicia en su programa. Después del procedimiento realizada la tarjeta PROSOFT queda funcionando, pero en observación, este repuesto no se encuentra en el Almacen se debe iniciar proceso de compra. Se da instrucciones a los operadores si se presenta de nuevo el evento se debe desconectar esta comunicación de la tarjeta 1.
+
+Realizado Por WTOBONL

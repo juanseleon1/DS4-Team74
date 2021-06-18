@@ -1,0 +1,7 @@
+
+FECHA: OCTUBRE 25 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y JOHN ORREGO
+SOLICITANTE: HENRY GIRLDO
+
+Se presenta falla en el Loop, se observa en el RFC OUT 2 -  4.0  se verifica en la Top Box y físicamente no se encuentran anomalías, se procede a cambiar el módulo 4,0 y queda en servicio el aerogenerador.

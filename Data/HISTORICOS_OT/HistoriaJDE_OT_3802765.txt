@@ -1,0 +1,11 @@
+ENERO 22 DE 2019  OT: 3802765 PROGRAMO: JULIAN BECERRA  EJECUTO: ANDRES YEPES
+
+SE REALIZO MANTENIMIENTO Y METROLOGÍA AL TRANSFORMADOR DE POTENCIA, LUBRICACIÓN AL MECANISMO DE CONTACTO DEL DISPOSITIVO DE PRESIÓN, LIMPIEZA Y AJUSTE DE LA BORNERA DEL INSTRUMENTO QUE SUPERVISA EL NIVEL TANQUE ACEITE.
+
+Termómetro AceitePatrón 40ºC 80ºC 120ºCinstrumento 40 ºC 79 ºC 116 ºC 75ºC Alarma 85ºC DisparoImagen Térmica A. TPatrón 40ºC 80ºC 120ºCinstrumento 41ºC 79ºC 117ºC 85ºC Alarma 95ºC DisparoImagen Térmica B. TPatrón 40ºC 80ºC 120ºCinstrumento 39ºC 80ºC 118ºC 85ºC Alarma 95ºC Disparo
+VERIFICACIÓN LAZOS DE DISPARO
+
+DESCRIPCIÓN DISPARO OPERACIÓNRelé buchholz alarma K11 OKRelé buchholz disparo K12 OKNivel aceite máximo K13 OKNivel aceite mínimo K14 OKTemperatura aceite alta K15 OKTemperatura aceite muy alta K16 OKTemperatura devanado B.V alta K17 OKTemperatura devanado B.V muy alta K18 OKTemperatura devanada A.V alta K19 OKTemperatura devanada A.V muy alta K20 OKDispositivo alivio de presión disparo K21 OK
+
+
+

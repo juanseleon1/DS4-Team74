@@ -1,0 +1,37 @@
+
+
+FECHA: LUNES  28/12/2015
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RODOLFO GARCES    
+ASOCIADO A LA OT: 2951930
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______1________
+
+HOROMETRO:( H )_____746 H 8´_______
+
+TIEMPO DE TRABAJO:( min.)_____2 H 4´_______
+MW PLANTA: ______207_________
+
+
+Observaciones:_SE DEBE PROGRANAR UN CORRECTIVO CON EL FIN DE DETERMINAR LAS CAUSAS DE LA DEFICIENCIA YCORREGIRLAS.__________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

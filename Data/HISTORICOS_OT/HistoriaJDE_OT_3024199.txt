@@ -1,0 +1,9 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES GUADALUPE 4
+
+03/03/2016
+MANTENIMIENTO PREVENTIVO TRIMESTRAL ELECTRONICO
+
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados y las RTD de los radiadores. No se encontró ninguna novedad.
+
+Ejecuto: Francisco Gonzalez - Alvaro sanchez - Duban Agudelo
+Programador: Oscar Arango

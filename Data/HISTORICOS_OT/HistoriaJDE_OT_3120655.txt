@@ -1,0 +1,5 @@
+2016/05/24 FERNANDO RIUZ - GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG, PASO 1 OT:3120655
+Se realizó limpieza general al tablero de control de la UMA, 
+
+2016/06/20 FERNANDO RUIZ - GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG, PASO 2 OT:3120655
+EQUIPO: UMA 7 CORRIENTE: R:0, S:0, T:0, VOLTAJES RS:0, ST:0, TR:0, TEMPERATURA MAXIMA DE MOTOR °C Se encuentra fuera de servicio, tiene el motor desmontado, Se anexa la planilla en formato PDF a la OT.

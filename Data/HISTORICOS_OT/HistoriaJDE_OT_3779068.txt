@@ -1,0 +1,44 @@
+FECHA: 07/11/2018
+PROGRAMO: WILMER DAVID MENDEZ CARO
+EJECUTO: RODOLFO GRACES - JUAN DAVID FLOREZ 
+OT: 3779068
+ASUNTO: VERIFICACION E INPECCION DE ZAPATAS.
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1: 19.7________________
+
+Zapata No 2: 19.5________________
+
+Zapata No 3: 19__________________
+
+Zapata No 4: 19.4________________
+
+Zapata No 5: 19.8________________
+
+Zapata No 6: 19.5________________
+
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

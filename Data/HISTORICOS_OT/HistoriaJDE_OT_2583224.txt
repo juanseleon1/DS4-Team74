@@ -1,0 +1,18 @@
+PLANEADOR: SANTIAGO RAMÍREZ
+PROGRAMADORES: OSCAR IVAN PARRA Y RENATO LEÓN MONTOYA
+
+OBJETIVO: Obtener funte adicional de alimentación de agua para el bombeo de refrigeración del sello del eje.
+
+DESCRIPCIÓN DEL TRABAJO: 
+
+1- Instalar toma de agua de 3 pulgadas de diámetro en tubo de compensación de la turbina que descarga en el cono de aspiración. 
+
+2- Instalar derivación de 2 pulgadas en la entrada de los filtros de succión de las bombas de inyección.
+
+3- Instalar tubería inox de 3 pulgadas desde la toma instalada en el punto 1 al punto 2. 
+*******************************************************************************************************************
+SE PERFORA TUBERIA DE INOXIDABLE DE 5" EN EL CONO DE ASPIRACION PARA INSTALAR DERIVACION CON TUBERIA DE 3" QUE ALIMENTARA LOS FILTROS DEL TAST EN CASO DE QUE EL SISTEMA DE REFRIGERACION DE AGUA CRUDA FALLE. SE INSTALA VALVULA DE 3" EN ESTA TUBERIA PARA PODER REALIZAR CORTES DE AGUA EN EL CASO DE ALGUN INCONVENIENTE.
+SE SOLDA T CON BRIDA Y SE INSTALA VALVULA DE 2" EN LA LLEGADA A LOS FILTROS DEL TAST, ESTA VALVULA RECIBIRA LA TUBERIA QUE VIENE DESDE EL CONO DE ASPIRACION DE LA UNIDAD PARA ASI CERRAR EL CIRCUITO DE BY PASS.
+EJECUTO DEIBY BAENA.
+SE REALIZA CONEXION DE LA TUBERIA DESDE EL CONO DE ASPIRACION A LA VALVULA QUE SE INSTALO A LA LLEGADA DE LOS FILTROS DEL TAST.
+REALIZO RICARDO PELAEZ

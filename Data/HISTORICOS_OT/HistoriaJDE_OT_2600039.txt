@@ -1,0 +1,9 @@
+SEMESTRAL ELECTRONICO/H4000 TIPO2
+VERIFICACION SENSORES AEROGENERADOR
+
+FECHA: OCTUBRE 10 DE 2014
+
+EJECUTANTE: GERMAN ECHAVARRÍA
+
+
+Se verifican los sensores del aerogenerador, veletas, anemómetros, sensores de temperatura y nivel.

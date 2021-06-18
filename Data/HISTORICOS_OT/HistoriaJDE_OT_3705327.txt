@@ -1,0 +1,17 @@
+2018-07-18 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3705327, PASO:1          
+Se realizó revisión y limpieza al transformador de servicios auxiliares 2 (TSA2).
+
+2018-07-19 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3705327, PASO:2          
+Se finalizó con la limpieza general del transformador TSA2, queda pendiente realizar pruebas de aislamiento y resistencia óhmica.
+
+2018-07-26 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3705327, PASO:3          
+Se realizó pruebas electricas al transformador TSA2, se evidenció que al inyectar tensión de 5.000VD por el lado de alta el megger muestra un mensaje de error br.d, se realizó prueba con 2.500VDC y el aislamiento subió a 4.1GOhm, se realizó adecuación de calentadores para dejarlo calentando y hacer prueba. 
+
+2018-07-27 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3705327, PASO:4          
+Se realizó medida de aislamiento al transformador TSA2, se encontró que al momento de aplicar 5.000VDC ya no muestra el error br.d, pero el nivel de tensión no sube de 1.600VDC. 
+
+2018/09/06 CESAR HOYOS, ALIRIO HERNANDEZ RUBEN ARBOLEDA
+Se energizó el transformador y se evidenció que la transferencia no estaba disponibla a causa de alta tensión en el transformador TSA2, se realizó medida de voltaje y se encontró en condiciones normales, queda energizado y pendiente de realizar revisión de supervisores de tensión.
+
+2018-09-09 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3705327, PASO:5          
+Se cambió relé supervisión de tensión  - 59 TSA2  (3U>) de los servicios auxiliares DP2 celda 10, se realiza la trasferencia quedando normalizado por QF1.

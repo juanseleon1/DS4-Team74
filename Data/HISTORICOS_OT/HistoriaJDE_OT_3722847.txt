@@ -1,0 +1,5 @@
+JUNIO 6 DE 2018 OT: 3722847 PROGRAMO: JGUINGUER EJECUTÓ: ANDRES YEPES
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS Y ACTIVACIÓN DE ALARMA Y DISPARO MEDICIÓN DE RESISTENCIA ÓHMICA DE LAS RTD`S EN TEMPERATURA AMBIENTE.
+
+Temperaturas de: COJINETE LADO TURBINA U2 HEEquipo 0C 85C 90CT Ambiente Ohmios ()S38 (Axial) 0.6 85.6 90.6 36 124.7/9.33S40 (Axial)  0.3 85.3 90.5 38.4 119.4/4.37S42 (Radial) 0.3 85.5 90.4 37.3 119.1/4.36S43 (Radial) 0.4 85.4 90.3 30 119.4/4.39Valor programado Alarma: 87CValor programado Disparo: 92CComentarios:Sin novedades
+Temperaturas de: ACEITE COJINETES U2 HEEquipo 40C 50C 60C 70C 100CT Ambiente Ohmios ()Sensor Aceite 39.45 49.8 59.49 69.5 99.03 30.2 114.0/2.238Valor programado Alarma: 87CValor programado Disparo: 92CComentarios:La Verificación se realiza con el bloque seco y el calibrador de procesos  

@@ -1,0 +1,4 @@
+NOVIEMBRE 14/2014 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA VIANA
+Se realiza mantenimiento segun instructivo,se deja el sistemas en condiciones de operación. LOs tableros +ECF y +TCFM se encuentran en el piso S1 (piso del generador). En el piso S2 hay un tablero +TCFM pero es del control. Se corrigio marcación del tablero +ECF (electrovalvulas frenos) ya que tenía la marcacion +EVF con cinta de enmascarar.
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD

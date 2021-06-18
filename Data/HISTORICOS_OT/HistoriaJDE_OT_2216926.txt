@@ -1,0 +1,11 @@
+SOLICITANTE:
+Salio por seguridad al terner  problemas en el interruptor de campo, ya que cuando la máquina se sale del sistema este no abre. OT:2191134.Se encontro tambien que la maquina esta con bajo aislamiento en las fases S-t se creo Ot: 2193451 . Queda para evaluacion por analisis ingenieria. Continua en mantenimiento para los siguientes trabajos segun consignación, Desarme unidad, Retirar estator, Reparación estator. OT: 2198010 del 20 al 30 de noviembre. NOVIEMBRE 30, SE EMPLIA CONSIGNACIÓN HASTA EL 11 DE ENERO. INFORMO INGO: MAURICIO MORALES.                                                                                               Después de analizar el cronograma inicial de trabajos para la corrección de bajo aislamiento entre las fases S y T del estator, se determino el siguiente por lo que se solicita la consignación hasta marzo 8 de 2013.
+ Dic 10 al 21: Diagnostico y detección de la falla - personal contrato menores - Responsable: Ing. Jairo León Restrepo.
+ Dic 17 al 21: Desarme Distribuidor y levantamiento planos para corregir problemas de desajustes. - Personal contrato menores - Responsables: Ing. Gabriel Escudero y Jhony Guerrero.
+ Dic 24/2012 a Enero 24/2013: Proceso de contratación - personal de contratación - Responsable: Ing. Jairo león Restrepo y Mauricio Morales
+ Enero 21/2013: Inicio Corrección desajuste distribuidor - Personal contrato menores - Responsables: Ing. Gabriel Escudero y Jhony Guerrero.
+ Enero 28/2013: Inicio de reparación Estator - Responsable: Ing: Jairo León Restrepo
+ Febrero 28/2013: Recepción Estator - Responsable: Ing. Jairo León Restrepo
+ Marzo 1/2013: Transporte Estator a caracolí - Responsable: Ing. Mauricio Morales.
+ Marzo 4 al 8 de 2013: Armado y puesta a punto de la unidad - Personal contrato menores - Responsable: Ing. Jhony Guerrero.                                                                                                                                                                                  
+Informa: Mauricio Morales

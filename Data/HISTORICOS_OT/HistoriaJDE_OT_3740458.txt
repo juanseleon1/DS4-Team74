@@ -1,0 +1,16 @@
+fecha: 2018-07-11 ot: 3740454   PROGRAMÓ:  R JIMENEZejecutó: JADER ORREGO
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTOR de la bomba ATRU # 1 REFRIGERACION UNIDAD Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación
+
+ MOTOR  1 ATRU # 1
+VOLTAJE CTE. DE ARRANQUE Y TRABAJOAISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS AMPERIOS FASE G VDCR - S480R465 41.2R1.9 504S - T480S 460 40.9S2.0 504T - R480T 462 41.3T2.1 504
+
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

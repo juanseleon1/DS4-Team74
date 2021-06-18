@@ -1,0 +1,9 @@
+2017/05/17 PROGRAMO: VICTOR ZULETA
+CARGAR SOFTWARE AL PLC SIEMENS S5 DEL GENERADOR ASINCRONICO
+
+31/05/2017 OT#3501288 PROGRAMO VICTOR ZULETA - EJECUTO VICTOR ZULETA
+VERIFICACIÓN ESTADO DE COMUNICACIÓN DEL GENERADOR ASÍNCRONO SUBESTACIÓN - LA CLARA - CASA DE MAQUINAS
+Se realiza Inspección y verificación del estado de comunicación del generador asíncrono y se observa en el módulo la indicación (led verde) de manera correcta; tanto en la subestación, la clara y en casa de máquinas.
+Además, se realiza extracción del backup (Archivo) de los diferentes programas cargados en los PLC’ S S5 siemens que constituyen el sistema del Generador asíncrono y la disipadora recuperadora, los cuales se ubican en el primer piso de la subestación, en el bombeo de la clara y el recinto del generador asíncrono de casa máquinas.
+A continuación, se denotan los diferentes nombres de los archivos (backup) y su ubicación en el computador industrial, como respaldo a la hora de modificaciones o eventos.
+Ubicación En El Pc Nombre del Archivo Ubicación Local (PLC) Unidad D: ULTSUBST.S5D SubestaciónUnidad D: ULTIMOST.S5D Bombeo la ClaraUnidad D: GASI14ST.S5D Casa Maquinas

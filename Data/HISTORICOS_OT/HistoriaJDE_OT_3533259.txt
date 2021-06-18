@@ -1,0 +1,5 @@
+CE: REVISION, MEDIR Y LIMPIAR TABLERO DE CONTROL Y MOTOR DE LA BOMBA REFRIGERACION.
+
+JULIO 06 DE 2017
+Se hace mantenimiento eléctrico, se revisa las conexiones del motor se limpia, se hizo mantenimiento al motor y se hace mantenimiento al tablero de control y el variador de frecuencia, se revisan conexiones, su correcto funcionamiento se dan mandos en manual y responde con normalidad al control y variador de frecuencia, se toman medidas de voltajes y corrientes de trabajo en centrándose en condiciones normales.
+William Lopera.

@@ -1,0 +1,19 @@
+SOLICITANTE: EQUIPO METROLOGÍA UOG. FECHA: 16/06/2016
+
+Realizar metrología según Plan Anual, durante el mantenimiento preventivo (PIM).
+
+Realizar inyeccion de temperatura con el calibrador de procesos, para comprobar el correcto funcionamiento del Instrumento de Temperatura Cojinete Inferior.
+
+Planeador: Oscar Arango
+
+Programador: Uaimer Diaz
+
+
+
+SE REALIZA UNA VERIFICACION DEL INSTRUMENTO INYECTANDO VALORES DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, EL COMPORTAMIENTO DEL INSTRUMENTO FUE BUENO SE VERIFICO SU PUNTO DE ALARMA Y PUNTO DE DISPARO Y RESPONDIO CORRECTAMENTE.
+
+PUNTO DE ALARMA:70°C
+
+PUNTO DE DISPARO:80°C
+
+REALIZO: UAIMER DIAZ

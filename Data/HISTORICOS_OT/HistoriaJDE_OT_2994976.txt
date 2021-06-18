@@ -1,0 +1,15 @@
+2016/01/23 ADONIS CADAVID
+Grupo de mantenimiento mecánico: 
+Lubricación a los elementos de la valvula esférica
+Verificación de fugas
+
+
+Grupo de mantenimineto electrico:
+Verificación de ajuste de borneras y limpieza de caja de conexiones
+Mantenimeinto a electrovalvulas 20BP, 20SVO, 20SVC Y 20HL Según instructivo.
+Medida de sensores
+Verificación de señalización en tableros y en estación de operación.
+
+
+2016/01/28 JUAN DAVID GARCIA - OSCAR GIRALDO
+Se realizó limpieza de las electrovalvulas, se realizó medida de los sensores, se encontró en condiciones normales. 

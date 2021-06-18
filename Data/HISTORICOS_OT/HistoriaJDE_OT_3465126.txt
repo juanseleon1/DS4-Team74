@@ -1,0 +1,10 @@
+25/04/2017. 11:20.
+Se detecta perdida de presiòn en el sistema de Aire comprimido del sistema de frenos de la Planta de Troneras, el equipo mecanico a traves de revisiòn visual y de descarte a traves de pruebas con agua jabonosa, detectan perdida de la presiòn en el sistema de frenos de la Unidad 2, el cual descarga el tanque acumulador a cero (0), se requiere controlar dicha fuga para tener el equipo fiable para el sistema.
+
+Informa Equipo de Operaciòn Turno 2 y 3.
+
+Wilson Arango Bedoya - Gustavo Quintana.
+
+SE ATIENDE SOLICITUD, SE HACE UNA REVISION DE TODO EL SISTEMA DE AIRE COMPRIMIDO DE LOS FRENOS  DE LAS UNIDADES Y SE ENCONTRO LA ELECTROVALVULA QUE DA EL PASO DE AIRE HACIA EL SISTEMA DE FRENOS DE LA UNIDAD 2 CON PASO  DE AIRE HACIA LA DESCARGA, LO CUAL OCACIONABA QUE EL TANQUE ACUMULADOR DE AIRE PARA LOS FRENOS SE DESCARGARA COMPLETAMENTE Y EL COMPRESOR TRABAJARA DE FORMA CONTINUA, SE CORRIGE ESTA FUGA DE AIRE Y SE NORMALIZA TODO EL SISTEMA.
+
+REALIZO: GRUPO ELECTRONICO Y MECANICO

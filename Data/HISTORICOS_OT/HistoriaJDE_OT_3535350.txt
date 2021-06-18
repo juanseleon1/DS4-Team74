@@ -1,0 +1,11 @@
+ANUAL ELECTRICO: INTERRUPTOR POTENCIA UNIDAD GENERACION GUADALUPE 4
+
+
+19/07/2017
+Se realiza mantenimiento general tablero interruptor de maquina, se revisan partes moviles, mecanismo , pin candado, pin chaveta , y se realiza lubricacion , cambio de grasa rodamientos del mecanismo se toma dato resistencia de contacto del interruptor de maquina
+Rsesitencia de contacto:
+Fase R = 148.5 
+Fase S = 160.1 
+Fase T = 147.5 
+
+JUAN A. CAICEDO HENAO - ALIRIO HERNANDEZ

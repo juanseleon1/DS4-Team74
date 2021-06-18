@@ -1,0 +1,8 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica de los sellos de las compuertas ubicados en la captación de Troneras
+
+
+Programador: Camilo Montagut Gil - 04/10/2018
+
+Se realiza la adecuación mecánica de los sellos en las compuertas de la captación de la central de Troneras. La actividad relacionó el montaje de los sellos y pisadores inferiores de las dos compuertas.
+
+Ejecuta: equipo mantenimiento mecánico UOG

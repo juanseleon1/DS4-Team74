@@ -1,0 +1,9 @@
+DOCUMENTAR:
+
+
+Referente a la unidad # 2:
+Se da paro rápido en la unidad con 135 MW, se presentan fallas agrupadas en los subsistemas de la unidad (auxiliares unidad). Se presentan fallas eléctricas en todos los subsistemas.
+Se revisan fallas y se encuentra que se presenta el evento alarma interruptor principal sobre corriente, luego el interruptor de respaldo se dispara por sobre corriente esto en los servicios auxiliares de la unidad. 
+se da reset al interruptor de respaldo y se normalizan los servicios auxiliares de la unidad. 
+Se procede a dar giro a la unidad hasta energizar (programa #1) se estabiliza la unidad y se procede a sincronizar (programa # 2) y se carga nuevamente con 135 MW.
+Este evento genera una indisponibilidad en la unidad de 12:21 a 12:56, no genera desviación por estar la maquina en re despacho.

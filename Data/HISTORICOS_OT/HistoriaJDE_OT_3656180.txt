@@ -1,0 +1,19 @@
+
+2017/12/06_ CARLOS ENRIQUE MONCADA. OT N° 3656180. 
+
+Se genera OT para atender falla de tranferencia 13. Kv en S/E Tablón.
+
+Servicios 13.2 Kv S/E Tablón
+
+2017/12/12_ CARLOS ENRIQUE MONCADA. OT N° 3656180. 
+
+Se realizan pruebas  en la transferencia, se encuentra falla en la celda +K04 interruptur planta Diesel en el Relé K4 de prueba.
+
+Se verifica el Relé K4, se realizan pruebas de transferencia, quedando en condiciones operativas la transferencia.
+
+Realizó: Grupo electrico, Electronico y Turno Operación N°1.
+
+Informó: Richard Jimenez y Walter Tobón.
+
+
+

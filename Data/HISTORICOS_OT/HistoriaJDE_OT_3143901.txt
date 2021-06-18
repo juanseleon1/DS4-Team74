@@ -1,0 +1,20 @@
+EL RADAR PEDIDO AL ALMACEN FUE UTILIZADO EN LA ESTACION TC-13 REBOSE PAJARITO SERIAL RADAR= 29028702 DE 20 METROS.
+EN LA ESTACION FUE INSTALADO EL RADAR DE 35 METROS SERIAL 29028711
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud:23 junio
+Tipo de mantenimiento: (Preventivo)
+Acciones de mantenimiento: 
+Estaciones hidrometeorológicas
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Limpieza de estación
+ Descarga y verificación de datos de la estación
+ Análisis de datos de estado
+               Actualización de programa de la estación
+ Cambio preventivo de equipos (Radar por shaft)
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación de sistema de transmisión
+ Verificación del nivel de mira vs. sensor
+               Calibración de pluviómetro
+  

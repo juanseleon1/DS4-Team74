@@ -1,0 +1,7 @@
+
+FECHA:  AGOSTO 19 DE  2014
+
+EJECUTO: PEDRO LUIS SOLANO   
+
+
+Se hace el cambio del modulo 1.0 en la botton box del AG2 este modulo es nuevo del la mercancia que llego para tenerlo encunta cuando hagan el inventario

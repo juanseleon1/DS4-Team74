@@ -1,0 +1,20 @@
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779339.
+Se realiza mantenimiento general, limpieza y verificación al cableado, todo se encuentra dentro de los parámetros normales y operativos.
+
+Se verifican los siguientes voltajes:
+ZE 200: 23.68 Vdc.
+ZE 100: 23.47 Vdc.
+6001:
+IN: 120 Vac
+OUT: 24 Vdc
+Se verifican canales de comunicación.
+El subsistema queda en condiciones para la operación comercial.
+
+Realizó: Richard Londoño, Jeniffer García.
+
+
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779339.
+OT programada para el mantenimiento TSAU U2 P3.
+
+
+XL: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU CONTROL IHM PLC Y TM 1703 DE LA UNIDAD

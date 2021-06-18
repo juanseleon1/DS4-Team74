@@ -1,0 +1,20 @@
+MP ANUAL EQUIPOS:
+
+- 2287 BARRAJE U1
+- 2288 BARRAJE U2
+- 2289 BARRAJE U3
+- 2290 BARRAJE U4
+- 2291 BARRAJE U5
+- 2292 BARRAJE U6
+
+
+PLANEADOR:OSCAR RESTREPO
+
+
+PROGRAMADOR:WILLIAM LOPERA
+
+AGOSTO 2 DE 2018.
+Se realiza mantenimiento anual electrico de acuerdo al instructivo, se verifica estados de los CT’ S y PT's de medida y se hace limpieza, verificación del estdao de los aisladores, mantenimineto a las cajas de borneras, y puntos de conexión de descargas parciales.
+Programó: William Lopera.
+
+

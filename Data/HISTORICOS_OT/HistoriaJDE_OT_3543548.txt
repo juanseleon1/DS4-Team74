@@ -1,0 +1,13 @@
+JULIO 18 DE 2017
+REVISAR INSTRUMENTACIÓN TRANSFORMADOR
+
+REALIZADO POR: ALEXANDER VILLA VELEZ - ANDRES YEPES
+
+OT: 3543548 TRANSFORMADOR DE POTENCIA PJ U1
+·Se realiza verificación de señales Alarmas y Disparos del transformador de Potencia las cuales se encuentran en buen funcionamiento
+ALARMAS
+
+Descripción Verificación  Relé U+GU3  Anuncio U+GC1Alta Temperatura Devanado AV 85°C  OK K19   Protección Unidad Alarma Alta Temperatura Devanado BV 85°C  OK K17    Protección Unidad Alarma Relé Buchholz Alarma OK K11   Protección Unidad Alarma Alta Temperatura Aceite 75°C  OK K15   Protección Unidad Alarma Nivel Aceite Máximo  OK K13   Protección Unidad Alarma Nivel Aceite Mínimo  OK K14   Protección Unidad Alarma 
+DISPAROS PROTECCIONES MECANICAS
+
+Descripción  Verificación  Relé U+GU3  Anuncio U+GC1Muy Alta Temperatura Devanado AV 95°C OK K20   Protección Unidad Activada  Muy Alta Temperatura Devanado BV 95°C OK K18   Protección Unidad ActivadaRelé Buchholz Disparo OK K12   Protección Unidad ActivadaMuy Alta Temperatura Aceite 85°C OK K16 Protección Unidad ActivadaDisparo Alivio Presión (Válvula Sobrepresión)  OK K21 Protección Unidad Activada

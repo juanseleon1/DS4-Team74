@@ -1,0 +1,40 @@
+- FECHA : MIÉRCOLES FEBRERO 27 DE 2019
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - EDGAR CHAVEZ - ALEX HINCAPIÉ
+- ASOCIADO A LA OT : 3807182
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+
+Datos de placa:         P = 3.0 HP     V = 460vac    I = 6.9A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí      
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 1.24 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  479 v
+       ST =   477 v                                                                
+       RT =  476 v
+       Corriente de arranque:  
+Fase R = 55 a
+       Corriente de marcha:  
+Fase R = 6.9 a
+Fase S = 7.2 a  
+Fase T =  7.0 a                                                                                
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 1 A     Calibración térmico de potencia : 7 A 1.0 A
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 7985.9 H
+
+6. Observaciones: El compresor arranca en 55 PSI y para en 61.07 PSI
+                                    * El control queda para operar normal.

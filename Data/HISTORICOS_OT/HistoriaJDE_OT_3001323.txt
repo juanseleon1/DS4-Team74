@@ -1,0 +1,12 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FEBRERO 03 DE 2016
+
+
+XL: LIMPIEZA Y MTTO GENERAL CONTROLADOR UNIDAD
+
+10-02-2016
+PROGRAMO:JOSE MONTOYA
+EJECUTO GRUPO ELECTRONICA
+Se realizó mantenimiento, limpieza del tablero de control.
+Se revisó la conexión de los cables y se reapretó la bornera de control.

@@ -1,0 +1,6 @@
+
+FECHA: ENERO 24 DE 2014 
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Se verifican parámetros y estados de alarmas comparándolos con los demás AG modernizados, encuentran dos estados de alarma cambiados el ST 272 y ST 273 que en la pagina de programación de alarmas tenían un estado diferente se corrigió y el AG respondió bien a los giros de la Yaw..

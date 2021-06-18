@@ -1,0 +1,7 @@
+
+FECHA: MARZO 12 DE 2015
+
+EJECUTANTE:  HENRY GIRALDO, ALVARITO PUSHAINA Y ELIECER PUSHAINA
+SOLICITANTE:  DIOMER DIAZ
+
+Se presenta falla por sobre corriente en la motobomba 1 de circulación de aceite de la caja multiplicadora, se revisa y se encuentra quemado el relé arrancador 111V2, se procede a cambiarlo, se da arranque al motor y se presentan chispas en el motor, se revisa y se encuentra pegado, se realiza el cambio de la motobomba y se prueba nuevamente, pero esta vez no trabaja el motor, se cambia nuevamente el relé 111V2 y se prueba y funciona adecuadamente, al parecer durante la primera prueba sufrió daños el primer relé cambiado.

@@ -1,0 +1,12 @@
+Favor Realizar mantenimiento y verificacion a los manometros de presion y temperatura de la estacion hidraulica, ademas verificar los transductores IW de presion aceite acumulador y el de temperatura del aceite.
+
+
+
+2015/01/09
+
+Se realiza mantenimiento y verificación de los instrumentos de presión tanque acumulador como manómetro de presión y transductor IW, este último fue cambiado por problemas de ajustes el nuevo fue verificado y calibrado con una curva presión versus corriente en mili amperios. Además se realiza verificación de la RTD y manómetro de temperatura de la estación  hidráulica  se encontró desviado unos 8 grados el manómetro de temperatura con relación al patrón de medida, se ajusta y verifica
+
+Realizado por Wtobonl
+TERMINADA CERRAR
+
+

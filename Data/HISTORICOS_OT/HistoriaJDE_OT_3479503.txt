@@ -1,0 +1,10 @@
+2017/05/11 RUBEN ARBOLEDA OT: 3479503
+Se realiza OT para tramitar la compra de 4 analizadores de red para los tranformadores de exitación, los cuales tienen las siguientes OT's: 
+3360959 TRANSFORMADOR EXCITACION U4 GT
+3360961 TRANSFORMADOR EXCITACION U6 GT
+3360962 TRANSFORMADOR EXCITACION U7 GT
+
+Se tramita la compra de uno adicional para tenrelo de repuesto. 
+
+2017/07/25 RUBEN ARBOLEDA OT:3479503
+Se reciben los 4 analizadores de red, queda pendeinte cada uno por instalar en su respectiva OT, se cierra esta OT de compra.

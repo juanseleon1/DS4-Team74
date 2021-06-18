@@ -1,0 +1,28 @@
+Junio 30 2014
+
+2:42 am:  Sale de sincronisma la Unidad 3 por alta termperatura cuba de aceite en cojinete combinado.
+
+Descripcion evento y posible causa.
+
+El paro de la maquina se da aparentemente por transitorio de temperatura detectado por la RTD sin que sea un aumento real de la temperatura en la cuba, se desconoce la cauda de estas oscilaciones que pueden ser causadas por problemas con la RTD como instrumento o con el transductor de temperatura.
+
+Hasta no detectarse la causa de estos tansitorios se han empleado medidas cautelares que consisten en filtrar estas señales y pasarlas por un temporizador para garantizar que la señal, cuando sea real, se sotenega en el tiempo y de paro a la unidad por temepratura.
+
+Hasta el momento esta medida se emplea solo en las RTD de los segmentos, se analiza la posiblidad de incluir este filtro en las RTD de la cuba.
+
+Queda en analisis las causas de las osiclaciones (cambio RTD y/o transductor) y la implementacion del temporizador en las demas RTD.
+
+Informa: Sandra Carmona - Juan Carlos Forero.
+
+Por favor ampliar informacion.
+
+
+Julio 02 2014
+
+Actualizacion
+
+De acuedo al analisis del evento, entre la ocurrencia de la alarma y el disparo, pasaron mas de 20 minutos durante los cuales si hubo incremento de temperatura y se descarta que haya sido un transitorio y problemas con el transductor o la RTD.
+
+Queda pendiente analizar la causa del aumento de la temperatura y las razones por la que se hizo caso omiso a la alarma hasta que se dio el disparo.
+
+Informa: Sandra Carmona

@@ -1,0 +1,8 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AE: REVISION Y CALIBRACION
+
+Procedimiento aplicable a todos los interruptores del tablero principal a 480v de casa maquinas, los interuptores de las transferencias automaticas del tablero de servicios miscelaneos a 208v y las transferencias automaticas de las tres unidades, al igual que la transferencia automatica del tablero de servicios miscelaneos a 208v de la subestacion Porce.  Consiste en realizar calibracion y ajustes (si se requiere) a los modulos de protecciones de los interruptores MASTER PACK, con el proposito de mejorar  su confiabilidad.
+
+FECHA : 04\ 03\ 2014 OT # 2459116,PROGRANMADOR : R JIMENEZ, EJECUTO : DAVISON PEREZ.
+SE REALIZA MANTENIMIENTO PREVENTIVO SEGUN EL INSTRUCTIVO A TABLERO DE CONTRO Y DE POTENCIA, NO SE REALIZARON PRUEVAS DE DISPAROS A LOS INTERRUPTORES

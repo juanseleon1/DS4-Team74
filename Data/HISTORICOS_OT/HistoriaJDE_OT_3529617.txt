@@ -1,0 +1,5 @@
+CAMBIAR VÁLVULA MOTORIZADA DEL INTERCAMBIADOR 2 DEL SISTEMA DE REFRIGERACIÓN DE LA UNIDAD 1, ESTE PRESENTA FUGA DE AGUA Y NO PERMITE EL LAVADO DEL INTERCAMBIADOR.
+
+PROGRAMADOR: FRANCIS LONDOÑO VREA, 03-07-2017
+
+Referente al TCSR Unidad 1: Se interviene el sistema ya que no se podia realizar lavado porque en el subsistema 2 se caia la presión por pase entre valvulas. Se cambia valvula Rotor - K del retorno de este subsistema, la cual es respaldada por una valvula manual y al momento de desmontarla no se observa fuga en está.           Cuando se prueba el sistema se evidencia que se cae la presión del subsistema 1 al drenar el intercambiador 2; por último se cierran el grupo de valvulas de entrada y salida de la bomba 2 y se observa que se sostiene la presión de entrada de la bomba 1. En conclusion, el cheque de la descarga de la bomba 2 y las valvulas de entrada presentan pase; razón por la cual se deben cerrar al momento de intervenirlo para lavarlo. Programar cambio de cheque y valvulas. Se deja subsistema 2 resirculando para probarlo y al momento de arrancar la unidad se solicita al grupo de operación trabajarla con el subsistema 1.

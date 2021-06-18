@@ -1,0 +1,8 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2017-11-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3641186, PASO:1         
+Se realizó mantenimiento al motor de motobomba cw8 refrig u7 gt    CORRIENTE: R:103,4, S:104,1, T:108,6, VOLTAJES RS:436,7, ST:441,2, TR:442,1,TEMPERATURA MAXIMA DE MOTOR 77,3°C, Se anexa el informe y la planilla a la OT. 
+
+DIAGNOSTICO:
+La temperatura de los cables en los bornes del motor se encuentran en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 15°C, lo cual implica una probable deficiencia en su operación, se  recomienda revizar el contacto electrico y ajustar las borneras. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+Se crea la OT: 3665024 para su revision

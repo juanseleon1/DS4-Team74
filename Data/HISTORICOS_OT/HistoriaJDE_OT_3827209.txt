@@ -1,0 +1,4 @@
+
+ABRIL 09/2019  OT:  3827209  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y CARLOS VALDELAMAR
+
+Se presenta falla por sobre corriente que dispara el breake 19F2, se verifica en la Top Box y se encuentra quemado el arrancador 3 de los motores de la yaw, se cambia y se prueba todo el sistema de potencia, aprovechando el paro se corrige la alimentación del tablero de la modernización, se coloca con el voltaje de 24Vdc que alimenta el módulo 4,0 y alimentaba el 7,0; se deja en servicio el aerogenerador.

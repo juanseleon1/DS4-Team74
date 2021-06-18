@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: JAIRO TORRES.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos, acometidas, motores del sistema de refrigeración de agua cruda y agua tratada. Se realiza medición de aislamiento a los motores (4) y se llenan planillas. Los equipos se encuentran en condiciones normales.
+
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD

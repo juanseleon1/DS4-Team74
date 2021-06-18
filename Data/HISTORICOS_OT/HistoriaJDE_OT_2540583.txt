@@ -1,0 +1,7 @@
+
+FECHA: MAYO 30 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+
+Se presenta un nuevo paro por SPEED ERROR 1, se procede a inspeccionar el estado de los sensores de baja y alta velocidad y se encuentra el soporte de este último suelto, se aprieta y se corrige distancia entre el sensor y el acople, se deja en funcionamiento el aerogenerador.

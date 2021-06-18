@@ -1,0 +1,5 @@
+La unidad 5 de Guadalupe 3 presenta falla en la medida de potencia activa, tiene una consigna de 39 MW y en sub estacion Salto muestra una medida de 46 MW.
+
+SE HACE UNA REVISION DEL CONTROL DEL REGULADOR, SE AJUSTAN BORNERAS Y CONEXIONES DE COMUNICACION Y SE NORMALIZA LA MEDIDA.
+
+REALIZO: GRUPO ELECTRONICA.

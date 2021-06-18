@@ -1,0 +1,4 @@
+2014/07/01 Gioavnny Diaz - Sebastian Hincapie
+Se realizó medida de sensores, y se encotro en funcionamiento normal. 
+
+Las puertas del interruptor de potencia, por el lado del seccionaodr no fue posible abrirlas a causa de falla en las chapas. 

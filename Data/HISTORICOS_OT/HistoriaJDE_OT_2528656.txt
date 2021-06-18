@@ -1,0 +1,6 @@
+Jueves mayo 15 de 2014
+Operación CCCG
+Revisar y restaurar señales de frecuencia y voltaje en sistema de control.
+
+MAYO 25 DE 2014.
+Se revisó la señal de frecuencia que venia del PECA 300, la cual estaba perdida la comunicación Modbus 485 y no se graficaba en el centro de control, se cambió el instrumento por un repuesto nuevo, programando todos los parámetros de él y se cambió la conexión en la tarjeta serial de comunes y se conectó en el bus serial de la unidad 2.

@@ -1,0 +1,3 @@
+2016/04/26 JEIOSN ORTEGA - SEBASTIAN HINCAPIE, PROGRAMO: RARBOLG
+Se realizo limpieza general a las baterias, medicion de voltajes y densidad de cada celda, se adicionó 5 litros de agua destilada, temperatura promedio 28°C, densidad promedio 1250
+Se realizó mantenimeinto con cargador conectado. 

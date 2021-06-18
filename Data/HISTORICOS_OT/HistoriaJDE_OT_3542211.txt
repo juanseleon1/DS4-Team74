@@ -1,0 +1,8 @@
+15/07/2017
+ALEJANDRO VERGARA
+
+REVISAR INTERCAMBIADOR DE CALOR AIRE AIRE YA QUE NO ESTA TRABAJANDO CORRECTAMENTE SE NOTA DESCONFIGURADO.
+
+15/07/17 RUBÉN ARBOLEDA.
+Se realizó limpieza del intercambiador aire-aire del CCM5, se encontró que está oscilando la temperatura entre -9 y -50°C. El ventilador superior está operando y el ventilador inferior no le llega voltaje desde la tarjeta electrónica. Por favor revisar la tarjeta y los sensores.
+

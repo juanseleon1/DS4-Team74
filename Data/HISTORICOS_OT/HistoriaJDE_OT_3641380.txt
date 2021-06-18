@@ -1,0 +1,7 @@
+Fecha: Noviembre 29/2017Programo: Daniel Palacios O.Ejecuto: Jairo Torres, Jhonatan Arango y Oscar Montoya.
+
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres. Contador operaciones Q0=1536, contador operaciones del motor de la bomba Q0=3072.
+Trabajo ejecutado por: Jairo Torres, Jhonatan Arango y Oscar Montoya.
+
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

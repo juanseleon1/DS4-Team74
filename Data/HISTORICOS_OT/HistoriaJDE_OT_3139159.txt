@@ -1,0 +1,7 @@
+06/08/2016
+SOLICITANTE: RAMIRO A TORRES.
+FAVOR CORREGIR INDICACION ERRONEA DE LA MOTOBOMBA CW7, QUE FIGURA EN EL SCADA TRABAJANDO SIN SER ESTO REAL O AL CONTRARIO
+GRACIAS. 
+
+2016/06/09 JUAN DAVID GARCIA - OSCAR GIRALDO, PROGRAMO: RARBOLG, OT: 3139159
+Se realizó revisión general del sistema, se encontró señal ST+ en bornera de tablero de control de motobomba perrdida, se identificó que estaba con un puente entre las borneras: CX7.6 Y CX7.8, esta señal fue instalada por Juan Carlos Ortíz para realizar pruebas en la unidad, se coordió con él para retirar el puente, se retiro y se realizó purebas de señalización y arranque en remoto, respondio normalmente. 

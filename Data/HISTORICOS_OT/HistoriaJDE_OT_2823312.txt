@@ -1,0 +1,7 @@
+20 JULIO 2015
+
+18:32 Sale de sincronismo la unidad #1 por paro rápido discrepancia traba hidráulica (TRV). Se intenta sincronizar de nuevo pero nuevamente se genera el paro rápido por la misma causa.
+
+Se realizan pruebas de accionamiento del mecanismo de bloqueo del distribuidor y se observa que la traba hidráulica desaplica pero se aplica nuevamente aún con la orden de desaplicación puesta; sugiriendo falla en los sellos del pistón. Se retira cilindro hidraulico para cambio de sellos y se bloquea manualmente la cuña de bloqueo del distribuidor en posición "retirada".
+Ejecutó: Equipo de operación y mantenimiento.
+Informó: Santiago Ramírez.

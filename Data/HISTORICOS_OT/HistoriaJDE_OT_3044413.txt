@@ -1,0 +1,13 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación del tanque diesel solicitado por la central Guatapé
+
+Programador: Camilo Montagut - 11/04/2016
+
+Se realiza la adecaución mecánica del tanque diesel de repuesto de la central. A continuación se registran las actividades realizadas:
+
+- Manufactura y montaje de piezas faltantes
+- Prueba de estanqueidad del tanque (con agua)
+- Adecuación de soporte para piso
+- Fabricación de refuerzos
+- Pintura en general
+
+La actividad se efectúa con el fin de poner en servicio este equipo ya que la central de Guatapé lo ha solicitado

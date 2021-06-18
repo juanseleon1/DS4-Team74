@@ -1,0 +1,9 @@
+
+FECHA: NOVIEMBRE 08 Y 09 DE 2015  OT 2928714
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta alarma por Feedback G1 Top, se inspecciona y se encuentra el Mcb 16F1 disparado, se repone y se da arranque al AG, al momento de generar se presenta falla nuevamente en el circuito del G1, se inspecciona y se encuentra evidencia de posible corto entre fases por contaminación y perdida de termoencogible de los cables, además se quemaron 2 fusibles de 125 Amp. Mañana se realizara las respectivas correcciones.
+
+Se realiza el cambio del contactor 17K2, el contactor que se coloco es el retirado del AG13 en días pasados, a este se le cambiaron los contactos, y se colocaron barrajes limpios, también se le coloco termoencogible a los cables de la parte superior del contactor, también se cambiaron los fusibles de 125 AMP de la fase L1 y L3. Se deja en servicio el aerogenerador.

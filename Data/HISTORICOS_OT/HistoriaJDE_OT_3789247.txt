@@ -1,0 +1,5 @@
+FECHA: 27/11/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+DESCRIPCIÓN: Se escucha ruido anormal en el filtro motorizado #2 del sistema de refrigeración de Guadalupe III durante su funcionamiento.
+26/12/2018
+Se corrige el ruido anormal mediante la reparacion de uno de los rodillos que soportan la catalina lado reductor, el cual se encontraba con sus rodamientos desgastados lo que ocasionaba el ruido al funcionar el filtro.
+Fue necesario la construccion del eje y piezas internas del mecanismo del rodillo en el tallaer industrial, se monta el rodillo, se opera el equipo comproando su normal funcionamiento.

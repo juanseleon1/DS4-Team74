@@ -1,0 +1,13 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DEL REGULADOR HIDRAULICO
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico del regulador hidráulico y registrando las actividades ejecutadas en el mismo equipo:
+
+- Cambio de aceite hidráulico por aceite Tellus 68
+- Adecaución de mirilla de nivel en el tanque sumidero
+- Inspección de las placas orificio en la tuberia de descarga de los actuadores de los inyectores
+- Limpieza y remoción en todas las tuberías del aceite remanenete mobil 68
+
+Ejecuta: equipo mantenimiento mecánico GIII

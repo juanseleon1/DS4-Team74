@@ -1,0 +1,14 @@
+XL: REVISION Y MTTO GENERAL
+CENTRO CONTROL MOTORES GT
+
+EL INSTRUCTIVO DE MANTENIMIENTO SE REFIERE ES AL PLC, FALTA LAS ACTIVIDADES PARA EL CENTRO CONTROL CCM
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2514895
+Se realizó revisión de tranferencia del CCM1
+
+Se registró los siguientes tiempos: 
+Tranferencia hacia respaldo (DP1): 14 segundos
+Tranferencia hacia principal (DP2): 2 minutos
+
+Se encontró en funcionamiento normal.
+Duración: 0.5 Horas

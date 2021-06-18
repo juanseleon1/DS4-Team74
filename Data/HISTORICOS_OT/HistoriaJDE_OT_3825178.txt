@@ -1,0 +1,5 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 02-04-2019
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista), Se trasladará estacion debido a que en estos momentos el radar no esta leyendo el nivel del rio (orilla Seca)

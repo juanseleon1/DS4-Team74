@@ -1,0 +1,37 @@
+MP ANUAL, EQUIPOS:
+2321 COJINETE TURBINA U1 G3
+2322 COJINETE TURBINA U2 G3
+2323 COJINETE TURBINA U3 G3
+2324 COJINETE TURBINA U4 G3
+2325 COJINETE TURBINA U5 G3
+2326 COJINETE TURBINA U6 G6
+2315 COJINETE INFERIOR U1 G3
+2316 COJINETE INFERIOR U2 G3
+2317 COJINETE INFERIOR U3 G3
+2318 COJINETE INFERIOR U4 G3
+2319 COJINETE INFERIOR U5 G3
+2320 COJINETE INFERIOR U6 G6
+2309 COJINETE SUPERIOR U1 G3
+2310 COJINETE SUPERIOR U2 G3
+2311 COJINETE SUPERIOR U3 G3
+2312 COJINETE SUPERIOR U4 G3
+2313 COJINETE SUPERIOR U5 G3
+2314 COJINETE SUPERIOR U6 G6
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR:CAMILO MONTAGUT
+
+Programador: Camilo Montagut - 04/11/2018
+
+Se realiza mantenimiento preventivo a todo el sistema del cojinete superior, mantenimiento que relacionó las siguientes actividades ejecutadas:                                                                         
+
+- Desmonte y posterior normalización del pisador del compartimiento de los sensores del cojinete.
+- Inspección de fugas o deformaciones en los intercambiadores de calor.
+- Limpieza interna de la tubería de cobre de los intercambiadores de calor.
+- Cambio de empaquetadura y prueba de estanqueidad del sistema de refrigeración.
+- Se adicionan 4 litros de aceite mobil heavy médium ISO 68 llevando el aceite a nivel patrón. 
+- Ajuste de la tornillería del sistema de la lubricación forzada.
+- Limpieza general en el compartimiento del cojinete.
+
+Ejecuta: equipo mantenimiento mecánico UOG

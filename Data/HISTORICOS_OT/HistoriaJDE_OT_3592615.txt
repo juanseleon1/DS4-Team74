@@ -1,0 +1,13 @@
+2017/09/06 RUBEN ARBOLEDA Segun informe diario:
+PARO PARA REVISION DE VIBRACIONES
+MOTOBOMBA CW2 REFRIG U2 GT - 5910
+Fecha: 2017/09/06 Hora: 14:00 Categoría: Correctivo
+Usuario: Alejandro Vergara Vargas OT: 3580356
+Se da paro para revisión por parte del grupo mecánico, por altas vibraciones en la motobomba queda
+abierto circuito 480 V y con tarjeta de seguridad
+
+2017-09-06 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3592615, PASO:1          
+Se realizó deconexión eléctrica de la motobomba CW2 lista para que el grupo e manteimiento mecánico realice las labores de revisión
+
+2017-09-08 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3592615, PASO:2          
+Se realizó la conexión eléctrica de la motobomba CW2 despues de finalizar las labores del grupo de amnteimeinto mecánico donde se encontró lo siguiente: la rejilla que tiene en la succión se encontró muy obstruida con pantano, ramas y pedazos de madera, lo cual no permitía el ingreso continuo de agua. Se limpió la rejilla y se niveló la motobomba. Luego de este trabajo se dio arranque y se realizaron medidas de vibración con resultados normales de trabajo.

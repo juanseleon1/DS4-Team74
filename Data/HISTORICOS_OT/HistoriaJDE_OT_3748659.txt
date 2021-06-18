@@ -1,0 +1,12 @@
+MP ANUAL:
+ - 2715 CALEFACCIÓN GENERADOR U1 - 2716 CALEFACCIÓN GENERADOR U2 - 2717 CALEFACCIÓN GENERADOR U3 - 2718 CALEFACCIÓN GENERADOR U4 - 2719 CALEFACCIÓN GENERADOR U5 - 2720 CALEFACCIÓN GENERADOR U6
+
+PLANEADOR:OSCAR RESTREPO
+
+
+PROGRAMADOR:WILLIAM LOPERA
+
+Agosto 2 de 2018
+Se realizó el mantenimiento anual electrico según instructivo, limpieza al tablero de control, tambien fueron realizadas las pruebas eléctricas al banco resistencias.
+Ver registros en el archivo de mantenimiento de Guadalupe III, sin ninguna novedad.
+Programó: William Lopera

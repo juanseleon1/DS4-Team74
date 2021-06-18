@@ -1,0 +1,6 @@
+TOMAR TERMOGRAFIAS A LOS EQUIPOS PERIFERICOS DE LA SUBESTACION PORCE.
+FECHA: NOVIEMBRE 13-2015
+ SOLICITANTE OSBALDO LOPERA
+
+Se estan realizando las termografias a los equipos perifericos de subestacion.
+los archivos se encuentran en el servidor epm-DC07 MANTENIMIENTO/TERMOGRAFIA/SUBESTACION.

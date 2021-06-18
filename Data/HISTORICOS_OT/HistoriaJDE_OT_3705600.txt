@@ -1,0 +1,20 @@
+2018-04-03 REALIZÓ: JHONATAN USME-SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3705600, PASO:1          
+Se realizó Mantenimiento preventivo a la Unidad 1, limpieza de recinto de anillos y medida de escobillas con el siguiente resultado
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 22,5
+A.S. 2A: 42,4
+A.S. 3A: 32,5
+A.S. 4A: 30,2
+A.S. 5A: 46,3
+A.S. 6A: 24,7
+A.S. 7A: 33,7
+A.S. 8A: 30,5
+A.I. 1A: 39,2
+A.I. 2A: 47,5
+A.I. 3A: 34,6
+A.I. 4A: 33,9
+A.I. 5A: 46,8
+A.I. 6A: 36
+A.I. 7A: 49,4
+A.I. 8A: 41,6
+OBSERVACIONES: Se realizo el cambio de la escobilla 1A del anillo superior

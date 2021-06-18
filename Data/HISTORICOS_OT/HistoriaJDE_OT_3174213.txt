@@ -1,0 +1,32 @@
+2016/07/12 SERGIO OLIVARES, JUAN DAVID FLOREZ, FERNANDO RUIZ, OT: 3174213
+Tarea: realizar inspección general al estado actual del aire acondicionado de subestación.
+
+Se identifico la necesida de realizar mantenimiento general a las UMA's, la condensadora 2 presenta falla en el compresor se encuentra aterrizada, el ventilador se encuentra en buenas condiciones, requiere mantenimeinto y lubricación. 
+
+Queda pendiente realizar revision del equipo para el segundo piso. 
+
+2016/07/13 JUAN DAVID FLOREZ, FERNANDO RUIZ, PROGRAMO: RARBOLG, PASO 2 ot: 3174213
+Se realizó revision general del aire del piso 2, diagnostico general del estado actual: 
+1. Cambiar COmpresor 1, especificaciones:
+ Marca: Copeland
+ Fases: 3
+ Voltaje: 208 / 230 VAC
+ LRA 183 Amperios (Se divide por 6)
+ Modelo: BRE4-0750-TFC-505
+ Serie: 94A51290
+
+2. Lubricar y realizar mantenimiento general a las condensadoras
+
+3. Realizar lavado con desincrustante, se requieren 12 litros
+
+4. Comprar: 
+Yumbolo de 2 cms : cantidad 12 metros cuadrados
+Termostato de doble etapa
+Termotato de una etapa
+100 tornillo autoperforante calibre 10 de 5/16 
+8 Tiras de Rubatex 1 y 1/8 de puldaga, de 2 metros c/u
+1 Rollo de cinta de rubatex 
+3 filtros roscable EK-305 de 7/16 para tubería de 5/8. (2 grandes y 1 pequeño)
+
+
+

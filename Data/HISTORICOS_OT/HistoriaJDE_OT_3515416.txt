@@ -1,0 +1,14 @@
+MP ANUAL EQUIPOS:
+
+- 2287 BARRAJE U1
+- 2288 BARRAJE U2
+- 2289 BARRAJE U3
+- 2290 BARRAJE U4
+- 2291 BARRAJE U5
+- 2292 BARRAJE U6
+
+JUNIO 30 DE 2017
+Se desacoplan las barras de salida del estator para pruebas eléctricas, se realiza mantenimiento de acuerdo al instructivo, se verifica estados de los CT’ S y se hace limpieza, luego de realizar el respectivo mantenimiento se vuelve a normalizar en barraje, sin ninguna novedad.
+Programó: William Lopera. 
+
+

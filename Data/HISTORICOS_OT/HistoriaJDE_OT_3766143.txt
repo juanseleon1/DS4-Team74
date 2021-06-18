@@ -1,0 +1,9 @@
+SOLICITANTE: OPERACIÓN TURNO 3/LUIS FABIÁN GIRALDOFECHA: 15/09/2018
+
+Salida forzada unidad TR1 por falla grave regulador de tensión principal, originada por alta temperatura en campo según despliegue de alarmas en IHM del regulador. Requiere revisión y correctivo.
+
+17/09/2018
+
+SE ENCUENTRA FALLADA LA CPU DEL REGULADOR DE TENSION, PARA DESPEJAR ESTA FALLA SE HACE NECESARIO RESETEAR (APAGARLA Y PRENDERLA NUEVAMENTE), Y DEJAR LA OTRA POR FUERA PARA QUE NO CAUSE CONFILCTOS DE COMUNICACIONES...
+
+JUAN A. CAICEDO HENAO

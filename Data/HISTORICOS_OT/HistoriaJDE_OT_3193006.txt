@@ -1,0 +1,46 @@
+FECHA: MARTES 02/08 /2016
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: WILDE HERRERA, RUBEN LOPEZ 
+ASOCIADO A LA OT: 3193006
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 _________12____________
+
+Zapata No 2 _________13____________
+
+Zapata No 3 _________13____________
+
+Zapata No 4 _________13____________
+
+Zapata No 5 _________12____________
+
+Zapata No 6 _________12.5____________
+
+
+
+
+Observaciones:__las zapatas se deben cambiar en el proximo mantenimiento, el espesor esta proximo a la medida minima. ________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

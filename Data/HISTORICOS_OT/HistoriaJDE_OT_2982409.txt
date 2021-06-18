@@ -1,0 +1,11 @@
+2016/04/29_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION DE LA ESTACION DE INGENIERIA . 
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Estaciones de operación y de ingeniería en casa maquinas y subestación.
+
+Realizar mantenimiento y limpieza a monitores y CPU de las estaciones de operación y de ingeniería, archivar la información  del histórico de eventos HDSR. Realizar mantenimiento de los CIV´s y actualización de variables y depuración de alarmas en estación

@@ -1,0 +1,16 @@
+Solicitante-Planeador: 355694
+Aprobador: 4994
+Fecha de solicitud: 14-12-2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+
+Estaciones hidrometeorológicas
+
+Realizar las siguientes acciones de mantenimiento preventivo:
+                Inspección general del estado de la estación
+                Limpieza de estación
+                Descarga y verificación de datos de la estación
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+                Calibración de pluviómetro
+              

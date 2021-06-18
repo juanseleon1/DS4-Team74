@@ -1,0 +1,14 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION U2  DE LA CENTRAL PORCE II.
+
+Nota: El informe se en cuentra en el servidor U2; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+04 Area Guadalupe GP ow4860
+05 Central porce II OW 4694
+04 unidad generación U2 OW 116262
+01 vibraciones mecánicas 
+Rutas porceII U2
+
+Ademas el informe esta en el OW
+
+La unidad esta en condiciones normales de funcionamiento.

@@ -1,0 +1,132 @@
+ABRIL 29/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANY SANTAMARIA
+WILSON CANO
+PEDRO ROBAYO
+JONATHAN DUQUE
+
+Se colocan 9 cables flexibles de potencia de 32 metros cada uno 
+
+
+
+MAYO 20/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JOAN GOMEZ
+DANIEL MUÑOZ
+
+Se empiezan a colocar los cables de potencia entre tableros y generador, se terminan de instalar los cables de potencia y tierras en la góndola, los de potencia queda faltando conectarlos ya que estamos a la espera de la llegada de cintas y termoencogible.
+
+
+MAYO 23/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JOAN GOMEZ
+DANIEL MUÑOZ
+
+Se coloca cinta y termo encogible a los cables de potencia en la góndola top box y generador) quedo pendiente conectar en el generador ya que le faltan las barras de soporte donde van instalado el barraje del generador.
+
+
+JUNIO 10/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANY SANTAMARIA
+WILSON CANO
+PEDRO ROBAYO
+
+En el AG12 se coloca el Main Switch y el contactor 24K1 y se colocan las terminales a los cables que bajan y también se les colocan las terminales a los cables de alimentación de los condensadores.
+
+
+
+JUNIO 11/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANY SANTAMARIA
+WILSON CANO
+PEDRO ROBAYO
+
+
+Se colocan 4 módulos y se colocan las platinas verticales entre el contactor 24K1 y el barraje, se colocan las cuatro tierras dentro de la torre
+
+
+
+JUNIO 17/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ:
+JOAN GOMEZ
+
+Se tienden los cables que salen por la parte inferior del Main Switch y que van a la alimentación de los servicios auxiliares (alimentar Trafo 690V - 400V).
+
+
+
+JULIO 10/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANY SANTAMARIA
+WILSON CANO
+PEDRO ROBAYO
+ALVARITO PUSHAINA
+
+Se hace la excavación entre la torre y la caseta de transformación para sacar los cables que estaban mochos y se cambian.
+
+
+
+JULIO 11/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANY SANTAMARIA
+WILSON CANO
+
+Se hace la conexión de los 12 cables de salida de Main Switch al transformador.
+
+
+
+OCTUBRE 19/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+HENRY GIRALDO
+
+En la mañana al retomar los trabajos y reiniciar los equipos el LPC (AG14) mostro mensaje al parecer de error disco duro, coloque el LPC del AG15 y configure el RFC que tenía como 15 y le coloque la tarjeta del AG15, queda monitoreándose desde el Scada como AG15.
+
+
+
+
+
+
+
+OCTUBRE 20/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+HENRY GIRALDO
+PEDRO ROBAYO
+
+Se cambia el módulo 7,15 ya que era el causante de la falla de nivel hidráulico, se realiza drenado del sistema de los Tip´s y frenos principales, al girar la yaw se produce alarma de Stop Yaw Error, uno de los sensores de la corona de la yaw se encuentra malo, por lluvia en la zona debimos bajar. Pendiente cambiar sensor y colocar tapa al cubo.
+
+
+
+OCTUBRE 21/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+HENRY GIRALDO
+PEDRO ROBAYO
+CARLOS VALDELAMAR
+
+Se cambia el sensor de la yaw se verifica el correcto funcionamiento, se coloca la tapa del cubo, debido a que la maquina no posee veleta y en almacén no hay se realiza ensayo con un anemómetro para borrar la alarma de dirección de viento, al anemómetro se le amarra en la parte superior la pieza de la veleta que da la dirección y se deja amarrado el conjunto en la baranda de posicionamiento que está anclada a la caja multiplicadora, con esto tenemos la señal de dirección pero moviendo la yaw de forma manual.
+
+Se alarma el Wago y no se deja reponer se cambia por el del AG15.
+
+Se empalma el cable de control que va subterráneo entre la Bottom Box y el tablero de acrílico en la estación de transformación, este lleva las señales del relé Bucholz y la señal de disparo de uno de los fusibles.
+
+Se realizan pruebas de giro y apertura de los Tip's respondiendo bien a la orden de paro, se deja en servicio pero a los 15 segundos aproximadamente después de cerrar el bypass se presenta paro, se observa que se pierden las señales del módulo 151A2, se cambia este módulo pero la falla vuelve a ocurrir, se intercambian las dos fuentes de este tablero pero la falla continua, se coloca una fuente de almacén pero continua lo mismo, se paran las pruebas por el día de hoy debido al incremento de las velocidades de viento.
+
+
+
+OCTUBRE 22/2018 OT: 3718541  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+HENRY GIRALDO
+PEDRO ROBAYO
+CARLOS VALDELAMAR
+
+Se colocan los elementos retirados del AG6 y se da reset, el aerogenerador entra en servicio adecuadamente, se le da paro para mejorar la ubicación del anemómetro que se tiene como veleta, durante los trabajos para ubicarlo se presentaron lluvias y fue necesario colocarlo provisionalmente en la ventana trasera por donde está el acceso al radiador, se deja en servicio el aerogenerador.

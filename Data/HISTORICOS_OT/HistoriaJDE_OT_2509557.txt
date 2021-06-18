@@ -1,0 +1,12 @@
+18/04/2014
+
+falla la IHM del tablero TCCSU1 , se encuentra error en lectura de disco.
+
+
+18/04/2014
+
+En la IHM del TCCSU1 se realiza verificacion del disco duro y se encuentran segmentos con problemas de escritura, se realiza cambio de disco duro y se monta iamgen de este sistema. la posible causa de esta falla es la excesiva vibracion que presenta este tablero , se instalan medidas para amortiguar la vibracion de esta IHM y queda en observacion su comportamiento.
+
+Realizado por Wtobonl
+
+termina cerrar

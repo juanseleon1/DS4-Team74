@@ -1,0 +1,18 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento correctivo de la válvula mariposa # 2 de cámara de válvulas de la central de Guadalupe III
+
+Programador: Camilo Montagut - 2016/11/01
+
+La ejecución del restablecimiento mecánico comprendió los siguientes pasos:
+
+- Cambio del aceite hidráulico en todo el circuito. Además se realizó limpieza en toda la tubería y el tanque sumidero.
+- Mantenimiento preventivo a la válvula distribuidora del circuito hidráulico.   
+- Adecuación de punto de muestreo de aceite hidráulico.
+- Remoción del bloque mecánico que se le dispuso a la válvula para evitar su operación.
+- Cambio de las mangueras de presión pertenecientes al servo de la tubería de presión # 2 de la etapa 2.
+- Rotulación de los equipos y elementos al circuito hidráulico. 
+
+Ejecuta: equipo manteninimiento mecánico UOG
+
+
+
+

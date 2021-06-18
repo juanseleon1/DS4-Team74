@@ -1,0 +1,10 @@
+Miercoles 14 de Marzo / 2018
+
+
+Referente al TLCT U 3: Los segmentos 5, 6, y 7 presentan un incremento de temperatura de 4 °C aproximadamente con respecto a los demas segmentos, datos tomados con potencia de 144MW, segmento 5 registra 59.3°C - segmento 6 registra 60,5°C, segmento 7 registra 58,5 °C, la alarma por temperatura en este sistema esta setiada en los siguientes valores  segmentos 6 y 7 en 63°C segmento 5 en 62°C, disparo segmentos 6 y 7 en 68°C, disparo segmento 5 en 67°C, se solicita revision en coginete por grupo mecanico y revision de las RTDS grupo electronico.
+
+Turno 2
+
+Jorge peñaranda
+
+Sabado 17 de Marzo con la unidad parada se evidencia que todos los segmentos estan en la misma temperatura, entonces al parecer el problema es mecanico y no de las RTDS, aun que de igual manera se deberian inyectar para mayor seguridad.

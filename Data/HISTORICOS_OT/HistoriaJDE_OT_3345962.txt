@@ -1,0 +1,7 @@
+SOLICITANTE: OPERACIÓN G3 TURNO 3FECHA: 17/12/2016
+
+UPS CONTROL AUXILIARES C/M G3 ALARMADA EN MODO BY PASS.
+DICIEMBRE 18 DE 2016
+Por presentar falla en el inversor, se procedió a resetear la UPS y no fue posible normalizarla, por lo que se procedió a revisar la alimentación de entrada y la carga de la UPS sin encontrar ninguna anomalía. Se instalar otra UPS que tenía la unidad operaciones Porce de repuesto del mismo modelo y de igual capacidad (de 20 KVA) a la que se tenía instalada, se normaliza y se hace pruebas de autonomía al banco de baterías operando bien el inversor por un tiempo de 15 minutos donde se decidió dar por terminada la prueba debido que el voltaje de baterías no bajaba de 200 Voltios y la corriente que suministraba el banco de baterías era de 25.5 Amperios, se restablece la alimentación de AC y la UPS normaliza inmediatamente sin quedar con ninguna alarma.
+Atendió: Grupo eléctrico y electrónico.
+Informó: Uaimer Días, William Lopera.

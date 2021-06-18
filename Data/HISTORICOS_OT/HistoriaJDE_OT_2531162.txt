@@ -1,0 +1,6 @@
+
+FECHA: MAYO 07 DE 2014 
+
+RESPONSABLE:  PEDRO SOLANO Y HENRY GIRALDO
+
+Se realiza una verificación a las conexiones de los tiristores y se encuentra un cable fracturado en la Línea 3, este cable es uno de los que salen de cada tiristor, se corrige y se coloca una nueva terminal, se realizan pruebas y la maquina queda funcionando bien, quedara funcionando bajo 10 m/s durante 120 horas..

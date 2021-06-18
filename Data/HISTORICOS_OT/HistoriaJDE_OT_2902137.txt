@@ -1,0 +1,8 @@
+PREVENTIVO MECANICO VALVULA ADMISION UNIDAD GENERACION GUADALUPE 3
+
+
+Ot: 29021137 - CM: Válvula de admisión - Programador: Camilo Montagut - 28/10/2015
+
+Se realiza el desmonte de los filtros y se ejecuta la limpieza respectiva. Se montan los filtros y no se registran novedades
+
+Ejecuta: equipo mantenimiento mecánico GIII

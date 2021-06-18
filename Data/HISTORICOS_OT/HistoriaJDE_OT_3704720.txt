@@ -1,0 +1,22 @@
+2018/03/01
+REVISAR REGULADOR AVR1 EL CUAL SE ENCUENTRA EN FALLA , SE TRANSFIERE AUTOMÁTICAMENTE AL AVR2 
+
+INFORMA: URIEL CASTRILLÓN -- ADRIÁN NARVÁEZ
+
+
+18/03/2018
+
+se realizan ajustes en este regulador ademas de cambiar el transductor UV30, se espera por oportunidad realiar el cambio de este transductor y realizar nuevamente pruebas.
+
+Realizado por Wtobonl
+
+
+25/03/2018
+
+Se realizan pruebas y verificaciones en los transductores, se instala osciloscopio y ademas se logra comunicacar con el programa del regualdor de tension, queda pendiente realizar pruebas y ajustes en este sistema para lograr evitar que este se falle de nuevo.
+
+
+PENDIENTE 
+
+
+SE CIERRA LA OT3694147 POR TIEMPO CUMPLIDO Y SE GENERAO ESTA OT  PARA DAR CONTINUIDAD HA ESTA FALLA  

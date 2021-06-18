@@ -1,0 +1,8 @@
+07/05/2018.7:16.
+Turno de Operación 3 - Mauricio Caicedo-John Meneses-Wilson Arango.
+
+Se identifica que el Interruptor principal del TPU no realizó la transferencia de cambio de Alimentación, se solicita atender y diagnosticar el equipo Serv Auxiliares AC TPU4 U4 G3.
+
+JUNIO 15 DE 2018.
+Se revisa la transferencia de los servicios auxiliares 440 Vac dela unidad, encontrando mal contacto en los micro suiches de posición del interruptor Q02, se realiza limpieza, ajuste y pruebas de su correcto funcionamiento.
+William Lopera

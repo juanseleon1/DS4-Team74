@@ -1,0 +1,20 @@
+FECHA: 28/03/2018  
+
+DESCRIPCION: FAVOR REVISAR EL FUNCIONAMIENTO DEL HIDROEYECTOR  DEL POZO DE DRENAJE DE GUADALUPE 4,  SE REALIZO PRUEBA DE FUNCIONAMIENTO POR ESPACIO DE 30 MINUTOS  Y NO SE OBSERVA BAJAR  EL NIVEL DEL AGUA.  POR EL CONTRARIO,  LA BOMBA PRINCIPAL DE DRENAJE TRABAJO  3 VECES  DURANTE ESTE PERIODO DE TIEMPO .
+
+INFORMO: TURNO 2 FRANCISCO CORDOBA- IVAN ZAPATA-  ALVEIRO FERNANDEZ
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:CAMILO MONTAGUT
+
+MARZO 28 DE 2018
+
+Ot: 3704784 - Hidroeyector G4 Falla - Programador: Camilo Montagut - 03/04/2018
+
+Por solicitud de operación se revisa el funcionamiento del equipo ya que no está trabajando correctamente.  Se realiza limpieza al filtro de la tubería aguas arriba de la válvula reductora de presión y se drena la válvula piloto de la misma válvula reductora.
+Se entrega a operación el equipo operando correctamente.
+
+NOTA: Queda pendiente disponer válvula de drenajes en el filtro de la tubería, actualizar el procedimiento de operación del hidro inyector y montar manómetros aguas arriba y aguas debajo de la válvula reductora de presión
+
+Ejecuta: equipo mantenimiento mecánico

@@ -1,0 +1,18 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+FEBRERO 27 - 2014
+1. ANTES DE LIMPIEZA
+ROTOR + BARRAJE 0,08 M
+ROTOR  0,08 M 
+BARRAJE 0,08 M
+ 
+2. DESPUES DE LIMPIEZA 
+ROTOR + BARRAJE 2,48 G
+ROTOR  3,73 G 
+BARRAJE 6,27 G
+ 
+Se hicieron varias medidas en las cuales se evidencio un alto aislamiento del rotor en comparación con otras
+unidades, adicionalmente se utilizó 2 equipos de medida, los cuales arrojaron valores muy similares.  
+
+REALIZÓ: Giovanny Diaz - Guillermo Cordoba - Mario Restrepo 
+REVISO: Ruben Dario Arboleda 

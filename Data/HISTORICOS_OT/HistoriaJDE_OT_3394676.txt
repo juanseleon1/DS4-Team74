@@ -1,0 +1,8 @@
+2017/09/06 _ CARLOS ENRIQUE MONCADA. OT N° 3394676.
+Estación de operación (CENTRAL LOG) en casa maquinas.
+
+Se revisa conectividad del sistema CENTRAL LOG encontrando fallas asociadas a los Suiches dado que estos se encuentran apagados por que las fuentes de ellos estan malas.
+
+Se realiza desmonte para su reparación cambiando componentes electrónicos. Se hacen pruebas de desempeño de los dos suiches quedando estos habilitados.
+
+Realizó: Ivan Dario Cano, Carlos Moncada.

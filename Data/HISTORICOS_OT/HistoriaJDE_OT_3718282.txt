@@ -1,0 +1,7 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 27-04-2018
+Tipo de mantenimiento: Proactivo
+Acciones de mantenimiento:
+Ajustar miras de la torre de captación y del vertedero con la cota real del embalse
+Ajustar radar con la cota real del embalse

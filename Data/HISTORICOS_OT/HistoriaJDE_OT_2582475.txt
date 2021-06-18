@@ -1,0 +1,16 @@
+AGOSTO 15-2014
+
+LIMPIEZA DEL EQUIPO Y HACER PERMISO DE TRABAJO Y CONSIGNACION LOCAL DE LA MAQUINA
+
+-------------------------------------------
+
+fecha: 2014-08-17 ot: 2582475  mtto: eléctrico
+ejecutó: JHONATAN ARANGO - CAMILO CARDONA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTOR EXTRACTOR DE POLVO DE FRENADO perteneciente  al sistema de generador (S2). Según IDM: GCP2E0017.  se encuentra EL PULSADOR DE ARRANQUE EN ESTADO DEFECTUOSO Y SE REPARA. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencia LA RESPECTIVA PLANILLA DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+el mtto se realiza por oportunidad con planta en 0 mva.
+registro de datos:
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S471R24,8R7,3R132 500S - T468S22,3S8S107 500T - R468T22,9T8T130 500
+*** SE REOCOMIENDA MARCAR LA PERILLA DE SELECCIÓN (1 - MANUAL Y 2 - AUTOMATICO). EL DISPOSITIVO DE CERRADURA DE LA TAPA SE ENCUATRA DEFECCTUOSO. SE CAMBIA BOMBILLA INCANDESCENTE POR UN AHORRADOR, PERO SE DEJA INTERRUPTOR DE ILUMINACIÓN ABIERTO. 
+informa: CRISTIAN GÓMEZ
+-------------------------------------------
+

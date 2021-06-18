@@ -1,0 +1,44 @@
+FECHA: JIUEVES 02/02/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RODOLFO GAR4CES, ANDRES ALZATE
+ASOCIADO A LA OT: 3383188
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 _________12____________
+
+Zapata No 2 _________13____________
+
+Zapata No 3 _________13____________
+
+Zapata No 4 _________12____________
+
+Zapata No 5 _________12____________
+
+Zapata No 6 _________12____________
+
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

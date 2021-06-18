@@ -1,0 +1,5 @@
+Solicitante: Juan David Gutierrez Fecha: 2/1/2015
+
+Descripcion: La valvula 656 del mando hidraulico de la valvula esferica de la unidad N°1, presenta pase de agua por su camara de drenaje, estando la unidad parada, condicion que es diferente a las otras dos unidades.
+
+Se calibra la valvula y queda en condiciones normales

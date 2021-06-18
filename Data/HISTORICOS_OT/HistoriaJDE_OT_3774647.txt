@@ -1,0 +1,21 @@
+FECHA: DICIEMBRE 18/2018 PROGRAMO: DANIEL PALACIOS EJECUTO: OSCAR MAURICIO MONTOYA
+
+Se hizo revisión y se tomaron mediciones de resistencia de aislamiento del rotor de la MCH, se encontro en buen estado.
+
+OCTUBRE 15 2018 GUILLERMO LEON ECHEVERRY VELEZ
+
+SE GENERA LA SIGUIENTE OT POR EVENTO DE SALIDA FORZADA DE LA MINICENTRAL 15 OCTUBRE 2018 18:58
+
+Sale de Sincronismo la Minicentral, Descargas atmosféricas en la zona. La válvula Howell-Bunguer abrió automáticamente. 
+19:16 se le da condiciones a la Minicentral, se da orden de arranque , la unidad alcanza una velocidad de 700RPM y sale nuevamente sacando las siguientes alarmas:
+- Prioridad 1: Disp. General DECS 200 AVR DECS 200 AVR falla Tierra Rotor 6. - Falla Bomba Aceite M1 Estación Hidráulica - Falla Bomba Aceite M2 Estación Hidráulica.
+Prioridad 2: Paro Emergencia Unidad. - Pulsador Emergencia, Disparo Emergencia.
+Nota: se le informa al Ingeniero Encargado Adonis Cadavid para su revisión.                           *La Minicentral queda indisponible hasta no realizar pruebas de Rotor, por instrucción del Ingeniero Angel Adonis Cadavid.
+
+se revisan las alarmas provenientes de la excitación y se comprueba que la alarma no corresponde a TIERRA ROTOR, Debido a que la minicentral no cuenta con rele de proteccion para esta falla, y en su remplazo tiene otras que se encuentran programadas en el regulador de tensión, se realizan pruebas de medicion de resistencia de aislamiento en ROTOR, BOBINADOS DE EXCITATRIZ ESTATORICO Y ROTORICO, CHEQUEO DE DIODOS RECTIFICADORES DEL ROTOR, y se comprueban condiciones normales.
+
+se revisan los ajustes en los valores de alarma del regulador de tensión, encontrandose normal.
+
+Se procede a darle arranque y sincronización de la minicentral y queda operando normal.
+
+Realizan FEDERICO ALVAREZ, DANIEL PALACIOS, WALTER TOBON.

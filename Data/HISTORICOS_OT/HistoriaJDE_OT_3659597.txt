@@ -1,0 +1,23 @@
+Jueves 14 de Diciembre 2017 
+
+
+El compresor N°1 ATLAS COPCO se encuentra operando hasta su presion maxima permitida que es 10.8 bar, haciendo que el tanque pulmon atra vez de valvula de sobre presion haga  descarga al llegar a ese valor de carga. La presion de carga normal se encuentra setiada en:7.7 bar y la presion de descarga en:8.2 bar, se han cambiado parametros secundarios de carga y descarga que se encontraban en settin superiores a 8.5 bar con el fin de quitar esta falla, se leyo el manual del fabricante y no se ha encontrado una posible solucion al problema. 
+
+se hizo consulta con soporte tecnico de ATLAS COPO y hace las siguientes sugerencias: revisar empaquetadura de la valvula de admision ubicada encima de la unidad compresora y lubricar si es el caso, y revisar valvula selenoide para evitar apertura y cierre.
+
+Nota: Indican que este tipo de problemas es de atencion inmediata para evitar daños graves en el equipo o incidentes operativos.
+******************************************************************************************************************
+Referente al compresor:
+
+se desmonta la valvula de admision notandose que la empaquetadura tiene paso, no hay empaques para su cambio, se pide apollo a los electronicos para cambiar la valvula selenoide del compresor 1 por la del compresor 2, por presentarse mala, 
+
+ejecuto: manuel perlaza, gildardo florez, julio parra
+informa: carlos usuga
+******************************************************************************************************************
+se cambian parametros de arranque de 7.7 bar a 7.6 y de paro de 8.2 bar a 8.3, se hicieron pruebas de operacion y se verifico su operatividad en el arranque y en el paro. queda en observacion
+
+nota: Se debe averiguar con el soporte tecnico de ATLAS COPCO por que el compresor (el sistema) pierde su presion muy rapidamente despues de haber hecho su carga normal incluso quitandole las cargas (cerrando valvulas de consumo), obligando esto a que el compresor trabaje de manera continua.
+
+viernes 15 de diciembre: consultando con servicio tecnico de ATLAS COPCO informan que si la empaquetadura de la valvula de admision no se encuentra buena el compresor pierde el sello mecanico y por esta razon se descarga tan rapido.
+
+Informa:  Jorge Peñaranda - Guillemo Echeverry - Grupo mecanico

@@ -1,0 +1,14 @@
+BUENOS DIAS.
+
+SE REQUIERE VERIFICAR EL FRENO DEL MOTOR DEL RASTRILLO UBICADO EN LA BOCATOMA DE GUADALUPE 3, PUESTO QUE PRESENTA CALENTAMIENTO EXCESIVO Y ESTO CONLLEVA A QUE DICHO RASTRILLO NO OPERE DE LA FORMA ADECUADA PARA LA EXTRACCION DE BASURAS.
+
+INFORMÓ: TURNO #1 UNIDAD DE OPERACIONES GUADALUPE.
+
+12/05/2017  JORGE ALIRIO HERNANDEZ
+Referente al fallo del rastrillo de bocatoma , al revisar se encontró quemado la bobina del electro freno y tarjeta electrónica puente rectificador alimentación del electro freno en corto circuito.
+Se procede a realizar el cambio del electro freno y se deja trabajando con puente rectificador , se realizan pruebas y el motor del rastrillo queda en operación normal.
+Se deja habilitado el freno mecánico del sistema como respaldo
+
+Realizo : Sandra marcela - William Lopera- Luis Fernando Lopera- Mario Morales -Alirio Hernández -Rubén morales -Elmer Garcia
+
+16/05/2017 pendiente compra modulos de control y electrofreno

@@ -1,0 +1,12 @@
+FECHA: JIUEVES 02/03/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, HERIBERTO ZUAREZ
+ASOCIADO A LA OT: 3407478
+ASUNTO: LAVAR FILTRO AUTOLIMPABLE DEL SELLO DE TURBINA U1
+
+Febrero 25/2017
+
+El circuito de agua de los sellos de turbina U1, presenta alarmas por baja presion en ambas lineas y esta presente la indicacion de filtro obstruido. Programar mantenimiento del filtro.
+
+
+        

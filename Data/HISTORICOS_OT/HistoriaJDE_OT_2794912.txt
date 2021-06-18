@@ -1,0 +1,11 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+PROGRMADOR JOSE MONTOYA
+
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+
+vibraciones:CTL:9,52 vdc
+                  CTP: 8,71vdc
+Se inyectan las siguientes señales
+COJ TURB °C (RTD) TIG BORNES  (RTD) TIG BORNES   PATRÓN °C ACTE 2 SEG 2  40 40.5 40.2  60 60.8 60.3  80 80.4 80.2  ALARMA  70,0 70,0  DISPARO  80,0 80,0  La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\CUATRIMESTRALES G3

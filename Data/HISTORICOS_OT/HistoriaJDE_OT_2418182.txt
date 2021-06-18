@@ -1,0 +1,16 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+Se realiza mantenimiento al tablero de control del regulador hidráulico, revisando el estado de los arrancadores suaves, el PLC, el correcto funcionamiento del aire acondicionado y la pantalla de visualización gráfica, todo esto sin novedades.
+
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+
+Se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+
+También se realizan movimientos del distribuidor de apertura y cierre con los siguientes resultados:
+100% -- 20.33 mA.
+75% -- 16.41 mA.
+50% -- 12.3 mA.
+25% -- 8.4 mA.
+0% -- 4.1 mA.
+
+Se encuentra la instrumentación del regulador hidráulico en condiciones operativas normales.

@@ -1,0 +1,46 @@
+FECHA:MIERCOLES  04/02/2015
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: DARIO ATEHORTUA, RICAURTE LOPEZ.
+ASOCIADO A LA OT: 2982424
+ASUNTO: EJECUTAR MP PROGRAMADO DEL COMPRESOR N°1 DE SERVICIOS GENERALES. 
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA PARA EL REGISTRO HOROMETRO , CAMBIO DE ACEITE Y FILTROS COMPRESORES SERVICIOS GENERALES
+
+
+HOROMETRO: _______4876 HORAS___________
+
+PRESION DE ARRANQUE: _______5.6 BAR___________
+
+PRESION DE PARO: _________6.7 BAR_________
+
+TIEMPO DE TRABAJO: _________46"_________
+
+TIEMPO DE REPOSO: _________10´_________
+
+TEMPERATURA CARCAZA MOTOR: ________38°C__________
+
+TEMPERATURA CARCAZA UNIDAD:________81°C__________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:__________________
+
+ULTIMA FECHA DE CAMBIO DE FILTROS.__________________
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0018

@@ -1,0 +1,11 @@
+REVISAR INSTRUMENTACIÓN DE VELOCIDAD PUES SE ESTÁ GENERANDO PARO DE UNIDAD POR SOBREVELOCIDAD TURBINA.
+FECHA: 2016/06/29
+SALIDAS A LAS: 07:31, 10:32, 14:00, 16:26
+
+Con el ánimo de identificar la causa raíz de los disparos que se vienen presentando en la unidad 7 por
+sobre velocidad, se tomaran varias acciones. La primera medida y luego del disparo del día de hoy se ha
+desconectado la señal velocidad turbina mayor al 120% que va hacia el computador de unidad en el
+tablero "regulador de velocidad" bornera X5:2. Es de anotar que la máquina sigue estando protegida a
+través de la señal de velocidad que llega al regulador.
+
+Esta OT se realiza en la 3151619

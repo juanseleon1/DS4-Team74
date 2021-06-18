@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA  DICIEMBRE 29 208
+EJECUTANTE;PEDRO ROBAYO
+
+
+
+Se hace el cambio del modulo 7.0 por estar saliendo  por falla comunicaciones  quedando en observacion ,pero volvio a salir por lo tanto no se pide el modulo al almacen

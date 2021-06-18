@@ -1,0 +1,4 @@
+OCT 26/2013 OT: 2383599 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+En los SAU de la unidad N° 2 se cambio el relé k6 por tener la bobina fallada, lo que no permitía realizar la transferencia de los interruptores principal y respaldo.
+
+SOLICITANTE:Anexo. - FECHA: Sep.  25  del  2013                                                                                                                 EL  SIS.  DE  CONTROL  DE  LOS  SERVICIOS  AUX.  EN  +TPU2  440VAC  DE  LA  UNIDAD  Nº2  DE  G3  PRESENTA  ALARMA  Y  NO  RESPONDE  AL  RESET.  FAVOR  ATENDER.

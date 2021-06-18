@@ -1,0 +1,3 @@
+SOLICITANTE: CESAR GIRALDO _FECHA:2015/12/19
+
+Se presenta falla eléctrica en la bomba de circulación de aceite 2, se da al momento de darle comando de arranque. Debido a esta falla el sistema queda sin bomba de respaldo. Este problema ya se habia reportado hace varios dias. Pendiente revisar. (INFORME  DE OPERACION).

@@ -1,0 +1,7 @@
+PLANEADOR: SANTIAGO RAMIREZ, 25-10-2018
+OT PARA EL CAMBIO DE LOS MECANISMOS DE DETECCIÓN DE APLICACIÓN DEL SELLO DE OPERACIÓN DE LA VÁLVULA DE ADMISIÓN DE LA UNIDAD 3 DE PORCE 2
+
+PROGRAMADOR: FRANCIS LONDOÑO, 25-10-2018
+Se desmontan los tres cartuchos completos del mecanismo de confirmación aplicación y desaplicación sello de operación. Se encuentran dos de las levas internas deterioradas y se montan las tres nuevas. Se cambian o’ rings de sello del eje y la camisa. Sistema queda funcionando correctamente.
+
+

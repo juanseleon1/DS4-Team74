@@ -1,0 +1,5 @@
+Se realizó el montaje de la gaveta modernizada del extractor E2, el el portal, 
+Se realizó prueba de servicio, arranque/paro remoto y señalización remota, para lo cual respondio de manera correcta. 
+Se dejó en operación el ventilador E1 (Principal), segun criterios de mantenimiento. 
+Realizó: Oscar Giraldo - Juan García - Ruben Arboleda 
+Operador: Javier Arcila

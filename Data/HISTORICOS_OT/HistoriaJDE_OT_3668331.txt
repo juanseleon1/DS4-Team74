@@ -1,0 +1,27 @@
+REVISAR SENSOR DE NIVEL TAPA SUPERIO FECHA PLANEACION CORRECTIVO: 09/01/2018
+N°OT: 3668331
+
+PLANEADOR: CARLOS SANCHEZ
+
+PROGRAMADOR:  FABIAN GOMEZ - JOHN JAIRO GONZALEZ V.
+
+Referente al TAST Unidad N°3: Se solicita revisar el instrumento de nivel de la tapa superior de este sistema, ya que cuando se procede a girar la unidad este proceso se alarma por dicha variable sin ser real.
+
+
+11/01/2018
+
+
+Esta actividad se realiza el mes de septiembre del 2017 verificando los transmisores de nivel ultrasónicos, por el señor Néstor Ochoa, verificando los ajustes, se percibe vibración en la base del instrumento. pendiente verificar con el grupo mecánico.
+
+
+REALIZADO POR WTOBONL
+SE CIERRAS POR TIEMPO Y EJECUCION EN EL AÑO 2017
+
+
+
+
+
+
+
+
+

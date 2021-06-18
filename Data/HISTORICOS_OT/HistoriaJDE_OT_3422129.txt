@@ -1,0 +1,12 @@
+- FECHA : MARTES MARZO 28 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : WILFER HINCAPIÉ - JHONATAN USME
+- ASOCIADO A LA OT : 3422129
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+- OBSERVACIONES : se realiza el mantto y se encuentra:
+
+                   ** 1. Se encuentra problema en la caja de conexión ( CAG - 2 ) asociado al perno fusible # 19.Se 
+                                               reemplazó la caja por una nueva   y quedó operando normalmente.
+
+                   ** 2. El microsuiche # 11 presenta leve problema de iluminación ( led deficiente ) , pero realiza su función 
+                                               de accionamiento, envío de señal e indicación normal.

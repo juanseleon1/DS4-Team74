@@ -1,0 +1,5 @@
+2015/06/21 DIEGO BEDOYA
+se suministran 12 litros de aceite a la cuba del transformador fase R banco 2.
+
+Se le adicionan 12 galones de aceite dielectrico al tanque conservador de la cuba del transformador de la fase R del banco 2, se recupera el nivel de aceite en este tanque y el instrumento de nivel del tanque queda en 5.5; se borra el buchholz Cuba(T2- R)  se encontro que el nivel era bajo en el tanque conservador de la cuba de aceite del transformador. Queda pendiente que instrumentación revise el funcionamiento de la mirilla, ya que no bajo del nivel o el numero 5, aunque el nivel era mas bajo que este punto(5) , se debe revisar la indicación del rele del buchholz en este transformador , ya que se alarmo con la mirilla de nivel en el numero 5. 
+Se cambia en el controlador las señales 8.97, 8.98 y 8.99 ya que aparecia como buchholz elefante y estas pertenecen al la cuba del trafo. Learcilas

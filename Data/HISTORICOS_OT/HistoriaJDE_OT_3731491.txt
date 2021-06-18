@@ -1,0 +1,8 @@
+31/05/2018.
+SOLICITANTE : MARTA PARRA - CARLOS TORRES 
+LA MOTOBOMBA ACEITE 2 U2 GIII DEL SISTEMA HIDRAULICO NO SOSTIENE LA PRESION DEL SISTEMA OBLIGANDO QUE PERMANEZCA LA MOTOBOMBA 1 COMO PRINCIPAL EN TODO MOMENTO.  
+
+13/12/2018
+
+Se revisa el fucionamiento de la motobomba 2 encontrando que no arrancaba debido a que los bornes 12,14 del Relé K02X estaban sulfatados.
+una vez corregida esta situacion se da arranque a la motobomba y se obtiene una presión de 20.74 Bar en el sistema de forma sostenida, quedando asi en servivicio la motobomba. 

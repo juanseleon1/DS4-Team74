@@ -1,0 +1,8 @@
+PLANEADOR: BIANEY BRAVO VALENCIA MAYO 01/2015
+
+MONTAR  EXCITACION
+
+JULIO 3 DE 2015
+
+Se armó la excitación despues del cambio devanado se realizán pruebas eléctricas al inducido, inductor, anillos rozántes y pruebas de sobre velocidad mecanica (PMG), estas pruebas se encuentran en la carpeta de pruebas de mantenimiento mayor G32.
+Programó: William Lopera

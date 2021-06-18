@@ -1,0 +1,6 @@
+
+ ABRIL 16 DEL 2014 - JEOVANNY CORREA 
+
+ Las dos bombas del sistema hidraulico de la unidad G33 no estan arrancando, ocacionando el paro de emergencia de la unidad por bajo nivel.
+
+se verifico el estado de las bombas y se encontro bien, luego se  le dio un ajuste a las valvulas de presion que son las encargadas de accionar los microsuiches que  permiten el arranque de dichas bombas. queda normalizado el sistema.

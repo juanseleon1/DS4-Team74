@@ -1,0 +1,18 @@
+2014/05/01 - JONATAN USME -- RUBEN ARBOLEDA
+Se realizó inspección termografica a las conexiones, no se encontró evidencia de punto caliente. 
+
+2014/05/04 - JONATAN USME - IVAN SUAREZ - NESTOR RAMIREZ - RUBEN ARBOLEDA
+Se realizó maniobras operativas para desenergicar el TSA2 y TSA3 de manera simultanea.
+
+En la ejecucion de la OT: 2514869, se presentaron inconvenientes en el tablero +SA4, en el dí de hoy se realizó maniobra manual para tranferir este tablero hacia la DP1 y de igual manera se presentaron inconvenientes con la tranferencia manual. 
+
+Se realizó correción y se hizo tranferencia. 
+
+Se realizo limpieza general al TSA3 y 
+al TSA2 limpieza general y desmontaje de un ventilador fallado.
+
+Realizó: Jhonatan Usme - Ivan Suarez -Nestor Ramirez - Ruben Arboleda
+
+Se normalizo infraestructura acorde a maniobras operativas. 
+Duración: 2 Horas.
+Nota: las Ot's del TSA2 y TSA3 se ejecutaron simultaneas (2504137 y 2504137). 

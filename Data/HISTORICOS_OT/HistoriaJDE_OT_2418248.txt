@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL VALVULA ADMISION CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418248 PROGRAMADOR: JRODRIGL EJECUTA: OLGA MARIA VIANA
+
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los microsuiches de estado de la válvula, sello de operación y aplicación del Bulón, comprobando su correcta visualización en el sistema de control.
+
+Informa: Jorge Rodríguez

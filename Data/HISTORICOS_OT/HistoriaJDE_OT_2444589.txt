@@ -1,0 +1,2 @@
+FECHA: Dic. 01/2013PROGRAMO: Daniel PalaciosEJECUTO: Mauricio Caicedo.
+Se realiza pruebas con el sistema SCADA y las nuevas UPS instaladas en la central.

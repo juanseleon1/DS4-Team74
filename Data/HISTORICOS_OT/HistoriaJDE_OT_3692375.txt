@@ -1,0 +1,9 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración, quedan ajustados así: cipl9.26 vdc y el cipr 9.2vdc.
+nivel de aceite se encontró en: 346 mm, el nivel patrón es 345mm. 
+-se realiza mantenimiento de cada una de las rtd asociadas al cojinete. 

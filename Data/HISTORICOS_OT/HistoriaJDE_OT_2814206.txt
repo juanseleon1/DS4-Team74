@@ -1,0 +1,6 @@
+2015-07-08. JUAN CARLOS DUARTE MUÑOZ.
+
+CORREGIR LA FALLA EN EL SISTEMA AIRE SERVICIOS GENERALES POR LA FALLA DEL COMPRESOR PRINCIPAL (RESPALDO INDISPONIBLE) POR LA ALARMA DE SOBRECARGA MOTOR. POR LO ANTERIOR EL SISTEMA SE QUEDA SIN PRESIÓN.
+
+2015/07/09 ADONIS CADAVID - RUBEN ARBOLEDA OT: 2814206
+Se identificó falla en el compresor a causa de arranques continuos, estos arranques fueron ocasionados por perdida de presión en el sistema de las IPAA's, debido a una manguera reventada, se realizó corrección en la manguera y se dejó en servicio

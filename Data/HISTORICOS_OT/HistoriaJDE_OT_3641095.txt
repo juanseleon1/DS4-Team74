@@ -1,0 +1,11 @@
+MP ANUAL, EQUIPOS:
+384782 RODETE PELTON U1 G3
+2359 RODETE PELTON U2 G3
+751203 RODETE PELTON U3 G3
+751204 RODETE PELTON U4 G3
+2362 RODETE PELTON U5 G3
+751205 RODETE PELTON U6 G6
+
+20/11/2017
+
+A las 71842.05 horas de servicio del rodete Pelton 27496-3 Marca Neyrpic se realizaron ensayos no destructivos: partículas magnéticas, ultrasonido, líquidos penetrantes, dureza e inspección visual por parte de ASTECO encontrando fisuras en los cangilones 15, 16 y en el cuello del cangilón 3, situación que obligo al cambio del mencionado rodete por repuesto existente (Rodete Pelton 2-7234-7236 marca Neyrpic) el cual también se sometió a los ensayos mencionados  

@@ -1,0 +1,22 @@
+- FECHA : MARTES MARZO 28 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - JEISON ORTEGA - SEBASTIÁN HINCAPIÉ
+- ASOCIADO A LA OT : 3422149
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+
+- OBSERVACIONES 
+
+Durante el mantto se realizaron algunos correctivos a saber:
+
+  * 1. Se lijaron los anillos rosantes superior e inferior pues estaban presentando mucho chisporroteo y asociado a un desgaste 
+         anormal. Esta tarea se hizo con una piedra especial que se trajo de Guatapé
+  * 2. Se cambiaron todas las escobillas y se dio de nuevo el ajuste a la tensión del resorte a 2 KN
+  * 3. Se cambiaron todas las escobillas excepto las # 3A - 8B para hacer un seguimiento al desgaste después de realizar el 
+        correctivo en los anillos rosantes.
+  * 4. Medida escobilla  protección tierra rotor anillo superior : 28 mm
+         Medida escobilla protección tierra rotor anillo inferior : 15 mm  ( se cambia por una nueva de 35 mm )
+        Medida escobilla eje rotor corrientes parásitas : 17 mm ( se cambia por una nueva de 35 mm ).
+
+       IMPORTANTE : después de tensionar y sincronizar la unidad el personal de operación revisa el recinto anillos de nuevo para 
+                                    verificar su funcionamiento y se ve todo muy normal. Solo quedó un pequeño chisporroteo en la # 10A.
+

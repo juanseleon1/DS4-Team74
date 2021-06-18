@@ -1,0 +1,143 @@
+2016-11-06 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3305165, PASO:1          
+Se realizó inspeccion termografica al interruptor 1 del CCM1, se evidenció alta temperatura entre 100 y 175 °C para los bornes de entrada y salida del interruptor, 
+ENTRADA AL INTERRUPTOR
+VOLTAJES 
+FASE RS = 446 V
+FASE ST = 444 V
+FASE RT = 444 V
+CORRIENTES 
+FASE R = 396 A
+FASE S = 415 A
+FASE T = 396 A
+TEMPERATURA: 
+FASE R 175,4°C
+FASE S 134,9°C 
+FASE T 119,4°C
+
+SALIDA DEL INTERRUPTOR
+VOLTAJES 
+FASE RS = 446 V
+FASE ST = 444 V
+FASE RT = 444 V
+CORRIENTES 
+FASE R = 396 A
+FASE S = 415 A
+FASE T = 396 A
+TEMPERATURA
+FASE R 104,6°C 
+FASE S 100,5°C 
+FASE T 89,7°C
+
+DIAGNOSTICO: 
+Las temperaturas en la entrada de alimentación del Q1 del CCM1 se encuentran en una margen de 119.4°C y 175.4°C, lo cual implica una deficiencia mayor en su operación, Se realiza trasferencia al Q2 para revisar Q1, tener
+presente que se entra otra CW con respecto a la inspección pasada, esto incrementa la corriente unos 100A más, se realizara seguimiento al Q2 para monitorear temperaturas. 
+
+
+2016-11-07 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3305165, PASO:2-2,1
+Se realizó seguimiento al interruptor Q2 del CCM1, se evidencia que presenta alta temperatura, se realizó revisión del interruptor Q1 del CCM1, no se encontró fallas mecánicas aparentes, la alta temperatura en los dos interruptores se asume que es por condición propia de cada uno, ya que éstos son de 400 Amperios de capacidad y la corriente nominal está alrededor de ese valor, por lo tanto se decidió apagar la motobomba CW1 y darle arranque a las motobombas ARAA 1 y ARAA 2, también se realizó transferencia del CCM1 hacia la DP1 y se dejó en condiciones normales.
+
+Posteriormente se realizó una inspección termografica al Q1, con los siguientes datos:
+ENTRADA:
+VOLTAJES 
+FASE RS = 441 V
+FASE ST = 440 V
+FASE RT = 439 V
+CORRIENTES 
+FASE R = 301 A
+FASE S = 305 A
+FASE T = 295 A
+TEMPERATURA: 
+FASE R 73,8°C 
+FASE S 69,2°C 
+FASE T 61,8°C
+
+SALIDA: 
+VOLTAJES 
+FASE RS = 441 V
+FASE ST = 440 V
+FASE RT = 439 V
+CORRIENTES 
+FASE R = 301 A
+FASE S = 305 A
+FASE T = 295 A
+TEMPERATURA: 
+FASE R 58,8°C 
+FASE S 57,1°C 
+FASE T 51,9°C
+
+DIAGNOSTICO: 
+La temperatura en la entrada de alimentación del Q1 fase R se encuentra en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 12°C, lo cual implica una probable deficiencia se recomienda hacer seguimiento. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2016/11/10 RUBEN ARBOLEDA
+Se realiza OT 3305165 con el fin de cotizar una adecuacion de los contactos para mejorar la capacidad de corriente2016-11-06 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3305165, PASO:1          
+Se realizó inspeccion termografica al interruptor 1 del CCM1, se evidenció alta temperatura entre 100 y 175 °C para los bornes de entrada y salida del interruptor, 
+ENTRADA AL INTERRUPTOR
+VOLTAJES 
+FASE RS = 446 V
+FASE ST = 444 V
+FASE RT = 444 V
+CORRIENTES 
+FASE R = 396 A
+FASE S = 415 A
+FASE T = 396 A
+TEMPERATURA: 
+FASE R 175,4°C
+FASE S 134,9°C 
+FASE T 119,4°C
+
+SALIDA DEL INTERRUPTOR
+VOLTAJES 
+FASE RS = 446 V
+FASE ST = 444 V
+FASE RT = 444 V
+CORRIENTES 
+FASE R = 396 A
+FASE S = 415 A
+FASE T = 396 A
+TEMPERATURA
+FASE R 104,6°C 
+FASE S 100,5°C 
+FASE T 89,7°C
+
+DIAGNOSTICO: 
+Las temperaturas en la entrada de alimentación del Q1 del CCM1 se encuentran en una margen de 119.4°C y 175.4°C, lo cual implica una deficiencia mayor en su operación, Se realiza trasferencia al Q2 para revisar Q1, tener
+presente que se entra otra CW con respecto a la inspección pasada, esto incrementa la corriente unos 100A más, se realizara seguimiento al Q2 para monitorear temperaturas. 
+
+
+2016-11-07 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3305165, PASO:2-2,1
+Se realizó seguimiento al interruptor Q2 del CCM1, se evidencia que presenta alta temperatura, se realizó revisión del interruptor Q1 del CCM1, no se encontró fallas mecánicas aparentes, la alta temperatura en los dos interruptores se asume que es por condición propia de cada uno, ya que éstos son de 400 Amperios de capacidad y la corriente nominal está alrededor de ese valor, por lo tanto se decidió apagar la motobomba CW1 y darle arranque a las motobombas ARAA 1 y ARAA 2, también se realizó transferencia del CCM1 hacia la DP1 y se dejó en condiciones normales.
+
+Posteriormente se realizó una inspección termografica al Q1, con los siguientes datos:
+ENTRADA:
+VOLTAJES 
+FASE RS = 441 V
+FASE ST = 440 V
+FASE RT = 439 V
+CORRIENTES 
+FASE R = 301 A
+FASE S = 305 A
+FASE T = 295 A
+TEMPERATURA: 
+FASE R 73,8°C 
+FASE S 69,2°C 
+FASE T 61,8°C
+
+SALIDA: 
+VOLTAJES 
+FASE RS = 441 V
+FASE ST = 440 V
+FASE RT = 439 V
+CORRIENTES 
+FASE R = 301 A
+FASE S = 305 A
+FASE T = 295 A
+TEMPERATURA: 
+FASE R 58,8°C 
+FASE S 57,1°C 
+FASE T 51,9°C
+
+DIAGNOSTICO: 
+La temperatura en la entrada de alimentación del Q1 fase R se encuentra en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 12°C, lo cual implica una probable deficiencia se recomienda hacer seguimiento. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2016/11/10 RUBEN ARBOLEDA
+Se realiza OT 3305165 con el fin de cotizar una adecuacion de los contactos para mejorar la capacidad de corriente

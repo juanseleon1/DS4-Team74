@@ -1,0 +1,13 @@
+2016/07/21 WALTER TOBON.
+
+SE GENERA ESTA OT PARA REALIZAR LABORES DE MANTENIMIETNO EQUIPOS ELECTRONICOS EN TABLERO DE ALUMBRADO 
+
+
+26/07/2016
+
+Se realiza verificacion del control en tablero de control iluminacion y tomas,  se verifica el conexionado de control y comunicaciones encontrandose que este sistema no tiene monitoreo remoto desde el scada, se realiza mantenimiento al control e IHM  
+
+
+Ralizado por Wtobonl
+
+terminada Cerrar

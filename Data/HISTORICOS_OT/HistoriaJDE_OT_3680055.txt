@@ -1,0 +1,12 @@
+
+ENERO 31/2018
+
+Corregir falla presente en regulador de tension U2_PL.(falla CPXCAN REIVAX 1)
+"Falla leve en medicion de corriente de campo del Generador SHUNT 1"
+Presente desde el 24 de enero /2018.
+en caso de fallarse la CPU2 del Rt no va a encontrar respaldo.
+
+Dionis M. Zapata V. 01/02/2018
+se revisa la CPX1, se apaga y se revisan conectores y borneras, se conecta todo y se reinicia la CPX1 normalmente y borra la alarma, se cambia tambien un cable de comunicacion (CanOpen) UTP por encontrarse un conector RJ45 defectuoso.
+
+La O.T 3680375 se cancelara por ser ejecutada en esta O.T

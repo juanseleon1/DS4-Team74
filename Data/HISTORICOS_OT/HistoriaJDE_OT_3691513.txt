@@ -1,0 +1,11 @@
+23/02/2018. 10:55.
+En rutina de campo se puede verificar que los ventiladores del Transformador Fase S del Banco de la Unidad G31, presenta ruido y altas temperaturas en los tres motores, se solicita mantenimiento preventivo.
+
+Informa: turno 3. Mauricio Caicedo - Wilson Arango.
+
+OCTUBRE 23 DE 2018
+Referente al ventilador 2 del transformador de potencia fase S de G31. Se atiende la OT: 3777086, por presentar ruido anormal se desmonta el motor, se hace mantenimiento y cambio de rodamientos, se aplica pintura aislante al devanado, se hace pruebas de resistencia de aislamiento, se vuelve a montar y queda sin ningún ruido con una corriente de trabajo de 3.2 amperios.
+Realizó: Jhon Mario Morales - Luis Fernando Correa.
+Informó: William Lopera.
+
+.

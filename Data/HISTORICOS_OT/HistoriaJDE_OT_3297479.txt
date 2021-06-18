@@ -1,0 +1,9 @@
+XM:VERIFICAR, REVISAR Y LIMPIAR VÁLVULA DE ADMISIÓN
+JEFE DE TRABAJO: HECTOR GOMEZ PROGR AMADOR: OSCAR PARRA
+2016/11/09
+**********************************************************************************************************************************************************
+
+Se realiza inspeccion al equipo de acuerdo al procedimiento de trabajo, se revisan los servomotores sin novedad alguna, se lavan los filtros del sistema oleohidraulico y de aplicacion de sellos, no presenta nivel bajo de aceite, se corrigio fuga de aceite en estacion hidraulica a la salida de la bomba # 3.
+Se normalizo la maquina y se deja lista para desbloqueo.
+
+Ejecuto. Luis Morales, Deivi Baena.

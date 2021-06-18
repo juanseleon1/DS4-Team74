@@ -1,0 +1,32 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-03 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704919, PASO:1          
+Se inicio con el retiro de aislamientos de los anillos rozantes y el aislamiento de los soportes porta escobillas para enviar a fabricar. 
+
+2018-04-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704919, PASO:2          
+Se continuó con el cambio de los aislamientos para el recinto de anillos, se desarmó ambos anillos y se limpiaron. 
+
+2018-04-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704919, PASO:3          
+Se realizó limpieza general al soporte porta escobillas y se realizó mejora en tubería flexible (Flexiconduit), para los bombillos del recinto de anillos.
+
+2018-04-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3704919, PASO:4          
+Se realizó limpieza general de la campana verde en el recinto de anillos de la Unidad 7.
+
+2018-04-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704919, PASO:5          
+Se realizó limpieza general al eje interior de los anillo rozantes, se realizó medidas de ésta para elaboración de un plano de la baquelita que tiene internamente para separa los ejes, se realizó desarme de un tornillo de sujeción y se limpio, no estaba sucio, para esto se retiró la resina que tapa el tornillo y finalmente se volvió a aplicar resina. 
+
+2018-04-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704919, PASO:6          
+Se realizó pintura del eje interior de los anillos rozantes con Pintura Aislante en Aerosol, se dejó secando.
+
+2018-04-18 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704919, PASO:6.5          
+Se realizó el montaje de los aislamientos nuevos de los anillos rozantes de la Unidad 7, para esto fue necesario el apoyo de mantenimiento mecánico para reducir el diámetro exterior de 28mm a 27.8mm. 
+
+2018-04-19 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704919, PASO:7          
+Se realizó limpieza de pintura al soporte porta escobillas de la Unidad 7, fue necesario limpiar con motor tool para retirar el barniz viejo y permitir que los aislamientos nuevos (Medias Luna) asiente de manera correcta
+
+2018-04-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704919, PASO:8          
+Se realizó la adecuación y prueba de perforaciones a las medias luna del soporte porta escobillas de la Unidad 7, se identificó que casa correctamente, se procede a pintar y dejar secas, queda listo para su ensamble.
+
+2018-04-25 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704919, PASO:9          
+Se realizó adecuación de aislamientos de la unidad 7, se presentó las medias luna en el soporte porta escobillas.

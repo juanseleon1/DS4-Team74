@@ -1,0 +1,26 @@
+
+FECHA: OCTUBRE 25 DE 2016
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta disparo en el breake 19F2, se realizan pruebas y se observa que cuando se energiza el circuito del breake 34F2 se presenta el disparo, este breake alimenta la fuente 102A2 en la Top Box, se realizan pruebas y se descarta que la fuente tenga problemas, se deja detenido el aerogenerador.
+
+
+FECHA: OCTUBRE 26 DE 2016
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+
+Se retoman los trabajos para resolver la falla en el circuito de disparo del breake 19F2; en la Top Box se encuentra que al energizar el Breake 104F1 y empieza a hacer el barrido el Loop se presenta de nuevo el disparo, se cambian los módulos 7,0 y 4,0 pero la falla continua. Se deja abierto el breake 104F2.
+
+
+FECHA: OCTUBRE 27 DE 2016
+
+EJECUTANTE: PEDRO ROBAYO Y GERMAN ECHAVARRIA 
+SOLICITANTE: HENRY GIRALDO
+
+Se observa el relé 166K4 energizado, este elemento dispara el breake 19F2, se retira el relé y se deja el RFC en Run, luego se procede a dar Reset hasta que borre la alarma de disparo, se coloca nuevamente el relé y se deja en servicio el aerogenerador.
+
+

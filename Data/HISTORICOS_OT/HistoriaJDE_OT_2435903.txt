@@ -1,0 +1,6 @@
+Realizar la instalación del cable comunicación para medidores de controladores de energía en la central de Porce II.
+
+Se realiza cableado de comunicación para los medidores de energía en la central de Porce II, queda pendiente el conexionado cuando se instalen los medidores y verificar su funcionamiento.
+Se cierra OT y se generara otra en enero para terminar el trabajo.
+
+Informa: Jorge Rodríguez

@@ -1,0 +1,32 @@
+
+PLANEADOR.OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:WILLIAM LOPERA
+
+
+OCTUBRE 13 DE 2017
+
+
+SE REALIZA INSTALACIÓN DE ESTE TRANSFORMADOR, EL CUAL FUE REPARADO POR EL CONTRATISTA EXPLORER SAS DE ACUERDO AL CONTRATO CW11278 DE ARIBA, (CAMBIO DE BOBINA DE BAJA TENSIÓN POR DEFECTO TÉRMICO, INSTRUMENTACIÓN DE TEMPERATURAS, RELÉ BUCHHOLZ, VÁLVULA DE SOBREPRESIÓN  , PINTURA GENERAL, ADECUACIÓN DEL CABLEADO DE POTENCIA Y CONTROL , MANTENIMIENTO A LA BOBINA DE ALTA TENSIÓN Y PRUEBAS EN PLANTA Y SITIO DE FUNCIONAMIENTO, PRINCIPALMENTE).
+
+ESTE TRANSFORMADOR CUYA SERIE ES 01.2.4001 SERÁ INSTALADO EN LA FASE "S" , EL CUAL SE RETIRA EN ESTA MISMA FECHA PARA REALIZAR LA MISMA REPARACIÓN EN ESE OTRO TRAFO.
+
+ESTA OT CUENTA CON PASOS ELÉCTRICO, ELECTRÓNICO Y MECÁNICO. 
+
+NOTA: SE ANEXAN PRUEBAS DEL CONTRATISTA EN SITIO DE REPARACIÓN REALIZADAS ENTRE EL7 Y 9 DE OCTUBRE DE 2017
+
+OCTUBRE 17 DE 2017
+Se entrega el transformador reparado con serie 01.2.4001por la empresa contratista EXPLORER en el patio de transformadores de Guadalupe 3 con sus respectivas pruebas eléctricas por parte del contratista, obteniendo buenos resultados.
+Por parte de la unidad operaciones Guadalupe también fueron realizadas las pruebas eléctricas con el personal de operación y mantenimiento antes de comenzar a insertar el transformador.
+Después de haber culminado las pruebas se procedió con la inserción del transformador a la fase S del banco con la colaboración de equipo electromecánico adecuado para hacer el movimiento del trafo y con el apoyo del grupo mecánico de la U.O.G. 
+Ya estando el transformador en su sitio se le vuelven hacer las pruebas eléctricas para garantizar que en el movimiento no se haya generado algún movimiento brusco y daños al bobinado.
+Se comienza a colocar los cables de tierra a la cuba, conexiones por alta, baja y su respectivo conexionado a la caja de control.
+Una vez conectado el transformador por alta, baja y su caja de control, se procedió hacer la verificación del control, instrumentación y los protocolos de alarmas y disparos de las protecciones del transformador.
+Se lleva la unidad hasta giro mecánico, se programa el regulador de tensión y se comienza con la energización en vacío paso a paso del banco de transformadores con el regulador de tensión en modo manual automático, subiendo la tensión desde el 10% hasta llegar al 110%, de acuerdo al procedimiento que se tiene para la prueba. Se des energizar de la misma manera y gradualmente hasta llegar a cero.
+Luego de este procedimiento se normaliza el regulador de tensión y se deja en remoto automático, se sincroniza la unidad y se comienza a subir potencia paso a paso desde el 25% hasta llegar al 100%, se evaluar durante el proceso de carga ruidos anormales, se monitorean temperaturas y comportamiento de las protecciones del banco de transformadores.
+
+NOTA: Todos los procedimientos, protocolos y pruebas se encuentra almacenado en la carpeta del mantenimiento de la unidad en la siguiente ruta.
+
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\Informes Mantto Gpe 3\Informes U4 Gpe 3\INFORME U4 G3 2017-10-14 AL 17\CAMBIO TRANSFORMADOR FASE S>
+
+INFORMO: WILLIAM LOPERA

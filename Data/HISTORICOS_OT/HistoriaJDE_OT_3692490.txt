@@ -1,0 +1,13 @@
+XE: MEDIR Y LIMPIAR, RECINTO ANILLOS ROZANTES, ESCOBILLAS, BARRAJE.
+
+
+PLANEADOR:CARLOS GIORDANELLI
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+MARZO 22 DE 2018
+Se realizó el mantenimiento preventivo eléctrico semestral según el instructivo, a la excitación principal y anillos rozantes, Se cambiaron las escobillas 2, 6  de los anillos rozantes y la 1 de temperatura Rotor
+ANTES DE LAVAR
+AISLAMIENTO / TIERRAANILLOMSUPERIOR3,61INFERIOR3,73
+DESPUES DE LAVAR
+AISLAMIENTO / TIERRA ANILLOMSUPERIOR169INFERIOR165

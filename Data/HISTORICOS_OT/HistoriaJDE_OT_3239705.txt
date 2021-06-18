@@ -1,0 +1,10 @@
+09/09/2016. 16:15.
+
+Por informe del personal de mantenimiento Uaimer Dìaz y Bianey Bravo, 11:07 del 09/09/2016, queda fallada la CPU 1 del Regulador de Tensiòn U1TR RTX400U1TR,quedando en funcionamiento la CPU 2 del Regulador - Respaldo, con consigna para resetear alarmas solo al parar Unidad y hacerlo desconectando Reles RFL y RPA, se solicita su reparaciòn con urgencia.
+
+Informa Turno 3. Robin Tamayo - Wilson Arango.
+
+14/12/2016
+SE HACE UNA VERIFICACION EN EL REGULADOR DE VELOCIDAD Y SE ENCUENTRA UNA DE LAS CPU CON PROBLEMAS EN SUS SALIDAS ANALOGAS,SE PROCEDE A DEJARLA DESCONECTADA PARA QUE NO GENERE RUIDO EN EL CONTROL Y SE DEJA TRABAJANDO EL REGULADOR DE TENSION CON UNA SOLA CPU MIENTRA SE LOGRA PROGRAMAR NUEVAMENTE LA OTRA Y ASI PODER NORMALIZAR EL EQUIPO.
+
+REALIZO: GRUPO DE ELECTRONICA  

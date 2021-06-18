@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: FEBRERO 05 2016
+EJECUTANTE: ELISAUL Y PROBAYO
+
+
+
+Se hace el cambio de la veleta y el anemometro del lado derecho del AG10 por estar dando medidas erroneas en el sistema scada.

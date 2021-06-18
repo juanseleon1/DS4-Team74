@@ -1,0 +1,36 @@
+- FECHA : ENERO 23 DE 2013
+- REALIZÓ : WILFER HINCAPIÉ - WILDER HERRERA
+- ASOCIADO A LA OT : 2457848
+- ASUNTO : MODERNIZACIÓN CONTROL Y PRUEBAS CON EL PERSONAL CONTRATISTA IR2 Y GECOLSA
+                       ** REVISAR BOMBA COMBUSTIBLE PLANTA QUE SE PEGA APARENTEMENTE CON LA ORDEN DE 
+                           ARRANQUE.
+                       ** SE REVISA Y SE ENCUENTRA QUE EL SUICHE CENTRÍFUGO ESTÁ FALLADO. EL CONTACTO NC QUE 
+                           MANEJA PARA LA BOBINA DE ARRANQUE SE QUEDA ABIERTO EN EL MOMENTO DEL ARRANQUE
+                           SE DESARMA EL MOTOR Y SE ENCUENTRA UN DESPLAZAMIENTO MECÁNICO EN EL SUICHE.
+
+FALLA  EN APERTURA DEL INTERRUPTOR Y25 PLANTA DE EMERGENCIA DIESEL
+Problema:
+Estando la  planta de emergencia diesel sincronizada y con el interruptor cerrado; al dar orden de paro a la planta no lo hacía y  por consiguiente el interruptor Y25 no se abría, disparando el minibreaker de control CB4, (asociado el tablero de control del sincronizador de la planta), e igualmente el minibreaker de control FO, (asociado al tablero de control del interruptor Y25).
+NOTA: El minibreaker CB4, aparece marcado en plano de 16A, pero el que está instalado es de 6A.  
+
+Solución: 
+Realizando una inspección en busca del problema, se evidencia que la bobina K3 (Orden de apertura del interruptor Y25), estaba  en  corto. 
+Esto pudo ser  causado, porque en el control de sincronismo de la planta, al estar seleccionado en modo automático; estando la planta parada, el relé -SCS-, se energiza y por un contacto auxiliar de este manda siempre una señal positiva hacia la bobina K3.
+Según el diagrama de control, entre el control de sincronismo de la planta Diesel y la bobina K3, tiene una resistencia limitadora de corriente llamada RS de 4.7K5W,  con el fin de que la bobina K3 no permanezca con el máximo de la corriente.
+Para verificar nuevamente el funcionamiento de cierre, sincronismo y apertura del interruptor Y25; ya que no se cuenta con una bobina de repuesto, se hace cambio provisional de este interruptor (Y25),  por el interruptor Y45 que se encuentra disponible y posteriormente, se decide retirar la resistencia -RS-; después de analizar en plano si esta afectaba en el normal funcionamiento, ya que por esta resistencia era por donde pasa la señal positiva hacia la bobina K3 (estando la planta parada).
+Se arranca la planta diesel de nuevo, operando Arranque, Sincronismo, Cierre y apertura del interruptor sin ningún inconveniente. 
+NOTA: La resistencia -RS- queda desconectada y pendiente para analizar cuál es su función.  
+
+BOBINA K3
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+SOLICITANTE: OPERACIÓN GUADALUPE 3 TURNO 2. 
+FECHA: 29-11-2015
+
+EL DÍA DE HOY SE DA PARO LA UNIDAD EN DOS OCASIONES POR FALLA GRAVE REGULADOR DE VELOCIDAD POR PÉRDIDA DE MEDIDA DE VELOCIDAD.
+
+Se deshabilita la medida de velocidad por PT`S debido a que se está perdiendo la referencia , se deja la medida por Pick ups. Queda pendiente verificar el lazo de control.
+Informó: Andrés Arenas, José Montoya y Esteban Vásquez.

@@ -1,0 +1,11 @@
+PLANEADOR: CESAR GIRALDO
+PROGRAMADOR: CARLOS ANDRES FORERO
+EJECUTO: EDGAR RODAS-TATIANA GALVIS
+CE: RUTA DESARROLLO 
+MANTENIMIENTO SEMESTRAL ELECTRICO: TOMAR MUESTRAS DE ACEITE - TRANSFORMADORES
+ESTA MUESTRA ES PARA REALIZAR LAS PRUEBAS CROMATOGRÁFICAS DEL ACEITE DE LOS TRANSFORMADORES DE POTENCIA CENTRAL TRONERAS.
+
+NOTA: se anexa resultado de la prueba de rigidez dielectrica, realizada al aceite del transformador de la fase R, de la central Troneras. 
+
+PRUEBA RIGIDEZ DIELECTRICAEQUIPO: MEGUER OTS60PB 101550352Version FW: 1.15Std. Lib. Version: 0.09Prueba: TR FASE RFecha: 25/05/2017Hora: 16:40ASTM D 1816-04Tipo De Aceite: Mineral/EsterElectrodos: HongoElectr. Sep: 2.00mmAgitador: Impulsorf(Hz) Prueba: 61.8HzMax. Volt: 60.0KVRel. Dv/dt: 0.5KV/sResultadoTemp aceite: 25°CPrueba 1: 27.8KVPrueba 2: 52.4KVPrueba 3: 52.4KVPrueba 4: 40.3KVPrueba 5: 54.4KVVoltaje promedio: 45.5KVDispersion s/x: 0.25Desv. Std: 11.36KVRango: 26.6KV92% xMedia: 41.8KVRESULTADO PASO
+Se envía al Laboratorio de Aceites de La Sub Estación Clombia para realizarle la prueba Cromatografica.

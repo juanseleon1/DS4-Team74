@@ -1,0 +1,16 @@
+
+21/08/2018 - 11:24.
+
+Se detecta alarma constante en el Regulador de Tensión 1 -  TRT5 U5 - G3, por temperatura Rotor.
+
+Ya se ha borrado la alarma en varias ocasiones pero continua presentando alarma, el Rele aparece calibrado al Maximo.
+
+Solicitamos diagnosticar o verificar posible perdidad de aislamiento en Rotor o suciedad.
+
+Informa y realiza: turno 3 - Mauricio Caicedo - Wilson Arango.
+
+27/08/2018
+
+ EN EL REGULADOR DE TENSION SE HACE UNA VERIFICACION AL TRANSDUCTOR B07, ENCONTRANDOSE EN BUENAS CONDICIONES, SE AJUSTA EL PARAMETRO V848 EN EL REGULADOR DE TENSION Y SE NORMALIZA LA TEMPERATURA
+
+REALIZO: GRUPO DE ELECTRONICA

@@ -1,0 +1,45 @@
+PLANEADOR: RMONTOYG
+
+OT PADRE :3488330
+FECHA: 22/05/2017
+
+SE REALIZA OT PARA LA INSTALACION Y ADECUACION DE LOS NUEVOS EQUIPOS DE MEDIDA Y MODIFICACIONES EN EL CONTROL DEL SELLO DE INYECCIÓN DE AGUA PARA REFRIGERACIÓN DEL SELLO DEL EJE.
+
+
+
+22/05/2017
+
+Se inicia con la consecucion de los elementos para la instalacion de dos RTD´s y el sensor de desgaste del sello nuevos , ademas de los transductores de medidas para las señales nuevas y la modificacion del programa en el PLC para adicionar la nueva rutina de medida y alarma.
+
+Realizado por Wtobonl
+
+
+
+26/05/2017
+
+Se realiza la adecuación de las nuevas RTD´s  1ª y 2ª además se coordina con el personal mecánico para la instalación del sensor de desgaste del sello. Se instalan los cables necesarios entre el sello y el tablero TAS de a la unidad. 
+
+Realizado por Wtobonl
+
+
+28/05/2017
+
+Se adecuan unos nuevos conectores para las RTD´s en el cojinete de turbina, además se realiza modificación en el cableado del tablero TAS y se modifica el programa del TAS con el Backus tomado del PLC, se espera realizar luego pruebas del programa y continuar con la instalación de los elementos para el sello. 
+
+Realizado por Wtobonl
+
+
+
+30/05/2017
+
+Se realiza metrología y verificación a las 8 medidas de los segmentos en el cojinete estas se realizan en el rango de 25, 35, 55 y 70 grados según instrucción del instrumentista, se pasa la información al señor Néstor Ochoa para realizar informes y continuar con su plan de verificación.
+ 
+
+Realizado por Wtobonl
+
+terminada cerrar
+
+
+
+
+

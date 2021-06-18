@@ -1,0 +1,12 @@
+FECHA: 02/09/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri - Gustavo Quintana Operación G3
+DESCRIPCIÓN: Oscilación constante del deflector de la unidad G32. Por favor realizar sus respectivas calibraciones mecánicas y electrónicas.
+
+
+FECHA: 02/09/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri - Gustavo Quintana Operación G3
+DESCRIPCIÓN: Oscilación constante del actuador aguja 3 de la unidad G33. Por favor realizar sus respectivas calibraciones mecánicas y electrónicas.
+
+
+
+ SE REALIZO AJUSTE Y VERIFICACION DE LOS LASOS DE CONTROL DE LOS INYECTORES, DANDOLE MANDOS DIRECTOS DESDE EL REGULADOR DE VELOCIDAD, SE REALIZARON APERTURAS AL 20%,  50 %,  75%  Y AL 100%, TAMBIEN SE HACE  VERIFICACION Y AJUSTE DEL DEFLECTOR Y LA VALVULA DISTRIBUIDORA,  SU COMPORTAMIENTO FUE BUENO.
+
+REALIZO: GRUPO DE ELECTRONICA.

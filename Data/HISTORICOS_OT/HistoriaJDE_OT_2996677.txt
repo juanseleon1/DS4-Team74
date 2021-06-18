@@ -1,0 +1,19 @@
+MIERCOLES 27 DE ENERO DE 2016
+
+PLANEADOR: SANTIAGO RAMIREZ
+PROGRAMADOR: JUAN GILBERTO TOBON
+
+DESCRIPCCIÓN: Revisar acople eje-rodete ya que a la fecha la turbina se encuentra operando sin punta de rodete, la cual protege los pernos del acople. En caso de encontrar platinas pinadoras reventadas, reponerlas y normalizar.
+
+CONSIGNACIÓN: 128397 (Enero 27, P8-P14)
+OT: 2996677
+ 
+
+
+COMENTARIOS DE EJECUCIÓN: 
+
+Se deberá programar inspección máximo en 2 meses (aproximadamente el 30 de Marzo de 2016) en caso de no haber instalado aún la punta de rodete nueva.
+
+Ejecutó: Equipo de operación y mantenimiento UOPO.
+
+Informó: Santiago Ramírez.

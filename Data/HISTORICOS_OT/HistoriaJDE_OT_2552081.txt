@@ -1,0 +1,7 @@
+Jueves junio 19 de 2014 
+Operación GlV
+Revisar y corregir falla en la estación G4S5 control planta GlV, presenta fallas ocasionando la perdida de información en las pantallas del CCCG.
+
+Junio 20 se revia la estacion G4S5 y se cambian 9 condensadores que estaban defectuosos, se deja en revison para ver funcionamiento.
+
+Julio 3 se procede a cerrar la OT debido a que el seguimiento arrojo bueno resultados y ya la estacion  G4S5  quedo en buen funcionamiento.

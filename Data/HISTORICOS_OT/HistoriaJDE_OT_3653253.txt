@@ -1,0 +1,14 @@
+ MARTES 20 DE JUNIO 2017 JORGE MARIO PEÑARANDA
+
+Referente al TCSR U2 subsistema Nº1; se transfiere al subsistema Nº2 por presión alta en la salida del intercambiador de agua cruda, el subsistema Nº1 queda indisponible, se le da reset y normaliza.( se revisan parámetros del subsistema Nº1 y se encuentran dentro de los rangos establecidos excepto la presión de salida del intercambiador 1 agua cruda que muestra 321 Kpa. Siendo las 03:48 se falla la válvula 4 vías,  se colmata el filtro auto limpiante del subsistema Nº2 y dispara el térmico, se procede a hacer maniobras en automático y en manual para limpiar el filtro y no responde ( dispara térmico ), en vista de esto procedemos a hacer cambio de subsistema a las 03:54 y este rechaza nuevamente por alta presión a la salida del intercambiador agua cruda transfiriéndose nuevamente al subsistema Nº2. Se le informa al ingeniero encargado Jorge Rodríguez y su instrucción es dejar el filtro auto limpiante del subsistema Nº2 en manual.
+
+Referente a la Unidad N°2 - Subsistema de Refrigeración 1: Se revisa este proceso y se encuentra la toma del instrumento PIT06 obstruida, por tal motivo el sistema hizo transferencia y no permitia su operación; se retira la obstrucción y se normaliza el sistema.
+
+Referente a la Unidad N°2 - Subsistema de Refrigeración 2: Se encuentra borne de control del filtro autolimpiante suelto; por está razón el filtro se colmataba y no hacia retrolavado; se realiza la conexión nuevamente y se normaliza el proceso.
+
+Referente a la Unidad N°2 - Subsistema de Refrigeración 2: Presenta valores muy altos en el diferencial de presión del filtro en el agua cruda ; se revisa el equipo para descartar posibles fallas mecánicas. ejecuto Jorge poveda y turno 2 de operacion                                                                          .
+
+Se deja el sistema 1 del TCSR U2 en condiciones normales de funcionamiento.
+
+
+REALIZA Y EJECUTAN:JORGE POVEDA Y JORGE PEÑARANDA

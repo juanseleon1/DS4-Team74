@@ -1,0 +1,22 @@
+MP ANUAL, EQUIPOS:
+2318 COJINETE INFERIOR U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: 02/10/18
+se desconecta y se retira el flujometro de salida de agua del cojinete inferior. y se le realiza limpieza.
+se realiza nuevamente el montaje y conexionado del flujometro de salida de agua del cojinete inferior.
+Se desconectan y se retiran las RTDs de temperatura de entrada y salida de agua del cojinete.
+
+se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, del cojinete y luego se realiza el montaje y conexión de cada uno de estos instrumentos de temperatura.
+El nivel de aceite se encontró en 279.7 mm el nivel patrón es de 290 mm. El nivel se deja en el punto de referencia mecánica.
+
+Se realiza calibración a sensor KPH
+
+VIBRACIONES:CIL:9.11 VDC
+                          CIP:9.0 VDC
+                          KPH:9.03VDC
+
+PROGRAMADOR: LUIS CARDONA

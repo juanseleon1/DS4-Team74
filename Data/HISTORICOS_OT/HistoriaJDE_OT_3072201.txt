@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en el proceso de lubricación del cable del malacate 
+
+Programador: Camilo Montagut - 28/04/2016
+
+Se realiza lubricación parcial del cable del malacate (solo 500 metros aproximadamente de su longitud) ya que al ser notificados de la prueba magnetográfica del mismo cable, se hace necesario para la actividad y limpiar lo que más se pueda el tramo de cable lubricado.
+
+para la lubricación se utilizó aceite shell torcula
+
+Ejecuta: equipo mantenimeinto mecánico GIII

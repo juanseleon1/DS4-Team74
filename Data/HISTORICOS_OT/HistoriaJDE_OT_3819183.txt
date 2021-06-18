@@ -1,0 +1,5 @@
+2019/03/14 RUBEN ARBOLEDA
+Se crea OT para realizar revisión de falla en flujo del intercambiador 1, baco 4 fase T.
+
+2019-03-14 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3819183, PASO:1          
+Se realizó la revisión de una falla en el flujo de aceite del intercambiador 1 en la fase R del banco 4, se encontró en estado abierto el  contacto NC del relé temporizado (Grupo de contactos auxiliares), se realizó el cambio de éste bloque ABB TEF4-ON por uno del K30 del transformador de reserva, quedó en funcionamiento normal. 

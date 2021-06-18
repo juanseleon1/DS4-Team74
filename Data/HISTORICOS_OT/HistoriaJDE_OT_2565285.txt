@@ -1,0 +1,17 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZAR¡N LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspecciÛn visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+---------------------------------
+
+fecha: OCTUBRE 01-2014
+esta oRDEN DE TRABAJO ya se realiz” el dÌa 24 de septiembre, en el  mantenimiento semestral ejecutado a la unidad N∫3.
+SE EJECUT” BAJO LA ot 2590447 (MANTENIMIENTO CCM U3)
+SE PROCEDE A CERRAR LA OT
+INFORM”: CRISTIAN ANDR…S GÛMEZ HERN·NDEZ
+
+---------------------------------

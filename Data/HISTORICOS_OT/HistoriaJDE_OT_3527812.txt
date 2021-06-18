@@ -1,0 +1,5 @@
+JULIO  31 DE 2017    OT : 3527812   PROGRAMÓ: JGUINGUL     EJECUTARON: ANDRÉS YEPES
+Se realiza desmontaje de los transmisores de presión ubicados en las tuberías de aguas arriba y aguas abajo, después se procede a realizar su respectiva calibración,  Ajuste y limpieza de los sensores de posición 
+
+Tablero: Válvula de Admisión U1 S2Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740.114 0.004815.60 15.751231.48 31.491647.25 47.242063 62.93Instrumento 1: Aguas Arriba (Bar)
+Instrumento 2: Aguas Abajo (Bar)

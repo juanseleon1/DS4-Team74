@@ -1,0 +1,14 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo del malacate
+
+Ot: 3049495 - Mantenimiento preventivo malacate sistema de frenado - Programador: Camilo Montagut - 15/03/2016
+
+Se realiza mantenimiento preventivo en los equipos del malacate. A continuación se registran las tareas ejecutadas:
+
+ - Inspección sistema frenado. A continaución se registran la información recolectada.
+
+Espesor pasta freno de servicio: 5 mm
+Presión del tanque acumulador freno de servicio: 136 bar
+Espesor pasta freno de emergencia: 7 mm
+Presión del tanque acumulador freno de emergencia: 139 bar
+
+Nota: se realizan paros del malacate utilizando los dos frenos sin registrar novedades algunas en su funcionamiento

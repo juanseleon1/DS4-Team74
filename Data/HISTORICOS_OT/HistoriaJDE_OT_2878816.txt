@@ -1,0 +1,18 @@
+PLANEADOR: SANTIAGO RAMÍREZ, 2015-09-15
+OT PARA CAMBIO DE BUJES SUPERIORES E INFERIORES DEL DISTRIBUIDOR DE LA UNIDA 1,
+
+BUJES SUPERIORES: 01, 12, 15, 19, 21, 22, 23, 24
+
+BUJES INFERIORES: 01, 06, 10, 12, 15, 17, 22
+
+Siendo los MAGENTA los mas leves y los ROJOS los mas graves
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2015-09-24
+Se desmontan y cambian bujes superiores de los álabes 01, 13, 15, 19, 21, 22, 23 y 24, adicionalmente se cambian los bujes inferiores de los álabes 05 y 11.  Todos montan con sistema de sellos de labio de poliuretano Tipo K6 de 200*215*9.5 mm  tipo CHESTERTON y sistema de o'ring doble, reparados por SAIT. Se realiza galgueo y calibración de los bujes 13, 19, 21, 22, 23 y 24.
+
+
+
+
+
+
+

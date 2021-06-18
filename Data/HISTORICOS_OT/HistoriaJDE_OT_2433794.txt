@@ -1,0 +1,11 @@
+DICIEMBRE 06 DEL 2013  / JEOVANNY CORREA G
+
+ La señal de temperatura del aceite del transformador de guadalupe III fase T esta trocada con la del devanado de alta.
+
+09/DICIEMBRE/2013
+
+Se observo en la pantalla de la sala de operacion que la temperatura del Devanado de Alta con respecto a la temperatura del Aceite se encontraba desfasada y parecia que estaban invertidas las dos señales. Se comprobo fisicamente con los termometros del trafo cual era la temperatura real del devanado y el aceite y efectivamente se evidencio que la señal estaba invertida.
+Se procede a mirar los planos y cambiar la conexion en el tablero de control del trafo (Bornera -X16, Borne 4 y 2). Se comprueba verificando con los operadores las medidas en la pantalla y en los termometros del trafo, comprobando que todo quedo correcto.
+
+PROGRAMADOR:  Oscar Arango
+EJECUTO: Fredy Duarte - Francisco Gonzalez

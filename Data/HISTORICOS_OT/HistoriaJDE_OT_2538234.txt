@@ -1,0 +1,5 @@
+JUN 4/2014 OT: 2538234 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edwin Lopera.
+Se realizó el mantenimiento según el instructivo GCTRE0003.
+
+
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABESAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.

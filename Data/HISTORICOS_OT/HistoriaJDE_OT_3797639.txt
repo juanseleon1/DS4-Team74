@@ -1,0 +1,5 @@
+2018/12/27 RUBEN ARBOLEDA
+Se crea OT para registrar actividades de revisión de baja presión aire interruptor de potencia Uniadd 8.
+
+2018-12-26 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3797639, PASO:1          
+Se realizó apoyo al personal de instrumentación en la revisión de presostato en el interruptor de potencia de la Unidad 8, se descargó el tanque y se volvió a cargar con lo que se normalizó la señal de baja presión.

@@ -1,0 +1,8 @@
+2017/03/25 RUBEN ARBOLEDA
+Tarea: Realizar revisión del funcionamiento de las motobombas del regulador de la unidad 2
+
+2017-03-25 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3434992, PASO:1          
+Se realizó verificación del funcionamiento de las motobombas del regulador de la unidad 2, se encontró una bobina quemada, se realizó el cambio de la bobina, se continuó con la revisión y se encontró que la motobomba seleccionada no arrancaba (Al seleccionar la 1 arrancaba la 2 y visceversa) se realizó el cambio en las conexiones de las bobinas, adicionalmente se identificó que en algunos momentos arrancaban las dos motobombas, se lubricaron los microsuiches, al verificar la señalización se encontró falla en el relé c1-Y, se realizó cambio y falla en cable sulfatado de los contactos auxiliares del contactor de la motobomba 1, se realizaron varias pruebas y se dejó en funcionamiento normal.
+
+2017/04/22, RUBEN ARBOLEDA
+No ha sido posible liquidar materiales, se realiza OT para pedir la bobina, #3462715

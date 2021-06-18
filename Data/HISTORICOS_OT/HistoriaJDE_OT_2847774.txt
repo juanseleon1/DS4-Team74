@@ -1,0 +1,12 @@
+18/08/2015
+REVISAR YA QUE SE PERCIBE OLOR A QUEMADO EMN LA GAVETA DE POTENCIA DE LA MOTOBOMBA CW5 
+
+2015/08/18 GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizo revisión termografica, se evidenció falla en la fase R del interruptor Q1 (Principal), a la salida del interruptor (Zona Superior), 
+Se realizó tranferencia a la DP2 y se dejó breaker abierto en DP1 (transferencia No Disponible), es necesario mandar a electroplatear los bornes para mejorar su contacto, por ahora queda indisponible la transferencia automática.
+
+2015/08/23 GIOVANNY DIAZ - HEILER PALACIO - JAVIER ARCILA
+Se realizó el desmontaje del interruptor Q1 (DP1), se envia para cotizar reparación de ajuste de contactos en TECNIGAL, ya que éstos se encuentran desgastados. 
+
+2015/11/19 GIOVANNY DIAZ - JUAN DAVID GARCIA - OSCAR GIRALDO
+Se realiza la instalación de los contactos fijos del interruptor QF1 en el CCM1, adicionalmente se instala el interruptor y se realizan pruebas de transferencia automática, se dejó en condiciones normales, este interruptor fue reparado por presentar sobrecalentamiento, queda pendiente realizar inspección termográfica  con CCM cargado, ésta termografia se realizará en la OT: 2850186

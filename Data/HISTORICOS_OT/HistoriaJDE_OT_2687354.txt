@@ -1,0 +1,33 @@
+
+SOLICITANTE: EQUIPO OPERACION                      FECHA: ENERO 30/2015
+
+FAVOR REVISAR CONTROL DE BOMBAS DE DRENAJE EL CUAL VIENE BLOQUEANDO LAS BOMBAS IMPIDIENDO SU TRABAJO NORMAL; LA FRECUENCIA DE ESTE EVENTO SE HA VENIDO INCREMENTANDO.
+
+ALRMAS:
+
+BACKUP BATERIA BAJA
+FALLA TENSION 120 VAC
+CONTROL 1 ARRANCADOR 1
+CONTROL 2 ARRANCADOR 2
+CONTROL 3 ARRANCADOR 3
+FALLA BOMBA 1 NO SUBE PRESION
+FALLA BOMBA 2 NO SUBE PRESION
+ALARMA CONTROL DE MODO MANUAL (EN MODO AUTOMATICO)
+
+02/FEBRERO/2015
+Referente a la falla bombas de drenaje G4
+
+Efectivamente se evidencia un comportamiento anormal en el sistema (falla reiterativa de las 3 bombas). Se realiza un seguimiento online con el portátil de gestión y el software Proficy Machine Edition, se encuentra la entrada digital DI-01 con oscilaciones de voltaje y activación/desactivación continua. 
+Se procede a revisar todo el módulo de entradas digitales y se encuentran los siguientes problemas:                                                                                                                      
+1. Cable de control flojo en la entrada digital 01- módulo de entrada: Se reaprietan los 32 bornes del módulo y se realiza inspección y verificación a todas las borneras de control del tablero.
+
+2. Relé de control de supervisión de tensión de las bombas con problemas de inducción en el borne A1 de la bobina, lo que ocasionaba que el relé se accionara erróneamente con un voltaje de inducción de 4vdc: Se le adiciono al control un relé de interfaz opto acoplador para evitar falsos accionamientos del relé por inducciones.
+
+3. Se cambió la batería de litio (3vdc) de la pantalla IHM del tablero.
+
+4. Se corrigen las alarmas de “ bomba no sube presión” , adecuando la señal del presóstato de supervisión de esta señal.  
+                                                                                                         
+Se realizan pruebas en modo local y automático del tablero y se verifican alarmas hacia la sala de operación, comprobando el correcto funcionamiento del sistema.
+                                 
+Programador: Oscar Arango
+Ejecuto: Marlon Carmona

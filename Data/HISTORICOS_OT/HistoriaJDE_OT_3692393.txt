@@ -1,0 +1,7 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+se realizó mantenimiento a los instrumentos del grupo radiadores, rtd (verificando visualmente el estado y ejecutando limpieza) e instrumentos de flujo asociados 

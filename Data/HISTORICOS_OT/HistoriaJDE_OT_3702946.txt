@@ -1,0 +1,13 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 22/03/2018
+
+ELABORAR INSTRUCTIVO  DE ALUMBRADO Y TOMAS EN CAMARA VALVULAS Y BOCATOMA,VERIFICAR APLICACION (REALIZAR MANTENIMIENTO, SEGUN INSTRUCTIVO PILOTO); LUEGO, HACER AJUSTES.
+
+
+
+SEPTIEMBRE 10 DE 2018
+Se realizó el instructivo de acuerdo al plan de mantenimiento de perifericos, queda pendiente la aprobación y que las OT's salgan de modo automatico.
+William Lopera.
+
+

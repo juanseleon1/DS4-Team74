@@ -1,0 +1,17 @@
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779639.
+Se realiza verificación del cableado de control y la correcta marcación de medida en los instrumentos y la IHM. Se realiza limpieza al tablero de control y los equipos asociados al TCCC. Se verifica comunicación de la IHM y el puerto N° 1, no dá link pero la comunicación esta funcionando. 
+Se verifican las fuentes de voltaje con los siguientes valores:
+
+PS01 _ Vin = 118.9 Vac. Vout = 24.6Vdc.
+PS02 _ Vin = 119.8 Vac. Vout = 24.5Vdc.
+PS03 _ Vin = 24.5   Vdc. Vout = 24.2Vdc.
+PS04 _ Vin = 119.8 Vac. Vout = 24.4Vdc.
+PS05 _ Vin = 119.8 Vac. Vout = 24.4Vdc.
+PS06 _ Vin = 24.4   Vdc. Vout = 24.2Vdc.
+
+Realizó: Richard Londoño, Jeniffer García.
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779639.
+OT programada para el mantenimiento TCCC U2 P3.
+
+XL: VERIFICAR Y LIMPIAR CONTROL CIRCULACION TCCC COJINETE INFERIOR DE LA UNIDAD

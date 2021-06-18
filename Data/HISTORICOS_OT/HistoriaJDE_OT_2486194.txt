@@ -1,0 +1,7 @@
+
+FECHA: MARZO 8 DE 2014 
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se cambia el modulo 7,11 ya que se estaban presentando paros por falla en el LOOP y el RFC mostro falla en este modulo. El modulo que se colocó se retiro de los guacales de la sala de 13,8KV

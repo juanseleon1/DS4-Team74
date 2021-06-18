@@ -1,0 +1,22 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+ JUNIO 21/2016. SERGIO OLIVARES D.
+
+ 1. ANTES DE LIMPIEZA.
+
+    ROTOR + BARRAJE = 0.05 M
+
+    ROTOR = 0.05 M
+
+               BARRAJE = 0.05 M 
+
+            2. DESPUES DE LIMPIEZA.
+
+                ROTOR + BARRAJE = 920 M
+
+    ROTOR = 1.87 G
+
+               BARRAJE = 1.13 G
+
+
+   Se realizo medida de resistencia ohmica con 1 amperio = 100.87 m

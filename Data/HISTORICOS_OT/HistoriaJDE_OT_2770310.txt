@@ -1,0 +1,7 @@
+
+FECHA: MAYO 15 DE 2015 OT: 2770310
+
+EJECUTANTE: GERMAN ECHAVARRIA
+SOLICITANTE: HENRY GIRALDO
+
+Se retira el LPC del AG6 por estar presentando problemas en la comunicación con el Scada

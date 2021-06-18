@@ -1,0 +1,13 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+27-10-2016
+PROGRAMADOR JOSE MONTOYA
+Se realizó mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en el nivel patrón con varilla y el patrón con maquina parada es de 178 mm.
+Queda pendiente escalizar niveles
+vibraciones: CTPL: 8.87 vdc
+                    CTPR: 8.97 vdc
+Se inyectan las siguientes señales
+  COJ TURB °C (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES PATRÓN °C ACEITE 1 SEG 1 SEG 24040.9 41,041,06060.9 61,0 61,08080.8 80.8 80.9ALARMA 70,0 70,0 70,0DISPARO 80,0 80,0 80,0
+La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

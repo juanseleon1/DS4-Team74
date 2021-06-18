@@ -1,0 +1,6 @@
+ENERO 24/2019  OT: 3802774  PROGRAMO: JULIAN BECERRA EJECUTO: ANDRES YEPES
+SE REALIZA MANTENIMIENTO, AJUSTE DE LA INSTRUMENTACIÓN DE LA VÁLVULA DE ADMISIÓN
+Transductor aguas arriba 0-16 barmA 4,11 8 12 16 20bar 0 3.89 7.89 11.91 15.94Transductor aguas abajo 0-16 barmA 4,09 8 12 16 20bar 0 3.90 7.92 11.92 15.95Transductor Tubo Aspiración 0-10 barmA 4.01 8 12 16 20bar 0 2.47 4.97 7.47 9.98
+                                                                      
+Instrumento Presostato aguas abajoPresostato  Patrón 0.36 Mpacontacto NO Equipo 0.38 Mpa
+Instrumento Presostato aguas arribaPresostato  Patrón 0.56 Mpacontacto NO Equipo 0.55 Mpa

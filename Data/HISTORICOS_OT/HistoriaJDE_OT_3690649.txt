@@ -1,0 +1,8 @@
+2018/02/21 RUBEN ARBOLEDA
+Se crea OT para realizar revision y medidas de aislamiento del recinto de anillos y conjunto rotor.
+
+2016-02-21 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3690649, PASO:1          
+Se realizó medida de aislamiento al rotor de la unidad 4, con el fin de identificar si existe una falla que ocasione vibraciones, 
+Se limpió las barras del eje de anillos rozantes. 
+Se ubicó y se destapó la zona del barraje pasante del ventilador, no se evidenció fallas.
+Medida de aislamiento: 4.5MOhm

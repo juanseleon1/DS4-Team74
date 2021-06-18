@@ -1,0 +1,14 @@
+NOVIEMBRE 11 / 2013
+
+REVISAR EL CARGADOR DE BATERIAS Y BATERIAS DE LA PLANTA DIESEL DE CASA DE MAQUINAS TRONERAS.
+
+INFORMA 
+
+GERARDO PEREZ.
+
+12/NOVIEMBRE/2013
+Se inspecciono el cargador de baterias en el sitio y se observo que este no encendia, solo mostraba en el display el voltaje de las baterias, las cuales se encontraban en 20.3 vdc. realizando mediciones con la pinza amperimetrica efectivamente se evidencio que el cargador no estaba cargando las baterias por lo tanto el volaje de salida era 0vdc. Se desmonto de la planta diesel par revisarlo internamente y se encontro suelto el pin de salida de dc del puente rectificador de potencia. La terminal se quebro y no realizaba contacto con la tarjeta de amplificacion. Se soldo una nueva terminal y se aprovecho para realizarle mantenimiento preventivo al cargador.
+Se normaliza y se conecta nuevamente en el sitio, realizando diferentes pruebas para comprobar la carga de las baterias. Se hace entrega al equipo de operacion y todo queda normal.
+
+PROGRAMADOR: Uaimer Diaz - Oscar Arango
+EJECUTO: Fredy Duarte

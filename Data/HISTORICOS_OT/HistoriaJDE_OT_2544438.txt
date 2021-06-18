@@ -1,0 +1,11 @@
+
+ JUNIO 07 DEL 2014 - JEOVANNY CORREA G
+
+ El cojinete inferior de la unidad 1 de Guadalupe III presenta incremento en las vibraciones paralelas, su rango se encontraba en 230  microns y en el monento su rango de alarma es de 280 microns, rango el cual esta superando 
+
+
+PROGRAMADOR: CAMILO MONTAGUT - 14/09/2015
+
+SE CIERRA LA OT YA QUE SE EJECUTARA EL MANTENIMIENTO CON LA OT: 2838990 QUE ESTA INSCRITA DELTRO DEL OVERHAUL DE LA UNIDAD
+
+EJECUTA: EQUIPO MANTENIMIENTO MECANICO GIII

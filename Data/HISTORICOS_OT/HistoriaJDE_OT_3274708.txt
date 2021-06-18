@@ -1,0 +1,14 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+20-10-2016
+pROGRAMADOR: JOSE MONTOYA
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 473.1 mm el nivel patrón es de 530mm. 
+
+VIBRACIONES: CSPL: 8.38VDC 
+                           CSPR:7.99VDC 
+                            AXL:7.81VDC 
+Se inyectan las siguientes señales
+  COJ GUIA SUP °C COJ EMPUJE °C          PATRÓN °C SEG 1 SEG 15 SEG 1 SEG 7  40 40.6 40.9 40.9 41.0  60 60.8 60.7 60.9 60.9  80 80.4 80.4 80.6 80.4  ALARMA  70.7 70.8 70.9 70.8 DISPARO  80.8 80.8 80.7 80.8 
+La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

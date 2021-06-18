@@ -1,0 +1,4 @@
+2017/10/30. ot 3635867 Cesar Tulio / Luis Eduardo 
+FALLA  VENTILADOR UBICADOS EN LA CELDA 1 QUE CORRESPONDE AL CARGADOR.
+
+Se cambian rodamientos al ventilador de la UPS quedando en condiciones normales de operacion 

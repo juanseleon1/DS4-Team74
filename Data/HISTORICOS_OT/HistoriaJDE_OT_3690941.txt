@@ -1,0 +1,8 @@
+REALIZAR CORRECTIVO EN PERDIDA DE COMUNICACION 21 DE 2018- WILLIAM LOPERA.
+
+
+FEBRERO 24 DE 2018.
+Por presentar falla en comunicación relé se revisa el funcionamiento del control del teleferico encontrando el cable de comunicación reventado correspondiente a la cabina 2, esto sucedio realizando un viaje normal y al pasar por la torre deteriora el cable de comunicación, se cambia los cables y se normaliza todo el sistema de control, quedando en funcionamiento normal.
+
+Aendió: Grupo electrico y electronico de la U.O.G.
+Informó: William Lopera.

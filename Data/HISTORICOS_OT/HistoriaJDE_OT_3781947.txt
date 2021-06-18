@@ -1,0 +1,21 @@
+
+NOVIEMBRE 07/2018 OT: 3781947  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+Se realiza nueva inspección al sistema de refrigeración, el día de hoy se anula la circulación de agua por el generador, se le adiciona agua al resto del sistema, se drena aire, se aprecia humedad en unos puntos del radiador agua - aire, se deja con presión hasta mañana cuando se revisará de nuevo
+
+NOVIEMBRE 15/2018 OT: 3781947  PROGRAMÓ: HGIRALRI EJECUTÓ: ELIECER PUSHAINA Y GERMAN ECHAVARRIA
+
+Se realiza prueba al circuito de refrigeración al interior del generador, la prueba se realiza utilizando el compresor y colocando presión de aire en el circuito, se deja un tiempo, no se producen pérdidas considerables, se arma de nuevo todo al estado normal y se le adiciona agua y listo para probar.
+
+
+NOVIEMBRE 20/2018 OT: 3781947  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Después de 3 horas de servicio se presenta falla de alta temperatura agua, se inspecciona y se encuentra la presión del agua en 0,5 bar; se observan unas zonas húmedas, se aplica masilla epóxica en estas áreas, se le adiciona agua y se deja la presión en 2,65 bar; maquina en funcionamiento.
+
+NOVIEMBRE 21/2018 OT: 3781947  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Debido a paro por temperatura alta en el agua del sistema de refrigeración, se inspecciona la presión del agua y se encuentra en 0,5 bar, se aprecian nuevas zonas húmedas, se deja el aerogenerador detenido.
+
+NOVIEMBRE 26/2018 OT: 3781947  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se tapan con masilla epóxica algunas zonas que presentaban humedad en el radiador, se le adiciona agua al sistema de refrigeración, se drena el aire y se deja en 2,6 bar, cuando se terminó de bajar herramienta se aprecia que la presión había bajado a 2,3 bar, se deja en servicio el aerogenerador, después de 2 horas de trabajo se sube al aerogenerador se observa gotas de agua saliendo del tablero de conexión del generador, se destapa y se observa vapor de agua en el tablero, se deja detenido el aerogenerador.

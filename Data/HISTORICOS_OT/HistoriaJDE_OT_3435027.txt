@@ -1,0 +1,19 @@
+MARZO 26 DE 2017 8:00
+
+Referente a la tubería de conducción de la U1: 
+Se evidencia fuga de agua por el sensor de caudal 11MEX70CF012 (Sensor 2 de la trayectoria 6). El aforo de la fuga hoy es 2.75 litros/hora.  En total son 8 sensores y están instalados aguas arriba de la válvula esférica, por lo tanto, la reparación de dicha fuga requerirá una sellado en operación. 
+Por el momento se comenzará con un registro de aforos para hacer seguimiento a la fuga y la planeación de la reparación. 
+OT 3435027.  
+Informó: Jhon Jairo Gonzalez, Santiago Ramírez, Carlos Sanchez.
+************************************************************************************************************************************
+SE REALIZA AFORO POR 2 DIAS A LA FUGA, DANDO COMO RESULTADO 2 LTR POR MINUTO, DESPUES DEL TERCER DIA ESTA FUGA DESAPARECIO.
+HATS EL DIA DE HOY 21/05/2017 NO SE HA VUELTO A PRESENTAR.
+
+EJECUTO: JORGE POVEDA
+
+***************************************************************************************************************************************************************************************
+Julio 14 de 2017.
+
+Se presenta nuevamente la fuga por el sensor 2 de la trayectoria 6. Se aplica torque en la tuerca de sujeción de la camisa porta sensor, pero la fuga continua. El personal de Rittmeyer enviará propuesta para sellado de esta fuga.
+Ejecutó: Roberto Leone (técnico Rittmeyer)
+Informó: Nestor Ochoa, Santiago Ramírez.

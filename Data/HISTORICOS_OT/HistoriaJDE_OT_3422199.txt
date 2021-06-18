@@ -1,0 +1,10 @@
+CL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+23-03-2017
+PROGRAMO JOSE MONTOYA
+Se deja trabajando tarjeta de drivers nueva
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema.
+Se realiza verificación de los mandos de apertura del distribuidor.
+
+ MEDIDAS DE CORRIENTE Y DESPLAZAMIENTO SEGÚN PORCENTAJE DE APERTURA DEL DISTRIBUIDORMANDO25% 50% 75% 100%MEDmAMedidor RVXmAMedidor RVXmAMedidor RVXmAMedidor RVXDISTRIB 8.03 24.8 11.98 50,00 15.89 75,00 19.92 99.8

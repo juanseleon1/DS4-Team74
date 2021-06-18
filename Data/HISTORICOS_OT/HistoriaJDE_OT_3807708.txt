@@ -1,0 +1,6 @@
+2019/02/04 RUBEN ARBOLEDA
+Se crea OT para realizar adecuacion de ventiladores en camara de valvulas. 
+
+2019/08/09 FARLEY GIOVANNY DIAZ
+Se realiza OT. 1509987  en MAXIMO para su gestión.
+

@@ -1,0 +1,5 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para realizar recuperación de nivel de aceite, está en 0. 
+
+2018/03/29 JUAN DAVID GARCIA - VICTOR ZULETA - RUBEN ARBOLEDA
+Se realizó recuperación de nivel de aceite de la cuba del transformador banco 3 fase T, estaba en 0 (cero), se realizó medida de rigidez dielectrica a una caneca de aceite con valor promedio de 38.7Kv, se adicionó 55 galones aproximadamente, se dejó el nivel en 4.

@@ -1,0 +1,5 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Frank Cordoba y Julian Giraldo.
+Se realiza inspección al barraje de fase aislada, a las puestas a tierra y a la estructura. Se inspeccionan las RTD´s, se realiza mantenimiento al tablero de control del aire a presión y se verifican presiones en los ductos.
+Trabajo ejecutado por: Frank Cordoba y Julian Giraldo.
+
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD

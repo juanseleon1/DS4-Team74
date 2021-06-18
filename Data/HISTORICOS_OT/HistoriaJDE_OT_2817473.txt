@@ -1,0 +1,5 @@
+2015/07/12 ADONIS CADAVID
+Esta OT se realiza para la revision termigrafica y limpieza general, se crea manualmente ya que no se está generando en el MP
+
+2016-11-06 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 2817473, PASO:1          
+Se realizó inspeccion termografica al Suiche estatico UPS 2, y en general a toda la UPS, no se evidenció puntos calientes.

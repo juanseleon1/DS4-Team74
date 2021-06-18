@@ -1,0 +1,7 @@
+2015-09-08. EDWAR A LONDOÑO OCAMPO.
+
+CORREGIR EN LA UPS STAND BY EL VENTILADOR 12 QUE FALLO. EN LA O.S SALE ALARMA "UPS FALLA SISTEMA".
+
+2015-09-09
+
+se realiza mantenimiento y cambio de rodamientos del ventilador 12, queda trabajando en condiciones normales.

@@ -1,0 +1,5 @@
+2015/08/18 RAMIRO TORRES
+Se reporta falla al arrancar la unidad 4, ya que el deflector se encuentra abierto al 12%
+
+2015/08/18 JAIME RAMIREZ - ADONIS CADAVID - RUBEN ARBOLEDA
+Se realizó revisión se encontró microfiltro del comando de la electrovalvula MOOG obstruido y se cambio, adicionalemnte se realizó calibración de transductor de posición del servomotor, se realizó pruebas de funcionamiento y se dejo en condiciones normales.

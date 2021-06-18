@@ -1,0 +1,11 @@
+ANUAL ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+
+30-10-2017
+PROGRAMADOR JOSE MONTOYA
+
+30/010/2017
+SE REALIZA MANTENIMIENTO A TODAS LAS CELDAS DEL REGULADOR DE EXCITACION.
+CUATRIMESTRAL
+Se realizó limpieza, inspección visual y se revisaron las borneras de control de los diferentes tableros del regulador de tensión. Se realizó mantenimiento a los filtros de aire de cada celda del regulador.
+Se revisó el estado de los sensores de vibración y se ajustaron
+Se realizó mantenimiento a los tableros del vibrosistem 

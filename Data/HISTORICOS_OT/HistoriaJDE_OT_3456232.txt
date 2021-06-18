@@ -1,0 +1,18 @@
+17/04/2017 DANIEL LOPEZ
+
+04:39 SALE DE SINCRONISMO LA UNIDAD N°1 POR FALLA EN EL REGULADOR DE VELOCIDAD
+
+
+
+
+17/04/2013
+
+Referente a la unidad Nº 1  Paro Rápido, se realiza análisis de la falla se encuentra que el distribuidor en una consigna de 63% de apertura no responde a los comandos de la válvula proporcional saliendo el evento de posición servomotor no alcanzada razón por la cual sale el paro rápido. 
+
+la unidad queda pendiente por oportunidad para realizar pruebas con el personal mecánico y electrónico. SE RELIZARAN PRUEBAS EN EL MANTENIMIENTO DE LA UNIDAD 06 MAYO.
+
+Realizo: Walter Tobón.
+
+TERMINADA CERRAR
+
+

@@ -1,0 +1,14 @@
+
+Se encuentra Ventilador 1 del Transformador Fase R fallado por disparo del termico y alta temperatura, se normalizó el termico pero volvio a abrirse, se opto por realizar solicitud de trabajo.
+
+Elaboro: 
+
+EQUIPO DE OPERACION TURNO 3
+
+ELKIN SANTAMARIA - WILSON ARANGO.
+
+22 DE DICIEMBRE DE 2015
+
+Se desmonta el motor del ventilador, se le realiza mantenimiento y cambio de rodamientos que estaban pegados y por ende estaba pegado el motor.
+
+William Lopera

@@ -1,0 +1,13 @@
+XE: REVISAR Y MEDIR CALEFACCIÓN GENERADOR
+
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+
+SEPTIEMBRE 13 DE 2018.
+Se realizaró mantenimiento electrico semestral, según el instructivo GCTRE0002, se realizó limpieza general al tablero de control, ajuste de borneras de control y potencia, se tomaron valores de votajes, corrientes y resistencia Ohmica, sin ninguna novedad.
+Programó: William Lopera

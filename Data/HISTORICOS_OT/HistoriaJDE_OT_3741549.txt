@@ -1,0 +1,6 @@
+SOLICITANTE: Operación turno 3 - AR FECHA: 03/07/2018
+
+La estación hidráulica de la unida 1 está funcionando sólo con la bomba de aceite No. 2 (sin respaldo), ya que la bomba No. 1 se encuentra indisponible por problemas mecánicos. Igualmente el bombeo de aceite a través de la bomba No. 2 presenta graves problemas de funcionamiento, recupera nivel de aceite con dificultad y baja en muy poco tiempo, haciendo que la bomba trabaje continuamente. Requiere correctivo lo más pronto posible.
+
+Nota: Se desmonta la bomba y se revisan los rodamientos, tornillos impulsores y valvula de intermitencia encontrando los elementos mencionados en buen estado. Se calibra la valvula de intermitencia y se logra su normal funcionamiento en cuanto a recuperacion de presion y trabajo intermitente, continua el ruido al entrar en funcionamiento lo cual requiere desmontar y revisar otros elementos del sistema hidraulico para encontrar la causa del ruido al iniciar la carga de presión la bomba;es necesario para lo anterior indisponer la unidad, por lo pronto queda como principal la motobomba 2 y la motobomba 1 como reserva en caso de fallar la motobomba 2.
+

@@ -1,0 +1,4 @@
+TE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2015/03/16 GIOVANNY DIAZ - YEISON ORTEGA
+EQUIPO: VENTILADOR S4 CORRIENTE: R:0, S:0, T:0, VOLTAJES RS:0, ST:0, TR:0, AISLAMIENTO DE MOTOR: 0,07 M No se arrancó a causa de bajo aislamiento, se instaló un calefactor para mejorar el aislamiento, el 2015/03/17 hora: 21:30 fue necesario darle arranque por motivos operacionales del ventilador S5, SW: 2720284, OT:2708162

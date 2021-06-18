@@ -1,0 +1,11 @@
+SOLICITANTE: TURNO 2 OPERACIÓN G3 FECHA: 11/12/2015
+
+Pérdida de medida del instrumento de nivel ocasiona funcionamiento constante del filtro 1. Se opta por operación en manual hasta corregir.
+
+20 DICIEMBRE/2015
+
+Se evidencio que el sensor del filtro 2 presentaba problemas de manera local y con la comunicacion remota, puesto que no se visualizaba medida en la sala de operacion. 
+Se procedio a cambiar la tarjeta electronica de comunicacion que se encontraba fallada. Se instalo una tarjeta de repuesto que se tenia de repuesto, se realizan pruebas y se confirma el buen funcionamiento del sensor y la correcta visualizacion de la señal de nivel en la pantalla de la sala de operacion.
+
+Programador: Oscar Arango.
+Ejecuto: Francisco Gonzalez

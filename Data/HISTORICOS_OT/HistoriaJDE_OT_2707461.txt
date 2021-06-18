@@ -1,0 +1,21 @@
+- FECHA : LUNES FEBRERO 02 DE 2015
+- REALIZÓ : DARÍO ATEHORTÚA
+- ASOCIADO A LA OT : 2707461
+- ASUNTO : HACER SEGUIMIENTO A LA MOTOBOMBA PARA :
+                      1. COMPORTAMIENTO MECÁNICO BASADO EN LECTURA VIBRACIONES AGUAS ABAJO :
+                           1.1 PARTE SUPERIOR : 8.9 mm / s
+                           1.2 PARTE MEDIA : 6.5 mm / s
+                           1.3 PARTE INFERIOR : 4.0 mm / s  
+
+                       2. . COMPORTAMIENTO MECÁNICO BASADO EN LECTURA VIBRACIONES HACIA UNIDAD N° 2 :
+                           2.1 PARTE SUPERIOR : 14.8 mm / s
+                           2.2 PARTE MEDIA : 10.5  mm / s
+                           2.3 PARTE INFERIOR : 6.5 mm / s  
+                           NOTA : SE UTILIZÓ EQUIPO PEN DE VIBRACIONES
+
+                      3. COMPORTAMIENTO MECÁNICO BASADO EN LECTURA TEMPERATURAS
+                           NOTA : SE UTILIZÓ EQUIPO TERMÓMETRO LASER
+
+                      4. TIEMPOS DE EVACUACIÓN : 8´52 " 
+                          
+                      

@@ -1,0 +1,11 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Tablero de controladores PLC
+Tablero 20GTA UTR de los bancos de transformadores 
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Escalizar medida de temperatura de los transformadores para sistema centralog.
+2018/08/31 CARLOS SANCHEZ.
+SE REALIZA MANTENIMEINTO PREVENTIVO ELECTRONICO, AJUSTE DE CONEXIONADO Y VERIFICACION DE CABLEADO, LIMPIEZA. EL EQUIPO SE ENTREGA OPERANDO NORMAL
+

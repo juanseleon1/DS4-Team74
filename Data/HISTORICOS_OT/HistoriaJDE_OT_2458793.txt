@@ -1,0 +1,14 @@
+
+FECHA: ENERO 23 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARIA, PEDRO SOLANO Y HENRY GIRALDO
+
+Después de haber realizado ayer pruebas con el RFC y LPC del AG11 en el AG13 (LPC utilizado remotamente) se vio que tenia problemas en el modulo 4,4. El día de hoy luego de haber cambiado el RFC que tenia el AG13 por uno nuevo, se realiza el cambio del modulo 4,4 y su respectiva base, se logra solucionar el problema de las señales de este modulo, pero nos sale una nueva alarma de termistor generador, se verifica conexiones en generador y en el modulo 210A1 del tablero nuevo de control, no se encontró nada anormal en las conexiones y se cambia el modulo mencionado y borra la alarma, al tratar de girar la Yaw nos aparece alarma de stop Yaw error, se verifican los sensores de la Yaw y demás conexiones en las cajas y tableros y no se encuentra nada fuera de lo normal, se deja detenida.
+
+
+FECHA: ENERO 24 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARIA Y HENRY GIRALDO
+
+
+Nuevamente se trata de girar la Yaw pero al moverse aproximadamente 4 grados salen las alarmas  272 y 273 asociadas a la Yaw, se ubica el AG de frente al viento realizando puente en los módulos arrancadores y se deja en funcionamiento y en manual la Yaw.

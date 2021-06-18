@@ -1,0 +1,10 @@
+
+2018/10/04 DIEGO BEDOYA
+Se realiza la limpieza del recinto de los frenos de la unidad 8, se revisan las bandas de frenado y se encuentran en condiciones normales de operación.
+Gato 1: 19 mm
+Gato 2: 19 mm
+Gato 3: 19 mm
+Gato 4: 20 mm
+Gato 5: 19 mm
+Gato 6: 19 mm
+el trabajo fue realizado por Yesid Sánchez, Orlando Zuleta y Edwin Foronda

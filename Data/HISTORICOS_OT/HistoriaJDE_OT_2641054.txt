@@ -1,0 +1,5 @@
+NO ABRE BYPASS FUE NECESARIO ABRIRLO MANUALMENTE, EL EVENTO SE HA PRESENTADO EN DOS OPORTUNIDADES.
+
+18-11-2014. Fernando Ruiz- Giovanny Diaz
+
+Se cambia bobina de apertura y cierre 20 BP por una segunda por no tener nuevas, se realizan pruebas quedando en funcionamiento normal.

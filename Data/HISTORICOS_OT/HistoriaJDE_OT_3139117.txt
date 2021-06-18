@@ -1,0 +1,37 @@
+06/08/2016
+SOLICITANTE: RAMIRO  A TORRES.
+POR FAVOR REALIZAR LOS SIGUIENTES TRABAJOS:
+- PROGRAMAR UNA SEÑAL DE ALARMA POR FALLA MOTOBOMBAS DE REFRIGERACION NUEVAS DE PRIMERA Y SEGUNDA ETAPA PARA QUE INDIQUE EN LOS TABLEROS DE ALARMAS GENERALES I Y/O II RESPECTIVAMENTE Y QUE TAMBIEN INDIQUE LA FALLA EN EL SCADA.
+- PROGRAMAR EN SCADA EN EL DESPLIEGE AGUA DE REFRIGERACIÓN UN BOTON QUE PERMITA REMOTAMENTE REALIZAR EL RESET DEL CONTROL DE CADA UNA DE LAS MOTOBOMBAS NUEVAS DE REFRIGERACION CUANDO SE PRESENTA UNA FALLA POR SUBTENSION. 
+GRACIAS.
+
+2017/04/10 RUBEN ARBOLEDA
+En días anteriores se realizó adecuación y programación en el SCADA para el reseteo y arranque en automático de las 3 motobombas CW nuevas de 100 HP de I Etapa, ante una falla en tensión del CCM1 éstas motobombas arrancarán automáticamente estando en REMOTO así: 
+Motobomba CW1 arranca a los 10 Segundos
+Motobomba CW2 arranca a los 20 Segundos
+Motobomba CW3 arranca a los 30 Segundos
+
+NOTA: En caso de que una falla dure más de cierto tiempo, no arrancará la motobomba automáticamente, es necesario darle arranque desde la estación de operación o ponerla en manual y arrancarla, a continuación el registro de los temporizadores de falla:
+Motobomba CW1 a los 20 Segundos
+Motobomba CW2 a los 30 Segundos
+Motobomba CW3 a los 40 Segundos
+
+Adicionalmente se realizó adecuación y programación en el SCADA para el reseteo y arranque en automático de las 3 motobombas CW nuevas de 100 HP de II Etapa, ante una falla en tensión del CCM5 éstas motobombas arrancarán automáticamente estando en REMOTO así: 
+Motobomba CW6 arranca a los 10 Segundos
+Motobomba CW7 arranca a los 20 Segundos
+Motobomba CW8 arranca a los 30 Segundos
+
+NOTA: En caso de que una falla dure más de cierto tiempo, no arrancará la motobomba automáticamente, es necesario darle arranque desde la estación de operación o ponerla en manual y arrancarla, a continuación el registro de los temporizadores de falla:
+Motobomba CW6 a los 20 Segundos
+Motobomba CW7 a los 30 Segundos
+Motobomba CW8 a los 40 Segundos
+
+Los planos de las motobombas de 100 HP se encuentran en la planoteca de casa de máquinas en un folder blanco marcado como “ MOTOBOMBAS CW DE 100 HP” , Este folder quedará en el cuerpo 2 entrepaño 15. 
+
+Ésta OT se cierra sin costos, las adecuaciones se realizaron en las OT's: 
+3332857 MOTOBOMBA CW1 REFRIG U1 GT
+3347893 MOTOBOMBA CW2 REFRIG U2 GT
+3357030 MOTOBOMBA CW3 REFRIG U3 GT
+3357032 MOTOBOMBA CW6 REFRIG U5 GT
+3357034 MOTOBOMBA CW7 REFRIG U6 GT
+3357035 MOTOBOMBA CW8 REFRIG U7 GT

@@ -1,0 +1,14 @@
+FECHA: 13/01/2017   SOLICITANTE: FRANCISCO CORDOBA
+
+DESCRIPCION: SE OBSERVA CON MAQUINA GIRANDO UNA PRESION SUPERIOR A 15 BAR EN LOS SELLOS DE OPERACION.
+
+
+Programador: Camilo Montagut - 22/03/2017
+El asunto de la ot se refiere a que el transmisor de presión de los sellos de operación indican un valor que varía (cambia al aplicarse los sellos y mantiene estático su valor) entre 26 y 37 bar. Se realiza desmonte y limpieza de la tubería encontrando alto contenido de lodo, además el equipo electrónico verifica el estado del transmisor encontrándolo en óptimas condiciones. 
+Con el fin de limpiar el compartimiento del sellado se deja fluir agua y se encuentra alto contenido de lodo.
+Finalmente no se logra obtener el valor de presión deseado (54 bar) aunque se evidencia que el sello de operación sí está cumpliendo su función de sellado. La corrección de este fenómeno sólo se podría realizar desmontando la válvula esférica así que por el momento se seguirá realizando inspección constante de los elementos de este sistema.
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,6 @@
+
+REPARAR  AISLAMIENTO Y/O VERIFICAR.
+
+DESPUES DE REALIZAR LA REPARACIÓN DEL ROTOR, EXTRAIDO
+
+ Tensión aplicada:  500VDC                   Medida R med. 1'[M] T devanado [°C]Rc 40° 1'[M] Dev. Campo 5100 29,5 5302,457467                                      Condiciones del equipo al momento de la pruebaCondición Limpio Sucio Extraido En sitio Húmedo SecoRotor X   X                                                 

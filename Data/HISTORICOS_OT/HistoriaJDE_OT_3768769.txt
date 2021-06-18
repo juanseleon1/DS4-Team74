@@ -1,0 +1,7 @@
+2018/09/25 OT: 3768769
+OMAR SANCHEZ VILLADA
+DESCRIPSICON:NO CONECTA NI DESCONECTA EN EL PARO Y ARRANQUE
+NOTA:PARA NORMALISAR HAY QUE QUITAR EL RELE 3QTH/DU 8.2 PORQUE QUEDA ENERGIZADO.
+
+2019-01-28 REALIZÓ: RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3768769, PASO:1          
+Se realizó la revisión de la lubricación forzada de la Unidad 8, la motobomba de respaldo se encontraba trabajando constantemente, se identificó que el relé 30QTH/D (Salida del CU), estaba energizado y la salida no estaba activa, se realizó el cambio del relé queda en condiciones normales.

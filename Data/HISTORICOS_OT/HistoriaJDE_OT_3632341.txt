@@ -1,0 +1,14 @@
+31/10/2017 MANTENIMIENTO PREVENTIVO ANUAL LUBRICACION FORZADA 
+
+
+Programador: Camilo Montagut - 09/11/2017
+
+Se realiza limpieza de los filtros removibles de la lubricación forzada. Además se realiza reajuste de toda la tornillería del mismo equipo. 
+
+Al normalizar la unidad se realiza prueba en la lubricación forzada registrándose las siguientes medidas tomadas 180° una de la otra:                                                                                             
+
+- Bomba 1: 0,07 mm y 0,09 mm                            
+- Bomba 2: 0,07 mm y 0,08 mm
+- Bomba 1 + 2: 0,08 mm y 0,10 mm
+
+Ejecuta: equipo mantenimiento mecánico UOG

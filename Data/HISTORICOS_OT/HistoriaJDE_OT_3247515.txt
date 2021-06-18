@@ -1,0 +1,15 @@
+2016/09/16 RUBEN ARBOLEDA
+en la ot OT predictiva: 3089065 se encontró la temperatura en la salida de PEINETA fase T se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 50.°C, lo cual implica una deficiencia mayor en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+Se dejo el ventilador parado hasta ejecutar esta OT correctiva.
+
+
+2016-09-17 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3247515, PASO:1          
+Se realizó corrección del punto caliente, se dejó en condiciones normales.2016/09/16 RUBEN ARBOLEDA
+en la ot OT predictiva: 3089065 se encontró la temperatura en la salida de PEINETA fase T se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 50.°C, lo cual implica una deficiencia mayor en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+Se dejo el ventilador parado hasta ejecutar esta OT correctiva.
+
+
+2016-09-17 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3247515, PASO:1          
+Se realizó corrección del punto caliente, se dejó en condiciones normales.

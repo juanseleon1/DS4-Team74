@@ -1,0 +1,14 @@
+15/05/02018 - 12:30 a.m.
+
+Se observa y verifica que el inyector nro 1 de la Unidad 1, no asimila la orden de cierre haciendo que la Unidad quede descompensada y subiendo su apertura hasta el 100%, por lo tanto se toma la decisión de darle a la Unidad un Paro de Emergencia manual desde la Sala de operación de guadalupe 3, por parte del personal de Operación; se solicita diagnosticar el activo y realizar el mantenimiento que requiera.
+
+Realiza e informa Turno 3.
+
+John Meneses - Mauricio Caicedo - Wilson Arango.
+
+15/05/2018
+
+SE ATIENDE SOLICITUD, SE REVISAN LOS LAZOS DE CONTROL DE LOS INYECTORES DANDOLE MANDOS DIRECTOS DESDE EL REGULADOR DE VELOCIDAD Y RESPONDIERON CORRECTAMENTE, SE APROBECHA LA CONSIGNACION DE LA UNIDAD PARA PROBAR LAS TARJETAS DRIVES DE LOS INYECTORES QUE SE TIENEN DE REPUESTO.
+
+
+REALIZO: GRUPO DE ELECTRONICA.

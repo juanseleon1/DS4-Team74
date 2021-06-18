@@ -1,0 +1,14 @@
+
+DICIEMBRE 25 DEL 2014 / WILSON ARANGO / JEOVANNY CORREA G
+
+ Es sistema hidráulico de la unidad G36 Presenta dos inconsistencias.
+-Se alarma y no da condiciones de arranque, se pasa en mando de la válvula de refrigeración cojinetes a manual y habilita la secuencia de giro de la unidad.
+-La bomba de N1 del sistema hidráulico que esta como prioritaria con maquina parada se quedad trabajando.
+
+30/DICIEMBRE/2014
+REFERENTE AL SISTEMA HIDRAULICO G36
+
+Se reviso la logica de control en la estacion de ingenieria y se realizaron pruebas locales en la estacion hidraulica, comprobando efectivamente que se presentaba una anomalia en el funcionamiento de la bomba 1 del sistema hidraulico y en los permisivos para el arranque de unidad y la apertura en modo automatico de la valvula de aislamiento.
+Se encontro un setpoint en un bloque comparador (dentro del software) para habilitar los permisivos del sistema hidraulico, en un valor diferente al patron. Se corrigio este set y se dejo en 800mm de aceite (nivel patron tanque sumidero). Con esta correcion se normalizaron todas las operaciones del sitema hidraulico, realizando diferentes pruebas y comprobando el correcto funcionamiento de todo el sistema.
+
+INFORMO: Oscar Arango

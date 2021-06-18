@@ -1,0 +1,40 @@
+FECHA: LUNES 02/02/2019
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: YOVANNY RIVERA, FELIPE SALAZAR.
+ASOCIADO A LA OT: 3799056
+ASUNTO: MANTENIMIENTO PROGRAMADO A MOTOBOMBA SUMERGIBLE N°1 DEL POZO DE DRENAJES DE CASA DE MAQUINAS LAYAS.
+   - AL DARLE ARRANQUE A LA MOTOBOMBA SE OBSERVA LEVANTAR 25 LIBRAS DE PRESION EN EL MANOMETRO, SIN ENVARGO EN      EL INDICADOR DE NIVEL DEL TABLERO SE EVIDENCIA AUMENTO DE NIVEL.
+   - SE PROCEDE A CERRAR LAS VALVULAS HACIA ALMENARA GUAS ABAJO DE LAS MOTOBOMBAS N°2 Y N°3, SE ARRANCA DE      NUEVO LA MOTOBOMBA N°1 Y EL INDICADOR DE NIVEL NO SUBE NI BAJA.
+     SE DEBE ANALIZAR LASCAUSAS DE DICHO COMPORTAMIENTO PUES ESTE EQUIPO ES NUEVO.
+   - EL EQUIPO QUEDA INDISPONIBLE POR QUE NO EVACUA EL POZO. 
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______________
+
+HOROMETRO:( H )____________
+
+TIEMPO DE TRABAJO:( min.)____________
+
+MW PLANTA: _______________
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

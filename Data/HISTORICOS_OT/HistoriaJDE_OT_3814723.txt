@@ -1,0 +1,3 @@
+FEBRERO 25/2019 OT: 3814723  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y ELIECER PUSHAINA
+
+Se cambia el filtro de aceite de la bomba 1 de la caja multiplicadora por presentarse alarma por alta presión.

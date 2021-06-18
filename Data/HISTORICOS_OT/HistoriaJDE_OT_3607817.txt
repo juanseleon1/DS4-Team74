@@ -1,0 +1,11 @@
+OCTUBRE 03 DE 2017
+MP ANUAL EQUIPOS:
+-2372 EXCITACIÓN PRINCIPAL U3 G3
+
+Se desmonta todo el sistema de la excitación de la unidad, para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, re aislado de barrajes, y mantenimiento en general ya que se tiene disponibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio, se hacen pruebas antes y después del mantenimiento al inductor y el inducido para verificar su estado. Después de la limpieza se vuelve a monta toda la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria que se llevó durante el trabajo, además se hace mantenimiento. Resultado de las pruebas.
+
+ANTES DEL DESARME DESPUES DE ARMARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO K ANILLOGSUPERIOR530431 VDCSUPERIOR4.83517 VDCINFERIOR522430 VDCINFERIOR5.65517 VDC
+Nota: se realiza cambio de escobillas en los anillos rozantes la 2, 3, 5, 13, 14, 15, 16, 17, 18 y 19.
+
+Programo: Carlos Andres Forero 
+Ejecuto: Luis Correa-Mateo Perez-Edgar Rodas-Edinson Hernandez. 

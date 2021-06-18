@@ -1,0 +1,13 @@
+14 FEBRERO 2017 GUILLERMO LEON ECHEVERRY
+
+SE GENERA ESTA OT PARA ATENDER REVISION DE LA IHM DEL TCD UNIDAD 2
+
+
+14/02/2017
+
+Se realiza mantenimiento y verificacion a la IHM del TCD en la unidad 2, se encontro falla en el SCREEN de la pantalla se realiza verificacion del sistema y fue necesario cambiar la Pantalla por una nueva y actualizar el proyecto de esta pantalla, el sistema queda operativo y actualizado.
+
+Realizado por WTOBONL
+
+TERMIINADA CERRAR
+ 

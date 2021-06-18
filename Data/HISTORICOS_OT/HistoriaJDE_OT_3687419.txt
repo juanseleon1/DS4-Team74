@@ -1,0 +1,34 @@
+19-03-2018 CESAR AUGUSTO HOYOS HENAO
+
+Actividades de bloqueos y desbloqueos unidad.
+Actividades de paro y arranque unidad.
+Pruebas de funcionamiento unidad después del mantenimiento.
+
+2018-05-06 REALIZÓ: EDWAR ALEXANDER LONDOÑO - MATEO PEREZ (GUADALUPE) - FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3687419, PASO:2-2.2         
+Se realizó el proceso de búsqueda de condiciones de maquina lista a la unidad 7, 
+Se realizó el proceso de verificación según procedimiento, se realizó una medida de un IP general desde el transformador de neutro con el transformador de excitación acoplado al barraje: valor de aislamiento 6.8MOhm
+Se desacopló el transformador de excitación y se hizo IP nuevamente con medida de 412MOhm IP 1.25
+Se puso a calentar el transformador de excitación. 
+Adicionalmente se realizó medida de aislamiento al rotor: 9.76MOhm y al barraje: 10.45MOhm. se puso a calentar con 2 turbo calefactores el recinto de anillos, siendo las 5 de la tarde se hizo medida en conjunto con un valor de 18.2MOhm, se dejan los turbo calefactores conectados.
+Para dar condiciones de maquina lista fue necesario:
+Retirar orden de paro parcial del banco 4, tablero +TB4.2 bornera CX1 borne 133. 
+Realizar puente de 86T en tablero +TB4.2 bornera CX1 Bornes: 35-36, con estas acciones la maquina quedó con condiciones y se dejó disponible para pruebas de disparos.
+
+2018/05/06 DIEGO BEDOYA
+Se realizó el proceso de búsqueda de condiciones de maquina lista a la unidad 7, se ajustaron los niveles de aceite de los cojinetes, se realizó ajuste al nivel de aceite en el tanque sumidero del regulador hidráulico, se ajustó el regulador (nivel de aceite en mirilla y presión en tanque acumulador) para que estuviera en condiciones normales de operación, se presurizo el caracol y se realizó recorrido de agujas.
+El trabajo fue realizado por: Diego Bedoya, Juan David Flórez, Gabriel Bustamante.
+
+2018-05-31 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3687419, PASO:5          
+Se realizó medida de aislamiento general a equipos de la Unidad 7 con los siguientes resultados: 
+IP General Estator: 412MOhm, IP 1,7
+Transformador de Exitación: Aislamiento: 17MOhm
+Rotor Generador: Aislamiento: 9MOhm
+2018-06-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3687419, PASO:6-6,1          
+Se realizó puesta en servicio de la unidad taquimétrica con señales al control y regulador de tensión de la Unidad 7, la señal de velocidad presentaba oscilación en la medida al momento de excitar la Unidad; después de varios ensayos, pruebas con diferentes cables, aterrizar en múltiples partes la tubería flexible, se optó por acercar el sensor al piñón de 7 dientes. Inicialmente estaba a una medida y con variarla se logró un cambio, el cual se registra a continuación: 
+MEDIDA OBSERVACIONES
+1.8mm Medida Inicial, al momento de conectar o desconectar excitación se presentaba oscilación en la medida
+1.0 mm Después de unos 10 segundos de conectar la excitación la medida de velocidad subía y se quedaba alta, normalizaba al desconectar excitación
+3.0 mm Al momento de conectar o desconectar excitación se presentaba una oscilación momentánea
+4.0 mm Al momento de desconectar excitación se presentaba una oscilación hacia arriba (disparo por sobre velocidad).
+5.0 mm La medida se mantiene estable.
+

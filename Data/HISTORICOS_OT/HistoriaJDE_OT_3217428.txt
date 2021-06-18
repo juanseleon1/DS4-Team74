@@ -1,0 +1,8 @@
+2016/08/21 RUBEN ARBOLEDA - CREACION DE OT PARA REPROGRAMAR
+EN LA OT: 2694074, REALIZADA EL 2015/06/04 MARIO RESTREPO - SEBASTIAN HINCAPIE - RUBEN ARBOLEDA - SERGIO OLIVARES
+Ya se cuenta con los aisladores, no fue posible la ejecución a causa de recomendación de la realización de una consignación nacional ya que se corre riesgo de sacar de servicio la subestación ya que las protecciones de linea se encuentran en estas celdas, esta OT se crea con el fin de dejarla pendiente y poderla reprogramar. 
+
+
+2016/08/31 - RUBEN ARBOLEDA OT: 3217428
+Se realizó cambio de 11 aisladores en las barras de los tableros +NK3, NK4 y NK5 de 125 VDC. Los anteriores aisladores se habían desintegrado (caucho). El trabajo se realizo con barra energizada y con herramienta aislada. el personal de mantenimiento de la central suministro los aisladores. Ejecutaron:
+Norbey Serna y Steven Bustamante. Unidad mantenimiento subestación y líneas.

@@ -1,0 +1,5 @@
+FECHA: 25/01/2018    SOLICITADO POR: Natalia Urrea- Francisco Córdoba- Operación G4
+
+DESCRIPCIÓN: Se encuentra en falla el extractor de polvo de grafito(escobillas) de la unidad 1 de Guadalupe IV. No se evidencia alarma en el sistema de control, solamente presenta señalización local en el tablero de control del extractor.
+Se restablece la protección térmica, se arranca el extractor y se mide una corriente de 10.8A. Se evidencia en el manómetro del filtro que este se encuentra obstruido. 
+La protección térmica tiene un rango 7 a 10 A y esta calibrado en 8.5A. Los datos de placa del motor son 480V/10.4A. En las otras unidades la corriente se encuentra en 7.2 A y 6.5 A, respectivamente.

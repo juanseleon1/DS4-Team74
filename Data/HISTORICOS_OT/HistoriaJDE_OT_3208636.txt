@@ -1,0 +1,16 @@
+INSPECCION INSTRUMENTACION COJINETE SUPERIOR UNIDAD GENERACION GUADALUPE 4
+
+31-08-2016
+PROGRAMADOR JOSE MONTOYA
+Se desmontaron las RTD y los termómetros para los trabajos mecánicos y luego se instalaron nuevamente.
+Se realiza limpieza e inspección visual al visor del sensor de nivel y se revisan sensores de vibración, se encontraron en CSPL: 9.06VDC, CSPR 8.80VDC y el AXIAL: 7.40VDC.
+Se realizó escalización del cojinete superior con maquina parada y en pantalla las alarmas y disparos quedaron así:
+Muy alto: 1215
+Alto 1100
+Nivel patrón: 720
+Bajo:670:
+Muy bajo:620 
+Se inyectan las siguientes señales
+  COJ. GUIA SUPERIOR °C COJ. EMPUJE °CPATRÓN °C METAL 2 ACTE   METAL 2 METAL 440 40.1 40.1   40.1 40.160 60.1 60.1   60.1 60.180 80.1 80.1   80.1 80.1ALARMA  60,0 55,0   75,0 75,0DISPARO  65,0 60,0   80,0 80,0Se calibran de nuevo las vibraciones
+Se inyecto señal con el calibrador de procesos para comprobar  alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\TRIMESTRALES G4-2016

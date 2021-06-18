@@ -1,0 +1,43 @@
+24/11/2018 Albeiro Correa - Camilo Cadavid 
+Perdida momentanea de la señal de tension de la barra 1 de servicio auxiliares 125 VDC,ocasionando paro rapido a las 3 unidades de Guadalupe 4. 
+
+Sábado 24 de noviembre
+Planeador: Estevan Vasquez
+programador : jose Montoya
+
+05:53 Se dio paro rápido la Unidad G41, con 35 Mw y 0 Mvares, debido a perdida momentánea de señal de tensión en barra N° 1 de 125 Vac
+
+14:14 Salida forzada por paro rápido de las 3 Unidades de Guadalupe 4, no se evidencia dentro de los eventos de salida de la planta ni del centro de control la causa del paro.
+
+Las acciones que se han realizado hasta el momento son las siguientes:
+
+Se analizan las posibles razones que nos pueden dar paro de la planta y son las siguientes:
+
+-Activación del relé -KD en el tablero +LA.11, y se puede dar por las siguientes razones (Disparo por orden del PLC Cámara de válvulas, Falla del SEL 2505 cámara de válvulas, pulsador cierre de emergencia válvula mariposa activado y disparo por muy bajo nivel del tanque de refrigeración) 
+-Baja tensión de 125 VDC
+-Nivel alto pozo de drenajes.
+-Disparo transferido de la subestación.
+-Baja presión del tanque acumulador de los interruptores de potencia.
+
+Según los análisis que se han realizado, se identifica que la falla se da por la activación del relé -KD o por la baja tensión de 125 DC, se realizaron las siguientes acciones para mitigar el problema:
+
+-Se revisa los transductores que vigilan la medida de tensión de 125 DC y se ponen a graficar estas señales en el SCADA para realiza seguimiento.
+-Se revisan las conexiones de los bornes en cada uno de los relés de disparos y se ajustaron cada uno de ellos.
+-Se realiza limpieza y prueba de autonomía a la UPS de cámara de válvulas.
+-Se revisan bancos de baterías.
+
+EL DIA MIERCOLES  28-11-2018
+
+La cadena guatron sale despachada en pruebas y tenemos la oportunidad de realizar las siguientes actividades:
+Referente a los servicios auxiliares 125 VDC.
+Se realizan pruebas de autonomía en las barras de 125 VDC, obteniendo los siguientes resultados.
+
+Banco 1 de baterías: se encuentra abierto el banco en la batería # 15, encontrándose la barra de la serie sulfatada y fracturada, se cambia por un puente en cable con terminales, se reaprieta y se normaliza el banco. Se realiza prueba de autonomía de las baterías por 1 hora y responde satisfactoriamente.
+
+Banco 2 de baterías: se realiza prueba de autonomía por 5 horas donde se observa que la carga se sostiene con una corriente de 5 amperios, se encuentran tres baterías deficientes, las cuales quedan pendientes por cambiar.
+Adicionalmente se cambia el relé KD en el tablero L:A 11 (Válvula Mariposa) por que se observó comportamiento anormal. 
+Informo Carlos Giordanelli  José Montoya  Juan Caicedo  esteban Vásquez.
+
+
+
+

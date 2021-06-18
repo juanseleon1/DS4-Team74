@@ -1,0 +1,13 @@
+
+2017/03/21 _ CARLOS ENRIQUE MONCADA. OT N° 3362254.
+SE REALIZA MANTENIMIENTO Y LIMPIEZA A LA ESTACION DE INGENIERIA DE CASA MAQUINAS Y SUB ESYACION DE PORCE 2. EL SUBSISTEMA QUEDA EN CONDICIONES PARA LA OPERACION.
+
+REALIZO: NEIRO FABIAN PEREZ - DAVID ATEHORTUA .
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Estaciones de operación y de ingeniería en casa maquinas y subestación.
+
+Realizar mantenimiento y limpieza a monitores y CPU de las estaciones de operación y de ingeniería, archivar la información  del histórico de eventos HDSR. Realizar mantenimiento de los CIV´s y actualización de variables y depuración de alarmas en estación

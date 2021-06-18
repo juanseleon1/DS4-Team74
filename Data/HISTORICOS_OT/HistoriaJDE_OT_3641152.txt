@@ -1,0 +1,7 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+22-11-2017
+Se realizó mantenimiento al tablero de control del regulador hidráulico Y pantalla de visualización, se encontró todo normal.
+Se realiza limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+Se realiza verificación a la tarjeta AMP2
+NOTA: debido a los inconvenientes presentados al inicio del mantenimiento, durante los bloqueos de la válvula de admisión, la estación hidráulica se dejó en funcionamiento durante el mantenimiento.

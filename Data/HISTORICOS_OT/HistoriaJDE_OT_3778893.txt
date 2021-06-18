@@ -1,0 +1,12 @@
+MANTENIMIENTO ELECTRONICO CUATRIMIESTRAL 
+FECHA: 28/11/2018
+OT: 3778893
+
+PLANEADORA: SANDRA CARMONA
+
+PROGRAMADOR:BERNARDO BEDOYA
+
+Se realizó mantenimiento al tablero de control del regulador hidráulico Y pantalla de visualización, se encontró todo normal.
+Se realiza limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+
+REALIZÓ: GRUPO ELECTRÓNICO

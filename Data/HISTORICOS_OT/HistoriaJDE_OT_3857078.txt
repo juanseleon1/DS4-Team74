@@ -1,0 +1,5 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 29-Julio-2019
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento:montaje de radio en la estacion para comunicacion en tiempo real, lo cual hay que cambiar la estacion vaisala por campbell.

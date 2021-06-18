@@ -1,0 +1,10 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  COJINETE SUPERIOR UNIDAD GENERACION TRONERAS
+
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR: LUIS CARDONA
+
+Se realizó mantenimiento según orden de trabajo, se verifico el nivel de aceite y se encontró en 377.5mm, el nivel patrón es de 375mm, no se le recupero aceite, el nivel se encontró en el punto de referencia mecánica.
+vibraciones: CSL: 9.71 vdc , CSP: 8.96 vdc
+Con el calibrador de procesos se inyectaron los transmisores de temperatura que están programados dentro del plan de mantenimiento de unidades con el fin de verificar su correcto funcionamiento y sus puntos de alarmas y disparos. 

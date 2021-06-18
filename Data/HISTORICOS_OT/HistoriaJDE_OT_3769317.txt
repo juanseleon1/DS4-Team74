@@ -1,0 +1,22 @@
+MP ANUAL, EQUIPOS:
+2312 COJINETE SUPERIOR U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: 02/10/2018
+se desconecta y se retiran los flujometro de salida de agua del intercambiador N° 1 y el intercambiador N° 2 y se les realiza limpieza.
+se realiza nuevamente el montaje y conexionado del flujometro de salida de agua del intercambiador N° 1 y el intercambiador N° 2.
+Se desconectan y se retiran las RTDs de temperatura de entrada y salida de agua del intercambiador N°1 y el intercambiador N°2.
+se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, del cojinete superior y luego se realiza el montaje y conexión de todos estos instrumentos de temperatura.
+
+El nivel de aceite se encontró en 521.5 mm el nivel patrón es 530 mm. El nivel se deja en el punto de referencia mecánica.
+
+Se realiza calibración a sensor CSP.
+
+VIBRACIONES: CSL:9.00 VDC
+ CSP: 9.03 VDC 
+ AXIAL: 8.80VDC
+
+PROGRAMADOR: LUIS CARDONA

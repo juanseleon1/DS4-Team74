@@ -1,0 +1,34 @@
+
+2018/07/18 _ CARLOS ENRIQUE MONCADA. OT N° 3742166.
+Se realiza limpieza y mantenimiento al control de infiltraciones en la mini central. Se revisan los instrumentos asociados al sistema encontrándolos así:
+Voltaje n fuente del PLC: 24 V.
+Las bombas que operan desde este tablero no tienen alimentación AC.
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+FECHA: 05/07/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA .
+
+DILIGENCIAR CONSIGNACION LOCAL Y PERMISO DE TRABAJO CON LOS OPERADORES DE LA CENTRAL 
+
+
+NOTA: ESTE SISTEMA SE ENCUENTRA EN FUNCIONAMIENTO, SE DEBE CORDINAR CON EL OPERADOR DE LA CENTRAL Y EL SUPERVISOR EL BLOQUEO Y VERIFICACION DEL SISTEMA, ADEMAS SE DEBE ANEXAR DATOS DE LA VERIFIACION DEL NIVEL EN EL POZO DE BOMBAS.
+
+realizar inspeccion y verificacion de los sensores de nivel y sonda de presion para el arranque del sistema, ademas verificar estado del PLC y la comunicacion 
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,10 @@
+
+CM: Vibraciones umas-ventiladores-extractores Guatape. Este equipo debe estar en línea
+2015/09/28 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones del ventilador S8 y se obtienen los siguientes resultados:  
+Sistema de medición RMS
+1 Horizontal: 18.8 mm/seg
+1 Vertical: 11.9 mm/seg
+2 Horizontal: 16 mm/seg
+2 Vertical: 13 mm/seg
+2 Axial: 9 mm/seg

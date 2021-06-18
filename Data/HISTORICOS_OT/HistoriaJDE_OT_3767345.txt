@@ -1,0 +1,6 @@
+Fecha de solicitud: 20-09-2017
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento: 
+Realizar las siguientes acciones de mantenimiento preventivo:
+Instalar 6 mediciones de viento en las galerias de la presa ituango
+Instalar medicion de presion y viento en los pozos de las compuertas de captacion presa ituango

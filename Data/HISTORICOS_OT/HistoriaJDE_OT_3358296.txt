@@ -1,0 +1,26 @@
+MIERCOLES 04 DE ENERO DE 2016
+
+UNIDAD 2 DE GUADALUPE III INCREMENTA TEMEPRATURA EN METAL Y ACEITE DE COJINETE DE TURBINA. LLEGA A NIVEL DE ALARMA Y SIGUE INCREMENTANDO HASTA 78°C (DISPARO EN 80°C).
+
+SE SOLICITA LA UNIDAD INDISPONIBLE CON REDESPACHO DE DOS PERIODOS DESDE EL PERIODO 8 AL 10.
+
+
+INFORMA: SANDRA CARMONA
+
+Programador: Camilo Montagut - 12/01/2017
+
+Por presentar altas temperaturas en varios de sus segmentos y alto nivel de aceite se realiza inspección de todo el conjunto encontrándose alto contenido de agua dentro de la cuba y en los alrededores de las tapas de ensamble.
+
+Se realizó el mantenimiento que comprendió el desmonte de todo el cojinete, inspección con prueba de estanqueidad de los serpentines y ajustes en general donde cabe anotar lo siguiente:
+
+1. La fuga de agua se presentó por uno de los eductores que presentaba perdida de material en la rosca y por tal motivo no realizaba un correcto ajuste. Se adecuó mecánicamente el eductor recuperando la rosca y logrando el sellado.
+
+2. Las altas temperaturas de los segmentos del cojinete se presentaron por el desprendimiento de la pintura de la cuba móvil, la cual presentaba alto desgaste, se procede a pelar toda la pintura que aún se encontraba y se realiza limpieza general especialmente en el tubo de comunicación de aceite entre la cuba móvil y la fija.
+
+3. Otra de las causas del calentamiento fue la obstrucción por lodo en la descarga de los eductores. Con ayuda del equipo civil se limpian las tuberías con el tirabuzón eléctrico y se realizan pruebas hasta cerciorarse de que el agua circulara correctamente.
+
+Finalmente se realiza el cambio de 120 litros de aceite heavy médium 68, el ajuste de los instrumentos y de todos los acoples en general eliminando las pequeñas fugas de agua.
+
+Se entrega el equipo a operación y se deja girando la unidad para verificar las temperaturas de los segmentos del cojinete.
+
+Ejecuta: equipo mantenimiento UOG

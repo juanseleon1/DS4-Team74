@@ -1,0 +1,13 @@
+15 /10/2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+
+Se realizaron las siguientes actividades:
+ Se revisan posibles fugas. 
+ Se reapretan flanches para eliminar posibles fugas.
+ Se revisan el tanque de expansion, valvula de sobrepresion, rele de BUCHHOLZ.
+ Se ajustan todos los puntos de conexion de control y de potencia.
+
+Nota: estas tareas se realizaron en las fases R, S y T. 
+
+Ejecutó: Tatiana Almario-Luis Correa
+Programó: Carlos Andres Forero

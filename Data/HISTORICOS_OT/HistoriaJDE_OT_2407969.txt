@@ -1,0 +1,6 @@
+
+XM:VERIFICAR, REVISAR Y LIMPIAR VÁLVULA DE ADMISIÓN
+
+PROGRAMADOR: RMONTOYG, 04/11/2013 - OT 2407969 - @C0087666
+
+Se realiza según procedimiento. Se encuentran todos los filtros en buen estado. Se verifica en nivel del tanque sumidero el cual se encontró en 447 mm con una presión de 146 Bar. Se revisa el nivel del tanque de agua encontrándose en 405 mm. Se deja así ya que este sistema no está trabajando para la aplicación de los sellos de la esférica. Estos se están aplicando directamente con la presión aguas arriba. Se lavan el tanque del sistema Hidroflow. Se encuentran los filtros del agua bastante sucios. Los filtros de aceite se encontraron limpios.

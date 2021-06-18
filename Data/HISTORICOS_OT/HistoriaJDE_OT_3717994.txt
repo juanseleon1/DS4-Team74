@@ -1,0 +1,13 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO.
+Se realiza inspección, mantenimiento y limpieza a los tableros +PCG, +TCIG, en el recinto se revisan y limpian las resistencias calefactoras, se les mide su resistencia óhmica y se llenan registros con los valores. R-S= 60.4 OHMIOS, S-T=60.5 OHMIOS, T-R=60.5 OHMIOS.
+Trabajo ejecutado por: John Jader Orrego, Frank Manuel Córdoba, Alejandro Echeverri y Ángel Sánchez.
+
+XE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

@@ -1,0 +1,82 @@
+- FECHA : LUNES MAYO 22 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - CRISTIAN GARCÍA  
+- ASOCIADO A LA OT : 3481274
+- ASUNTO : HACER MANTTO MP
+
+- DATOS DE PLACA 
+  * Datos datos de placa motor ventilador
+     - Potencia : 3 HP
+     - Voltaje : 460 v
+     - Corriente : 4.05 amp.
+   * Datos de placa motor compresor
+     - Potencia : 60 HP
+     - Voltaje : 460 v
+     - Corriente : 72.3 amp.
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí        
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor:sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 
+        ** Motor ventilador : 8.30 Goh
+        ** Motor compresor : 4.9 Goh
+
+2.2. Valores de voltaje y corriente:
+
+      * Voltaje ventilador:          
+       RS =  470.1 v
+       ST =   469.5 v                                                                
+       RT =   470.8 v
+
+      * Voltaje motor compresor
+             RS = 469.8 v
+             ST = 470.1 v
+             RT = 471.2 v
+
+       Corriente de arranque:  
+        * Corriente arranque motor ventilador 
+Fase R = 29.4  amp.
+
+       Corriente arranque motor compresor 
+* Fase R = 157.7 amp.
+
+
+       Corriente de marcha:
+
+        * Corriente marcha motor ventilador  
+Fase R = 5.8 a
+Fase S = 5.2 a 
+Fase T = 5.4 a   
+
+* Corriente de marcha motor compresor : en vacio 
+Fase R = 19.3  a
+Fase S = 18.4  a
+Fase T =  17.6  a
+
+                                                                           
+2.3. Temperatura excesiva carcaza: nó
+      Temperatura excesiva cojinetes: nó
+      Vibración anormal: nó
+      Ruido anormal: nó
+
+3. Calibración térmico control: 
+     * Ventilador : 2.5 a
+     * Compresor : 3.0 a
+   
+     Calibración térmico potencia:
+     * Ventialador : 5 a
+     * Compresor : 42 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 2935.0 H
+
+6. Observaciones: se realiza limpieza y mantto a todo el equipo y no se encuentra ninguna novedad
+    * Equipo utilizado para medida de aislamiento : Megger MI 3121H y se aplicaron 500 Vdc, medidas tomadas con acometida
+    * Se instala iluminación en el recinto compresores 
+    * Queda para operar como respaldo
+    * Medida de aislamiento acometida : 6.35 Goh

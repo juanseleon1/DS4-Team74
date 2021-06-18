@@ -1,0 +1,7 @@
+05/11/2018
+ALEJANDRO VERGARA
+Revisar que no hay registro de históricos en sistema scada desde hace algún tiempo por lo cual no se puede graficar.
+
+Martes 06/11/2018
+
+Se revisan los Discos AAS del los PSOS y se encuentran que estan llenos, esto fue causado por una falla al realizar el Backup, se procede a realizar un Backup manual y se depuran los PSOS, quedando todo OK.

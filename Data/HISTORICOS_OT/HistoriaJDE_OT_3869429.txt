@@ -1,0 +1,13 @@
+Solicitante-Planeador: Manuel José Giraldo Giraldo
+Aprobador: Carlos Andrés Andrade Gómez
+Fecha de solicitud: 13-09-2019
+Tipo de mantenimiento: Preverntivo
+Acciones de mantenimiento: 
+
+Inspección general del estado de la estación
+Limpieza de estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor
+Realización de aforo

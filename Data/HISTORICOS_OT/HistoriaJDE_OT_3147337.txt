@@ -1,0 +1,28 @@
+2016/06/16 EDWAR LONDOÑO - JUAN DAVID GARCÍA, PROGRAMO: SOLIVARE PASO 1
+Se realizó destape del barraje de salida para revision de bajo aislamienteo en la unidad 7, OT: 3131563, 
+Se evidenció que el bajo aislamiento está en la fase S, se continuo desarmando y se evidenció en los aislamientos cercanos al contacto fijo del interruptor se petrolizó, se limpió y se dejó calentando con un motor-calentador
+
+2016/06/17 EDWAR LONDOÑO - JHONATAN USME - JUAN GARCÍA - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG PASO 2
+Se evidenció una mejoría en el aislamiento, pasando de 8 MOhm, a 2 GOhm, se inicio el proceso de armado, una vez finalizado este proceso se realizó medida nuevamente de aislamiento, se evidención en 215 MOhm, se dejó calentando para revisar el 18 de Junio
+
+2016/06/18 EDWAR LONDOÑO - JHONATAN USME, PROGRAMO: RARBOLG PASO 3
+Se realizó medida de aislamiento, continuó entre 160 y 200 Mohm, se tomó la desición de aislar la zona del interruptor en la fase S, pero el resultado fue: 
+
+Interruptor Fase S: 1.1 GOhm
+Unidad con barrajes armados y transformador de excitación aislado: 160 MOhm, 
+
+Se tomo la decisión de desarmar nuevamente el barraje de salida de la unidad para determinar y focalizar el nuevo punto de fallo, 
+
+Se realizó medida y se evidenció que la medida en la fase S del interruptor oscila, se deja calentando hasta el día 19 de junio
+
+2016/06/19 EDWAR LONDOÑO - JHONATAN USME, PROGRAMO: RARBOLG, PASO 4
+Siendo las 07:15AM Se apagó en calentador e inmediatamente se realizó la medida de aislamiento, estado actual: 
+Barraje de salida unidad desarmado, 
+Barraje superior del interruptor (llegada de unidad), desarmado: 72GOhm
+Contacto fijo del interruptor: 736MOhm
+Se deja enfriar para determinar estabilidad en el aislamiento
+
+2016/06/19 RUBEN ARBOLEDA, PASO 4.1
+Se realizó medida de aislamiento siendo las 09:56 AM obteniendo los siguientes resultados: 
+Contacto Fijo del interruptor: 126.6 MOhm, 
+Se evidenció una caída en el aislamiento, se dejo en calentamiento, se evicencia que a la hora de calentarse éste aislamiento mejora, se tomó la decisión de energizar la unidad con los resultados obtenidos. 

@@ -1,0 +1,14 @@
+MP ANUAL, EQUIPOS:
+384782 RODETE PELTON U1 G3
+2359 RODETE PELTON U2 G3
+751203 RODETE PELTON U3 G3
+751204 RODETE PELTON U4 G3
+2362 RODETE PELTON U5 G3
+751205 RODETE PELTON U6 G6
+
+
+Programador: Camilo Montagut - 2017/10/11
+
+Se realiza mantenimiento al rodete pelton marca Voith de referencia R-930019 y con 94549.86 horas de funcionamiento donde se incluyó limpieza del rodete por parte del equipo de mantenimiento de la UOG e inspección y ensayos no destructivos por parte de la empresa contratista ASTECO S.A. Luego de realizar las pruebas con líquidos penetrantes, partículas magnéticas y ultrasonido se encontró que los cangilones número 5, 7 y 9 presentan fisuras en los estrados y porosidad en todos los cuellos de los cangilones, motivos suficientes que llevaron a decidir cambiar el rodete por otro usado que se tiene en stock. El informe final de la empresa ASTECO S.A. queda a cargo del ingeniero Gabriel Tamayo
+
+Ejecuta: equipo mantenieminto mecánico UOG

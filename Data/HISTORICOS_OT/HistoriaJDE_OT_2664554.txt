@@ -1,0 +1,33 @@
+FEB 2/2015 OT: 2664554 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Fue instalado un transformador trifasico de 125125 V / 60 MVA marca TOSHIBA, N° de fabica 830900006 para reemplazar los transformadores del banco N° 5, de los caules fallaron los de las fases S, T y el de la fase R con probabilidad de fallar en poco tiempo.
+
+Se monta un tramo de red aerea de 115 KV por medio de dos poste de fibra de vidrio desde el transformador TOSHIBA, ubicado en la celda de reserva del patio de Guadalupe III, hasta los transformadores de corriente en el portico de las celdas del Banco N° 5 y el secundario de este transformador 13.8 KV se conecta con cable seco calibre 350 MCM hasta el barraje de salida del estator de La Unidad N° 5.
+
+Las pruebas realizadas cumlpieron con las normas, se entrega en funcionamiento normal.
+
+Este trabajo fue realizado conjuntamente con Transmision, Subestaciones, Montajes y CET.
+
+
+ DICIEMBRE 23 DEL 2014 - WILSON ARANGO - ELKIN SANTAMARIA - JEOVANNY CORREA G
+
+ Se dio paro la unidad G35 por disparo Buchholz en la fase R 
+
+28/01/2015.
+
+SE REALIZA UNA VERIFICACION CON EL BAÑO TERMICO A LOS TERMOMETROS DE TEMPERATURA DEL ACEITE Y TEMPERATURA DE LOS DEVANADOS DE ALTA TENSION Y DE BAJA TENSION, SE AJUSTAN LOS PUNTOS DE ALARMAS Y DISPAROS.
+
+ARRANQUE DE VENTILADORES POR TEMPERATURA DEL ACEITE  SE AJUSTO EN 60°C.
+ALARMA POR TEMPERATURA DEL ACEITE SE AJUSTO EN 80°C
+DISPARO POR TEMPERATURA DEL ACEITE SE AJUSTO EN 95°C
+ALARMA POR TEMPERATURA DE LOS DEVANADOS DE ALTA Y BAJA TENSION SE AJUSTARON EN 85°C
+DISPARO POR TEMPERATURA DE LOS DEVANADOS DE ALTA Y BAJA TENSION SE AJUSTARON EN 95°C.
+
+TAMBIEN SE REALIZO UNA PRUEBA DE IMAGEN TERMICA A LOS TEMOMETROS DE LOS DEVANADOS DE ALTA Y BAJA TENSION CON LOS SIGUIENTES RESULTADOS.
+TEMP. 24°CRH 75,40%TEMP. BAÑO   60°CDEVANADO AT   U5 G3TEMP. INICIAL TERMOMETRO      59°cTEMP. INICIAL RTD 61,8°cCORRIENTE TEMP.TERM TEMP.RTD0.5  A X 15 min 62°C 64,61.0 A X 15 min 66°C 69,61.5 A X 15 min 74°C 76,7
+
+TEMP. 26,5°CRH 75,40%TEMP. BAÑO TERMICO 60°CDEVANADO BT  U5 G3TEMP. INICIAL TERMOMETRO58°cTEMP. INICIAL RTD 60,3°CCORRIENTE TEMP.TERM TEMP.RTD0.5  A X 15 min 60°C 608°C1.0 A X 15 min 63°C 64,6°C1.8 A X 15 min 70°C 70,5°C
+
+REALIZO: GRUPO ELECTRONICA
+
+
+

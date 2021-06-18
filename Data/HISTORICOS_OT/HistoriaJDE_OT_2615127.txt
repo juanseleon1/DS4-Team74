@@ -1,0 +1,47 @@
+
+2015/10/06 LESLIE MARULANDA
+SE REALIZA MEDICIONES DE FLUJO  CON MEDIDOR ULTRASONIDO
+FILTRO ARENAS VERDES A:34 GAL/MIN
+FILTRO ARENAS VERDES B:19.38 GAL/MIN
+
+PENDIENTE CONTINUAR CON AJUSTE TRANSMISORES.
+2014-10-07 VICTOR HUGO VELEZ
+SE SOLCITA REVISAR LOS INDICADORES DE FLUJO DE LOS FILTROS DE ARENAS VERDES, PUES NO MUESTRAN INDICACION; ESTOS INSTRUMENTOS SON MUY IMPORTANTES EN LA OPERACION DE LA PLANTA DE AGUA DEMI VAPOR.
+"LA REALIZACION DE ESTE TRABAJO DEBE CUMPLIR CON LA NORMA ISO 18001 REFERENTE A LA SALUD OCUPACIONAL Y LA SEGURIDAD INDUSTRIAL (OHSAS) Y CON LA NORMA 14001 REFERENTE AL SISTEMA DE GESTION AMBIENTAL (SGA) DONDE SE DEBEN RESPETAR LAS NORMAS LEGALES VIGENTES".
+
+2014/10/15 DIEXER CARO 
+SE INICIA PROCESO DE COTIZACION DE LOS ELEMETOS A REMPLAZAR 
+MEDIDOR DE PRESIÓN DIFERENCIAL PARA INDICACION DE FLUJO. CAJA FENOLICA DE CARATULA DE 6". 
+CUERPO Y PARTES INTERNAS EN SS.316 
+SELLOS EN BUNA-N Y CONEXIÓN 1/4NPT F 
+DIAFRAGMA EN INCONEL CON ACERO INOX. 
+TEMPERATURA DE OPERACIÓN -40ºC/93ºC 
+SOBREPRESIÓN: 10.000 PSI. PRECISION: 1% 
+CALIBRACIÓN CON RANGO: 0-100PSID EQUIVALENTE 
+A 0-150GPM. CARATULA CON LOGO DE EPM Y HiVIS. 
+Y VIDRIO TEMPLADO DE SEGURIDAD 
+MARCA: REOTEMP 
+MODELO: D0960PSSB-XXPSID-SGL-PMK
+2014/10/22 DIEXER CARO
+SE RECIBE COTIZACION Y SE SACAN LAS ESPECIFICACIONES DE LOS ELEMENTOS QUE SE NESECITAN PARA INICIAR EL PROCESO DE COMPRA SE LE ENVIAN AL INGENIERO EDWADR MAZO                                                                                                                                                                                                                 
+Protocolo de comunicación HART
+Señal de salida 4-20 mA
+Exactitud de +/- 0.06%
+Material de la carcasa aluminio
+Tipo de sensor Inductivo
+Span limite 11.6 a 160" H2O psi ajustable de acuerdo con sus requerimientos
+Rangueabilidad 100:1
+Material de la membrana del sensor Hastelloy C C (54 Ni-16 Cr,16Mo)
+Conexión al proceso 1/2" NPT
+Fluido de llenado Silicone oil
+Alimentación: 10.5 a 42 VDC. Dos alambres
+Almacenamiento de datos de configuración y calibración
+directamente en la celda no en el amplificador, de tal
+forma que en caso de cambio de la unidad electrónica no esnecesario recalibrar.",
+Display digital tipo LCD con tecnología TTG (Through-The-Glass)
+Configuracion en unidades de flujo, totalizador
+Ajuste de cero y span integral a través de display
+Función de autodiagnóstico + Detección de líneas de impulso (PILD)
+Incluye Manifold 3 vias, 316SS, 1/2" NPT
+Estabilidad 10 años, 0.15 % of URL
+2014/12/22 DIEXER CARO                                                                                                                                                                                                   SE REANUDARA EL PROCESO DE COMPRA EN ENERO 2015 DEBIDO A LOS TIEMPOS DE ENTRGA NO SE PUDO COMPRAR ESTE AÑO                                                                                                                                                                                                                     

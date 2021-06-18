@@ -1,0 +1,7 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016-11-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3297279, PASO:1          
+Se realizó mantenimiento al motor de ventilador s2    CORRIENTE: R:39,4, S:38,8, T:39,8, VOLTAJES RS:436, ST:438, TR:437,TEMPERATURA MAXIMA DE MOTOR 64°C Se realizo inspección termografica y no se encontró punto caliente, Se anexa la planilla a la OT, no se realizó informe termografico.TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016-11-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3297279, PASO:1          
+Se realizó mantenimiento al motor de ventilador s2    CORRIENTE: R:39,4, S:38,8, T:39,8, VOLTAJES RS:436, ST:438, TR:437,TEMPERATURA MAXIMA DE MOTOR 64°C Se realizo inspección termografica y no se encontró punto caliente, Se anexa la planilla a la OT, no se realizó informe termografico.

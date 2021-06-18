@@ -1,0 +1,8 @@
+fecha:11/10/2018 ot: 3772590 PROGRAMO R JMENEZ ,EJECUTO  jader orrego
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTOR del extractor de PLLVO DE FRANADO  de la unidad,  Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación.
+. 
+
+MOTOR  # 1VOLTAJE I. DE ARRANQUE I. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S 484 R 27 R 8.5 R 20.4 502S - T 481 S 26 S 8.1 S 21.0 502T - R 483 T 25 T 8.2 T 21.0 502
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.

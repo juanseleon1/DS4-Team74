@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en la corrección de fugas de aire del sistema de aire comprimido en la central de Troneras
+
+
+
+
+Programador: Camilo Montagut - 28/12/2017
+
+Se corrigen fugas de aire presentes en toda la red de tuberías que estaba generando grandes pérdidas de presión haciendo necesario el continuo arranque de los 2 compresores.
+
+Se registra para el sistema de los tanques acumuladores durante 40 minutos una variación de 25.8 Bar a 22.15 Bar
+
+Ejecuta: equipo mantenimiento mecánico UOG

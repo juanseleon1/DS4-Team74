@@ -1,0 +1,12 @@
+17/04/2017
+Se dá paro de emergencia en la unidad # 2 por excitación principal, se presenta falla en los AVR# 1 Y 2, falla fusible rectificadores. 
+TURNO OPERACION 1 
+2017/04/29 _ CARLOS ENRIQUE MONCADA. OT N° 3456287.
+Se realiza verificacion de los bancos de tiristores 1 y 2, se encuentran en corto malos los tiristores VS5 y VS2 en el banco 2 ademas de encontrarse los fusibles de la fase R y S dispadados, en el banco 1 se encuentran bajo aislamiento en los tiristores y los fusibles de las fase S y T disparados , se deshabilita el banco 1 ya que este ya habia fallado y se sobre calento, se interviene el AVR 2 para cambiar los tiristores VS5 y VS2 , se verifica el aislamiento del banco en +/- 6 Kohmios y los electricistas verican el rotor y transformador de excitacion, se realizan pruenas con la unidad en vacio controlando la excitacion en modo manual y luego en automatico, se realiza verificacion de la corriente y tension de excitacion en vacio y con unidad cargada hasta 10 MW y 35 MVAR se comporta bien y queda disponible la unidad, queda pendiente realizar ccambio en el AVR 1 para lo cual se espera concepto del ingeniero Oscar adrian duque.
+Realizado por Wtobonl
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

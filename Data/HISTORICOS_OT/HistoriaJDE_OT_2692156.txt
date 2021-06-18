@@ -1,0 +1,11 @@
+
+
+06/Febrero/2015
+La señal U5-8.30 sale repetitivamente en la estación de operación sin causa aparente, se revisa y se encuentra la tarjeta DSDI110A con problemas en el canal 30,  causando la oscilación de la señal selección bomba 2 cojinete.
+Se cambia la tarjeta DSDI110A quedando el controlador trabajando en condiciones normales.
+LEARCILAS
+
+
+
+
+

@@ -1,0 +1,13 @@
+XM: REVISAR Y CHEQUEAR FRENOS GENERADOR DE LA UNIDAD
+
+Se realiza inspeccion al equipo, no se encontraron fugas en el circuito tanto de aceite como de aire, el tanque no presenta anomalias, la presion de trabajo se encuentra normal (7bar), las zapatas se encontraron secas, se realizo control dimencional a las zapatas de frenado las siguientes son las medidas:
+zapata # 1 int. 27mm ext.27mm
+zapata # 2 int. 27mm ext.27mm
+zapata # 3 int. 27mm ext.27mm
+zapata # 4 int. 27mm ext.27mm
+zapata # 5 int. 27mm ext.27mm
+zapata # 6 int. 27mm ext.27mm
+la superfie de anillo se encuentra en buen estado,el movimiento de los pistones de los gatos es normal.
+se normaliza el equipo.
+
+Ejecuto. Carlos Guinguer, Hernan Usuga.

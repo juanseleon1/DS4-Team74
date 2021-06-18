@@ -1,0 +1,12 @@
+
+03/01/2018
+Se inicia con la desistalacion del paquete TREND MICRO de la versioin anterior del anti virus para la instalacion del nuevo paquete B-security en los servidores y estacion del sistema SCADA, ademas paulatinamente se instalara este servicio en los equipos de toda la red de control de la central Porce 3.
+
+Realizado por WTOBONL
+
+08/01/2018
+Se continua con la instalacion del  nuevo paquete B-security en los equipos de la red de control tales como TCBA, TCCC, TCCS, TRE, TCF, TCIG e IHM de las cuatro unidades. se activa el servicio de monitoreo de estos sistemas en la consola del antivirus.
+Realizado por WTOBONL
+
+TERMINADO CERRADO
+

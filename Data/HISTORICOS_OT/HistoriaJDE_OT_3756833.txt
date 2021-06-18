@@ -1,0 +1,10 @@
+2018/08/22 RUBEN ARBOLEDA
+Se crea OT para realizar planos del sistema de refrigeración del cojinete superior de la unidad 6
+
+2018-08-22 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3756833, PASO:1-1,1          
+Se inicio con el levantamiento de la información para la elaboración de los planos del Cojinete Guía Superior de la Unidad 6.
+
+2018-08-23 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3756833, PASO:2          
+Se continuó con el levantamiento de la información para la elaboración de los planos del Cojinete Superior de la Unidad 6.
+
+Queda pendiente realizar los planos, imprimirlos y publicarlos.

@@ -1,0 +1,8 @@
+2015/09/22 SERGIO OLIVARES
+OT creada para la extraccion de muestras de aceite para analisis de PCB's, éstas muestras las analizará el laboratorio de Distribución Energía.
+
+ 2015/10/13 SEBASTIAN HINCAPIE - FERNANDO RUIZ
+Aprovechando que unidad se encuentra parada por pla operativo, se realizó la extracción de la muestra de aceite. 
+
+2015/11/26 RUBEN ARBOLEDA
+Se recibio los resultados del laboratorio, se anexa el archivo de resultados generales del análisis cuantitativo por cromatografía de gases con detector de captura de electrones según la norma ASTM 4059-00:2010 empleando los Aroclores 1242, 1254 y 1260, se anexan a la OT. 

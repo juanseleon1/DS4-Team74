@@ -1,0 +1,14 @@
+2018/07/16 RUBEN ARBOLEDA
+Se crea OT para realizar pruebas electricas al estator de la unidad 5, las pruebas serán ejecutadas por personal de Analisis e ingeniería.
+
+2018-07-16 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - RUBEN DARIO ARBOLEDA - FARLEY GIOVANNY DIAZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3745983, PASO:1          
+Se desarmó el barraje de salida y el barraje de neutro de la Unidad 5 para realizar pruebas electricas.
+
+2018-08-15 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3745983, PASO:2          
+Se realizó apoyo al personal de ingeniería (Gabriel Santiago) en la ejecución de las pruebas electricas al estator de la unidad 5
+
+2018-08-24 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3745983, PASO:3          
+Se realizó el armado de barraje de salida y de neutro de la Unidad 5 se dejó en condiciones normales.
+
+2018-09-04 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3745983, PASO:4          
+Se realizó medida de IP general al estator de la Unidad 5

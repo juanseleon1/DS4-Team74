@@ -1,0 +1,22 @@
+
+MANTENIMIENTO ANUAL
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+13-06-2017
+PROGRAMADOR JOSE MONTOYA
+16/07/2017
+REVISION DE COMPONENTES DE LAS TARJETAS 
+17/07/2017
+SE REALIZA MANTENIMIENTO AL RACK Y TODAS LAS TARGETAS
+18/07/2017
+SE REALIZA PROTOCOLO DE PRUEBAS REGULADOR DE VELOCIDAD
+21-07-2017
+SE ENTREGA LA UNIDAD PARA GENERACION
+CUATRIMESTRAL
+Se deja trabajando tarjeta de drivers nueva
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema.
+Se realiza verificación de los mandos de apertura del distribuidor.
+volt distribuidor abierta 8.02 cerrada: -8.00
+NOTA: voltaje sensor posición val distribuidora cerrada B67:1.7v y abierta B68 3.8vdc
+
+

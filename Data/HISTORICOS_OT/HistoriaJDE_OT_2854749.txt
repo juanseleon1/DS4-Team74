@@ -1,0 +1,14 @@
+
+CM: Vibraciones umas-ventiladores-extractores Guatape. Este equipo debe estar en línea
+Sistema de medición RMS
+1 Horizontal: 14 mm/seg
+1 Vertical: 11 mm/seg
+2 Horizontal: 13 mm/seg
+2 Vertical: 13 mm/seg
+2 Axial: 4.5 mm/seg
+3 Horizontal: 7.2 mm/seg
+3 Vertical: 3.5 mm/seg
+3 Axial: 5.3 mm/seg
+4 Horizontal: 12 mm/seg
+4 Vertical: 4.1 mm/seg
+4 Axial: 8.5 mm/seg

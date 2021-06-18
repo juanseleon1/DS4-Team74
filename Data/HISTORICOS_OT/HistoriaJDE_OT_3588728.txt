@@ -1,0 +1,8 @@
+MP ANUAL: -- 3556 COJINETE SUPERIOR U1 TR -- 3558 COJINETE INFERIOR U1 TR -- 3560 COJINETE TURBINA U1 TR -- 3584 ESTACION HIDRAULICA V/A U1 TR -- 3620 ESTACION HIDRAULICA U1 TR -- 3557 COJINETE SUPERIOR U2 TR -- 3559 COJINETE INFERIOR U2 TR -- 3561 COJINETE TURBINA U2 TR -- 3585 ESTACION HIDRAULICA V/A U2 TR -- 3621 ESTACION HIDRAULICA U2 TR
+
+
+Ot: 3588728 - Cambio aceite hidráulico estación hidráulica - Programador: Camilo Montagut - 03/10/2017
+
+Se realiza el cambio del aceite hidráulico Heavy medium 68 por Tellus 68 contenido en las tuberías, tanque sumidero y tanque acumulador del mismo equipo. Se realiza muestreo del aceite para posterior análisis en el laboratorio. Con ayuda de los instrumentistas se recupera nivel en el tanque acumulador y se hace pruebas en el distribuidor, purgando el aire contenido en el sistema
+
+Ejecuta: equipo mantenimiento mecánico UOG

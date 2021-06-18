@@ -1,0 +1,18 @@
+2018/10/29 RUBEN ARBOLEDA
+Se crea OT para realizar medidas de tiempos de cierre y apertura al interruptor de la Unidad 2
+
+2018-10-30 REALIZÓ: OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3780512, PASO:1          
+Se realizó medida de tiempos de apertura y cierre del interruptor de potencia de la Unidad 2 con los siguientes resultados: 
+Apertura: 
+A1: 65ms
+B1: 62ms
+C1: 66ms
+
+Cierre: 
+A1: 160ms
+B1: 162,8ms
+C1: 161ms
+Se realizó medida de resistencia de contacto al interruptor con los siguientes resultados: 
+A1: 22u
+A2: 94u
+A3: 44u

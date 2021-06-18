@@ -1,0 +1,3 @@
+2018/09/24 OT:3768030 Luis Eduardo Arcila
+Se cambian tarjetas SDCS140, DSBC172 y DSAI130 al controlador de la unidad 6 quedando en condiciones normales de operación.
+

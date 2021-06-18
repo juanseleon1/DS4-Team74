@@ -1,0 +1,18 @@
+FECHA:06/08/2016
+
+SOLICITANTE:GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCIÓN:FISICAMENTE EL DEFLECTOR NO REALIZA COMPLETAMENTE LA APERTURA, ESTO IMPLICA QUE LA MAQUINA NO SUBA TODA LA CARGA. (45 MW)
+
+
+06/AGOSTO/2016
+12:00 REFERENTE REGULADOR VELOCIDAD G31
+Se solicitan 3 periodos de redespacho desde las 10:00 hasta las 13:00, Se presentó descalibración del Deflector y la Aguja 1. 
+El deflector se quedó en el 87%, lo cual ocasionaba que la Potencia de la Unidad no subiera de 37.5MW y la aguja 1 se quedó en posición de 78.6%. Se procedió a parar la Unidad y calibrar en las tarjetas AMP1 y AMP3 respectivamente la aguja 1 y el Deflector.
+Se realizan pruebas y calibración de Lazos de control y se deja el sistema Operativamente Normal.
+Se realiza entrega de la Unidad a las 11:55am para explotación comercial al Centro de Control Guadalupe.
+
+NOTA: Despues de esta calibracion(Anteriormente se habia intervenido los componentes electronicos de esta tarjeta), el deflector no presenta oscilaciones y se queda fijo en el porcentaje seteado por el regulador.
+
+Planeador: Oscar Arango
+Ejecuto: Francisco González     

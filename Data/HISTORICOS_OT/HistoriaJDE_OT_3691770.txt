@@ -1,0 +1,14 @@
+SABADO  24 DE FEBRERO 2018
+
+EL TLCT DE LA UNIDAD 3 ESTA PRESENTANDO PROBLEMAS EN LAS COMUNICACIONES DE TODOS LOS INSTRUMENTOS, DEJANDO ESTE SISTEMA AISLADO Y MANDANDO PARA RAPIDO. 
+
+
+24/02/2018
+
+Referente al TLCT Unidad 3 (Turbina) :
+Se encuentra falla en la LINKIN por alta distorsión y nivel de voltaje PLC se instala una nueva LINKIN y este sistema queda en monitoreo y prueba con indicación de un osciloscopio dentro del tablero.
+El sistema queda normalizado y operativo.
+
+Realizo: Iván Cano - Walter Tobón.
+
+TERMINADA CERRAR

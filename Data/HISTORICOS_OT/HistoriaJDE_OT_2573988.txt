@@ -1,0 +1,14 @@
+
+FECHA: JULIO 29 DE 2014
+
+RESPONSABLE:  ELIECER PUSHAINA, ALVARITO PUSHAINA Y HENRY GIRALDO
+
+
+Debido a que el sistema hidráulico estaba presentando arranques continuos y muy largo el tiempo de carga del sistema, se procedió a cambiar el tanque acumulador por uno recargado en Medellin, al terminar los trabajos y cargar el sistema hidráulico la tapa por donde se agrega el aceite a la estación salió impulsada por presión de aceite presentándose perdida de buena cantidad de aceite, se reviso el estado de la manquera de presión al interior de tanque de la estación hidráulica y se encontró en buen estado, se realizo otra prueba en la cual no se presento el fenómeno anterior pero si presentaba arranques continuos del sistema, se encontraron dos frenos de la Yaw malos, los cuales se cambiaron al igual que  la válvula 270,2, de esta manera la presión no descendía tan rápido, pero quedo subiendo la presión muy alta llegando a los 160 bar, se decide dejarla parada. Se le agregaron 2 galones de aceite hidráulico DTE24.
+
+
+FECHA: JULIO 30 DE 2014
+
+RESPONSABLE:  PEDRO ROBAYO, ALVARITO PUSHAINA Y HENRY GIRALDO
+
+Se retoman los trabajos para solucionar el problema de la presión del sistema hidráulico, se cambia el tanque acumulador por el con que venia trabajando, se realizaron las pruebas y la presión se normalizo, se probo otro tanque de los recargados en Medellin y tuvo un comportamiento igual, se dejo este ultimo trabajando definitivamente.

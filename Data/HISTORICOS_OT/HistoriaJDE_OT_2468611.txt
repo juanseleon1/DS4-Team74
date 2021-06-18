@@ -1,0 +1,14 @@
+Medida de Escobillas: 
+
+LOCALIZACIÓ ESCOBILLA 1 2 3 4 5 6 7
+BRAZO                               
+ANILLO A        mm 35,8 38,5 26,0 40,0 38,5 20,8 49,0
+SUPERIOR B        mm 24,5 25,4 28,2 31,0 41,0 25,5 48,5
+ANILLO A        mm 48,0 34,0 34,0 37,0 32,0 37,2 
+INFERIOR B        mm 48,0 34,5 30,3 48,5 43,0 37,5 
+
+Se realizo cambio de 1 escobilla, Anillo Superior 6A 
+Se adecuó 5 escobillas que no estaban ajustadas al rotor.  
+
+REALIZÓ: Edwar Londoño - Ivan Suarez - Guillermo Cordoba
+Planeó: Ruben Arboleda

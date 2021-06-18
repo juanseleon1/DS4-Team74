@@ -1,0 +1,32 @@
+2018/04/17 _ CARLOS ENRIQUE MONCADA. OT N° 3709879.
+Referente a la válvula esférica Unidad N°2 : Se realizaron maniobras en local automático de apertura de la válvula esférica y se observa que la secuencia se aborta cuando el obturador comienza a moverse.
+Se verifica sistema hidráulico evidenciando comportamiento normal, descartando atascamientos o fallas eléctricas de las válvulas solenoides. Se observa en los permisivos de apertura de la válvula esférica que la condición de equilibrio de presiones se perdía justo al comenzar el movimiento del obturador, se evidencia error de médida en el transductor de presión aguas arriba 12MEB10CP116 el cual marca una diferencia de medida con respecto al transductor aguas abajo entre 3,7 y 4,2 bar.
+El parámetro de equilibrio de presión en la IHM se encontró en 3 bar, se cambia este parámetro a 5 bar, logrando de este modo que la secuencia de apertura no se abortara.
+Finalmente se realizan varias aperturas y cierres de la válvula esférica en local-automático, haciendo operaciones normales.
+Queda pendiente purgar y verificar el transductor aguas arriba 12MEB10CP116.
+Informan: Turno 3, Turno 2 de operación, Oscar Parra Cristian Gómez, Carlos Moncada, Santiago Ramírez, Guillermo Echeverry.
+
+
+2018/04/15 _ CARLOS ENRIQUE MONCADA. OT N° 3709879.
+Referente a la Valvula esferica Unidad N°2:
+Siendo las 22:10 durante la secuencia de arranque de la válvula esférica no abre completamente, se cierra en local automático y se intenta en varias ocasiones la apertura en local automático, el problema persistio, al vereficar en planos se identifico que la válvula AA 632 encargada de poner en linea las bombas de alto caudal, (durante el proceso de apertura esta válvula se energiza y se desenergiza, poniendo en evidencia una posible falla en el Relé K29 o del cocido de cableado a la válvula AA632, hacia el control.
+Se apreta el conector de la valvula AA632 y se mejora condición de amarres de los cables para quitarle tension sobre los conductores, también se verifica ajuste del Relé K29 en la bornera, luego se continuo con la secuencia de arranque observando apertura normal de la válvula esférica, también en normalidad la valvula AA632 y el Relé K29 que permanecieron energizados correctamente.
+La unidad entra en sincronismo a las 00:25 y se carga a 127MW, Se habia solicitado un redespacho del periodo 2 pero no fue necesario y se canceló.
+OT:3709879.
+Informan: Cristian Gomez, Carlos Moncada, Santiago Ramirez.
+--------
+09/04/2018
+
+Referente al TCV Unidad N°2: En la secuencia de arranque de la unidad y en el paso 3: " Abrir Válvula Esférica " lo hace hasta el 40% de la apertura total, apareciendo en el SCADA tiempo excedido, se le da reset desde el SCADA y no responde siendo necesario hacer maniobras desde el TCV se intenta en Local - Automático y sigue abriendo pero se pega de nuevo en el 59% , se repite el procedimiento y sigue abriendo hasta el 61,3% y se queda pegada en este valor a pesar de las maniobras en Local - Automático y Local - Manual, Siendo necesario darle un Paro de Emergencia quedando enganchada la secuencia de arranque, se le informa al Ing. Oscar Duque y su instrucción fue arrancarla en manual hasta operación en línea. Quedan en manual los siguientes subsistemas: TCV, TCCS, TCIG,TCCC,TLCT,TCF,TCBA y en Automático el TRE y TRV.
+Nota; Este evento ocurrió en esta misma unidad el día sábado 31 de marzo con el turno 3 de operación.Continua pendiente revisar el conflicto de secuencias en la unidad y el evento de la válvula esférica.
+
+ Informa y Realiza: Turno 1: Fabian Gómez, Esneider Rivera, John Jairo González. 
+
+
+09/04/2018
+
+Se realiza verificacion del instrumento  12MEB10CP116  de presion aguas arriba de la valvula esferica, se corrige error de lectura con los rangos del instrumentos despues de realizar calibracion del mismo, el instrumento queda en observacion y  operativo, por requerimiento del Ing. Santiago no se modifica el diferencial de presion para apertura de la valvula.
+
+Realizado por Wtobonl
+
+terminada cerrar                                                                                        

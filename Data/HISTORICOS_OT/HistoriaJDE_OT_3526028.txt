@@ -1,0 +1,13 @@
+CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+ 17/07/2017. - SERGIO OLIVARES D. -- O. T. 3526028 -- EJECUTANTES: OSCAR GIRALDO G. - JUAN DAVID GARCIA G.
+
+ Se realizo mantenimiento a las electrovàlvulas y se hizo medida a los sensores de la vàlvula, encontrandose todo normal.
+
+MEDIDA RESISTENCIA OHMICA ELECTROVALVULAS:
+
+ 20HL = 337 
+           20BP = 338 
+ MICROSWICHE 20BPCA: NORMAL:
+ 20SVO: 457 
+ 20SVC: 456 

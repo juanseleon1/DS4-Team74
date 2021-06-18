@@ -1,0 +1,44 @@
+
+FECHA: ENERO 14 DE 2016 OT 2989027
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Debido a que continúa la falla de corrientes asimétricas, se procede a realizar el cambio del MFR y el módulo WP4060, después de realizar la prueba continua la falla.
+
+FECHA: ENERO 15 DE 2016 OT 2989027
+
+EJECUTANTE: HENRY GIRALDO Y ELISAUL FUENTES
+SOLICITANTE: HENRY GIRALDO
+
+Continuando con los trabajos de solución a la falla de corrientes asimétricas, se revisan las conexiones y estado de los tiristores y todo se encuentra bien, se procede a colocar tiristores nuevos en el banco de tiristores que se encuentra en subestación, que se había retirado del AG13, se deja listo para probarlo en el AG2 el día de mañana.
+
+
+FECHA: ENERO 16 DE 2016 OT 2989027
+
+EJECUTANTE: HENRY GIRALDO, PSOLANO, ALVARITO PUSHAINA, ELIECER PUSHAINA Y ELISAUL FUENTES
+SOLICITANTE: HENRY GIRALDO
+
+Se cambia el banco de tiristores, se realiza una prueba pero continua la falla en el aerogenerador, en este caso se presenta grid error.
+
+
+FECHA: ENERO 17 DE 2016 OT 2989027
+
+EJECUTANTE: HENRY GIRALDO, PSOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Se verifica el estado de los tiristores luego de 2 pruebas más con bajos vientos, se encontró muestra de corto en el circuito de condensadores (tarjeta ubicada a un lado de los tiristores), se procede a cambiarla por la que tiene el módulo de tiristores retirado el día de ayer, se miden nuevamente los tiristores, pero presentan medida errónea, se realizan pruebas en el módulo retirado, se decide para el día de mañana bajar los tiristores y probarlos nuevamente.
+FECHA: ENERO 19 DE 2016 OT 2989027
+
+EJECUTANTE: HENRY GIRALDO, PSOLANO, ALVARITO PUSHAINA, ELIECER PUSHAINA Y ELISAUL FUENTES
+SOLICITANTE: HENRY GIRALDO
+
+Se realiza una nueva prueba con otro banco de tiristores pero continúa el problema de corrientes asimétricas.
+
+
+FECHA: ENERO 20 DE 2016 OT 2989027
+
+EJECUTANTE: HENRY GIRALDO, PROBAYO, ALVARITO PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+Se realiza un nuevo chequeo de tiristores y se montan en el aerogenerador, se realiza prueba y muestra falla Grid Error, se da un nuevo arranque pero colocando atención al funcionamiento de los circuitos de potencia en la góndola, se observa humo saliendo del tablero de conexiones del generador, se destapa y no se observa anomalía, se procede a desconectar los cables y se realiza megueo dando las tres fase de los dos generadores a tierra.

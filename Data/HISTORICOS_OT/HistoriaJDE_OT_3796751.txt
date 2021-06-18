@@ -1,0 +1,15 @@
+SOLICITANTE: MARTA PARRA
+FECHA: 21/12/2018
+
+SE ENCUENTRA PRESENTE LA ALARMA Y DISPARO COJINETE TURBINA NIVEL ACEITE CUBA ALTO DE LA UNIDAD G32. SE REVISO NIVEL EN EL INSTRUMENTO FISICO CON MAQUINA PARADA Y ESTABA EN NIVEL PATRON Y EN EL INSTRUMENTO ELECTRONICO CON MAQUINA GIRANDO ESTA EN 0.6 Y LA ALRMA POR NIVEL ALTO ESTA EN 2.0 Y MUY ALTO EN 2.2. OSEA QUE ESTA ALARMA NO ES REAL. 
+
+26-12-2018
+programo. jose montoya
+se revisa desde la estacion de ingenieria y se le colocan los parametros por nivel con maquina parada que se encontraban en cero, se colocaron los valores establecidos como referencia en la unidad 1 ya que los valores de la copia controlada no coinciden
+quedo asi:
+NIVEL MUY ALTO:190
+NIVEL ALTO: 184
+NIVEL PATRON:180
+NIVEL BAJO: 174
+NIVEL MUY BAJO:170
+se revisa desde la pantalla del centro de control la configuracion de los valores. 

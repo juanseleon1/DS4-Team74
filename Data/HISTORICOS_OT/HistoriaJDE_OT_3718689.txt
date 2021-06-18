@@ -1,0 +1,34 @@
+ABRIL 30 DE 2018
+
+EDGAR BARRERA CASTAÑO
+
+Se presenta agua en regulador de velocidad se requieren otras pruebas para identificar claramente la falla.
+
+2018-05-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3718689, PASO:1          
+Se realizó limpieza general al regulador hidraulico de la unidad 3.
+
+2018-05-25 REALIZÓ: RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3718689, PASO:2          
+Se realizó apoyo al personal de mantenimeinto mecánico en el recorrido de agujas y deflector de la Unidad 3, el reporte de personal de operación de turno: Durante los giros mecánicos de la Unidad no abrió el deflector ni la aguja 1, se realizó el cambio de la valvula MOOG de la aguja 2, se realizaron recorridos al deflector y todas las agujas, responidendo normalmente, se le dió un arranque a la unidad y se dejó en condiciones normales.
+
+
+2018/05/16 JAIME RAMIREZ
+Pruebas hechas en el regulador de velocidad hidráulico de la unidad 3 de Guatape , para tratar de localizar el punto de origen relacionado con el ingreso de agua al tanque sumidero .
+
+· Se abrió el recinto de turbina  con el caracol presurizado para verificar  si por alguno de los inyectores  estaba saliendo agua , pero no se encontró falla alguna 
+· Se retiraron  los tapones de las cámaras de apertura y cierre de los inyectores  y con caracol presurizado   tampoco se encontró falla alguna .
+· Se retiraron las tuberías de aceite para apertura y cierre de  contra-chorro y bypass    y con tuberías presurizadas no se evidencio falla alguna 
+· Se desconectaron las tuberías de aceite hacia el servomotor de deflectores  y se presurizo con agua , pero no se encontró falla alguna 
+· Se independizaron cada uno de los comandos de aguja y se retiraron las válvulas de control y con caracol presurizado  no se encontró falla alguna .
+· Finalmente solo nos quedaba verificar la válvula de aplicación de sellos automáticos , esta tiene  una cámara de aceite a 38 bares de presión y una cámara de agua a 83 bares de presión, se encontró una cavitación interna en la válvula , la cual hacia que la presión del agua se mezclara con la cámara de aceite y por diferencia de presiones  llegaba hasta el regulador de velocidad hidráulico . incrementando su nivel  y por consiguiente las fallas posteriores .
+
+Esta se corrigió cambiando  la válvula de aplicación de sellos automáticos de la unidad numero 3  por la montada en la unidad número 7 que se encuentra en overhoult    en su reemplazo se montó una  de las nueva que esta fabricando un contratista .
+
+La unidad se ha estado arrancando con dos pares de agujas diferentes , afín de hacerles seguimiento y dar un parte de victoria favorable , hasta el momento no hemos encontrado evidencia de que la falla persista.
+
+Por lo tanto considero que este problema está resuelto
+
+Feliz tarde   
+
+
+Jaime Alberto Ramírez 
+Líder operación integrada 

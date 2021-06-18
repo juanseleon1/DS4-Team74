@@ -1,0 +1,9 @@
+XL: LIMPIAR Y VERIFICAR CONTROL LUBRICA +TLCT, SISTEMA LUBRICACIÓN ACEITE COJINETE TURBINA DE LA UNIDAD
+
+
+20/05/2015
+
+Se realizó mantenimiento según instructivo .además de  realizar verificación de la instrumentación  generando  cada una de las señales en cada una de las medidas análogas de los segmentos, se realiza solo inspección de los  instrumentos y del controlador e IHM.
+Los detalles y planillas se anexan en el informe de Mantenimiento Mayor
+
+Realizado por Wtobonl

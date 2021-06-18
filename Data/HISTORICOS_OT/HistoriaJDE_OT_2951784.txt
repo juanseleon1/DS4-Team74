@@ -1,0 +1,15 @@
+2015-12-01. ALBERTO ROJAS ARBOLEDA.
+
+REVIZAR LA ALARMA (QUEDA PENDIENTE EN O.S. SEÑAL "U8-8.147 BOMBA I ACEITE REGULADOR) POR SOBRECARGA EN BOMBA ACEITE REGULADOR. QUEDA SELECIONADA LA BOMBA II COMO PRINCIPAL.
+
+2015/12/01 GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizó revisión general del funcionamiento, se encontró termico disparado, se midio corrientes y se encontró alrededor de 14 amperios, el termico estaba calibrado para 16 amperios, se realizó pruebas durante estas se encontró que la conmutación de selección de bomba principal no se estaba dando, se vrealizó revisión y se encontró el soporte del microsuiche en la electrovalvula sulto, se ajusto y se dejó en funcionamiento normal, 
+Posteriormente se realizó inspección termografica, no se encontró falla aparente, se dejó en observación. 
+
+2015/12/02 OSCAR GIRALDO - JUAN DAVID GARCIA
+en horas de la mañana se disparó la protección termica del motor, se realizó mantenimeitno general (Limpieza) al contactor, se evidenció mucha suciedad, se probó pero presento mucho ruido, se instaló un contactor de las motobombas CW el cual estaba en el taller electricistas. 
+Se dejó en observación, seleccionada la motobomba 1 como principal. 
+
+2016/01/31 ANGEL ADONIS CADAVID OCHOA
+
+EL CAMBIO DEL CONTACTOR CORRIGIO LA FALLA QUE PRESENTABA EL ARRANCADOR DE ESTE EQUIPO. DESPUES DE MONITOREAR POR VARIOS DIAS SE CONCLUYE QUE EL PROBLEMA SE PRESENTABA POR EL DETERIORO DEL CONTACTOR

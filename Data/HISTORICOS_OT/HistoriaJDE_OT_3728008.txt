@@ -1,0 +1,9 @@
+COMPROBACION FUNCIONAL
+ACTIVIDAD:
+
+2018/05/24 OT: 3728008  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO Y DSANTAMARIA
+
+
+Se verifica el correcto funcionamiento del sistema.
+
+. 

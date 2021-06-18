@@ -1,0 +1,8 @@
+05/05/17
+Abad De Jesus Ramirez.
+Se presenta problema con la indicacion del nivel de aceite en turbina sale alarma repetidas veces por nivel bajo y se revisa y el prosonic marca .340 y .338 que corresponde a nivel bajo y fisicamente se revisa el nivel en la cuba de turbina y se evidencia que no hay nivel bajo de aceite lo que se presenta es una oscilacion del aceite y sale tambien nivel alto.
+2017/05/05 ANGEL ADONIS CADAVID OCHOA
+Se direcciona OT al equipo electrónico 
+
+2018/09/12 PROGRAMO MAURICIO QUIJANO
+ESTA OT SE ATENDIO EN LA OT 3595224 CAMBIO DE MONITOR DE NIVEL.

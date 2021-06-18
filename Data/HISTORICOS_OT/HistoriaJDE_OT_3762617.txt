@@ -1,0 +1,13 @@
+2018/09/10 _ CARLOS ENRIQUE MONCADA. OT N° 3762617.
+Se realiza el tendido de la fibra óptica monomodo desde el contenedor de baja tensión hasta la porteria de Casa maquinas de Porce 3.
+Se utiliza el carcamo para pasarla con la ayuda del personal electrico.
+Se realiza fusion de fibra óptica en cajas terminal en el contenedor de baja tensión como en la porteria  de casa maquinas Porce 3.
+Se conectoriza e instalan los equipos de conexion dejando habilitado el servicio de red para el PC instalado.
+
+Realizo: Iván Darío Cano, Jeniffer García.
+Informó: Carlos Moncada.
+
+
+2018/09/05 _ CARLOS ENRIQUE MONCADA. OT N° 3762617.
+
+Se crea OT para el montaje y tendido de fibra óptica e instalación de computador en la porteria de Casa Maquinas Porce 3.

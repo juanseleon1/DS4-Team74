@@ -1,0 +1,10 @@
+DOMINGO 08 DE OCTUBRE DE 2017
+
+4:30 AM Referente al transformador de la fase R del banco 3: Se informa por parte de operación derrame de aceite de forma copiosa por la cuba de la fase R del banco 3. No hay evidencias en Scada de alarmas ni disparo por relé Buchholz o válvula de sobrepresión. Se da paro de unidad para analizar causas del evento. Se observan derrame abundante por toda la cuba y en paredes adyacentes del nicho del transformador. No se observa testigo de la válvula de sobrepresión activado ( válvula en estado normal) Relé buchholz en estado normal y seco sin evidencias de aceite. Se encuentra una de las válvulas de refrigeración de aceite cerradas lo que explicaría la liberación de presión por la válvula de sobrepresión. Pero queda en análisis la no activación del disparo ni la alarma. Durante el mantenimiento anual se hicieron pruebas de alarma y disparo de forma exitosa.
+Se recomienda realizar la calibración de la válvula de sobrepresión.
+
+EJECUTAN: MATEO PEREZ, FERNANDO CORREA, ALIRIO HERNANDEZ
+INFORMA: SANDRA CARMONA
+
+JORGE ALIRIO HERNANDEZ QUINTERO :08/10/2017 , Se revisa derrame de aceite Fase R , durante el mantenimiento anual de los trafos G33 AL realizar las pruebas de relé buchholz se encuentra con falla el Micro suiche disparo , se procede a cambiarlo (bloque de control del relé , para realizar esto se deben cerrar las válvulas , la entrada y salida del Buchholz , la válvula que se encontró cerrada es la válvula de salida de aceite del relé buchholz, lo cual impide la liberación hacia el tanque de compensación , por esta razón cuando el transformador tiene carga , sube la temperatura de aceite y se expande el volumen de aceite , ocasionado derrame por la válvula de sobrepresion. , se corrije, Luego de abrir la válvula.
+ATENDIERON: OSCAR ARANGO -SANDRA CARMONA-MATEO PEREZ-FERNANDO CORREA-ALIRIO HERNANDEZ

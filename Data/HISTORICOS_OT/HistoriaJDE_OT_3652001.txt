@@ -1,0 +1,10 @@
+
+
+FECHA:2017/11/28  CESAR TULIO / LUIS EDUARDO 
+
+Falla ventilador GFM0412SS en el servidor del sistema scada casa maquinas, se cambia por uno de repuesto quedando en condiciones normales de operación.
+
+
+
+
+

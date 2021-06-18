@@ -1,0 +1,14 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2014/09/22 GIOVANNY DIAZ - YEISON ORTEGA
+Se realizó inspección termografica al motor y medición de corrientes y voltajes. 
+REGISTRO DE CORRIENTES:
+FASE R = 28.8 A
+FASE S = 28.3 A
+FASE T = 27.8 A
+TEMPERATURA DE AISLAMIENTO ESTIMADA: 
+68.5°C, está dentro de los parámetros normales de operación según su clasificación de aislamientos.
+
+No se realizó limpieza ya que el equipo se encontraba limpio. 
+
+

@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 29/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos +ECF y +TCFM tableros de control válvulas de frenos de la unidad, verificación en el tablero +TCF la aplicación y desaplicación de los frenos, revisión y verificación de los microsuiches finales de curso.
+Trabajo ejecutado por: Yoanis Rodriguez, Julio Parra y Jorge Galeano
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS
+OT PADRE: 3779281

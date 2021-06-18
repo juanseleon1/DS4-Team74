@@ -1,0 +1,19 @@
+
+2018/09/29 _ CARLOS ENRIQUE MONCADA. OT N° 3759294.
+Se realiza el mantenimiento anual y verificación de la instrumentación asociada a la MCH. Se hace limpieza general, inspección y se verifica el conexionado.
+Se toman los siguientes valores:
+TAG: TK1424 {110.7}, {0.3} __ {IHM:27 °C}, {RTD: 801}
+TAG: TK1425 {110.2}, {0.3} __ {IHM:28 °C}, {RTD: 802}
+T 1604 {302 bar} PIT 800.
+Se  retira instrumento de presión por corrosión en su tarjeta electrónica aclarandoi que el display se encuentra en buenas condicones.
+INSTRUMENTACION PRESOSTATOS
+Instrumento Patrón4 bar8 bar12 barCP 201 3.998 7.996 12.005CP 202 4.024 8.020 12.015CP 203 4.038 8.032 12.044CP 204 MALO MALO MALO
+MEDIDORES DE PRESION ESTACION HIDRAULICA COMPUERTA
+INSTRUMENTO MEDIDA PATRON MEDIDA INSTRUMENTOCP 229 (150.2) 30, 60, 100, 150 30.2, 60.2, 100.19, 150.19CP 228 (150.1) 30, 60, 100, 150 30.20, 60.21, 100.30, 150.28CP 232 (150.3) 30, 60, 100, 150 30.03, 60.03, 100.03, 150.03 CP 233 (150.4)  30, 60, 100, 150 30, 60, 100, 150CP 222 30, 60, 100, 150 30.17, 60.2, 99.87, 147.33
+Medidor de Presión y Manómetros Estación hidráulica Minicentral.
+INSTRUMENTO 30bar 60 bar 100 bar 150 barPresostato 28 59 99 149M17.1 30.2 60 100 150M17.2 35 60.4 100.3 150
+Realizo: Iván Darío Cano, Jeniffer Andrea García, Eladio Piedrahita, Julio Cesar Parra.
+
+
+FECHA:SEPTIEMBRE 11 DEL 2018 PLANEO:LUIS FEDERICO ALVAREZ ALVAREZ, PROGRAMO: CARLOS ENRIQUE MONCADA
+SE REALIZA MANTENIMIENTO ANUAL ELECTRONICOS A LA INSTRUMENTACION DE LA MINICENTRAL PORCE 3, REALIZAR METROLOGIA A INSTRUMENTOS DEFINIDOS EN EL PLAN METROLOGICO, INSPECCIONAR MEDIDAS EN LAS 3 IHMS DE LOS TABLEROS DE LA MINICENTRAL

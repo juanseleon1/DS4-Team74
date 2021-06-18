@@ -1,0 +1,14 @@
+XE: VERIFICAR Y REVISAR   RECINTO GENERADOR UNIDAD GENERACION TRONERAS
+
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+SEPTIEMBRE 13 DE 2018.
+Se realizó el mantenimiento electrico general según el instructivo GCTRE0007.
+Se revisó y se retiró elementos (basura) los cuales estaban presentes en el recinto, se realizó limpieza e inspección de todo el recinto en general, verificación de puesta de tierras, luminación del recinto. Todo en condiciones normales.
+Ejecuto: Edison Hernandez
+Programo: William Lopera

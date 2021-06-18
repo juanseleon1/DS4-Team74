@@ -1,0 +1,17 @@
+Se crea ot para el registro de tiempos y actividades en la ejecucción del mantenimeinto correctivo que relaciona el cambio del rodete pelton marca Neyrpic de referencia 27496-3 por el rodete pelton marca Neyrpic de referencia 2-7034-7236
+
+
+Programador: Camilo Montagut Gil - 2017/11/27
+
+Se cambia el rodete pelton Neyrpic de referencia 27496-6 con 71842,05 horas de funcionamiento. El cambio de este equipo hizo referencia a la inspección con ensayos no destructivos (END) que se le realizó al rodete por parte de la empresa contratista ASTECO S.A. donde encontraron 3 fisuras que comprometían integralmente el rodete.
+
+En la unidad se monta el rodete pelton Neyrpic de referencia 2-7034-7236 con 105401 horas de funcionamiento.
+
+No se presentó ninguna situación anómala en el montaje del repuesto.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+
+

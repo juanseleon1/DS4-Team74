@@ -1,0 +1,8 @@
+SOLICITANTE: Javier Giraldo Fecha: Febrero 14/2015.
+Revisar el sistema de comuniocación de radio frecuencía (R/F).
+
+ABRIL 16 DE 2015.
+
+Se realizan varias modificaciones en el cableado de control, se actualizan los planos y se deja en buen funcionamiente el puente grua.
+Programó: William Lopera.
+Ejecutó: Fernando Lopera.

@@ -1,0 +1,8 @@
+OCTUBRE 14 DE 2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+PREVENTIVO ELECTRICO BARRAJE SALIDA ESTATOR GENERADOR GUADALUPE III
+
+Se realiza mantenimiento preventivo segun instructivo GCG3E0001. Se revisan el estado de los aisladores de apoyo, juntas de dilatacion, estado de ajuste de las conexiones. Se revisan los CT's verificando estado de porcelanas, cableado y conexiones, se limpian los pararrayos y sus alrededores. Se revisan los PT's, los fusibles, conexiones, se revisan los puntos de conexión en la salida del generador. No se evidencian anomalías. 
+
+Ejecutó: Edgar Rodas-Edinson Hernandez
+Programó: Carlos Andres Forero

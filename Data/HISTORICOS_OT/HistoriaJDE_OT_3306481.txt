@@ -1,0 +1,42 @@
+2016-11-07. JUAN C DUARTE MUÑOZ.
+
+REVIZAR FALLA COMPUTADOR. EN LA O.S. ALARMAS: "PCX-PC9 FALLA COM", "PCX-PC19 FALLA COM" Y "PCX-PC6 FALLA COM". LAS ALARMAS NORMALIZAN. 
+
+PERO, EN LA O.S QUEDA SIN SILENCIAR LAS ALARMAS DE UNIDADES, LAS O.S. SE BLOQUEAN CONSTANTEMENTE Y HAY SEÑALES EN FALLA DE VARIOS DESPLIEGUES. 
+2016/11/08 ANGEL ADONIS CADAVID OCHOA 
+OT PASA A PLANEACION, ES ASIGANADA AL EQUIPO ELECTRONICO
+
+
+2016/11/08 Luis Eduardo Arcila
+
+Se reinicia en varias oportunidades sacando error 09, no hay comunicación con la estación de ingeniería.
+Se consulta en los manuales y se encuentra error 09: Overload, STALL ALARM. Error de Harward.
+Se procede a realizar mantenimiento general.
+
+2016/11/09 Luis Eduardo Arcila 
+Se encuentran tres tarjetas DSDI 110A falladas, se envían a RPM para su respectiva reparación. 
+Por no contar con repuestos se deja el controlador sin estas tarjetas.
+Quedan por fuera las señales 8.225 hasta la 8.320
+Cesar Tulio
+Learcilas 
+2016-11-07. JUAN C DUARTE MUÑOZ.
+
+REVIZAR FALLA COMPUTADOR. EN LA O.S. ALARMAS: "PCX-PC9 FALLA COM", "PCX-PC19 FALLA COM" Y "PCX-PC6 FALLA COM". LAS ALARMAS NORMALIZAN. 
+
+PERO, EN LA O.S QUEDA SIN SILENCIAR LAS ALARMAS DE UNIDADES, LAS O.S. SE BLOQUEAN CONSTANTEMENTE Y HAY SEÑALES EN FALLA DE VARIOS DESPLIEGUES. 
+2016/11/08 ANGEL ADONIS CADAVID OCHOA 
+OT PASA A PLANEACION, ES ASIGANADA AL EQUIPO ELECTRONICO
+
+
+2016/11/08 Luis Eduardo Arcila
+
+Se reinicia en varias oportunidades sacando error 09, no hay comunicación con la estación de ingeniería.
+Se consulta en los manuales y se encuentra error 09: Overload, STALL ALARM. Error de Harward.
+Se procede a realizar mantenimiento general.
+
+2016/11/09 Luis Eduardo Arcila 
+Se encuentran tres tarjetas DSDI 110A falladas, se envían a RPM para su respectiva reparación. 
+Por no contar con repuestos se deja el controlador sin estas tarjetas.
+Quedan por fuera las señales 8.225 hasta la 8.320
+Cesar Tulio
+Learcilas 

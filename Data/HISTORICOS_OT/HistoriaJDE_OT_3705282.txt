@@ -1,0 +1,2 @@
+2018-07-05 REALIZÓ: EDWAR ALEXANDER LONDOÑO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3705282, PASO:1          
+Se realizó mantenimiento al motor de motobomba 2 regulador hidraulico u7    CORRIENTE: R:9,4, S:, T:, VOLTAJES RS:, ST:, TR:,AISLAMIENTO DE MOTOR: 152,5 M Se realizó limpieza general, no se realizó medida de corrientes y/o voltajes a causa de pérdida del programa en el PLC

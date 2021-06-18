@@ -1,0 +1,12 @@
+11/12/2018
+GERARDO AUGUSTO PEREZ ATEHORTUA 
+SE EVIDENCIA RUPTURA DEL PERNOFUSIBLE A5 EN EL DISTRIBUIDOR DE LA UNIDAD TR1. 
+
+
+Programador: Camilo Montagut - 19/12/2018
+
+Se cambia el pernofusible A5 debido a ruptura del mismo. Se realiza lubricación y limpieza del sistema.
+
+Se registra el evento en el archivo de ruptura de pernofusibles almacenado en el siguiente link: \\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\3-Mantto Mecánico
+
+Ejecuta: equipo mantenimiento mecánico UOG

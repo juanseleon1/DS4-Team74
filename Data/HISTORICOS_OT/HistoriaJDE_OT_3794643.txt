@@ -1,0 +1,21 @@
+2018/12/12 FARLEY GIOVANNY DIAZ
+Se crea OT para realizar el apoyo en las actividades para el cambio de ventiladores en cámara de válvulas por parte de la empresa CSL, Comercial y Servicios Larco.
+
+2018-12-11 REALIZÓ: JUAN DAVID GARCIA-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3794643, PASO:1       
+Se empieza con la instalación de acometida en cámara de válvulas para energizar los tableros nuevos de potencia en la etapa I
+
+2018-12-13 REALIZÓ: JUAN DAVID GARCIA-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3794643, PASO:2          
+se continua con la instalación de acometida para las tableros de potencia 480 cámara de válvulas, etapa I
+
+2018-12-17 REALIZÓ: JUAN DAVID GARCIA-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3794643, PASO:3          
+Se empieza con la instalación de acometida en cámara de válvulas para energizar los tableros nuevos de potencia definitivos en la etapa II.
+
+2018-12-18 REALIZÓ: JUAN DAVID GARCIA-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3794643, PASO:4          
+se continua con los trabajos en cámara de válvulas, acometidas de potencia y control para los tableros nuevos de los ventiladores. 
+
+2018-12-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: FDIAZ OT: 3794643, PASO:5          
+Se realizo apoyo al personal de la empresa LARCO para realizar el arranque de los ventiladores de II etapa en cámara de válvulas con las siguientes anotaciones: 
+el de segunda etapa esta en automático pero sin señales en casa de máquinas, mientras que el de primera esta en modo prueba por que las señales de los equipos de medidas no están disponibles ya que el tablero nuevo quedo instalado fuera de su puesto final  y las señales no pudieron ser llevadas hasta allá, Johnson propone que nosotros instalemos una caja de paso con borneras para llevar todas la señales hasta el tablero nuevo y así poder dejar el ventilador trabajando en automático.
+
+2018-12-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3794643, PASO:6          
+Se realizó acompañamiento al personal de la empresa LARCO para sacar materiales sobrantes del montaje de los ventiladores en cámara de válvulas.

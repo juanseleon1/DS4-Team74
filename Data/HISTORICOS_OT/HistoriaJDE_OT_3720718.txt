@@ -1,0 +1,6 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 04-05-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Realización de aforos del caudal evacuado por el vertedero del embalse de Playas.

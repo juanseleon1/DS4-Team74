@@ -1,0 +1,28 @@
+FECHA: 26/06/2014
+
+PLANEADOR:GABRIEL TAMAYO RUIZ
+PROGRAMADOR: YOFRED BERNARDO RODRIGUEZ VAHOS
+
+REALIZAR MANTENIMIENTO MECANICO AL PUENTE GRUA DE GUADALUPE 4 
+Objetivo:Garantizar el buen funcionamiento y limpieza en general del puente grúa de GIV.
+
+Actividades realizadas: Se llevo a cabo la limpieza en general del puente grúa, así mismo a las vigas y la carrilera por la cual se desplaza; utilizando aspiradora, desengrasante Westlode y aire a presión.
+Luego se utilizo grasa Shell Gadus (Alvania) 9 Kg aprox. Para todas las partes móviles tales como rodamientos, piñones, poleas y chumaceras; después de ello se inspecciona la carrilera de desplazamiento de la grúa y no se encuentra deformación, vibración o fisura ni soltura mecánica de los pernos de anclaje; también se revisan niveles de aceite en los siguientes reductores: 
+Reductor gancho principal.
+Reductor de monorriel.
+Reductor de movimiento longitudinal.
+Reductor de movimiento transversal.
+No fue necesario recuperar ninguno de estos niveles; también se revisaron las balineras superficialmente, debido a que son selladas su lubricación se hace imposible, pero se chequearon en movimiento buscando algún ruido extraño, encontrando que el rodamiento del monorriel  ubicado aguas arriba presenta un leve ruido, hasta el momento no se han tomado correctivos; los demás rodamientos no presentan ruidos extraños.
+Posteriormente se lubricaron los cables tanto del gancho principal como del gancho del monorriel, utilizando para ello aceite Torcula 100 (20 Lts) e inspeccionándolos visualmenteAdemás se recuperaron los niveles de aceite de los frenos electromagnéticos del carro transversal, longitudinal y gancho principal, adicionando en total 1 litro de aceite Omala Shell 220, dejando así el nivel de aceite en la línea H (high) del visor en cada uno de los frenos.
+Estos mismos frenos se revisaron en busca de fisuras o anomalías y se llevo a cabo la medición del espesor de las zapatas de frenado teniendo en cuenta que si están por debajo de 3 mm deben ser cambiadas; dichas zapatas se encuentran de la siguiente manera:
+
+Zapata frenado del carro transversal = 8.5 mm
+Zapata frenado del carro longitudinal = 8.2 mm
+Zapata frenado del carro Gancho principal = 12.2 mm 
+
+Luego de esta revisión se procedió con un chequeo a los fines de curso, tanto en los ganchos (Gancho principal, gancho monorriel), como a los desplazamientos del puente grúa (Longitudinal y transversal), encontrándolos en buen estado.
+A continuación se hizo una revisión en busca de fugas de aceite, además se inspeccionaron los acoples de los ejes, posible tornillería suelta y acomodo de las tapas o guardas, dando como resultado un correcto ajuste de las piezas.
+Finalmente se limpiaron los ganchos de elevación, tanto el gancho principal como el gancho del monorriel, para posteriormente aplicar los líquidos penetrante y revelador, y poder concluir que ambos ganchos están en buenas condiciones y no presentan fisura alguna.
+Luego de esta revisión se procedió con un chequeo a los fines de curso, tanto en los ganchos (Gancho principal, gancho monorriel), como a los desplazamientos del puente grúa (Longitudinal y transversal), encontrándolos en buen estado.
+A continuación se hizo una revisión en busca de fugas de aceite, además se inspeccionaron los acoples de los ejes, posible tornillería suelta y acomodo de las tapas o guardas, dando como resultado un correcto ajuste de las piezas.
+Finalmente se limpiaron los ganchos de elevación, tanto el gancho principal como el gancho del monorriel, para posteriormente aplicar los líquidos penetrante y revelador, y poder concluir que ambos ganchos están en buenas condiciones y no presentan fisura alguna.

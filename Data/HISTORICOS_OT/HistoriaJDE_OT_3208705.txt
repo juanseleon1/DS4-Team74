@@ -1,0 +1,53 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+2016/08/25 DIEGO BEDOYA
+Se le cambian los microfiltros a los comandos de aguja, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 2 así:
+   
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34                                            33.5
+Presión de paro (kg/cm2):                        39                                            37.5
+Nivel de arranque (cm):                            -4                                             -6  
+Nivel de paro (cm):                                     3                                              0
+Tiempo de trabajo (s):                               59                                            37
+
+La bomba Nª 1 presena ruido al momeno de arrancar.
+
+Realiza el trabajoYesid Sánchez, León Parra. 
+
+octubre 02 de 2016
+
+ot cerrad 
+
+andres ramirez EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+2016/08/25 DIEGO BEDOYA
+Se le cambian los microfiltros a los comandos de aguja, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 2 así:
+   
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34                                            33.5
+Presión de paro (kg/cm2):                        39                                            37.5
+Nivel de arranque (cm):                            -4                                             -6  
+Nivel de paro (cm):                                     3                                              0
+Tiempo de trabajo (s):                               59                                            37
+
+La bomba Nª 1 presena ruido al momeno de arrancar.
+
+Realiza el trabajoYesid Sánchez, León Parra. 
+
+octubre 02 de 2016
+
+ot cerrad 
+
+andres ramirez 

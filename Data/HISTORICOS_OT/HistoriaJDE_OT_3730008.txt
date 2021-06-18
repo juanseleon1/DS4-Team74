@@ -1,0 +1,28 @@
+MANTENIMIENTO UNIDAD N3
+
+Medidas de aislamiento antes de limpieza:  
+- Rotor + barraje= 11.5 Mohm
+- Rotor=                 470 Mohm
+- Barraje desde interruptor de campo= 9 Mohm
+Nota: con MCB abierto.
+
+Medidas de aislamiento después de limpieza:  
+- Rotor + barraje= 800 Mohm
+- Rotor=                 833 Mohm
+- Barraje superior e inferior = 870 Mohm
+Resistencia Ohmica = 160.3 Mohm
+Temperatura rotor: 38.4 °C
+Temperatura ambiente: 28°C
+ESCOBILLAS
+1A: 37.8 mm                                                          6A: 37 mm  
+1B: 36 mm          6B: 37.5 mm 
+2A: 39 mm          7A: 36.5 mm
+2B: 35 mm                      7B: 36.8 mm
+3A: 38.5 mm           8A: 36 mm
+3B: 38.4 mm           8B: 39 mm
+4A: 38.5 mm           9A: 27 mm-Se reemplazo 
+4B: 28 mm ---- Esta escobilla se reemplaza                   9B: 34 mm    
+5A: 37.8 mm           10A: 29 mm--- se reemplazó.
+5B: 28 mm-Se reemplazo           10B: 33 mm
+
+Escobillas rotor tierra: superior:  33 mm,        inferior: 30 mm

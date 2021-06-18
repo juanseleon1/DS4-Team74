@@ -1,0 +1,13 @@
+
+2017/05/31 _ CARLOS ENRIQUE MONCADA. OT N° 3494384.
+Referente a la IHM de la Unidad N°1: Al encontrarse por fuera la IHM se procede a reiniciar el sistema desde la máquina virtual actualizando licencia de la aplicación Monitor Pro. La unidad queda normalizada para la operación.
+
+Realizado por: CARLOS MONCADA.
+
+REVISAR CONTROL DE NIVEL TANQUE ACUMULADOR 
+FECHA PLANEACION MANTENIMIENTO: 25/05/2017
+PLANEADOR: JORGE RODRIGEZ
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V.
+
+Entra en sincronismo la unidad N°1. En la secuencia de arranque se genera un paro rápido por falla en la estación hidráulica, bajo nivel tanque acumulador, La IHM del control de unidad se encontraba bloqueada no permitiendo observar las alarmas y la secuencia de arranque normal. Informa: Turno 2.

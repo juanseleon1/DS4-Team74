@@ -1,0 +1,40 @@
+FECHA: LUNES 10/08/2015
+
+PROGRAMO : YOVANNY RIVERA  REALIZO: CAMILO FLOREZ, RODOLFO GARCES
+ ASUNTO: REALIZAR MANTENIMIENTO MP 
+Empresas Públicas de Medellín E.S.P
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO ________921__________
+
+PRESION DE ACEITE (PSI) ________99__________
+
+TIEMPO DE TRABAJO (min) ________10__________
+
+TEMPERATURA DE ACEITE (°C) ________158__________
+
+TEMPERATURA AGUA (°C) ________45__________
+
+VOLTAJE DE SALIDA ________480__________
+
+CICLOS POR MINUTO ________60__________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

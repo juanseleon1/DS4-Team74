@@ -1,0 +1,12 @@
+06/09/2018
+MONTAJE NUEVO ANALOGICO SENSOR RADIAL VALVULA MARIPOSA
+
+Grupo Mecanico:
+Realizar el soporte y la adecuacion del nuevo sensor analogico para la visualizacion en porcentaje de la apertura/cierre de la valvula mariposa de G3 / Etapa 2.
+
+Grupo Electronico:
+Conexion y puesta en servicio del sensor radial y ajustar su visualizacion en el escada de la sala de operacion.
+
+06/01/2018
+Se cierra esta OT sin tiempo, puesto que este mes de Enero/2019 se realizara el trabajo, pero se abrira una nueva solicitud en Maximo.
+Planeador: Oscar Arango

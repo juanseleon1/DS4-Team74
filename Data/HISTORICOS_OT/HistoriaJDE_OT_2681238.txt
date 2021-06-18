@@ -1,0 +1,6 @@
+
+FECHA: ENERO 21 DE 2015
+
+EJECUTANTE: PEDRO ROBAYO, DIOMER DIAZ Y ALVARITO PUSHAINA
+
+Por presentarse falla de comunicación en el controlador superior se revisa y se encuentra sin ajustar bien el modulo 4.0; se aprieta y se deja en servicio.

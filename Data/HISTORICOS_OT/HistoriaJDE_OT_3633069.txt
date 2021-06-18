@@ -1,0 +1,16 @@
+INSPECCION INSTRUMENTACION COJINETE SUPERIOR UNIDAD GENERACION GUADALUPE 4
+
+31-10-2017
+PROGRAMADOR JOSE MONTOYA
+ANUAL G41
+02/11/2017
+SE REALIZA VERIFICACION SEÑAL LAZOS DE CONTROL DEL COJINETE SUPERIOR, SE VERIFICAN LAS MEDIDAS DE LAS VIBRACIONES, SE REVISAN LOS NIVELES DE ACEITE, MANENIMIENTO Y VERIFICACION RTD´S Y LLENA PLANILLA DE REGISTROS
+CUATRIMESTRAL
+Se realiza limpieza e inspección visual al visor del sensor de nivel y se revisan sensores de vibración, se encontraron en CSPL: 8.33VDC, CSPR 8.33 VDC y el AXIAL: 7.18VDC se ajustó a 8.96vdc.
+Nivel de aceite cojinete superior, patrón es 790mm, se encontró 795.4
+Se inyectan las siguientes señales
+  COJ. GUIA SUPERIOR °C COJ. EMPUJE °CPATRÓN °C METAL 2 ACTE   METAL 2 METAL 440 40,2 40,2   40,2 40,260 60,2 60,2   60,2 60,280 80,2 80,2   80,2 80,2ALARMA 55,0 55,2 75,0 75,0DISPARO 60 60 80,0 80,0
+NOTA LAS TEMPERATURAS DE ALARMAS Y DISPAROS DE COJINETE EMPUJE SE ENCUENTRAN EN 75 Y 80 DIFERENTE A COMO ESTA EN LA ESTACION DE OPERACIÓN (70 Y 75)
+Se inyecto señal con el calibrador de procesos para comprobar alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2017\TRIMESTRALES G4
+

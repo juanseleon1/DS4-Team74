@@ -1,0 +1,18 @@
+
+FECHA: JULIO 2 DE 2015 OT: 2807543
+
+EJECUTANTE: PEDRO ROBAYO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Aprovechando la inspección de la rueda dentada se cambia el modulo 159A1 de frecuencia y velocidad, se configura y se deja en funcionamiento el aerogenerador.
+
+Se presenta paro por sobre corriente, al darle reset no se prenden físicamente las bombas, se revisa el controlador superior y se encuentra la fuente 103A1 apagada se verifica la alimentación y no se encuentra tensión, se revisa en planos y se encuentra que falta la fase L1 que alimenta esta fuente y hace parte del circuito trifásico de alimentación de los motores de las bombas, se revisa en la Bottom box y se encuentra que el Brake 20F2 presentaba problemas, se abre y se cierra y se normaliza la alimentación, la bomba del sistema hidráulico trabaja bien pero en el momento de darle arranque a la bomba 1 de la caja multiplicadora no se siente arrancar y en ese instante el relé arrancador 111V2 se quemó, se procede a cambiarlo y se realiza nuevamente la prueba y se encuentra que el motor de esta bomba se encuentra en dos fases marcando 50 amperios en el arranque en las fases L1 y L3, claro esta que el motor no arrancaba, se deja detenido el aerogenerador hasta mañana cuando se realice el cambio.
+
+
+FECHA: JULIO 3 DE 2015 OT: 2807543
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+El aerogenerador se falla por comunicación controlador superior, se revisa el RFC y se encuentra alarmado con el modulo 7,5 OD21; se procede a revisar el LOOP y se encuentra parpadeando continuamente el modulo 7,5 y los demás parpadeando lentamente, el modulo 7,4 estaba encendido, se verifican los cables de entrada del 7,5 y salida del 7,4 al conectarlos nuevamente se queda apagado el 7,4 se procede a cambiar ese modulo y la falla borra, se deja listo el aerogenerador y en la noche cuando el viento bajo su velocidad se entra en servicio.
+

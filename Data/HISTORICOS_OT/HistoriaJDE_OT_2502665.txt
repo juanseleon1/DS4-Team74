@@ -1,0 +1,10 @@
+XE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD
+
+FECHA: JUNIO 02-2014
+EJECUTÓ: OLGA VIANA - JULIAN GIRALDO
+
+Se realiza mantenimiento al tablero de servicios auxiliares TSAU-03 U3, acometidas y cajas de conexión de equipos y tableros varios de los auxiliares del generador. Según IDM: GCP3E0008. No se detecta nada anormal. Una vez finalizado el procedimiento, se normaliza el sistema quedando en condiciones operativas normales.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+-------------------------------------

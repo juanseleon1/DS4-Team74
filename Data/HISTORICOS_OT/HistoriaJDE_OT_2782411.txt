@@ -1,0 +1,4 @@
+2015/06/09 MARIO RESTREPO - JHONATAN USME OT:2782411
+EQUIPO: UMA 12 CORRIENTE: R:1,9, S:2, T:2, VOLTAJES RS:450, ST:452, TR:449
+Se realizó limpieza general al motor. 
+Se dejó en condiciones normales. 

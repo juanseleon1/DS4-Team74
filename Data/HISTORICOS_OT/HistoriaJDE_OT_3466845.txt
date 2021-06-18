@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel PalaciosEJECUTO: Ronal Arango.
+Se realiza verificación y limpieza al transformador de excitación en el piso S2, al seccionador de 500 V AC, a los bancos de tiristores, al barraje de salida de 125 V DC, al interruptor de campo siguiendo el procedimiento de la orden de trabajo.
+
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD

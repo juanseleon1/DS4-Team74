@@ -1,0 +1,7 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 28-01-2019
+Tipo de mantenimiento: Preventivo
+traslado de estacion del sitio dela bocatoma para el muro del canal del vertedero.
+descarga de datos
+programacion de trasmisor y datalogger.

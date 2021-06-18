@@ -1,0 +1,9 @@
+FECHA: 20/01/2017  OT: 3377579  PROGRAMÓ: CRISTIAN GÓMEZ EJECUTÓ: DIEGO RESTREPO - FRANCISCO QUINTERO
+
+Se encuentra disparado el  Q1 SAUX 480V Portal C/M P3. El cual presentaba "Disparo por baja tensión" ocasionando la apertura del interruptor y ausencia de tensión en  todos los tableros aguas abajo (Iluminación, Sirenas, Serv. 208V, etc).  Se realiza un reset al dispositivo, se reponen alarmas y se buscan condiciones de cierre.  Se cierra el interruptor y se normalizan los demás tableros.
+
+Ejecutó: Equipo Mantenimiento U.O.P - Operación Turno 3 
+Informó: Cristian Andrés Gómez - Oscar Parra
+FECHA DE TERMINACIÓN: 2017/01/20
+
+ 

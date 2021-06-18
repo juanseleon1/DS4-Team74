@@ -1,0 +1,36 @@
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+FEBRERO 23 DE 2018
+Se entrega el transformador reparado con serie 01.2.4002 por la empresa contratista EXPLORER en el patio de transformadores de Guadalupe 3 con sus respectivas pruebas eléctricas hechas por el contratista, obteniendo buenos resultados.
+Utilizando el equipo electromecánico adecuado para hacer el movimiento del trafo y con el apoyo del grupo mecánico de la U.O.G. 
+Ya estando el transformador en su sitio se le vuelven hacer las pruebas eléctricas para garantizar que en el desplazamiento no se haya generado algún movimiento brusco y daños al devanado, por 
+Parte de la unidad operación y mantenimiento.
+
+Una vez terminadas las pruebas se comienza a colocar los cables de tierra a la cuba, conexiones por alta, baja y su respectivo conexionado a la caja de control.
+Se hace una inspección visual y verificación de las conexiones de alta y baja de los tres transformadores dando los ajustes necesarios a la tornillería, también se le realizo el mantenimiento general eléctrico cuatrimestral al banco.
+Una vez conectado el transformador por alta, baja y su caja de control, se procedió hacer la verificación del control, instrumentación y los protocolos de alarmas y disparos de las protecciones del transformador.
+Se lleva la unidad hasta giro mecánico, se programa el regulador de tensión y se comienza con la energización en vacío paso a paso del banco de transformadores con el regulador de tensión en modo manual automático, subiendo la tensión desde el 10% hasta llegar al 110%, de acuerdo al procedimiento que se tiene para la prueba. Se des energizar de la misma manera y gradualmente hasta llegar a cero.
+Luego de este procedimiento se normaliza el regulador de tensión y se deja en remoto automático, se sincroniza la unidad y se comienza a subir potencia paso a paso desde el 25% hasta llegar al 100%, cada 15 minutos se evaluar durante el proceso de carga ruidos anormales, se monitorean temperaturas y comportamiento de las protecciones del banco de transformadores.
+
+NOTA: Todos los procedimientos, protocolos y pruebas se encuentra almacenado en la carpeta de reparación de los transformadores de potencia Guadalupe tres.
+
+William Lopera
+
+
+DICIEMBRE 27 DE 2017.
+Esta OT queda pendiente para colocar en servico el transformador en el mes de febrero de 2018, el transformador ya fue entregado por el contratista (EXPLORER), el cual quedo armado en el patio de transformadores de Guadalupe 3.
+
+
+
+NOVIEMBRE 30 DE 2017
+
+
+SE REALIZA RETIRO DE ESTE TRANSFORMADOR, EL CUAL SERÁ REPARADO POR EL CONTRATISTA EXPLORER SAS DE ACUERDO AL CONTRATO CW11278 DE ARIBA, (CAMBIO DE BOBINA DE BAJA TENSIÓN POR DEFECTO TÉRMICO, INSTRUMENTACIÓN DE TEMPERATURAS, RELÉ BUCHHOLZ, VÁLVULA DE SOBREPRESIÓN  , PINTURA GENERAL, ADECUACIÓN DEL CABLEADO DE POTENCIA Y CONTROL , MANTENIMIENTO A LA BOBINA DE ALTA TENSIÓN Y PRUEBAS EN PLANTA Y SITIO DE FUNCIONAMIENTO, PRINCIPALMENTE).
+
+ESTE TRANSFORMADOR CUYA SERIE ES 01.2.4002 SERÁ RETIRADO DE LA FASE "T" DEL BANCO G34 , Y LUEGO SE INSTALARÁ EN LA FASE "T"
+
+ESTA OT CUENTA CON PASOS ELÉCTRICO Y MECÁNICO.
+

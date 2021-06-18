@@ -1,0 +1,5 @@
+2018/10/26 RUBEN ARBOLEDA
+Se crea OT para realizar revisión y mantenimiento general al tablero de servicios auxiliares Unidad 1 y 2.
+
+2018-10-26 REALIZÓ: OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778304, PASO:1          
+Se realizó mantenimiento preventivo al tablero de servicios auxiliares 480VAC de las Unidades 1 y 2, para esto se abrió los interruptores de la DP1 y DP2, se verificó transferencia, se ajustó borneras de control y potencia, se realizó limpieza general y posteriormente se normalizaron los interruptores en DP2 y DP1 verificando nuevamente la transferencia, quedó en condiciones normales.

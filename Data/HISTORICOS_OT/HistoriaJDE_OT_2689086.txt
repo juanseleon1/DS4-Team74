@@ -1,0 +1,12 @@
+
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Tablero de controladores PLC
+Tablero 20GTA UTR de los bancos de transformadores 
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Escalizar medida de temperatura de los transformadores para sistema centralog.
+
+2015/12/14_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO Y VERIFICACION DE LA INSTRUMENTACION EN LOS TABLEROS DELA S/E TABLON. SE REVISA  QUEDANDO ESTA DISPONIBLE PARA LA OPERACIÓN.
+

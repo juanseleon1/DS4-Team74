@@ -1,0 +1,6 @@
+En el mantenimiento realizado en la OT 2401060, revision y limpieza al CCM4, la cual fue ejecutada por Edwar Londoño y Oscar Giraldo, en coordinación con Gustavo Morales.
+
+Según el despliegue en la estación de operación,  se realizó proceso de apertura del interruptor SB10, correspondiente al circuito portal respaldo, al momento de verificar ausencia de tensión se evidenció una falla en señalización en la estación de Operación, la cual corresponde a señales de posición de seccionador de la estación portal, el 1 estaba abierto y lo muestra cerrado, el 2 estaba cerrado y lo muestra abierto, queda pendiente realizar cambio de parámetros en la estación de Operación 
+
+Cesar Tulio Jimenez - Luis Eduardo Arcila, realizaron la adecuación de las señales correspondientes, quedando en señalizacion normal. 
+

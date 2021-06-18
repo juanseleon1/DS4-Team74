@@ -1,0 +1,15 @@
+2017/01/12 ADONIS CADAVID - RUBEN ARBOLEDA
+Se recibienron 14 cilindros de CO2 recargados, se hace esta OT para normalizar los cilindros del banco de tranformadores.
+
+2017-01-13 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3365960, PASO:1          
+Se realizó la instalación de 7 cilindros en el banco principal, éste banco es de 8, se dejó uno marcado para enviar a recargar y realizar prueba hidrostática
+
+2017-01-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3365960, PASO:2          
+Se realizó adecuación de cilindros de CO2 y Cilindros Pilotos en el banco principal CO2 Generadores, Se dejó disponible y seleccionado el banco principal.2017/01/12 ADONIS CADAVID - RUBEN ARBOLEDA
+Se recibienron 14 cilindros de CO2 recargados, se hace esta OT para normalizar los cilindros del banco de tranformadores.
+
+2017-01-13 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3365960, PASO:1          
+Se realizó la instalación de 7 cilindros en el banco principal, éste banco es de 8, se dejó uno marcado para enviar a recargar y realizar prueba hidrostática
+
+2017-01-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3365960, PASO:2          
+Se realizó adecuación de cilindros de CO2 y Cilindros Pilotos en el banco principal CO2 Generadores, Se dejó disponible y seleccionado el banco principal.

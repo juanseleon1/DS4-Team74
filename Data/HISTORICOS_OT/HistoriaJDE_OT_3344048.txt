@@ -1,0 +1,26 @@
+2016/12/15
+Al parar unidad en modo normal no se están aplicando los frenos.
+
+ 01/05/2017. SERGIO OLIVARES D. EJECUTO: SEBASTIAN HINCAPIE Y FERNANDO RUIZ O.T. 3344048.
+
+ Se hicieron pruebas con la unidad, para hacer verificacion que los frenos se aplicaran, y efectivamente  sucede, pero inmediatamente se desaplican. Se cambio el rele que le llega la señal del 25% del Jaque, y 
+ Se prueba nuevamente, y ocurre lo mismo. Se hace revisión de las borneras en los tableros GTBII, DU21 Y DU22,  de la valvula de aplicacion de frenos, y se prueba nuevamente, ocurriendo lo mismo. El Sr. Cesar Tulio
+ Jimenez programador descubre que le esta llegando un reset al bloque de programacion de los frenos.
+ Queda pendiente por parte del programador la solucion.
+
+REALIZO: CESAR TULIO JIMENEZ
+ 03/05/2017
+ REVISANDO LA PROGRAMACION DEL CONTROLADOR ABB DE LA MAQUINA, SE ENCONTRO QUE UNA PARTE DEL LA FUNSION DE APLICAR LOS FRENOS NO ESTABA CORRECTA, PROCEDI A CORREGIR ESTA ANOMALIA, SE REALIZARON LAS PRUEBAS  NECESARIAS,QUEDA NORMAL LA FUNSION DE PARAR LA MAQUINA CON LOS FRENOS APLICADOS.
+2016/12/15
+Al parar unidad en modo normal no se están aplicando los frenos.
+
+ 01/05/2017. SERGIO OLIVARES D. EJECUTO: SEBASTIAN HINCAPIE Y FERNANDO RUIZ O.T. 3344048.
+
+ Se hicieron pruebas con la unidad, para hacer verificacion que los frenos se aplicaran, y efectivamente  sucede, pero inmediatamente se desaplican. Se cambio el rele que le llega la señal del 25% del Jaque, y 
+ Se prueba nuevamente, y ocurre lo mismo. Se hace revisión de las borneras en los tableros GTBII, DU21 Y DU22,  de la valvula de aplicacion de frenos, y se prueba nuevamente, ocurriendo lo mismo. El Sr. Cesar Tulio
+ Jimenez programador descubre que le esta llegando un reset al bloque de programacion de los frenos.
+ Queda pendiente por parte del programador la solucion.
+
+REALIZO: CESAR TULIO JIMENEZ
+ 03/05/2017
+ REVISANDO LA PROGRAMACION DEL CONTROLADOR ABB DE LA MAQUINA, SE ENCONTRO QUE UNA PARTE DEL LA FUNSION DE APLICAR LOS FRENOS NO ESTABA CORRECTA, PROCEDI A CORREGIR ESTA ANOMALIA, SE REALIZARON LAS PRUEBAS  NECESARIAS,QUEDA NORMAL LA FUNSION DE PARAR LA MAQUINA CON LOS FRENOS APLICADOS.

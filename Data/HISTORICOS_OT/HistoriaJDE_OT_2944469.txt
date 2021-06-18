@@ -1,0 +1,5 @@
+2015/11/23 RUBEN ARBOLEDA
+Realizar revision de la alarma sonora de II etapa
+
+2015/11/23 OT: 2944469 - JHONATAN USME - DIEGO PERLAZA (PRACTICANTE) PROGRAMÓ: RARBOLG
+Se realizo la revisión de la alarma sonora de II etapa, se encontró fallo en la parte movil de generacion de sonido, estaba suelta y recostada a la base, se cambio por una de repuesto (fallada anteriormente por rotor), se dejó en condiciones normales. 

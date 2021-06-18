@@ -1,0 +1,17 @@
+12/07/2017 - 13:01.
+Durante el turno dìa siendo las 13:01, la Unidad TRU2 se da paro por Falla grave en Regulador de Tensiòn, la Unidad se encontraba generando 20 Mwatios y con 0  Mvars, se procede a informar al Centro de Control y el personal de mantenimiento llega a atender la emergencia siendo las 14:30, se encuentran fallas en Bancos de Tiristores, a partir de esta hora queda la Unidad en manos del personal de mantenimiento liderado por el Ingeniero Oscar Arango - y el lider William Lopera.
+
+Informa Operaciòn Turno 1 y Turno 3.
+
+Walter Baena - Wilson Arango.
+
+JULIO 12 DE 2017
+Entra en sincronismo la Unidad TR2, Se presentó “ falla grave regulador de tensión”  mostrando en el log de eventos “ 2 fusibles quemados en fase”  y dejando la Unidad indisponible . Después de realizar el seguimiento a la falla se realizaron las siguientes acciones:
+-. Se realizó prueba de aislamiento al devanado de alta /baja trafo de excitación.
+-. Prueba de aislamiento a los anillos y el Rotor, barraje y cables en el regulador de tensión.
+Se concluyó que fallo el tiristor MCFB2 de fase B y se puso en corto, ocasionando una falla general en la tarjeta de los pulsos de tiristores, quemando 4 tiristores SCR y 9 fusibles de 450ª y tarjeta de pulsos tiristores.
+Se instalaron 3 módulos completos para normalizar el banco 1. Se realizaron pruebas de energización respondiendo satisfactoriamente.
+Nota: El banco 2 queda indisponible , pues se deben conseguir SCR y fusibles para normalizar todo el Banco en las fases A, B, y C.
+La Unidad se Sincroniza a las 21:07.
+Ejecuto: Equipo Mantenimiento eléctrico y electrónico.
+Informa: Juan Caicedo - William Lopera - Alirio Hernández - Carlos Forero - Oscar Arango.

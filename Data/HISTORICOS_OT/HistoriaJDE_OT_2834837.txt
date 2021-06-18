@@ -1,0 +1,9 @@
+02/08/2015. MAURICIO RUIZ
+
+EN EL PROCESO DE ARRANQUE Y PARO DE LA UNIDAD SE HA ESTADO PRESENTADO ESCALONES EN LA CURVA DE CARGA
+
+28/01/2015
+
+Una posible causa de estos saltos de potencia es que los casquetes de desgaste de los bujes del distribuidor se encuentren desgastados. Para cambiarlos se debe programar un paro de la unidad. Se inicia seguimiento de este fenómeno para evalaur la severidad y posterior programación del paro.
+
+Informó: Santiago Ramírez

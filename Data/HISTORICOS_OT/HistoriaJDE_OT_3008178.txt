@@ -1,0 +1,44 @@
+FECHA: MARTES 29/03/2016
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RODOLFO GARCES, FABIO HERRERA 
+ASOCIADO A LA OT: 3008178
+ASUNTO: EJECUTAR MP PROGRAMADO A LOS FRENOS DEL GENERADOR DE LA UNIDAD 2
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 ________19.5_____________
+
+Zapata No 2 ________19.5_____________
+
+Zapata No 3 ________19_____________
+
+Zapata No 4 ________19_____________
+
+Zapata No 5 ________19_____________
+
+Zapata No 6 ________19_____________
+
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

@@ -1,0 +1,5 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-24 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704923, PASO:1          
+Se realizó limpieza general a los tableros de control de la unidad 7, se realizó revisión de las borneras y aseo en general. se realizó reparación de iluminación de los tableros, se dejó en condiciones normales. 

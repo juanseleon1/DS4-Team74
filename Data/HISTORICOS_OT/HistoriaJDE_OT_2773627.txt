@@ -1,0 +1,13 @@
+
+
+30/05/2015. SERGIO OLIVARES D.
+
+Se hizo nivelacion de aceite a los transformadores mas criticos, gastando el aceite almacenado, 3 canecas.
+
+ NIVEL INICIAL NIVEL FINAL CANTIDAD
+FECHA TRANSFORMADOR CUBA ELEFANTE TEMPERATURA CUBA   DE ACEITE
+21/05/2015 TRAFO 3 2,3 7,9 39,7 °C 5,5 54 GL
+21/05/2015 TRAFO 7 20 50 43,9 °C 40 54 GL
+21/05/2015 TRAFO 9 2,2 35 41,0 °C 5,7 54 GL.
+
+Los demas transformadores se encontraron en niveles muy aproximados, segun la curva de "temperatura contra nivel del tanque conservador"

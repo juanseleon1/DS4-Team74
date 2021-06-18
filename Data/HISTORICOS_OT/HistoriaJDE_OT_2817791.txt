@@ -1,0 +1,54 @@
+ESTA OT ES LA OT PADRE DEL MANTENIMIENTO TRIMESTRAL DE LA UNIDAD N° ___ DE LA CENTRAL RIOGRANDE I, SIRVE PARA AGRUPAR TODOS LOS COSTOS DEL MANTENIMIENTO DE LA UNIDAD.
+
+INFORME:
+
+HOROMETRO: 7767.45
+
+
+INFORMES ANTERIORES:
+
+ENERO 20 AL 23/2014 OT: 2465209 PLANEADOR: WGARCIAC EJECUTO: C.RODRIGUEZ
+SE ANEXA INFORME DE MANTENIMIENTO ANUAL DE LA UNIDAD 1 DE LA CENTRAL RIOGRANDE, SE ENCUENTRA EN BUEBNAS CONDICIONES LA INSTRUMENTACÍON.
+
+
+MAYO/17/2012 Y MAYO/17/2012 OT: 2089455 PROGRAMO: EDGAR MIRANDA     EJECUTO: EDGA MIRANDA Y CARLOS RODRIGUEZ
+SE VERIFICARON Y AJUSTARON LOS SIGUIENTES INSTRUMENTOS PARA EL SISTEMA DE CALIDAD
+626758 TERMOMETRO METAL CE U1 R1
+626759 TERMOMETRO METAL CI U1 R1
+626760 TERMOMETRO METAL CI U1 R1
+626761 MEGAVATIMETRO
+313137 SINCRONIZADOR
+124485 TERMOMETRO 1 BANCO 2 FASE R
+124486 TERMOMETRO 1 BANCO 2 FASE S
+124487 TERMOMETRO 1 BANCO 2 FASE T
+Y ADEMAS SE VERIFICARON Y AJUSTARON LOS TERMOMETROS DE ACEITE DEL COJINETE SUPERIOR E INFERIOR.
+SE VERFICARON LOS PRESOSTATOS, MANOMETROS, SUCHES DE NIVEL DE LA UNIDAD.
+
+MAR 01/2012  OT: 2028199  PROGRAMO: J. LONDOÑO  
+SE LLEVA UNA CANECA DE ACEITE TERESSO 68 PARA ATENDER LAS FUGAS DEL SISTEMA DE LUBRICACION QUE ACTUALMENTE TIENE EL GENERADOR
+OT 1063961 JULLIO 26 DE 2007 PLANEO MANUEL HOYOS 
+COPIA DEL INFORME ENVIADO POR CORREO ELECTRONICO POR JAIME ZAPATA
+ El secado se realizó con los dos soldadores, con los devanados en serie, y se obtuvo una corriente de aprox. 700 A. Ver archivo anexo en excel donde se observa las variaciones del IP por fase.
+ La prueba de Alta tensión DC se realizó a 15 KV, obteniéndose una corriente máxima de fuga de 50 microamperios, valor aceptable para este devanado. Ver correo anexo.
+ Nuevamente se realizó la prueba de factor de potencia y se obtuvieron valores muy similares a los anteriores, modo GST a tierra alrededor de 2.0% y modo UST entre fases alrededor de 15.0 %.
+ Las pruebas en polos del rotor se realizaron y están siendo evaluadas.
+Conclusiones y Recomendaciones:
+De acuerdo con los resultados obtenidos en el devanado estatórico del generador de la Unidad 1 de Riogrande I, se concluye que el devanado del estator con respecto a tierra se encuentra en una condición aceptable, según resultados de resistencia de aislamiento, factor de potencia modo GST (2.0 %), y la prueba de alta tensión DC.
+Sin embargo, los resultados de factor de potencia, modo UST, entre cabezas de bobina, presentan valores altos (15 %) poco comunes, estando el devanado seco (IP > de 2.0) y con un grado de limpieza aceptable, teniendo en cuenta además que la prueba de alta tensión DC descarta posible falla de cabezas de bobina a tierra ya que la corriente de fuga a 1 minuto fue de máximo 50 microamperios (a 15 KV).
+Las estadísticas de fallas en devanados estatóricos en generadores son tendientes a falla a tierra por fase, por deterioro del aislamiento, y no entre fases. Este es un dato importante a tener en cuenta para la toma decisión del devanado en cuestión.
+Un posible incremento de este factor de potencie (UST) entre cabezas de bobina podría ser debido también a los amarres tanto superiores e inferiores y a la contaminación leve que aún persiste entre las cabezas de bobina, pero esto podría mejorar realizando un buen mantenimiento antes de energizar y entrar en servicio nuevamente este devanado. Para ello, antes de entrar en servicio, se realizaría lo siguiente:
+ Mientras este parada la unidad por periodos largos, mantener el devanado caliente, instalando calentadores externos, evitando que la humedad ingrese al material aislante.
+ Cambio de los amarres de las cabezas de bobina tanto superiores como inferiores.
+ Limpieza más estricta en las cabezas de bobina tanto superior como inferior (con un sistema a presión y manualmente).
+ Luego de la limpieza un nuevo secado completo, entre 72 y 94 horas (3 ó 4 días), con seguimiento del IP. 
+ Pintar el devanado estatórico.
+ Pruebas eléctrica antes de entrar en servicio.
+ Pruebas predictivas de seguimiento estricto.
+Según lo anterior este devanado estatórico de la Unidad 1 de Riogrande I, podrá continuar en servicio para el futuro, entre 10 a 15 años, teniendo también en cuenta el factor de utilización de esta unidad que ha sido muy baja. Es de entenderse que esto no garantiza la posible falla del devanado durante este periodo de tiempo estimado de vida, de acuerdo con los resultados obtenidos y debido a la falta de historial de información de pruebas eléctricas de este devanado.
+
+
+
+
+
+12/26/1998    413217   TRABAJOS ADICIONALES EN LA UNIDAD 1 RGI 
+SE EFECTUO RASQUETEO DE LOS COJINETES CHUMACERA SUPERIOR GENERADOR REAISLADO DE LAS CUNAS DEL ROTOR, PINTURA DE LOS GATOS Y ARANA INFERIOR

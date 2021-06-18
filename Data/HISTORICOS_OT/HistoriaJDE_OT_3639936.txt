@@ -1,0 +1,11 @@
+
+2017/11/05 _ CARLOS ENRIQUE MONCADA. OT N° 3639936 .
+MANTENIMIENTO TABLEROS Y FIBRA OPTICA DE LA CENTRAL PORCE 2.OT generada para el montaje y puesta a punto de la nueva fibra optica entre la S/E Tablón y Guadalupe IV y POrtal CM P2 y CM P2.
+Se realiza el montaje de la fibra optica de 72 Hilos desde S/E Tablón hasta Gpe IV haciendo recorrido por posteria del ramal de 13.2 Kv que vá desde S/E Tablón hasta puente acacias, luego se riega la fibra por las torrecillas N°14 hasta la N° 1 de la linea de 44 Kv que va desde Gpé IV hasta Porce III. Se instalan 4 ODFs para conectorizarla así:
+1 ODF en Gpe IV.
+1 ODF en S/E Tablón.
+1 ODF en Portal CM P2.
+1 ODF en Tablero de comunicaciones CM P2.
+Se hacen las respectivas pruebas de los hilos de la FO para mirar refracción, perdida y atenuacion y posterior a ello certificarlos. 
+Se instala esta fibra en reemplazo del tramo de fibra optica de 24 hilos que viene desde Gpe IV hasta S/E Tablón por el ramal rural Gpe IV 13.2 Kv, la cual es retirada por su obsolescencia y entregada al equipo de medio ambiente para su disposición final. 
+REALIZO: NEIRO FABIAN PEREZ - CARLOS MONCADA

@@ -1,0 +1,78 @@
+
+2018-08-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:1
+Se realizó reparación de alumbrado en casa de maquinas, en pasillo de generadores.
+
+2018-08-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:2
+Se realizó reparación de alumbrado en las oficinas de ingeniería y salud ocupacional
+
+2018-08-15 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:1
+Se realizó orden y aseo general al taller electricistas, se retiró elementos de alumbrado, se realizó adecuación en el RESPEL.
+
+2018-08-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:4
+Se realizó reparación de alumbrado en oficina del jefe Jhon Jairo Mejía y reparación de alumbrado en casa de maquinas. 
+
+2018-09-12 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:5
+Se realizó una prueba con 2 reflectores LED en zona superior de los tableros de control de la Unidad 1, se retiraron 2 lámparas y se instalaron 2 reflectores. 
+
+2018-09-13 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3748990, PASO:6
+Se realizó la adecuación de iluminación en zona del tapón del túnel vertical de II etapa para que el personal de mantenimiento mecánico realice la pintura en esta zona.
+
+2018-09-19 REALIZÓ: FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:7
+Se realizó el cambio de lámparas de 2x59W por reflectores tipo LED del 50W en casa de maquinas, debido a que las lamparas no cuentan con repuesto.
+
+2018-09-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:8
+Se continuó con el cambio de lámparas 2x59W por reflector tipo LED en casa de maquinas. 
+
+2018-09-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:9
+Se continuó con el cambio de lámparas 2x59W por reflector tipo LED en casa de maquinas. 
+
+2018-09-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:10
+Se continuó con el cambio de lámparas 2x59W por reflector tipo LED en casa de maquinas, adicionalmente se evidenció falla en el circuito de iluminación del asincrónico, se realizó el cambio del breaker y se dejó en condiciones normales.
+
+2018-09-24 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:11
+Se continuó con el cambio de lámparas 2x59W por reflector tipo LED en casa de maquinas. 
+
+2018-09-26 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:12
+Se continuó con el cambio de lámparas 2x59W por reflector tipo LED en casa de maquinas. 
+
+2018-09-26 REALIZÓ: EDWAR ALEXANDER LONDOÑO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:13
+Se realizó reparación de alumbrado en la sala de operación de casa de maquinas. 
+
+2018-09-29 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3748990, PASO:14
+Se realizó reparación del alumbrado en galería de cables de I etapa. Para facilitar labores de montajes del Banco 1. 
+
+2018-10-01 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:15
+Se continuó cambiando las lámparas por reflectores tipo LED en casa de maquinas, aguas arriba de la Unidad 1.
+
+2018-10-03 REALIZÓ: FERNANDO ANTONIO RUIZ - OMAR SANCHEZ (OPERADOR),  PROGRAMO: RARBOLG OT: 3748990, PASO:15
+Se continuó cambiando las lámparas por reflectores tipo LED en casa de maquinas, aguas arriba de la Unidad 1.
+
+2018-10-05 REALIZÓ: FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:16
+Se continuó cambiando las lámparas por reflectores tipo LED en casa de maquinas, aguas arriba de la Unidad 2 Y 3
+
+2018-10-08 REALIZÓ: FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:18
+Se realizó adecuación de los reflectores ubicados aguas arriba de las unidades 1, 2 y 3 para redirigir la luz y determinar como iluminan mejor. 
+
+2018-10-15 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3748990, PASO:19
+Se sacó lámparas del alumbrado de casa de maquinas, las cuales han sido reemplazadas por reflectores LED de 50W, se dejaron en la chatarra para su disposición. 
+
+2018-11-20 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:20
+Se realizó reparación del alumbrado en casa de maquinas en zona de distribución de servicios auxiliares, se cambian tubos de 32W por tubos tipo LED, se retiran balastos y se cambian sockets y cableado.
+
+2018-11-21 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:21
+Se realizó reparación del alumbrado en casa de maquinas en zona de distribución de servicios auxiliares, se cambian tubos de 32W por tubos tipo LED, se retiran balastos y se cambian sockets y cableado.
+
+2018-11-23 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:22
+Se realizó reparación de alumbrado en casa de maquinas, se cambio tubos de 32W por tubos tipo LED, en cuarto de útiles del aseo en casa de maquinas.
+
+2018-12-03 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:23
+Se realizó reparación del alumbrado en casa de maquinas en la zona de la cúpula de la caverna para que el personal de servicios de apoyo realice reparaciones civiles.
+
+2018-12-04 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:24
+Se continuó con la reparación de alumbrado en la cúpula de casa de maquinas, se cambiaron lamparas de 32W por tubos tipo LED para que el personal de servicios de apoyo pueda realizar actividades de obras civiles en esta zona.
+
+2018-12-05 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:25
+Se realizó la reparación al alumbrado en casa de maquinas. 
+
+2018-12-06 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748990, PASO:
+Se realizó reparación de alumbrado en casa de maquinas en zona de la cúpula.

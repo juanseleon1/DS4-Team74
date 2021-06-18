@@ -1,0 +1,12 @@
+2018/06/14 RUBEN ARBOLEDA
+Se crea OT para realizar la revisión de falla a tierra Rotor, asociado a la OT:3735711
+
+2018-06-15 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - CESAR AUGUSTO HOYOS - SERGIO OLIVARES,  PROGRAMO: RARBOLG OT: 3736099, PASO:1-1,2         
+ El Jueves 14 de Junio de 2018 después de la ejecución de la OT:3735711 (Mantenimiento correctivo seccionador - Puntos calientes) al momento de energizar la Unidad se presentó alarma 3 excitación en la Unidad 8, se realizó medida de aislamiento con los siguientes resultados: 
+Rotor: 324MOhm
+Barraje (Escobillas por fuera): <500KOhm, Voltaje DC: Oscilaba y no subía de 260V, adicionalmente el equipo suspendía la prueba con mensaje br.d, se declaró la Unidad indisponible, el día de viernes 15 de Junio se realizó la revisión al barraje y cables de excitación se encontró que un cable de excitación en la salida de la bandeja (cerca al recinto de anillos) estaba aprisionado entre la bandeja y la campana verde; lo que ocasionó la falla en el aislamiento del cable,  sacó el cable, se reparó con 3 vueltas de cinta de fibra de vidrio traslapada y se pintó con Glyptal en aerosol, se realizó medida de aislamiento con los siguientes datos: 
+Rotor: 260 MOhm
+Barraje: 2.3GOhm
+Rotor + Barraje: 255 MOhm, 
+Se realizó medida de escobillas y se cambió una escobilla. Anillo Superior 2A, medida: 21,4mm
+Se arranca la unidad y se energizó quedando en condiciones normales.

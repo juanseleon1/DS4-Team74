@@ -1,0 +1,10 @@
+24/11/2017. 
+
+Se detecta lectura errada en el Cojinete Guia Inferior de la Unidad 1 de Troneras, RTD Temperatura Metal 1, al mostrar esporadicamente una señal intermitente entre -6ºC y 45ºC, se solicita atender y o corregir.
+
+Informa y realiza: Wilson Arango Bedoya - Tecnologo Operador.
+
+SE HACE UNA REVISION DE TODO EL LASO DE CONTROL DE LA RTD, SE REAPRETAN BORNES Y SE LES HACE MANTENIMIENTO A TODOS LOS PUNTOS DE CONEXION.
+
+
+REALIZO: FRANCISCO GONZALEZ

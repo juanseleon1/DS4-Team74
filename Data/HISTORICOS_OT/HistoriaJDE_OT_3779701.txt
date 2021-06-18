@@ -1,0 +1,32 @@
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779337.
+Se realiza mantenimiento general, limpieza y verificación a los sensores de vibración, todo se encuentra dentro de los parámetros normales y operativos.
+Las medidas de los sensores se encuentran dentro de los rangos operativos.
+
+TABLA:
+UGB 0° =   12.4 ma
+UGB 90° = 11.90 ma
+LGB 0° =   12.61 ma
+LGB 90° = 11.92 ma
+TGB 0° =   10.07 ma
+TGB 90° = 12.72 ma
+AXIAL =      12.86 ma
+
+COVER 0°    = 10.52 Vdc
+COVER 90°  =   7.94 Vdc
+TGB 0° =   11.20 Vdc
+TGB 90° = 10.32 Vdc
+LGB 0° =   10.62 Vdc
+LGB 90° = 10.92 Vdc
+UGB 0° =   10.03 Vdc
+UGB 90° = 10.20 Vdc.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizó: Richard Londoño, Jeniffer García, 
+
+
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779337.
+OT programada para el mantenimiento PCSV U1 P3.
+
+
+XL-VERIFICAR Y LIMPIAR EN EL MONITOREO PCSV-PCSD, LA INSTRUMENTACIÓN DEL SISTEMA DE VIBRACIONES Y DESCARGAS PARCIALES.

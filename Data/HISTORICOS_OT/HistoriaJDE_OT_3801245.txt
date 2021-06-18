@@ -1,0 +1,35 @@
+1 DE FEBRERO DE 2019 OT 3801245 PLANEA MARITZA BACCA EJECUTA WILMER CORDOBA Y ALONSO SANCHEZ
+SE HACE LIMPIEZA DE GABINETES Y SUBESTACION Y SE HACE CHEQUEO DE TRANSFORMADORES SECOS.
+QUEDA PENDIENTE EL DPS Y LOS AHUYENTADORES DE ANIMALES.
+
+23 DE ENERO DE 2019 MARITZA BACCA
+SE PROGRAMA A WILMER CÓRDOBA Y ALONSO SANCHEZ PARA QUE LIMPIE LA SUBESTACIÓN DEL CAMPAMENTO E INSTALE MALLAS EN DESAGÜES PARA QEU NO VUELVA  A INGRESAR ANIMALES A LA SUBESTACION
+
+
+
+
+La persona que reclama es el material en el A01 el funcionario SERGIO ARMANDO LUJAN MARIN C.C. 71619875
+
+
+
+DOMINGO 13 DE ENERO DE 2019 MARITZA BACCA
+·En la madrugada sale de servicio todo el resto del campamento. A las 5:30 a.m. se generó el radicado 3192311 por medio de la línea 4444115. A las 7:00 a.m. repusieron el fusible y el reconectador pero el campamento seguía por fuera. Se verificó que el seccionador del otro transformador del campamento también estaba abierto. Por lo cual las únicas cargas con energía eran las dependientes del grupo electrógeno.
+En las horas de la tarde se abrieron cañuelas y se ingresó a la subestación para encontrar la causa del fallo y al tartar de abrir uno de los gabinetes hubo un arco en el gabinete de medida que hizo abrir la fase S del aisladero del campamento.
+Se procedió a abrir todas las cañuelas y se encontró en el gabinete de medida otras 2 zarigueyas muertas.
+Provisionalmente se juntaron los tres fusibles que quedaron buenos en el seccionador de la subestación que alimenta las cargas sensibles del campamento, y se soldaron fusibles aéreos en los otros fusibles de seccionador para reponerlos en la celda de seccionador que alimenta aires y cargas no sensibles del campamento.
+Se verificó en aprovechamientos y taller eléctrico pero no se encontraron fusibles de los que se requieren para los seccionadores.
+Se hallaron catalogados y en existencia en A01 los siguientes fusibles:
+ Desc. 1 Desc. 2 Desc Tecnica211197 FUSIBLE LIMIT 25A Sirve para el trasformador de 225KVA TIPO HH 24KV 510MMX45MM FUSIBLE LIMITADOR TIPO HH 25A 25KV 510MM X 45MM Limitador Inom: 25A Tipo HH 24KV 510MMX45MM231078 FUSIBLE LIMIT 32A Sirve para el trasformador de 300KVA TIPO HH 24KV FUSIBLE LIMITADOR TIPO HH 32A 24KV Limitador Inom: 32A Tipo HH 24KV 510MMX45MM
+Como las dimensiones de los descriptores no coincidían con las de las CTG, le solicitamos al almacenista disponible en A01 Joaquin Echeverry que nos validara en campo si los fusibles eran de las dimensiones que los requeríamos (510MM X 45MM). Y efectivamente son de la medida que necesitamos:
+
+
+
+
+
+
+
+SABADO 12 DE ENERO DE 2019 MARITZA BACCA
+En las horas de la mañana hubo una interrupción de energía en las instalaciones del campamento. A las 12:30 del dia todavía estaban los aires acondicionados de campamento sin funcionar. Se llamó a la línea de atención de EPM 4444115 y se hizo el reporte de daño #3192127. (Contrato 10493458). Wilman vino a verificar al campamento pero la falla no era de distribución: el suministro estaba OK. Carlos David, Eduar Mazo y Maritza subimos a verificar en la subestación y encontramos el tablero general de acometidas GBTAAB desenergizado desde la entrada y 2 DPSs por fuera
+
+Encontramos entonces una zarigüeya en el piso, por lo que concluimos que fue un cortocircuito ocasionado por ésta
+El seccionador de protección del correspondiente transformador de potencia estaba abierto en las tres fases y no pudimos reponerlo. Nos llevamos uno de los fusibles para validar existencia en almacenes o en taller y el dia domingo verificar continuidad.

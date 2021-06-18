@@ -1,0 +1,14 @@
+
+SOLICITA: ESTEBAN VASQUEZ                     FECHA: SEPTIEMBRE 02/2015
+
+FAVOR REALIZAR VERIFICACION METROLOGICA A MEGAVATIMETRO UNIDAD 3 DE GUADALUPE 4
+
+2015/08/05
+Se realiza la Inyeccion con la Maleta Trifasica de diferentes valores de Corriente y Voltaje, segun el registro de calidad. 
+Se observa un comportamiento normal, segun la curva de verificacion.
+El registro de esta verificacion se encuentra en la siguiente ruta en el servidor:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTROS.VERIFICACION.GUADALUPE.4\UNIDAD.3.GUADALUPE.4\260596MEGAVATIMETRO.G4.U3
+
+Programador: Oscar Arango - Uaimer Diaz
+Ejecuto: Francisco Gonzalez

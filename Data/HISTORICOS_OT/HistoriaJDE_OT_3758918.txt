@@ -1,0 +1,8 @@
+XI: VERIFICAR Y REVISAR, CONTROL DE A VALVULA, INSTRUMENTOS DE PRESION, SENSORES DE POSISCIÓN VALVULA, BY PASS Y VALVULA MOTORIZADA. 
+
+
+20-septiembre-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+PROGRAMADOR: JOSÉ MONTOYA.
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizó inspección y limpieza a los sensores, se cambiaron conectores cristalizados en la válvula de admisión.

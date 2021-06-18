@@ -1,0 +1,16 @@
+2015/09/08
+
+SOLICITA: ESTEBAN VASQUEZ
+
+REALIZAR VERIFICACION METROLOGICA AL TRANSFORMADOR DE POTENCIA FASE S GUADALUPE 3, BANCO 1 G31.
+
+METROLOGIA E IMAGEN TERMICA
+Se realiza Metrologia y verificacion al Termometro de Temperatura Qualitrol, comprobando cada contacto de control, arranque de ventiladores, alarmas y disparos de devanados. 
+Se realiza imagen termica (inyeccion de temperatura y corriente).
+Se verifica el estado de los termopozos, realizando mantenimiento preventivo y cambiando el aceite de este.
+El registro de la verificacion se encuentra en la siguiente ruta en el servidor, en la carpeta de metrologia:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTRO.VERIFICACION.GUADALUPE.3\UNIDAD.1.GUADALUPE.3\TEMPERATURA.FASES.BANCO.1.G3.U1
+
+Programador: Oscar Arango
+Ejecuto:  Uaimer Diaz - Esteban Zapata - Francisco Gonzalez

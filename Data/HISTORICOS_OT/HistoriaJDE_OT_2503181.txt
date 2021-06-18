@@ -1,0 +1,11 @@
+
+04 DE ABRIL DE 2014
+
+Referente a unidad TR2: 
+
+Estando la unidad parada presenta falla grave regulador de velocidad dejando la máquina sin condiciones de arranque. Se encuentra un condensador quemado en la fuente F1 MCE CHMT que es la de distribución interna y externa del RV. Se repara la fuente y se verifica con condiciones de arranque.
+
+También se encuentra fusible y condensadores fallados en la SAC por lo que se retira y se alimenta el Regulador de velocidad solo por banco de baterías de 125VDC
+Se da giro de prueba a la unidad y se deja todo en condiciones normales de operación.
+
+Informa:  José Montoya - Marlon Carmona - Esteban Vásquez 

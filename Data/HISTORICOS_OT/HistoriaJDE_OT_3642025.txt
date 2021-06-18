@@ -1,0 +1,8 @@
+FECHA: 07/11/2017 SOLICITADO POR: Natalia Urrea - Mario Zapata - Operación G4
+DESCRIPCIÓN: Dentro del recinto del generador de la Unidad 2 de Guadalupe IV se encuentra una cantidad de agua anormal que cae al recinto de turbina. Según lo que se puede observar; el agua proviene del sistema de refrigeración de la unidad.
+
+Programador: Camilo Montagut - 21/12/2017 
+
+Se canalizó las fugas de los otros radiadores que presentaban fuga. La corrección inmediata está supeditada a la espera de los nuevos radiadores que están por llegar en enero del 2018.
+
+Ejecuta: equipo mantenimeinto mecánico UOG

@@ -1,0 +1,22 @@
+3 DE FEBRERO DE 2015
+POR SUGERENCIA DEL SEÑOR JAVIER ALONSO GIRALDO, COLOCAR CONTROL INDIVIDUAL AL LAS BOMBAS DE DRENAJE E INUNDACION DE LA CASA DE MAQUINAS DE GUADALUPE 4.  A LA BOMBA 1, A LA BOMBA 2 Y LA LA BOMBA 3 (INUNDACION).  ESTO DARA MAS SEGURIDAD AL SISTEMA DE DRENAJES.
+
+02/MARZO/2015
+En estos momento se encuentra en modificacion el programa logico de control de las bombas de Drenajes, para implementar la mejora sugerida por el personal electricista.
+
+Programador: Oscar Arango
+
+04/JUNIO/2015
+Se esta a la espera de los materiales para independizar el control individual de cada Bomba. Los materiales en si son : Pulsadores, selectores, cable de control y un modulo de salidas y entradas digitales para el PLC local de control.
+
+Programador: Oscar Arango
+
+25/SEPTIEMBRE/2015
+Los materiales para comenzar el trabajo en las bombas de drenaje ya llegaron. Por disponibilidad del recurso humano se programara este trabajo para ejecutarlo despues de la segunda semana de Octubre, para terminar el overhall de la unidad G31.
+
+Programador: Oscar Arango
+
+07/ABRIL/2016
+se decide realizar lo selectores para la independizacion del control de cada bomba, de forma virtual. esto quiere decir que se realizo la programacion de control dentro de la ihm, en un despliegue nuevo. Se decidio realizar esto pues ya se tiene una IHM con suficiente memoria y muy robusta para soportar esta aplicacion.
+
+Programador: Oscar Arango

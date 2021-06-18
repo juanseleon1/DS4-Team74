@@ -1,0 +1,8 @@
+Planeador: Uriel Casas
+Aprobador: Juan Alejo Osorio
+Fecha de creacion: 29/08/2017
+Tipo de Mantto: Preventivo
+Acciones de mantto preventivo a realizar:
+---Recorrido por los componentes de la presa: Cresta, taludes,estribos,vertedero, compuertas,
+---Se realiza lectura al medidor ppal de infiltraciones
+---Descargar informacion en la base de datos

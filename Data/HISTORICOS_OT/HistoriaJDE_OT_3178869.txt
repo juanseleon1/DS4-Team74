@@ -1,0 +1,10 @@
+18/07/2016.
+
+SOLICITANTE:TURNO 1.
+
+EN EL PANEL DE CONTROL CO2 GENERADORES ESTÁ PRESENTE LA ALARMA GROUND FAULT (FALLA A TIERRA)VDC 125 ON GUADALUPE IV. 
+
+4-08-2016
+PROGRAMO JOSE MONTOYA
+se revisan todos los sensores de llama de los generadores y se encuentra una linea haciendo contacto con el chasis , se corrige y queda trabajando bien.
+EJECUTO PERSONAL INTERFIRE

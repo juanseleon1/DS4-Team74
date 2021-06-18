@@ -1,0 +1,9 @@
+11 DE JULIO DEL 2018
+PREVENTIVO SERVICIOS AUXILIARES CONTROL UNIDAD GENERADOR GUADALUPE III
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo a los gabinetes del tablero TPU, realizando limpieza, ajustes en las conexiones de control y potencia, verificación visual e inspección en todo el sistema de potencia.
+
+Ejecutaron: Edgar Rodas-Sergio Areiza
+Programo: Carlos Andres Forero

@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2017-09-29 REALIZÓ: JHONATAN ANDRES USME - BRANDON VELASQUEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3580377, PASO:1          
+Se realizó mantenimiento al motor de ventilador s9    CORRIENTE: R:45, S:45,4, T:43,4, VOLTAJES RS:442, ST:439, TR:439,TEMPERATURA MAXIMA DE MOTOR 63°C Se realizó inspección termografica y se encontró punto caliente en la fase T en la peineta de salida, se crea OT correctiva: 3616001

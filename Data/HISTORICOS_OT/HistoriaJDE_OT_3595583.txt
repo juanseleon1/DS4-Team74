@@ -1,0 +1,22 @@
+ 
+SE OBSERVA FUGA DE ACEITE EN TUBERIA DENTRO DEL TANQUE SUMIDERO ESTACION HIDRAULICA, ADEMAS SE PRESENTA UNA TEMPERATURA MAYOR A LA NORMAL 61°C.
+SE LE INFORMA A LOS LIDERES MECANICOS.
+
+FECHA: SEPTIEMBRE 15 - 2017.
+ 
+INFORMA: TURNO 1.
+
+PROGRAMADOR FRANCIS LONDOÑO, 2017-09-14
+Dada la fuga de aceite reportada ayer en la estación hidráulica a las 10:00 am, específicamente por el puerto X de la válvula 30A (detector de presión de intermitencia), se registró hora a hora los tiempos de operación de la bomba en vacío, en carga de presión, y la temperatura del aceite. Esto con el fin de valorar la criticidad y programar el paro de la unidad para su corrección. Con la unidad cargada a 135MW estas variables se mantuvieron estables y sus promedios fueron: 
+
+tiempo bomba en vació: 49 segundos, 
+tiempo bomba en carga de presión: 5 segundos, 
+temperatura aceite: 58°C. 
+
+Hoy, se solicitó re despachó de los periodos 11, 12 y 13 para realizar la corrección de la fuga. Se evidenció falla de los orings de los acoples de los puertos X y P de la válvula 30A, los cuales se cambiaron, quedando de este modo corregida la fuga. La unidad se entrega nuevamente sincronizada y con 90MW a las 11:01. Las variables monitoreadas con la unidad nuevamente en 135MW quedaron así: 
+tiempo bomba en vació: 80 segundos, 
+tiempo bomba en carga de presión: 4 segundos, 
+temperatura aceite en 54°C.
+
+Ejecutó: Juan Gilberto Tobón, Francisco Guinguer.
+Informó: Santiago Ramírez.

@@ -1,0 +1,25 @@
+INSTALAR MANODENSOSTATO EN FASE A BANCO 2  P3
+FECHA PLANEACION MANTENIMIENTO: 19/11/2018
+NUMERO DE CONSIGNACION:
+
+N°OT: 
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: NESTOR FABIAN OCHOA
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el miércoles 28 de noviembre de 2018 a las 7:00 am
+
+29/11/2018
+
+se reqaliza la verifdicaciòn en campo y no se es posible instalar el manodensostato en el banco 1. 
+se realiza el levantamiento de la informaciòn pertinente para una pròxima parada del banco realizar la instalaciòn del instrumento y habilitar los disparos por los cantactos secos del intrumento. 
+por otro lado se verificò la calidad del gas sf6 y se ajusto presiòn, a 4.6bas de gas sf6. 
+se realizò mantenimiento al instrumneto. 
+
+Nestor Ochoa. 

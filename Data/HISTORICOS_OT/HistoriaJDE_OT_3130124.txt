@@ -1,0 +1,14 @@
+2016/02/17 RUBEN ARBOLEDA
+OT creada para normalizar la unidad 6, despues de siniestro de los cables BICC en la estacion 1, el 15 de febrero, 
+
+Se desmonta el barraje que conecta el transformador con la unidad a la altura de la conexion para servicios auxiliares de casa de maquinas con el fin de aislar electricamente la unidad del transformador, 
+
+Se pone en servicio la unidad y se alimentan los servicios auxiliares de casa de maquinas. 
+
+Realizó: Oscar Giraldo - Cesar Hoyos
+
+2016/05/31 ANGEL ADONIS CADAVID OCHOA
+SE CREA OT PARA CONECTAR BARRAJE
+
+2016/06/14 RUBEN ARBOLEDA
+Se realizo la revision y normalización del barraje de salida, los tiempos quedaron registrados en la OT: 3135862

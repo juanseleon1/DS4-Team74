@@ -1,0 +1,9 @@
+
+SEPTIEMBRE/22/2014
+Se le da arranque en remoto y a continuación se le da paro también en remoto para ver su comportamiento en el programa del controlador.
+Una vez parada la unidad, se observa tanto en software como físicamente que los servicios auxiliares fueron desconectados correctamente.
+Se recomienda que cuando se realice una parada en remoto, no desconectar frenos ni pasar la unidad a Local Manual, esperar que la unidad 
+este parada completamente, ya que de lo contrario, interrumpe el programa y por esta razón no desconecta servicios auxiliares.
+
+Cesar Tulio Jiménez
+Luis Eduardo Arcila 

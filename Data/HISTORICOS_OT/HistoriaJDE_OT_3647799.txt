@@ -1,0 +1,23 @@
+PLANEADOR: JTOBONC, 2017-06-12
+
+REVISAR  BOMBA VPI 1 POR PRESENTAR FUGA DE AGUA POR SELLO MECANICO.
+
+PROGRAMADOR:JTOBONC , 2017-06-12
+ 
+SE FABRICA Y CAMBIA CAMISA DE SELLO MECÁNICO.
+
+SE CAMBIA SELLO MECANICO POR DESGASTE, EL CUAL PRESENTABA FUGA DE AGUA
+ 
+
+EQUIPO QUEDA EN CONDICIONES OPERATIVAS.
+
+PROGRAMADOR:JTOBONC , 2017-12-14
+POSTERIORMENTE SE DEBE DESMONTAR LA BOMBA POR PROBLEMAS DE VIBRACIONES, LA BOMBA SE ENCUENTRA DESARMADA A LA ESPERA DE REPUESTOS. ESTA OT SE CIERRA PARA GENERAR UNA NUEVA EN EL 2018 Y CONTINUAR LOS TRABAJOS DE REPARACION
+
+PROGRAMADOR: FRANCIS LONDOÑO, JUAN G. TOBÓN, 17-08-2017
+Referente a bombas pozo de infiltraciones:                                                   
+Se hace entrega a operación de bomba VTA-1 luego de realizar trabajos correctivos de reparación, se realizan pruebas en manual presentando buen comportamiento. 
+Queda a cargo del equipo electrónico para la habilitación en el control de CCM4. OT3698982                                                                                                 Realiza: Equipo de operación y Mtto UO Porce                                                              
+Informan: Francis Londoño - Juan Tobón    
+                         
+          

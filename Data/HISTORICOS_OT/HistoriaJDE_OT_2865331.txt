@@ -1,0 +1,15 @@
+
+SOLICITANTE: EQUIPO METROLOGIA                FECHA: SEPTIEMBRE/2/2015
+
+REALIZAR VERIFICACION METROLOGICA A TRANSDUCTOR POTENCIA U3 G4
+
+2015/09/02
+Se realiza la Inyeccion con la Maleta Trifasica de diferentes valores de Corriente y Voltaje y comprobando la salida correcta analoga de 0-10Vdc, segun el registro de calidad. 
+Se observa un comportamiento normal, segun la curva de verificacion.
+El registro de esta verificacion se encuentra en la siguiente ruta en el servidor:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTROS.VERIFICACION.GUADALUPE.4\UNIDAD.3.GUADALUPE.4\116705TRANSDUCTOR.POTENCIA.ACTIVA.G4.U3
+
+Programador: Oscar Arango - Uaimer Diaz
+Ejecuto: Fredy Duarte
+

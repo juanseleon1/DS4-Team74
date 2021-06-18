@@ -1,0 +1,16 @@
+El día jueves 6 de Abril el personal de mantenimiento de la central Guatapé, realizaron las pruebas de control electro hidráulico de las compuertas cilíndricas de Captación y se determina el siguiente estado:
+
+Compuerta de captación torre II Etapa
+
+·Se encuentra que la compuerta estaba cerca de llegar a la posición de recuperación pero aún estaba levantada de los bloqueos.
+·Se revisa el control eléctrico del sistema y se observa que todo está en condiciones normales. 
+·Se procede a verificar el aislamiento del motor y se encuentra en estado normal de aislamiento 42.8 M con respecto a tierra.
+·Se revisan si existen fugas externas y no se observa ninguna fuga.
+·Se realizan las operaciones de control necesarias para recuperar la compuerta y esta operó de forma normal y en automático hasta llegar a posición abierta y posterior paro de la bomba hidráulica.
+·Se realizó un descenso manual despresurizando el sistema para garantizar que la función de recuperación funcionara de forma normal, caso este que fue exitoso. 
+·En conclusión se observa que esta compuerta funciona normal en su parte electrohidráulica y se mantiene abierta en un tiempo superior a 20 minutos que se estuvo en sitio.
+
+Nota: Para las pruebas que se pretenden hacer no habría inconvenientes operativos, siempre que se siga al pie de la letra el manual operativo del sistema.
+
+2018/04/18 RUBEN ARBOLEDA
+Se cierra ésta OT, no se ha continuado por falta de recurso disponible.

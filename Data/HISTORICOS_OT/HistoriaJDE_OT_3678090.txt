@@ -1,0 +1,13 @@
+SOLICITANTE: OPERACIÓN TURNO 3 FG-ARFECHA: 29/01/2018
+
+Referente al control de generadores Troneras: Al momento de entrar las unidades no se encontró respuesta al mando remoto, apareciendo el nivel de control IHM N4 (CCCG) y N3 (Planta) deshabilitados, solo permitiendo control local en las pantallas de unidad. Adicionalmente en la unidad 2 no responde a la entrada de consignas desde el teclado. Se descarta problema del teclado por intercambio con el de la unidad 1, observando que ambos funcionan en esta última, más no así en la unidad 2. Se logra sincronizar y cargar las dos unidades por nivel de IHM N2 (Unidad) y consignas de potencia por pulsos mediante el touch en la unidad 2.
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:JUAN CICEDO
+
+ENERO 29 DE 2018
+
+Referente al control de generadores Troneras: Al momento de entrar las unidades no se encontró respuesta al mando remoto, apareciendo el nivel de control IHM N4 (CCCG) y N3 (Planta) deshabilitados, solo permitiendo control local en las pantallas de unidad. Adicionalmente en la unidad 2 no responde a la entrada de consignas desde el teclado, se descarta problema de este por intercambio con el de la unidad 1, observando que ambos funcionan en esta última, más no así en la unidad 2. Se logra sincronizar y cargar las dos unidades por nivel de IHM N2 (Unidad) y consignas de potencia por pulsos mediante el touch en la unidad 2. Posteriormente en coordinación con el señor Juan Caicedo desde la estación de ingeniería y el señor Marlon Toro desde CCCG se identifica la falla en el tablero +TRCMRIO22, se resetea según su instrucción logrando normalizar el control.
+Informan: Luis Fabián Giraldo - Alex J. Restrepo M.
+

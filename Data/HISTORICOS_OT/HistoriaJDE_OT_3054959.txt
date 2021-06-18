@@ -1,0 +1,16 @@
+21/03/2016
+ABAD DE JESUS RAMIEZ GIRALDO.
+SALE LA ALARMA FALLA COMPUTADOR DE UNIDAD 8.
+AK2-PC 19 FALLA COM ALARMA A LAS 23:00
+
+2015/03/24 ANGEL ADONIS CADAVID OCHOA
+SOLICITUD APROBADA Y DIRECCIONADA AL EQUIPO ELECTRONICO
+
+2016/04/6
+Se encuentra fallada la tarjeta DSBC 172; Se envia a RPM para su respectiva reparación ya que en el almacen no contamos con este repuesto.
+LEARCILAS 
+
+2016/04/26
+Se coloca tarjeta reparada DSBC172 y se carga de nuevo el programa quedando el controlador en condiciones normales de operacion.
+Se encontró tambien una tarjeta análoga DSAI130 en falla. Se cambia por una de repuesto en buenas condiciones.
+LEARCILAS

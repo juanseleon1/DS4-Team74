@@ -1,0 +1,11 @@
+MARZO 07 DE 2019  OT: 3814424 PROGRAMO: JBECERF EJECUTO: ALEXANDER VILLA
+
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, ACTIVACIÓN DE ALARMA Y DISPARO.
+
+Temperaturas de: DEVANADO FASE R U2 HEEquipo 80C 100C 130CS1 80.5 100.5 130.5S2 80.5 100.6 130.5S3 80.5 100.6 130.4Valor programado Alarma: 115CValor programado Disparo: 120CComentarios:Sin novedades
+Temperaturas de: DEVANADO FASE S U2 HEEquipo 80C 100C 130CS4 80.5 100.6 130.4S5 80.5 100.6 130.5S6 80.5 100.6 130.4Valor programado Alarma: 115CValor programado Disparo: 120CComentarios:Sin novedades
+Temperaturas de: DEVANADO FASE T U2 HEEquipo 80C 100C 130CS7 80.5 100.5 130.5S8 80.4 100.5 130.6S9 80.5 100.5 130.5Valor programado Alarma: 115CValor programado Disparo: 120CComentarios:Sin novedades
+
+Temperaturas de: NUCLEO ESTATOR U2 HEEquipo 80C 100C 130CS10 80.5 100.5 130.6S12 80.4 100.5 130.5S14 80.5 100.5 130.5Valor programado Alarma: 115CValor programado Disparo: 120CComentarios:Sin novedades
+
+

@@ -1,0 +1,8 @@
+2018/03/18 RUBEN ARBOLEDA
+Se crea OT para realizar pruebas de carga de puente grúa
+
+2018-03-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3701630, PASO:1          
+Se realizó las pruebas de carga del gancho principal del puente grúa vevey.
+
+2018-03-19 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3701630, PASO:3          
+Se realizó adecuación de pesos y pruebas en modo tándem al puente grúa Badoni.

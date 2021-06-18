@@ -1,0 +1,6 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: ABRIL 04-2015
+EJECUTANTE : PEDRO ROBAYO
+
+Se cambia el modulo 7.9 por estar con problemas la entrada 7.9.2 que corresponde a filtro obstruido de la bomba 2.
+En el módulo 7.8 la salida 1 esta con problemas, esta señal corresponde a la temperatura rodamiento caja multiplicadora.

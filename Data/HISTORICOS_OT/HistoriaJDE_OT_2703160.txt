@@ -1,0 +1,11 @@
+Realizar mantenimiento general y verificacion de la instrumentacion en la estacion Hidraulica del Regulador, verificar los presostatos y manometros de este equipo.
+
+
+23/02/2015
+
+Se realiza verifiacion y mantenimiento a la instrumentacion de la estacion TUH, se intervienen los presostatos de la linea de presion y tanque acumulador, ademas de verificacion en el indicador de temperatura de aceite en el tanque sumidero. se realiza este mantenimiento verificando los puntos de alarma y disparo, ademas de la verifiacion de la correcta señalizacion en un rango de desviacion maximo de +/- 0.5
+
+Realizado por Wtobonl
+
+
+

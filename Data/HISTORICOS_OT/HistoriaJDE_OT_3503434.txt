@@ -1,0 +1,13 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+MANTENIMIENTO CUATRIMESTRAL COJINETE INFERIOR
+14-06-2017
+PROGRAMADOR JOSE MONTOYA
+Se realiza mantenimiento a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL 8.45 VDC y el CIPR 8.49VDC.
+Nivel de aceite se encontró en 2.84mm, referenciado con el visor análogo: el nivel patrón es 290mm. 
+Se inyecto señal con el calibrador de procesos para comprobar alarma y disparo de las RTD según formato de instrumentación.
+Se inyectan las siguientes señales
+  COJ GUIA INF °C (RTD) TIG BORNES  (RTD) TIG BORNES  PATRÓN °C ACTE 2 SEG 10  40 40.3 40.3  60 60.3 60.3  80 80.3 80.3  ALARMA  70.6 70.8 DISPARO  80.9 80.8  
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2017\CUATRIMESTRALES G3
+Se realiza mantenimiento de cada una de las RTD
+REALIZO: GRUPO DE ELECTRONICA

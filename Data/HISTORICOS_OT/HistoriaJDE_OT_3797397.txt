@@ -1,0 +1,5 @@
+
+
+DICIEMBRE 27/2018 OT: 3797397  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Por presentarse falla Speed Error 2, se observa en las gráficas variaciones en la velocidad en el lado de alta, se realiza el cambio del sensor y se deja en servicio el aerogenerador

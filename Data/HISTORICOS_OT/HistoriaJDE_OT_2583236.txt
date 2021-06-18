@@ -1,0 +1,23 @@
+ESTA OT SE REALIZA PARA EJECUTAR LOS TRABAJOS DE COMPRA, ARMADO Y PUESTA EN SERVICIO DE LOS NUEVOS DRIVER DE LAS AGUJAS DE LOS REGULADORES DE VELOCIDAD DE LA CENTRAL DE GUADALUPE 3.
+
+01/SEPTIEMBRE/2014
+ENSAMBLAJE DE COMPONENTES EN LA TARJETAS DE LOS NUEVOS DRIVER
+Se realizo la soldadura de los componentes semiconductores (resistencias, condensadores etc...) en la tarjeta que se habia realizado anteriormente, la cantidad de tarjetas adquiridas y a ensamblar son 20 unidades.
+
+Programador: William Lopera
+Ejecuto: Marlon Carmona
+
+01/SEPTIEMBRE/2014
+INSTALACION TRANSDUCTOR POTENCIA ACTIVA / REACTIVA JANITZA
+
+Este trabajo contiene varias actividades que se realizaron para lograr la puesta en servicio del transductor:
+1. Se perforo la puerta frontal del tablero del regulador, puesto que el nuevo transductor posee un display para la visualizacion de las variables.
+2. Se cablearon las señales de entrada y salida del instrumento, señal de PT´s, CT´s, salidas analogicas de Potencia Activa y Potencia Reactiva.
+3. Se descableo y se retiro el transductor anterior.
+4. Curva de calibracion e inyeccion de señal, para la verificacion antes de la puesto en servicio del transductor.
+5. adecuacion de borneras, instalacion de cable encauchetado hasta el regulador de tension, adaptacion de las nuevas señales al control del regulador de velocidad.
+6. Elaboracion de planos para la actualizacion en las carpetas definitivas del subsistema.
+7. Puesta en servicio y pruebas en la unidad, con maquina energizada y sincronizada a diferentes valores de potencia activa y reactiva (5MW/5MVAR - 45MW/15MVAR).
+
+Programador: Uaimer Diaz - Oscar Arango
+Ejecuto: Fredy Duarte - Francisco Gonzalez

@@ -1,0 +1,8 @@
+ESTA OT SE HACE CON EL FIN DE DOCUMENTAR EL MTTO PREVENTIVO QUE SE ESTA REALIZANDO POR MEDIO DEL CONTRATO CON LA EMPRESA GENERAL FIRE CONTROL AL SISTEMA CONTRAINCENDIO DE LA CENTRAL RIOGRANDE 1
+
+Central Riogrande 1
+
+·Se realizó la instalación de la válvula de sobre presión. Queda pendiente realizar el cambio por una válvula de más capacidad   
+·Se realiza mantenimiento mensual a tablero de detección de incendios, se evidencia avería en módulo L1M40 Solenoide generador (Solenoide Desconectada)
+·Se evidencio  presencia de agua al interior de la válvula de corte del trafo lo cual genera una señal errada de supervisión en el tablero Gamewell 7100 
+·Se evidencia agua al interior de la caja de módulos de los trafos  ( el contratista corrige e informa que el sistema queda operativo).

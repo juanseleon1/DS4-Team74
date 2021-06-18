@@ -1,0 +1,11 @@
+
+FECHA: MAYO31/2016                   SOLICITA: EQUIPO OPERACION
+
+ Referente a la Planta Diesel de Troneras: En la noche anterior se bloqueó la transferencia de los servicios auxiliares en planta troneras. Luego de verificar todos los sistemas se encontró la planta diésel de emergencia alarmada por bajo voltaje de baterías   18.6 Vcc. 
+Se procedió a darle reset al display del control de la planta diésel. Y luego se apagó y encendió nuevamente el cargador de baterías, de inmediato se elevó el voltaje de carga a 22.3Vcc pero este voltaje no es suficiente para darle arranque al motor de la planta. Se realizaron tres intentos de arranque y no fue posible. Luego se revisó el estado de los fusibles (8 A) de protección del cargador y se encontró uno quemado. 
+Se informó al centro de control y se hace anotación en la bitácora de la planta.
+Por ahora queda la planta sin el respaldo de la planta de emergencia ya que esta no arranca. 
+
+SE REALIZA EL CAMBIO DEL FUSIBLE Y SE NORMALIZAN LOS VOLTAJES Y TAMBIEN SE BORRAN LAS ALARMAS, LA PLANTA QUEDA EN CONDICIONES NORMALES DE TRABAJO.
+
+REALIZO: GRUPO DE ELECTRONICA

@@ -1,0 +1,6 @@
+MAYO 25/2015
+SE DETECTA ALARMADO LED QUE INDICA BAJA PRESION DE SF6 .
+
+2015/05/29 YEISON ORTEGA - JHONATAN USME - RUBEN ARBOLEDA - SERGIO OLIVARES OT: 2775292
+Se realizó recuperacion de la presión de SF6 en el interruptor, se encontró en 2.5 Kg y se 5 Kg de presión. 
+Con lo anterior borró la alarma que estaba presente por baja presión, se evidenció falla en el manometro con relación a los demás interruptores, se realizó solicitud: 2780075

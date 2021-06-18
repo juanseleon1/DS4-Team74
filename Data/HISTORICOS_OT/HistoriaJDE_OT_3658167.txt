@@ -1,0 +1,10 @@
+2017/12/11. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE AL MOMENTO DE PRESENTARSE LA ALARMA 2 EXCITACIÓN, EL REGULADOR DE TENSIÓN SE PASA A MANUAL. 
+EN EL SILCO 5 SE REGISTRA LO SIGUIENTE "53 * PT FAILURE DETECTOR ALARM".
+
+2017/12/11 Cesar Tulio / Luis Eduardo Arcila
+Se revisa el regulador encontrándose en condiciones normales. Alarma sale muy eventualmente.
+En el momento no presenta ninguna alarma, y los tiristores ni la tarjeta GPA presentan falla.
+Queda pendiente revisar la conexión de los PT´s en una parada de máquina.
+Queda regulador bajo observación.

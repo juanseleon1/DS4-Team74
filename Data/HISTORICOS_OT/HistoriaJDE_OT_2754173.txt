@@ -1,0 +1,26 @@
+DESCRIPCIÓN DEL FALLO:
+La compuerta instalada actualmente en la unidad 4 es la compuerta original de la unidad 2. Ésta compuerta se instaló en el 2013 ya que la compuerta nueva destinada para la unidad 4 se instaló en la unidad 2 por optimización del tiempo de montaje. Durante este mantenimiento se evidenció deterioro del recubrimineto anticorrosivo de las compuertas de las unidades 1 y 2 instaladas respectivamente en las unidades 3 y 4.
+ATENCIÓN:
+Se planeo extraer las compuertas de las unidades 3 y 4 para pintarlas entre el 6 y 8 de junio de 2015 e instalarlas el 7 y 9 de Agosto. La preparación de superficies y aplicación de la pintura la realizará un contratista.
+Jefe de trabajo: Santiago Ramírez.
+Lider Mecánico: Renato Montoya
+EJECUCIÓN:
+Las compuertas fueron extraidas entrel el 11 y 16 de Junio de 2015.
+
+Entre el 17 y 19 de Junio se lavaron con hidrolavadora.
+
+Entre el 22 de Junio y 3 de Julio se realizò correctivo en las guias laterales de las 2 compuertas (ver informe en \\Epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO\18. MTO COMPUERTAS DESCARGA 2015\INFORMES)
+
+Entre el 6 y 12 de Julio se instalò cerramiento y se dispusieron los equipos necesarios para el sandblasting y pintura, por parte del contratista Corrosiòn y protecciòn. El contrato fue CT-2015-001323.
+
+Entre el 13 de Julio y 13 de Agosto se realizaron los trabajos de sandblasting y pintura por el contratista.
+
+La preparaciòn superficial y pintura se realizò deacuerdo a las especificaciones de pintura de IMPSA. 
+
+El informe detallado de este trabajo puede ser consultado en el servidor de Porce en la siguiente dirección:
+
+\\Epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO\18. MTO COMPUERTAS DESCARGA 2015\INFORMES
+
+La compuerta fue instalada entre el 14 y 16 de Agosto.
+
+Informó: Santiago Ramìrez.

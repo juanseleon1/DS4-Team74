@@ -1,0 +1,20 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMADOR: DANIEL PALACIOS EJECUTANTE: DARIO PUERTA
+
+Se realiza revision al estator de la unidad, se retiran tapas de inspección laterales y la tapa de uno de los tercios para inspección, se toman registros fotograficos, se realizan pruebas electricas (IP, aislamiento, resistencia ohmica, etc)y se llenan registros, el Ing. Gabriel Santiago tambien realiza pruebas al estator de la unidad.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS OCHOA
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y LIMPIEZA Y PRUEBAS ELECTRICAS DEL ESTATOR DE GENERADOR EN LA UNIDAD No 1 DE PORCE 3, SE REPORTARAN LOS HALLAZGOS Y EVIDENCIAS FOTOGRAFICAS Y RESULTADOS DE LAS PRUEBAS ELECTRICAS Y FIBROSCOPIA DEL ESTATOR, FALLAS EN LOS EQUIPOS Y COMPONENTES DEL ESTATOR DE GENERADOR.
+INFORME MTTO BIENAL UNIDAD 4 PORCE 3 29 NOV 2018
+Referente a la Unidad N° 4: Mantenimiento terminado el día 29 a las 23:00 Se entrega para operación la unidad N°4 , después del mantenimiento bienal. Se realizaron los siguientes trabajos:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares y rotor en general).
+ Inspección mecánica del generador (estator, rotor, se realizó la lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina. Se reemplazaron los patines superior axial y un patín radial, inspección de holguras de los alabes móviles en el distribuidor y cámara espiral.
+ Inspección metrológica a la unidad.
+ Pruebas eléctricas al generador: rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de la unidad: Paros Rápidos 86R, Paros de Emergencia 86E1 y 86E2.
+ Se realizó mantenimiento preventivo semestral eléctrico, mecánico y electrónico.
+ Medidas de resistencia de aislamiento en rotor: Antes: 321 K/322VDC y después del mtto: 98.4 M/513VDC.
+ Consignación No @147761, OT 3779281.
+Jefe de Trabajo: Luis Federico Álvarez.                                                                                         Trabajos Eléctricos y Pruebas: Daniel Palacios - Cristian Gómez.                                                 Trabajos Electrónicos: Carlos Sánchez - Néstor Ochoa.                                                                Trabajos Mecánicos: Oscar Parra y Renato Montoya.

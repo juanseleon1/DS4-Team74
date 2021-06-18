@@ -1,0 +1,9 @@
+Viernes, 9 de octubre de 2015 - Orlando A. Correa Santamaría
+
+Fuga considerable de aceite por la válvula de cuatro vías en la unidad 3.
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza la corrección de la fuga de aceite que se preesntaba en este quipo. Fue necesario cambiar la empaquetadura de las camaras de cierre y apertura, al igual que el oring del vástago
+
+Ejecuta: equipo mantenimiento mecánico GIII

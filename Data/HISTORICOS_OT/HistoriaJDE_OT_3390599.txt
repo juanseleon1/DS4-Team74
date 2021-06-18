@@ -1,0 +1,7 @@
+SOLICITANTE: TURNO 3 OPERACIÓN G4 FECHA: 08/02/2017
+
+Planta de emergencia C/M G4 presenta falla general de operación, no arranca automática ni manualmente.
+
+08-02-2017
+programador jose montoya 
+se revisa y se encuentra navegador bloquedo, alarma bajo nivel refrigerante y advertencia comunicacion 485 oscilando , se des energisa el control y se inicia nuevamente, se hace reset a la alarma y se arranca en manual por 10 minutos, queda presente  advertencia, en el navegador solo queda visualiza ADVERTENCIA REGISTRO SUCESO -CTRL GR ELECTROG 1- codigo SPN 3581 FMI 11 correspondiente a fallo trans datos SCADA RS-485, queda pendiente realizar contratacion para gestionar el sowftware porque la IHM de la planta se bloqueando

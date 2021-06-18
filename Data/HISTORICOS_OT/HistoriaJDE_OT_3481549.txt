@@ -1,0 +1,10 @@
+FECHA: MAYO 18/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: RONAL ARANGO.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realizan pruebas eléctricas en el rotor: índice de absorción en rotores (DAR), medida de resistencia óhmica en el rotor, estas pruebas se hacen en compañía de personal de la Unidad Operación y Mantenimiento Generación de Energía.
+
+XE: XE:REVISIÓN Y PRUEBAS ELECTRICAS  ROTOR UNIDAD 4 P3

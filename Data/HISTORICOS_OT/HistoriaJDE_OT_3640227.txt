@@ -1,0 +1,6 @@
+
+Fecha: Noviembre 06 de 2017
+
+Solicitante: Henry Giraldo
+
+Se presentan paros por corrientes asimétricas, se realiza prueba de condensadores y se encuentran algunos malos y otros regulares. Se cambian 6 condensadores y 2 relés de protección.

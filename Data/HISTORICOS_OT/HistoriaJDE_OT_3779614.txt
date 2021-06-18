@@ -1,0 +1,6 @@
+FECHA: NOVIEMBRE 14/2018PROGRAMO: DANIEL PALACIOS EJECUTO: DARIO PUERTA.
+
+Se realiza inspección y limpieza al barraje de salida, se realiza inspección y mantenimiento a mallas separadoras del barraje, baquelitas separadoras de barras, conexiones entre barras y estado del aislamiento, también se revisan el estado de los CT´s, de sus conexiones eléctricas en el tablero +CCCTS.
+Trabajo ejecutado por: Dario Puerta, Jhonatan Arango y Milton Vargas
+
+XE: LIMPIAR E INSPECCIONAR BARRAJE ESTATOR GENERADOR UNIDAD

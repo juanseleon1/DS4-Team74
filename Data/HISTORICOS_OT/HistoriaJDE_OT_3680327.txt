@@ -1,0 +1,17 @@
+31/01/2018
+El subsistema de refrigeración # 2 de la unidad # 1, presenta alta temperatura, se cambia por el subsistema # 1. También se evidencia mal funcionamiento en la válvula de 4 vías.
+Horas de servicio: 577
+Horómetro subsistemas:
+Agua tratada: 40739
+Agua cruda:    11076
+*******************************************************************************************************************************************************************
+04/02/2018
+Operación reporta al grupo mecánico del cambio de subsistema  por el mal funcionamiento de válvula 4 vías, se encontró tapa en aluminio deteriorada con fuga de aire, se desmonto y se evidencio tornillo flojo el cual provoco el deterioro de esta, se apretó el tornillo y se cambió la tapa por la del otro subsistema para habilitar nuevamente el subsistema 2 ya que el operador reporta que aún le falta tiempo para cumplir su ciclo de trabajo para lavado. La tapa deteriorada queda montada en el subsistema 1 y pendiente por cambio.
+
+Ejecuta: turno fin de semana mecanico, turno operacion (jorge gonzales, osbaldo lopera).                   Informa: carlos usuga,  mauricio correa
+
+NOTA:
+
+SE LAVA INTERCAMBIADOR Y FILTRO AUTOLIMPIANTE CON AGUA APRESION Y CEPILLO, TAMBIEN SE FABRICA TAPA DE ALUMINIO DE LA VALVULA 4 VIAS LA SE HABIA DESTRUIDO.
+
+REALIZO: LUIS MORALES, GUSTAVO LOPERA, CARLOS AGUDELO

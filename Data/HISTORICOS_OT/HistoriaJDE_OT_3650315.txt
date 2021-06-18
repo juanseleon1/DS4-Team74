@@ -1,0 +1,13 @@
+ VIERNES 21 ABRIL 2017
+
+SE REALIZAN INFORME MENSUAL SOBRE LA RUTA DE INSPECCION DE LOS EQUIPOS AUXILIARES DE LA CENTRAL PORCE III, ESTAS INSPECCIONES SE HACEN EN BASE A UNA RUTINA (PLANILLA DE INSPECCION) Y VERIFICACION DEL ESTADO DE LOS EQUIPOS DE LA CENTRAL PORCE III, DICHA INSPECCION SE REALIZA DE MANERA VISUAL EN EL SCADA, IHM DE LOS PROCESOS Y VERIFICACION EN SITIOS DE LOS EQUIPOS, SI ES POSIBLE HACER MANIOBRAS O VERIFICACION DEL FUNCIONAMIENTO DE LOS MISMO SE DEBE EJECUTAR.
+
+Anomalias encontradas en la inspeccion:
+
+En ejecucion de la inspeccion de los SAUX se abre el cto de la linea R53- 43 en el momento de la apertura del circuito de 44 Kv, la planta Diesel #1 encendió, pero se abrio el interruptor de 480 V. se hizo revision y no se encontro nada anormal, se repuso el breaker y para reestablecer el servicio se hizo necesario hacer las maniobras de forma manual en los interruptores de M.T. y en el Q2 del TDE. ejecutó Turno # 2 de Operación
+
+Referente al Cargador de Baterías CB3: se encuentra con problema Eléctrico ya que no deja reponer el interruptor Q1. Pendiente Revisar.
+
+los demas equipos en el momento de la inspeccion se encontraron en normalidad operativa
+
+REALIZA Y EJECUTA JORGE PEÑARANDA

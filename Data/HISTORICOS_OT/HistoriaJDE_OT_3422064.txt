@@ -1,0 +1,8 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+23-03-2017
+PROGRAMO JOSE MONTOYA
+Se corrigió fuga de aceite en transductor de presión
+Se realizó mantenimiento al tablero de control del regulador hidráulico Y  pantalla de visualización, se encontró todo normal.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+Se realiza verificación y ajuste de la tarjeta AMP2

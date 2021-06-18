@@ -1,0 +1,5 @@
+2017/04/23 RUBEN ARBOLEDA
+La valvula esférica U2 no esponde a la apertura.
+
+2017-04-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3463360, PASO:1-1,1          
+Se realizó revisión al proceso de apertura de la valvula esferica unidad 2, se encontró cable suelto en el presostato 63TP, el cual impedía la apertura de la válvula esférica, se conectó y se realizó prueba de funcionamiento, se dejó en condicione normales.

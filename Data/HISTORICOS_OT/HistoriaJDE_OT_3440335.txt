@@ -1,0 +1,10 @@
+REALIZO: GABRIEL URIBE
+FECHA: 31 MARZO-2017
+OT:     3440335
+NOTA: SE REALIZA AJUSTE DE INDICADOR ANALOGICO FLUJO DE ACEITE CGI SE VERIFICA LA SEÑAL ENTREGADA POR EL SISTEMA SCADA Y AMBAS INDICACIONES QUEDAN SIMILARES, QUEDA PENDIENTE ESPERAR A UN PARO DE UNIDAD PARA PODER VERIFICAR EL CERO DEL INSTRUMENTO.
+
+
+
+fecha:30/03/2017
+solocitante.fernando gomez m .
+por favor revisar el flujometro de aceite del cojinete inferior de la u2 el cual presenta discrepancia con la medida en el scada hasta de 10L/M. gracias.

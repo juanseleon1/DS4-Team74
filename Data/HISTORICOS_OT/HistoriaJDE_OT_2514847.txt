@@ -1,0 +1,7 @@
+XL: REVISION Y MTTO GENERAL
+DITRIBUCION PRINCIPAL O GENERAL C/M GT
+
+FALTA INSTRUCTIVO DE MANTENIMIENTO PARA LA DISTRIBUCION
+
+2014/08/19 GIOVANNY DIAZ - YEISON ORTEGA - INSPECCION TERMOGRAFICA
+Se realizó inspección termografica a la DG con CCM1 y CCM5 cargados y el chiller 1 en servicio, no se encontro evidencia de puntos calientes. 

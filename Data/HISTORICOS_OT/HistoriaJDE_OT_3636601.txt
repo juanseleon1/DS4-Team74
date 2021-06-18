@@ -1,0 +1,6 @@
+Fecha: Noviembre 8/2017 Programo: Daniel Palacios O. Ejecuto: Frank Cordoba, Julian Giraldo y Olga Viana.
+
+Se hace revisión en el recinto del generador de la iluminación, tomas eléctricas, cableados del recinto, se revisa el estado del sistema de puesta a tierra, el estado de la soportería metálica, revisión de las mallas de separación en barras y punto neutro y se realiza limpieza en la totalidad del recinto (con grupo mecánico y electronico)
+Trabajo ejecutado por: Frank Cordoba, Julian Giraldo y Olga Viana.
+
+XE: INSPECCION Y LIMPIEZA RECINTO GENERADOR UNIDAD

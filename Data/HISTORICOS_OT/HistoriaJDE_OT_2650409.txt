@@ -1,0 +1,7 @@
+2014-12-02. JUAN CARLOS DUARTE MUÑOZ.
+
+Revizar el paro del ventilador M53 en el inversor stand by. Queda parado y, pendiente la alarma falla ventilador UPS en generales de II etapa.
+
+2014-12-02. Luis Eduardo Arcila
+
+Se cambian rodamientos al motor y se realiza mantenimiento, queda trabajando en condiciones normales.

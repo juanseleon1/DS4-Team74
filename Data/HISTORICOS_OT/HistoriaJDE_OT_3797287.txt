@@ -1,0 +1,13 @@
+PLANEADOR : OSCAR ARANGO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 20/12/2018
+
+REALIZAR EL CAMBIO DE LA UPS CON BANCO DE BATERIAS 
+
+DICIEMBRE 20 DE 2018
+Se retira y se instala nueva UPS con banco de bateríaspara nuevo, para el control de las valvulas mariposas de la camara de Guadalupe III, se realizarón pruebas de funcionamiento y autonomia de las baterias respondiendo satisfactoriamente.
+William Lopera.
+
+
+
+

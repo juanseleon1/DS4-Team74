@@ -1,0 +1,25 @@
+
+- FECHA : SÁBADO SEPTIEMBRE 17 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : MARIO RESTREPO - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 3208736
+- ASUNTO : HACER MANTTO MP
+                     * SE REALIZA MANTTO MP Y EN ESTA TAREA SE HACEN LAS CONSIGNACIONES NUEVAS QUE ESTÁN 
+                       PENDIENTES  DESPUÉS DE LA MODERNIZACIÓN
+                     * SE ADJUNTA PLANILLA MANTTO BOMBA DE COMBUSTIBLE.
+
+
+
+   .                                                    Empresas Públicas de Medellín E.S.P. OT No.3112917MANTENIMIENTO AREA GUATAPEPLANILLA PARA REVISION  GENERAL MOTORES Tiempo conservación documento: 2 añosNOMBRE EQUIPO:  DATOS PLACA FECHA: REALIZO: REVISO: APROBO:Motobomba planta diesel POT: 1 HP V: 115 V I: 14,4 A 17 sep de 2016 Mario R / Wilfer H1. MTTO CONTROLES:1.1. MTTO INTERRUPTOR :   SI :            NO : 1.3. MTTO CONTACTORES:   SI______    NO_______   SÍ :       NO :1.2. REVISION CABLEADO:         SI :    NO : 1.4. REVISION CONEXIONES Y TORNILLERIA :      SI______   NO_______     SÍ :            NÓ : 2. MTTO MOTOR:2.1. AISLAMIENTO CON RESPECTO A TIERRA (Debe dar un valor alto, tendiendo a infinito): FASES R-S-T. MW2672.2. VALORES DE VOLTAJE Y CORRIENTE (Comparar con los datos de placa):VOLTAJE CTE ARRANQUE CTE DE FUNC. LINEA VOLTIOS FASES AMP.FASESAMP. LN 110 L 28.6 A R 8.5 " " " " " " " "  2.3   TEMP. EXCESIVA CARCAZA:    SÍ:                   NÓ :                           TEMP. EXCESIVA COJINETES :    SÍ :             NÓ :               VIBRACIÓN ANORMAL :           SI :                NÓ :                  RUIDO ANORMAL :                   SÍ :             NÓ :  3 . CALIBRACIÓN TÉRMICO CONTROL :            12.5 A  CALIBRACIÓN TÉRMICO POTENCIA:  12 A 4. FUNCIONAMIENTO CONTROL NORMAL :   SÍ :                    NÓ : 5. HOROMETRO: N/A6. OBSERVACIONES:  Medida de aislamiento sin acometida 267 Moh,, equipo utilizado Megger mit 420 Medida de aislamiento con acometida: 61,5 Mohm, La bomba queda operando normalmente en la parte electrica, Tiene un condensador de 534 µFNOTA:  Se observo un pequeño derrame de combustible junto a la motobomba, no se evidencio que esta  tuviera fugas mientras la teniamos en servicio,Se realiza limpieza y ajustes a borneras en general. 
+- FECHA : SÁBADO SEPTIEMBRE 17 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : MARIO RESTREPO - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 3208736
+- ASUNTO : HACER MANTTO MP
+                     * SE REALIZA MANTTO MP Y EN ESTA TAREA SE HACEN LAS CONSIGNACIONES NUEVAS QUE ESTÁN 
+                       PENDIENTES  DESPUÉS DE LA MODERNIZACIÓN
+                     * SE ADJUNTA PLANILLA MANTTO BOMBA DE COMBUSTIBLE.
+
+
+
+   .                                                    Empresas Públicas de Medellín E.S.P. OT No.3112917MANTENIMIENTO AREA GUATAPEPLANILLA PARA REVISION  GENERAL MOTORES Tiempo conservación documento: 2 añosNOMBRE EQUIPO:  DATOS PLACA FECHA: REALIZO: REVISO: APROBO:Motobomba planta diesel POT: 1 HP V: 115 V I: 14,4 A 17 sep de 2016 Mario R / Wilfer H1. MTTO CONTROLES:1.1. MTTO INTERRUPTOR :   SI :            NO : 1.3. MTTO CONTACTORES:   SI______    NO_______   SÍ :       NO :1.2. REVISION CABLEADO:         SI :    NO : 1.4. REVISION CONEXIONES Y TORNILLERIA :      SI______   NO_______     SÍ :            NÓ : 2. MTTO MOTOR:2.1. AISLAMIENTO CON RESPECTO A TIERRA (Debe dar un valor alto, tendiendo a infinito): FASES R-S-T. MW2672.2. VALORES DE VOLTAJE Y CORRIENTE (Comparar con los datos de placa):VOLTAJE CTE ARRANQUE CTE DE FUNC. LINEA VOLTIOS FASES AMP.FASESAMP. LN 110 L 28.6 A R 8.5 " " " " " " " "  2.3   TEMP. EXCESIVA CARCAZA:    SÍ:                   NÓ :                           TEMP. EXCESIVA COJINETES :    SÍ :             NÓ :               VIBRACIÓN ANORMAL :           SI :                NÓ :                  RUIDO ANORMAL :                   SÍ :             NÓ :  3 . CALIBRACIÓN TÉRMICO CONTROL :            12.5 A  CALIBRACIÓN TÉRMICO POTENCIA:  12 A 4. FUNCIONAMIENTO CONTROL NORMAL :   SÍ :                    NÓ : 5. HOROMETRO: N/A6. OBSERVACIONES:  Medida de aislamiento sin acometida 267 Moh,, equipo utilizado Megger mit 420 Medida de aislamiento con acometida: 61,5 Mohm, La bomba queda operando normalmente en la parte electrica, Tiene un condensador de 534 µFNOTA:  Se observo un pequeño derrame de combustible junto a la motobomba, no se evidencio que esta  tuviera fugas mientras la teniamos en servicio,Se realiza limpieza y ajustes a borneras en general. 

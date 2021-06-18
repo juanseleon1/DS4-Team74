@@ -1,0 +1,5 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: AGOSTO 10-2015
+EJECUTANTE: GERMAN ECHAVARRÍA
+
+Se baja el módulo de frecuencia y el banco de tiristores del AG9 y se coloca en el AG12 para realizar una prueba de arranque y descartar que estos componentes sean los que esten generando alarma de velocidad. Al realizar la prueba la alarma sigue apareciendo, se continua con la busqueda del problema.

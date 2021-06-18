@@ -1,0 +1,6 @@
+Se requiere el montaje de CT's de medida para la adecuación de un sistema de medición multifuncion de consumo de excitación. 
+
+Se reealizó el montaje de CT's y conexión de elementos desde el contador multifuncional en tableror de control de Unidad 4. 
+
+Realizó: Juan David García - Giovanny Diaz - Guillermo Cordoba - Sebastian Hincapie. 
+Planeó: Ruben Arboleda

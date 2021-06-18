@@ -1,0 +1,15 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+15-02-2017
+PROGRAMADOR JOSE MONTOYA
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan calibrados así: CTPL 9.34 VDC y CTPR 9.17 VDC   - KPH: 8.98 VDC.
+Nivel cojinete de turbina se encontró referenciado con la varilla “ Normal” . 
+El instrumento no muestra, estamos pendientes del desarme del cojinete para su revisión interna.
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina, según el formato de instrumentación:
+Se inyectan las siguientes señales
+COJ GUIA TURB °CPATRÓN °C ACTE 1 SEG 140 41.7 41.760 61.7 61.780 81.7 81.7ALARMA 70.6 70.2DISPARO  80.5 80.5
+
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3
+
+Se realizó limpieza e inspección visual a las RTD del cojinete. 

@@ -1,0 +1,27 @@
+2014/08/28 RUBEN ARBOLEDA
+Se realiza reprogramación de fecha, desde el 27-08-2014 hasta el 29-08-2014, ya que el personal se encuentraba realizando actividades de: 
+Revisión de Cables BICC, 
+Aseo limpieza y correctivo a iluminación de torres de captación. 
+Tarde Deportiva y capacitación al personal de bridaga referente al manejo de equipo desfibrilador portatil. 
+
+2014/09/17 MARIO RESTREPO - FERNANDO RUIZ
+Se realizó inventario de lamparas con tubos en U, para un total de 54 tubos entre malos y quemados, en total en la subestación hay una existencia de 107 lamparas con tubos en U, por lo tanto se toma la desición de realizar proceso de catalogación de repuestos para la central Guatapé.
+
+2014/09/18 RUBEN ARBOLEDA - CATALOGACIÓN
+Se realizó proceso de catalogación con la unidad de catalogación de EPM, con lo siguientes parametros: 
+Código:  95420 
+Descripción:  TUBO FLUORESCENTE EN U 32WT
+Almacén A03 (Guatapé)
+PUNTO DE REORDEN (ROP): 10
+CANTIDAD A PEDIR (ROQ): 30
+Se deja la Ot a la espera de llegada de los elementos al almacén. 
+
+01/06/2015. SERGIO OLIVARES D.
+Se hizo correctivo en la O.T. 2782002, el dia 23 y 24 de mayo 2014, 
+
+2015/06/01 RUBEN ARBOLEDA - CATALOGACIÓN ALMACEN, 
+De: DIEGO LEON CANO RESTREPO Enviado el: lunes, 01 de junio de 2015 3:10 p. m.Para: YENCY PASSOS ALVAREZCC: NICOLAS DARIO ESPINOSA; JOSE DANIEL MORALES SANCHEZ; GILBERTO ANTONIO ZAPATA VELASQUEZ; RUBEN DARIO ARBOLEDA GOMEZ; JOHN JAIRO MEJIA HERNANDEZAsunto: RE: Solicitud de Catalogación A03 OR 1389849Importancia: Alta
+Buenas tardes:
+Se generó y aprobó la OR 1389849 asociada al CDP 158845.
+
+Se deja al pendiente para realizar mantenimeinto exclusivo a las lamparas con tubos en U.

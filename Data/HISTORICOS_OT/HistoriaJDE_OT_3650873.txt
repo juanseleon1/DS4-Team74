@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2017/11/27
+Síntoma: La interface Ethernet del datalogger de la caseta 2 dejó de funcionar, se debe cambiar para reestablecer la comunicacion de la caseta 2.

@@ -1,0 +1,5 @@
+NOVIEMBRE 19 DE 2014 JAIME RAMIREZ, DIEGO BEDOYA
+Se realiza el cambio de los inyectores 2 y 4 para montar los que fueron reparados por Sait, los inyectores quedaron de la siguiente manera en la unidad:
+Inyector N° 2: Se monta el que llegó reparado de Sait con código en placa N° 6011
+Inyector N° 4: Se monta el que llegó reparado de Sait con código en placa N° 6005 
+Estos cambios se realizan con el fin de garantizar el buen funcionamiente de los inyectores reparados por Sait. Tambien se llevaron dos inyectores más para continuar con las reparaciones

@@ -1,0 +1,33 @@
+NPESTANA 2016/02/11
+
+- FECHA : SÁBADO ENERO 23 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FARNCISCO QUINTERO - WILFER HINCAPIÉ - JUAN CARLOS CIFUENTES DE LA CUADRILLA MÓVIL - MARIO G. B.
+- ASOCIADO A LA OT :
+- ASUNTO : TURNO DE OPERACIÓN CM ( JHON JAIRO CORREA - RUBÉN PALACIO ) REPORTAN QUE HAY UNA FALLA EN LOS VENTILADO-
+           RES DE LA EXCITACIÓN ASOCIADOS AL REGULADOR DE TENSIÓN. 
+           * PRESENTA ALARMA Y CONMUTACIÓN DE VENTILADORES: CONMUTA DE VENTILADORES M301 - M302  A LOS VENTILADORES
+             M303 - M304 
+           * SE REVISA Y SE ENCUENTRA : 
+             - MINIBREAKER -Q302 ASOCIADO A CONTROL Y POTENCIA DE LOS VENTILADORES M301 - M302 Y ASOCIADO A CONTROL
+             DE LOS VENTILADORES M303 - M304 DISPARADO.   
+             - SE INTENTA REPONER Y NO LO PERMITE
+             - SE REVISA RELÉ K301 ASOCIADO A CONTROL Y POTENCIA Y ALIMENTADO DESDE MINIBREAKER -Q302 Y SE 
+               ENCUENTRA CON UN VALOR EN OHMIOS MUY ALTO EN SU BOBINA ( 7.6 KOH ) 
+             - SE ABRE BORNE BOBIBA A2 DE RELÉ -K301 Y SE CIERRA MINIBREAKER -Q302: PERMITE HACERLO
+             - SE ABRE DE NUEVO MINIBREAKER -Q302 Y SE RECONECTA TERMINAL A2 BOBINA
+             - SE DECIDE APAGAR TODOS LOS 4 VENTILADORES Y SE ABRE MINIBREAKER -Q304 QUE ALIMENTA POTENCIA DE LOS 
+               VENTILADORES M301 - M302 SELECCIONADOS COMO PRINCIPAL 
+             - SE DESCONECTA LEGADA POTENCIA DE LOS 4 VENTILADORES SOLTANDO CN1
+             - SE CIERRA MINIBREAKER -Q302 : PERMITE HACERLO SE ABRE DE NUEVO
+             - SE RECONECTA PEINETA CN1
+             - SE CIERRA MINIBREAKER -Q302 : PERMITE HACERLO
+             - SE CIERRA MINIBREAKER -Q304 : PERMITE HACERLO 
+            * LUEGO DE HACER ESTE PROCEDIMIENTO SE ARRANCAN VENTILADORES M303 - M304 Y SE CONMUTA A VENTILADORES
+              M301- M302 QUEDANDO COMO PPAL A TRAVEZ DEL RELE SELECCIÓN -K302 SEGÚN CONTROL
+            * LO ÚNICO QUE SE VE ANORMAL ES EL VALOR DE LA BOBINA ( LO NOTAMOS MUY ALTO ) SE DEBE OBSERVAR SI SE 
+              PRESENTA DE NUEVO ESTA FALLA Y ENTRAR A CAMBIAR ESTE RELÉ PARA PROBAR INICIELMENTE.
+            * SISTEMA QUEDA OPERANDO NORMAL Y EN OBSERVACIÓN.
+1. El Viernes 22 y sábado 23 se presentó dos alarmas asociadas al regulador de tensión de la U1PL.  Luego del análisis del problema, se decidió cambiar los ventiladores del banco de tiristores No. 1 de los cuales se encontró dos pegados y uno deficiente, el cual se paraba en operación. El sistema queda operando correctamente.
+
+2. De la revisión de la segunda alarma, se encontró que una de las unidades Multican 2.1 estaba fallada. Esta unidad (asociada a la CPXCan 2.1 No. 1) no respondió al apagado/reset de la falla y en ningún momento arrancó a correr el programa. La U1PL queda funcionando correctamente con la CPXCan No. 2 y MultiCan No. 2. Se retiró del Almacén una nueva unidad MultiCan 2.1 para cambian la fallada. Queda pendiente hacer esta tarea por oportunidad.

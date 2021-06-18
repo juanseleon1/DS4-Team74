@@ -1,0 +1,7 @@
+
+FECHA: SEPTIEMBRE 13 DE 2015  OT: 2875185
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+El día de ayer se quedó pegado el contactor 17K2, hoy se procede a despegarlo, se encontró abierto uno de los cables que  llegan al puente de diodos, se corrige esta falla.

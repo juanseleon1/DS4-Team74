@@ -1,0 +1,7 @@
+XM: VERIFICAR Y REVISAR, MECANICAMENTE LA VALVULA DE ADMISION.
+
+Programador: Camilo Montagut - 07/06/2016
+
+Se revisa el nivel del tanque de aceite (apertura y cierre de la válvula mariposa). Se inspecciona tubería y bridas de agua y aceite encontrándose en buenas condiciones. Además se realiza limpieza en toda la valvulería del actuador de la válvula de admisión y finalmente se realiza engrase de las partes móviles del mismo equipo                                                                               
+
+Ejecuta: equipo mantenimiento mecánico GIII

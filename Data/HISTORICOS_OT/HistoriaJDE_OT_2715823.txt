@@ -1,0 +1,9 @@
+
+2015-03-11
+
+La señal U8-8.19 no aparese en las estaciones de operacion correspondiente a Nivel Aceite Coj. de Turbina.
+ 
+Se revisa y se encuentra el relay 71QTGLX con problema en uso de sus contactos, se reemplaza con otro, quedando la señal 
+en condiciones normales.
+
+LEARCILAS

@@ -1,0 +1,9 @@
+
+FECHA: FEBRERO 11 DE 2016 OT 3012581
+
+EJECUTANTE: HENRY GIRALDO, ELISAUL FUENTES Y PEDRO ROBAYO
+SOLICITANTE: HENRY GIRALDO
+Por presentarse falla de fase Shift Error se realiza inspección y megeo del generador para comprobar el estado de los devanados, se encontró todo en buenas condiciones, también se realiza inspección del contactor de potencia 17K2.
+Se presenta alarma por alta temperatura en Top Box 2, se revisa y se encuentra el A/C malo, se deja la puerta abierta.
+
+Queda en operación el aerogenerador.

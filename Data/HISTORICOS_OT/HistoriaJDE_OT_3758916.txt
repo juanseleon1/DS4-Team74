@@ -1,0 +1,13 @@
+XM: VERIFICAR Y REVISAR, MECANICAMENTE LA VALVULA DE ADMISION.
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: CAMILO MONTAGUT.
+
+Ot: 3758916   - XM: valvula de admision   - Programador: Camilo Montagut - 15/09/2018
+
+Se revisa el nivel del tanque de aceite (apertura y cierre de la válvula mariposa) y se realiza apriete de la tornillería del prensaestopa al encontrarse una pequeña fuga de agua en el actuador de la misma válvula. Se inspecciona tubería y bridas (agua y aceite) sin encontrar fuga alguna
+
+Ejecuta: equipo mantenimineto mecánico UOG

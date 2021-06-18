@@ -1,0 +1,15 @@
+
+FECHA: NOVIEMBRE 7 DE 2015
+
+EJECUTANTE: HENRY GIRALDO Y JOHN ORREGO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla comunicación controlador superior, después de dar Reset queda fallado por sobre corriente la bomba del agua de refrigeración, se inspecciona y se encuentra el motor de esta bomba pegado se programa para mañana realizar el cambio.
+
+
+FECHA: NOVIEMBRE 08 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y JOHN ORREGO
+SOLICITANTE: HENRY GIRLDO
+
+Se realiza el cambio de la motobomba de agua, se prueba y se deja en funcionamiento.

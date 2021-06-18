@@ -1,0 +1,18 @@
+Lunes 05  de Marzo /2018
+
+
+
+Referente a los filtros del TAST de la unidad 4 : Presentan presion diferencial alta,  el filtro N° 1 en 20 bar, se hicieron maniobras de lavado del filtro pero la presion continua igual. Informa turno 2
+
+
+08/03/2018
+
+Se realiza verificación del transductor de presión diferencial el cual se encuentra en 0.17 BAR , los indicadores locales o manómetros indicando una presión de 3 y 3.1 BAR confirmando el diferencial de presión del transductor, se verifica de igual manera la instrumentación y se realizan pruebas con las válvulas de purga, el personal mecánico evidencias las pruebas  y confirma que es posible que el empaque del sello tenga problemas. 
+
+Realizado por Grupo Electrónico 
+
+Informa WTOBONL
+*******************************************************************************************
+Se hace maniobras necesarias para realizar pruebas en los instrumentos de presión por parte del grupo electronico y calibran los manómetros, finalmente se lavan los filtros, se cambia los empaques tipo oring, se normaliza quedando la presión en 0.00 Bar en ambos filtros. Queda en observación el incremento de presión en estos con relación al periodo de tiempo para su respectivo lavado.
+Ejecuto: Grupo Mecánico
+Informa: Carlos Úsuga

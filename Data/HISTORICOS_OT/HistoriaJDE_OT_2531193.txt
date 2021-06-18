@@ -1,0 +1,6 @@
+
+FECHA: MAYO 15 DE 2014
+
+RESPONSABLE:  PEDRO SOLANO Y PEDRO ROBAYO
+
+Se realizan pruebas al sensor de nivel de aceite de la caja multiplicadora, ya que saca alarma pero el nivel se encuentra, se decide dejar un sensor independiente por fuera con contacto cerrado, ya que la alarma es falsa y se produce mucha indisponibilidad, en las próximas semanas se hará cambio de aceite en esta caja y se verificara el estado del sensor.

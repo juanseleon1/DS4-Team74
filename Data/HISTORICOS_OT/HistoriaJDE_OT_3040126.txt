@@ -1,0 +1,20 @@
+MARZO 07/2016
+UBALDO ACEVEDO OSORIO
+
+DURANTE EL TIEMPO DE TRABAJO LAS VALVULAS DE SOBREPRESIÓN PERMANECEN ACTIVADAS 
+SE LE COLOCAN LAS DEL COMPRESOR 3 Y EL PROBLEMA PERSISTE.
+
+2016/03/15 PROGRAMO MAURICIO QUIJANO
+PRESENTA EL MISMO COMPORTAMIENTO DEL COMPRESOR 3 SE DISPARAN LAS VALVULAS DE SOBREPRESION, DIEGO BEDOYA REALIZA REVISION Y SE VA A ENCARGAR DE REALIZARLE EL MANTENIMIENTO.
+
+2016/06/16 DIEGO BEDOYA
+Se revisa el equipo y presenta problemas en la válvula de seguridad de la segunda etapa y es problema de válvula (el manometro  muestra 260 PSI). El nivel de aceite se encuetra bien, el filtro de aceite esta bien. Hay que realizar mantenimiento al moniful del drenaje. Cambiar válvula de seguridad  de la segunda etapa.
+2017/01/27 DIEGO BEDOYA
+Se desmontan las válvulas de los cilindros de media y alta, se encuentran pegadas por corrosión. Se les realiza mantenimiento a estas válvulas y se montan nuevamente, también se le realiza mantenimiento al cheque que está ubicado a la salida de aire del compresor. Se ensaya y queda trabajando muy bien; ya la válvula de presión no opera constantemente y el compresor carga normal.
+El trabajo fue realizado por Fabio Herrera, Andres Alzate y Diego Bedoya
+
+marzo 25 de 2017 
+
+ot cerrada 
+
+andres ramirez 

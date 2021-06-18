@@ -1,0 +1,5 @@
+REALIZAR PRUEBA DE AUTONOMÍA DE LOS BANCOS DE BATERIAS.
+
+Se hace prueba de autonomía a los bancos de baterias de cargadores y de la UPS de la planta de Guadlupe IV, se encuentran 4 baterias malas del banco de baterias de la UPS, se hace necesario traer un banco de baterias de la casa maquins de Porce, mientras se comprar las baterias malas y recuperar nuevamente este banco e instalarlo de nuevo.
+
+Informa: Jorge Rodríguez 

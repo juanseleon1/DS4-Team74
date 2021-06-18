@@ -1,0 +1,28 @@
+FECHA: 10/10/2018 
+
+DESCRIPCIÓN: UNIDAD NRO. 2 Troneras : Se da paro rápido  por falsa señal en el relé  de tierra rotor. Favor revisar. 
+
+INFORMA: Turno 2  (Gustavo Quintana - Mario Zapata)
+
+
+OCTUBRE 11 DE 2018
+
+PLANEADOR.OSCAR RESTREPO 
+
+PROGRAMADOR:WILLIAM LOPERA
+
+OCTUBRE 17 DE 2018
+Entra en sincronismo la unidad TR2: Referente al relé tierra Rotor TRU2.
+Inicialmente se evidenciaba oscilación en el valor de resistencia del rotor en el display del relé unidad 2 , oscilando en valores entre 800K  y 130K y en varias ocasiones produjo paro de emergencia.
+El personal de la unidad de operación y mantenimiento, Juan David Granada y Carlos Arango, inyectaron en sitio el relé, y se comprobó el correcto funcionamiento y programación del relé comparando diferentes valores de resistencia.
+Se inspeccionaron las conexiones del relé hacia la excitación y se encuentra un cable con el aislamiento expuesto, el cual estaba tocando el ventilador de la excitatriz. Se aísla el cable y se adecua en el recinto. Se realizan pruebas en vacío, se energiza y se evidencia comportamiento normal del relé, y sin oscilaciones.
+Se sincroniza la unidad y se entrega al grupo de operación.
+Para este trabajo se solicitaron dos periodos de re-despacho 10-11.
+
+Ejecutó: William Lopera  Carlos Forero  Uaimer Díaz  personal Operación y mantenimiento.
+Informó: Oscar Arango 
+       
+OCTUBRE 11 DE 2018.
+Por presentar paro de emergencia 1 y 2 disparo tierra rotor en varias ocaciones, se retiran las escobilas del rotor y se hace prueba de resistencia de aislamiento desde los anillos rozantes dando como resultado 6.21 Giga Ohmios. Se cambia el relé de protección PR3 para descartar si el relé de disparo que va a las protecciones esta conmutando por si solo, se programa y se monta un nuevo relé del almacen, se conecta y se hacen pruebas con una resistencia de 5 Kilo Ohmios desde a excitación comprobando su correcto funcionamiento y obrando correctamente las protecciones. Se sincroniza nuevamente la unidad y se evidencia  que cuando la unidad esta sincronizada se ve mucha oscilación en la medidad de resistencia en el relé, comensando desde maximo, 900 y bajar hasta 143 Kilo Ohmios. Queda en observación.
+Realizó: Jhon Mario Morales -  William Lopera.
+Informó: William Lopera.

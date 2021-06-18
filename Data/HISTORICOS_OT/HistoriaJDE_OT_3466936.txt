@@ -1,0 +1,10 @@
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios
+EJECUTO: Ronal Arango.
+PLANEADOR: RMONTOYG
+OT PADRE: 3466843
+CONSIGNACIÓN: @135887
+
+Se realiza inspección, mantenimiento y limpieza al sistema de escobillas y anillos rozantes de la unidad, para esto se retiran las tapas laterales y superior del recinto, las escobillas y porta escobillas, se hace medición de resistencia de aislamiento en los anillos antes y después de lavado (Antes: 5.24/5.36 M. Después: 114/115 M), se toman medidas de la longitud de las escobillas y se llenan registros. Se cambian en anillo superior 10 escobillas y en el inferior 11 escobillas. 
+
+XE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD

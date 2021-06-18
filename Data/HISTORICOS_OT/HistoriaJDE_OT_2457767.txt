@@ -1,0 +1,22 @@
+
+  Se calibrara y se pondra caja de proteccion con candado para el control automatico.
+  Ademas se hara una revision del sistema en general.
+
+Se realizó visita por parte de la empresa OVELMA donde se tuvo recomendaciones y mejoras, se describe el proceso para encende el turco y para apagarlo: 
+
+Instrucciones del manejo del turco de farallones
+Encendido:
+Verificar que la válvula de suministro de agua este abierta
+Verificar que la válvula del reservorio de agua este cerrada 
+Verificar que la válvula de la caldera este cerrada 
+Verificar que los breaker de potencia estén cerrados
+Maniobrar el suiche de control por medio de la llave en el termostato
+Apagado:
+Abrir la llave de control por medio de la llave en el termostato 
+Abrir los breaker de potencia 
+Esperar a que la presión en el manómetro caiga a cero 
+Abrir la válvula de la caldera para desalojar el agua y esperar a que desaloje toda el agua 
+Cerrar la válvula de suministro de agua 
+Abrir la válvula del reservorio de agua.
+Realizó: Nestor Ramirez - Guillermo Cordoba - Personal OVELMA
+Planeó: Sergio Olivares

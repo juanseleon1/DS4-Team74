@@ -1,0 +1,22 @@
+FECHA: DICIEMBRE de 2017 PROGRAMADOR: CRistian a GÓMEZ  ot: 3554305
+se inicia montaje del tablero de potencia y cointrol para el nuevo sistema de aire reguladores p2.
+el montaje del tablero y la acometida de potencia quedan ok
+estamos a la espera del montaje mecánico, tuberia y valvulas.
+-------------------------------------------------------------
+INSTALACIÓN Y MONTAJE NUEVO CONTROL Y COMPRESOR SIS AIRE COMPRIMIDO P2
+fecha de creación: 1 de agosto de 2017  OT: 3554305
+se genera ot para la instalación, montaje y puesta en servicio del control, lineas de presión y nuevo compresor sistema de aire comprimido reguladores porce 2.
+en esta ot se registraran los trabajos eléctricos, mecánicos e instrumentación y electrónicos. 
+
+
+
+
+
+
+
+
+
+
+
+
+

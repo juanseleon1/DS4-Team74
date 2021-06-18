@@ -1,0 +1,5 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 03-03-2017
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: Se retiran Sensores de Caudal Fijo de la Empresa Hydrovision y se Reinstalan Los Equipos Siemens y se cambia Pvm que estaba descalibrado S/N: 97-351 y se Instala Pvm HYDROLOGICAL SERVICES-TB3/0.01” /P-S/N: 00-979

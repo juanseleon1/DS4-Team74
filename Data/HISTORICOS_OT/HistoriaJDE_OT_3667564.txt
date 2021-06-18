@@ -1,0 +1,18 @@
+
+FECHA:  04/01/2018
+
+UNIDAD #1 POR PARO DE COMUNICACION SISTEMA PROTECCINES Y EVENTOS,SE ENCUENTRA FALLA EN LA SECUENCIA DE LA UNIDAD LA CUAL SE ENCONTRABA DETENIDA POR OPERACION, SE INFORMA AL ING WALTER TOBON Y LA UNIDAD NO CONFIRMA ESTADO DE SECUENCIA
+
+SOLICITA: TURNO 2 -
+
+04/01/2018
+Se realiza verificacion las conexiones en el PAS 1 y se encuentra falla en la conexion con el control redudante PAS2, se verifica el equipo fisicamente y se encuentra falla en la fuente de voltaje, se hace necesario modificar la base de datos con la redundancia mientras se hace reposicion de este equipo, la unidad queda operativa con un solo controlador de unidad el PAS 1.
+pendiente por cambio de fuente, ivan cano esta reparando la fuente 
+
+Realizado por WTOBONL
+
+12/01/2018
+Se cambia la fuente de este computador y se normaliza la base de datos, actualizando las comunicaciones y los controles de unidad .
+Realizado por WTOBONL
+
+terminada Cerrar 

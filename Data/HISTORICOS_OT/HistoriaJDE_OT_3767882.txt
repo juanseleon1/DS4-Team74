@@ -1,0 +1,9 @@
+22/09/2018
+
+Referente a la unidad # 1:
+La temperatura de aceite del cojinete combinado está presentando medida errónea, tiene un desfase más o menos de 15 °C tanto en la IHM de la unidad como en el tillquist del TIG. También se evidencia que las señales de temperatura de aceite de los cojinetes combinado y superior, tienen las medidas que llegan al SCADA y la IHM de la unidad trocadas. En la medida del cojinete combinado está mostrando la variable de la RTD 71 que corresponde al cojinete superior y en la medida del cojinete superior está mostrando la variable de la RTD 70 que corresponde al cojinete combinado. 
+Queda pendiente su respectiva revisión por parte del grupo de mantenimiento.
+Informa: Grupo de operación - Jorge G. - Alex C. - Arley B.
+
+Se revisa y se encontro error en el cableado, se organiza y se verifica su correcto funcioanamiento.
+Realiza: Néstor Ochoa - Julio Parra

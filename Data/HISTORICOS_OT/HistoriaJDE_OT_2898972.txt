@@ -1,0 +1,8 @@
+7 DE OCTUBRE DE 2015 IVAN DARIO ZAPATA GOMEZ
+SE PRESENTA FUGA DE AGUA EN LA TUBERIA QUE VA HACIA EL COJINETE SUPERIOR DE LA UNIDAD 2 DE GUADALUPE 3.
+
+Progamador: Camilo Montagut - 23/10/2015
+
+Se cambia una válvula de 1/2" que presentaba fuga de agua. Esta válvula está ubicada en la tubería de admisión de agua para el cojinete
+
+Ejecuta: equipo mantenimiento mecánico GIII

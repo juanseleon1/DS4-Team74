@@ -1,0 +1,9 @@
+2016/09/30 RUBEN ARBOLEDA
+TAREA: Realizar revisión, limpieza y medidas de aislamiento al tranformador de excitación. 
+
+2016-09-30 REALIZÓ: FARLEY GIOVANNY DIAZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3263558, PASO:1          
+Se realizó limpieza y mantenimiento general al transformador de excitación, se realizó medida de aislamiento por al lado de baja:1,147GOhm con 500VDC y por el lado de alta: 4,45 GOhm con 5000VDC. 2016/09/30 RUBEN ARBOLEDA
+TAREA: Realizar revisión, limpieza y medidas de aislamiento al tranformador de excitación. 
+
+2016-09-30 REALIZÓ: FARLEY GIOVANNY DIAZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3263558, PASO:1          
+Se realizó limpieza y mantenimiento general al transformador de excitación, se realizó medida de aislamiento por al lado de baja:1,147GOhm con 500VDC y por el lado de alta: 4,45 GOhm con 5000VDC. 

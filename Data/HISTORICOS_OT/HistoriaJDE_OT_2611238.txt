@@ -1,0 +1,12 @@
+
+ 2014/10/02 RUBEN ARBOLEDA 
+En la ejecución de la OT: 2608271 se realizó identificación y reparación de lampara luminosa, no se evidenció si antes la señal de "INTERRUPTOR ACOPLE BANCO DISTRIBUCION - MB - 125 CC" estaba presente, por lo tanto se realiza esta OT en busqueda de esta alarma presente. 
+
+2016/08/27 RUBEN ARBOLEDA, 
+Se consulto sobre el estado actual de esta OT, se evidencio que esta alarma no está presente, se cierra la OT sin costos
+
+
+
+
+
+

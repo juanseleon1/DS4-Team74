@@ -1,0 +1,9 @@
+2014/11/18 RAMIRO A TORRES.
+CUANDO LA MAQUINA ESTA POR FUERA DEL SISTEMA, SALE CONSTANTEMENTE LA ALARMA "U6 INTERRUPTOR DE GENERADOR POSICION FALLA". LA SEÑAL CORRESPONDIENTE ES LA G6AG1-MMC1.
+
+2014/12/10
+Se cambió tarjeta de entradas digitales DSDI110A por problema en uno de sus canales, se deja en observación y trabajando correctamente.
+Adonis Cadavid
+Cesar Hoyos
+Cesar Tulio
+ Luis Eduardo Arcila

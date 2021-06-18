@@ -1,0 +1,6 @@
+AGOSTO 31 DE 2018   OT: 3756122 PROGRAMO: JGUINGUL EJECUTO: ALEXANDER VILLA
+SE INYECTA SEÑAL DE TEMPERATURA CON CALIBRADOR DE PROCESOS FLUKE, HASTA ALCANZAR LAS ACTIVACIÓNES DE ALARMA Y DISPARO CON LOS SIGUINETES RANGOS.
+Temperaturas deNúcleo EstatorEquipo 30ºC 60°C 90°C 120°CS1 30.6 60.5 90.5 120.6S2 30.5 60.4 90.5 120.5S3 30.5 60.5 90.5 120.5Valor programado Alarma115°CValor programado Disparo120°CComentarios:El sensor S1 se encuentra deshabilitado
+Temperaturas deDevanado Fase SEquipo 30C 60°C 90°C 120°CS4 30.5 60.5 90.5 120.5S5 30.5 60.5 90.6 120.5S6 30.5 60.5 90.6 120.4Valor programado Alarma:110°CValor programado Disparo:115°CComentarios:Sin novedades
+Temperaturas de: Devanado Fase REquipo 30C 60°C 90°C 120°CS1 30.5 60.5 90.6 120.4S2 30.5 60.4 90.5 120.4S3 30.5 60.5 90.5 120.4Valor programado Alarma:110°CValor programado Disparo:115°CComentarios:Sin novedades
+Temperaturas de: Devanado Fase TEquipo 30C 60°C 90°C 120°CS7 30.6 60.5 90.5 120.5S8 30.6 60.4 90.5 120.6S9 30.6 60.5 90.5 120.5Valor programado Alarma:110°CValor programado Disparo:115°CComentarios:Sin novedades

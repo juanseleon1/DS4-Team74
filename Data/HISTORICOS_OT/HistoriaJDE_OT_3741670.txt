@@ -1,0 +1,17 @@
+11 DE JULIO DEL 2018
+PREVENTIVO BOMBA # 2 RECIRCULACION DE ACEITE UNIDAD GENERADOR GUADALUPE III
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo a la bomba #2. Se revisaron todos los puntos de conexión, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspección y limpieza al motor y a todo el gabinete de control.
+Nota: estos fueron los datos obtenidos de las pruebas realizadas:
+
+VOLTAJEFASE VOLTIOSR - S461S - T460T - R462 
+CTE. DE ARRANQUEFASE AMPERIOSR54.3S52.7T52.4
+CTE. DE TRABAJOFASE AMPERIOSR8.1S7.6T7.7
+AISLAMIENTO / TIERRAFASEGR18.7S22.1T23.8
+Ejecutaron: Luis Correa-Sergio Areiza
+Programo: Carlos Andres Forero
+
+
+

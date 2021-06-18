@@ -1,0 +1,9 @@
+
+
+2018-07-17 OT:3746451  LUIS EDUARDO ARCILA
+
+Se cambia la fuente de alimentación SWSM220A220 al panel de alarmas generales de la unidad 5 por presentar bloqueos al momento de reconocer las alarmas. 
+
+
+
+

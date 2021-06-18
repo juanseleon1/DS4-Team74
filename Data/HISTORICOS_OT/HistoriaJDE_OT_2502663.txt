@@ -1,0 +1,13 @@
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD
+
+-----------------------
+
+FECHA: 2014-06-03
+
+EJECTUTÓ: JHONATAN ARANGO - JULIAN GIRALDO
+
+Se realiza mantenimiento al sistema de refrigeración U3, tableros eléctricos, acometidas, motores de bombas y válvulas motorizadas de los equipos asociados al subsistema de enfriamiento. IDM: GCP3E0009.  No se encuentra ninguna parte del equipo y/o motores averiada. una vez terminado el procedimiento, se diligencian planillas con los datos de Vol, Ies y Res. Se normaliza y se deja el sistema en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+-------------------------

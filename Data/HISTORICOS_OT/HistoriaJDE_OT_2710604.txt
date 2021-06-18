@@ -1,0 +1,5 @@
+2015/03/04 GUILLERMO CORDOBA - YEISON ORTEGA
+Basados en la falla del chiller 1, OT: 2673030, sobre el motor de potencia, se decide realizar uan prueba al funcionamiento del Chiller 2, para garantizar un funcionamiento correcto en las protecciones, para esto se desmonta el térmico y el breaker de potencia, para posteriormente realizar un aprueba con el equipo de inyección de corriente AC. 
+
+2015/06/04 EDWAR LONDOÑO
+Para darle arranque al chiller 2 en la OT: 2761207 se realizó montaje de termico, fue necesario montarle el termico del chiller 3. 

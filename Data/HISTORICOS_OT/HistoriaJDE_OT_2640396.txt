@@ -1,0 +1,13 @@
+
+FECHA: NOVIEMBRE 16 DE 2014
+
+EJECUTANTE: HENRY GIRALDO 
+
+Se presenta falla en el controlador superior, en el RFC se observa el modulo 7,5 fallado, se cambia y se deja en servicio.
+
+
+FECHA: NOVIEMBRE 17 DE 2014
+
+EJECUTANTE: HENRY GIRALDO 
+
+El día de hoy nuevamente se presenta falla en el controlador superior con falla en RFC modulo 7,5. El día de ayer también se presento la misma falla y se había cambiado el modulo, hoy se procede a apagar todo el control y reiniciar el sistema y borra la alarma, se deja en servicio y en observación, al transcurrir una hora se fallo nuevamente por 7,4. se apaga todo de nuevo y se borra la falla.

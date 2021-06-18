@@ -1,0 +1,3 @@
+NOV15/2018 OT:3776572 PROGRAMO:JGUINGUER EJECUTÓ:A.VILLA, A.YEPES
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, ACTIVACIÓN DE ALARMA Y DISPARO 
+Temperaturas de cojineteExcitación 0º 50º 70º 85º 90ºS45 0.5 50.4 70.4 85.5 90.5Valor programado Alarma: 85°CValor programado Disparo: 90°CComentarios: Alarma Ok disparo Ok

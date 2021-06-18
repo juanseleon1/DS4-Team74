@@ -1,0 +1,11 @@
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD
+
+------------
+FECHA: 2014-06-03
+
+EJECUTÓ: FREDY ECHEVERRI - JHONATAN ARANGO
+
+Se realiza mantenimiento al colector de polvo de escobillas correspondiente al sistema de anillos rozantes. Se realiza limpieza, se revisan conexiones en bornes y se meguea el motor asociado al subsistema. IDM: GCP3E0025.  No se encuentran fallas graves en el equipo. Una vez terminado el procedimiento, se reestablece el sistema quedando todo en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+--------------------------------------

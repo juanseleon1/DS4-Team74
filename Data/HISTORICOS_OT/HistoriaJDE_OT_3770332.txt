@@ -1,0 +1,20 @@
+
+SEPTIEMBRE 29 DE 2018
+15:30 Referente a la minicentral P3: A las 8:32 sale de sincronismo la minicentral por "Falla bombas circuito enfriamiento cojinetes". Se observó falla en el acople de la bomba mecánica y problemas de control automático en la bomba auxiliar eléctrica, la cual no operó al presentar la falla la bomba mecánica. Se procede a arrancar la bomba auxiliar eléctrica en modo manual y se sincroniza la minicentral a las 8:57. La válvula de cono abrió y cerro automáticamente. A las 13:45 se para nuevamente la minicentral con autorización del CCG para retirar el acople averiado de la bomba mecánica y queda pendiente instalación de repuesto. Se sincroniza nuevamente la minicentral a las 14:47. Las secuencias fueron ejecutadas en remoto desde casa de máquinas observando comportamiento normal. 
+Informan: Luis Federico Álvarez, Daniel Palacios, Santiago Ramírez E.
+*******************************************************************************************************************
+2018/10/06
+EN EL MOMENTO SE ENCUENTRA EN PROCESO DE COMPRA EL REPUESTO PARA SER REEMPLAZADO Y ASI DEJAR LA BOMBA MECANICA EN FUCIOCNAMIENTO NORMAL. SE ENCUENTRA FUCNIONANDO LA BOMBA AUXILIAR ELECTRICA DE FORMA NORMAL, ARRANACANDO AUTOMATICAMENTE.
+
+INFORMA: OSCAR PARRA
+*******************************************************************************************************************
+2018/11/15
+LLEGA A LA CENTRAL EL ACOPLE DE LA BOMBA MECANICA DE REFRIGERACION DEL GENERADOR DE LA MINI CENTRAL, ESTE REQUIERE TRABAJO DE MECANIZADO EN TORNO EL CUAL SE INICA EL DIA 16.
+
+INFORMA: OSCAR PARRA
+*******************************************************************************************************************
+2018/11/20
+SE REALIZA INSTALACION DE ACOPLE EN LA BOMBA MECANICA, SE PRCEDE A LLENAR TUBERIA CON AGUA TRATADA Y SE PURGA EL AIRE, SE REVISAN POSIBLES FUGAS NO ENCONTRANDO ALGUNA, SE PROCEDE A DEJAR LA BOMBA TRABAJANDO Y ESTA QUEDA EN FUNCIONAMIENTO NORMAL
+
+EJECUTO: MANUEL PERLAZA, GILDARDO FLOREZ
+INFORMA: OSCAR PARRA

@@ -1,0 +1,31 @@
+FECHA: 26/01/2018 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: Se presenta alarma “ NIVEL TANQUE ACUMULADOR G43”  TAG G4U3NIVELTANQACU. Corresponde a nivel tanque acumulador del sistema hidráulico de la unidad N°3; el cual se presentó cuando el nivel de aceite en el acumulador llegó a 643mm; lo que indica que se trató de alarma por nivel alto de aceite (640 mm). 
+Esta alarma se ha venido presentando en varias ocasiones tanto con máquina generando como con máquina parada, y para nivel alto o bajo de aceite.
+ Por favor revisar el funcionamiento de este subsistema.
+
+Programador: Camilo Montagut - 30/01/2018
+En coordinación con el equipo electrónico se hacen pruebas en la estación hidráulica. Al verificar que el nivel patrón de aceite del tanque acumulador y el nivel del tanque sumidero se encuentran en nivel bajo, se procede a adicionar 40 litros de aceite tellus 68 permitiendo modificar el nivel patrón de ambos equipos.
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR : CAMILO MONTAGUT GIL
+
+ ENERO 26 DE 2018
+
+
+
+FECHA: 10/02/2018 
+Se realizan chequeos en el funcionamiento del sistema hidráulico de la unidad 3 G IV,  La estación está cumpliendo con los parámetros de arranque de la bomba cuando la unidad esta parada al bajar de 38.0 BAR y para al llegar a 40.0 BAR, se detectó también lecturas erróneas del sensor de nivel en algunos puntos, ocasionando indicación de alarma por bajo nivel y alto nivel, estamos en espera de buscar un sensor para sustituir el actual.
+Chequeos en maquina 
+mA mm IHM mm FISICOS9,43 483 48010,46 523 50311,96 582 52211,8 572 55012,96 622 56313,57 642 592
+PROGRAMADOR: Luis Adrian Cardona 
+
+13/04/2018
+Se desmonto sensor de nivel para verificar su funcionamiento en el laboratorio electrónico de GIV, después de la revisión se instala nuevamente en la unidad evidenciando una diferencia en el comportamiento de acuerdo a la posición en que se monte el sensor con respeto a la columna de nivel, por tal motivo se ubicó en la posición con mejor respuesta y queda pendiente la programación del cambio de flota magnética ; finalmente se revisa comportamiento de la señal digital con respecto a la indicación física del nivel, obteniendo una buena respuesta en el funcionamiento.
+PROGRAMADOR: Bernardo Bedoya
+
+31/05/2018
+Aprovechando el mantenimiento correctivo del servomotor del distribuidor, se revisa el estado de la flota magnética: Se tenía programado cambiar esta por una flota magnética disponible de GIII, sin embargo, al desarmar, se encuentra que estas dos flotas son diferentes tanto en distribución de campo magnético como en área superficial. La flota montada actualmente en este acumulador no presenta un campo magnético uniforme alrededor de su circunferencia y debido a esta condición, se tiene instalada al interior de la columna de nivel, una guía que impide a la flota rotar sobre su propio eje, (solo permite desplazamientos verticales). Ante la imposibilidad de montar la flota disponible de GIII, se procede a montar nuevamente la flota original, y se verifica que el sensor de nivel quede ubicado correctamente en el rango de influencia magnética de la flota, comprobado esto, se demarca la posición exacta en la que debe permanecer ubicado el sensor.
+NOTA: la flota magnética disponible de GIII, presenta un campo magnético uniforme alrededor de la circunferencia superficial de su cilindro. Adicional, se encontró que una de las correas metálicas utilizadas para sujetar el sensor análogo de la columna de nivel, no correspondía a material de acero inoxidable, ocasionando pega magnética en ese punto del recorrido y alterando la lectura real del nivel, por lo que se debió cambiar esta correa por una de acero inoxidable.
+Después de realizar los correctivos mencionados, se normaliza tanque acumulador y se verifica la indicación de nivel en varios puntos, encontrando un correcto funcionamiento del sensor análogo
+PROGRAMADOR: Jose Montoya - Adrian Cardona

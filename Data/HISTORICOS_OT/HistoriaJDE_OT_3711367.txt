@@ -1,0 +1,13 @@
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DARIO PUERTA.
+
+Se realiza inspección, limpieza y mantenimiento al tablero de control y de protecciones de la unidad +TPU.
+Trabajo realizado por: Dario Puerta, Jhonnatan Arango y Maicol Gonzalez.
+
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711367
+
+BAE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

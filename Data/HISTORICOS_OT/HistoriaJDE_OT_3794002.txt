@@ -1,0 +1,12 @@
+
+REVISAR EL VALOR DE TEMPERATURA 96.8 °C DEL TERMOSTATO 1.2  SACO LA UNIDAD1 DEL SISTEMA POR  DESCARGA DE CO2. POR LA ALARMA DE DEVADO Y NUCLEO DEL ESTATOR (110°C) ESTA POR ENCIMA DE LA DEL TERMOSTATO DEL CO2
+lA UNIDAD 1 SE DIO PARO DE EMERGENCIA 1 Y 2 DESDE LAS 10:40 A 11:13. 
+
+10-12-2018
+Informe sistema contraincendios G3: Se realiza inspección semanal al sistema Water Spray , todos los dispositivos se encuentran en funcionamiento normal.
+Se encuentra sistema de CO2  generador uno descargado por activación de termostato 1.2, se deja en observación, se rearma el sistema quedando activado el banco principal. En caso de emergencia se debe pasar manualmente el selector de principal a reserva.
+NOTA: se dejan desconectados los termostatos de la unidad 1, con el fin de evaluar y revisar si se puede calibrar o ajustar a un valor por encima de 115.
+Ejecutó: Edgar Naranjo  Duvan Calderón  José Montoya 
+                 INTERFIRE S.A.S   
+
+queda pendiente por oportunidad bajar termostato 1.2 y realizar verificaciuon con el baño termico y tratar de ajustar el valor de cierre de los contactos a un valor por encima del control de la maquina.

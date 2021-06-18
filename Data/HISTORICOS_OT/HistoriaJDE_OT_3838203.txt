@@ -1,0 +1,6 @@
+
+
+
+MAYO 15/2019  OT: 3838203  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se intercambian las conexiones de las temperaturas de G1 y G2, lo anterior debido a que la temperatura del G2 estaba más alta que el G1 estando en funcionamiento el G1, se deja en servicio el aerogenerador

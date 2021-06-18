@@ -1,0 +1,11 @@
+14/09/2016
+ALEJANDRO VERGARA
+Se realiza OT  para  revisar posible pérdida de la presión de SF6 en el interruptor, SB1 Cámara de válvulas. 
+Se evidencia posible descalibración en los diferentes manómetros de las celdas de 13.2KV. 
+Es de anotar que a esta misma celda SB1, ya se le había realizado recuperación del SF6 en meses anteriores (2015-05-29).
+ 14/09/2016. SERGIO OLIVARES D. El interruptor, se encontro alarmado con baja presion en 2.8 bares, se hizo llenado con el equipo de SF6   hasta la presion normal de 5 bares. Se tuvo que subir a cámara de válvulas porque la transferencia se encuentra en manual, y se quedo sin tensión todo el sistema de las dos válvulas; Se dio servicio por el correspondiente circuito principal de la planta   SB1, y se arrancaron los ventiladores quedando todo normal.  14/09/2016
+ALEJANDRO VERGARA
+Se realiza OT  para  revisar posible pérdida de la presión de SF6 en el interruptor, SB1 Cámara de válvulas. 
+Se evidencia posible descalibración en los diferentes manómetros de las celdas de 13.2KV. 
+Es de anotar que a esta misma celda SB1, ya se le había realizado recuperación del SF6 en meses anteriores (2015-05-29).
+ 14/09/2016. SERGIO OLIVARES D. El interruptor, se encontro alarmado con baja presion en 2.8 bares, se hizo llenado con el equipo de SF6   hasta la presion normal de 5 bares. Se tuvo que subir a cámara de válvulas porque la transferencia se encuentra en manual, y se quedo sin tensión todo el sistema de las dos válvulas; Se dio servicio por el correspondiente circuito principal de la planta   SB1, y se arrancaron los ventiladores quedando todo normal.  

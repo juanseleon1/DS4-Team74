@@ -1,0 +1,10 @@
+16 DE MAYO DE 2015 IVAN DARIO ZAPATA GOMEZ
+EL MINIBREAKER Q11 QUE ENERGIZA DOS DE LOS VENTILADORES DEL BANCO DE TRAFOS DE POTENCIA FASE R SE ESTA DISPARANDO, CUANDO SE LE DA ORDEN DE CIERRE DISPARA EL MINIBREAKER Q01 (CONTROL DE TODOS LOS VENTILADORES).  QUEDA ABIERTO EL Q11 Y DOS DE LOS VENTILADORES POR FUERA.
+
+MAYO 23 DE 2015.
+
+Referente a los ventiladores del transformador de potencia fase R de troneras, se revisó los ventiladores 1 y 4 que estaba ocasionando disparo al interruptor Q11 y se encontró uno de estos motores con agua en la parte interna, lo cual estaba ocasionando corto, se cambia por uno de repuesto y se normaliza el interruptor, queda en condiciones normales.
+
+Realizó: Grupo eléctrico.
+Informó: William Lopera. 
+OT: 2768445

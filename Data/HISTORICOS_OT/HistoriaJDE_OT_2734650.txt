@@ -1,0 +1,9 @@
+
+FECHA: ABRIL 9 Y 10 DE 2015  OT: 2734650
+
+EJECUTANTE: ELIECER PUSHAINA, ALVARITO PUSHAINA Y HENRY GIRALDO
+SOLICITANTE: DIOMER DIAZ
+
+Por presentarse fuga de aceite bajando por la torre y arranques continuos de la bomba del sistema hidráulico se decide inspeccionar el estado de los frenos de la yaw, se encuentra el número 2 con fuga a tanque y goteando por el freno inferior del generador, se procede a realizar el cambio de retenedores de las dos secciones del freno 2 de la yaw, se deja en funcionamiento el aerogenerador.
+
+Se revisa el estado de la yaw y del sensor PCH debido a que se presentan paros por vibraciones, se realiza un nuevo drenaje a la presión de los frenos de la yaw, se limpia el disco y se confirma la presión de trabajo en 30 bares.

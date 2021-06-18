@@ -1,0 +1,18 @@
+PLANEADOR: OSCAR PARRA PROGRAMADOR: OSCAR PARRA
+FECHA: 2017/01/16
+
+REALIZAR REPARACION DEL CHILLER 2 UBICADO EN LA CASA MAQUINAS DE LA CENTRAL PORCE 2, ESTE PRESENTA FUGA DE ACITE Y FALLAS EN SU FUNCIONAMIENTO GENERAL.
+*******************************************************************************************************************
+ENH EL MES DE ENERO SE TRAE TARJETA DISPLAY DE CONTROL CHILLER Y ESTA NO CONCUERDA CON EL MODELO REQUERIDO, SE DEVUELVE Y SE ESPERA LA IMPORTACION DE LA TARJETA REQUERIDA.
+*******************************************************************************************************************
+
+EL DIA 15 DE MAYO LLEGA A LA CENTRAL EL DISPLAY NUEVO, SE INSTALA Y SE RECARGA EL EQUIPO CON EL REFRIGERANTE NECESARIO PARA SU FUNCIONAMIENTO, PERO LA TAJETA PRESENTO FALLAS EN SU PROGRAMACION, SE LLEVA A LA CIUDAD DE CALI PARA SU PROGRAMACION, SE ESPERA INSTALAR NUEVAMENTE EL DIA 24 DE MAYO 2017
+*******************************************************************************************************************
+16/05/2017
+Se realizó ajuste de refrigerante R134A se suministra e instala display nuevo para control del chiller, el equipo queda con todas las cargas de refrigerante por peso según fabrica, se realiza prueba de funcionamiento y se percibe falla en el software, queda pendiente cambiar sensor de temperatura, hay problemas en swiches de flujo estan descalibrados, se enviara nuevamente el display a la ciudada de Cali para programacion.
+*******************************************************************************************************************
+24/05/2017
+SE REALIZA INSTALACION DE TARJETA DISPLAY, CALIBRACION DE SENSORES Y CAMBIO DE SENSOR TEMPERATURA, SE REALIZAN PRUEBAS DE FUNCIONAMIENTO QUEDANDO EL EQUIPO EN CONDICIONES OPTIMAS.
+ES DE ANOTAR QUE A ESTE EQUIPO SE LE REALIZO UN OVER HALL COMPLETO, DONDE SE DESARMO Y LAVO CADA UNA DE SUS PIEZAS, SE CAMBIO ACEITE EN COMPRESORES Y AITE REFRIGERANTE, ADICIONAL SE INSTALA TARJETA DE CONTROL NUEVA.
+
+INFORMA: OSCAR PARRA   REALIZO: COMERCIAL Y SERVICIOS LARCO, CSL S.A.S.

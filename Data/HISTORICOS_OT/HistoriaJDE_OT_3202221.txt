@@ -1,0 +1,20 @@
+06/08/2016. WALTER TOBON.
+
+FALLA EN FUENTE REDUNDANTE SUPRESORA DE PICOS, CAMBIAR FUENTE Y REALIZAR PRUEBAS EN EL REGULADOR DE TENSION , 
+
+
+15/08/2016
+
+pendiente paro de unidad para cambiar esta fuente , se ajusta la fuente instalada y la falla no ha salido de nuevo, 
+
+realizado por Wtobonl
+
+
+
+Cerrada 
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711317
+
+BAE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OLGA M.VIANA
+
+Durante el mantenimiento se abre el neutro para hacer las pruebas eléctricas a la unidad, después de ellas se cierra, se verifica, se le hace limpieza todo según el procedimiento.
+Trabajo realizado por: Olga Maria Viana, Yoanis Rodriguez y Alejandro Cardona.

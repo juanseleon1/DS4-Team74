@@ -1,0 +1,13 @@
+10/01/2017   G3U4
+   
+EN EL PROCESO DE ARRANQUE, LA UNIDAD SE DA PARO DE EMERGENCIA POR FALLA GRAVE REGULADOR "PERD. MED. POS. VALV."
+
+INFORMÓ: TURNO 2
+
+10/01/2016
+
+Al lanzar la secuencia de arranque la unidad se debe dar paro de emergencia por falla grave regulador de velocidad por perdida de posición del deflector de la válvula deflectora. Se revisan las señales de posición del deflector y válvula deflectora, encontrándose que cuando se daba orden de giro a la unidad, el deflector se iba al 100% lo que ocasionaba el paro de la máquina.
+Después de revisar todos los lazos de control, se encontró la electroválvula TR10 pegada, lo que ocasionaba la apertura al 100% del deflector y la perdida de la señal posición válvula deflectora. Se cambia la TR10 y se calibran los lazos de control en el regulador de velocidad. Se sincroniza la unidad y se entrega para operación comercial.
+
+Realizo: Equipo de operación y mantenimiento.
+Informo: Esteban Vásquez M.  

@@ -1,0 +1,7 @@
+2018/12/04 EDWIN REYES
+SE CREA SOLICITUD PARA REVISAR EL SENSOR Y TRANSMISOR DE NIVEL DEL TANQUE DE AGUA DESMINERALIZADA, EL CUAL PRESENTA UNA INDICACIÓN INCONSISTENTE.
+
+
+2018-12-18 Carlos Ortega
+De acuerdo a la orden de trabajo 3791998 se procede a revisar el transmisor de nivel del tanque de agua demi, ya que después de la generación se procedió a revisar el funcionamiento del equipo, se observa que el sensor de nivel tiene problemas ya que los demás instrumentos como son el transmisor MULTIRANGER 200 y el aislador galvánico están trabajando correctamente, se tomaron medidas en la salida de 4 A 20 mA tanto en el transmisor como en el aislador galvánico con lo cual se descartó que la medida errónea no lo está ocasionando estos dos elementos, también se procedió a revisar el cableado del sensor ya que se está observando un mensaje en la pantalla del controlador el cual es LOE, que quiere decir que hay una señal débil en la medida del sensor, se verifica que el cableado no esté en malas condiciones, se realiza el cambio del sensor con algunos que se encontraban en el laboratorio de instrumentación, pero el mensaje continua, de acuerdo a todo esto el diagnóstico es que se debe cambiar por otro que cumpla y se pueda tener confiabilidad en la medida, de acuerdo a lo mencionado se debe iniciar el proceso de compra que cumpla con las exigencias del proceso.
+

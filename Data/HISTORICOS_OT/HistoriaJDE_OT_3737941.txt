@@ -1,0 +1,5 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 02-04-2018
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación, Diagnosticar modo de falla, causa inmediata, causa básica en la estación, Descarga y verificación de datos de la estación y visita de emplazamiento. Se realiza aforo liquido y se calibra Pvm.

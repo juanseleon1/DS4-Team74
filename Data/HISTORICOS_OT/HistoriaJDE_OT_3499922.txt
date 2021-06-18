@@ -1,0 +1,8 @@
+MARZO 30  2017
+
+REFERENTE A AL TLCT: DESPUES DE SINCRONIZAR LA UNIDAD 3 EL DIA MIERCOLES 24 DE MAYO  2017 A LAS 23:33 PRESENTA PROBLEMAS EN LA RED PROFIBUSOCASIONANDO OSCILACION EN LA MEDIDA DE LOS INSTRUMENTOS DE MEDIDA, OCASIONANDO RECURRENTES ALARMAS EN EL SISTEMA SCADA, SE INFORMO AL GRUPO ELECTRONICO SOBRE LA ANOMALIA, QUEDA PENDIENTE LA SOLUCION DEL PROBLEMA. PROGRAMADOR DE LA OT : WALTER TOBON
+
+30/05/2017
+Se realiza verificación de los lazos profibus y los equipos del TLCT se encuentra falla en la LINKIN del lazo profibus y además inducciones eléctricas que afectan el lazo de esta unidad, se cambia la LINKIN y se realizan pruebas de carga y datos en la red profibus, el sistema queda operativo y en observación debido a la inducción eléctrica encontrada. 
+Realizado por WTOBONL
+TERMINADA CERRAR

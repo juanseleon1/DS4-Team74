@@ -1,0 +1,16 @@
+
+DICIEMBRE 09 DEL 2014 - JEOVANNY CORREA G
+
+La estacion de operacion S8 de Guadalupe III esta muy lenta cuando sepasa de un despliegue a otro, revisar la  memoria RAM
+
+12/12/2014
+REFERENTE PROCESAMIENTO LENTO PANTALLA GS8
+
+Se intalo una nueva memoria RAM de 256MB en la Main Board del PC GS8. Inicialmente solo tenia 256MB y ahora quedo con una capacidad total de 512MB.
+Se realiza movimientos por los despliegues y se observa que ya no presenta problemas con los pantallazos. Se deja en monitoreo y se conseguira en el mercado si es posible un memoria de mayor capacidad (1GB)para evitar sucesos futuros.
+
+Ejecuto: William Perez - Andres Arenas
+         Oscar Arango
+
+
+

@@ -1,0 +1,6 @@
+FECHA: MAYO 30/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO: DARIO PUERTA.
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+Se realiza limpieza al transformador de alta impedancia con limpiador dieléctrico, se revisan conexiones, se aspira y limpia el cubículo del transformador, se realiza inspección y limpieza a la resistencia de descarga, se revisa el buen estado de la puesta a tierra. Todos los componentes se hallan es buen estado.
+Trabajo Ejecutado por: Héctor Darío Puerta, Jonathan Arango, Maicol González
+
+XE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD

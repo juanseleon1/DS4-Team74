@@ -1,0 +1,12 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+13-07-2016
+
+PROGRAMADOR JOSE MONTOYA
+
+ Se realizo mantenimiento según orden de trabajo,  Se realizaron movimientos  de los inyectores desde el regulador de velocidad  y se verificaron  los % de apertura y se encontró lo siguiente:
+Aguja N°1 recorrido de apertura 130mm para un ----73% Y 6.05A en driver.
+Aguja N°2 recorrido de apertura 140mm para un ----75%. Y 5.85A en driver.
+Aguja N°3 recorrido de apertura 145mm para un ----75%. Y 5.89A en driver.
+Aguja N°4 recorrido de apertura 150mm para un ---80%. Y 5.60A en driver.
+NOTA: EN AGULA # 1 SE AJUSTA CORRIENTE EN DRIVER A 552AMP

@@ -1,0 +1,59 @@
+- FECHA : JUEVES SEPTIEMBRE 01 DE 2016
+
+- PROGRAMÓ : MARIO G. B.
+
+- REALIZÓ : MARIO RESTREPO - WILFER HINCAPIÉ
+
+- ASOCIADO A LA OT : 3230139
+
+- ASUNTO : REALIZAR MANTTO PREVENTIVO A LA PLATAFORMA ELEVADORA
+
+           1. PRESENTA SUCIEDAD EXCESIVA 
+
+           2. NO SE LE HACE MANTTO A LAS PARTES MÓVILES Y DE CONTROL Y POTENCIA 
+
+           3. REVISAR PARTES MECÁNICAS Y HACER MANTTO 
+
+           4. REVISAR BATERÍAS - MEDIR DENSIDAD Y VOLTAJES 
+
+              * DATOS PLACA 
+
+                - MARCA : TROJAN DE 6 VOLTIOS DC
+
+                - 4 BATERÍAS 
+
+                - REF. T - 105 P/US
+
+                - 225 AH   20 HORAS  / 185 AH - 5 HORAS
+
+                - TOTAL VOLTAJE : 24.36 VDC
+
+              CELDA      DENSIDAD    VOLTAJE
+
+              -----      --------    -------  
+
+               N° 1  1.175
+
+               N° 2  1.200
+
+               N° 3  1.175
+
+               N° 4  1.175
+
+               N° 5  1.175
+
+               N° 6  1.175
+
+               N° 7  1.175
+
+               N° 8  1.175
+
+               N° 9  1.175
+
+               N° 10  1.175
+
+               N° 11  1.200
+
+               N° 12  1.180
+
+ 

@@ -1,0 +1,24 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+REGISTRAR VALORES EN LA OT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+circulación de aceite cojinete guia inferior U3 - sistema generador (C.G.COmBINADO)
+fecha: 2016-05-25 ot: 3162645 mtto: eléctrico
+ejecutó: davison perez - jairo torres
+
+SE REALIZA MANTENIMIENTO SEGÚN INSTRUCTIVO GCP2E0008.  SE REVISA TABLERO DE CONTROL Y POTENCIA, CONTACTORES PPAL Y AUXILIARES, SE REAPRETA TORNILLERIA, SE VERIFICA CABLEADO, PILOTOS, SELECTORES, RELÉS AUXILIARES Y SE REALIZA LIMPIEZA Y ASEO GENERAL. SE REALIZA MANTENIMIENTO A LOS 2 MOTORES DEL SUBSISTEMA. SE REALIZAN PRUEBAS ELECTRICAS. SE DILIGENCIA PLANILLA CON  VALORES DE R.AISLAMIENTO, VOLTAJES Y CORRIENTES. VER ANEXO. NO SE ENCUENTRAN FALLAS. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+
+informa: cristian a gómez h
+
+ MOTOR  1 COJINETE GUIA COMBINADO
+VOLTAJE CTE. DE ARRANQUE Y TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS AMPERIOS FASEG VDCR - S482.8R335 29R3.45 506S - T480.4S308.2 29S3.47 507T - R481.8T313.6 29.1T3.53 507
+MOTOR 2 COJINETE GUIA COMBINADO
+VOLTAJE CTE. DE ARRANQUE Y TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS AMPERIOS FASEG VDCR - S483.3R322.9 31.8R4.15 508S - T480.7S333.1 30.7S4.17 508T - R482.2T326.6 29.6T4.23 508

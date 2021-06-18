@@ -1,0 +1,2 @@
+JULIO  27 DE 2017 OT: 3527827 PROGRAMÓ: JGUINGUL EJECUTARON: ALEXANDER VILLA  
+Se realiza limpieza del tablero control de unidad, verificación de cableado, estado de los componentes eléctricos y electrónicos; todo se encuentra en normal funcionamiento.

@@ -1,0 +1,6 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud:24-04-2017
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación 
+Descarga y verificación de datos de la estacion, Construccion y adecuacion de Accesos y Mejoras fisicas en la estacion

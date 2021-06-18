@@ -1,0 +1,13 @@
+23/02/2018. 14:10.
+
+Se puede visualizar Alarma por Temperatura >90°C en el Devanado de Baja del Transformador fase T del Banco 4 .
+
+También se pudo identificar ruido en Ventilador 2 al parecer en herrajes de sostenimiento.
+
+Se solicita atención de pronta.
+
+Informa: Mauricio Caicedo - Wilson Arango.
+
+se verificaron los termómetros de aceite, devanado de alta y de baja, esto mostró resultados positivos, luego se le inyecto al CT de baja una corriente de un amperio, con esta prueba se observó que la indicación de la temperatura del devanado de baja, estaba por encima de la real, se ajusto el potenciómetro del termómetro, queda en observación
+ EJECUTO: FREDY DUARTE.
+ INFOTMO:BERNARDO BEDOYA.

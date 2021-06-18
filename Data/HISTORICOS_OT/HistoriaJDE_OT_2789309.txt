@@ -1,0 +1,16 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE TURBINA UNIDADES 3 A 6 GUADALUPE 3
+
+17/JUNIO/2015
+MANTENIMIENTO CUATRIMESTRAL PREVENTIVO ELECTRONICO
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan calibrados así: CTPL 8.77 VDC y CTPR 8.78  VDC   - KPH: 8.64 VDC.
+Nivel cojinete de turbina se encontró en  150.3 mm  no se le adiciono aceite, el patrón es 150 mm.
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina, según el formato de instrumentación, que se encuentra en la siguiente ruta: \\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\CUATRIMESTRALES G3
+Se realizó limpieza e inspección visual a las RTD del cojinete. Se realizo mantenimiento, reapreté a las multibarreras, linking device y RIO´s asociadas al cojinete.
+
+NOTA: Se observa mucho aceite en los instrumentos debido al vapor que se genera dentro del recinto.
+Todos los niveles quedan con la referencia mecánica.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Francisco Gonzalez

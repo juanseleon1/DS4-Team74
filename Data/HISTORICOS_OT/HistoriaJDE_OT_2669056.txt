@@ -1,0 +1,7 @@
+
+FECHA: ENERO 05 DE 2015 
+
+RESPONSABLE: PEDRO SOLANO Y HENRY GIRALDO
+
+
+El día de ayer después de normalizar la línea 742 quedo pendiente la falla OFFSET CURRENT L1 - L3, el día de hoy se realizo la verificación de las corrientes y se encontró el contactor del condensador 1 pegado, se revisa y lo estaba bloqueando el contacto auxiliar que hay sobre él, se le retira este contacto auxiliar, se realiza prueba de condensadores y se deja en servicio.

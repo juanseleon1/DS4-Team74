@@ -1,0 +1,25 @@
+MAY 6/2014 OT: 2500286 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edwin Lopera.
+Fue realizada la limpieza con desengrasante diélectrico, inspección de las cuñas y las pruebas eléctricas con El Señor Carlos Giraldo de Mantenimiento Opreacion.
+Ver registros en el archivo de Guadalupe IV.
+
+PLANEADOR. OSCAR RESTREPO ALVAREZ
+
+
+ABRIL 02 DE 2014
+
+
+
+ESTA OT INCLUYE 
+
+Inspección de recuñado
+Prueba de IP y factor de potencia
+lavar estator
+Prueba de IP y factor de potencia después de lavar
+CE: Mtto Eléctrico Barraje de salida estator hasta los Trafos de potencia
+CE: Mtto Eléctrico Calefacción
+CE: Mtto Eléctrico a zapatas de frenado
+CE: Mtto Eléctrico Iluminación Recinto
+CL: Desmontar RTD's de radiadores
+CL: Verificación RTD's de radiadores
+CL: instalación de RTD's de radiadores y pruebas de alarmas de acuerdo a protocolos
+

@@ -1,0 +1,7 @@
+MANTENIMIENTO PREVENTIVO TRIMESTRAL MOTOR BOMBA DE REFRIGERACION UNIDAD 2 GUADALUPE 3.
+
+
+MARZO 14 DE 2018
+Se hace mantenimiento cuatrimestral electrico, limpieza al tablero de control, al motor, pruebas electricas, verificación de voltajes y corrientes sin ninguna novedad quedando todo normal.
+Programó: William Lopera.
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASEGR - S443,5RVARIADORR19,7R1,17S - T445SVARIADORS20,2S1,06T - R446,6TVARIADORT20T1,12

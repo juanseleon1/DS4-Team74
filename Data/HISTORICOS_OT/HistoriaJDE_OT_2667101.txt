@@ -1,0 +1,28 @@
+OT: 2667101
+2015-01-02.JORGE ALBEIRO GARZON ESTRADA.
+
+REVIZAR PORQUE LA VÁLVULA MOTORIZADA NO ESTA CERRANDO AL DESCONECTAR LOS SERVICIOS AUXILIARES. SE PRUEBA EL CIERRE EN MODO LOCAL ELECTRICO, Y TAMPOCO OBEDECE.
+
+2015-01-03.CÉSAR HOYOS.
+
+Consultando el historial del equipo y las personas que lo han intervenido, se toma la decisión de realizarle un mantenimiento completo cuando halla paro de etapa.
+
+2015-05-06.CÉSAR HOYOS.
+
+Queda pendiente por informe e ingreso de tiempos de Ruben arboleda y Jaime Ramirez.
+
+2015/10/11 Se realizó visita tecnica por parte de representante de marca en AUMA en Colombia, se adjunta informe en la OT: 2667101
+
+2015/10/23 FERNANDO RUIZ - JUAN DAVID GARCIA - RUBEN ARBOLEDA
+Aprovechando que la unidad estaba parada se realizó puentes en las señales que llegan al computador de unidad, ya que la valvula motorizada está en posición de apertura y no obedece a comandos remotos o locales. 
+
+Con los puentes se evidencia que la unidad no queda disponible para arranque en remoto, por lo tanto se planea realizar una revision electromecanica para cuando se tenga la planta parada. 
+
+2017/09/12 RUBEN ARBOLEDA
+Se recibio en Casa de maquinas la valvula, queda pendiente realizar el montaje, se anexa inforamción técnica a la OT.
+2017/10/06 DIEGO BEDOYA
+Se realiza el desmontaje de la válvula mariposa de refrigeración de la U4, para realizarle mantenimiento, se realiza limpieza de la lenteja la cual se encontró con mucho pantano, también se desmonta el eje para corregirle la posición de apertura y cierre, se cambia oring en el eje y se monta nuevamente teniendo en cuenta que la marca (raya) que tiene el eje en el cuadrante coincida con el estado de la válvula (abierta o cerrada), queda en buenas condiciones de operación. Este trabajo con el fin de garantizar que el accionamiento eléctrico nuevo que se le va a instalar trabaje en óptimas condiciones.
+
+2017-10-06 REALIZÓ: EDWAR ALEXANDER LONDOÑO - MAYCOL SANCHEZ (PRACTICANTE CUADRILLA MOVIL) - ANDRES GOMEZ (PRACTICANTE CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 2667101, PASO:4          
+Se realizó conexionado y pruebas de la valvula motorizada, se adecuó las conexiones electricas y se probó desde el tablero de control con puentes, en el arranque de la unidad funcionó normalmente.
+

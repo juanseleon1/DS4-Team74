@@ -1,0 +1,8 @@
+
+30/JULIO/2014
+ADECUAR NUEVA RTD PARA LA MEDICION DE TEMPERATURA DEL TANQUE SUMIDERO
+
+Se debe realizar un nuevo racor para la conexion del sensor de temperatura, el cual se debe instalar por el costado del tanque sumidero. 
+
+Programador: Oscar Arango
+Ejecutante: Francisco Gonzalez - Fredy Duarte

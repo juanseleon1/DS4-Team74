@@ -1,0 +1,5 @@
+2019-04-13 REALIZÓ: OSCAR ALIRIO GIRALDO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3828693, PASO:1          
+Se realizo revisión del interruptor Q02 el cual fue intercambiado con el Q01 en servicios auxiliares 208/120 VAC; se encontró falla en su operación después de pruebas de apertura y cierre se evidencio que el motor de los resortes no están cargando, queda por fuera de servicios(en posición prueba), el interruptor Q02(acople de servicios auxiliares)
+También se realizo una adecuación del cable recalentado en la salida de interruptor Q3.7 en el tablero +NE3 correspondiente a la alimentación del tablero en el recinto de la planta diésel 13.2 Kv
+Adicionalmente se realizo adecuación provisional en tablero del patio de la S/E, tiene los 2 contactores malos y hay un corto en una línea.
+Realizo:Ing.Alirio Hernández  - Rubén Arboleda - Jeison Ortega - Oscar Giraldo

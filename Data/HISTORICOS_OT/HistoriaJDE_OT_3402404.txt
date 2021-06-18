@@ -1,0 +1,52 @@
+
+EJECUTANTE:GABRIEL URIBE
+FECHA: 10 MARZO-2017
+OT:     3402404
+
+NOTA: Se realiza calibración de los relés de subtensión y sobretensión quedando en los siguientes parámetros, sobretensión 500 volts y subtensión 400 volts, es de aclarar que se hace necesario monitorear la red de alimentación del mcpc6 con un analizador de redes para poder definir cuáles son los estados reales de trabajo de esta red y así definir cuáles son los valores reales de calibración de sobretensión y subtensión.   
+
+
+
+
+
+
+Febrero 21/2017.
+
+MCPC6. S/E, presenta alarma 'falla tension' MCPC6.2,3 y .4.
+ 
+Revisar señales de bajo voltaje celdas del MCPC6 celdas 2, 3 y 4 por evidencia que la señal no está cableada con polaridad positiva se cambió el cable de la bornera X2:2   la X2:3 para realizar la prueba, (Ing. Johnson Gomez)
+Falta realizar el procedimiento de ajuste de valores de mínimo y alto voltaje con la maleta de instrumentación
+
+PLANEADOR:JOHNSON GOMEZ
+FECHA FEBRERO 25 DE 2018
+
+SE DEBE AJUASTAR LOS RELES DE BAJO Y SOBRE VOLTAJE A LOS NIVELES DE:
+
+BAJO VOLTAJE:435V
+ALTO VOLTAJE:505V
+
+EJECUTANTE:GABRIEL URIBE
+FECHA: 10 MARZO-2017
+OT:     3402404
+
+NOTA: Se realiza calibración de los relés de subtensión y sobretensión quedando en los siguientes parámetros, sobretensión 500 volts y subtensión 400 volts, es de aclarar que se hace necesario monitorear la red de alimentación del mcpc6 con un analizador de redes para poder definir cuáles son los estados reales de trabajo de esta red y así definir cuáles son los valores reales de calibración de sobretensión y subtensión.   
+
+
+
+
+
+
+Febrero 21/2017.
+
+MCPC6. S/E, presenta alarma 'falla tension' MCPC6.2,3 y .4.
+ 
+Revisar señales de bajo voltaje celdas del MCPC6 celdas 2, 3 y 4 por evidencia que la señal no está cableada con polaridad positiva se cambió el cable de la bornera X2:2   la X2:3 para realizar la prueba, (Ing. Johnson Gomez)
+Falta realizar el procedimiento de ajuste de valores de mínimo y alto voltaje con la maleta de instrumentación
+
+PLANEADOR:JOHNSON GOMEZ
+FECHA FEBRERO 25 DE 2018
+
+SE DEBE AJUASTAR LOS RELES DE BAJO Y SOBRE VOLTAJE A LOS NIVELES DE:
+
+BAJO VOLTAJE:435V
+ALTO VOLTAJE:505V

@@ -1,0 +1,23 @@
+
+FECHA:13/05/2016
+
+REPORTADA: JHON JAIRO CORREA
+
+UPS N°1 PRESENTA FALLA POR BAJO VOLTAJE
+
+DIONIS M. ZAPATA V.  13/05/2016
+Se inspecciona, se evidencia que el breaker de entrada de baterias no cierra bien, por criticidad de los equipos, se espera oportunidad de intervencion.
+
+
+
+Dionis M. Zapata V. 14/05/2016
+
+Se revisa y se encuentra que el breaker de baterias no cierra bien, este breaker tiene un dispositivo que protege las baterias de una descarga a fondo, las baterias se encuentran con un nivel de voltage bajo, por tal motivo no deja cerrar el breaker para que ellas carguen, entonces se retira este dispositivo para su revision e inspeccion en laboratorio y asi poder cerrar el breaker.
+
+
+
+Dionis M. Zapata V. 07/07/2016
+
+Se monta el dispositivo de proteccion de descarga a fondo de baterias, este fue revisado en laboratorio y se encontro bien, la falla pasada fue baterias bajas de voltage.
+
+  

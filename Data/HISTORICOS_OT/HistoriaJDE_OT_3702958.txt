@@ -1,0 +1,15 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 22/03/2018
+
+ELABORAR INSTRUCTIVO  PARA MOTORES Y ELEMENTOS DE ACCIONAMIENTO DEL MOTOREDUCTOR. VERIFICAR APLICACION (REALIZAR MANTENIMIENTO, SEGUN INSTRUCTIVO PILOTO); LUEGO, HACER AJUSTES.
+
+APLICA PARA LAS TRES COMPUERTAS.
+
+OCTUBRE 18 DE 2018
+Se realizó el instructivo en el formato el cual fue suministrado para ser montado en máximo, queda pendiente de la revisión y que salgan de modo automatica para la continuidad del mantenimiento.
+Programó: William Lopera
+
+
+
+

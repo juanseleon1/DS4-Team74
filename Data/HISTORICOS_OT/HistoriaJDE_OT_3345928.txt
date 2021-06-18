@@ -1,0 +1,24 @@
+2016-12-16 REALIZÓ: LUIS EDUARDO ARCILA - ANDRES FELIPE RAMIREZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3345928, PASO:1          
+Siendo las 17:14 sale de sincronismo la unidad 3, actúan protección diferencial. Protección tierra estator. En coordinación con el ing. Juan David Granada se revisa. se toma medidas de aislamiento a la unidad, esta medida se realizó desde el transformador de neutro, se desconecto el transformador de neutro y la tierra del transformador de excitación, valor registrado 153.8 Megohmios después de diez minutos y 5000 Voltios (IP: 1.15). se revisan los Pts. de protección, encontrándose sulfatación en los contactos del secundario de la fase R. estos contactos son enchufables. Se coordina con el Ing. Juan David para dar arranque a la unidad y monitorear la tensión, se lleva a modo energizada. Se verifica las variables de protecciones y queda en condiciones normales
+
+Se crean solicitude de trabajo con el fin de realizar mantenimienot general a todos los Pt's de las Unidades: 
+3346394 PTS MEDIDA GEN U3 GT
+3346395 PTS MEDIDA GEN U1 GT
+3346396 PTS MEDIDA GEN U2 GT
+3346397 PTS MEDIDA GEN U4 GT
+3346398 PTS MEDIDA GEN U5 GT
+3346399 PTS MEDIDA GEN U6 GT
+3346400 PTS MEDIDA GEN U7 GT
+3346401 PTS MEDIDA GEN U8 GT
+2016-12-16 REALIZÓ: LUIS EDUARDO ARCILA - ANDRES FELIPE RAMIREZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3345928, PASO:1          
+Siendo las 17:14 sale de sincronismo la unidad 3, actúan protección diferencial. Protección tierra estator. En coordinación con el ing. Juan David Granada se revisa. se toma medidas de aislamiento a la unidad, esta medida se realizó desde el transformador de neutro, se desconecto el transformador de neutro y la tierra del transformador de excitación, valor registrado 153.8 Megohmios después de diez minutos y 5000 Voltios (IP: 1.15). se revisan los Pts. de protección, encontrándose sulfatación en los contactos del secundario de la fase R. estos contactos son enchufables. Se coordina con el Ing. Juan David para dar arranque a la unidad y monitorear la tensión, se lleva a modo energizada. Se verifica las variables de protecciones y queda en condiciones normales
+
+Se crean solicitude de trabajo con el fin de realizar mantenimienot general a todos los Pt's de las Unidades: 
+3346394 PTS MEDIDA GEN U3 GT
+3346395 PTS MEDIDA GEN U1 GT
+3346396 PTS MEDIDA GEN U2 GT
+3346397 PTS MEDIDA GEN U4 GT
+3346398 PTS MEDIDA GEN U5 GT
+3346399 PTS MEDIDA GEN U6 GT
+3346400 PTS MEDIDA GEN U7 GT
+3346401 PTS MEDIDA GEN U8 GT

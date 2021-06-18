@@ -1,0 +1,23 @@
+Planeador: Juan David Correa Castro
+Aprobador: Daniel Eduardo Toscano Patiño
+Fecha de creación: 01/11/2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento preventivo a realizar: 
+·Recorrido por los componentes de la presa; 
+oCresta 
+oTalud aguas arriba
+oTalud aguas abajo 
+oEstribos 
+oVertedero 
+oCompuertas (vertedero o descarga de fondo) 
+oGalerías
+·Realizar lectura de la instrumentación; 
+oPiezómetros
+oVertedero de aforo 
+oMedidor de junta
+oExtensómetros
+oMedidor de asentamiento 
+oCeldas de asentamiento
+oPéndulo
+oCelda de presión total
+·Descargar la información en la base de datos de seguridad de presas.

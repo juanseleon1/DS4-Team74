@@ -1,0 +1,6 @@
+
+FECHA: MARZO 11 DE 2016 OT 3043172
+
+EJECUTANTE: ELIECER PUSHAINA Y ELISAUL FUENTES
+SOLICITANTE: HENRY GIRALDO
+Se retira el contactor 17K2 del AG2 para colocarlo en la top box de potencia del AG11.

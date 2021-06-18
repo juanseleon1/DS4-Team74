@@ -1,0 +1,18 @@
+
+Dionis M. Zapata V. Miércoles 27/03/2019
+ Informa Operacion que en el turno anterior (Noche)se perdió la comunicación con el controlador 1 de Unidad, de la U1 con el SCADA, se inspecciona y se encuentra forzado el Controlador 2, en el control de redundancia, se normaliza y se realizan pruebas y todo se evidencia en operación normal, queda como Principal el Controlador 1.
+ 
+ Gestion de O.T`s
+ 
+ 
+ Dionis M. Zapata V. Sábado 30/03/2019
+ Operacion informa que la IHM del Controlador NE+W02 se encuentra bloqueada, se verifica y se procede a resetear la aplicación (SICAM 230), para restablecer el funcionamiento, queda trabajando O.K
+ 
+ Se realiza levantamiento de plano de la señal del permisivo de puesta a tierra en S/E de la U1, se verifica con este y se encuentra que hay cableado trocado, se debe tener presente para un paro de maquina corregir.
+ 
+ 
+ Dionis M. Zapata V. Domingo 31/03/2019
+ Se aspiran los tableros del R.T de la U3 y se montan los filtros de aire.
+ 
+ Se realiza gestión de O.T.
+

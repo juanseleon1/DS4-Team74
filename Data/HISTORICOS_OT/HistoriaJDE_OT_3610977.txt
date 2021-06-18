@@ -1,0 +1,10 @@
+28/09/2017 - JOHN JAIRO GONZALEZ VALENCIA
+ 
+Referente al TDE: desde hace varios meses la IHM está sin comunicaciones, cuando hay apertura de la línea de 44kv el interruptor Q2 se queda abierto, al momento de que la línea normaliza y el PLC manda a cerrar los interruptores este no ejecuta la operación
+
+
+INFORMA: JOHN JAIRO GONZALEZ VALENCIA
+         JORGE MARIO PEÑARANDA
+
+21/10/2017  GUILLERMO ECHEVERRY - JOHN JAIRO GONZALEZ V
+Se hacen verificacion en la IHM, se reinicia el PLC y la aplicacion de IHM, la IHM queda operativa pero sin comunicacion con el PLC, pendiente revisar la comunicación del controlador con respecto al PLC y el Interruptor.

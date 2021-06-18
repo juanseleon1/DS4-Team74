@@ -1,0 +1,14 @@
+05/08/2017 - Juan Camilo Montoya Fonnegra
+Se presenta una perdida de presión en el sistema hidraulico provocando el arranque de la bomba de manera excesiva, incrementando la temperatura del aceite.
+Se realiza el cambio de prioridad en la bomba para intentar solucionar la anomalia pero se evidencia que está no levanta presión siendo necesario regresar la prioridad a la bomba 1.
+
+
+21/08/2017
+
+se realizan pruebas con la unidad parada en modo simulacion para verificar los lazos de control en la valvula proporcional, ademas se realiza verificacion de los canales de velocidad. queda pendiente continuar con las pruebas en esta unidad ademas de verificar los puntos de paro y arranque de la bomba de refrigeracion para el aceite de la estacion hidraulica.
+
+REALIZADO POR WTOBONL
+
+termnada cerrar, se realizara por oportunidad mas pruebas con el grupo mecanico
+
+  

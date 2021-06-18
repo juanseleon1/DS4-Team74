@@ -1,0 +1,17 @@
+20/09/20108
+MANTENIMIENTO PREVENTIVO SEMESTRAL.
+Se realiza mantenimiento preventivo segun instructivo.
+- Se retiran las escobillas, se miden una por una para verificar cuales estan de cambio y cuales no.
+- Se realiza prueba de aislamiento antes de lavar, para conocer el estado actual del aislamiento del rotor, se anexa los resultados:
+
+ANTES DE LIMPIARAISLAMIENTO / TIERRAANILLO MVDCSUPERIOR11.8497INFERIOR11.1497
+- Se realiza lavado de la excitatriz y los anillos rozantes.
+- Despues de secado se repite la medida de aislamiento al rotor, se anexan los resultados:
+
+DESPUES DE LIMPIARAISLAMIENTO / TIERRAANILLO MVDCSUPERIOR129501INFERIOR114501
+Se cambian las siguientes escobillas por presentar desgaste:
+1-7-8 
+
+Ejecuto: Daniel Arango-Tatiana Almario
+Programo: Carlos Andres Forero
+

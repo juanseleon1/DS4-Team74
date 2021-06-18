@@ -1,0 +1,29 @@
+2018/08/29 RUBEN ARBOELDA
+Se tiene falla a tierra cargador 2, se crea OT para su revisión. 
+
+2018-08-28 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: , PASO:1          
+En casa de maquinas se tiene presente la tierra cargador 2, el día de hoy se realizó las medidas asó: 
+
+Positivo tierra: 130VCD
+Negativo tierra: 1VDC
+
+Se instaló el equipo y se realizó las mediciones en cada una de las líneas encontrando fallas en los siguientes sistemas: 
+Banco 4 positivo 90mA 
+Banco 4 negativo 90mA
+Umux 1500 negativo 50mA
+Control u8 negativo 115mA 
+Control u8 positivo 110 mA 
+Control u7 negativo 140mA 
+Control u7 positivo 120mA 
+Control u6 negativo 390mA
+Control u6 positivo 380mA 
+Control u5 negativo 150mA
+Control u5 positivo 150mA
+
+En la Unidad 6 se identificó la mayor cantidad de corriente, se abrieron interruptores y se identificó que ésta falla es provocada por la fuente -G101, esta fuente hace también una mezcla de voltajes inyectándole AC al sistema de DC, también se encuentra con falla el relé PP1, este presenta una medida de corriente de 40mA
+
+En el banco 4, no fue posible identificar un circuito franco, la corriente se divide en varios circuitos se requiere ir des-energizando los diferentes interruptores para identificar. 
+
+En la UMUX no se realizó el seguimiento. 
+
+En las otras unidades la falla es provocada por el sistema de vibraciones. 

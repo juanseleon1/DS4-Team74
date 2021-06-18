@@ -1,0 +1,9 @@
+Por motivos de estar en zona fria este compresor en la isla captación, del embalse Guatape, presentó una falla en tranformador de control de 480/ 120 - 48 VAC, el cual a la hora de energizar el compresor, fallo por control. 
+
+Se realizó cotización con el proveedor, se está a la espera de proceso de compra y montaje. 
+
+2014/07/07 - GIOVANNY DIAZ - MECANICOS Y PERSONAL DE ATLAS COPCO
+Se realizó el cambio de sello mecanico (2901 1819 00) el que tenía no era original, se realizó cambio de guardamotor Q15 3RV1011 - 16A10 4.5-6.3A. Se dejaron fusibles en tablero electrico 10x38 4A, queda pendiente cambiar el transformador por parte de Atlas Copo, ya que el que trajeron no aplica por voltaje de salida. 
+
+2014/08/29 - GIOVANNY DIAZ - YEISON ORTEGA
+Se realizó el montaje del tranformador de control, se realizó prueba de funcionamiento y se dejó en operacion normal, quedo una observación sobre el tranformador de control en el cual se observó como si estuviera reparado. 

@@ -1,0 +1,6 @@
+2015-09-30 JUAN CARLOS DUARTE MUÑOZ
+
+REVISAR LA ALARMA DE SOBRECARGA MOTOR EN DISPLAY. LA CONDICCIÓN DA PARO DE EQUIPO.
+
+2015/10/05 JUAN DAVID GARCIA - OSCAR GIRALDO
+Se realizó sguimiento a la proteccion, se realizo medidas electricas y se encontró en condiciones normales, se retiró la gaveta del CCM y se encontro que la peineta estaba sobrecalentada, se procedio a realizar el cambio de ambas peinetas (Macho y Hembra), se realizó pruebas de funcioanmiento y se dejo en condiciones normales. 

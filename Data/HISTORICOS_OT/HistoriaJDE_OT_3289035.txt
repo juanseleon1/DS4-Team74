@@ -1,0 +1,6 @@
+FECHA: OCTUBRE 23 DE 2016
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla en el mecanismo de accionamiento del Main Switch, al encontrarse disparado no abría completamente y de nuevo se disparaba, se procede a destaparlo y se corrige falla en este mecanismo, se realiza prueba quedando bien y se deja en observación.

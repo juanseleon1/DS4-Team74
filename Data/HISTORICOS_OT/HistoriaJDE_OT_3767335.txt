@@ -1,0 +1,34 @@
+20/09/2018
+MONTAJE NUEVO TABLERO DE VIBRACIONES G41 - G42 Y G43
+
+Conexion y puesta en servicio del tablero de vibraciones.
+
+21/09/2018
+
+se ancla en sitio tablero nuevo de vibraciones, queda pendiente la instalacion de la canaleta y cablear las señales asociadas al nuevo tablero.
+
+25/10/2018
+
+se realiza perforacion a puerta de antiguo tablero de vibraciones, Y se instala IHM de visualizacion que operara con el tablero de vibraicones A-MAQ.
+
+25/10/2018
+
+se acondiona canaleta para conduccion de cables entre el tablero de vibraciones existente y el nuevo tablero A-MAQ.
+
+31/10/2018
+
+se acondiciona cableado que interconectara tablero de vibraciones existente, con nuevo tablero de vibraciones A-MAQ, ( 24 cables de señal para lectura de sensores, 1 cable de red, 1 cable de alimentacion 125 UPS)
+
+05/11/2018
+se adecua cable de comunicacion ETHERNET a traves de canaleta, desde tablero de A-MAQ, pasando por antiguo tablero de vibraciones, hasta el switche de comunicaciones Casa maquinas GIV. Se conecta en borneras de tablero A-MAQ,las lineas correspondientes a la señal de los sensores de vibracion de las 3 unidades, se conecta cable de alimentacion 125 UPS y alimentacion miscelaneos, y se realiza montaje de PC insductrial para tablero A-MAQ, en antiguo tablero de vibraciones.
+
+13/12/2018
+Se realiza cambio de borneras en antiguio tablero de vibraciones, se reemplazan las borneras existentes, por borneras seccionable de doble puesto, con el objetivo de realizar la conexion de señales requeridas para el tablero A-MAQ, seguidamente se realiza la conexion de las señales de campo para el tablero A-MAQ.
+
+14/12/2018
+Se conecta adaptadores de alimentacion para pc industrial y IHM del tablero A-MAQ.
+
+20/12/2018
+Se ponchan terminales para conectores rj45 en cable de comunicacion, para pc industrial,IHM y switche de comunicacion del tablero A-MAQ. se destina el puerto 4 del switche 10.24.4.8 (OPERACION GIV), para realizar el enlace del tablero A-MAQ con Medellin. 
+
+PROGRAMO: Luis Adrian Cardona

@@ -1,0 +1,11 @@
+
+2018/04/10 _ CARLOS ENRIQUE MONCADA. OT N° 3710445.
+Referente a la Potencia Reactiva de las Unidades de Generación: Por presentarse perdida de esta variable, en las unidades 2 - 3 - 4 con Medellín, se revisa y verifica en el scada la función DNPM encontrándose bloqueada. Se le da stop y de nuevo inicio a c/u de los PAS. 
+Se verifica con el CCG Medellín comprobando la visualización de las variables.
+Realizó: Carlos Sanchez y Carlos Moncada.
+Informa: Carlos Moncada.  
+
+--------------------
+2018/04/10 _ CARLOS ENRIQUE MONCADA. OT N° 3710445.
+Referente a la Potencia Reactiva de las Unidades de Generación: Informa Carlos Betancur del CCG que se encuentran congeladas las medidas de los MVA de las unidades 2 - 3 - 4; estas unidades se encontraban fuera de servicio. Se le informa al Ing. Oscar Duque.
+ 

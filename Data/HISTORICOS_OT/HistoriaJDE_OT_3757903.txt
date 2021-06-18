@@ -1,0 +1,37 @@
+2018/08/24 RUBEN ARBOLEDA - SEGUN INFORME DIARIO: 
+BANCO TRANSFORMADOR 2 C/M GT - 5721
+Fecha: 2018/08/24 Hora: 00:56 Categoría: Salida Forzada
+Usuario: Carlos Hernando Salazar Vallejo OT:
+Hay apertura de interruptor del grupo principal de bombas. Se revisa condiciones y se cierra sin novedad a
+las 01:01. Queda en observación.
+
+Fecha: 2018/08/24 Hora: 06:08 Categoría: Salida Forzada
+Usuario: Carlos Hernando Salazar Vallejo OT:
+De nuevo hay apertura de interruptor del grupo principal de bombas. Se cierra sin novedad a las 06:10
+
+Se programa una inspeccion termográfica y medida de corrientes en el tablero +KA2
+
+2018-08-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3757903, PASO:1          
+Se realizó inspeccion termográfica general al tablero +KA2 correspondeinte al banco 2, 
+REGISTRO DE VOLTAJES Y CORRIENTES -FASE R - OLP 11
+FASE R= 3.4 A
+FASE S= 3.4 A
+FASE T= 3.3 A
+FASE RS = 451.8 V
+FASE ST = 450.6 V
+FASE RT = 452.5 V
+REGISTRO DE VOLTAJES Y CORRIENTES -FASE S - OLP 12
+FASE R= 3.5 A
+FASE S= 3.6 A
+FASE T= 3.3 A
+FASE RS = 452.2 V
+FASE ST = 450.7 V
+FASE RT = 452.9 V
+REGISTRO DE VOLTAJES Y CORRIENTES -FASE T - OLP 13
+FASE R= 3.5 A
+FASE S= 3.4 A
+FASE T= 3.4 A
+FASE RS = 451.6 V
+FASE ST = 450.8 V
+FASE RT = 453.2 V
+DIAGNOSTICO No se evidencian diferencias de temperatura entre los bornes de conexion de los breaker y los cables de potencia del Grupo1 de motobombas del banco 2. Se realiza una revision al ajuste de los tornillos para garantizar el contacto electrico.

@@ -1,0 +1,8 @@
+FECHA: Septiembre 27/2018PROGRAMO: Daniel PalaciosEJECUTO: Julián Camilo Giraldo, Frank Manuel Córdoba y John Jader Orrego
+
+Se realiza inspección y limpieza al tablero CB, cargador de baterías, se le verifica el buen estado de las puestas a tierra, cableado, conexionado y componentes eléctricos del tablero, se verifica el correcto funcionamiento de la calefacción y del alumbrado, se inspecciona el estado de las pinturas del tablero y puertas, se verifica y lubrica bisagras y cerraduras. Se hace medición a las baterías del cargador.
+Trabajo ejecutado por: Julián Camilo Giraldo, Frank Manuel Córdoba y John Jader Orrego
+
+FECHA: 11 DE SEPTIEMBRE DEL 2018 PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y MTTO ELECTRICO AL TABLERO DE CARGADORES DE BATERIAS 1 Y 2 A 24 VDC Y SU CELDA BATERIAS, REALIZAR INSPECCION LIMPIEZA Y TOMA DE VOLTAJES EN CADA BATERIA, REGISTRAR EN PLANILLA.

@@ -1,0 +1,13 @@
+FECHA: 16 SEPTIEMBRE 2016
+
+INGENIERO ENCARGADO: HÉCTOR GÓMEZ
+
+DESCRIPCIÓN DEL EVENTO Y DE LA ATENCIÓN: SALE DE SINCRONIZMO LA UNIDAD P32 POR PARO PARCIAL 1, DEBIDO A VARIACIÓN DE TEMPERATURA EN LA RTD-B7 DEL DEVANADO DEL ESTATOR. SE DESHABILITA LA RTD-B7 PARA SU REVISIÓN Y PODER VOLVER A SINCRONIZAR LA UNIDAD NUEVAMENTE.
+ATENDIÓ: EQUIPO MANTENIMIENTO ELECTRÓNICO - OPERADORES TURNO DÍA: WALTER TOBÓN - CAMILO MONTOYA Y JUAN FERNADO ROLDAN
+
+
+17/09/2016
+
+Se realiza verificación de lazos en la RTD del estator B7, relé de protección TPU2 se encuentra con problemas una de las compensaciones se procede habilitar la medida de nuevo después de realizar pruebas y estabilizar la medida, se bloquea alarma y disparo para monitorear la medida de esta RTD, se normalizan los bornes 10-11-12 de X151 en el tablero. La medida queda habilitada y los disparos de esta RTD bloqueados para realizar monitoreo.
+Realizado por Wtobonl
+Terminada Cerrada

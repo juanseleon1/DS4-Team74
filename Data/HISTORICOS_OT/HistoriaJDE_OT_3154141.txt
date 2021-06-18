@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 23 de Junio de 2016
+Síntoma: Ajustar el sensor de nivel de la central (el sensor de nivel que controla el sistema automatico de apertura de compuertas) con respecto a los sensores de nivel de hidrometria para que el sensor de nivel de la central mida exactamente o muy parecido a los sensores de hidrometria. ya que el sensor de nivel de la central esta midiendo valores no acordes al nivel de embalse.

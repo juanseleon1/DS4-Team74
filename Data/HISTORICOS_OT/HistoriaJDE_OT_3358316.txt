@@ -1,0 +1,28 @@
+
+2017/1/4 Jorge Garzon
+
+Sale eventualmente falla del controlador sacando casacada de eventos "señal Falla" sin causa aparente. Al revisar el equipo no se ve nada fallado encontrandose en P1, estado normal
+Se programa mantenimiento para identificar anomalía.
+
+2017/1/4 Luis Eduardo Arcila
+Se realiza mantenimiento al controlador de servicios auxiliares, se carga de nuevo el programa, quedando en condiciones normales. 
+3 horas Después del mantenimiento falla de nuevo quedando el controlador en P2 y las tarjetas DSBC173 y la DSDO115 en falla y un fuerte olor a elemento electrónico quemado.
+Se retiran estas dos tarjetas falladas y se energiza el controlador, se carga el programa y este responde satisfactoriamente.
+El rack superior se encuentra por fuera de servicio, ya que no se cuentan con tarjetas de repuesto.
+
+
+
+
+2017/1/4 Jorge Garzon
+
+Sale eventualmente falla del controlador sacando casacada de eventos "señal Falla" sin causa aparente. Al revisar el equipo no se ve nada fallado encontrandose en P1, estado normal
+Se programa mantenimiento para identificar anomalía.
+
+2017/1/4 Luis Eduardo Arcila
+Se realiza mantenimiento al controlador de servicios auxiliares, se carga de nuevo el programa, quedando en condiciones normales. 
+3 horas Después del mantenimiento falla de nuevo quedando el controlador en P2 y las tarjetas DSBC173 y la DSDO115 en falla y un fuerte olor a elemento electrónico quemado.
+Se retiran estas dos tarjetas falladas y se energiza el controlador, se carga el programa y este responde satisfactoriamente.
+El rack superior se encuentra por fuera de servicio, ya que no se cuentan con tarjetas de repuesto.
+
+
+

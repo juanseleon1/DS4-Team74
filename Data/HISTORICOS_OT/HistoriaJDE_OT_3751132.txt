@@ -1,0 +1,6 @@
+02/08/2018 María Isabel Arias
+
+Se debe realizar cambio del inyector para posicionar un inyector reparado. El inyector se retira porque ya cumplió su vida útil y presenta desgaste por cavitación, erosión y corrosión. 
+
+2018/08/28 DIEGO BEDOYA
+Se cancela esta OT, porque el cambio del inyector n°3 de la unidad N°5 se trabajó en la OT 3749759.

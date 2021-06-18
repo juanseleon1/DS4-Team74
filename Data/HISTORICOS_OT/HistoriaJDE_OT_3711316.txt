@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711316
+
+BAE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO
+
+Se realiza verificación y limpieza al transformador de excitación en el piso S2, al seccionador de 500 V AC, a los bancos de tiristores, al barraje de salida de 125 V DC, al interruptor de campo siguiendo el procedimiento. Se realiza manatenimiento al transformador de excitación y se le hacen chequeos de resistencia de aislamiento, resistencia ohmica, medida de inductancia. Se llenan registros con los datos obtenidos.
+Trabajos realizados por: Jhon Jader Orrego, Dario Puerta, Oscar Montoya, Carlos Vasquez.

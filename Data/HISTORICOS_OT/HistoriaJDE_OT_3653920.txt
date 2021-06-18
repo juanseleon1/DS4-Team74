@@ -1,0 +1,17 @@
+FECHA: 03 DICIEMBRE 2017
+
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCION: SE PRESENTO SALIDA FORZADA DE LA UNIDAD 1 POR FALLA TIERRA ROTOR, SE REVIZO EL LAZO DE CONTROL DE ESTE RELE, SE INPECCIONO LA EXCITACION Y EN GENERAL LA UNIDAD Y NO SE OBSEVO NINGUNA ANOMALIA EN EL AISLAMIENTO.
+
+
+DICIEMBRE 3 DE 2017.
+Se presentó salida forzada “  falla tierra rotor” . Se reviso el lazo de control de este relé, se inspecciono la excitación y en general la unidad y no se observó ninguna anomalía en el aislamiento. Se observa que fue una falsa señal en el relé, en el momento de la, inspección el relé muestra 227 K. se resetea, normaliza el relé de paro de emergencia y se sincroniza la unidad. Se deja la instrucción al grupo de operación de seguir en observación la señal de tierra rotor. 
+Informo: William Lopera, Oscar Arango.
+
+DICIEMBRE 7 DE 2017.
+Referente a G31, por oportunidad se revisa la excitación encontrando desgaste en dos escobillas, contaminación de polvo de grafito y el relé de tierra rotor con indicación en 191 Kilo Ohmios se procede a lavar la excitación con liquido dieléctrico, se cambia la escobilla # 5 y 21 de los anillos rozantes, se realiza pruebas de resistencia de aislamiento después de lavar quedando en 1.25 G, y el relé de tierra rotor en la máxima medida, se gira la unidad hasta energizada quedando en condiciones normales.
+
+Realizó: Grupo eléctrico.
+Informó: William Lopera.
+

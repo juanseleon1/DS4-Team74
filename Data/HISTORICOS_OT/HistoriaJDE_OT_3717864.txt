@@ -1,0 +1,15 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO.
+Se realiza verificación y limpieza a las celdas +EG1 y +EG2 banco de tiristores 1 y 2, se retiran ventiladores para su limpieza se revisan tiristores y se hace aseo a la celda. Lo mismo en la celda +EE barraje de salida y la del interruptor de campo. 
+Trabajo ejecutado por: John Jader Orrego, Frank Manuel Córdoba, Alejandro Echeverri y Ángel Sánchez.
+
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  
+

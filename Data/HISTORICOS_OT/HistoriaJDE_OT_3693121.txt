@@ -1,0 +1,10 @@
+MARTES 27 DE FEBRERO DE 2018.
+REFERENTE A LA UNIDAD 2: Cuando la unidad alcanza el 90% de las RPM, el sistema de inyección no confirma presión establecida, quedando la bomba en servicio.                                                                                                                Después de sincronizar la unidad se pasa las bombas en modo manual y se dejan fuera de servicio.                                                                                             NOTA: se debe tener en cuenta que en el momento de dar paro a la unidad se deben poner en servicio una de las bombas, queda pendiente revisar el instrumento de presión.                                                                                             Informo: Fernando Lopera y Walter Gómez (turno 1)
+Relizo: turno 2 Carlos Guinguer, Jose Osbaldo Lopera Jorge Ivan Gonzalez 
+
+
+27/02/2018
+
+Sistema de alta presion (TCBA) se encuentra el sistema trabajando con la unidad generando, esto al parecer por un tiempo saturado en la lógica de control debido a la confirmación de unidad excitada, se da reset ha este tiempo y el sistema queda detenido y normalizado. El sistema queda en observación para otro arranque o paro. Esta acción se realiza en lógica del programa.
+REALIZADO POR WTOBONL
+TERMINADA CERRAR

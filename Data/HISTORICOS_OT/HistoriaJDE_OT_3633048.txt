@@ -1,0 +1,18 @@
+ANUAL INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+31-10-2017
+PROGRAMADOR JOSE MONTOYA
+ANUAL G41
+02/11/2017
+SE REALIZA VERIFICACION SEÑAL LAZOS DE CONTROL DEL COJINETE TURBINA, SE VERIFICAN LAS MEDIDAS DE LAS VIBRACIONES, SE REVISAN LOS NIVELES DE ACEITE, MANENIMIENTO Y VERIFICACION RTD´S Y LLENA PLANILLA DE REGISTROS
+SE HABILITO EL ACCIONAMIENTO DE LA JUNTA INFLABLE
+CUATRIMESTRAL
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL 8,52VDC y CTPR 8.70VDC    - KPH: 8.17VDC.
+Nivel de aceite se encontró en 64, el nivel patrón es 68mm
+Se inyectan las señales
+  COJ. TURBINA °CPATRÓN °C METAL 2 METAL 5 ACTE 4 ACTE 640 41,6 40,1 39,8 40,360 61,6 60,1 60 60,280 81,8 80,1 81 80,2ALARMA 81 75,0 81 80DISPARO 86 80,0 85 85Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2017\TRIMESTRALES G4
+
+
+
+

@@ -1,0 +1,8 @@
+ANUAL ELECTRICO: MANTENIMIENTO GENERAL TRANSFORMADOR DE POTENCIA
+
+13/07/2017
+inspeccion y limpieza, de los barrajes por el lado de baja tension, se evidencia que estan limpios, en el ducto se ve manchas de agua seca. inspeccion y limpieza del buje de alta y del punto neutro que se encuentran sucios, inspeccion y revison de rele buchholz, en la fase T se evidencia una fuga leve, se reapreta brida  por donde se encuentra el goteo de aceite. en la fase T se encuentra flojo uno de los tornillos del buje del punto neutro, al momento de volver a conectar se le dara el torque adecuado, se hacen pruebas de aislamiento las cuales quedan registradas debidamente en las planillas correspondientes, se hace mantenimiento al tablero de control de los ventiladores, se cambia la silica que se encontraba contaminada por silica nueva y en buen estado...
+
+JUAN A. CAICEDO HENAO -- ALIRIO HERNANDEZ
+
+REGISTRO DE MANTENIMIENTO PREVENTIVOMEDIDA DEL INDICE DE POLARIZACIONNOMBRE DE LA PLANTA:Guadlupe IVELABORÓ:JUAN D GUTIERREZUNIDAD No.FASE T, BANCO 2MATEO PEREZFECHA:14/07/2017No. OT:Fase/Fases Lectura en GLectura en G Indice de polarizaciónA tierra 1Min. 10 Min. Ip = 10 Min./1 Min.TIERRA / Y1Y2 5,811,35TIERRA / H1H0 12,351,51H1H0 / Y1Y2 - X1X2 19,161,32EQUIPO EMPLEADO:Megger MIT 1025VOLTAJE APLICADO:10200 VCONDICIONES DE LA PRUEBA:

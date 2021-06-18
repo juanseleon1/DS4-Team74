@@ -1,0 +1,6 @@
+
+FECHA: DICIEMBRE 13 DE 2013
+
+RESPONSABLE: GERMAN ECHAVARRIA, ELIECER PUSHAINA Y ALVARITO PUSHAINA
+
+Se retira el sistema de acople que tenia el generador y se cambia por el nuevo sistema que se estará ensayando en este aerogenerador, queda faltando colocar la parte de goma y realizar torques.

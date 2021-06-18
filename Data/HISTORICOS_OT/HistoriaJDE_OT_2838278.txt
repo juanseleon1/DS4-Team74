@@ -1,0 +1,7 @@
+2015/08/04 GIOVANNY DIAZ
+Se realizó la adecuación de la señal de entrada =8.95 correspondiente a la señal de indicación de puertas del interruptor de la unidad 6, adicionalmente se realizó el ajuste de los planos en la hoja 6206 y se adecuó en el folder correspondiente a la unidad. 
+
+Se realizó pruebas y se verificó la señal hasta el SCADA, queda pendiente por parte de Cesar Tulio Jimenez el ajuste de la leyenda e indicación.
+
+2015/08/24 ANGEL ADONIS CADAVID OCHOA
+ SE GENERO LA OT 2852815 PARA QUE EL EQUIPO ELECTRONICO CAMBIE LA LEYENDA EN EL SISTEMA SCADA

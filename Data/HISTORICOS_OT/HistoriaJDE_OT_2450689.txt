@@ -1,0 +1,6 @@
+
+FECHA: ENERO 12 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se presenta falla 4,0 OC16 (fibra óptica) se inspecciona la top box y se encuentra disparado el Mcb 104F1 se repone y se normaliza la falla.

@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en actividades relacionadas con la inspección del rodete francis de la UG42
+
+Programador: Camilo Montagut - 24/06/2018
+
+Se realiza inspección del rodete francis de la unidad. El ensayo de líquidos penetrantes en la zona de aspiración del rodete (cangilones fijos) no registró fisura de ninguno de ellos. Se hace mapeo de todos los álabes donde se registra las dimensiones de las erosiones encontradas. 
+
+Además se realiza inspección de las 4 bases de la cruceta que fueron reparadas en el mantenimiento anual del 2017 encontrándose en perfecto estado.
+
+Ejecuta: equipo mantenimiento mecánico UOG

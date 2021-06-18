@@ -1,0 +1,4 @@
+2017/12/12 FARLEY GIOVANNY DIAZ
+Se realiza la inspección visual, medidas de voltajes, estado de los relés en modo aplicados y desaplicados y se revisa señalización con respecto a la planilla.
+2017-12-06 REALIZÓ: JHONATAN ANDRES USME - JEISON ALBERTO ORTEGA,  PROGRAMO: FDIAZ OT: 3651684, PASO:1          
+Se realizó mantenimiento prevenitivo a la Unidad 8, se realizó revision de los sensores de los frenos, se encontró en condiciones normales

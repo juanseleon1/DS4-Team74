@@ -1,0 +1,5 @@
+ENE 7/2015 OT: 2623841 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+El rele de la transferencia fue cambiado por estar fallado
+
+SOLICITANTES: Ramiro Cordoba. - Mario H. -- FECHA: Martes, . 21 Del 2014.
+EL  TABLERO  DE  POTENCIA  UNIDAD  SERVICIOS  AUXILIARES  440AC  DE  G33,  PRESENTA  FALLA  SISTEMA  Y  NO  RESPONDE  AL RESET.  FAVOR  ATENDER.

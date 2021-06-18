@@ -1,0 +1,12 @@
+03/10/2016. MAURICIO RUIZ.
+
+EN EL PROCESO DE ARRANQUE DE LA UNIDAD 1 LA ELECTROVALVULA XV-Y11 NO ABRE AUTOMATICAMENTE, POR LO QUE SE PROCEDE A ABRIRLA MANUALMENTE.
+
+
+12/12/2016
+
+Se cierra por que el proceso no ha fallado despues de esta nota, aun este se encuentra en observacion si se precenta de nuevo, se solicita mas informacion de operacion para intervenir el sistema como la fecha y hora del evento.
+
+Realizado por Wtobonl 
+
+CERARR 

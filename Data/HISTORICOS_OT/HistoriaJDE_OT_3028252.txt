@@ -1,0 +1,8 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: FEBRERO 22 2016
+EJECUTANTE:Alvarito, Elisaule y Probayo
+
+
+Se sube al AG4, se desconectan los cables y se le hace una medida de aislamiento al generador dando infinito.
+Se verifica el contactor 17K1. Se cambia el aire acondicionado de la top box 2.
+Se deja el aerogenerador en servicio.

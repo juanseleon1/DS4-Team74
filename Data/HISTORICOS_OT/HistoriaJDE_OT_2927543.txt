@@ -1,0 +1,4 @@
+SOLICITANTE:                                                                                                                                                                                                                                    REVISAR IHM DEL CONTROL DE LA UNIDAD 1 CENTRAL RIOGRANDE, LA PANTALLA NO ESTA TRABAJANDO CORRECTAMENTE (FALLADA).                                                                                                                                                                            SOLICITA: JEISON HERRERA - JULIAN CADAVID
+
+JULIO 19/2016   OT: 2927543 PLANEADOR: WGARCIAC EJECUTO: JGUINGUER
+SE CAMBIA PANTALLA POR FALLAS EN EL DISPLAY, LA CPU ESTABA BIEN POR TANTO NO SE MODIFICÓ. SE DEJA OPERANDO NORMALMENTE EL SISTEMA .

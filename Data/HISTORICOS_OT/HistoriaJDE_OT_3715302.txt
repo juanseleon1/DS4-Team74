@@ -1,0 +1,7 @@
+ FECHA 02/07/2018 OT # 3715302, PROGRAMO R JIMENEZ, EJECUTO CAMILO CARDONA
+ Se realiza cambio del Relé EE.X de arranque automático de los compresores de alta presión, este relé bloqueaba el funcionamiento de este sistema en automático. Se realIza cambio por un rele de la estacion hidroflow, ya que no hay repuesto de estos, se hace pruebas y el sistema funciona normalmente.
+REFERENTE AL SISTEMA DEL AIRE COMPRIMIDO REGULADORES DE VELOCIDAD.
+ENCUENTRA  FALLADO EL ARRANQUE AUTOMÁTICO DE AMBOS COMPRESORES.
+FECHA. 22 ABRIL - 2018.
+
+SILICITA: LUIS FERNANDO LOPERA - VICENTE GAMBOA H.

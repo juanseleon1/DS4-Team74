@@ -1,0 +1,9 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 16-01-2018
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento: 
+
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+Reparación sistema de transmisión
+Reparación sistema de potencia 

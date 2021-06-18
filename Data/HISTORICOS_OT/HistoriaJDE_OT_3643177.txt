@@ -1,0 +1,10 @@
+MP ANUAL EQUIPOS:
+-2370 EXCITACIÓN PRINCIPAL U1 G3
+-2370 EXCITACIÓN PRINCIPAL U2 G3
+
+
+NOVIEMBRE 19 DE 2017.
+Se desmonta todo el sistema de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, y mantenimiento en general ya que se tiene la posibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio armado, se hacen pruebas antes y después del mantenimiento al inductor, inducido, anillos rozantes y sobre velocidad mecánica para verificar su estado. Después de la limpieza se vuelve armar toda la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria y en los formatos de pruebas que se llevó durante el mantenimiento anual de la unidad.
+
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO GANILLO GSUPERIOR 2.03SUPERIOR 2.69INFERIOR1.83INFERIOR 2.46
+William Lopera.

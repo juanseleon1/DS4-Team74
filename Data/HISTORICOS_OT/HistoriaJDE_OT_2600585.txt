@@ -1,0 +1,6 @@
+MANTENIMIENTO GENERAL CALEFACCION GENERADOR CENTRAL PORCE 2.
+
+SEP 24/2014 OT: 2600582 PROGRAMÓ: R JIMENEZ, EJECUTÓ: JORGR MUÑOZ
+Se realizó el mtto CE. de acuerdo al instructivo GCP2E0002.
+Fueron realizadas las pruebas eléctricas a los bancos de resistencias.
+Ver registros en el archivo de Porce II.

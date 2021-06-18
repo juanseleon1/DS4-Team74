@@ -1,0 +1,28 @@
+MP ANUAL EQUIPOS:
+
+263574 CONTROLADOR UNIDAD +TCU1 U1 G3
+263575 CONTROLADOR UNIDAD +TCU2 U2 G3
+263576 CONTROLADOR UNIDAD +TCU3 U3 G3
+263577 CONTROLADOR UNIDAD +TCU4 U4 G3
+263578 CONTROLADOR UNIDAD +TCU5 U5 G3
+263579 CONTROLADOR UNIDAD +TCU5 U6 G3 
+
+09/08/2018
+OT 3748982
+
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+Se realizó inspección visual, verificación y limpieza del tablero de control.
+
+Se revisó la conexión de los cables y se reapretó la bornera de control.
+
+Se realizó verificación y mantenimiento a la pantalla de unidad, revisando el cooller del procesador. 
+se revisó el cableado profibus DP de la unidad y las link-device de la unidad. también se le hace mantenimiento al aire acondicionado.
+Con el calibrador de procesos se realiza inyección de temperatura al lazo de instrumentación asociada a todas las señales de temperatura que son monitoreadas por el control de unidad.
+
+REALIZO: GRUPO DE ELECTRONICA

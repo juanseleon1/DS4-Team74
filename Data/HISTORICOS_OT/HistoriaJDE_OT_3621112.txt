@@ -1,0 +1,6 @@
+2017/10/08 PLANEO MAURICIO QUIJANO 
+SE ENERGIZA REGULADOR DE TENSION, PRESENTANDO ALARMAS QUE DISPARAN LA UNIDAD CON FALLA 86E.
+
+2017/10/08
+Al momento de energizar falla fuente VT100, se cambia por una de repuesto y se carga el programa quedando en condiciones normales de operacion.
+ 

@@ -1,0 +1,44 @@
+29/08/2018 MARIA ISABEL ARIAS RENDON
+Orden de trabajo generada para la consignación de la U1 a fin de realizar pruebas eléctricas de asilamientos e inspección a la salida del devanado.
+
+2018-09-11 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3759959, PASO:1          
+Se realizó desarme del barraje de salida y barraje de neutro de la unidad 1 para realizar pruebas eléctricas, adicionalmente se retiraron las escobillas.
+
+2018-09-11 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3759959, PASO:2          
+Se realizó revisión del barraje de salida desde el estator hasta la entrada al transformador de excitación de la Unidad 1
+
+2018-09-11 REALIZÓ: OSCAR ALIRIO GIRALDO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3759959, PASO:3          
+Se realizó apoyo en pruebas eléctricas al estator de la unidad 1. 
+
+2018-09-11 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3759959, PASO:4          
+Se realizó el armado del barraje de salida, barraje de neutro y la instalación de escobillas después de realizar las pruebas eléctricas al rotor y estator de la Unidad 1.
+
+
+
+De: CARLOS ARTURO PALACIO VELEZ Enviado el: jueves, 13 de septiembre de 2018 02:31 p.m.Para: JORGE ALIRIO HERNANDEZ QUINTERO <Jorge.Hernandez.Quintero@epm.com.co <mailto:Jorge.Hernandez.Quintero@epm.com.co>>; CESAR AUGUSTO HOYOS HENAO <Cesar.Hoyos@epm.com.co <mailto:Cesar.Hoyos@epm.com.co>>CC: CESAR ALFONSO TOVAR ARIAS <CESAR.TOVAR@epm.com.co <mailto:CESAR.TOVAR@epm.com.co>>; GABRIEL ARCANGEL SANTIAGO CASTANEDA <Gabriel.Santiago@epm.com.co <mailto:Gabriel.Santiago@epm.com.co>>; CARLOS ALBERTO ZULUAGA RIOS <Carlos.Zuluaga.Rios@epm.com.co <mailto:Carlos.Zuluaga.Rios@epm.com.co>>; JOHN JAIRO MEJIA HERNANDEZ <Jhon.Mejia.Hernandez@epm.com.co <mailto:Jhon.Mejia.Hernandez@epm.com.co>>Asunto: Pruebas GT1
+
+Buenas tardes, ingenieros cordial saludo
+
+Estamos enviando los reportes de las pruebas eléctricas ejecutadas al generador de la U1 de la CH Guatapé, el pasado martes 11 de septiembre, así como algunas fotografías de la inspección visual. Esta información también queda almacenada en OneDrive en la carpeta asignada para esto a la CH Guatapé.
+
+Como se observa en las imágenes el devanado de estator de esta máquina presenta indicios de defectos por efecto corona en las zonas de cabezas de bobina, específicamente en la parte del gradiente. También pueden observar la presencia de contaminación por aceite y posiblemente polvo de escobillas.
+
+Los resultados de las pruebas eléctricas de factor de potencia y perdidas eléctricas en el aislamiento, indican un deterioro de este en la zona de cabezas de bobina. Los valores obtenidos para estas dos variables (%FP y perdidas [W]) se triplicaron respecto a los resultados de la última prueba que se tenía (ver dctos adjuntos).
+
+El resultado de la prueba de resistencia de aislamiento da tranquilidad en cuanto a que la maquina se puede seguir operando hasta el paro programado para el próximo mes. Para este paro debemos planear una intervención con alcance de limpieza, pruebas eléctricas especiales, calificación del aislamiento, calificación del estado del núcleo y recuperación del aislamiento en las zonas que se encuentren afectadas.
+
+Proponemos como día de la reunión el próximo jueves 20 o viernes 21 de septiembre, por favor confirmar el día.
+
+Recomendaciones:
+
+·Seguir tomando los datos de descargas parciales y enviarnos los resultados.
+·Seguir tomando los datos de vibraciones.
+·Estar atentos a posibles cambios anormales en los valores de las variables operativas de la maquina tales como, temperatura devanados, temperatura del núcleo, corriente y tensión generadas.
+·Tener disponible el plano con el diagrama de conexiones del devanado, donde se pueda identificar la posición de las barras de cada fase en las ranuras y el paso de devanado. 
+
+Quedamos atentos a sus comentarios.
+
+Muchas gracias.
+
+
+Carlos Arturo Palacio VélezProfesional Operaciones Negocios - Dirección Operaciones Generación Tel: (574) 380 06 30 - Móvil 

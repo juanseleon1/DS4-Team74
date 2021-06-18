@@ -1,0 +1,11 @@
+
+Solicitante-Planeador: 4890
+Aprobador: 355694
+Fecha de solicitud: 20 de Noviembre de 2017
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento:
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+Reparación sistema de sensores y protectores
+Reparación sistema de datalogger
+Reparación sistema de transmisión
+Reparación sistema de potencia 

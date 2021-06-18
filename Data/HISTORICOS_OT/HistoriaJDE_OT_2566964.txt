@@ -1,0 +1,16 @@
+Realizar cambio de cables en la serie de los alabes moviles de la turbina
+
+
+16/07/2014
+
+se inicia la modificacion de los conectores para los sensores de la serie de los alabes moviles en el distribuidor, fue necesario realizar algunas modificaciones para la instalacion devido a que estos cables vienen armados por ser IP68.
+
+Realizado por Wtobonl
+
+
+20/08/2014
+
+Se realizan pruebas con la serie de los alabes y estos trabajan bien , se entrega la undiad con esta modificacion 
+
+Realizado por Wtobonl
+terminada

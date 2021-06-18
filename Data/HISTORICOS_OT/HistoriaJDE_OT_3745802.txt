@@ -1,0 +1,16 @@
+14 Julio de 2018 John Jairo Gonzalez v
+
+Referente a la válvula esférica de la Unidad N°2: En la secuencia de arranque la válvula esférica se quedó pegada, se ajusta el valor del parámetro Equilibrio de Presiones a 8 m.c.a. para terminar de igualar presiones. 
+Informa y Realiza: Turno N°1 de Operación 
+
+
+FECHA: 08/07/2018
+
+Se realiza verificacion del sensor de presion, se ajusta de nuevo la escala para corregir la desviacion de 8 BAR y queda el equipo normalziado. ademas se normaliza el ajuste en el PLC de 8 BAR a 3 BAR como diferencial de presion.
+
+Realizada  por : WALTER TOBON e IVAN RAMIREZ 
+terminada cerrar 
+ 
+
+
+

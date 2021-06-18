@@ -1,0 +1,3 @@
+Solicitante: Juan David Gutierrez Fecha: 3/1/2015
+
+Descripcion: El rele proteccion generador 300-G PP1 de la unidad N°2 presenta continuamente alarma por "Falla interna relé 300-G  PP1 (G4U2PSPP1FLT)", se realiza una inspección visual al relé y se encuentra trabajando normal y sin alarma presentes.  

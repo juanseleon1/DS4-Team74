@@ -1,0 +1,12 @@
+2017/05/21 RUBEN ARBOLEDA
+Ot creada para realizar la reparación electrica en la bodega de las ruedas, se requiere cambiar y adecuar un cableado, tomas y suiches.
+
+2017-05-21 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3487700, PASO:1          
+Se realizó adecuación de extensiones electricas para la bodega de reparacion ruedas.
+
+2017/06/05. -- SERGIO OLIVARES D.
+Se realizo revisión de circuitos electricos que se estaban disparando. Se revisaron las protecciones y se cambiaron 
+por unas adecuadas a su cable.
+
+2017-07-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3487700, PASO:8          
+Se realizó adecuación de iluminación en el taller de las ruedas, se cambiaron los tubos de la iluminación en la oficina, se revisó el estado en general de las instalaciones electricas. 

@@ -1,0 +1,19 @@
+2016/08/29 DIEGO BEDOYA
+Se realiza el cambio de filtros MAHLE en los comandos de aguja y en el comando del servomotor de deflectores de la unidad 7.
+trabajo realizado por Orlando Zuleta y León Parra
+
+
+septiembre 25 de 2016 
+
+ot cerrada 
+
+andres ramirez 2016/08/29 DIEGO BEDOYA
+Se realiza el cambio de filtros MAHLE en los comandos de aguja y en el comando del servomotor de deflectores de la unidad 7.
+trabajo realizado por Orlando Zuleta y León Parra
+
+
+septiembre 25 de 2016 
+
+ot cerrada 
+
+andres ramirez 

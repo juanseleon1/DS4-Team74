@@ -1,0 +1,7 @@
+Octubre 14 de 2015: Mto especial P22. Consignación 110725, ot padre 2889873, horas de servicio de la unidad: 74590
+
+Se realizan pruebas de vibración en vacío y con la unidad a potencia nominal para realizar balanceo dinámico, este requirió un muestreo de referencia, 3 muestreos con pesos de 5.5 kg en el plano superior e inferior y por último, un muestreo con peso de 5.5 kg en el plano superior. Las vibraciones globales mejoraron así: CSL 91.74 a 43.25, mejoró 52%, CSP 80.55 a 43.75 mejoró 46% , CIL 140.68 a 104.11 mejoró 26% CIP 131.67 a 113.42 mejoró 13%, CTL 85.09 a 70.04 mejoró 18% CTP 76.77 a 67.06  mejoró 13%. Se consideran valores aceptables para máquina nueva o recientemente reacondicionada según norma ISO 10816. El balanceo dinámico se realizó bajo la dirección del Ing. Pablo Gomez.
+
+Queda pendiente informe detallado. 
+
+INFORMA: Santiago Ramírez.

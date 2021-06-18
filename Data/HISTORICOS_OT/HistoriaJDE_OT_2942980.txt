@@ -1,0 +1,7 @@
+
+FECHA: NOVIEMBRE 21 DE 2015  OT: 2942980
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por Feedback Switch G2 Top, se inspecciona el estado del contactor 18K2 y no se observa falla física, se encuentra que el voltaje de alimentación de la bobina de este contactor no esta presente, se sigue el camino de esta alimentación y se encuentra abierta en el contacto auxiliar NC del contactor 17K2, se procede a conectar el cable adecuadamente y se deja en servicio el aerogenerador.

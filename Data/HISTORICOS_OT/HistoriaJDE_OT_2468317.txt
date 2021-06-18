@@ -1,0 +1,5 @@
+ESTA OT NO SE REALIÓ. SE CANCELA DEBIDO A QUE SE ESTA EVALUANDO UNA NUEVA ESTRATEGIA DE MANTENIMIENTO
+
+GRUPO ELECTRONICO U.O.P.
+
+Revizar presostato PS,6 no permite seguir la secuencia, ya que no confirma la presión en el circuito de aceite.

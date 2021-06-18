@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711327
+
+BAE: LIMPIAR E INSPECCIONAR BARRAJE ESTATOR GENERADOR UNIDAD
+
+FECHA: ABRIL 25/2018 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA MARIA VIANA.
+
+Se realiza inspección y mantenimiento a mallas separadoras del barraje, baquelitas separadoras de barras, conexiones entre barras y estado del aislamiento, también se revisan el estado de los CT´s, de sus conexiones eléctricas en el tablero +CCCTS.
+Trabajos realizados por: Olga Viana, Yoanis Rodriguez.

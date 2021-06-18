@@ -1,0 +1,11 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+AGOSTO04/2016.  SERGIO OLIVARES D. 
+
+           CORRIENTES AC: R =  107 S =111    T =105               VOLTAJES VAC: RS= 445   ST=447   RT=445
+
+    Se encuentran  las temperaturas normales en el motor, el breaker de alimentacion y del arrancador suave. Queda el 
+    el registro de la termografia en notas de equipo 1.
+  
+    Ejecutores; Giovanny Díaz y Jhonatan Usme
+

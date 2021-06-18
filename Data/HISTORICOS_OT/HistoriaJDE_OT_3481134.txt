@@ -1,0 +1,10 @@
+
+2017/08/22 _ CARLOS ENRIQUE MONCADA. OT N° 3481134.
+Referente a la temperatura del sello del eje de la unidad # 1.
+Se revisa el IC2 de la RTD de temperatura encontrandolo dañado. Se cambia a IC1, se verifica temperatura en la IHM y se normaliza el escada. 
+Realizó: Neiro Perez, Ivan Cano
+
+2017/05/14
+REVISAR RTD SELLO DEL EJE UNIDAD #1 DE PORCE 2 MEDICION DE TEMPERATURA, OSCILACION FRECUENTE, DISPARO BLOQUEADO DESDE EL TILLQUIST
+
+SOLICITA :ADRIAN NARVAEZ

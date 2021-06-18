@@ -1,0 +1,8 @@
+
+FECHA: ENERO 23 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARIA, PEDRO SOLANO Y HENRY GIRALDO
+
+
+Se realiza alineamiento norte a la góndola y así descartar leste punto como causa de la falla en el giro de la Yaw, pero la alarma continua.
+

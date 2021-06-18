@@ -1,0 +1,8 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+08-06-2016
+PROGRAMADOR JOSE MONTOYA
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.
+Se apaga el PLC para revisar el ventilador y se observa que la batería no sostiene la carga, queda pendiente cambiar la batería del PLC.
+Se ingresa de nuevo el programa al PLC
+Se realizó limpieza general del tablero de control de la válvula.  

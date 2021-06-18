@@ -1,0 +1,5 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 02-09-2019
+Tipo de mantenimiento: MONTAJE
+Realizacion de instalacion de montaje para comunicacion de la estacion de nivel y pluviometro en tiempo real utilizando la red corporativa de T.I, lo cual se instalara por tuberia metalica de 1", una fibra optica desde la estacion hasta el suiche ubicado en el edificio y se instalaran los equipos pertinentes

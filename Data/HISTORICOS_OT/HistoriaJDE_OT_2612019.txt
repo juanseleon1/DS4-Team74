@@ -1,0 +1,6 @@
+
+FECHA: DICIEMBRE 01 DE 2014
+
+EJECUTANTE: ELIECER PUSHAINA Y HENRY GIRALDO 
+
+Se recupera la presión del agua del sistema de refrigeración, se encontró en 1,8 y se dejo en 2,5 Bar.

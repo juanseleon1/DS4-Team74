@@ -1,0 +1,12 @@
+
+2018/03/18 OT:3702106 Mauricio Quijano / Luis Eduardo Arcila
+Se revisa la RTU REMOTA CND-EMS GT para verifica sus conexiones y comunicación a petición del centro de control por no tener visualización de algunas de las unidades de la central Guatapé.
+· El módulo de comunicación 140ESI 06200 con Error 1 y Error 2 
+se resetea el equipo continuando con los mismos errores en el módulo de comunicación.
+Se pide en Medellín que revisen el equipo y efectivamente nos informan la recepción de las señales.
+
+
+
+
+
+

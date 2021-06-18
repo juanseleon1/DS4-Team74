@@ -1,0 +1,13 @@
+14/10/2017
+PREVENTIVO ELÉCTRICO MOTOR BOMBA REFRIGERACIÓN GUADALUPE III.
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo a la bomba #1. Se revisaron todos los puntos de conexión, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspección y limpieza al motor y a todo el gabinete de control. 
+
+Nota: estos fueron los datos obtenidos de las pruebas realizadas:
+
+VOLTAJEFASE VOLTIOSR - S432S - T430T - R430 
+CTE. DE ARRANQUEFASE AMPERIOSRVARIADORSVARIADORTVARIADOR
+CTE. DE TRABAJOFASE AMPERIOSR14.8S14.8T14.8
+AISLAMIENTO / TIERRAFASEMR601S643T671
+Ejecutó: Luis Correa-Tatiana Almario
+Programó: Carlos Andres Forero

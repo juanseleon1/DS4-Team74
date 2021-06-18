@@ -1,0 +1,10 @@
+15/11/2017 - 22:35.
+
+Unidad 2 de Troneras presenta Salida forzada por disparo en Devanado Fase R - alarma por disparo en RTD 1 mostrando temperatura mayor a 250 ºC - con direcciòn TRU2GEGENTTO1_A
+
+Informa: Turno de Operaciòn 3 - Wilson Arango Bedoya - Tecnologo Operador.
+
+11/12/2017
+SE HACE UNA REVISION DE LA RTD 1 DEL DEVANADO DEL ESTATOR Y SE ENCUENTRA ABIERTA DESDE EL ELEMENTO SENSOR, SE PROCEDE A DESCONECTARLA DEL MODULO 1 DE LA RIO01 CH1, POR QUE  ESTA RTD SOLO SE PUEDE INTERVENIR EN UN DESARME DE LA UNIDAD.
+
+REALIZO: GRUPO DE ELECTRONICA 

@@ -1,0 +1,23 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+OVERHAUL REGULADOR DE TENSION
+
+25/ABRIL/2014
+Se realiza el Desmontaje de los transductores de medida del regulador y se llevan al laboratorio para realizarlas la curva de verificacion. Se comienza la inyeccion de señales y la verificacion de los transductores, los cuales son:                             
+-B01= Corriente de campo                                               
+-B02= Voltaje de campo                                                   
+-B07= Temperatura Rotor                                           
+-B08= Potencia Reactiva                                               
+-B10= Voltaje RS                                                                  
+-B11= Voltaje ST                                                                 
+-B12= Voltaje TR                                                                      
+-B20= Corriente Fase R                                                       
+-B21= Corriente Fase S                                                     
+-B22= Corriente Fase T                                                  
+-B05= Corriente Rotor                                                       
+-B06= Voltaje Rotor
+
+Ejecuto: Francisco Gonzalez - Fredy Duarte
+
+26/ABRIL/2014
+Se realiza el montaje de los transductores de medida del regulador de Velocidad en el tablero, previamente se les realizo curva metrologica.      
+Ejecuto: Fredy Duarte 

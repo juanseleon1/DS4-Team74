@@ -1,0 +1,27 @@
+PLANEADOR: ANGEL ADONIS
+PROGRAMADOR: RMONTOYG
+FECHA: 14-10-2018
+OT: 3774601
+
+DOMINGO 14 DE OCTUBRE 2018
+
+Referente al sistema N°2 del TAST UNIDAD N°3: 
+
+VERIFICAR PRESION DIFERENCIAL ALTA.
+
+Informa y ejecuta Renato Montoya, Turno 2, grupo Mecánico.
+
+INFORME:
+
+Referente a la Unidad 3 / subsistema 2 TAST
+Se verifica funcionamiento encontrando la presión diferencial muy alta, se inspecciona suciedad del filtro el cual se encontro limpio por que ya se había lavado. Se encontró obstruido con vaselina una de las tomas del instrumento que muestra la presión deferencial. Se retira dicha obstrucción y se realizan pruebas de funcionamiento, quedando en una presión diferencial de 0,03 bar.
+Queda pendiente verificar el funcionamiento de la válvula AA07 ya que presenta falla; se deja dicha válvula en manual y abierta un 30% aproximadamente.
+
+Realizó: Equipo Mecánico y Equipo de Operación.
+Informo: Renato Montoya
+
+2018/10/16 _ CARLOS ENRIQUE MONCADA. OT N° 3774601.
+Referente al TAST U3 - Subsistema 2
+Se desmonta actuador AA07 y se instala un actuador reparado, se prueba en manual y en automático y su funcionamiento es optimo.
+Realizó: Equipo mecánico - Equipo Electrónico y Equipo de Operación.
+Informó: Renato Montoya

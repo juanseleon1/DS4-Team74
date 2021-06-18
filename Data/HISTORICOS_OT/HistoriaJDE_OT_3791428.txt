@@ -1,0 +1,86 @@
+- FECHA : MIÉRCOLES DICIEMBRE 12 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - MAURICIO PINO
+- ASOCIADO A LA OT : 3791428
+- ASUNTO : HACER MANTTO MP TRIMESTRAL  MONORRIEL ALMENARA
+
+       MOTORES N° 1  y N° 2 DE DESPLAZAMIENTO HORIZONTAL
+
+*** MANTTO CONTROLES 
+     ** Mantto interruptor : sí
+     ** Mantto contactores : sí
+     ** Revisión cableado : sí
+     * Revisión cableado y borneras : sí
+
+*** MANTTO MOTOR 
+     ** Aislamiento con respecto a tierra : 2.48 Moh
+
+*** VALORES DE VOLTAJE 
+    ** RS : 465 V
+    ** ST : 471 V
+    ** RT : 472 V
+
+*** VALORES DE CORRIENTE 
+    ** Arranque fase R : 7 A
+    ** Fase R : 2.5 A
+    ** Fase S : 2.3 A
+    ** Fase T : 2.2 A
+
+*** VARIABLES MECANICAS 
+    ** Temperatura excesiva carcaza : nó
+    ** Temperatura excesiva cojinetes : nó
+    ** Vibración anormal : nó
+    ** Ruido anormal : nó
+
+*** CALIBRACIÓN TÉRMICOS 
+    ** Calibración térmico control : 10 A
+    ** Calibración térmico potencia : 100 A
+
+*** Funcionamiento control normal : sí
+
+*** Horómetro N/A
+
+*** Observaciones : se encontró que el aislamiento de todos los motores está muy bajo porque estaba abierto el 
+     interruptor en servicios auxiliares. Se hizo la observación a los operadores para que este interruptor permanezca 
+     siempre cerrado.
+
+
+MOTORES N° 1  y N° 2 CABLE DISPOSITIVO
+
+*** MANTTO CONTROLES 
+     ** Mantto interruptor : sí
+     ** Mantto contactores : sí
+     ** Revisión cableado : sí
+     * Revisión cableado y borneras : sí
+
+*** MANTTO MOTOR 
+     ** Aislamiento con respecto a tierra : 890 Moh
+
+*** VALORES DE VOLTAJE 
+    ** RS : 466 V
+    ** ST : 468 V
+    ** RT : 467 V
+
+*** VALORES DE CORRIENTE 
+    ** Arranque fase R : 64.6  A
+    ** Fase R : 23.4 A
+    ** Fase S : 23.3 A
+    ** Fase T : 23.2 A
+
+*** VARIABLES MECANICAS 
+    ** Temperatura excesiva carcaza : nó
+    ** Temperatura excesiva cojinetes : nó
+    ** Vibración anormal : nó
+    ** Ruido anormal : nó
+
+*** CALIBRACIÓN TÉRMICOS 
+    ** Calibración térmico control : 10 A
+    ** Calibración térmico potencia : 100 A
+
+*** Funcionamiento control normal : sí
+
+*** Horómetro N/A
+
+*** Observaciones : se encontró que el aislamiento de todos los motores está muy bajo porque estaba abierto el 
+     interruptor en servicios auxiliares. Se hizo la observación a los operadores para que este interruptor permanezca 
+     siempre cerrado.

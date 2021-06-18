@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Dario Puerta.
+Se realiza inspección, mantenimiento y limpieza al sistema de escobillas y anillos rozantes de la unidad, para esto se retiran las tapas laterales y superior del recinto, las escobillas y porta escobillas, se hace medición de resistencia de aislamiento en los anillos antes y después de lavado (Antes: 25.7/26.3 M. Después: 3.19/3.3 G), se toman medidas de la longitud de las escobillas y se llenan registros. Se cambian en anillo superior 5 escobillas y la escobilla B de temperatura. 
+
+XE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD

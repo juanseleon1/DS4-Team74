@@ -1,0 +1,6 @@
+
+DICIEMBRE 27/2018 OT: 3797394  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se realiza una nueva inspección en el controlador superior ya que se sigue presentando la falla interbus (Feedback Switch G1 Top), se cambia el módulo 7,5 y se verifican conexiones del cable de entrada y salida del Loop en el 7,5 y 7,9 también se revisa el estado de las conexiones del módulo 7,0 se encuentra con algo de aceite las peinetas, se limpian y se vuelven a conectar. Se deja en servicio el aerogenerador.
+
+De nuevo se presenta la falla de Feedback Switch G1 Top, se observa en las gráficas que el contactor 17K2 se está abriendo a destiempo, en el tablero de potencia Top Box se revisa y se encuentra suelto el borne 8 de la bornera X1, este corresponde a la orden de cierre del contactor auxiliar 16K1 pero que pasa primero por el contacto NC del contactor auxiliar 18K1, se conecta bien este borne y se deja en servicio el aerogenerador.

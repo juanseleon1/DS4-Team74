@@ -1,0 +1,5 @@
+2019-01-29 REALIZÓ: CESAR AUGUSTO HOYOS,  PROGRAMO: RARBOLG OT: 3799014, PASO:1          
+Se realizó el proceso de bloqueos electromecánicos a la unidad de generación 3, para mantenimiento preventivo y pruebas electricas predictivas. 
+
+2019-01-29 REALIZÓ: CESAR AUGUSTO HOYOS,  PROGRAMO: RARBOLG OT: 3799014, PASO:2          
+Se realizó el proceso de desbloqueos electromecánicos a la unidad de generación 3, para mantenimiento preventivo y pruebas electricas predictivas. 

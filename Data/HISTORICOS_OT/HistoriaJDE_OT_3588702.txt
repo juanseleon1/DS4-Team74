@@ -1,0 +1,10 @@
+MP ANUAL: - 3547 BARRAJE DE SALIDA TR2
+17/03/2017
+MANTENIMIENTO PREVENTIVO ANUAL.
+Se realizó el mantenimiento según el instructivo anual.
+Se revisó las conexiones y se realiza limpieza en toda la barra en general. No se evidencian anomalías.
+
+Nota: la revision se realizo desde la salida del generador unidad dos, hasta el interruptor de maquina. Donde se hallan anomalias es en el barraje desde el interruptor de maquina hacia los transformadores de potencia, se realizara el respectivo informe para realizar el mantenimiento correctivo. 
+
+Ejecuto: Luis Correa.
+Programo: Carlos Andres Forero.

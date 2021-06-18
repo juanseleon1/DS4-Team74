@@ -1,0 +1,4 @@
+XM: VERIFICAR, LAVAR Y AJUSTAR COJINETE TURBINA DE LA UNIDAD
+
+PROGRAMADOR: JUAN GILBERTO TOBÓN CUARTAS, 2016-11-01
+Se realiza lavado de filtros, se limpia turbina en general, se verifica nivel de aceite del cojinete y se retiran 10 Lt de aceite por encontrarse alto luego del cambio de la válvula tipo wafer de la succión de la bomba. Se verifica la no existencia de fugas en el sistema.

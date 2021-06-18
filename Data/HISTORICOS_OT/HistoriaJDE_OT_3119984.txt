@@ -1,0 +1,29 @@
+25/05/2016
+
+Se incia con el  montaje de la infrastuctura para la instalacion de los presostatos y la medida remota, desde el portico de cables 
+
+Realizado por Wtobonl
+
+
+01/06/2016
+
+Se realiza la instalación de los nuevos presostatos y el retiro de los antiguos, se desconecta la señal de alarma y disparo, ademas se inicia con la instalación de la señal del transductor de presión, el personal de subestaciones realiza la verificación de los presostatos nuevos y la verificación de la presión en el buje, se encuentra con presión baja evidenciado perdida de presión la cual debería estar entre 4.2 y 4.5 bar según la ultima carga hace +/-  un año. 
+
+Realiza Wtobonl
+
+
+04/06/2016
+
+
+Se realiza instalación de las señales del transductor instalado en el presostato, se escaliza esta medida en un valor de presión absoluta de 1 a 6 bar además se verifican los disparos y alarmas de cada buje en el contenedor de media tensión con los relés y los textos en el sistema SCADA, además se realizan disparos hacia subestación coordinados con el operados de ISA y el personal de EPM. se verifica cada fase en alarma y disparo con su respectivo banco y diámetro en la subestación . 
+
+Se ajustan los disparos y alarmas de cada fase en el valor de 
+
+3.5 Bar alarma
+3.0 Bar Disparo 
+
+según protocolos de montaje
+
+Realizado por Wtobonl
+
+CERRAR TERMINADA

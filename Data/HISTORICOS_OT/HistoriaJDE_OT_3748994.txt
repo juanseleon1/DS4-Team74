@@ -1,0 +1,15 @@
+MANTENIMIENTO ANUAL ALARMAS Y DISPAROS
+AGOSTO 09 AL 11 DEL 2018
+Se realiza protocolo de alarmas y disparos, verificando el correcto funcionamiento de las protecciones electricas de la unidad. En estas pruebas se activan los siguientes paros:
+
+ Paro de emergencia 1
+ Paro de emergencia 2
+ Paro parcial 1
+ Paro parcial 2
+ Paro por banco de transformadores fase R, S y T. 
+
+Nota: con estas pruebas se garantiza el correcto funcionamiento de las protecciones de la unidad. 
+
+Ejecutaron: Mateo Perez-Sergio Areiza
+Programo: Carlos Andres Forero 
+Planeo: Cesar Giraldo

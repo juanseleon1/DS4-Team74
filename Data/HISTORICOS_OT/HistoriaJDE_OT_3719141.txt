@@ -1,0 +1,7 @@
+FECHA: MAYO 8/2018PROGRAMADOR: DANIEL PALACIOS EJECUTANTE: OSCAR MONTOYA.
+Se realiza revision al estator de la unidad, se retiran tapas de inspección laterales y la tapa de uno de los tercios para inspección, se toman registros fotograficos, se realizan pruebas electricas (IP, aislamiento, resistencia ohmica, etc)y se llenan registros, el Ing. Gabriel Santiago tambien realiza pruebas al estator de la unidad.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS OCHOA
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y LIMPIEZA Y PRUEBAS ELECTRICAS DEL ESTATOR DE GENERADOR EN LA UNIDAD No 1 DE PORCE 3, SE REPORTARAN LOS HALLAZGOS Y EVIDENCIAS FOTOGRAFICAS Y RESULTADOS DE LAS PRUEBAS ELECTRICAS Y FIBROSCOPIA DEL ESTATOR, FALLAS EN LOS EQUIPOS Y COMPONENTES DEL ESTATOR DE GENERADOR.

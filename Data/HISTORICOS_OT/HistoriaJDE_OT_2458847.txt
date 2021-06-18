@@ -1,0 +1,18 @@
+ENERO 27 DE 2014
+UNIDAD: 41
+EQUIPO: Pernofusible 16
+
+DESCRIPCION: Se presenta roptura del pernofusible N° 16, pero esto no genera Paro Rapido.
+
+Informo: Gabriel Montaño
+    Hector Patiño
+    Marlon Toro
+    Juan David Gutierrez
+
+PROGRAMADOR: CAMILO MONTAGUT GIL - 30/01/2014
+
+SE CORRIGE LA RUPTURA DEL PERNO-FUSIBLE DEL ALABE # 16. NO SE PRESENTAN PROBLEMAS EN MONTAJE DE LA NUEVA PIEZA
+
+EJECUTO: JORGE TAMAYO
+                     RIGOBERTO TORRES
+          ROBINSON ARANGO

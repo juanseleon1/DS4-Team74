@@ -1,0 +1,10 @@
+
+
+PLANEADOR:OSCAR RESTREPO
+PROGRAMADOR:CAMILO MONTAGUT
+
+Programador: Camilo Montagut - 07/08/2018
+
+Se realiza mantenimiento preventivo a los radiadores del generador donde se relaciona principalmente la inspección interna y posterior limpieza de los mismos equipos. Se encuentra que todos los radiadores tienen poca suciedad y lodos en su interior, y para el posterior mantenimiento se recomienda invertir más tiempo en la limpieza de la tubería de refrigeración
+
+Ejecuta: equipo mantenimiento mecánico UOG

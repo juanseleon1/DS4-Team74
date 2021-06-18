@@ -1,0 +1,14 @@
+Tarea: 
+Realizar prueba de tranferencia automática en Distribución General 1 (DG1). 
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2519993
+Se realizó revisión de tranferencia automatica abriendo beraker en DP1 Celda 3 con marca MCB5 
+
+Se registró los tiempos de: 
+Tranferencia hacia respaldo (DP2): 5 segundos
+Tranferencia hacia principal (DP1): 1 minuto
+
+Se evidencia que ante una falla en tensión de la DP1 la DG1 realiza tranferencia a los 5 segundos, no da espera a que se haga tranferencia en la DP1. 
+
+Duración: 0.5 Horas
+

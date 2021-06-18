@@ -1,0 +1,7 @@
+01-10-2017 LA AGUJA 1 SE QUEDA EN 98.8% LUEGO DE QUE LA UNIDAD BAJÓ SU CARGA DE 45MW A 30MW POR OSCILACIÓN EN EL SISTEMA. SE DA ORDEN DE BAJAR CONSIGNA EN LA UNIDAD PERO LA AGUJA NO RESPONDE.
+INFORMA: TURNO UNO (ELKIN SANTAMARÍA - WALTER BAENA)
+
+
+02/10/2017
+Por presentar pega mecánica el inyector 1 se consigna la unidad, se inspecciona el inyector y se lubrican sus partes móviles quedando en normal funcionamiento.
+Se verificaron además los lazos de control de los cuatro inyectores.

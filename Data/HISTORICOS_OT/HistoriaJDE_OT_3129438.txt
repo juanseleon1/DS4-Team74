@@ -1,0 +1,10 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016/06/02 ANGEL ADONIS CADAVID OCHOA
+PASA A PROGRAMACIÓN.
+
+2016/07/30. SERGIO OLIVARES D.
+ La temperatura del motor fue de 52.3 °C. Queda disponible.
+ Medidas---  Voltajes RS: 438                       CORRIENTES  R: 42
+              ST:  436                                                  S: 42
+  RT:  437                                                  T:  41

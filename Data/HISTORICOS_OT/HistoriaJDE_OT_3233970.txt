@@ -1,0 +1,11 @@
+FECHA: LUNES 05/09/2016
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: DARIO ATEHORTUA
+ASOCIADO A LA OT: 3233970
+ASUNTO: EJECUTAR MP PROGRAMADO A MOTOBOMBA N°2 DRENAJES
+AL EJECUTAR EL MP SE REGISTRAN LOS SIGUIENTES VALORES:
+
+HOROMETRO: 4328 HORAS
+TIEMPO DE EVACUACION: 10´48"
+
+Vibraciones Motobombas N° 2 Drenaje Aguas arriba  Lado hacia U21 horizontal motor lado libre   10.7 mm/s 11.5 mm/s2 horizontal motor medio 9.5 mm/s 9.3 mm/s3 horizontal motor lado acople   4.8 mm/s 5.7 mm/sTemperatura motor carcasa  51

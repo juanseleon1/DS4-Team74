@@ -1,0 +1,43 @@
+- FECHA : SÁBADO NOVIEMBRE 05 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - JEISON ORTEGA
+- ASOCIADO A LA OT : 3306898
+- ASUNTO : HACER MANTTO MP
+
+- DATOS DE PLACA 
+  * Potencia : 12.5 KW
+  * Voltaje : 460 v
+  * Corriente : 17 a
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 316 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  460 v
+       ST =  462 v                                                                 
+       RT =  460 v
+       Corriente de arranque:  
+Fase R = 79 a
+       Corriente de marcha:  
+Fase R = 11.1 a
+Fase S = 12.0 a 
+Fase T =  11.2 a                                                                               
+2.3. Temperatura excesiva carcaza: N/A
+        Temperatura excesiva cojinetes: N/A
+        Vibración anormal: N/A
+        Ruido anormal: N/A
+
+3. Calibración térmico control: 1 A porcentaje     Calibración térmico potencia : 15 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 23.1 H
+
+6. Observaciones:se cambió piloto verde señalización motor detenido y se sacó la sedimentación foso bombas
+   

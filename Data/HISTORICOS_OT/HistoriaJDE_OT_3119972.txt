@@ -1,0 +1,5 @@
+2016/05/05 RUBEN ARBOLEDA
+TAREA: Realizar inspección termografica al circuito de cables de Potencia del banco 2
+
+2016/05/05 - 2016/05/10 GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó inspeccion termografica al circuito de los cables de potencia, no se encontró puntos calientes en los cables, solo se evidenció una zona caliente en las terminales del banco en las que no cuentan con RNL (Resistencia No Lineal), las cuales estan pendientes por montaje por parte de PRYSMIAN GROUP, se consulto con el personal de PRYSMIAN e informarón que no era problema, tan pronot lleguen las RNL se instalarán, la correinte medida por los cables instalados a cambio de la RNL fueron alrededor de 40 amperios, Se anexa el informe a la OT. 

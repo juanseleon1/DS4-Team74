@@ -1,0 +1,13 @@
+
+   FEBRERO 18 DEL 2014 WILSON ARANGO 
+
+   Se dio paro la unidad G 41 por falla CCI1 del  Regulador de Tensión.
+
+  Se procede a dar reset al regulador de tensión con el portátil y su respectivo sofware, habilitando nuevamente todos los canales. Se        arrancó la unidad con el banco de tiristores # 2, quedando pendiente por revisar el banco # 1.
+ 
+Realizo: Equipo Electronico.
+
+  FEBREROO 19 DE 2014.
+
+ Se revisa los programas y se realiza un download y upload  a los canales, cio y los cci de las tres unidades.
+  

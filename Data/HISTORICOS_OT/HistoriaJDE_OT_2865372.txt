@@ -1,0 +1,5 @@
+2015/09/02 RAMIRO A. TORRES
+Sale del sistema en tres ocasiones con falla mecánica por alta temperatura cojinete superior.
+
+2015/09/07 ÁNGEL ADONIS CADAVID OCHA
+Para atender esta falla se genera ot correctiva 2866315 para el lavado del intercambiador cojinete generador. Las temperaturas bajan como se puede ver en imagen adjunta.

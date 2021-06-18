@@ -1,0 +1,12 @@
+JUNIO 25 DE 2018     OT: 3729590    PROGRAMÓ: JAIRO GUINGUER     EJECUTARON: ANDRÉS YEPES Y ALEXANDER VILLA
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se verifica activación Alarma y Disparo.
+
+Temperaturas de: Cojinete Generador U2 S1Equipo 20°C 40°C 75°C 100°CTemperatura metal 19.18°C 39.06°C 74.09°C 99.12°CTemperatura Aceite 19.29°C 39.27°C 75.01°C 99.0°CValor programado Alarma:Aceite: 60°C OKValor programado Disparo:Aceite: 65°C OKValor programado Alarma:Metal: 75°C OKValor programado Disparo:Metal: 80°C  OKComentarios:Sin novedades 
+  
+
+
+
+
+
+VERIFICAR RTD DEL COJINETE. 

@@ -1,0 +1,7 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016-09-12 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222546, PASO:1          
+Se realizó mantenimiento preventivo al ventilador S5, no fue posible realizar medida de corriente debido a que está indisponible por parte del grupo de mantenimiento mecánico, se realizó limpieza general y medida de aislamiento con el siguiente datos: 76,1 MOhmTE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016-09-12 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222546, PASO:1          
+Se realizó mantenimiento preventivo al ventilador S5, no fue posible realizar medida de corriente debido a que está indisponible por parte del grupo de mantenimiento mecánico, se realizó limpieza general y medida de aislamiento con el siguiente datos: 76,1 MOhm

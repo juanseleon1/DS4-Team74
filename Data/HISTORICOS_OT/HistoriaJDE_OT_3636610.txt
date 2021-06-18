@@ -1,0 +1,6 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Dario Puerta y Jhon Jader Orrego
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos TCBAM, acometidas y conexiones de los motores de AC y DC. Se toman medidas en los motores de aislamiento y se llenan registro.
+Trabajo ejecutado por: Dario Puerta y Jhon Jader Orrego
+
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD

@@ -1,0 +1,7 @@
+PREVENTIVO ELECTRICO ANUAL MOTOR BOMBA 2 ESTACION HIDRAULICA G3U4.
+
+
+
+JUNIO 30 DE 2017.
+Se realiza mantenimiento al tablero de control de las bombas de la estación hidráulica, al motor, pruebas eléctricas y se toman los registros de los parámetros de corrientes y voltajes de los motores, los resultados quedan almacenados en la carpeta del mantenimiento.
+Programó:William Lopera.

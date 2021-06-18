@@ -1,0 +1,8 @@
+PLANEADOR: Santiago Ramírez
+Programador: Francis Londoño
+
+20 mayo 2014: Se reporta ruido anormal en rodamiento de motor.
+horometro: 18568
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2014-05-26
+SE DESMONTA MOTOR SE CAMBIA RODAMIENTOS SE MONTA NUEVAMENTE Y SE ALINEA BOMBA.

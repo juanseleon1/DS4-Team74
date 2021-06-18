@@ -1,0 +1,4 @@
+
+FEBRERO 10/2019 OT: 3810428  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Con información recopilada del Diag+ se observa incremento de fallas en los módulos 7,11 y 7,12 con falla 0DF1 (falla en la transmisión de datos en la entrada de los módulos) se procede a dar paro al aerogenerador y se cambian los cables del Loop entre el módulo 7,10 y 7,11 también entre 7,11 y 7,12 se deja en servicio el aerogenerador y en observación.

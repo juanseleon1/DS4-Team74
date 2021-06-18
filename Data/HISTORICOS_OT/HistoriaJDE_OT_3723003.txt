@@ -1,0 +1,41 @@
+09/05/2018
+PLANEADOR: YOFRED BERNARDO RODRIGUEZ VAHOS
+REALIZAR EL CAMBIO DE SELLOS FIJO Y MOVIL AGUAS ARRIBA DE LA VALVULA DE ADMISIÓN.
+
+
+1. OBJETIVO
+Presentar los resultados y avances del cambio de sellos de mantenimiento de la válvula de admisión de la unidad 2 y cambio de sellos al servomotor de distribuidor de la unidad 3 de Guadalupe IV.
+
+2. ALCANCE
+En este informe se presentan los avances de trabajos realizados correspondientes al vaciado de la tubería de presión de GIV para el cambio de sellos de mantenimiento de la válvula de admisión de la unidad 2 y el servomotor distribuidor de unidad 3.
+
+3. ANÁLISIS DE LOS ANTECEDENTES UNIDAD 2: 
+
+·Válvula de admisión unidad 2:
+La válvula de admisión de G42 fue sometida a mantenimiento en agosto de 2015 pero a finales de 2016 debido a una mala condición de la válvula de tres vías que sirve para operar el sello de mantenimiento se presenta la siguiente falla:
+Para realizar esta aplicación es necesario cambiar de estado, manualmente por medio de una palanca y una válvula de tres vías la posición del sello, esta válvula tiene instalada una platina de censado y un sensor inductivo el cual se encarga de dar una señal cuando se realiza el cambio de posición al control del estado y es condición para el arranque de la máquina. 
+Resulta que esta válvula posee un tope para la posición tanto de aplicación como desaplicación del sello, en cierto momento ese tope mecánico perdió la ubicación  y al aplicar el sello normalmente como se venía haciendo , la platina de censado al no tener el tope se pasó del punto de lectura y quedo en posición “ cero”  dando una señal errónea de la posición del sello; a la hora de arrancar nuevamente la maquina el sistema de control mostró que habían condiciones de arranque y se dio giro a la unidad estando los sellos de mantenimiento aplicados, lo cual ocasiono deformación de los sellos y perdida del área de sellado, por lo cual se produce el paso de agua. 
+Teniendo esta situación de sellado en malas condiciones se genera la necesidad de realizar el cambio de los sellos de mantenimiento, para lo cual se requiere hacer el vaciado de la tubería de conducción.S
+Luego de realizado el cambio de los sellos automáticos tambien se decidió cambiar los sellos de mantenimiento poruqe presentaban un leve pase de agua 
+se realizaron pruebas en ambos sellos y prueba completa con válvula presurizada , con resultados exitosos 
+se cambia adicionalmente la válvula 4 vias y se realizan pruebas de funcionamiento en sitio 
+Se anexa informe de entrega de unidad
+Referente a Guadalupe IV: : Se realiza el llenado de la tubería de conducción y se cierran las consignaciones de las unidades G41, G42 y G43, C157177, C146586 y C146590 respectivamente.
+Entran en servicio las unidades 1 y 3 en 60 MW, la unidad G42 queda disponible luego de realizar mantenimiento correctivo a la válvula de admisión dentro del tiempo de reparación se realizan las siguientes actividades:
+Mecánico: desmonte de válvula esférica para cambio de sellos de mantenimiento y automáticos, fijos y móviles.
+Inspección de álabes móviles dentro del caracol.
+Inspección de rueda Francis.
+Cambio de tuberías de juntas inflables.
+Cambio de tubería de cuba móvil.
+Montaje de drenaje de campana por fuera del distribuidor.
+Eléctrico: montaje del tablero de distribución de lubricación forzada.
+Cambio de porta escobillas de excitación con nuevo sistema  de succión.
+Pruebas generales de rotor y estator.
+Mantenimiento a servicios auxiliares y banco de transformadores. 
+Electrónico: Cambio de 8 termómetros por RTD en cojinete superior e inferior.
+Mantenimiento de la instrumentación asociada a la válvula esférica.
+Adicionalmente se realiza el mantenimiento cuatrimestral de la unidad conforme a los instructivos, con OT padre #3721631.
+Ingresa la unidad para operación comercial con 201740 horas de servicio, con 45 MW.
+Realizó : equipo de operación y mantenimiento
+Informa: Yofred B. Rodríguez Vahos
+

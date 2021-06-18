@@ -1,0 +1,13 @@
+SOLICITANTE:
+SE DIO PARO A LA UNIDAD A LAS 00:20  POR CRECIENTE DEL RIO, AL MOMENTO DEL ARRANQUE LA UNIDAD NO RESPONDE A LA APERTURA DE LA VÁLVULA DE ADMISIÓN, QUEDANDO INDISPONIBLE. REPORTO GONZALO CEBALLOS.
+
+SEPT 13/2017 OT: 3588181 PROGRAMADOR: VQUINTAS EJECUTO: J DUQUE
+
+SE HIZO EL MONTAJE DEL TORNILLO Y LA ROSCA NUEVA, SE HIZO EL MONTAJE DE LA BOBINA NUEVA EN EL SISTEMA HIDRAULICO, SE CALIBRARN LOS SENSORES DE FORMA QUE LA SEÑALIZACION (DE APERTURA Y CIERRE) Y APAGADO DE LA MOTOBOMBA DEL SISTEMA HIDRAULICO FUNCIONEN AL MISMO TIEMPO. EL EQUIPO QUEDA EN CONDICIONES NORMALES PARA SU FUNCIONAMIENTO. 
+
+vquintas sept 6/2017
+
+con el objetivo de analizar la falla se pretende hacer pruebas de apertura y cierre de la válvula de admisión de la U2, pero ha esta no le está llegando presión de aceite, y se evidencia que el vástago esta con el recorrido máximo de apertura, pero la lenteja está físicamente en posición cerrada.
+se da paro al generador 1 para hacer vaciado de tubería y poder hacer el desarme de la válvula de admisión de la U2 y los mecanismos hidráulicos no responden ninguno.
+se hace inspeccion y se encuentra en el sistema hidráulico que la BOBINA, DSD-GO2_ AC 110/60HZ, de la electroválvula de presión del sistema; esta fallada (quemada y fisurada) por lo tanto no acciona para dar paso de aceite hacia todos los sistemas de la apertura y cierre de las válvulas de admisión de la U1 y U2, ni  para el cierre y apertura de agujas  U1, se hace el desarme de la válvula de admisión de la U2 y se encuentra destruida la rosca de la tuerca del mecanismo de apertura y cierre, se transporta para Medellin para comprar el material y fabricar la tuerca. la unidad 2 queda por fuera de funcionamiento.
+la unidad 1 queda en funcionamiento debido a que a la electroválvula fallada se le monta la bobina de la electroválvula del sistema de apertura y cierre de la válvula de la u2. 

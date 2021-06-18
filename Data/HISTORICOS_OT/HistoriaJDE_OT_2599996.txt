@@ -1,0 +1,45 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DE TEMPERATURA, HOROMETRO Y PRESION DE FLUJO MOTOBOMBAS DE REFRIGERACION GENERADORES
+
+Nota : Realineamiento Anual
+
+Motobombas de refrigeración # ___1__
+
+horometro:_14712_______________________
+
+vibraciones cojinete ventilador 1VP(mm/s):___1________
+
+vibraciones cojinete ventilador 2HP(mm/s):__1.2_________
+
+vibraciones cojinete de acople 3VP(mm/s):___1________
+
+vibraciones cojinete de acople 4HP(mm/s):__1.9_________
+
+vibraciones bomba acople 5VP (mm/s):_____2.1_____
+
+vibraciones bomba acople 6HP (mm/s):_____1.8_____
+
+vibraciones bomba descarga 7VP (mm/s):____1.5________
+
+vibraciones bomba descarga 8HP(mm/s):____1________
+
+temperatura motor: ( °C ):___57_____
+
+temperatura bomba: ( °C ):_________
+
+Presión de trabajo: ( Kg/cm ):___3.02 BAR_________
+
+
+Observaciones:_VELOCIDAD 1765 RPM, POTENCIA 24 48 HP, VOLTAJE 440, CORRIENTE 62 AMP,______
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0044

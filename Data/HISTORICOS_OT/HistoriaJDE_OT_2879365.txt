@@ -1,0 +1,7 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-09-15
+OT PARA REALIZAR RECONSTRUCCION DE ROSCAS DE FIJACIÓN TAPA EJE DE TURBINA
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-09-24
+Se reconstruyen roscas M18 paso 2,5 para la fijación de la tapa del eje con insertos HELICOIL. No se reconstruyen las roscas de la punta del rodete ya que se está a la espera de la fabricación de los machuelos 1” -8 hilos por parte de HELICOIL.
+
+

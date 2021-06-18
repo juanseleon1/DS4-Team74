@@ -1,0 +1,9 @@
+"  
+Entra en sincronismo la unidad G42.                                                                                                   Referente a la unidad G42: se observa sobre temperatura en el cojinete inferior, al revisar se encuentra bajo flujo instrumento salida cojinetes, se presume obstrucción en la tubería.                     Se cierran salidas cojinete turbina, radiadores y superior,  se recircula agua en el cojinete inferior y se observa normalización del flujo.
+Se normalizan válvulas y se prueba sistema de refrigeración, funciona normalmente.    
+Realizo : Sergio Ramírez, Uaimer Díaz.
+Informo : Bianey Bravo.
+"
+
+
+EL COJINE GUIA INFERIOR DE LA U2 G4 PRESENTO ALTA TEMPERATURA POR BAJO FLUJO DE AGUA EN EL SISTEMA DE REFRIGERACION, OCASIONA DISPARO DE LA UNIDAD.

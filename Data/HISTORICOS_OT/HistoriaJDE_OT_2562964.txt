@@ -1,0 +1,4 @@
+Terminar de conectar  control de la UMA4...pruebas de estanquidad y reparacion de motores (ventiladores)
+
+FECHA : 07/28/2014 OT # 2562964, PROGRAMO R JIMENEZ, EJECUTO J ORREGO.
+SE HACE REVISION DE LA UMA SE DEJA EL SISTEMA PENDIENTE DE REVISION DEL VENTILADOR.

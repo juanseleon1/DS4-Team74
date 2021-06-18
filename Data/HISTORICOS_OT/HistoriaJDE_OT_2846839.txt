@@ -1,0 +1,16 @@
+FECHA: Agosto 15 DE 2015
+Sale en el despliegue de alarmas las señales digitales del banco 1 como "Señal Error" se revisa y se encuentra el módulo DSDI452 en falla.
+
+Se cambia módulo, quedando el controlador trabajando en condiciones normales.
+
+
+FECHA: Agosto 18 DE 2015
+
+Se quedan alctivas las señales digitales del módulo DSDI 451 desde la SN-8.65 Hasta la SN-8.96
+
+Se cambia tarjeta de comunicaciones DSPC 406A del módulo de entradas digitales DSDI 452  del banco 1 quedando las señales en condiciones normales.
+
+Queda pendiente la compra y/o reparación de la tarjeta DSPC 408 del módulo análogo DSAX 452 por presentar fallas de comunicación. 
+
+
+Learcilas.

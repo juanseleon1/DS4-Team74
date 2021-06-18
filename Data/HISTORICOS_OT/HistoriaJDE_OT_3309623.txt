@@ -1,0 +1,49 @@
+2016-11-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3309623, PASO:1-1,1          
+Se realizó el desmontaje del interruptor 2 del CCM1, se retiró el breaker con el accionamiento eléctrico y también se retiró el grupo de contactos fijo (Tulipan), con el fin de enviar a cotizar la fabricacion de unos contactos de mejor capacidad de corriente, estos elementos se enviaron a TECNIGAL, queda pendiente montar tan pronto los regresen.
+
+DICIEMBRE 03 DE 2016 
+
+2016-11-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3309623, PASO:1-1,1          
+Se realizó el desmontaje del interruptor 2 del CCM1, se retiró el breaker con el accionamiento eléctrico y también se retiró el grupo de contactos fijo (Tulipán), con el fin de enviar a cotizar la fabricación de unos contactos de mejor capacidad de corriente, estos elementos se enviaron a TECNIGAL, queda pendiente montar tan pronto los regresen.
+
+2016-11-14 REALIZÓ: FERNANDO ANTONIO RUIZ - MARIO ALBERTO RESTREPO - FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3309623, PASO:2          
+Se realizó el montaje del interruptor del CCM1 (Q2), el cual llegó de TECNIGAL con una mejora en los contactos, fue necesario realizar unas adecuaciones en el CCM1, ya que los nuevos contactos son más amplios, se dejó en condiciones normales.
+
+2016-11-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - SERGIO OLIVARES,  PROGRAMO: SOLIVARE OT: 3309623, PASO:3-3,1          
+Se realizó el montaje del Q1 en el CCM1, éste interruptor llegó de TECNIGAL con una modificación en los contactos, se instaló para hacer seguimiento, se le dio arranque a las motobombas nuevas (CW1, CW2 y CW3) y una motobomba de 40HP (CW5), se realizó seguimiento termográfico.
+
+2016-12-03 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3309623
+Se retiró el interruptor Q1 del CCM1, con el fin de realizar cambio de contactos tipo tulipán por contactos fijo, realizados con barras en forma de Z, el grupo de mantenimiento mecánico realizó la fabricación de las barras, se dejó en prueba 
+
+SE FACILITA EL APOYO DE DOS MECANICOS PARA QUE AYUDEN EN LA FABRICACION DE LAS YERMINALES REQUERIDAS PARA ESTE CENTRO DE CONTROL   TOTAL 2 PERSONAS SABADO 3 Y DOMINGO 4 
+
+SON . leon guillermo parra y jopse leonel alzate 
+
+JAIME ARAMIREZ
+
+2017/03/28 RUBEN ARBOLEDA
+Hasta el día de hoy no se ha evidenciado calentamientos en el interruptor, se cierra la OT.2016-11-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3309623, PASO:1-1,1          
+Se realizó el desmontaje del interruptor 2 del CCM1, se retiró el breaker con el accionamiento eléctrico y también se retiró el grupo de contactos fijo (Tulipan), con el fin de enviar a cotizar la fabricacion de unos contactos de mejor capacidad de corriente, estos elementos se enviaron a TECNIGAL, queda pendiente montar tan pronto los regresen.
+
+DICIEMBRE 03 DE 2016 
+
+2016-11-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3309623, PASO:1-1,1          
+Se realizó el desmontaje del interruptor 2 del CCM1, se retiró el breaker con el accionamiento eléctrico y también se retiró el grupo de contactos fijo (Tulipán), con el fin de enviar a cotizar la fabricación de unos contactos de mejor capacidad de corriente, estos elementos se enviaron a TECNIGAL, queda pendiente montar tan pronto los regresen.
+
+2016-11-14 REALIZÓ: FERNANDO ANTONIO RUIZ - MARIO ALBERTO RESTREPO - FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3309623, PASO:2          
+Se realizó el montaje del interruptor del CCM1 (Q2), el cual llegó de TECNIGAL con una mejora en los contactos, fue necesario realizar unas adecuaciones en el CCM1, ya que los nuevos contactos son más amplios, se dejó en condiciones normales.
+
+2016-11-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - SERGIO OLIVARES,  PROGRAMO: SOLIVARE OT: 3309623, PASO:3-3,1          
+Se realizó el montaje del Q1 en el CCM1, éste interruptor llegó de TECNIGAL con una modificación en los contactos, se instaló para hacer seguimiento, se le dio arranque a las motobombas nuevas (CW1, CW2 y CW3) y una motobomba de 40HP (CW5), se realizó seguimiento termográfico.
+
+2016-12-03 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3309623
+Se retiró el interruptor Q1 del CCM1, con el fin de realizar cambio de contactos tipo tulipán por contactos fijo, realizados con barras en forma de Z, el grupo de mantenimiento mecánico realizó la fabricación de las barras, se dejó en prueba 
+
+SE FACILITA EL APOYO DE DOS MECANICOS PARA QUE AYUDEN EN LA FABRICACION DE LAS YERMINALES REQUERIDAS PARA ESTE CENTRO DE CONTROL   TOTAL 2 PERSONAS SABADO 3 Y DOMINGO 4 
+
+SON . leon guillermo parra y jopse leonel alzate 
+
+JAIME ARAMIREZ
+
+2017/03/28 RUBEN ARBOLEDA
+Hasta el día de hoy no se ha evidenciado calentamientos en el interruptor, se cierra la OT.

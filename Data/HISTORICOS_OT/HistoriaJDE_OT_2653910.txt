@@ -1,0 +1,10 @@
+MANTENIMIENTO GENERAL VALVULA ADMISION CENTRAL PORCE 2.
+
+
+22/12/2014
+
+Se realiza verificación de los sensores de posición de la válvula esférica, bypass, sello aguas arriba y sello aguas abajo, además se verifican los instrumentos de presión de los sellos y estación hidráulica. Se encontró problema mecanico con el sello de operación el personal mecanico solicita violar la condición de sello mantenimiento retirado mientras realizan correctivo en este sello, se habilita puente para esta señal en tablero TCV bornera BN02
+
+Realizado por Wtobonl
+
+Terminada Cerrar

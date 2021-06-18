@@ -1,0 +1,50 @@
+REALIZAR DESCONEXION BARRAJES DEL BUJE DE ALTA TENSION DEL BANCO DE TRANFORMADORES DE POTENCIA
+
+FECHA 25 DE OCTUBRE DEL 2017, PLANEADOR: FEDERICO ALVAREZ ALVAREZ
+
+EN ESTA ORDE N DE TRABAJO SE REGISTRARAN LAS ACTIVIDADES RELACIONADAS CON LAS PRUEBAS  A LOS CABLES D POTENCIA AISLADOS DEL BANCO N°1 DE PORCE 2.
+
+informe: entrega unidad nº 2 para explotaciòn comercial a las 08:56 am se entrega la unidad y queda disponible despuès de las pruebas de resonancia del cable de potencia a 230 kv.
+trabajos realizados: 
+-en portal de cables: inspecciòn visual y lavado de terminales y dps exteriores en el portal de cables, fase r,s,t desconeciòn y aterrijamiento de los puentes aereos entre la linea y terminales. 
+
+-pruebas electricas en los cables de potencia de la unidad nº2:
+   -cubierta (chaqueta metalica) medida en dc 5kv con equipo portatil.
+   -medidas de descargas parciales en dps c6 de la pantalla: medidas en dc 5kv con equiupo portatil.
+   - capacidad y tangente delta: medicion en ac, pre estres de 159.3kv durante 10 segundos
+     tangente delta: medida en ac 5kv con laboratorio mòvil como fuente
+   -descargas parciales lado portal: medidas en ac pre estres de 159.3 kv durante 10 segundos
+   -descargas parciales lado del domo: medidas en ac pre estres de 159.3 kv durante 10 segundos
+   -ensayo resosnante: medidas de ac de 148.7 kv con laboratorio movil como fuente
+
+en transformadores fases r,s,t:
+extraccion y tratamiento de aceite por termosecado pruebas de rigidez dielectrica, humedad y cromatografia del aceite dielcetrico
+llenado de los domos para pruebas fases r,s,t
+desconexion de trencillas lado de alta del transformador
+inspeccion y limpieza de domos
+verificacion de lazos de protecciones mecanicas de trafo
+pruebas de desempeño del protecciones del banco y linea
+por parte del ingeniero juan david granada.
+cambio de empaquetaduras de manholes de los domos y brindan de la tuberia
+
+en el generador: se realizaran las siguientes pruebas:
+-factor de potencia en estator y rotos
+.reactancia de dispersion en el rotor
+-ip de estator
+-resistencia aislamiento en estator
+-dar en el rotor
+-resistencia ohmica del rotor
+ingeniero: carlos arturo palacio
+
+en el regulador de tension de u2
+-verificacion de los lazos de los transductores del control del regulador de tension
+-programacion del rele de tension de los ventiladoreds de tiristores
+-programacion de los reles de proteccion de temperatura de los bancos de tiristores
+- pruebas de regulacion del canal nº1 del banco nº1 de tiristores
+
+jefe de trabajo: federico alvarez alvarez
+especialidad elcetrica: daniel palacios; richard jimenez
+especialidad mecanica: juan gilberto tobon
+especialidad electronica: carlos moncada
+
+consignacion 137225 ot nº 362665

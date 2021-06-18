@@ -1,0 +1,12 @@
+
+ SOLICITA: EQUIPO OPERACION.               FECHA: NOVIEMBRE 15/2016
+
+
+REFERENTE A LA UNIDAD TRU1, SE ENCUENTRA PRESENTE LA ALARMA: TIERRA ROTOR RELE PR3.  
+FAVOR REVISAR. 
+
+NOVIEMBRE 15 DE 2016
+Se realizó medida de resistencia de aislamiento desde los anillos rozantes y recibió 30 VDC menor a 500 K, se revisó y se encontró una fuga de agua en la tubería de refrigeración del cojinete superior que le estaba callendo a las terminales del rotor y los polos, se corrige dicha fuga con el equipo mecánico, se seca superficialmente y se pone a calentar el rotor con un soldador a 140 amperios hasta normalizar el disparo. Se restablece el sistema de excitación, se lleva la máquina hasta energizada y empieza a aumentar la medida de resistencia en el relé PTR( tierra rotor) 
+Realizó: Equipo de mantenimiento.   
+
+William Lopera.                                                            

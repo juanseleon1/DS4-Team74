@@ -1,0 +1,12 @@
+FECHA: 07/11/2017  SOLICITADO POR: Natalia Urrea - Mario Zapata - Operación G4
+
+DESCRIPCIÓN: Se presenta alarma “ G4U1 PRESIÓN ACUMULADOR NO NORMAL”  TAG G4U1TOTK01NOR_A. Corresponde a baja presión en el tanque acumulador del sistema hidráulico de la unidad N°1; el cual se presentó cuando la presión llegó a 36 bar. 
+Se revisa en IHM de Bombas y Compresores encontrando una presión de 35,5 bar, señal de válvula de intermitencia abierta y las dos bombas encendidas. Al ver que no sube presión se acciona manualmente la electroválvula de intermitencia hasta que la presión llega a 40 bar. 
+
+Se debe verificar el funcionamiento de la válvula de intermitencia.
+
+SE VERIFICA CON EL PERSONAL DE OPERACION GIV EL PROBLEMA QUE SE PRESENTA EN LA UNIDAD 1, ESTACION HIDRAULICA, AL PARECER EL PROBLEMA SE PRESENTA DE FORMA ESPORADICA, LLEVANDO UN TIEMPO APROXIMADO DE 30 DIAS SIN PRESENTARSE EL PROBLEMA, LA IDEA ES SEGUIR RELIZANDO SEGUIMIENTO, Y EN CASO DE PRESENTARSE NUEVAMENTE INFORMAR AL PERSONAL DE MANTENIMIENTO,CON EL FIN DE REALIZAR EL CAMBIO DE LA VALVULA DE INTERMITENCIA Y EMPEZAR ANALIZAR LA CAUSA RAIZ DEL PROBLEMA. 
+
+SE CIERRA OT Y EN CASO DE PRESENTARSE UN NUEVO EVENTO SE DEBE CREAR UNA NUEVA SOLICITUD. 
+
+CARLOS OSPINA. 

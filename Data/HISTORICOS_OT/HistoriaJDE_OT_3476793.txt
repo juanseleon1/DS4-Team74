@@ -1,0 +1,8 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2017-05-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476793, PASO:1          
+Se realizó mantenimiento al motor de motobomba araa2 refrigeraci gt    CORRIENTE: R:43,5, S:43,3, T:40,6, VOLTAJES RS:451,2, ST:450,2, TR:450,3,TEMPERATURA MAXIMA DE MOTOR 50,3°C 
+
+2017-06-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476793, PASO:2          
+Se realizó informe termográfico a la MOTOBOMBA ARAA2 REFRIGERACI GT, se evidenció punto caliente en la peineta de salida se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 34.9°C, lo cual implica una deficiencia mayor en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación., Se adjunta el informe termografico a la OT.
+Se crea OT correctiva # 3531741

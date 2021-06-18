@@ -1,0 +1,17 @@
+
+2017/02/20 _ CARLOS ENRIQUE MONCADA. OT N° 3396929.
+
+-Se realiza limpieza de todos los filtros, rejillas y ventiladores. 
+-     Se verifica el funcionamiento de los ventiladores encontrando los tres ventiladores de la UPS 2.2 de la U3 dañados, estos se retiran para su revisión y reparación.
+-Se realiza él apriete de toda la tornilleria, cables de control y potencia.
+-Se verifican las tarjetas electrónicas, las cuales están bien introducidas en los conectadores de la tarjeta de fondo en la bandeja.
+
+La UPS queda operativa con la puerta trasera abierta para facilitar su ventilación.
+
+REALIZO: JESUS ELADIO PIEDRAHITA - DAVID ATEHORTUA.
+
+
+2017/02/15 _ CARLOS ENRIQUE MONCADA. OT N° 3396929.
+
+MANTENIMIENTO PREVENTIVO UPS U3
+

@@ -1,0 +1,13 @@
+
+FECHA: ENERO 06 DE 2015
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+
+Se presenta falla por comunicaciones, en el RFC se logra visualizar la alarma 7,3 0D 1F relacionada con falla en los cables o la comunicación entre módulos, se procede a revisar y se encuentra suelto uno de los conectores del cocido del módulo 7,3; se reaprietan todos los conectores y se deja en servicio, después de unos minutos se falla nuevamente por comunicaciones mostrando instantáneamente 7,0 y en intermitencia nuevamente la alarma del 7,3 0D 1F; se cambia el módulo de temperatura 7,2 y se prueban los módulos 7,0 que habían en la oficina pero están malos e intermitentes, se colocan nuevamente los módulos 7,0 que tenía el aerogenerador y se deja en servicio.
+
+
+FECHA: ENERO 07 DE 2015
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+
+Se cambian los dos módulos 7,0, se colocan los retirados del AG12, al igual que se cambia el módulo 7,3; se deja en servicio y a la espera del funcionamiento del controlador.

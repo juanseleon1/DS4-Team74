@@ -1,0 +1,20 @@
+FECHA: 2014/08/12.   EVENTO: SALIDA DEL SISTEMA DE LA UNIDAD 8. 
+
+Esta unidad fue necesaraio intervenisrla porque al salir por una falla mecanica  no activo la valvula de paro de emergencia 2130.
+al revisar esta valvula se enconto totalmente agarrotado el piston de dicha valvula por la accion de oxidacion , proveniente de una caida de agua sobre la valvula que la llevo a este estado,
+
+igualmente se cambio la valvula piloto 1105 pues a esta tambien se le evidencio oxidaccion al momento de  destaparala para su revision ,
+
+al montar la valvula 2130  nueva, notamos que esta, no opera en condiciones normales pues el piston se mueve facilmento solo con la vibracion de la unidad y no quedandoce en un punto fijo como se requiere, provocando salidas de maquina cada 30 minutos.
+
+por lo que se realizo mantenimiento a la valvula  fallada  y se monto de nuevo . quecdando la unidad en condiciones normales de operacion 
+
+trabajo realizado por 
+
+adonis cadavid 
+jaime ramirez 
+sergio olivares 
+diego bedoya 
+
+
+

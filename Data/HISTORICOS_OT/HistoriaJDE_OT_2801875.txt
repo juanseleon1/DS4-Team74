@@ -1,0 +1,5 @@
+
+
+6/24/2015
+
+Se Cambia tarjeta DSDI 110A por presentar canal 8 con problemas correspondiente a la señal 8.168

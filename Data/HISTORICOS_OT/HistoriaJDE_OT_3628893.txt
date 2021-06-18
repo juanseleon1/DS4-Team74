@@ -1,0 +1,82 @@
+2017/10/19 RUBEN ARBOLEDA - KATHERIN ZULUAGA
+En revision general de medidas electricas se evidenció que el transformador 3 de alumbrado y tomas de I etapa (Cercano a la DP1), se encuentra con niveles de tensión así: 
+RS: 195
+ST: 191
+TR: 158
+RN:112
+SN:110
+TN: 90
+NGRD: 195
+Corrientes: 
+R: 58
+S: 77
+T: 17
+N: 17
+GND: 1.5
+
+2017-10-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3628893, PASO:1          
+Se desenergizó el transformador 3 y se realizó mantenimeinto correctivo en las terminales de llegada de 480VAC 
+
+VERIFICACIÓN Y CORRECCIÓN. 2017/10/30 
+
+Medidas iniciales 
+Tensiones (V):
+RS:197
+ST: 160
+TR:190
+RN:113.8
+SN:114.6
+TN:90.5
+NGND:112
+Corrientes (A): 
+R:30.8
+S:14.5
+T:39.9
+N:6
+GND:1 
+
+Aislamiento por baja (G) 
+BN: 10.86
+U: 25.8
+V:21
+W: 22
+GND: 0
+
+Aislamiento por alta (G) 
+U: 14
+V:16
+W:17 
+
+Resistencia Óhmica por baja (m)
+U-V: 9
+V-W: 9.5
+U-W: 9.7
+
+Resistencia Óhmica por alta (m)
+U-V: 104.8
+V-W: 222.4
+U-W: 166
+
+INFORME 
+ Debido a la baja tensión en una de las fases del transformador de alumbrado T3 de 75 kVA ubicado al frente del DP´s y DG´s se procedió a revisar y se encontraron puntos de bobina por el lado de alta sulfatados y algunos reventados debido al sobrecalentamiento, por lo tanto, se realizó correctivo a los puntos de bobina con la ayuda de Orlando Zuleta, soldando los puntos reventados en el lado de alta, también se corrigió el encintado con cinta de fibra de vidrio, finalmente se  realizaron medidas de aislamiento y resistencia óhmica dando condiciones de funcionamiento.   
+
+MEDICIONES AL FINALIZAR LOS CORRECTIVOS.  4:15PM DEL 30 DE OCTUBRE 2017
+
+Medidas iniciales         
+Tensiones (V):
+RS:197.4
+ST: 196.1
+TR:196.3
+RN:113.6
+SN:113.9
+TN:113.1
+NGND:2.9
+Corrientes (A): 
+R:27.1
+S:22.9
+T:36.5
+N:5.8
+GND:0.2 
+
+JHONATAN USME 
+SEBASTIÁN HINCAPIE

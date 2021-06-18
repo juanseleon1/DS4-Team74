@@ -1,0 +1,16 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud:14/03/2017
+Tipo de mantenimiento1:  Correctivo)
+Acciones de mantenimiento: (Ver lista)
+
+
+
+Realizar las siguientes acciones de mantenimiento correctivo:
+ Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de sensores y protectores
+ Reparación sistema de datalogger
+ Reparación sistema de transmisión
+ Reparación sistema de potencia 
+ Reparación infraestructura civil o mecánica de la estación
+nota: se cambia radar , no se encontro tecnicamente por que fallo el que venia operando.

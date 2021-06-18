@@ -1,0 +1,5 @@
+26/09/2015 ABAD RAMIREZ GIRALDO
+temperatura alta cojinete superior
+
+2015/09/26 DIEGO BEDOYA
+Se le suministra aire al cojinete superior U5, con el fin de rebajar temperaturas alarmadas en H1

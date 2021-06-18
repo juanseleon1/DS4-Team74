@@ -1,0 +1,11 @@
+FAVOR REVISAR EL REGULADOR DE TENSIÓN YA QUE PRESENTO FALLA GRAVE Y FALLA LEVE, SACANDO LA UNIDAAD 1 DEL SISTEMA
+EN EL MOMENTO SE ENCONTRABA EL PERSONAL DE LA CUADRILLA MOVIL HACIENDO CONEXION EN EL DTM.
+REPORTO :JAVIER ARCILA
+FECHA:04/04/2018
+
+2018/04/04 GIOVANNY DIAZ - LUIS ARCILA - RUBEN ARBOLEDA, OT: 3707504.
+Salió de sistema la unidad 1 ocasionada por falla regulador de tensión, en el momento se encontraban
+realizando pruebas a la DTM para su calibración, se presento un corto el cual disparo el interruptor DC de
+vibraciones y el interruptor general DC de la unidad, esta quedó con el interruptor de potencia cerrado y
+potencia activa y reactiva en cero, se procede a cerrar interruptor y a normalizar la unidad. realizó:
+Se anexan fotos a la OT.

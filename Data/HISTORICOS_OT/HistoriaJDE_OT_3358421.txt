@@ -1,0 +1,14 @@
+
+2017/01/16 _ CARLOS ENRIQUE MONCADA. OT N° 3358421.
+Referente a la unidad 3 nivel aceite de la Cuba, se desconecta el sensor ya que no estaba dando lectura y se instala una residencia de 1.45k para sostener una corriente de 16ma en el lup sosteniendo así el nivel en 322mm  
+
+REALIZO: NESTOR OCHOA -DAVID ATEHORTUA.
+
+
+2016/12/15
+
+
+REVISAR RTD DE SENSOR DE TEMPERATURA ACEITE EN EL COJINETE DE TURBINA U3.
+
+
+INFORMA :LUIS FERNANDO LOPERA, JESUS DANIEL LOPEZ.

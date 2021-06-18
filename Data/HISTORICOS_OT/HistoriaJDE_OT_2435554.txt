@@ -1,0 +1,19 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+Febrero 15 - 2014
+
+
+
+La temperatura de los cables de la peineta de
+entrada se encuentran en el nivel 2 de los
+parámetros establecidos en la tabla de
+clasificación de fallas eléctricas según LOS
+CRITERIOS NETA, donde Delta T° = 13.8°C, lo
+cual implica una deficiencia en su operación, se
+recomienda reparar en la proxima parada
+disponible. disponible. Las corrientes y voltajes
+medidos están dentro de los parámetros
+normales de operación.
+
+Realizó: Edwar londoño - Mario Restrepo
+Planeó: Ruben Arboleda

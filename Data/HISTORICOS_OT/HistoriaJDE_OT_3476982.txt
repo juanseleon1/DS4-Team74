@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: DIEGO RESTREPO.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza mantenimiento, limpieza e inspección visual al tablero +TSAU, a las acometidas y cajas de conexión del sistema de servicios auxiliares de la unidad según el instructivo.
+
+XE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD

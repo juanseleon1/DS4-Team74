@@ -1,0 +1,2 @@
+2015/04/24 MARIO RESTREPO - FERNANDO RUIZ - OT: 2718736
+Se realizó limpieza general al motor, se midio aislamiento 1.02 G No se tomo registro de corrientes y/o voltajes. 

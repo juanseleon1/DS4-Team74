@@ -1,0 +1,16 @@
+PURGA PLANTA DIESEL
+FECHA PLANEACION MANTENIMIENTO: 29/09/2016
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: GUILLERMO ECHEVERRY
+
+29 SEPTIEMBRE 2016
+
+Al realizar la inspección de las plantas Diesel , se encuentra con que esta no enciende, se presumía que era la batería, pero al hacer los descartes se encuentra con Filtro separador de agua vacío, al sistema le entró aire. Se procede al llenado de Filtro separador de agua, filtro de ACPM y a la purga del sistema. Se le explica el procedimiento al Técnico Carlos Usuga. Se hacen pruebas con la planta y esta queda operativa.
+
+
+
+Realizo: JOHN JAIRO GONZALEZ VALENCIA
+         GUILLERMO ECHEVERRY
+         ALEX CALLE
+         

@@ -1,0 +1,51 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+
+2017/01/19 DIEGO BEDOYA
+Se les cambian los micro filtros a los comandos de aguja, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 4 así:
+  
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34.5                                        33
+Presión de paro (kg/cm2):                        38                                           37
+Nivel de arranque (cm):                            -6                                            -6  
+Nivel de paro (cm):                                    2                                             1.5
+Tiempo de trabajo (s):                               46                                           38
+
+Realiza el trabajo Anderson López, Orlando Zuleta. 
+
+marzo 27 de 2017 
+
+ot cerrada 
+
+andres ramirez EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+
+2017/01/19 DIEGO BEDOYA
+Se les cambian los micro filtros a los comandos de aguja, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 4 así:
+  
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34.5                                        33
+Presión de paro (kg/cm2):                        38                                           37
+Nivel de arranque (cm):                            -6                                            -6  
+Nivel de paro (cm):                                    2                                             1.5
+Tiempo de trabajo (s):                               46                                           38
+
+Realiza el trabajo Anderson López, Orlando Zuleta. 
+
+marzo 27 de 2017 
+
+ot cerrada 
+
+andres ramirez 

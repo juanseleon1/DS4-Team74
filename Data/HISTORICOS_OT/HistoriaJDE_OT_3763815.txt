@@ -1,0 +1,5 @@
+El inyector N° 1 de la unidad N°1 de Guadalupe 3 esta presentando problemas al momento de bajar la carga.
+
+28/12/2018
+
+Nota: Se ejecuta en la ot 3738094 con la inspeccion general del servomotor y el problema continuo y en el mantenimiento anual se amplio el diametro de la pastilla reductora en el actuador y hasta el momento se observa un comportamiento normal.  

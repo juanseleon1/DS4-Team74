@@ -1,0 +1,11 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION COJINETE GUIA _______________ CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418239 PROGRAMADOR: JRODRIGL EJECUTA: DAVID ATEHORTUA
+
+Se revisan sensores de vibración, el CSPL se encuentra en -8,58 VDC y el CSPR se encuentra en -7,36VDC. 
+Nivel de aceite cojinete superior se encontró en 366,4mm, el patrón es 370mm.
+Se realizó inspección y verificación puntos de alarma y disparo según formato de inyección de señales.
+
+COJINETE SUPERIOR           PATRÓN ACTE  SEG 2 SEG 5  SEG 8  SEG 1140° 40,0 40,0 40,0 40,0 40,060° 60,0 60,0 60,0 60,0 60,080° 80,0 80,0 80,0 80,0 80,0ALARMA 55,0 70,0 70,0 70,0 70,0DISPARO 64,0 75,0 75,0 75,0 75,0
+
+Informa : Jorge Rodríguez

@@ -1,0 +1,12 @@
+MAR 23/2014 OT: 2494800 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernado Lopera.
+El arrancador funciona normalmente, la falla que presentaba la ocacionaba una vávula cerrada.
+
+MARZO 22-2014
+
+
+Planta: Guadalupe 4
+Equipo: Bomba de refrigeracion reserva 1 
+
+Descripcion: El arrancador suave de la bomba de reserva 1 presenta falla y no permite resetearse.
+
+Informo: Turno1

@@ -1,0 +1,6 @@
+
+2018/08/16 DIEGO BEDOYA
+Se realiza la revisión del nivel de aceite del cojinete de turbina de la U2, el registro fue el siguiente:
+Prosonic: 305 mm
+Flexómetro: 300 mm
+El trabajo fue realizado por Andres Alzate y Jorge Duque

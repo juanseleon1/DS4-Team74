@@ -1,0 +1,5 @@
+2018/12/14 FARLEY GIOVANNY DIAZ
+Se crea OT para realizar la reparación de los patines.
+
+2018-12-15 REALIZÓ: FERNANDO ANTONIO RUIZ ARROYAVE - JHONATAN ANDRES USME - SEBASTIAN HINCAPIE, PROGRAMO: FARLEY GIOVANNY DIAZ.
+Se realizó revisión de los patines del puente grúa vevey, este puente grúa falló durante el mantenimiento mayor de la Unidad 1, se abrió el interruptor en la DG1 y se desmontó los patines, se realizó limpieza general y se encontró un patín pegados, se cambiaron y se dejó en condiciones normales, se instaló los patines, se normalizó los interruptores y se realizó prueba quedando operativo. OT:3795465

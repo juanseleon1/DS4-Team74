@@ -1,0 +1,10 @@
+FECHA: MAYO 17/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: RONAL ARANGO.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realizan pruebas eléctricas en el estator: índice de polarización (IP), medida de resistencia de aislamiento del estator, medida de resistencia óhmica del estator. Estas medidas se realizan en compañía del grupo Operación Mantenimiento Centrales.
+
+XE: PRUEBAS ELECTRICAS ESTATOR UNIDAD 4

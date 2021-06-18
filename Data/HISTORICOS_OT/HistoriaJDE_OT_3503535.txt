@@ -1,0 +1,3 @@
+
+2018/09/23 DIEGO BEDOYA
+Se realiza la revision de la unidad manejadora de aire ubicada en la terraza de la subestación, se encuentra la banda reventada, esta banda no se tiene disponible en la central referencia B48, se encuentra en sitio una banda la cual puede trabajar y refrigerar la oficina de comunicación mientras se realiza la compra de esta banda.

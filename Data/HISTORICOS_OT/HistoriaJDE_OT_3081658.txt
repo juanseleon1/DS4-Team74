@@ -1,0 +1,9 @@
+SEMESTRAL ELECTRONICO/H4000 TIPO2
+VERIFICACION SENSORES AEROGENERADOR
+
+
+
+ACTIVIDAD:
+
+Se inspeccionan los anemómetros y veletas, también se verifica el estado de los sensores de alta y baja velocidad.
+

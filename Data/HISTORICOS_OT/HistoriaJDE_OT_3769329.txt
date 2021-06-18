@@ -1,0 +1,17 @@
+MANTENIMIENTO ANUAL EXCITACION PRINCIPAL
+OTUBRE 09 AL 11 DEL 2018
+Se desmonta la cúpula de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, y mantenimiento en general; se hacen pruebas antes y después del mantenimiento al inductor, inducido y anillos rozantes para verificar su estado; pruebas del DAR, inductancia y capacitancia al rotor. Después de la limpieza se vuelve a montar la cúpula a la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria y en la carpeta de diagnóstico y pruebas (eléctrico).
+Estos son los datos después del mantenimiento realizado:
+
+ANTES                                                    DESPUÉS
+Anillo superior: 21.7 M 512VDC        Anillo superior: 1.22 G 503VDC
+Anillo inferior:   20.7 M 511VDC        Anillo inferior:    1.22 G 503VDC
+
+Se cambian escobillas, ya que no tenían la medida para el criterio de aceptación. Son las siguientes:
+Excitación principal
+Grupo 6: 1-3
+
+Se realizaron pruebas de sobre velocidad mecánica, se calibraron los microsuiches SV1 y SV2, ya que se encontraron descalibrados y no respondían correctamente a la prueba. 
+
+Programo: Carlos Andres Forero
+Ejecutaron: Luis Correa-Mateo Perez

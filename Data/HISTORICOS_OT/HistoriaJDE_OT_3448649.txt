@@ -1,0 +1,22 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 25/04/2017
+
+REALIZAR MANTENIMIENTO PREVENTIVO A LOS EQUIPOS ELECTROMECANICOS DEL PUENTE GRUA.
+VERIFICAR EL CORRECTO FUNCIONAMIENTO DE RELES E INDICACIONES.
+TOMAR DATOS DE PLACA Y HACER PRUEBAS ELECTRICAS.
+INSTALAR VARIADOR DE FRECUENCIA AL MOTOR DEL POLI PASTO CON SU RESPECTIVA REACTANCIA DE LINEA Y RESISTENCIA DE FRENADO.
+
+NOTA: ELABORAR PERMISO DE TRABAJO POR RIESGO DE ALTURAS
+
+
+
+MAYO 8 DE 2017.
+
+Se realizó mantenimiento electrico preventivo a los equipos electricos y electronicos del puente grúa numero 2, se realizaron mantenimiento y pruebas electricas a los motores como resistencia de aislamiento, voltajes, corrientes de arranque y trabajo, encontrandose en buenas condiciones. Se le realizó limpieza a los tableros de control y verificación del correcto funcionamiento de los dos controles.
+
+MEDIDA DE RESISTENCIA DE AISLAMIENTO DE LOS MOTORES
+MOT/DESPLA/ CARRO MOT/GANCHO 60 TONRESIS/AISLAMIEN/ G RESIS/AISLAMIEN/ MR1.74R372S1.72S379T1.86T372
+MOT/DESPL/ CARRO/60 T MOT/DESP/POLI PASTO MOT/POLI PASTO/5 TONRESIS/AISLAMIEN/ G RESIS/AISLAMIEN/ M RESIS/AISLAMIEN/ MR1.22R170R180S1.26S177S185T1.26T178T191
+Realizó: Mateo Perez - Sergio Areiza.
+Programó: William Lopera

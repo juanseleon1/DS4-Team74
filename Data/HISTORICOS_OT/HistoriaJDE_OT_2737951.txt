@@ -1,0 +1,25 @@
+- FECHA : JUEVES ABRIL 23 DE 2015
+- REALIZÓ : FRANCISCO QUINTERO - MARIO RESTREPO - JHONATAN USME
+- ASOCIADO A LA OT : 2737951
+- ASUNTO : HACER MANTTO MP  SEMESTRAL APROVECHANDO CAMBIO DE CABLES DE POTENCIA EN EL TRAFO DE 
+                      POTENCIA Y EN EL PATIO DE LA S/E PARA REPOSICIONAR LA FASE R EN SU SITIO , EL CABLE DE 
+                      RESERVA EN LA FASE S Y LA FASE SER REPARADA ANTES DE LA FALLA . ES EL ÚNICO CABLE QUE 
+                      FALTA POR FALLAR .
+
+                     * DATOS DE AISLAMIENTO TOMADOS AL ROTOR :
+                       - ANTES DE HACER LA LIMPIEZA 
+                         ** ROTOR  30 SEGUNDOS : 809 Koh
+                         ** BARRAJE 30 SEGUNDOS : 887 Koh
+                         ** ROTOR + BARRAJE 30 SEGUNDOS : 451 Koh
+
+                     * DESPUÉS DE LA LIMPIEZA 
+                       ** ROTOR  30 SEGUNDOS : 1.23 Goh
+                       ** BARRAJE 30 SEGUNDOS : 4.42 Goh
+                       ** ROTOR + BARRAJE 30 SEGUNDOS : 1.96 Goh
+
+                    * RESISTENCIA OHMICA ROTOR : 166.2 milioh
+                      ** TEMPERATURA AMBIENTE : 25 ° C
+                      ** TEMPERATURA ROTOR : 41 ° C
+
+                    * IMPORTANTE : AL FINALIZAR Y TOMAR LA ÚLTIMA  MEDIDA DE AISLAMIENTO SE ENCONTRÓ QUE LA 
+                      MEDIDA HACIA EL INTERRUPTOR DE CAMPO CON BARRAJE ABIERTO ESTABA EN 222 Koh.

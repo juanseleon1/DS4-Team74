@@ -1,0 +1,10 @@
+FECHA : 12\ 07\ 2015 OT # 2683856 ,PROGRAMADOR : R JIMENEZ, EJECUTO : OLGA MARIA VIANA
+se realiza pruevas y verificacion de las targetas de disparos de de los interruptores del tablero , se hace inyecion para verificar  estos  segun parametros de los interruptores, se verifica la operacion por sobrecorriente corta, larga , instantanea y de falla a tierra,funcionando segun los parametros.
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AE: REVISION Y CALIBRACION
+
+Procedimiento aplicable a todos los interruptores del tablero principal a 480v de casa maquinas, los interuptores de las transferencias automaticas del tablero de servicios miscelaneos a 208v y las transferencias automaticas de las tres unidades, al igual que la transferencia automatica del tablero de servicios miscelaneos a 208v de la subestacion Porce.  Consiste en realizar calibracion y ajustes (si se requiere) a los modulos de protecciones de los interruptores MASTER PACK, con el proposito de mejorar  su confiabilidad.
+
+NOTA: ANTES DE REALIZAR LA INSPECCION, INFORMAR AL INGENIERO DE LA PLANTA.

@@ -1,0 +1,5 @@
+2018/06/05 OT:3733125  Luis Eduardo Arcila
+Mantenimiento general por el personal de General Fire
+Se realizan correcciones al SCI Generadores, encontrando módulo de luces de descarga de CO2 con problemas de conexión, se verifica y se realiza mantenimiento quedando en operación normal.
+
+

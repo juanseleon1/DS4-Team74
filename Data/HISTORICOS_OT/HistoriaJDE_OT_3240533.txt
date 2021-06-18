@@ -1,0 +1,6 @@
+FECHA: SEPTIEMBRE 10 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO ROBAYO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla comunicación, se revisa el controlador superior y se encuentra el Breake 32F3 abierto, al cerrarlo inmediatamente se dispara, este Breake es el que alimenta la fuente 32A1, la fuente esta mala, se realiza el cambio y se deja en servicio el aerogenerador.

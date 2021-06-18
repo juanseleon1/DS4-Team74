@@ -1,0 +1,17 @@
+23/02/2015
+
+SE INSTALA PRESOSTATO DIGITAL EN EL SISTEMA HIDRAULICO DE VALVULA ESFERICA, EN LA LINEA DE PRESION DE LA CAMARA DE APLICACION DEL SELLO DE MANTENIMIENTO, ESTO CON EL FIN DE PONER UNA SEÑAL ADICIONAL EN SERIE CON EL SENSOR QUE MUESTRA SELLOS DE MANTENIMIENTO APLICADOS/DESAPLICADOS EN LA LOGICA DE ARRANQUE DE LA MAQUINA, QUE SIRVA COMO PROTECCION ADICONAL AL SELLO DE MANTENIMIENTO EN CASO DE UNA FALLA EN EL SENSOR. 
+
+SE MONTA PRESOSTATO CON TUBING EN INOXIDABLE 316 DE 12MM. SE DEJA INSTALADO Y PENDIENTE POR REALIZAR LA CONEXION ELECTRONICA.
+
+ Marzo 4 de 2015
+
+Se realizan trabajos de instalación de un nuevo presostato para la supervisión de la presión sellos de mantenimiento, se instala un relé en el tablero de control (LAA.21), se cablea esta señal en el PLC de la válvula para tenerla en cuenta en la secuencia de apertura y proteger los sellos de mantenimiento.                                                                     
+Realizó: Equipo electrónico.
+Informó: William Lopera. 
+
+MARZO 16 DE 2015.
+
+Se cambia la CPU 351 del PLC  por la 363, se descarga el programa y queda habilitada la comunicación Modbus para  la supervisión de los permisivos de la válvula lista con los despliegues en sala de operación, se realizan pruebas y queda funcionando bien.                                                                              
+Realizó: Grupo electrónico.
+Informó: Oscar Arango - William Lopera

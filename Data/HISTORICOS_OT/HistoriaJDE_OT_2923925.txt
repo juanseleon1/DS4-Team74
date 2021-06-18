@@ -1,0 +1,41 @@
+- FECHA : MARTES NOVIEMBRE 03 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - JEISON ORTEGA 
+- ASOCIADO A LA OT : 2923925
+- ASUNTO : FALLA CHILLER N° 2 
+           * AL INTENTAR ARRANCAR ESTE EQUIPO , CASI DE INMEDIATO DA DISPARO TOTALIZADOR PRINCIPAL.
+           * SE HACER PRUEBAS DE AISLAMIENTO AL DEVANADO DEL MOTOR DE LA UNIDAD COMPRESORA POR PARTE DEL PERSONAL 
+             DE MANTTO DE LA PLANTA CON EL PERSONAL CONTRATISTA DE EPM.
+           * CON LA NUEVAS PRUEBAS QUE SE REALIZAN , SE BUSCA TARTAR DE UBICAR LA CAUSA RAIZ DE ESTA FALLA
+           * SE ANEXAN DATOS ( INFORME )  DE LAS ÚLTIMAS PRUEBAS REALIZADAS POR EL INGO CESAR HOYOS Y EL 
+             PERSONAL DE MANTTO DE LA EMPRESA CONTRATISTA.
+           * NOTA : SE ANEXA INFORME DEL DÍA JUEVES 19 DE OCTUBRE SOBRE PRUEBAS REALIZADAS ENTRE PERSONAL EPM Y EL 
+             CONTRATISTA. 
+
+        
+
+A continuación se describe lo ejecutado con el chiller 2 el día de hoy
+ 
+Se comienza la jornada con un vacío de 450 micrones y estabiliza en 550 micrones, se rompe vacío y se comienza con la carga de refrigerante, se normaliza el circuito de alimentación que estaba provisional para el calentamiento del aceite, se desconecta los cables de potencia que van hacia los bornes del motor y se realiza medida de aislamiento en el devanado del estator con los siguientes resultados:
+ 
+ T6 Vs T1: 800 M
+ T6 Vs T5: 1.33 G
+ T1 Vs T2: 2.22 G
+T6 Vs Tierra: 59.8 M
+T1 Vs Tierra: 89.3 M
+T2 Vs Tierra: 101 M
+
+La medida se realizó con el equipo Metrel Meguer MI3200.
+ 
+Se realiza el procedimiento de arranque de los periféricos del chiller bombas de condensación y bombas de agua helada. Se da orden de arranque después de cumplidas las condiciones de arranque y, presenta el mismo disparo que se registró al inicio del problema del chiller (disparo totalizador que está ubicado en el tablero de control del chiller).
+
+Se realiza nuevamente la medida de aislamiento en el devanado del estator con los siguientes resultados:
+ 
+ T6 Vs T1: 245 M
+T6 Vs T5: 239 M
+T1 Vs T2: 419 M
+T6 Vs Tierra: 58.8 M
+T1 Vs Tierra: 261 M
+T2 Vs Tierra: 256 M La medida se realizó con el equipo Metrel MI3121H.Se informa de la novedad al ingeniero de Larco Jaime Ramírez y se le dan telefónicamente los datos de medida de aislamiento que se tomaron con ambos equipos. Se desenergiza el equipo y se pone tarjeta de no operar en los interruptores de alimentación.
+
+El personal de Larco que actualmente se encuentra en la central se retira el día de mañana, el devanado del estator que se llevaron el pasado  viernes del chiller 1 para rebobinar lo entregan a mas tardar el domingo. El personal de Larco regresará el próximo lunes para la puesta en servicio del chiller 1 e informan que contactaran personal de TRANE para traer a la central para diagnosticar la falla del chille 2.
+          

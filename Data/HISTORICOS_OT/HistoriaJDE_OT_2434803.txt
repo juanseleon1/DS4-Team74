@@ -1,0 +1,7 @@
+Falla fusible FU 15 alimentacion DC de control para cerrar interruptor de excitacion.
+Se realizó Cambio del fusible negativo (DC), correspondiente a la alimentación del circuito de cierre (Close) de 15 Amperios. 
+Realizó: 
+Andres Felipe Ramirez - Luis Eduardo Arcila -  Ruben Arboleda
+Tiempo: 2 Horas
+OT: 2434803
+

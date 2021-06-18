@@ -1,0 +1,17 @@
+
+
+FECHA: NOVIEMBRE 26 DE 2015  OT: 2947966
+
+EJECUTANTE: GERMAN ECHAVARRIA Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla en la comunicación del controlador superior, el problema ocurre cuando se energizan las válvulas de los frenos principales, se realizan pruebas y quedan descartadas las válvulas, bobinas y reles electrónicos, queda pendiente verificar el cableado entre las cajas de conexiones.
+
+
+FECHA: NOVIEMBRE 27 DE 2015  OT: 2947966
+
+EJECUTANTE: GERMAN ECHAVARRIA
+SOLICITANTE: HENRY GIRALDO
+
+Se encuentra problema en uno de los cables de alimentación de las válvulas, se realza el cambio y queda en servicio el aerogenerador.
+

@@ -1,0 +1,11 @@
+XE: BLOQUEOS ELECTROMECANICOS A LA UNIDAD DE TRONERAS
+
+01/06/2016
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+SE ANEXA INFORME GENERAL DEL MTTO EN LA OT Y EN NOTAS DE EQUIPO 1
+En la siguiente ruta del servidor se encuentran todos los informes de las diferentes disciplinas involucradas en el mantenimiento y la inspeccion de las termografias a la unidad.
+
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\2-Troneras general\Informes Mantto Troneras\Informes U2 Troneras\INFORME U2 TR 2016-06-01
+
+PLANEADOR:Oscar Dario Arango
+

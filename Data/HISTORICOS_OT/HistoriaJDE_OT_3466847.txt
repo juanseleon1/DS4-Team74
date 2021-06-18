@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Ronal Arango.
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

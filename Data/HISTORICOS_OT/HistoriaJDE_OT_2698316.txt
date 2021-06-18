@@ -1,0 +1,4 @@
+CE: LIMPIEZA Y REVISION CONTR CAMPO 44 kv
+
+2015/02/24 SEBASTIAN HINCAPIE - GUILLERMO CORDOBA
+Se realizo medida de sensores y se enocontraron en condiciones normales, se hizo limpieza general a las borneras. 

@@ -1,0 +1,20 @@
+MP ANUAL, EQUIPOS:
+2617 VALVULA ADMISION U1 G3
+2618 VALVULA ADMISION U2 G3
+2619 VALVULA ADMISION U3 G3
+2620 VALVULA ADMISION U4 G3
+2621 VALVULA ADMISION U5 G3
+2622 VALVULA ADMISION U6 G3
+
+09/08/2018
+OT 3748651
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+Se realiza una verificación con el calibrador de presión Fluke, a los transmisores de presión aguas arriba y presión aguas abajo de la válvula de admisión, se les hace verificación a los trasmisores de presión de apertura, al transmisor de presión de cierre de la válvula esférica, y al transmisor de presión de sellos aguas arriba y sellos aguas abajo.
+
+REALIZO: GRUPO DE ELECTRONICA

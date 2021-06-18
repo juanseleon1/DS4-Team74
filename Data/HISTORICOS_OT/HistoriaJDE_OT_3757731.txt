@@ -1,0 +1,8 @@
+FECHA: 23/08/2018 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: En el Scada, en los despliegues de los bancos de transformadores de Guadalupe IV se visualizan las temperaturas de los devanados de cada fase tanto del Banco 1 como del Banco 2; pero 1ro no se encuentran todas las medidas de temperatura de devanados y aceite, y 2do las medidas que hay, presentan diferencias respecto a las medidas tomadas en sitio.
+Por favor evaluar la inclusión en el Scada de las señales de temperatura faltantes y ajustar las señales existentes en el Scada para que sean acordes a la señal del instrumento en patio.
+
+27/09/2018
+LAS TEMPERATURAS EXISTENTES SON LAS QUE ESTAN DEERMINADAS POR DISEÑO, SE RELIZA METROLOGIA PARA AJUSTAR LOS VALORES...
+
+JUAN CAICEDO

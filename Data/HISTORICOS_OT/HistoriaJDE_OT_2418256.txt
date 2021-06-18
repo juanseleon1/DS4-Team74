@@ -1,0 +1,10 @@
+MANTENIMIENTO GENERAL REGULADOR ELECTRONICO CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418256 PROGRAMADOR: JRODRIGL EJECUTA: OLGA MARIA VIANA
+
+Se realiza mantenimiento al tablero de control del regulador  de velocidad.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero.
+Se realizo la verificación del los Pickups en la rueda dentada.
+Se verifico el transductor de potencia y la correcta visualización de la posición del distribuidor.
+
+Informa: Jorge Rodríguez

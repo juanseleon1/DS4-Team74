@@ -1,0 +1,5 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA:AGOSTO 08-2015
+EJECUTANTE: PEDRO ROBAYO
+
+Se cambia el fusible del modulo 4.0 del AG11 por estar quemado 

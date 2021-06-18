@@ -1,0 +1,7 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LA LUBRICACION FORZADA
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza la instalación de la lubricación forzada en la unidad verificando su correcto funcionamiento en cada paso del montaje. Además se cambia una de las bombas del sistema ya que presentó problemas
+
+Ejecuta: equipo mantenimiento mecánico GIII

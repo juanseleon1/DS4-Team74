@@ -1,0 +1,38 @@
+
+FECHA: FEBRERO 12 DE 2015
+
+RESPONSABLE: HENRY GIRALDO
+
+
+Se realiza la desconexión del PLC Omicron que tiene las señales de las presiones de SF6 y se colocan estas señales en un nuevo relé marca SEL. Tablero de control de la línea Puerto Bolívar.
+
+
+FECHA: FEBRERO 13 DE 2015
+
+RESPONSABLE: HENRY GIRALDO
+
+Se inicia la desconexión del PLC Omicron que tiene las señales de las presiones de SF6 y se colocan estas señales en un nuevo relé marca SEL. Tablero de control de la Bahía Trafo.
+
+
+
+FECHA: FEBRERO 14 DE 2015
+
+RESPONSABLE: HENRY GIRALDO
+
+Se terminan los trabajos en el PLC Omicron que tiene las señales de las presiones de SF6 y se colocan estas señales en un nuevo relé marca SEL. Tablero de control de la Bahía Trafo.
+
+
+
+FECHA: FEBRERO 15 DE 2015
+
+RESPONSABLE: PEDRO SOLANO Y HENRY GIRALDO
+
+Aprovechando la apertura de los circuitos de 110KV se realizan pruebas de las señales que llegan a las nuevas IHM, apertura de seccionadores e interruptores. En las bahías de Puerto Bolívar y Trafo fue necesario colocar en paralelo en el tablero de la GIS las señales de BP1 y BP2 del instrumento de presión de SF6 del compartimiento del interruptor, esto ya que BP1 se encuentra abierto y está dando señal de baja presión impidiendo completar los estados de los enclavamientos.
+
+
+
+FECHA: FEBRERO 18 DE 2015
+
+RESPONSABLE: PEDRO SOLANO Y HENRY GIRALDO
+
+Se realizan pruebas con personal de Axon Group en los servicios auxiliares y celdas de 13,8KV

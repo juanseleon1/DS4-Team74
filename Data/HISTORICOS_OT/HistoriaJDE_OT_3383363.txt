@@ -1,0 +1,9 @@
+FECHA: 01/02/2016
+SOLICITADA POR: MARIO ZAPATA - ORLANDO CORREA
+
+SE DA PARO DE EMERGENCIA LA UNIDAD 2 DE TRONERAS POR FALLA GRAVE REGULADOR DE TENSIÓN, ALARMAS "PÉRDIDA CONDUCCIÓN FASE" Y " TEMPERATURA DEL CAMPO".
+
+FEBRERO 1 DE 2017.
+se dio paro de emergencia la unidad 2 por falla grave RTX “ falla tarjeta de disparo”  lo cual ocasiono el bloqueo de la CPU y no permitía la normalización de la unidad. después de revisar cada componente individualmente, se procede a resetear la CPU y se normalizan las señales análogas. Se procederá en baja carga a cambiar el Rack de las CPU’ s para verificar y descartar que no se presente nuevamente esta falla, se gira la unidad y se sincroniza a las 15:05.
+Ejecuto: Uaimer Díaz, William Lopera, Mario Morales, Francisco González, grupo de operación.
+Informo: Sandra Carmona y Oscar Arango. 

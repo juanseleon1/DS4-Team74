@@ -1,0 +1,13 @@
+2014/08/27 RUBEN ARBOLEDA
+Realizar puesta en servicio, pruebas de alineación del generador asincronico, desconexión de cables de potencia y medidas electricas. 
+
+2014/08/27 EDWAR LONDOÑO - JHONATAN USME
+Se realizo desconexión de potencia y aislamiento de la caja de borneras de potencia, con el fin de facilitar las labores de alineación por parte de mantenimeinto mecánico, adicionalemente se realizó desmontaje de comando de la aguja, ya que ha presentado fallas en el control de apertura y cierre, se deja en estado 35 a la espera de terminación por por parte de ingeniería en cuanto a la alineación. 
+
+2014/08/29 EDWAR LONDOÑO - JHONATAN USME
+Se realizo conexión y pruebas de arranque, despues de varios intentos se consigió un arranque exitoso, el comando de la aguja presentaba una falla en uno de sus contactos auxiliares Luis Eduardo Arcila realizo mantenimiento y puesta a punto.
+
+Se dejó el generador en condiciones operativas normales. 
+
+2014/09/05 ANGEL ADONIS CADAVID OCHOA
+EL COMANDO DE AGUJA SIGUE PRESENTANDO PROBLEMAS PARA EL CIERRE, SE REQUIERE CONTINUAR CON LA REVISIÒN.

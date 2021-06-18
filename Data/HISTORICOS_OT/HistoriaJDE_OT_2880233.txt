@@ -1,0 +1,7 @@
+
+FECHA: SEPTIEMBRE 17 DE 2015  OT: 2880233
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se independizan las descargas a tanque de los frenos principales y los frenos de la yaw.

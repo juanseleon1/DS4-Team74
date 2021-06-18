@@ -1,0 +1,11 @@
+
+21/09/2018 OT:3767692 Luis Eduardo Arcila
+Por falla en el anunciador de alarmas SACO del banco 3, Se instala fuente SWSM 220A220 quedando en condiciones normales de operación.
+
+
+
+
+
+
+
+

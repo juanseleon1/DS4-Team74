@@ -1,0 +1,5 @@
+FECHA: Noviembre 9/2016PROGRAMO: Daniel Palacios EJECUTO: Ronal arango
+Se realiza mantenimiento según instructivo, se encuentra todo normal, se llenan registros.
+
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

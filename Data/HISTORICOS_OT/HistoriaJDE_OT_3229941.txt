@@ -1,0 +1,14 @@
+
+2016/10/21 _ CARLOS ENRIQUE MONCADA. OT N° 3229941.
+Se revisan los suiches de comunicación de la contronet 1 y 2 encontrando sus fuentes de potencia dañadas.
+se revisan y se cambian filtros a ambas fuentes quedando estas trabajando y en condiciones operativas.
+Se suben los servicios de todo el sistema de supervición CENTRAL LOG, arrancando la estación de Ingenieria, servidor y estación de operación en Casa maquinas PORCE 2. Queda pendiente por normalizar la estación de operacion de la S/E Tablón.
+
+Realiza: Eladio Piedrahita, Nestor Ochoa, Carlos Moncada y Jorge Rodriguez.
+
+
+FALLA SISTEMA DE COMUNICACION CENTRALOG CASA DE MAQUINAS Y SUBESTACION PORCE II.
+
+FECHA: SEPTIEMBRE 02-2016.
+
+SOLICITANTE: TURNO 1 OPERACION.

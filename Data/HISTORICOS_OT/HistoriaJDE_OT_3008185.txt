@@ -1,0 +1,12 @@
+
+2016/04/13_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION DE LA INSTRUMENTACION EN EL TABLERO DE CONTROL RITMAYER DE LAS COMPUERTAS RADIALES 1 Y 2.
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero control compuertas ritmeyer
+
+Realizar mantenimiento plc del tablero de control ritmeyer de las compuertas radiales, además de transductores de medida de las galerías y de la presa en torre de captación.

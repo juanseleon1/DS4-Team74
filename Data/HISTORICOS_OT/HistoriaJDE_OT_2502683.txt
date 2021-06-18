@@ -1,0 +1,11 @@
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD
+FECHA: JUNIO 04-2014
+
+EJECUTÓ: FREDY ECHEVERRY - JORGE MUÑOZ
+
+Se realiza mantenimiento al sistema de lubricación forzada cojinete inferior U3, tableros eléctricos TCBAM, acometidas, motobombas AC y DC, válvula solenoide y tablero de control DC. IDM: GCP3E0017. No se encuentran averías en el tablero de control ni en los motores. Una vez realizado el procedimiento, realiza la toma de datos de Vol, Ies y Res. El sistema queda en condiciones normales de operación.
+
+*** EN "notas de equipo" SE ANEXAN LAS PLANILLAS***
+
+INFORMÓ: CRISTIAN GÓMEZ
+------------------------------------------------------

@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2018-07-18 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3717603, PASO:1          
+Se realizó mantenimiento predictivo al ventilador S9, se encontró punto caliente a la salida del interruptor, se realiza OT correctiva #3747226, se deja en observación, no fue posible realizar informe termografico debido a falla en el computador industrial.

@@ -1,0 +1,9 @@
+FECHA: JUNIO 03 Y 05 DE 2016 OT 3134953
+
+EJECUTANTE: HGIRALRI Y EFUENTEP
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por baja presión en el sistema hidráulico, se inspecciona y se encuentra malo el acople entre la bomba y el motor del sistema hidráulico, se realiza el cambio y se realiza prueba y la presión responde adecuadamente, se realiza prueba de descarga a tanque en los frenos de la yaw, no se encuentra ninguno con falla a tanque pero si hay pequeños vertimientos externos de aceite en los frenos 1, 2 y 3, se deja en servicio el aerogenerador.
+
+
+Se presenta paro, debido a que no hay como visualizar las máquinas y sabiendo que días anteriores estaba mostrando alarma de nivel hidráulico se procede a adicionarle 2 galones de aceite DTE24 y se deja en servicio.

@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711337
+
+BAE: VERIFICAR Y LIMPIAR COLECTORES VAPORES 2 DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OLGA VIANA
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de vapores de aceite CVA2, siguiendo las instrucciones de la orden de trabajo.
+Trabajos realizados por: Olga Viana, Yoanis Rodriguez, Alejandro Cardona.

@@ -1,0 +1,6 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Darío Puerta, Carlos Vásquez y Jhon Jader Orrego.
+Planeador: Luis Federico Alvarez Alvarez
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de carbón de las escobillas, se toma medida de aislamiento a los motores del equipo y se llena planilla con estos datos.
+Trabajo ejecutado por: Darío Puerta, Carlos Vásquez y Jhon Jader Orrego
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

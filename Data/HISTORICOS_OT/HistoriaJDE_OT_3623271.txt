@@ -1,0 +1,21 @@
+TE: BLOQUEOS ELECTROMECANICOS UNIDAD GENERACION P2
+FECHA 2018/01/10 OT # 3623271  PROGRAMÓ:CRISTIAN A GÓMEZ H  EJECUTÓ: OLGA VIANA-CAMILO CARDONA-JAIRO TORRES
+
+
+
+2018/01/10 ANGEL ADONIS CADAVID OCHOA.
+Referente al mantenimiento de la unidad 1 Porce 2 
+Se realiza el mantenimiento preventivo de acuerdo al programa semestral.
+Se realiza verificación de equipos eléctricos asociados a la unidad, se realiza revisión a la turbina encontrando en condiciones operativas, se verifican Lazos de control en regulador de Tension, velocidad  e instrumentación. 
+Fue necesario solicitar redespacho de dos períodos para solucionar problema en sistema de frenos y sistema de arranque local automático.
+
+Queda pendiente ajuste de sensor en zapata de freno 8,
+La unidad es entregada a centro de control 19:36
+La información del manteniiento de cada equipo de trabajo e informes se puede consultar desde la ot padre 3623271
+Angel Adonis Cadavid
+
+
+
+
+
+

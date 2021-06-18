@@ -1,0 +1,22 @@
+
+2018/08/10 _ CARLOS ENRIQUE MONCADA. OT N° 3753892.
+Referente a la estación n° 2: Se realiza mantenimiento a la CPU, se normaliza el sistema el cual permite visualizar  todos los despliegues del sistema SCADA.
+Realizo: Carlos Moncada,  Iván Darío Ramirez, Walter Wilmar Tobón.
+
+2018/08/10 _ CARLOS ENRIQUE MONCADA. OT N° 3753892.
+
+Se crea OT para atención falla Estación de operación 2.
+
+
+TERMINADA CERRAR.
+
+
+
+
+
+
+
+
+
+
+ 

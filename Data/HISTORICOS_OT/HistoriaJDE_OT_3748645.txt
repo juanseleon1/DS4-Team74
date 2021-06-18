@@ -1,0 +1,25 @@
+MP ANUAL, EQUIPOS:
+2527 GRUPO RADIADORES GEN U1 G3
+2528 GRUPO RADIADORES GEN U2 G3
+2529 GRUPO RADIADORES GEN U3 G3
+2530 GRUPO RADIADORES GEN U4 G3
+2531 GRUPO RADIADORES GEN U5 G3
+2532 GRUPO RADIADORES GEN U6 G3
+
+09/08/2018
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+
+Se desconectan las RTDs de temperatura de entrada y salida de agua, y las RTDs de temperatura de entrada y salida de aire de los radiadores y se retiran.
+se desconecta y se retira el flujometro de salida de agua del   grupo de radiadores, se le realiza limpieza y luego se realiza el montaje y conexionado del flujometro de salida de agua del grupo de radiadores.
+
+Se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, y a las RTDs de entrada y salida de aire de los radiadores. 
+
+Después de la verificación se realiza nuevamente el montaje y conexión de todas las RTDs de temperatura de entrada y salida de agua, y entrada y salida de aire de los radiadores, y se les hace limpieza a todos los transmisores de temperatura.
+
+REALIZO: GRUPO DE ELECTRONICA

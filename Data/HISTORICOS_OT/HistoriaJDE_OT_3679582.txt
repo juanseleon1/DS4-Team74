@@ -1,0 +1,14 @@
+FEBRERO 19 DE 2018
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL.
+Se realizaron las siguientes actividades.
+
+ Se revisan posibles fugas. 
+ Se reapretan flanches para eliminar posibles fugas.
+ Se revisan el tanque de expansion, valvula de sobrepresion, rele de BUCHHOLZ.
+ Se ajustan todos los puntos de conexion de control y de potencia.
+
+Nota: estas tareas se realizaron en las fases R y S. En la fase T, se realizo cambio de transformador por uno reparado, este se documentara bajo las siguientes ordenes de trabajo 3688786-3683193. 
+
+Ejecutó: Mateo Perez-Luis Correa
+Programo: Carlos Andres Forero
+Planeo: Cesar A. Giraldo R.

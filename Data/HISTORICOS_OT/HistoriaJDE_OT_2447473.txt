@@ -1,0 +1,18 @@
+OT: 2447473
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+NOTA: PARA LAS MEDIDAS, FAVOR UBICAR A LOS SUPERVISORES ELECTRICISTAS DE LA PLANTA
+
+FAVOR DOCUMENTAR LOS REGISTROS, TAMBIEN EN LA OT.
+
+se revisaron los tableros de control y de potencia del sistema hidroflow y  se encuentran en buen estado pero este sistema se encuentra desabilitado en las 3 unidades de porce2 y estan para modernizar.
+
+realizo Osbaldo Lopera y Arley Baena.
+

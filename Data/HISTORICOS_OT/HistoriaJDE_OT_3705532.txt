@@ -1,0 +1,16 @@
+PREVENTIVO BANCO TRANSFORMADORES POTENCIA UNIDAD GENERACIÓN GUADALUPE 3.
+
+PLANEADOR:GABRIEL TAMAYO
+
+
+PROGRAMADOR:WILLIAM LOPERA
+
+
+ABRIL 9 DE 2018
+Se realizó el mantenimiento cuatrimestral según instructivo GCG3E0010.
+Se realizó cambio de transformador en la fase T, salió la serie 01.2.4006 y se ingresó el 01.2.4005, que fue reparado por el lado de baja tensión en la Ciudad de Duitama Cundinamarca por Ingeniería Explorer.
+Este transformador antes de ser ingresado se le realizaron todas as pruebas eléctricas pertinentes por parte del contratista y EPM, también fueron aplicados los procedimientos de puesta en servicio como es energización en vacío, verificación de alarmas y disparos del transformador, obteniendo resultados satisfactorios. 
+Los protocolos que fueron aplicados al transformador se encuentran en la carpeta de reparación transformadores Pauwels en la siguiente ruta.
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\2-Mantto Eléctrico\01 General eléctrico\02 - TRANSFORMADORES\02 - TRANSFORMADORES GUADALUPE 3\02.REPARACION TRAFOS PAUWELS\G36 T>
+
+Programó: William Lopera

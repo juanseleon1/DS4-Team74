@@ -1,0 +1,15 @@
+
+FECHA: JULIO 3 DE 2015 OT: 2807983
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presentan varios paros por Safety chain sin ninguna otra alarma y sin disparar el Main Switch, se revisa el camino de la cadena de emergencia y se encuentra que solo hay dos elementos de esta cadena que no disparan el interruptor principal, ellos son las vibraciones y el modulo de velocidad (159A1), se decide cambiar este ultimo y se deja en servicio el aerogenerador.
+
+
+FECHA: JULIO 4 DE 2015 OT: 2807983
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Nuevamente se presenta falla por safety chain en el momento de sincronizar, se revisa el modulo 159A1 pero no se ve que tenga problemas, para descartar que este modulo también se haya dañado se coloca uno nuevo pero la falla aparece de nuevo, se decide cambiar el sensor de baja velocidad, se realiza prueba de giro a 500 RPM y responde adecuadamente, se deja el aerogenerador en servicio.

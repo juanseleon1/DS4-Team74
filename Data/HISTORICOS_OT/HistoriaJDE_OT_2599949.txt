@@ -1,0 +1,2 @@
+2014/09/22 - MARIO RESTREPO - FERNANDO RUIZ
+Se realizó limpieza general a los tableros, se identificó falla en aislamientos que soportan las barras, se planea cambio. 

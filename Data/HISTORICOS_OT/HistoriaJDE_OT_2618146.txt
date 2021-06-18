@@ -1,0 +1,34 @@
+11 OCTUBRE 2014
+
+7:01 am Se elabora OT. Referente al Paro Rápido 86R; presentó el 11 de octubre del 2014; hora 7:01 a.m por falla Comando válvula proporcional de la Unidad 3, no  causo desviación del programa de generación.
+
+El evento ocurrió al cambiar la consigna de 150 a 155 MW del generador U3 al Turno 3.
+
+Nota: Se procedió a revisar el módulo  U0357 ubicado en el tablero  +TRVU3; no se encontraron cables sueltos, ni fusibles abiertos. La unidad presento condiciones de arranque; La unidad recibe la orden de sincronización y entra al STN 10:05 con la aprobación del CCG 125 MW y 4 MVAR.
+
+11 OCTUBRE 2014
+
+22:57 Sale de sincronismo la unidad 3 ppor paro rapuido. Sale alarma "Falla en lectura de la realimentaicon UI345 de posicion valvula proporcional".
+
+
+
+14/10/2014
+
+Se realizan pruebas en el regulador de velocidad de la unidad, pruebas de movimientos de carga teniendo en cuenta la apertura del distribuidor en los porcentajes que ha presentado la falla los cuales son 65% y 75 % para una carga de 120 y 150 Mw, se realizan varios movimientos en estas zonas además de rampas de carga y descarga de la unidad desde 10 Mw hasta 168 Mw. 
+
+Adicionalmente se realizan pruebas en los lazos de control de la válvula proporcional y la posición del distribuidor el cual se encuentra correctamente calibrado entre 0.01% y 99.93 %.
+
+según las gráficas realizadas de los eventos mencionados se evidencia el comportamiento de la válvula proporcional  tratando de abrir el distribuidor pero este conserva la misma posición, por este hecho se presume un atascamiento mecánico, para lo cual se solicitan las pruebas pero el evento no fue posible simular, esta unidad queda en observación.
+
+se define despues de varias pruebas con el personal mecanico, sobre el problema radica en el distribuidor el personal mecanico realiza correcciones y queda normalizado este evento
+
+
+Realizado por Wtobonl
+TERMINADA
+
+
+
+
+
+
+

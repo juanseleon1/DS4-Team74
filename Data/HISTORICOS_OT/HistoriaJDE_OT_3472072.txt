@@ -1,0 +1,31 @@
+AI: REALIZAR METROLOGIA TRANSDUCTOR DE POTENCIA ACTIVA DE LA UNIDAD
+
+FECHA PLANEACION MANTENIMIENTO: 02/05/2017
+NUMERO DE CONSIGNACION: @135887
+
+N°OT:3472072
+
+PLANEADOR: RENATO MONTOYA
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V.
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el Miércoles 03 Mayo 2017 a las 9:00 am
+
+
+05/05/2017
+
+En el proceso de calibración se simularon diferentes valores de corriente AC a la entrada del indicador. La variación de corriente de entrada del indicador de potencia equivale a un valor determinado de potencia en MW. Los valores de corriente fueron simulados por medio de una maleta trifásica balanceada de 120 VAC 60 HZ, los cuales fueron leídos previamente en dicho equipo. Para calcular matemáticamente la potencia en MW, se utilizó la formula, donde  e, que es la relación de transformación de los CTs; lo cual indica que con 10000 amperios a la entrada del CT, se obtiene un amperio a la salida del CT. Se generaron tres valores de 0.26 A = 62.38MW = 25% de la medida, 0.52 A = 124.77 MW = 50% de la medida,  0.78 A = 187.1MW = 75%. Donde 0,26, 0,52 y 0,78 A son 8, 10 y 12 ma a la salida del transductor respectivamente. Usando un valor de 1,044A = 20ma = 249.54 MW se llenó el formato registro de verificación que se almacenó en el servidor del área PORCE III. Se analizaron los resultados y se rotuló el equipo según el procedimiento para ello.
+
+  UEXPM = 0.030
+
+ERROR MÁXIMO = -0.013
+
+
+
+Realizado por: JOHN JAIRO GONZALEZ VALENCIA.
+                             NESTOR OCHOA

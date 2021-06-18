@@ -1,0 +1,30 @@
+2015/05/08 RUBEN ARBOLEDA
+Se crea la OT para realizar un mantenimiento especial al chiller 2 de casa de máquinas Guatapé donde el personal de Unidad edificios se encargará de la ejecución con compañia con personal de mantenimeitno de planta. 
+
+2015/05/08 YEISON ORTEGA - EDWAR LONDOÑO
+Se realizó cargado de nitrogeno al chiller 2, a una presion de 3 PSI, adicionalmente se revisó el chiller 3, se neocntró en 0 y se cargó a 3 PSI.
+Se realizó inventario disponible: 
+
+Aceite: 10canecas de 5 Galones C/U y 1 caneca inicada con 3 galones, 
+
+Refrigerante: 450 Kg disponibles en almacén.
+
+Pendientes: 
+Al chiller 2 le falta: 
+1 sensor de salida de agua fria
+1 Board
+
+Al chiller 3 le falta: 
+1 sensor de salida de agua fria
+1 Disco de Ruptura
+
+
+ 11/08/2015. SERGIO OLIVARES D.
+
+ Se recargo de nitrogeno a 5 PSI, se encontro en cero.
+
+2016/07/11 RUBEN ARBOLEDA
+Para este equipo se esta encargando el personal de la unidad edificios, se cierra la OT y queda el equipo de parte de ellos. 
+
+
+

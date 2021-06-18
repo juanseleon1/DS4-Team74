@@ -1,0 +1,21 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CI R1
+
+FEB 18/2016 PROGRAMO: JGUINGUER    EJECUTO: ALEXANDER VILLA
+SE HACE VERIFICACION DE RTD METAL 1 Y 2   COJINETE  GUIA INFERIOR LOS VALORES SON LOS SIGUIENTES:
+PATRON          METAL 1             METAL 2           
+20ºC                 20,26ºC               17,46ºC                              
+40ºC                 40,13ºC               38.84ºC                           
+60ºC                 60,12ºC               58,83ºC             
+80ºC                 80,21ºC               80,21ºC             
+100ºC               100ºC                  100ºC               
+Valor programado alarma metal 70ºC                   
+Valor programado disparo metal 80ºC 
+
+
+
+
+
+
+
+ 

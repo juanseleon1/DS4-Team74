@@ -1,0 +1,20 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+
+Marzo 13 - 2014
+
+Valores medidos: 
+
+1. ANTES DE LIMPIEZA 
+ROTOR + BARRAJE 3,13 M 
+ ROTOR  3,34 M 
+BARRAJE 40,9 M 
+2. DESPUES DE LIMPIEZA
+ROTOR + BARRAJE 8,32 M 
+ROTOR  8,9 M 
+BARRAJE 54,6 M
+Se realizó limpieza con liencillo humedo en la parte interna 
+del recinto de anillos, inicalmente midio 3.5M?, con la limpieza mejoró a 8,9M?
+
+Realizó: Oscar Giraldo - Sebastian Hincapie
+Planeó: Ruben Arboleda

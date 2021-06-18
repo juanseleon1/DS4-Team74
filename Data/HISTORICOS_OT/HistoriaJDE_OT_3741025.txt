@@ -1,0 +1,10 @@
+REFERENTE AL SISTEMA DE CO2 DE LOS TABLEROS DE EXCITACIÓN U3.
+ENCONTRÁNDOSE LA UNIDAD PARADA SE PRESENTA DESCARGA DE LOS CILINDROS DE CO2, SE VERIFICA Y SE ENCUENTRAN ALARMADOS LOS DETECTORES DE HUMO DEL D26 AL D30 Y  SALE ALARMA   SMOKE TV1-U3, TTA 3 AUXIL LOGIC,  TIC 3 INTERRUPTOR CAMPO, RECTIF 1 UNIDAD 3, RECTIF 2 UNIDAD3, TAP 3 AUXIL POT -    ZONE 03.    
+SE SILENCIA LA ALARMA SONORA Y LAS DEMÁS QUEDAN PRESENTES EN EL TABLERO.   
+INFORMA: TURNO 1.               
+
+FECHA: 30 JUNIO DE 2018  
+SOLICITA: LUIS FERNANDO LOPERA - VICENTE GAMBOA.
+
+Se cambian sensores de humo de las celdas de banco de tiristores e interruptor de campo, se deja en observación el sistema, despues de 24 horas de funcionamiento y no observa reporte de fallas en el sistema contra incendio, se decide habilitar el disparo de CO2.
+Trabajo realizadopor: personal de Civalco y Carlos Sánchez.                                        

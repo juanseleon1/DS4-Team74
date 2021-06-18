@@ -1,0 +1,6 @@
+
+FECHA: FEBRERO 17 DE 2015
+
+RESPONSABLE: DIOMER DIAZ, PEDRO SOLANO Y HENRY GIRALDO
+
+Se presenta falla por corrientes asimétricas y grid error, se revisa y se encuentra uno de los disipadores de calor de los tiristores deteriorado, se procede a voltearlo y conectar nuevamente, se deja el aerogenerador en servicio.

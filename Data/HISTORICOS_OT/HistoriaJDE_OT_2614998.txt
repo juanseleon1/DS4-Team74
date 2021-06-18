@@ -1,0 +1,6 @@
+2014/10/06: RUBEN ARBOLEDA
+Se realizará el cambio del sistema de arranque de potencia de la motobomba, con el montaje de un arracador suave AltiStart48, el sistema actual es un aranque directo por contactor. 
+
+Se realizó adecuación, montaje, cableado, pruebas de funcionamiento, elaboración de planos del sistema de arranque de la motobomba AFAA 3. 
+Realizó: Edwar Londoño - Yeison Ortega - Grupo de Mantenimeinto Electrico, 
+Fecha de terminación: 2015/05/11 - OT: 2614998

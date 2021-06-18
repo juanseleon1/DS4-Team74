@@ -1,0 +1,10 @@
+2014/08/25 RUBEN ARBOLEDA
+Se esta a la espera de compra de repuesto, para realizar el cambio. 
+
+2014/09/11 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE - RUBEN ARBOLEDA
+Se realizó mantenimiento correctivo para cambio de compresor, el cual había fallado el 35 de Agosto de 2014, se realizó la instalación de uno nuevo el cual quedó con los siguientes datos: 
+Corriente de servicio: 8.3Amperios
+Voltaje: 214VAC
+Presión por Baja en servicio: 58PSI
+Temperatura de salida en evaporador: 4°C
+Realizó: Guillermo Cordoba - Sebastian Hincapie 

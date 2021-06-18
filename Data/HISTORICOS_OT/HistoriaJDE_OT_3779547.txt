@@ -1,0 +1,36 @@
+XL: LIMPIAR Y VERIFICAR INSTRUMENTACION GEN +TCIG, DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR CARLOS ANTONIO SANCHEZ
+OT PADRE: 3779281
+INFORME MTTO BIENAL UNIDAD 4 PORCE 3 29 NOV 2018
+Referente a la Unidad N° 4: Mantenimiento terminado el día 29 a las 23:00 Se entrega para operación la unidad N°4 , después del mantenimiento bienal. Se realizaron los siguientes trabajos:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares y rotor en general).
+ Inspección mecánica del generador (estator, rotor, se realizó la lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina. Se reemplazaron los patines superior axial y un patín radial, inspección de holguras de los alabes móviles en el distribuidor y cámara espiral.
+ Inspección metrológica a la unidad.
+ Pruebas eléctricas al generador: rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de la unidad: Paros Rápidos 86R, Paros de Emergencia 86E1 y 86E2.
+ Se realizó mantenimiento preventivo semestral eléctrico, mecánico y electrónico.
+ Medidas de resistencia de aislamiento en rotor: Antes: 321 K/322VDC y después del mtto: 98.4 M/513VDC.
+ Consignación No @147761, OT 3779281.
+Jefe de Trabajo: Luis Federico Álvarez.                                                                                         Trabajos Eléctricos y Pruebas: Daniel Palacios - Cristian Gómez.                                                 Trabajos Electrónicos: Carlos Sánchez - Néstor Ochoa.                                                                Trabajos Mecánicos: Oscar Parra y Renato Montoya.
+
+2018/11/29 CARLOS SANCHEZ
+BAJO ESTA OT SE REALIZA EL MANTENIMEINTO BIENAL ELECTRONICO AL EQUIPO TENIENDO EN CUENTA LO DESCRITO EN EL PROCEDIMIENTO GCP3L0006.
+-SE REALIZA LIMPIEZA GENERAL DEL CONTROL, AJUSTE Y VERIFICACION DE CABLEADO Y CONEXIONADOS, SE VERIFICAN LOS VOLTAJES DE SALIDA EN LAS FUENTES DE ALIMENTACION ENCONTRANDOSE DENTRO DE LOS RANGOS NORMALES, SE VERIFICA FUNCIONALIDAD Y LIMPIEZA DE LA INSTRUMENTACION ASOCIADA AL SISTEMA.
+SE VERIFICA ALARMAS Y FUNCIONALIDAD EN LA APLICACION DE LA IHM, SE REALIZA ACTUALIZACION DE LA HORA
+-FALTA EL MODULO PLC 1-7
+-SE ENCUENTRAN ALGUNAS BORNERAS SECCIONABLES ABIERTAS.
+TB_101 (125, 126, 127, 128, 129,130)
+TB_102 (129, 130)
+TB_103 (112, 114)
+TB_105 (119, 120)
+
+MEDIDAS  A LAS RTD´S.
+
+ RTD 22 EQUIPO PATRON INSTRUMENTO        50°C 50.17°CFASE A, N8 75°C 75.09°CMEDIDA EN OHMIOS: 120  100°C 100.38°C
+ RTD 11 EQUIPO PATRON INSTRUMENTO        50°C 50.44°CFASE B, N4 75°C 75.35°CMEDIDA EN OHMIOS: 119.2  100°C 100.38°C
+LA RTD 12, FASE C , N° 4, BORNERA 127, BORNES 116, 117, 118 SE ENCUENTRA BLOQUEADA DESDE EL 2  DE OCTUBRE DEL 2017 POR NESTOR OCHOA YA QUE PRESENTA FALLA EN LA MEDIDA  (MEDIDA ERRÓNEA EN EL (TIG)
+
+
+

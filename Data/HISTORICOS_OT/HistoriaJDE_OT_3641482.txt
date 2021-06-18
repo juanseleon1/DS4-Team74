@@ -1,0 +1,6 @@
+Fecha: Noviembre 29/2017Programo: Daniel Palacios O.Ejecuto: Dario Puerta y Jhon Jader Orrego.
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de frenos. Se realiza limpieza y verificación de conexiones al motor del colector, se le toman registros de aislamiento del motor y se llena planilla.
+Trabajo ejecutado por: Dario Puerta y Jhon Jader Orrego.
+
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

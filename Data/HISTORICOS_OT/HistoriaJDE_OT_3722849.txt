@@ -1,0 +1,9 @@
+JULIO 6 DE  2018  OT: 3722849 PROGRAMADOR : JGUINGUER  EJECUTÓ: ANDRES YEPES
+Se realiza verificación de señales Alarmas y Disparos del transformador de Potencia las cuales se encuentran en buen funcionamiento.
+
+ALARMAS
+
+DESCRIPCION  VERIFICACION 1. Máximo nivel de Aceite Alto OK2. Alta temperatura de Aceite 95°C OK3. Alta temperatura Devanado 95°C OK4. Alarma Relé Buchholz OK
+DISPAROS PROTECCIONES MECANICAS
+
+DESCRIPCION VERIFICACION 1. Mínimo nivel de Aceite OK2. Muy Alta temperatura de Aceite 95°C OK3. Muy Alta temperatura Devanado 105°C OK4. Disparo Relé Buchholz OK5. Disparo Válvula de Sobrepresión OK 

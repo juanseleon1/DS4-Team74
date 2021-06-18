@@ -1,0 +1,7 @@
+FECHA: Agosto 16 DE 2015
+
+Sale en el despliegue de alarmas las señales digitales del banco 2 como "Señal Error" se revisa y se encuentra el modem DSTC 452 en falla.
+
+Se cambia Modem, quedando las señales en condiciones normales.
+
+Learcilas.

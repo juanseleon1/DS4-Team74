@@ -1,0 +1,11 @@
+2018/03/13 _ CARLOS ENRIQUE MONCADA. OT N° 3684374.
+
+Se realiza Mantenimiento a los servicios miscelaneos 208 Vac. Se verifican temperaturas en las RTD's  de las fasesR, S, T, se restablece el indicador de temperatura PROTEM, se ajustan borneras, se hace limpieza al os tableros, se verifica el PLC encontrando operacion normal en él. 
+Queda el subsistema habilitado para la operación.
+
+Realizó: Jeniffer García, Neiro Fabian Pérez.
+-----
+
+2018/02/07 _ CARLOS ENRIQUE MONCADA. OT N° 3684374.
+
+Se crea OT para el mantenimiento de los servicios Miscelaneos 208 Vac P2.

@@ -1,0 +1,22 @@
+
+XM: BLOQUEOS ELECTROMECANICOS DE LA UNIDAD GENERADORA A INTERVENIR
+
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR:OSCAR IVAN PARRA BOTERO
+OT PADRE 3779281
+**********************************************************************************************************************************************************
+SE REALIZAN LOS BLOQUEOS CORRESPONDIENTES A LA UNIDAD PARA INTERVENIR EN EL MANTENIMIENTO BIENAL, TRAJETIANDO CADA UNO DE LOS SISTEMAS Y SUBSISTEMAS A SER INTERVENIDOS EN MANTENIENTO; ASI COMO TAMBIEN SUS DESBLOQUEOS PARA PRUEBAS E INGRESARLA A OPERACION COMERCIAL.
+INFORMA: OSCAR PARRA.
+
+INFORME MTTO BIENAL UNIDAD 4 PORCE 3 29 NOV 2018
+Referente a la Unidad N° 4: Mantenimiento terminado el día 29 a las 23:00 Se entrega para operación la unidad N°4 , después del mantenimiento bienal. Se realizaron los siguientes trabajos:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares y rotor en general).
+ Inspección mecánica del generador (estator, rotor, se realizó la lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina. Se reemplazaron los patines superior axial y un patín radial, inspección de holguras de los alabes móviles en el distribuidor y cámara espiral.
+ Inspección metrológica a la unidad.
+ Pruebas eléctricas al generador: rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de la unidad: Paros Rápidos 86R, Paros de Emergencia 86E1 y 86E2.
+ Se realizó mantenimiento preventivo semestral eléctrico, mecánico y electrónico.
+ Medidas de resistencia de aislamiento en rotor: Antes: 321 K/322VDC y después del mtto: 98.4 M/513VDC.
+ Consignación No @147761, OT 3779281.
+Jefe de Trabajo: Luis Federico Álvarez.                                                                                         Trabajos Eléctricos y Pruebas: Daniel Palacios - Cristian Gómez.                                                 Trabajos Electrónicos: Carlos Sánchez - Néstor Ochoa.                                                                Trabajos Mecánicos: Oscar Parra y Renato Montoya.

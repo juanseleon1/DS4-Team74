@@ -1,0 +1,4 @@
+2015/08/25 FERNANDO RUIZ - SEBASTIAN HINCAPIE - JHONATAN USME
+Se realizó procedimiento para desenergizar el transformador, se aterrizo en la celda correspodniente en el edificio 13.2Kv, se realizó limpieza general y medida de aislamiento con un valor de 123MOhm. 
+
+Se normalizó y se dejo en condiciones operativas adecuadas

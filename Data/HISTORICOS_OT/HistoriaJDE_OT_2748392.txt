@@ -1,0 +1,9 @@
+SOLICITANTE: William Lopera
+Realizar inventario de los repuestos que hay en existencia en las piezas electricas de planta.
+
+MAYO 8 DE 2015.
+
+Se realiza un inventario de la pieza electrica #6 de Guadalupe 3 de repuestos usados que se tiene hasta el momento.
+
+Ejecutó: Edgar Rodas.
+Programó: William Lopera.

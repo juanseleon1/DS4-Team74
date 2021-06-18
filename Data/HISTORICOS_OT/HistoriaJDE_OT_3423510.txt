@@ -1,0 +1,5 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud:13-03-2017
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Montaje de Nueva Estacion. En esta fecha inicia telemetria.

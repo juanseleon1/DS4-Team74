@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGAMO: DANIEL PALACIOSEJECUTO: JULIAN GIRALDO
+
+Se realiza inspección, limpieza y mantenimiento al tablero eléctrico +TCCCM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+Trabajo ejecutado por: Julian Giraldo, jairo Torres, Olga Viana y Juan Llanos.
+
+XE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCI DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

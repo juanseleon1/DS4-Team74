@@ -1,0 +1,10 @@
+
+ENERO 10/2019 OT: 3802663  PROGRAMÓ: HGIRALRI EJECUTÓ: PEDRO ROBAYO Y HENRY GIRALDO
+
+Se cambia el módulo 7,5 y 7,0 para tratar de solucionar la falla de comunicación, pero con el paso del tiempo la falla volvió a aparecer.
+
+Se presenta de nuevo la falla de comunicación, en esta ocasión se logra ver en el RFC 7,9 0D 1F, para solucionar la falla se cambia el cable del LOOP entre el modulo 7,8 y 7,9 se deja en servicio y en observación. Tiempo después falla de nuevo por comunicación.
+
+Se presenta de nuevo la falla de comunicación, en esta ocasión se logra ver en el RFC 7,18 0D 27, para solucionar la falla se pelan bien los cables de entrada y salida del LOOP en el modulo 7,18  se deja en servicio y en observación. Tiempo después falla de nuevo por comunicación.
+
+Se presenta de nuevo la falla de comunicación, se logra ver en el RFC 7,9 0D 1F, para solucionar la falla se cambia el modulo 7,9 por uno nuevo al igual que el cable del LOOP entre el modulo 7,8 y 7,9 (cable nuevo), se pelan bien los cables de salida del LOOP del 7,9; también se apretan todos los conectores del LOOP de la estación hidráulica, se deja en servicio el aerogenerador.

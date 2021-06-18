@@ -1,0 +1,37 @@
+FECHA: AGOSTO 28/2018PROGRAMÓ:  DANIEL EDUARDO PALACIOSEJECUTÓ: YOANIS RODRIGUEZ Y PERSONAL DE SUBESTACIONES Y LINEAS EPM
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+EN ESTA OT SE ENCUENTRAN RELACIONADOS LOS TRABAJOS DE INSPECCION Y REPARACION DE CONTACTO DEL SECCIONADOR 5U219 DE LLEGADA DE LA LINEA 1 DEL BANCO No 2 DE LAS UNIDADES 3 Y 4 DE PORCE III. Y TRABAJOS DERIVADOS DE ESTE CORRECTIVO TALES COMO DESINSTALACION E INSTALACION DE MASTIL DE ILUMINACION PARA EL ACCESO DE LA CANASTA DE LINEA VIVA PARA EJECUTAR LOS TRABAJOS EN EL SECCIONADOR.
+
+INFORME TRABAJOS EN EL SECCIONADOR DE LINEA 1, 5U217, FASE A
+
+Se realizaron los siguientes trabajos para la recuperación del contacto en el seccionador 5U217:
+
+·Con la grúa telescópica se sujeta el seccionador de la parte superior de su estructura
+·Por medio de una canasta de línea viva de 17 m de altura, se sube a inspeccionar el contacto móvil y contacto fijo del seccionador, además se verifican las posiciones de los anillos del contacto fijo.
+·Se sueltan las 8 tuercas de fijación de la base del seccionador a las fundaciones.
+·Con cilindro hidráulico, con palanca de uña  y ayudado con la grúa telescópica, se procede a levantar el seccionador 12 mm en un lado de la base para presentación de calzas para nivelación hasta 11 milimetros de altura.
+·Se inspecciona el nivel del equipo, con respecto a los tres ejes.
+·Se asegura el seccionador, se hace una prueba de cierre de seccionador, para ubicar el punto de conexión en la mitad del contacto
+·Se ajustan los pernos de fijación de la base del seccionador
+·Se realizan 5 pruebas de cierre y apertura desde tablero local y dos pruebas remotamente para garantizar el buen funcionamiento de los tres polos del seccionador.
+
+OTROS TRABAJOS POR OPORTUNIDAD: 
+·Instalación de resistencias de calefacción de 100 W, en cada polo de los interruptores de potencia, 5U220 Y 5U210, para mejorar la temperatura al interior de los tableros de mando del equipo de patio, 
+·Inspección y limpieza de todos los tableros de mando del equipo de patio en bahía de EPM del banco No 2.
+
+Se aprovechó la consignación de INTERCOLOMBIA No C0155425  para correctivo de limpieza en aisladores de la barra No 2 de la subestación Porce III.
+Se tramitó además la consignación C159833 para realizar el correctivo en el seccionador 5U217 de línea 1, banco 2, Unidades 3 y 4, en el mismo horario.
+OT 3756525 para los trabajos relacionados, los trabajos culminaron a las 11:30 am y para entregar equipos de patio, línea No 1, banco de transformadores y Unidades 3 y 4 para normalización y cierre de la consignación C159833.
+
+Equipos de trabajo que intervinieron:
+
+·Cuadrilla de Mantenimiento subestaciones y líneas TyD, Lider Humberto de Jesus Alzate Alzate
+·Equipo de Mantenimiento Electricista, Mecánico y Apoyo, Unidad Operaciones Porce UOP.
+·Cuadrilla de Mantenimiento y Canasta de Línea viva, Distribución Zona Centro.
+
+Jefe de trabajo: Ing. Luis Federico Alvarez A.
+Líder Electricista: Daniel Palacios
+Ver Fotos Adjuntas
+
+

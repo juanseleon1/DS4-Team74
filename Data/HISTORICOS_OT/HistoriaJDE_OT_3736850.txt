@@ -1,0 +1,5 @@
+2018/06/19 RUBEN ARBOLEDA
+Se crea esta OT para retirar barras de tierra de la estrella en el tranformador de excitación para la Habilitación Sistema Inyección Sub-Armónica Protección ANSI 64G.
+
+2018-06-19 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3736850, PASO:1          
+Se realizó la desconexión de la tierra de la estrella en el transformador de excitación de la Unidad 7, lo anterior con el fin de habilitar el Sistema Inyección Sub-Armónica Protección ANSI 64G a solicitud de personal de protecciones.

@@ -1,0 +1,13 @@
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD
+
+---------------------
+
+FECHA: 2014-06-04
+
+EJECUTÓ: JHONATAN ARANGO - CAMILO CARDONA
+
+Se realiza mantenimiento al colector de polvo de frenado correspondiente al sistema de frenos de la unidad. Se revisan conexiones, acometida, se limpia y se verifica el buen funcionamiento del equipo extractor, se toman medidas de Vol, Ies y Res. IDM: GCP3E0025. No se encuentran averías ni fallas graves. Una vez terminado el procedimiento, se normalizan los equipos y se entrega el sistema en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+------------------------------

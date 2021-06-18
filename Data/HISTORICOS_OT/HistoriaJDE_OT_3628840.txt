@@ -1,0 +1,3 @@
+El recinto del inyector #2 de la unidad 3 se encuentra inundado.
+
+Se drena el agua al recinto y se retira obstruccion al drenaje.

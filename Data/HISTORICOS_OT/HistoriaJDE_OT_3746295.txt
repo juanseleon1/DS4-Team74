@@ -1,0 +1,21 @@
+16-07-2018.
+TURNO 3.
+FAVOR REVISAR LA UNIDAD G43 PORQUE AL BAJAR CARGA OPERO EL RELE 2664S OCASIONANDO PARO DE EMERGENCIA. MUCHAS GRACIAS.
+
+
+
+18-07-2018
+
+Teniendo en cuenta la eventos presentados en la unidad 3 de la central Guadalupe IV una vez entró en operación luego de la reparación del interruptor de máquina, se analizó la situación y se cree que las ordenes de alarma y disparo generadas por el equipo de inyección de baja frecuencia SEL 2664S, se debieron a una posible detección de cambio en el valor de impedancia del circuito eléctrico (generador + barraje + trafo de excitación + interruptor de máquina). Debido a lo anterior el día de ayer con colaboración de los ingenieros de la central, se realizó nuevamente el proceso de calibración del sistema(diferente al procedimiento de configuración del equipo) teniendo en cuenta el nuevo valor de impedancia del circuito, actividad que requirió de algunas verificaciones e intervenciones en el circuito de puesta a tierra de la unidad. Los resultados de las pruebas fueron satisfactorios, sin embargo se continua con el monitoreo del valor de resistencia a tierra medido por el equipo.
+
+Revisar si se pudo presentar algún cambio significativo en el circuito eléctrico (generador + barraje + trafo de excitación + interruptor de máquina) luego de la reparación del interruptor de máquina que pudieran haber modificado el valor de la impedancia de este, información que puede apoyar y complementar nuestros análisis.  
+
+Informa: Carlos Arango
+
+28/07/2018
+
+SE HACE REVISION DE CIRCUITO EN MENCION Y NO SE ENCUENTRA ATERACION ALGUA NI CAUSA POR LA CUAL SE ESTE OCASIONANDO E DISPARO, NOS PONEMOS EN CONTACTO CON EL INGEIERO JUAN DAVID GRANADA, QUIEN HACE UNA VERIFICACION VIA REMOTA A CADA UNO DE LOS PARAMETROS CON QUE FUERON CONFIGURADOS LAS PROTECCIONES, EL INGENIERO NOS MANIFIESTA QUE TAL VEZ HAYA ENCONTRADO ALGUN PARAMETRO ALTERADO Y LO CORRIGE, QUEDADO ASI EL RELE FUNCIONAL Y OPERATIVO....
+
+CESAR GIRALDO....
+
+

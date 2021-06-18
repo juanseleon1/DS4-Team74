@@ -1,0 +1,9 @@
+
+2017/06/27_ CARLOS ENRIQUE MONCADA. OT N° 3512261.
+Se ejecuta mantenimiento y limpieza a los tableros de comunicaciones de la central Porce 2.  Se verifica comunicación en la planta telefóníca, red corporativa, y ODFs de fibra optica. Se desmontan los Coolers de los Rack para limpieza y se normaliza su servicio, se reorganiza cableado de la red WIFI, se reorganiza cableado de la FO de todos los tableros.
+Realizó: Jeniffer Andrea García - Julio Cesar Parra
+
+2017/06/12_ CARLOS ENRIQUE MONCADA. OT N° 3512261.
+Tablero control Comunicaciones P2.
+
+Realizar mantenimiento al tablero de comunicaciones de la central incluyendo planta telefonica, red de comunicaciones, red WIFI, ODF de FO, cableado estructurado.

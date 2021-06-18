@@ -1,0 +1,4 @@
+2015/04/09 YESID SANCHEZ, ANDERSON LÓPEZ
+se realiza limpieza del recinto, se toman medidas con flexómetro y revisión en prosonic y se obtienen los siguientes resultados:
+flexómetro: 317 mm
+prosonic: 315 mm

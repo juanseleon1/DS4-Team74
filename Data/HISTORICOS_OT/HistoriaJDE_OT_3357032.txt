@@ -1,0 +1,21 @@
+2016-12-28 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3357032, PASO:1          
+Se inicio con la elaboración de los planos de la motobomba CW6
+
+2016-12-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: SOLIVARE OT: 3357032, PASO:3          
+Se realizó la verificación de los planos de la motobomba CW6
+
+2016-12-29 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3357032, PASO:2          
+Se continuó con la elaboración de los planos de la motobomba CW6, éstos planos quedaron en la planoteca de casa de maquinas, queda pendiente realizar una adecuación en el tablero, ya que hay 2 relés que están con la posición invertida, se espera un paro de motobomba para hacer esta modificación.
+
+2017-03-30 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3357032, PASO:4 
+Se realiza la modificación de los relés de la motobomba CW6, se realiza pruebas con operación de turno y se dejó en condiciones normales.2016-12-28 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3357032, PASO:1          
+Se inicio con la elaboración de los planos de la motobomba CW6
+
+2016-12-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: SOLIVARE OT: 3357032, PASO:3          
+Se realizó la verificación de los planos de la motobomba CW6
+
+2016-12-29 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: SOLIVARE OT: 3357032, PASO:2          
+Se continuó con la elaboración de los planos de la motobomba CW6, éstos planos quedaron en la planoteca de casa de maquinas, queda pendiente realizar una adecuación en el tablero, ya que hay 2 relés que están con la posición invertida, se espera un paro de motobomba para hacer esta modificación.
+
+2017-03-30 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3357032, PASO:4 
+Se realiza la modificación de los relés de la motobomba CW6, se realiza pruebas con operación de turno y se dejó en condiciones normales.

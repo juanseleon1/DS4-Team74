@@ -1,0 +1,16 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDAD GENERACION GUADALUPE 4
+
+31-08-2016
+PROGRAMO JOSE MONTOYA
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL 9.01VDC y el CIPR 9.01VDC 
+Se realizó escalización del cojinete inferior con maquina parada y en pantalla las alarmas y disparos quedaron así:
+Muy alto: 615
+Alto 585
+Nivel patrón: 500
+Bajo:460
+Muy bajo:410
+ SE INYECTAN LAS SEÑALES
+  COJ. INFERIOR °CPATRÓN °C METAL 2 ACTE40 40.1 40.160 60.1 60.180 80,0 80.1ALARMA  65,0 65,0DISPARO  70,0 70,0
+Se calibran de nuevo las vibraciones
+Se inyecto señal con el calibrador de procesos para comprobar  alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\TRIMESTRALES G4-2016

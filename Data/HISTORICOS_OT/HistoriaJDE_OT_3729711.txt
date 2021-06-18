@@ -1,0 +1,13 @@
+PREVENTIVO MECANICO VALVULA ADMISION UNIDAD GENERACION GUADALUPE 3
+
+
+PLANEADOR:GABRIEL TAMAYO
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+Ot: 3729711 - CM: válvula de admisión - Programador: Camilo Montagut - 19/06/2018
+
+Se realiza el desmonte de los filtros y se ejecuta la limpieza respectiva. Se montan los filtros y no se registran novedades
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,11 @@
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABESAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.
+
+16/03/2017
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizó el mantenimiento según el instructivo GCTRE0003.
+Se revisó y se inspecciono todas las cabezas de bobina y los polos (estator-rotor), se observan ciertas anomalías en varios polos del rotor (exposición del papel nomex en el collarín de cierre parte superior) se realizará el respectivo informe.
+
+Nota: las pruebas de aislamiento realizadas al rotor, del antes y el después del respectivo lavado de la excitación, están en los parámetros normales para su correcto funcionamiento.
+
+Ejecuto: Hernan Correa
+Programo: Carlos Andres Forero

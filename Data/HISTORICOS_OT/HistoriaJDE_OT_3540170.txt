@@ -1,0 +1,12 @@
+PLANEADOR: FRANCIS LONDOÑO, 2017-07-13
+REALIZAR LAS SIGUIENTES TAREAS DE MANTENIMIENTO POR CUMPLIMIENTO DE 12000 HRS DE FUNCIONAMIENTO
+
+HRSACTIVIDADES 120001. Limpiar la carcasa del filtro de aire X2. Limpiar el compresor X3. Limpiar Aftercooller y Oilcooler X4. Limpiar trampa de condensados X5. Verificar nivel de aceite X6. Verificar conexiones eléctricas (torquear) X7. Verificar las funciones del Electronikon X8. Verificar recubrimientos térmicos y espumas X9. Verificar si se accionan las protecciones eléctricas X10. Verificar visualmente acople, correas X11. Verificar que no existan fugas de aire, agua y aceite X12. Verificar y revisar el sistema de regulación X13. Verificar el estado del ventilador principal X14. Verificar arnés y sensores de protección X15. Cambiar kit de filtros X16. Engrase de cojinetes motor principal X17. Mtto tablero eléctrico (contactores, cable, etc) X18. Limpiar internamente el  módula Electronikon X19. Cambiar las correas X20. Cambiar aceite HD RotoXtend X22. Cambiar el separador de aceite X23. Cambiar las mangueras que se encuentran deterioradas X24. Mantenimiento general de válvula de cheque X25. Mantenimiento general de la válvula de admisión X26. Mantenimiento trampa de condensado X27. Mantenimiento general de la válvula de mínima presión X28. Mantenimiento general válvula de paro de aceite X29. Mantenimiento general de la válvula termostática X30. Cambiar la válvula selenoide auxiliares y bobina X31. Cambiar filtro variador X32. Cambio de rodamientos motor ventilador X33. Cambio de filtro elementos de red DD/PD X34. Lavar internamente el aftercooler X36. Cambio de elemento acople X
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 17-10-2017
+SE REALIZA MANTENIMIENTO SUGERIDO PARA LAS 12000 HRS DE TRABAJO, NO SE HABÍA REALIZADO POR FALTA DEL FILTRO SEPARADOR QUE NO SE HABÁ ADQUIRIDO.
+- SE REALIZA CAMBIO DE FILTRO SEPARADOR
+- SE REALIZA CAMBIO DE FILTRO DE ACEITE
+- SE REALIZA CAMBIO DE ACEITE ROTO XTEND
+- SE REALIZA LIMPIEZA GENERAL
+- HORAS EN MARCHA: 13025, HORAS CON CARGA: 12891
+TRABAJO REALIZADO POR: FRANCISCO GUINGUER Y CARLOS AGUDELO

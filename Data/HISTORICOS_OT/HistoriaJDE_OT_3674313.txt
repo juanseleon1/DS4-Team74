@@ -1,0 +1,5 @@
+2018/01/21 RUBEN ARBOLEDA
+Se crea esta OT para sacar el aceite de las fugas del banco de transformadores 1, fase R.
+
+2018-01-21 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3674313, PASO:1          
+Se sacó el aceite de los aforos del banco 1 fase R y se llevó hacia el respel, No se cuenta con canecas disponibles para depositarlo.

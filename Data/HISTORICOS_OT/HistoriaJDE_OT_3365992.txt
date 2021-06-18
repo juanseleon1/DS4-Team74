@@ -1,0 +1,9 @@
+FECHA: 13/01/2017   SOLICITANTE: FRANCISCO CORDOBA
+
+DESCRIPCION: SE OBSERVA CON MAQUINA PARADA QUE HAY PASE DE AGUA EN LOS SELLOS DE OPERACION, POR LO TANTO, LA PRESION EN LOS SELLOS DE OPERACION (45 BAR)ES INFERIOR A LA PRESION AGUAS ARRIBA DE LA VALVULA DE ADMISION.  
+
+
+Programador: Camilo Montagut - 22/03/2017
+Aprovechando que la unidad se encuentra parada se realizan maniobras en la válvula esférica y se constata que los sellos de esta unidad presentan pase de agua. 
+Por otro lado se debe tener en cuenta que los sellos de esta unidad no se han reparado, actividad que se tiene planeada para finales de este año.
+Ejecuta: equipo mantenimiento mecánico UOG

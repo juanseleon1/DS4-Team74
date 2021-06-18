@@ -1,0 +1,37 @@
+FECHA: LUNES 22/05/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: CAMILO FLOREZ, RODOL GARCES
+ASOCIADO A LA OT: 3466713
+ASUNTO: EJECUTAR MP PROGRAMADO
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO ________134.6__________
+
+PRESION DE ACEITE (PSI) _________93_________
+
+TIEMPO DE TRABAJO (min) ________10__________
+
+TEMPERATURA DE ACEITE (°C) ________76__________
+
+TEMPERATURA AGUA (°C) _________79_________
+
+VOLTAJE DE SALIDA ________483 V__________
+
+CICLOS POR MINUTO _________60 Herz_________
+
+
+
+NOTA: REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones: El nivel de combustible en el tanque se encuentra en 60 cm. Fue necesario retirar las guardas protectoras del ventilador para realizar limpieza del radiador que se encontró con paja, debido a que los pájaros están anidando dentro de la planta; se sugiere adicionar maya metálica con tamiz adecuado en las ventanas de ventilación con el fin de evitar el ingreso de la fauna silvestre
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027
+

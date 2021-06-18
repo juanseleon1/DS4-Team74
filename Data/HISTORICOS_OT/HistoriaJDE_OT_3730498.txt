@@ -1,0 +1,6 @@
+
+
+MAYO 29/2018 OT: 3730498  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+
+Se inspeccionan los anemómetros y veletas, también se verifica el estado de los sensores de alta y baja velocidad.

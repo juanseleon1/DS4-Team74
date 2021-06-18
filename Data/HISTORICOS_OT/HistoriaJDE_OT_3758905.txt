@@ -1,0 +1,11 @@
+XL: VERIFICAR, LIMPIAR, COMPROBAR REGULADOR HIDRAULICO TRONERAS
+
+20-09-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+PROGRAMADOR: JOSÉ MONTOYA.
+Por presenta falla la CPU de respaldo se realiza intercambio de tarjetas de entradas y salidas para descartar.
+Se le cambiaron los rodamientos al extractor del regulador de velocidad
+Se reparo fuente de alimentación de regulador de velocidad de la CPU1U2 que estaba registrando voltajes de 2.5 y 14 voltios, queda trabajando bien la CPU que se encontraba fallada.
+Se realiza verificación y limpieza a las borneras de control.
+Se realiza revisión y mantenimiento al sensor de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad.

@@ -1,0 +1,5 @@
+07/10/2017 OT 3619492 Luis Eduardo Arcila
+Se realizan las actividades:
+1. Calibración de agujas
+2. Calibración al deflector.
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

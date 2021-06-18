@@ -1,0 +1,47 @@
+2018/10/04 RUBEN ARBOLEDA
+Se crea OT para realizar adecuaciones previas al mantenimiento mator de la unidad 1, programado a partir del 16 de Octubre de 2018.
+
+2018-10-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3771963, PASO:1          
+Desde el almacén se trajeron 2 juegos de anillos para las Unidades Mitsubishi (1y2), se realizó limpieza general para verificar su estado, queda pendiente realizar pruebas eléctricas. 
+
+2018-10-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3771963, PASO:2          
+Se realizó reunió de socialización para el mantenimiento mayor de la Unidad 1 con todo el personal de casa de maquinas en oficina de mantenimiento mecánico.
+
+2018-10-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3771963, PASO:3          
+Se realizó adecuación del andamio para mantenimiento de rotores en la sala de montajes, queda pendiente realizar el armado.
+
+2018-10-13 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3771963, PASO:4          
+Se realizó la reparación al equipo de soldadura actualmente ubicado en el taller, se instaló pinza porta electrodos y se cambiaron las terminales, adicionalmente se bajó a casa de maquinas un interruptor de servicios auxiliares (DG's) para la
+
+2018-10-13 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3771963, PASO:5          
+Se inició con el armado del andamio para rotores para inspeccionar el rotor de la Unidad 1.
+
+2018-10-14 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3771963, PASO:6          
+Se continuó con el armado del andamio para rotores en la sala de montajes.
+
+2018-10-15 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3771963, PASO:7          
+Se realizó adecuación y limpieza de un soldador para el calentamiento de rotor de la Unidad 1, se dejó disponible para conectar.
+
+2018-10-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3771963, PASO:8          
+Se continuó con la adecuación de soldadores para calentamiento de rotor de la unidad 1.
+
+2018-10-17 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3771963, PASO:9          
+Se bajo desde el almacén la bobina para el runner, el cable y el transformador
+
+2018-10-17 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - FERNANDO CASTRILLON (OPERADOR) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3771963, PASO:9,1          
+Se realizó la adecuación del cable, conexión de la bobina para el runner y conexión eléctrica del cable en interruptor disponible en la DP2
+
+2018-10-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3771963, PASO:10          
+Se bajaron del Almacen las escaleras y plataformas para realizar los trabajos de inspección y limpieza en el estator, a estas plataformas se les realizó un ajuste con la ayuda del carpintero. se bajan también.
+
+2018-10-19 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3771963, PASO:11          
+Se realizó la adecuación de plásticos en la sala de montajes para realizar el levado criogénico y para proteger el rotor. 
+
+2018-10-20 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3771963, PASO:12          
+Se realizó el rearmado del andamio, debido a que las esquinas del andamio nuevo no entraron, se realizó readecuación pero tampoco fue posible armarlo, se dejó como estaba inicialmente y se utilizaron las esquinas (Cometas) del andamio viejo, se dejó en condiciones normales.
+
+2018-10-20 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3771963, PASO:12          
+Se adecua andamio con las partes nuevas en el piso de montajes, para inspección y trabajos del rotor de la unidad 1.
+
+2018-10-21 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3771963, PASO:13          
+Se instalan las plataformas con sus escaleras en el estator y se adecuan plásticos en los  huecos de los radiadores de la unidad 1

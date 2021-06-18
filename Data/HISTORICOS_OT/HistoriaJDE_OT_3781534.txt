@@ -1,0 +1,25 @@
+05/12/18 CESAR AUGUSTO HOYOS HENAO.
+Realizar medida de aislamiento al devanado del generador antes de la puesta en servicio.
+
+
+2019-02-19 REALIZÓ: JHONATAN ANDRES USME - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3781534, PASO:1          
+Se realizó medidas eléctricas al generador asincrónico con los siguientes resultados: 
+
+1. Medida de resistencia de aislamiento:
+a. Se desconectó el cable del PT de neutro/tierra con el siguiente resultado: 
+2.78MOhm, Tensión aplicada: 3395V
+b. Se realizo el desacople de cada fase y se midió con los siguientes resultados: 
+Fase R: 8.20MOhm, 3518V
+Fase S: 8.35MOhm, 3518V
+Fase T: 8.40MOhm, 3521V
+c. Se realizó el retiro de los pararrayos y se midió con los siguientes resultados: 
+Fase R: 3.61GOhm, 3593V
+Fase S: 3.66GOhm, 3595V
+Fase T: 3.77GOhm, 3595V
+
+2. Se realizó medida de resistencia óhmica con los siguientes resultados: 
+Fase R-S: 45.9mOhm, 1.02Amperios
+Fase S-T: 46mOhm, 1.02Amperios
+Fase T-R: 46mOhm, 1.02Amperios
+
+

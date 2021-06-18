@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2017/08/22
+Síntoma: Punto de medicion sin unidad, se debe reemplazar e instalar nuevamente, porque la unidad estaba en fallo

@@ -1,0 +1,6 @@
+ABRIL 29  DE 2018 OT:3826369  PROGRAMO: JGUINGUER  EJECUTO: ANDRES YEPES
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, ACTIVACIÓN DE ALARMA Y DISPARO 
+
+Temperaturas de: Cojinete Combinado Equipo 70C 75C S45 (Axial) 70.5 75.5Valor programado Alarma: 70°C Valor programado Disparo: 75°C Comentarios: 
+Temperaturas de: Cojinete Combinado Equipo 70C 75C S43 (int) 70.4 75.4Valor programado Alarma: 70°CValor programado Disparo: 75°C Comentarios: 
+Temperaturas de: Cojinete Combinado Equipo 70C 75C S40 (Axial) 70.4 75.4Valor programado Alarma: 70°CValor programado Disparo: 75°C Comentarios: 

@@ -1,0 +1,14 @@
+
+XM: INSPECCION GENERAL RODETE FRANCIS DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 05/11/2013 - OT 2407964 - @C0087667
+
+Se realiza según procedimiento. Se realiza mapa de defectos el cual se anexa y se archiva. Se realiza prueba de líquidos penetrantes MAGNAFLUX  SKL-SP2 Y REVELADOR MAGNAFLUX SKD-S2. Se realiza archivo fotográfico. En todos los alabes fijos, en la zona 23 en la unión con la falta del rodete, se presentan sombras (como se diligencia en el mapa de defectos). En todos los alabes se presentan talladuras por material particulado (parte interna del alabe móvil hacia el rodete) En el alabe fijo N° 14, se presenta cavitación por desprendimiento de material (poro). En el 80% de los alabes fijos en la zonas 13, 18 y 23, de la arista del los alabes fijos en la zona de baja presión, se presentan cavitaciones con profundidades que varían entre 0.2 y 1.0 milímetros de profundidad. En la zona 23, se presenta lo siguiente:
+Alabe N° 2: cavitación de 2.0 mm de profundidad (zona 1 y 2).
+Alabe N° 3: cavitación de 1.0 mm de profundidad (zona 2).
+Alabe N° 9: cavitación de 0.2 mm de profundidad (zona 1 y 2).
+Alabe N° 10: cavitación de 0.5 mm de profundidad (zona 1 y 2).
+Alabe N° 11: cavitación de 1.0 mm de profundidad (zona 1 y 2).
+
+HORAS DE SERVICIO: 11.398
+

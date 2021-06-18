@@ -1,0 +1,7 @@
+MANTENIMIENTO ANUAL  PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III.
+
+
+SEPTIEMBRE 26 DE 2017
+Se desmonta todo el sistema de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, y mantenimiento en general ya que se tiene la posibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio armado, se hacen pruebas antes y después del mantenimiento al inductor, inducido, anillos rozantes y sobre velocidad mecánica para verificar su estado. Después de la limpieza se vuelve armar toda la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria y en los formatos de pruebas que se llevó durante el mantenimiento anual de la unidad.
+Resultado de aislamiento final con anillos acoplados al rotor.
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO MANILLO GSUPERIOR1.83SUPERIOR4.52INFERIOR1.83INFERIOR 4.46

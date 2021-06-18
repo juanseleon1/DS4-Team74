@@ -1,0 +1,19 @@
+FEBRERO 18 DE 2019
+
+EDGAR BARRERA C.
+
+SALEN REPETIDAMENTE ALARMAS FALSAS SENSOR HUMO TC CO2. No reconocen (silencian) desde estación de operación FIRE ALARM CONTROL.
+
+
+_______________________________________
+
+Febrero 18 DE 2019 Luis Eduardo Arcila
+
+Se revisa el sistema encontrándose sensores de humo falta de mantenimiento.
+Se solicita al personal de General Fire atender este preventivo.
+
+Febrero 28 DE 2019 Luis Eduardo Arcila
+
+En conjunto con el personal de Accequip y General Fire, se revisa el nodo 4 Críticos para evaluar los daños en este circuito.
+El personal de Accequip cambia dos módulos FRCME-M del Loop:4 de las estaciones manuales críticos DP1 y DP2, esto por garantía del trabajo en este Loop.
+

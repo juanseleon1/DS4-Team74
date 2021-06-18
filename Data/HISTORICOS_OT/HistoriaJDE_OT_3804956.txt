@@ -1,0 +1,7 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 25-01-2019
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación, 
+Análisis de datos de estado del datalogger y transmisor, Verificación de sistema de potencia y puesta a tierra
+Se automatiza pasa de almacenamiento local a transmision satelital, se utiliza Transmisor tx 320, dcp cr 10x, bateria, antena Tx, antena Gps,caja nena, protector dc y protector rf; asi como los demas elementos necesarios para la operacion de la estacion

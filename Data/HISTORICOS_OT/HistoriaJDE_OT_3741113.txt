@@ -1,0 +1,4 @@
+
+JUNIO 30 DE 2018 OT: 3741113  PROGRAMÓ: HGIRALRI EJECUTÓ: HGIRALRI Y ALVARTIO PUSHAINA
+
+Se cambia el tanque acumulador de 105 bar, se evidencia descarga a tanque por el freno 4 de la yaw, se programará cambio de este para los próximos días.

@@ -1,0 +1,13 @@
+BUENOS DIAS.
+
+SE REQUIERE NORMALIZAR LAS 3 PANTALLAS UBICADAS EN LA SALA DE OPERACION CORRESPONDIENTES A LOS CONTROLES DE UNIDAD DE LOS 3 GENERADORES DE LA CENTRAL GUADALUPE 4, YA QUE SE ENCUENTRAN EN ''VERSION ERROR''
+
+ESTO CON EL FIN DE GARANTIZAR EN CASO DE EMERGENCIA, EL ARRANQUE Y PARO DE LAS UNIDADES DESDE DICHAS PANTALLAS.
+
+MUCHAS GRACIAS.
+
+INFORMÓ: TURNO #1 OPERACION GUADALUPE 4.
+
+Pantallas de unidad 1, 2 y 3 bloqueadas ( versión error) se desbloquean, pero se observa problemas en la comunicación con la estación de ingeniería se deben hacer maniobras de desconexión de otras pantallas para que estas conecten y se puedan descargar
+
+JUAN ALBERTO CAICEDO HENAO

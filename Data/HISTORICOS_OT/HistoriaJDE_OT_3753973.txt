@@ -1,0 +1,20 @@
+2018/08/10
+
+FAVOR VERIFICAR COMUNICACION IHM DEL CCM3 NO TIENE COMUNICACION Y TODAS LAS VENTANAS ESTAN SIN ANIMACION.
+
+TURNO 3 , J.FORERO/U.CASTRILLON/C.GUINGUER
+
+
+FECHA: 10/08/2018
+
+
+FALLA EN COMUNICACION IHM CENTRO CONTROL MOTORES
+
+Se realiza verificacion de la animacion en la IHM, se enceuntra sin comunicacion con el PLC la aplicacion, se realiza verificacion de la red ethernet y el puerto RS232, se actualiza la aplicacion y se refresca la comunicacion normalizando los despliegues de la IHM .
+
+REALIZADO POR WTOBONL
+
+ TERMNADA CERRAR
+
+
+

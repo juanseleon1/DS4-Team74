@@ -1,0 +1,7 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud:02-07-2019
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento: 
+- Instalacion de sensor de temperatura y humedad en paralelo con el existente en la estacion para analisis comparativo de la señal durante un periodo de tiempo.
+desmonte del sensor de temperatura y humedad y normalizacion nuevamente de la estacion con una sola señal de temperatura y humedad. 

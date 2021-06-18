@@ -1,0 +1,7 @@
+
+FECHA: AGOSTO 27 DE 2015  OT: 2856987
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se cambia la válvula 270,2 de la yaw; lo anterior por estar dando paso continuo a 30 bares, produciendo falla por demasiados arranques de la bomba del sistema hidráulico.

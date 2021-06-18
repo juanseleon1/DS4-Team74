@@ -1,0 +1,15 @@
+
+SE DA PARO PARCIAL 1 POR ALTA TEMPERATURA EN LA RTD 8 FASE S (147 °C).
+HORA 22:43
+FECHA: AGOSTO 13 DE 2018 
+
+SOLICITA: JOHN ESNEIDER RIVERA - VICENTE GAMBOA. 
+
+14/08/2018
+
+Unidad N° 3 rele multiline 1 se encuentra mala indicacion de la RTD 8 fase S2 con unidad en vacio y con tension indicaba 115°C y las demas 55°C, ademas se encontro la RTD 2 fase S1 indicando errado 101°C, ambas RTD´s se bloquearon para el disparo y quedan habilitadas para la alarma. Se verificaran estas RTD´s por oportunidad desde el generador y el tablero +TCIG. La unidad queda normalizada.
+
+
+realizado por Wtobonl 
+
+TERMINADA CERRAR

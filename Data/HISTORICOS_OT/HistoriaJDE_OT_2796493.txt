@@ -1,0 +1,8 @@
+solicitante:Pedro Robayo
+
+Fecha Junio17-2015
+Ejecutante: Pedro Robayo
+
+
+
+Se sube al AG5 y se  encuentra el cable de la PT100 del G1 que se dando una  medida erronea , se reapreta dejando la señal bien 

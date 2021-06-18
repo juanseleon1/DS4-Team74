@@ -1,0 +1,6 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+08-03-2016
+PROGRAMO JOSE MONTOYA
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero

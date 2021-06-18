@@ -1,0 +1,11 @@
+2014/02/21
+
+Favor verificar indicación de la junta inflable G42, ya que no habilita los permisivos de arranque de la Maquina.
+
+
+Informan: Equipo operación.
+Marzo 04/2014.
+Se realiza la verificacion del control que indica la posicion de la Junta inflable y se encontró todo normal, se revisa en la estacion de ingenieria y se encontro algunos errores, se corrige y queda todo normal.
+Informo: William Lopera
+
+

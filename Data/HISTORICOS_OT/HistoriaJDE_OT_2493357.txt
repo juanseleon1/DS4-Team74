@@ -1,0 +1,7 @@
+
+FECHA: 15 DE MARZO DE 2014
+
+EJECUTO:PEDRO DOMINGO  
+
+
+Se hace el cambio del modulo 7.4 modulo de temperatura en el AG5 por estar saliendo falla de comunicaciones 

@@ -1,0 +1,8 @@
+2017/09/06 _ CARLOS ENRIQUE MONCADA. OT N° 3422165.
+Estación de operación (CENTRAL LOG_CIS) en S/E Tablón.
+
+Se revisa la estación CIS del CENTRAL LOG encontrando falla en la fuente de potencia.
+
+Se realiza desmonte para su reparación cambiando componentes electrónicos. La fuente queda en servicio para esta estación.
+
+Realizó: Ivan Dario Cano, Carlos Moncada.

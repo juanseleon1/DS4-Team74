@@ -1,0 +1,5 @@
+DOMINGO 17 DE SEPTIEMBRE 2017 JORGE MARIO PEÑARANDA
+
+Referente al Sincronizador de la Unidad 2: El dia Sabado 16 de Septiembre 2017, se presenta perdida de comunicacion en el sincronizador teniendo que sincronizar la unida en forma local 07:39, en el momento de parar la unidad por programa de generacion 22:44, esta quedo sin condiciones por falla comunicacion del sincronizador, se le hizo reset al controlador del sincronizador quitandole tension de alimentacion y solucionando la falla en el mismo quedando la unidad en condiciones. .
+
+REALIZA Y EJECUTA JORGE PEÑARANDA

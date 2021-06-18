@@ -1,0 +1,7 @@
+PREVENTIVO ELECTRICO INTERRUPTOR CAMPO GENERADOR GUADALUPE III
+05/07/2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo segun instructivo GCG3E0012. Se verificaron todas las conexiones de control y de potencia reajustando donde fue necesario, se hicieron pruebas manuales de apertura y cierre del interruptor verificando continuidad, se lubricaron todos los accionamientos mecanicos, se verificaron los contactos principales garantizando el correcto funcionamiento.  
+
+Ejecuto: Tatiana Galvis-Mateo perez
+Programo: Carlos Andres Forero

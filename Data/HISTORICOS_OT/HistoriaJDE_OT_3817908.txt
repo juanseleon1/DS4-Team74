@@ -1,0 +1,4 @@
+
+MARZO 11/2019 OT: 3817908  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO Y CARLOS VALDELAMAR
+
+Después de un arranque se presenta falla Phase Shift Error y se queda pegado el contactor 17K2 se procede a despegarlo, en la Bottom Box se escucha un pitido en la UPS se observa apagada la UPS general pero no se nota perdida de la alimentación de los módulos, se procede tratar de encenderla y se presenta humo desde el interior de la UPS, se desconecta de la potencia y se cambia por una nueva, se deja en servicio el aerogenerador.

@@ -1,0 +1,8 @@
+FECHA: MARZO 14/2017PROGRAMO: DANIEL PALACIOSEJECUTO: JULIAN GIRALDO.
+Se realiza mantenimiento al Tablero de control motores de la minicentral, se le realiza limpieza y verificación de conexiones.
+OT PADRE: 3419087
+PLANEADOR: RMONTOYG
+FECHA: 14/03/2017
+PROGRAMADOR: DANIEL PALACIOS
+
+REALIZAR MANTENIMIENTO ANUAL A LA MINI CENTRAL DE PORCE 3

@@ -1,0 +1,18 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  COJINETE SUPERIOR UNIDAD GENERACION TRONERAS
+
+20-09-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+
+PROGRAMADOR: JOSÉ MONTOYA.
+
+Se realiza limpieza e inspección visual al visor del sensor de nivel y se revisan sensores de vibración, se encontraron en CSPL: 8.89VDC, CSPR 8.71VDC y el AXIAL: 8.55VDC, se cambió borneras de vibraciones.
+
+Nivel de aceite cojinete superior se encontró en 379 mm, el nivel patrón es 375mm, 
+
+Se inyectan las siguientes señales
+  COJ GUIA SUP °C COJ EMPUJE °C CABLE RTD 2441 2432 2434 2426 2428 2430PATRÓN °C ACTE 2 SEG 2 SEG 4 SEG 2 SEG 4 SEG 640 40,0 40,0 40,0 39,9 40,0 39,560 60,0 60,0 59,7 59,7 60,0 39,880 80,0 80,0 80,0 80,0 80,0 80,0ALARMA 70,0 70,0 70,0 70,0 70,0 70,0DISPARO  80,0 80,0 80,0 80,0 80,0 80,0
+
+Se inyecto señal con el calibrador de procesos para comprobar alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2018\SEMESTRALES TRONERAS
+
+

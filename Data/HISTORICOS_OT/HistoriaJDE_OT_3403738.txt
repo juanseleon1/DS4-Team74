@@ -1,0 +1,10 @@
+XE: VERIFICAR, REVISAR Y LUBRICAR, PREVENTIVO ELECTRICO INTERRUPTOR GENERADOR TRONERAS.
+
+16/03/2017
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizó el mantenimiento según el instructivo GCTRE0009.
+Se extrajo el interruptor, se revisaron y se ajustaron todos los puntos de conexiones, se realizó limpieza e inspección de todos los elementos electromecánicos que componen el equipo.
+No se evidencian anomalías.
+
+Ejecuto: Mateo Perez
+Programo: Carlos Andres Forero

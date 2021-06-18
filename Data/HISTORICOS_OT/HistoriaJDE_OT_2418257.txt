@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL COMPUTADOR UNIDAD CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418257 PROGRAMADOR: JRODRIGL EJECUTA: OLGA MARIA VIANA
+
+Se realizó mantenimiento externo a los rack del PLC y la IHM principal de unidad.
+
+Informa: Jorge Rodríguez

@@ -1,0 +1,19 @@
+2018/06/05 _ CARLOS ENRIQUE MONCADA. OT N° 3726074.
+Se realiza mantenimiento general, limpieza y verificación al cableado.
+Se encuentra falla Bateria, se miden voltajes arrojando 25.4V, pero la alarma no se borra en la fuente.
+Despues de la verificación en la instrumentación, el sistema hidrahulico queda cargandose continuamente, por lo cual, se deja desenergizado el sistema para evitar daño en las bombas.
+
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+MPGETPO: LIMPIAR, VERIFICAR Y CHEQUEAR CONTROL DEL PROCESO TABLERO CONTROL COMPUERTA TCV3 CASETA 4 
+
+FECHA: 21/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA 
+
+ 

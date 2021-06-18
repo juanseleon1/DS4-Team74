@@ -1,0 +1,10 @@
+FECHA: 27/03/2018 
+
+SOLICITADO POR: Mario Zapata - Francisco Córdoba.  Operación G4
+
+DESCRIPCIÓN: El regulador de tensión G43 se está pasando constantemente a local, por lo cual no recibe consignas desde el CCCG.
+
+SE REVISA EL REGULADOR DE TENSION, SE LE HACE UN RESET Y SE NORMALIZA EL CONTROL.
+
+
+REALIZO: GRUPO DE ELECTRONICA.

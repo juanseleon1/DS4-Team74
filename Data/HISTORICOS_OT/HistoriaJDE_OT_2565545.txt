@@ -1,0 +1,14 @@
+PLANEADOR: SANTIAGO RAMÍREZ
+PROGRAMADOR: RENATO MONTOYA
+
+Horas de operación de la  UNIDAD 3: 15074
+Horas de operación del sello desde el último cambio: 518
+
+DESCRIPCIÓN DEL TRABAJO: Inspeccionar estado del sello del eje por fuga excesiva presente desde el último cambio realizado entre el 1 y 14 de junio de 2014.  Para poder realizar esto se debe desarmar todo el cojinete de turbina. Este trabajo se realiza por oportunidad ya que la planta se encuentra parada entre el 14 y 20 de Julio debido a restricciones de línea de 500KV por atentados terroristas.
+
+FECHA PLANEADA PARA EJECUCIÓN: DE 15 A 21 DE JULIO.
+
+NOTAS:
+
+14 DE JULIO: 
+A las 9:45 pm se termina bloqueo de la unidad para realizar la inspecciòn del sello.

@@ -1,0 +1,15 @@
+
+2018/01/03 _ CARLOS ENRIQUE MONCADA. OT N° 3666306.
+
+Se realiza calibración al termómetro de la estación hidráulica, el cual presentaba un error de 7°C por debajo de la medida actual del transductor de la RTD de la cuba. Se elaboró curva de temperatura y al normalizar queda:  
+
+Termómetro: 33°C y Transductor RTD: 33,2°C .
+
+Realizó: Grupo Electrónico.  
+
+Informo: Jeniffer García.
+
+2018/01/03 _ CARLOS ENRIQUE MONCADA. OT N° 3666306.
+Referente a la estación hidráulica U# 1:
+El termómetro 75 A (temperatura aceite del tanque) presenta diferencia de temperatura con el tilquist de 8 °C. 
+

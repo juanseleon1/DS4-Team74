@@ -1,0 +1,22 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+----------------------------
+
+fecha: 2014-08-20 ot: 2560729 mtto: eléctrico
+ejecutó: jhonatah arango - geovanny echeverri
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de agua estación hidroflow pertenecientes al sistema de válvula de admisión (S3). Según IDM: GCP2E0017. No se encuentran averías ni fallas en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. 
+el mtto se realiza por oportunidad con planta en 0 mva.
+registro mb1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S466R9,8R2,8R1,18 500S - T468S8,1S2,9S1,21 505T - R465T8,7T2,8T1,24 500
+registro mb2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S461R10,2R3,1R1,52 500S - T459S9,8S3,3S1,5 505T - R462T9,1T3,2T1,87 500
+*** como se mensiona anteriormente,  los equipos no presentan fallas, pero el sistema como tal se encuentra dehabilitado (calidad del agua del circuito no es optima)
+EL MOTOR SE ENCUENTRA DESACLOPLADO.  TARJETA DE BLOQUEO Y SEGURIDAD CON FECHA DESDE EL AÑO 2009
+informa: cristian a gómez h
+----------------------------

@@ -1,0 +1,18 @@
+NOVIEMBRE 29/2013
+
+REVISAR FALLA GRAVE REGULADOR DE VELOCIDAD.
+
+INFORMA 
+
+OPERADORES GUADALUPE 3 TURNO 3.
+
+
+FECHA: 28/11/2013 INFORMA : EQUIPO OPERACION GUADALUPE
+
+INFORME SALIDAS FORZADAS DE LAS UNIDADES DE GUADALUPE 3 LOS DIAS 28 Y 29 DE NOVIEMBRE DE 2013
+UNIDAD 2 "FALLA GRAVE REGULADOR DE VELOCIDAD"
+Referente a las salidas forzadas que se presentaron en las  6 unidades el pasado 28 y 29 de Noviembre por paro de emergencia falla grave regulador, se consigno la planta para realizar pruebas en cargadores y tableros de servicios auxiliares de 125vdc. Se detecto en  dichas pruebas problemas en niveles de tensión del borne negativo respecto al de tierra en el breaker principal de los servicios auxiliares de 125vdc de la unidad 3. Se procedió a realizar pruebas en el tablero de servicios auxiliares de G33 apagando breaker por breaker hasta que desapareciera la falla. La falla desapareció al apagar el breaker F02 (polaridad disparos paro de emergencia) del Tablero TDM. 
+Se procedió a inspeccionar que circuitos alimentaba este minibreaker mediante desconexión de cada una de las líneas de control de acuerdo a planos y al desconectar la línea de alimentación disparo relé de sobrepresión transformadores retornando a los niveles normales de voltaje del control. Esta línea de control va hacia los transformadores  de Potencia  y en el transformador de la fase T se encontró cortocircuito entre esta línea y una de las líneas de potencia de uno de los ventiladores lo cual ocasionaba una sobre tensión de 205Vdc. Esto de debió a un punto caliente que derritió el aislamiento entre estos dos conductores. (Ver registro fotográfico).
+Se procede a realizar cambio de cables y a normalizar el control en los reguladores de velocidad de las unidades a los cuales se había desconectado el cable (Borne A80) por  presentar inducción de voltaje y activar la entrada digital ES18 (Falla Modulo de Potencia) en la CPU debido a lo descrito anteriormente. Se generaron Ots 2427799, 2427801, 2427802, 2428129, 2428130, 2428133.
+Informo: William Perez
+Realizo: Javier Giraldo, Fernando Lopera, Oscar Arango, Felipe Jaramillo, Jorge Echeverry, Anderson García, William Perez, John Esteban Hurtado.

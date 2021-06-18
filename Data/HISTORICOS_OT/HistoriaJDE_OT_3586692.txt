@@ -1,0 +1,23 @@
+03/09/2017 - TURNO 02
+Se presenta falla en la red profibus de los intrumentos en la valvula esferica de la unidad 3 , se pierden todos los instrumentos y arracan las bombas al detectar presion cero.
+
+TURNO 02
+
+
+03/09/2017
+
+se realiza verificacion de la red profibus PA de los instrumentos se encuentra falla en el instrumento de presion tanque el cual se corrige y borran fallas, ademas se encuentra oscilacion con la resistencia del lazo la cual se cambia para estabilizar la red. el sistema queda operativo y normalizado.
+
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR 
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl
+
+  

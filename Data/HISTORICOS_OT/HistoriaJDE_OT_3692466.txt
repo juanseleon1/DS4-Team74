@@ -1,0 +1,12 @@
+XI: VERIFICAR, MEDIR, COMPROBAR INSTRUMENTACION COJINETE INFERIOR GENERADOR TRONERAS
+
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR: LUIS CARDONA
+
+Se realizó mantenimiento según orden de trabajo, se verifico el nivel de aceite y se encontró en 1800mm, el nivel patrón es de 1600 mm, al momento de dar arranque a la unidad se ajustó en 1767, para dar condiciones en dicho nivel.
+vibraciones: CIPL: 9.47 vdc, CIPR: 8.92 vdc, AXIAL: 8.42 vdc, KPH: 8.75 vdc
+NOTA: el sensor axial, venia presentando alarma durante el funcionamiento de la máquina, al momento del mantenimiento se encontró en 10.9 vdc, y se ajustó a 8.42, al dar giro a la unidad, se revisa el comportamiento y quedo con una indicación estable de 70.0 micrones, la alarma se muestra a partir de los 234.0 micrones.
+También se hizo necesario verificar ajuste de los sensores de zapata de los frenos, al momento de dar condiciones de arranque.
+Con el calibrador de procesos se inyectaron los transmisores de temperatura que están programados dentro del plan de mantenimiento de unidades con el fin de verificar su correcto funcionamiento y sus puntos de alarmas y disparos. 

@@ -1,0 +1,13 @@
+2017/12/02 _ CARLOS ENRIQUE MONCADA. OT N° 3653745.
+Referente al regulador de tensión unidad 1.
+Se evidenció disparo por falla supervisión de los pulsos de disparos, se habilita la excitación inicial, se reinicia la CPU ajustando sus parámetros.
+Se realizan pruebas excitando la unidad, sincronizándola y cargándola con 90 MW.
+Realizo: Oscar Duque, Julio Parra y Carlos Moncada.
+Informo: Carlos Moncada  
+-----------
+2017/12/02 _ CARLOS ENRIQUE MONCADA. OT N° 3653745.
+SE GENERA OT PARA ATENDER FALLA REGULADOR DE TENSION U1 PORCE 2.
+En el momento de sincronizar la unidad #1 se da paro parcial 2 por falla disparo excitación, falla reguladora AVR 2, falla supervisión pulsos rectificadores, se resetea la falla y se procede a conectar la excitación, lo cual presenta las mismas fallas anteriores.
+Se le informa al Ingeniero Encargado de la unidad y se le solicita al CCG redespacho los periodos 3 y 4 por solicitud del Ingeniero Oscar Adrián Duque.
+Informa: turno 1.
+

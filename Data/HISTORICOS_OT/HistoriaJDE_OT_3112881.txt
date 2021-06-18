@@ -1,0 +1,30 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2016/05/20 ANGEL ADONIS CADAVID OCHOA
+OT PASA A PROGRAMACION
+
+2016/07/04 FERNANDO RUIZ - GIOVANNY DIAZ, PROGRAMO: RARBOLG PASO 1, OT:3112881
+Se realizó inspeccion termografica a la motobomba y se tomaron variables electricas: 
+EQUIPO: CW7 CORRIENTE: R:105, S:111, T:112, VOLTAJES RS:436, ST:439, TR:433, TEMPERATURA MAXIMA DE MOTOR 58,4°C. 
+
+2016/07/05 FERNANDO RUIZ - GIOVANNY DIAZ, PROGRAMO: RARBOLG, PASO 2 OT:3112881
+TEMPERATURA DE AISLAMIENTO ESTIMADA 58.4°C, está dentro de los parámetros normales de operación según su clasificación de aislamientos.
+MEDIDAS EN LA ESTACION DE OPERACION 
+DEV.FASE R = 64.7°C
+DEV.FASE S = 49.3 °C
+DEV.FASE T = 52.1°C
+ROD.AXIAL = 34°C
+ROD.RADIAL = 57 °C
+VIBRA.AXIAL = 1.06 mm/seg
+VIBRA. RADIAL = 2.46 mm/seg
+
+ENTRADA ALIMENTACION BREAKER
+DIAGNOSTICO La temperatura en la llegada al BREAKER 480 Vac se encuentra en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 11°C, lo cual implica una probable deficiencia se recomienda hacer seguimiento. Las corrientes y voltajes medidos están dentro
+de los parámetros normales de operación. 
+Fase  Temperatura 
+FASE R 61,8°C 
+FASE S 71,7°C 
+FASE T 66,8°C 
+
+2016/07/07 RUBEN ARBOLEDA, PASO 3
+Se anexo el informe termografico y la planilla a la OT: OT:3112881

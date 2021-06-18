@@ -1,0 +1,12 @@
+XL: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU CONTROL IHM PLC Y TM 1703 DE LA UNIDAD
+
+
+19/11/2013
+
+
+
+Se realizó mantenimiento según instructivo. Además de la verificación de la aplicación y el mantenimiento en los relés SIPROTEC de protecciones como en la TM e IHM de este sistema.
+
+
+
+Realizado por Walter Tobon

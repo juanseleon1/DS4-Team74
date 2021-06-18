@@ -1,0 +1,13 @@
+ 11/12/2018
+
+ACTIVAR LA ALARMA POR FALLA VARIADOR DE FRECUENCIA DE LA MOTOBOMBA DE RESERVA REFRIGERACION GENERADOR. SE PRESENTA LA FALLA EN EL VARIADOR QUE PARA LA MOTOBOMBA Y NOS DAMOS CUENTA CUANDO SALEN LAS ALARMAS DE TEMPERATURA ENTRADA Y SALIDA CALIENTE DEL RADIADOR.
+SE BUSCO EN LOS LOG FILE LIST Y TAMPOCO ESTABA PRESENTE.
+
+ENERO 2 DE 2019
+Referente al control de la bomba de reserva refrigeración Guadalupe 3. Se realizó mantenimiento preventivo al variador de frecuencia, control y motor de la bomba, se verificó el correcto funcionamiento del control y confirmación de la bomba en servicio al sistema de control. La supervisión de la falla del variador está llegando a la RIO 34 de sistemas comunes, queda pendiente verificar en la estación de ingeniería y habilitarla para que salga en las pantallas de operación.
+Informó: William Lopera.
+
+
+DICIEMBRE 31 DE 2018.
+Esta OT, se atendera por oportunidad cuando la planta este por fuera de generación para evitar una salida forzada de alguna de las unidades de generación.
+William Loperera.

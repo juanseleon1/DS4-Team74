@@ -1,0 +1,19 @@
+
+2015/12/23 DIEGO BEDOYA
+Se desmonta la motobomba CW8 y se monta una nueva motobomba, luego de este montaje se realiza el procedimiento de medida de vibraciones de la motobomba CW8 y se obtienen los siguientes resultados:  
+
+Sistema de medición (RMS)
+
+1 Horizontal X: 0.75 mm/seg
+1 Horizontal Y: 1.22 mm/seg
+2 Horizontal X: 0.66 mm/seg
+2 Horizontal Y: 0.69 mm/seg
+2 Axial V: 0.93 mm/seg
+
+
+octubre 03 de 2016 
+
+ot cerrada 
+
+andres ramirez 
+ 

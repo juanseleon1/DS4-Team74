@@ -1,0 +1,14 @@
+
+
+11/Febrero/2015
+Se reparan dos tarjetas DSDI110A traidas del almacen, por tener varios condensadores deficientes.
+LEARCILAS
+12/Febrero/2015
+Se prueban las dos tarjetas DSDI110A en la unidad 7 en las direcciones U4-101 y U4-105 quedan trabajando las dos tarjetas  en condiciones normales.
+LEARCILAS
+
+
+
+
+
+

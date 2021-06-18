@@ -1,0 +1,8 @@
+PLANEADOR:JOHNSON GOMEZ
+
+ Falla Sincronismo unidades 1 y 2
+Después de recibir la solicitud de operación para revisar porque las unidades no sincronizaban, se procede a revisar y se encuentra que el cable que estaba en la bornera X040 - 22 se encontraba en la bornera X040 - 24, Razón por la cual provocaba que el relé de sincronismo en el momento de seleccionar una unidad para ser sincronizada a este le llegaba una señal que dicha unidad tenía el interruptor cerrado, inmediatamente reseteaba dicha selección.
+Este cable lo trocaron el personal de montajes conexionando las señales de la unidad 3. Se normaliza y se logra sincronizar las unidades.
+IMFORMO: Johnson Gómez - Jaime Ardila - Felipe Salazar - DIONIS Zapata.
+
+

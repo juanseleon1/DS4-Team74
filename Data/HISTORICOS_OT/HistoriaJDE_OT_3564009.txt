@@ -1,0 +1,21 @@
+CM: VIBRACIONES UMAS-VENENTILADORES-EXTRACTORES GUATAPE. ESTE EQUIPO DEBE ESTAR EN LÍNEA
+2017/08/22 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones del extractor S1 de casa máquinas y se obtienen los siguientes resultados: 
+Sistema de medición (RMS)
+1 Horizontal: 1.88 mm/seg
+1 Vertical: 4.19 mm/seg
+1 Axial: 7.52 mm/seg
+2 Horizontal: 2.02 mm/seg
+2 Vertical: 3.04 mm/seg
+3 Horizontal: 3.61 mm/seg
+3 Vertical: 1.50 mm/seg
+3 Axial: 4.87 mm/seg
+4 Horizontal: 3.17 mm/seg
+4 Vertical: 1.19 mm/seg
+4 Axial: 6.42 mm/seg
+
+Trabajo realizado por Fabio Herrera y Yesid Sánchez
+
+noviembre 20 de 2017 
+ot cerrada 
+andres ramirez 

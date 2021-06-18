@@ -1,0 +1,14 @@
+REVISAR TANQUE PULMON FRENOS DE LA UNIDAD N 1
+FECHA PLANEACION MANTENIMIENTO: 13/09/2016
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V
+
+13 SEPTIEMBRE 2016
+
+Se calibra regulador de aire del tanque pulmón por presentar fuga de aire constante por la válvula de seguridad, se deja calibrado en 0.68 MPA, para evitar problemas de confirmación en el arranque y paro de la unidad, este ajuste de presión se realiza con un manómetro patrón, el manómetro allí instalado se encuentra con un margen de error de 0.1 MPA queda trabajando bien todo el sistema de frenos.
+Nota: Para rutas de verificación mecánica u otros trabajos relacionados con la presión del tanque pulmón tomar la medida de presión desde el transmisor digital que tiene la marcación, Presión Aire Tanque Pulmón. El termómetro que está instalado en el tanque por estar expuesto a las vibraciones y por tener un mecanismo de funcionamiento mecánico presenta márgenes de error en la medición 
+
+Realizo: JOHN JAIRO GONZALEZ VALENCIA
+         GUILLERMO ECHEVERRY
+         

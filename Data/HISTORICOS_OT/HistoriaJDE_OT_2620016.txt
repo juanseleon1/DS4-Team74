@@ -1,0 +1,5 @@
+
+INSTALACION MOTOR POLIPASTO COMPUERTA_LEVANTAMIENTO DEL TAB DE CONTROL.
+
+DICIEMBRE 26/2014 OT: 2620016 PROGRAMÓ: R JIMENEZ, EJECUTO G ECHEVEERI
+Se hace levantamiento del plano del tablero, se realiza cambio de fusibles por minibreaker en el control.

@@ -1,0 +1,10 @@
+REALIZAR MANTENIMIENTO PREVENTIVO AL REGULADOR HIDRAULICO: CHEQUEO MOTORES Y AMPERAJES.
+
+- LIMPIAR MOTORES. 
+- MEDIR CORRIENTES Y VOLTAJES.  
+-EN CASO DE SER NECESARIO APRETAR TORNILLOS EN TABLERO DE CONTROL Y POTENCIA. 
+- REALIZAR PRUEBAS DE AISLAMIENTO CON MEGGER.
+
+20-10-2015  OT: 2893244 PROGRAMADOR: ALEJANDRO ARBOLEDA EJECUTA: WILSON CANO-JOAN GÓMEZ
+Mantenimiento semestral
+Se realiza mantenimiento semestral de toda la unidad reguladora de velocidad de maquina incluyendo motores y la parte de control, se restablece y se deja lista para la operación. 

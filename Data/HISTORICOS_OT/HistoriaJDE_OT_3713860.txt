@@ -1,0 +1,8 @@
+Se crea ot para el registro de tiempos y actividades de todo el mantenimiento relacionado con la corrección y montaje de los sellos móviles y fijos de la válvula esférica de la unidad 4 central de Guadalupe 3.
+
+
+Ot: 3713860 - Corrección sellos válvula esfperica UG34 - Programador: Camilo Montagut - 22/08/2018
+
+Se cierra la ot sin tiempos ni registro debido a que se este trabajo se ejecutará con otra ot en el mantenimiento de la unidad en octubre de 2018.
+
+Ejecuta: equipo mantenimiento mecánico UOG

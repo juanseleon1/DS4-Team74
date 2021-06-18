@@ -1,0 +1,19 @@
+2017/03/25 RUBEN ARBOLEDA
+Se crea la OT para cambio de 11 relés de control 
+
+2017-03-25 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3434437, PASO:1          
+Se realizó cambio de 11 Relés a la UNIDAD GENERACION U8 GT, los cuales se decriben a continuación:
+Tablero +DU1
+CIS Relé de 4 Contactos 125VDC
+20d1-1 Relé de 3 Contactos 125VDC
+OPR Relé de 3 Contactos 24VDC
+OPP Relé de 3 Contactos 24VDC
+30MVX Relé de 3 Contactos 125VDC
+OPE Relé de 3 Contactos 24VDC
+
+TABLERO +DU2
+53X-1 Relé de 3 Contactos 125VDC
+33SVO-2 Relé de 3 Contactos 125VDC
+23d2 Relé de 3 Contactos 125VDC
+20d1-3 Relé de 3 Contactos 125VDC
+149d16 Relé de 3 Contactos 125VDC 

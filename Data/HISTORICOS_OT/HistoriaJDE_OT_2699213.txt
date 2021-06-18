@@ -1,0 +1,12 @@
+MARTES 17 DE FEBRERO 2015
+
+SALE LA UNIDAD 2 A LAS 03:58 POR PARO RAPIDO, AL BUSCAR LA SALIDA EN EL SCADA NO SE ENCONTRO LA CAUSA DE LA SALIDA, SOLO SALE EN LOS EQUIPOS RELACIONADOS A LA SALIDA PARO RAPIDO REGULADOR DE VELOCIDAD SIENDO ESTA UNA ALARMA COMUN PARA TODAS LAS SALIDAS, DURANTE EL TURNO EL SISTEMA TRE SE ALARMO EN REPETIDAS OCASIONES SE PUEDE SOSPECHAR DE ESTE SISTEMA.
+
+
+22/02/2015
+
+este evento fue ocacionado por el sensor de contaminacion de agua en la estacion hidraulica, se espera evaluacion de la muestra en el aceite por parte del grupo mecanico para normalizar el programa del PLC y evaluar el disparo por este evento.
+
+TERMINADA  se modifica el programa del PLC en todas las unidades para este disparo por sugerencia del grupo Mecanico 
+
+Realizado por Wtobonl

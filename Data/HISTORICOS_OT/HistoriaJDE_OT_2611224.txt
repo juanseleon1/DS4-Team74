@@ -1,0 +1,6 @@
+2014/10/02 RUBEN ARBOLEDA - SERGIO OLIVARES
+Realizar cambio de breaker en la gaveta del E2, el cual presenta falla en un polo, no da cierre de éste. 
+
+03/09/2014. SERGIO OLIVARES D.
+Se evidencio haciendo el correctivo del breaker, el motor aterrizado.
+Se realiza OT correctiva 2612110 para reparacion de arrancador suave, ya que estaba fallado. 

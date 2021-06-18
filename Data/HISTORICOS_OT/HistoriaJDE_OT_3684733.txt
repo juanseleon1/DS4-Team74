@@ -1,0 +1,2 @@
+2018/02/08
+Se crea OT para corregir punto caliente a la entrada del breaker de potencia del S2 encontrado en la ejecución de la OT: 3678464

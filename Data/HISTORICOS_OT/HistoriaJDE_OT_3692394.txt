@@ -1,0 +1,7 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+14-03-2018
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: JOSÉ MONTOYA
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados y las RTD de los radiadores.
+Se realizó limpieza general a todas las RIO de la unidad 

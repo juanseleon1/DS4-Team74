@@ -1,0 +1,14 @@
+2018/03/13 _ CARLOS ENRIQUE MONCADA. OT N° 3684376.
+
+Se realiza Mantenimiento al Transformador 1(Barra 1)de los servicios miscelaneos 208 Vac. Se verifican temperaturas en las RTD's  de las fasesR, S, T, se restablece el indicador de temperatura PROTEM, se ajustan borneras, se hace limpieza al os tableros.
+ 
+el subsistema queda habilitado para la operación.
+
+Realizó: Jeniffer García, Neiro Fabian Pérez.
+
+
+2018/02/07 _ CARLOS ENRIQUE MONCADA. OT N° 3684376.
+
+Se crea OT para el mantenimiento de los servicios Miscelaneos TRAFO1.
+
+Realizó: Jeniffer García, Neiro fabian Pérez.

@@ -1,0 +1,22 @@
+PLANEADOR:LUIS FEDERICO ALVAREZ, 2017-04-08
+SE GENERA OT PARA REVISAR FUGA DE BOMBA 1 DE REGULADOR HIDRAULICO DE LA UNIDAD 3
+
+REFERENTE AL REGULADOR HIDRAULICO U 1: Se realiza montaje y conexión de motobomba N° 1  del regulador hidraulico la cual se habia desmontado por haberse fisurado. El 12 de abril de 2017.   
+
+NOTA: EN EL ALMACEN QUEDAN 2 BOMBAS DE REPUESTO
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2017-09-05
+                                                                                                                                                                           
+ MOTOBOMBA DESMONTADA:  
+ Tipo VKFBS 210R46U8. 6-W114  
+ Presion de W= 64 BAR  
+ Marca: ALLWEILER - AG.   
+
+MOTOBOMBA MONTADA:
+Tipo: CFHM - S210R46U8. 6W205. 
+Presion de W =64 BAR.
+Marca: ALLWEILER - AG.
+HOROMETRO de la bomba N° 1 al instalar 53662,21 Hrs.                                                                                                                                                                                                                                                                                    Realizó: Equipo de operación y Mtto U.O Porce.  
+Informo: Francis Londoño - Juan G. Tobon.
+
+

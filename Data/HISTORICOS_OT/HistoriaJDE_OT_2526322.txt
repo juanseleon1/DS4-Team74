@@ -1,0 +1,35 @@
+REVISAR REGULADOR DE VELOCIDAD DGP 1500
+FECHA PLANEACION MANTENIMIENTO:12 DE MAYO 2014
+SOLICITANTE: JOHN JAIRO GONZALEZ V.
+PLANEADOR: SANTIAGO RAMIREZ
+PROGRAMADOR: WALTER TOBÓN
+
+12 DE MAYO 2014
+
+A las 12:05 se da  paro de la Unidad Nª1 de Porce 2 presentando falla  defecto menor 11-1 (on) Falla en la posición del distribuidor o válvula distribuidora.
+
+Informa : Turno 2 de Operacion 
+
+Este paro causo desviación de 1 periodo (135MW) (causo desviacion de 114 MW SMCT)
+
+13 de Mayo:
+
+A las 6:55 se da  paro de la Unidad Nª1 de Porce 2 presentando falla  defecto menor 11-1 (on) Falla en la posición del distribuidor o válvula distribuidora. Se resetea el regulador y vuelve a sincronizarse la unidad a las 7:14 am. No generó desviación (si genero desviacion de 33MW. SMCT)
+
+Dado a la recurrencia de la falla y la criticidad que ésta representa. Se pidó redespacho desde las 9:00 para revisar el funcionamiento del regulador. Se detecta transductor de posicion de valvula proporcional "IA" con oscilacion en la medida y la valvula proporcional "BW" con bloqueo mecanico con tendencia a la apertura. Se cambia transductor de valvula "IA" y valvula prporcional "BW". Se comprueba funcionamiento del regulador de velocidad en seco, con maquina en giro mecanico y maquina cargada a 135 MW. Se enetrega a explotacion comercial a las 21:30. 
+
+Informa Walter Tobon, Cristian Gomez, Santiago Ramirez y equipo de operacion. 
+
+Nota: Los repuestos usados estaban disponibles en el almacen A16
+
+Transductor de posicón válvula IA:
+Código OW: 60670
+Referencia: XSC H203629
+MARCA: Telemecanique
+
+
+Electroválvula proporcional BW
+Código OW: 38302
+Referencia: TR10
+Marca: GEC ALSTHOM
+Nota: Ésta válvula también es usada en los regualdores de guadalupe 3 para comandar el deflector.

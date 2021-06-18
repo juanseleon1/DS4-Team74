@@ -1,0 +1,21 @@
+
+01/06/2015. SERGIO OLIVARES D. OT: 2782608
+
+Caracteristicas del motor:
+ HP: 159
+ RPM: 3600
+ VOLTIOS: 460 VAC
+ AMPERIOS: 184
+
+La reparacion consiste en:
+ 
+Bobinar estator……………………………… Valor $ 3.860.000+Iva.
+ Suministrar y cambiar 2 Rodamientos 6313 ZZ C3 …Valor $ 344.000 + iva,
+ Hacer metalizado en eje diámetro menor y rectificarlo a 2 pulgadas y media Valor $ 360.000 + Iva.
+ Metalizar eje diámetro mayor y rectificarlo 3 pulgadas valor $ 160.000 + Iva.
+ Pruebas de Nucleo.
+
+ Valor total de la propuesta $ 4.724.000 + Iva.
+            
+2015/09/04 JUAN DAVID GARCÍA - OSCAR GIRALDO - SEBASTIAN HINCAPIE - JHONATAN USME - FERNANDO RUIZ OT: 2782608
+Se realizó el montaje del motor reparado en el Chiller 2 OT: 2761207, con el fin de ponerlo en servicio a modo de probarlo ya que éste chiller es el más proximo a arrancar.

@@ -1,0 +1,20 @@
+2017/12/30 RUBEN ARBOLEDA
+En la ejecución de la OT: 3641197 se informó el siguiente diagnostico: 
+
+DIAGNOSTICO: 
+La temperatura de los cables de la peineta de salida de la gaveta se encuentran en el nivel 3 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 27.5°C, lo cual implica una deficiencia en su operación, se requiere realizar un correctivo en los contactos de la peineta. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+Se crea esta OT para su revisión.
+
+2018-01-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3665028, PASO:1          
+Se realizó mantenimiento correctivo a la peineta de entrada de la gaveta de la motobomba ARAA 1 ya que presenta un delta de temperatura. 
+
+2018-01-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3665028, PASO:2          
+Se realizó inspección termografica a la motobomba ARAA 1, para validar si corrigió el punto caliente que presentaba, no se evidencío mejoría, se realizo cambio de peineta de entrada a la gaveta, se evidencia que para ingresarla no conecta normalmente. 
+
+2018-01-05 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3665028, PASO:3          
+Se realizó mantenimiento correctivo a la motobomba ARAA 1, se cambio la peineta a la entrada de la gaveta y se dejó entrando normalmente
+
+2018-01-06 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3665028, PASO:4          
+Se realizó seguimiento termografica a la motobomba ARAA 1, se dejó en condiciones normales.
+Se adjunta el informe a la OT.

@@ -1,0 +1,17 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+NOVIEMBRE 04 DE 2014 DIEGO BEDOYA
+Se realizó el mantenimiento al regulador, se cambiaron los microfiltros a las válvulas Moog, se cambiaron los fitros Mahle en los  cuatro comandos de aguja en la posición 1 y en la toma de datos se obtubieron los siguientes resultados:
+ Bomba principal Bomba de reserva
+Presion de arranque(kg/cm2): 34 33
+Presion de paro(kg/cm2):38.5 37.5
+Nivel de arranque(cm):-4 -7.5
+Nivel de paro(cm):  2.5 1
+Tiempo de trabajo(seg):  55 30
+

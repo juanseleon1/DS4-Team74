@@ -1,0 +1,12 @@
+15/03/2018 - 9:01.
+
+Se presenta salida forzada de la Unidad por efecto de cable suelto en bornera del Rele Sel 300G - borne Z02, fuè atendido por personal de mantenimiento.
+
+Realiza e informa: Turno 3 Operaciòn - Wilson Arango Bedoya.
+
+15/03/2018
+
+SE REVISA LA CONEXION Y SE ENCUENTRA UN CABLE SUELTO EN EL RELE SEL 300G BORNE Z02,REALIZA LA CONEXION DEL CABLE Y SE REAPRETAN TODOS LOS BORNES DEL RELE Y SE NORMALIZA LA FALLA
+
+
+REALIZO: GRUPO DE ELECTRONICA.

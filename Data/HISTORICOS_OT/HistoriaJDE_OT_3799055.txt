@@ -1,0 +1,41 @@
+- FECHA : MIÉRCOLES ENERO 23 DE 2019
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - ALEX HINCAPIÉ 
+- ASOCIADO A LA OT : 3799055
+- ASUNTO : HACER MANTTO MP
+
+
+- Datos de placa:         P = 25.4 KW     V = 460vac    I = 40.0A
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 998 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 272 v  
+       ST =  271 v                                                                 
+       RT =  272 v
+       Corriente de arranque:  
+Fase R = 
+       Corriente de marcha:  
+Fase R = 
+Fase S =   
+Fase T =                                                                                 
+2.3. Temperatura excesiva carcaza:
+        Temperatura excesiva cojinetes: 
+        Vibración anormal: 
+        Ruido anormal: 
+
+3. Calibración térmico control:  4 a             Calibración térmico de potencia : 60 a
+
+4. Funcionamiento control normal: 
+
+5. Horómetro = 271.1 H
+
+6. Observaciones: el voltaje se tomó en el barraje que alimenta el arrancador de la B1
+     * Esta bomba continúa por fuera ...sin control 
+     * El termico de potencia no es regulable.

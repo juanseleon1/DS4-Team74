@@ -1,0 +1,13 @@
+MANTENIMIENTO ANUAL MOTORES #1 Y #2 LUBRICACION FORZADA
+AGOSTO 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: como mejora implementada, se empezo a tomar los datos de resistencia ohmica, para llevra una trazabilidad y asi, poder detectar fallas del nucleo.
+                                                                                                                               
+VOLTAJESFASEM1M2R - S441442S - T440440T - R444444 
+CTES. DE ARRANQUEFASEM1M2R3233S2020.5T13.413.7
+CTES. DE TRABAJOFASEM1M2R75.4S5.84T5.84.7
+AISLAMIENTO/TIERRAFASEMMR548457S543456T546459
+RESISTENCIA OHMICAFASEmmR - S2.2132.297S - T2.1942.184T - R2.2092.581
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Mateo Perez

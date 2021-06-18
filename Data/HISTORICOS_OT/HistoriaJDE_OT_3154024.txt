@@ -1,0 +1,9 @@
+2016/06/23 RUBEN ARBOLEDA OT: 3154024
+Se realiza la OT para mover el cable de 13.2Kv ubicado en el transofrmador de excitación de la unidad 5 hasta el tranformador de excitacion de la unidad 7, realizar desarme de barraje de transformador de excitacion de la unidad 5 y conectar el cable de 13.2, lo anterior para realizar una prueba de tension controlada en el banco 4 para la puesta en servicio, una vez realizada la prueba se normalizará el transformador de exitación. 
+
+2016/06/23 JUAN GARCIA - EDWAR LONDOÑO, PROGRAMO: SOLIVARE, OT: 3154024
+Se realizó retiro del cable de 13.2Kv despues de realizado la prueba, y se normalizó las conexiones en el tranformador de excitación. 
+
+
+
+ 

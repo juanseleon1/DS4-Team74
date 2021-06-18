@@ -1,0 +1,285 @@
+2017/01/06 GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizar OT para compra de materiales para el montaje las motobombas CW de 100 HP para el 2017
+Se realiza pedido al listado de partes.
+
+2017-07-11 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:16          
+Se continuó con el cableado de elementos de la motobomba CW4 y CW5
+
+2017-07-12 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:17          
+Se continuó con el cableado de elementos de la motobomba CW4 y CW5
+
+2017-07-24 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:21          
+Se continuó con el montaje de elementos para las motobombas CW 4 y 5 de 100 HP, se realizó el montaje de elementos pulsadores en la puerta
+
+2017-07-25 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:22          
+Se continuó con el montaje de elementos para las motobombas CW 4 y 5 de 100 HP, se terminó de montar los pulsadores y se montó las pantallas en la puerta
+
+2017-07-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:23          Se realizó el armado del tablero para el montaje de las motobombas CW 4 y 5 de 100 HP
+
+2017-09-09 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:25          
+Se realizó el anclaje del tablero de control para las motobombas CW de 100 HP de I etapa
+
+2018-02-02 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:29          
+Se realizó adecuación de elementos como cables y carretas sobrantes de las labores realizadas por la cuadrilla móvil en el montaje de las motobombas 
+
+2016-02-19 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3360238, PASO:34          
+Se realizó conexión de señales de control de la motobomba CW4 en tablero de control
+
+2016-02-20 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:35          
+Se realizó conexión de señales de control de la motobomba CW4 en tablero de control
+
+2016-02-21 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:36          
+Se realizó conexiones electricas para la motobomba CW5 
+
+2018-03-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3360238, PASO:42-42,1          
+Se realizó la desconexión de la motobomba CW5, para que el personal de mantenimiento mecánico proceda con el cambio de ésta motobomba y realice la instalación de una de 100HP
+
+2018-03-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:44          
+Se realizó adecuación de bornera para las terminales del motor de la motobomba CW5. 
+
+2018-03-28 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:45          
+Se realizó adecuación de bornera para las terminales del motor de la motobomba CW5, se realizó la conexión de potencia y bobina, se midió aislamiento con 2.3GOhm a 500Vdc, se coordinó el arranque en compañía del personal de mantenimiento mecánico, Corriente de servicio: 114,6Amperios., 
+
+Se realizo la conexión eléctrica de la motobomba nueva CW5 (se reemplazó la motobomba CW5 vieja de motor de 40 HP), se inicia su operación y se le registran la corriente de servicio:  1114,6 Amperios. La alimentación de potencia de la motobomba es de 480 VAC y está conectada a la DP1 celda 6. La alimentación de control de ésta motobomba está tomada desde el tablero de Servicios Auxiliares esenciales 208Vac, ésta alimentación es compartida para la CW4 y CW5. OT: 3360238. Queda pendiente conectar la instrumentación ya que el computador de servicios auxiliares se encuentra fuera de servicio. Se recomienda habilitar el computador de servicios auxiliares lo antes posible ya que estas motobombas CW nuevas debe estar monitoreadas constantemente en su operación para evitar daños.
+La vibraciones reportadas al inicio de la operación de la motobomba CW5 nueva fueron las siguientes:
+1 Horizontal X: 2.6 mm/segundo
+1 Horizontal Y: 2.4 mm/segundo
+2 Horizontal X: 1.1 mm/segundo
+2 Horizontal Y: 1.1 mm/segundo
+2 Axial V: 0.4 mm/segundo
+La presión en la descarga o de salida de la motobomba es de 3.6 bar.
+La presión total del sistema de refrigeración en la primera etapa es de 3.5 bar.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3360238, PASO:47          
+Se desconectó motobomba CW4 de 40 Hp, para que el personal de mantenimiento mecánico realice el cambio de ésta por una de 100 Hp.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3360238, PASO:48         
+Se continuó con adecuación de cableado para la motobomba CW9, conexionado de cableado en +DU8.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:49          
+Se continuó con la adecuación de cableado de control entre el tablero y los tableros de la Unidad 8 +CU8
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:50          
+Se continuó con la adecuación de cableado para la motobomba CW9, desde los tableros de control de la Unidad 8.
+
+2018-04-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:51          
+Se inició con el cableado de control en los tableros de la Unidad 8 para la motobomba CW9
+
+2018-04-09 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:52          
+Se inició con la adecuación de borneras de potencia para la motobomba CW4 de 100 Hp.
+
+2018-04-10 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:53          
+Se realizó la adecuación de bornera de potencia de la motobomba CW4, se realizó conexión de potencia y bobina de aceite de ésta motobomba, se le dio arranque y se dejó en condiciones normales, queda pendiente realizar una inspección termografica.
+
+2018-06-06 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:54          
+Se inició con la instalación de interruptores de 480VAC de las motobombas CW 9 y 10 de 100 Hp, es necesario realizar ajustes en: 
+La llegada de los cables; los interruptores nuevos son de marca EATON, tienen prensa, se debe retirar las terminales y recuperar cable
+la altura de los interruptores nuevos es mayor y no coincide la perforación, se debe mover platina de soporte. 
+El cable de salida del interruptor también tiene terminal, se debe reemplazar cable entre interruptor y Arrancador.
+
+2018-06-07 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:55          
+Se continuó con la instalación de los interruptores de potencia de las bombas CW9 y 10 de 100Hp
+
+2018-06-12 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:57          
+Se continuó con la instalación de interruptores de 480VAC de las motobombas CW 9 y 10 de 100 Hp, es necesario realizar ajustes en: 
+La llegada de los cables; los interruptores nuevos son de marca EATON, tienen prensa, se debe retirar las terminales y recuperar cable
+la altura de los interruptores nuevos es mayor y no coincide la perforación, se debe mover platina de soporte. 
+El cable de salida del interruptor también tiene terminal, se debe reemplazar cable entre interruptor y Arrancador.
+
+2018-06-13 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:58          
+Se inició con la adecuación de las borneras de potencia para las motobombas CW 9 y 10
+
+2018-06-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:59          
+Se realizó pruebas de control al tablero de las motobombas CW9 y 10.
+
+2018-06-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:59.1          
+Se realizó pruebas de control al tablero de las motobombas CW9 y 10, quedan listos para la operación local/manual queda pendiente cambiar las motobombas.
+
+2018-06-19 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:56         
+Se realizó la desconexión de la motobomba CW10, a solicitud del personal de mantenimiento mecánico para el cambio de esta motobomba por una de 100 Hp.
+
+2018-06-23 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:57          
+Se conexión del motor CW10 para realizar una prueba en vacío y verificar sentido de giro, previo al arranque se realizó medida de aislamiento con valor de 400MOhm
+
+2018-06-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:66.1          
+Se realizó adecuación de potencia para la instalación de la motobomba CW9.
+
+2018-07-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:71          
+Se retiró cable de potencia viejo de las motobombas CW9 y CW10
+
+2018-08-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:73          
+Se realizó el cambio de 2 ventiladores en los tableros de control de las motobombas CW de 100 HP uno en I y otro en II etapa.
+
+2018-08-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:74          
+Se realizó la instalación de ventiladores en los ableros de control de las motobombas CW de 100 HP, se dejó en condiciones normales. 
+
+2018-08-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:75         
+Se finalizó con la instalación de 2 ventiladores y adecuación de cableado eléctrico en tablero de control de motobomba CW9 y CW10. 
+
+2018-09-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:76          
+Se realizó adecuación de cableado y señales de control a las motobombas CW9 y CW10.
+
+2018-09-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - OMAR SANCHEZ (OPERADOR),  PROGRAMO: RARBOLG OT: 3360238, PASO:77-77,1          
+Se realizó adecuación de cableado de control de los transductores para las motobombas CW 4 y 5 y CW 9 y 10
+
+2018-09-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:78          
+Se continuó con el cableado de los elementos de control de las motobombas CW9 y 10
+
+2018-09-06 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3360238, PASO:79          
+Se continuó con la adecuación de cableado de control en el tablero de la motobomba CW9 y CW10
+
+2018-09-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:80          
+Se realizó la instalación de ventiladores en los tableros de control de las motobombas CW de 100 HP CW4 Y CW5, se dejó en condiciones normales.
+
+------------------------------------------------------
+2018-09-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238,      
+Se realizó la instalación de 2 tableros de control, cada uno para 2 motobombas así: 
+CW4 - Instalada y funcionando
+CW5 - Instalada y funcionando
+CW9 - Pendiente instalación por parte de mantenimiento mecánico
+CW10 - Instalada y funcionando
+Adicionalemtne queda pendiente por parte de instrumentación las señales de temperatura y vibraciones.
+Se cierra la OT debido a Solicitud de Walter Orlando Marunda por directriz de Control Interno.
+------------------------------------------------------2017/01/06 GIOVANNY DIAZ - RUBEN ARBOLEDA
+Se realizar OT para compra de materiales para el montaje las motobombas CW de 100 HP para el 2017
+Se realiza pedido al listado de partes.
+
+2017-07-11 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:16          
+Se continuó con el cableado de elementos de la motobomba CW4 y CW5
+
+2017-07-12 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:17          
+Se continuó con el cableado de elementos de la motobomba CW4 y CW5
+
+2017-07-24 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:21          
+Se continuó con el montaje de elementos para las motobombas CW 4 y 5 de 100 HP, se realizó el montaje de elementos pulsadores en la puerta
+
+2017-07-25 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:22          
+Se continuó con el montaje de elementos para las motobombas CW 4 y 5 de 100 HP, se terminó de montar los pulsadores y se montó las pantallas en la puerta
+
+2017-07-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:23          Se realizó el armado del tablero para el montaje de las motobombas CW 4 y 5 de 100 HP
+
+2017-09-09 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:25          
+Se realizó el anclaje del tablero de control para las motobombas CW de 100 HP de I etapa
+
+2018-02-02 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:29          
+Se realizó adecuación de elementos como cables y carretas sobrantes de las labores realizadas por la cuadrilla móvil en el montaje de las motobombas 
+
+2016-02-19 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3360238, PASO:34          
+Se realizó conexión de señales de control de la motobomba CW4 en tablero de control
+
+2016-02-20 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:35          
+Se realizó conexión de señales de control de la motobomba CW4 en tablero de control
+
+2016-02-21 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3360238, PASO:36          
+Se realizó conexiones electricas para la motobomba CW5 
+
+2018-03-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3360238, PASO:42-42,1          
+Se realizó la desconexión de la motobomba CW5, para que el personal de mantenimiento mecánico proceda con el cambio de ésta motobomba y realice la instalación de una de 100HP
+
+2018-03-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:44          
+Se realizó adecuación de bornera para las terminales del motor de la motobomba CW5. 
+
+2018-03-28 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:45          
+Se realizó adecuación de bornera para las terminales del motor de la motobomba CW5, se realizó la conexión de potencia y bobina, se midió aislamiento con 2.3GOhm a 500Vdc, se coordinó el arranque en compañía del personal de mantenimiento mecánico, Corriente de servicio: 114,6Amperios., 
+
+Se realizo la conexión eléctrica de la motobomba nueva CW5 (se reemplazó la motobomba CW5 vieja de motor de 40 HP), se inicia su operación y se le registran la corriente de servicio:  1114,6 Amperios. La alimentación de potencia de la motobomba es de 480 VAC y está conectada a la DP1 celda 6. La alimentación de control de ésta motobomba está tomada desde el tablero de Servicios Auxiliares esenciales 208Vac, ésta alimentación es compartida para la CW4 y CW5. OT: 3360238. Queda pendiente conectar la instrumentación ya que el computador de servicios auxiliares se encuentra fuera de servicio. Se recomienda habilitar el computador de servicios auxiliares lo antes posible ya que estas motobombas CW nuevas debe estar monitoreadas constantemente en su operación para evitar daños.
+La vibraciones reportadas al inicio de la operación de la motobomba CW5 nueva fueron las siguientes:
+1 Horizontal X: 2.6 mm/segundo
+1 Horizontal Y: 2.4 mm/segundo
+2 Horizontal X: 1.1 mm/segundo
+2 Horizontal Y: 1.1 mm/segundo
+2 Axial V: 0.4 mm/segundo
+La presión en la descarga o de salida de la motobomba es de 3.6 bar.
+La presión total del sistema de refrigeración en la primera etapa es de 3.5 bar.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3360238, PASO:47          
+Se desconectó motobomba CW4 de 40 Hp, para que el personal de mantenimiento mecánico realice el cambio de ésta por una de 100 Hp.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3360238, PASO:48         
+Se continuó con adecuación de cableado para la motobomba CW9, conexionado de cableado en +DU8.
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:49          
+Se continuó con la adecuación de cableado de control entre el tablero y los tableros de la Unidad 8 +CU8
+
+2018-04-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:50          
+Se continuó con la adecuación de cableado para la motobomba CW9, desde los tableros de control de la Unidad 8.
+
+2018-04-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:51          
+Se inició con el cableado de control en los tableros de la Unidad 8 para la motobomba CW9
+
+2018-04-09 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:52          
+Se inició con la adecuación de borneras de potencia para la motobomba CW4 de 100 Hp.
+
+2018-04-10 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:53          
+Se realizó la adecuación de bornera de potencia de la motobomba CW4, se realizó conexión de potencia y bobina de aceite de ésta motobomba, se le dio arranque y se dejó en condiciones normales, queda pendiente realizar una inspección termografica.
+
+2018-06-06 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:54          
+Se inició con la instalación de interruptores de 480VAC de las motobombas CW 9 y 10 de 100 Hp, es necesario realizar ajustes en: 
+La llegada de los cables; los interruptores nuevos son de marca EATON, tienen prensa, se debe retirar las terminales y recuperar cable
+la altura de los interruptores nuevos es mayor y no coincide la perforación, se debe mover platina de soporte. 
+El cable de salida del interruptor también tiene terminal, se debe reemplazar cable entre interruptor y Arrancador.
+
+2018-06-07 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:55          
+Se continuó con la instalación de los interruptores de potencia de las bombas CW9 y 10 de 100Hp
+
+2018-06-12 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:57          
+Se continuó con la instalación de interruptores de 480VAC de las motobombas CW 9 y 10 de 100 Hp, es necesario realizar ajustes en: 
+La llegada de los cables; los interruptores nuevos son de marca EATON, tienen prensa, se debe retirar las terminales y recuperar cable
+la altura de los interruptores nuevos es mayor y no coincide la perforación, se debe mover platina de soporte. 
+El cable de salida del interruptor también tiene terminal, se debe reemplazar cable entre interruptor y Arrancador.
+
+2018-06-13 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:58          
+Se inició con la adecuación de las borneras de potencia para las motobombas CW 9 y 10
+
+2018-06-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:59          
+Se realizó pruebas de control al tablero de las motobombas CW9 y 10.
+
+2018-06-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:59.1          
+Se realizó pruebas de control al tablero de las motobombas CW9 y 10, quedan listos para la operación local/manual queda pendiente cambiar las motobombas.
+
+2018-06-19 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3360238, PASO:56         
+Se realizó la desconexión de la motobomba CW10, a solicitud del personal de mantenimiento mecánico para el cambio de esta motobomba por una de 100 Hp.
+
+2018-06-23 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:57          
+Se conexión del motor CW10 para realizar una prueba en vacío y verificar sentido de giro, previo al arranque se realizó medida de aislamiento con valor de 400MOhm
+
+2018-06-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:66.1          
+Se realizó adecuación de potencia para la instalación de la motobomba CW9.
+
+2018-07-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:71          
+Se retiró cable de potencia viejo de las motobombas CW9 y CW10
+
+2018-08-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:73          
+Se realizó el cambio de 2 ventiladores en los tableros de control de las motobombas CW de 100 HP uno en I y otro en II etapa.
+
+2018-08-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:74          
+Se realizó la instalación de ventiladores en los ableros de control de las motobombas CW de 100 HP, se dejó en condiciones normales. 
+
+2018-08-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:75         
+Se finalizó con la instalación de 2 ventiladores y adecuación de cableado eléctrico en tablero de control de motobomba CW9 y CW10. 
+
+2018-09-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:76          
+Se realizó adecuación de cableado y señales de control a las motobombas CW9 y CW10.
+
+2018-09-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - OMAR SANCHEZ (OPERADOR),  PROGRAMO: RARBOLG OT: 3360238, PASO:77-77,1          
+Se realizó adecuación de cableado de control de los transductores para las motobombas CW 4 y 5 y CW 9 y 10
+
+2018-09-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:78          
+Se continuó con el cableado de los elementos de control de las motobombas CW9 y 10
+
+2018-09-06 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3360238, PASO:79          
+Se continuó con la adecuación de cableado de control en el tablero de la motobomba CW9 y CW10
+
+2018-09-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238, PASO:80          
+Se realizó la instalación de ventiladores en los tableros de control de las motobombas CW de 100 HP CW4 Y CW5, se dejó en condiciones normales.
+
+------------------------------------------------------
+2018-09-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3360238,      
+Se realizó la instalación de 2 tableros de control, cada uno para 2 motobombas así: 
+CW4 - Instalada y funcionando
+CW5 - Instalada y funcionando
+CW9 - Pendiente instalación por parte de mantenimiento mecánico
+CW10 - Instalada y funcionando
+Adicionalemtne queda pendiente por parte de instrumentación las señales de temperatura y vibraciones.
+Se cierra la OT debido a Solicitud de Walter Orlando Marunda por directriz de Control Interno.
+------------------------------------------------------

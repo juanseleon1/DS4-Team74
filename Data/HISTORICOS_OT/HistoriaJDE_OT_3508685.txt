@@ -1,0 +1,8 @@
+CAMBIO DEL TRANSFORMADORES POTENCIA  FASE R DEL BANCO 4.
+
+
+
+JUNIO 18 DE 2017.
+Se cambio tablero de control, cableado, se armo uno nuevo tablero, se retira el transformador de la fase R para reparación, cambio de aislamiento y se inserta el de reserva, se realiza mantenimiento según instructivo al banco, se hacen pruebas eléctricas al transformador de reserva que quedo para la fase R, verificación de alarmas y disparos de la protección del transformador, energización en vacío según procedimientos electrónico. Todos los resultados de las pruebas están almacenados en la carpeta de pruebas y bitácora que se llevó a cabo para el mantenimiento.  
+Programó: William Lopera.     
+

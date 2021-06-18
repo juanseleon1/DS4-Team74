@@ -1,0 +1,101 @@
+2018/10/11 RUBEN ARBOLEDA
+Se crea OT para realizar el desarme y armado de la excitación de la Unidad 1
+
+2018-10-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3774159, PASO:1
+Se inició con el desarme de la excitación de la Unidad 1, se realizó medida de aislamiento al conjunto de rotor + barraje
+
+2018-10-12 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:2
+Se desacopló las barras de excitación del eje de anillos en la unidad 1, se realizó medida de aislamientos de la siguiente manera
+
+2018-10-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3774159, PASO:3
+Se realizó la desconexión de las terminales del eje superior del rotor, se realizó una medida de aislamiento antes de desconectar: 27,8MOhm. 
+
+2018-10-22 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3774159, PASO:4
+Se realizó el desarme de los porta escobillas de la Unidad 1, se realizó medida de aislamiento antes de desarmar así: 
+Anillo Superior: 214MOhm
+Anillo Inferior: 232MOhm. 
+Se realizó el desarme de cada unos de los aislamiento y se realizó limpieza general."
+
+2018-10-24 REALIZÓ: JHONATAN ANDRES USME - DANIEL ARANGO (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:5
+Se realizó el desarme de los porta escobillas de la Unidad 1, para realizar limpieza con hielo seco por parte del personal de la cuadrilla móvil, 
+
+2018-10-24 REALIZÓ: FERNANDO ANTONIO RUIZ - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3774159, PASO:5,1
+Se realizó la extracción de las barras interiores en el eje superior del rotor de la Unidad 1, para esto: 
+Se ubicó el eje completo sobre unos burros metálicos
+Se pelaron los empalmes
+Se desoldaron los empalmes superiores
+Se aflojó la tapa inferior
+Se retiraron las 2 mordazas de las barras
+Se realizó la extracción hacia la parte inferior, sosteniendo las barras con el puente grúa
+fue necesario golpear las crucetas hacia la parte inferior. 
+Después de llegar al piso las barras, se realizó el izaje del eje. 
+En la parte interna se encontró demasiada suciedad, un destornillador y una tapa de silicona. 
+Se dejó listo para realizarle un lavado criogénico."
+
+2018-10-29 REALIZÓ: FERNANDO ANTONIO RUIZ - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3774159, PASO:7
+Se realizó revisión de aislamientos y cambio de cintas en las barras internas del eje superior del rotor en la Unidad 1.
+
+2018-11-20 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3774159, PASO:8
+Se realizó limpieza de los anillos rozantes de la Unidad 1, con liquido dieléctrico en la parte interna de los anillos rozantes y en la parte interna del eje.
+
+2018-11-27 REALIZÓ: JHONATAN ANDRES USME - FERNANDO CASTRILLON (OPERADOR) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:9
+Se realizó el cambio de aislamiento en el recinto de anillos unidad 1
+
+2018-11-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3774159, PASO:9,1
+Se Continuó el cambio de aislamiento en el recinto de anillos unidad 1
+
+2018-11-28 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:10
+Se finalizó la instalación de los aislamientos en el porta escobillas de la Unidad 1, se realizó el cambio de 2 porta escobillas correspondiente a las escobillas al anillo superior de las escobillas: 3 y 4, y 7 y 8
+
+2018-11-28 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3774159, PASO:10,1
+Se realizó la adecuación de las laminas de estaño se aplastaron y se cortaron para realizar la soldadura de las uniones del barraje de rotor de la Unidad 2.
+"
+2018-11-29 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:11
+Se continuó con la preparación de las laminas de estaño para el armado de la excitación de la Unidad 2. adicionalmente se realizó el inicio del armado de la excitación de la unidad 2, se realizó medida de aislamiento con los siguientes datos: 
+Rotor: 139,2MOhm
+Aislamiento del runner:  66,8MOhm
+Temperatura 29,8°C
+Humedad, 52%
+
+Se realizó la medida de los anillos con los siguientes datos: 
+Anillo Superior: 2,18GOhm
+Anillo Inferior: 63,4MOhm
+Temperatura: 29,9°C
+Humedad: 54%
+
+Se prepararon las terminales para soldarlas
+
+2018-11-29 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3774159, PASO:11,1
+Se continuó con el armado de la Unidad 2, Se inició con el acople de eje de anillos rozantes para esto se utilizó las láminas de estaño y se calentó con gas map y se ajustó con 60 lbf, posteriormente se realizó la medida de aislamiento con el siguiente resultado: 
+51,3MOhm, se encintó y se dejó secando para continuar armando."
+
+2018-12-12 REALIZÓ: MARIO MORALES (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3774159, PASO:
+se arma eje de excitación unidad 1
+
+2018-12-17 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3774159, PASO:
+ se arma eje excitación de la unidad 1.
+
+2018-12-18 REALIZÓ: JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3774159, PASO:
+se continua con el armado del eje de excitación de la unidad 1.
+
+2019-01-07 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3774159, PASO:15
+Se inició con el acople de las barras del eje superior del rotor, se realizó medida de aislamientos así: 
+Rotor: 4,8GOhm
+Barraje de polo 1: 6,2GOhm
+Barraje de Polo 14: 1,2GOhm
+Las barras anteriores están pendientes de calentar. 
+
+2019-01-08 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL) - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:16
+Se finalizó el acople de barras del rotor el cual se hizo con barra de estaño entre las dos barras para unir el rotor con el eje superior, posteriormente se aplicó cinta de mica, cinta de fibra de vidrio, se aplicó resina.
+
+"2019-01-09 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL) - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3774159, PASO:17
+Se realizó apoyo al personal de mantenimiento mecánico en el armado de la Unidad 1, durante estas actividades se realizó medida de aislamiento al rotor con un resultado de 160MOhm, se continúa armando, 
+Se realizó medida de aislamiento a los cojinetes, con un resultado de 33.1MOhm, 
+Se adecuó los dos soldadores para poner a calentar el rotor.
+
+2019-01-12 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: ELONDOOC OT: 3774159, PASO:18
+Se realizó la adecuación de bandejas portacables y se inició el armado de la excitación de la Unidad 1, se realizó el acople de las barras.
+
+Octubre de 2018 - Enero 2019 OT: 3774159
+La información del mantenimiento quedó registrada en la ruta: 
+\\epm-file\2000\2630 A Guatape\2032_MANTENIMIENTO UOZO\CENTRAL GUATAPÉ\CONVERSION\UNIDAD 1\MANTENIMIENTO MAYOR OCTUBRE 2018 U1

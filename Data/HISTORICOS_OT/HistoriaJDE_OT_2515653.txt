@@ -1,0 +1,10 @@
+
+2014/04/27 Realizó: Giovanny Diaz - Mario Restrepo, OT 2515653
+Siendo las 10:40 de la mañana se presento una explosión en la zona de contactos moviles (Patines) del puente grua provocando un disparo del interruptor en DG1 correspondiente al puente grúa. 
+
+Se inicia el proceso de revisión de la falla y se encontró una terminal del cable calibre 4 que hizo contacto con el chasis de riel de 480VAC del puente grua, a la altura de la unidad 7. 
+
+Se desmontó los patines y se cambio terminal, se dejó en operacion normal. 
+
+Realizó: Giovanny Diaz - Mario Restrepo
+Coordinó: Ruben Arboleda

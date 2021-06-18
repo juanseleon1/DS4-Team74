@@ -1,0 +1,38 @@
+- FECHA : DOMINGO 08 DE FEBRERO  DE 2015
+- REALIZÓ : ANDRÉS ZAPATA - VICTOR ZULETA
+- ASOCIADO A LA OT : 2689045
+- ASUNTO : HACER MANTTO MP 
+
+** MANTTO CONTROLES 
+    - Mantto interruptor : sí                 - Mannto contactores : sí
+    - Revisión cableado : sí                - Revisión conexiones y tornillería : sí
+
+** MOTOR
+     - Aislamiento con respecto a tierra ( debe dar un valor alto , tendiendo a infinito ) 
+     - Valor : 200 Moh
+
+** VALORES DE VOLTAJE Y CORRIENTE ( comparar con datos de placa )
+     * Voltaje 
+       - RS : 477.5 V
+       - ST : 486.1 V
+       - RT : 476.1 V
+
+     * Corrientes 
+       - Corriente arranque fase R : 327.4 amp.
+       - Corriente de funcionamiento fase R : 40.1 a
+       - Corriente de funcionamiento fase S : 42 a
+       - Corriente de funcionamiento fase R : 43 a
+
+** TEMPERATURAS Y OTRAS VARIABLES 
+    * Temperatura excesiva carcaza : nó
+    * Temperatura excesiva cojinetes : nó
+    * Vibración anormal : nó
+    * Ruido anormal : nó
+
+** HORÓMETRO : N.A
+
+** TÉRMICOS 
+     * Calibración térmico control : 5 a
+     * Calibración térmico potencia : 67 a
+
+** OBSERVACIOINES : ninguna ...se hace mantto y el equipo queda para operar normal.

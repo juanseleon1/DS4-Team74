@@ -1,0 +1,11 @@
+
+MARZO 20/2019  OT: 3818971  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR, PROBAYO, HENRY GIRALDO, ALVARITO PUSHAINA, ELIECER PUSHAINA
+
+Inician los trabajos de mantenimiento de los equipos de subestación: el día de hoy se realiza media de continuidad de tierra en el circuito del trafo desde el seccionador de barra hasta el seccionador de puesta tierra del circuito del trafo en la GIS, también se miden los tiempos de apertura y cierre del interruptor de este circuito; también se realiza limpieza de los aisladores de alta del trafo de 110/13,8 kv.
+
+
+MARZO 21/2019  OT: 3818971  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR, PROBAYO, HENRY GIRALDO, ALVARITO PUSHAINA, ELIECER PUSHAINA
+
+Continúan los trabajos de mantenimiento en los equipos de subestación: el día de hoy se realiza mantenimiento al cambiador de Tap, se generan los disparos de alta temperatura aceite y devanado, al igual que por sobre presión, todo lo anterior en el trafo de 25MVA.
+
+Dentro de las labores de mantenimiento de subestación se realizó mantenimiento a los interruptores de las celdas de 13,8KV, dentro de esos trabajos se encuentra recalentamiento en la fase L1 de la celda del grupo 2 de aerogeneradores, se corrige apretando adecuadamente las tuercas de este conector, se corrige falla en el interruptor que estaba en la celda de emergencia.

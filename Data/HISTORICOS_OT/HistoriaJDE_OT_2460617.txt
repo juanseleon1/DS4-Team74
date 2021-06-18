@@ -1,0 +1,4 @@
+Segun informe de Operación, se presenta falla en la seleccion de bombas, se hizo revision e inicialmente se adecuo microsuiche, luego de una pruebas el problema persistio, para lo corregir el fallo se hizo el cambio de un relé el cual estaba sulfatado, se hizo pruebas de funcionamiento dejandose en operacion normal. 
+
+Realizó: Giovanny Díaz
+Planeo: RUben Arboleda

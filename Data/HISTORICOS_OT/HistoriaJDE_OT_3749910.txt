@@ -1,0 +1,12 @@
+VERIFICAR INTRUMENTACION DEL TRANSFORMADOR DE POTENCIA 
+
+JULIO 30/2018 OT: 3749910 PROGRAMO: JGUINGUL  EJECUTARON: ALEXANDER VILLA 
+Se realiza verificación de señales Alarmas y Disparos del transformador de Potencia las cuales se encuentran en buen funcionamiento.
+
+Temperaturas de: Transformador de Potencia U1 NQEquipo 20°C 40°C 60°C 80°C 100°C 120°CTemp. Aceite 40 79 119Temp. Devanado Alta 38 77 117Temp. Devanado Baja 40 80 120Valor programado Alarma:Valor programado Disparo:Comentarios:Sin novedades
+ALARMAS
+
+Descripción Verificación Alta Temperatura Devanado Alta y Baja OKRelé Buchholz OKAlta Temperatura Aceite   OKNivel máximo Aceite OK
+DISPAROS PROTECCIONES MECANICAS
+
+Descripción  Verificación Muy Alta Temperatura Devanado Alta y Baja OKRelé Buchholz   OKVálvula de Sobrepresión  OKNivel mínimo Aceite OK

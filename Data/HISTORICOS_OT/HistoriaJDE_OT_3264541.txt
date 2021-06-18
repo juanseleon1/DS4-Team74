@@ -1,0 +1,25 @@
+10/01/2016
+SOLICITANTE: RAMIRO A TORRES.
+SE PRESENTA TODOS LOS LEDS DE SEÑALIZACION DE LOS TABLEROS DE CONTROL DE LA UNIDAD ENCENDIDOS.  
+
+JOHNSON GOMEZ:
+FECHA: OCTUBRE 2 DE 2016
+SE PASA DE PLANEADOR Y DE PROGRAMADOR YA QUE ES UN TEMA DE CONTROL ELECTRICO.
+
+FECHA: OCTUBRE 03 DE 2016
+Al revisar se detecta que cuando se conecta la exitación desaparece esta falla, se revisan los diodos del control del generador, tablero G3.1, se cambia el diodo y se normaliza la señalización de los leds. Cesar Jimenez.
+
+2016-10-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA - SERGIO OLIVARES,  PROGRAMO: RARBOLG OT: 3264541, PASO:1          
+Se realizó identificación de la falla de los pilotos tipo LED en los tableros de control de la unidad 2, se realizó identificación de un diodo malo correspondiente a la prueba de lámparas de la señalización de interruptor de excitación abierto, se realizó el cambio y se dejó en condiciones normales.10/01/2016
+SOLICITANTE: RAMIRO A TORRES.
+SE PRESENTA TODOS LOS LEDS DE SEÑALIZACION DE LOS TABLEROS DE CONTROL DE LA UNIDAD ENCENDIDOS.  
+
+JOHNSON GOMEZ:
+FECHA: OCTUBRE 2 DE 2016
+SE PASA DE PLANEADOR Y DE PROGRAMADOR YA QUE ES UN TEMA DE CONTROL ELECTRICO.
+
+FECHA: OCTUBRE 03 DE 2016
+Al revisar se detecta que cuando se conecta la exitación desaparece esta falla, se revisan los diodos del control del generador, tablero G3.1, se cambia el diodo y se normaliza la señalización de los leds. Cesar Jimenez.
+
+2016-10-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA - SERGIO OLIVARES,  PROGRAMO: RARBOLG OT: 3264541, PASO:1          
+Se realizó identificación de la falla de los pilotos tipo LED en los tableros de control de la unidad 2, se realizó identificación de un diodo malo correspondiente a la prueba de lámparas de la señalización de interruptor de excitación abierto, se realizó el cambio y se dejó en condiciones normales.

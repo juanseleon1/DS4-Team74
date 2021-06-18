@@ -1,0 +1,8 @@
+MP ANUAL:- 3696 FRENOS GENERADOR U2 TR
+18/09/2017
+MANTENIMIENTO PREVENTIVO ANUAL.
+Se realizó el mantenimiento según el instructivo anual.
+Se revisaron las conexiones y se realiza limpieza a los sensores inductivos, se realizan pruebas para verificar su correcto funcionamiento, no se evidencian anomalías.
+
+Realizo: Mateo Perez.
+Programo: Carlos Andres Forero.

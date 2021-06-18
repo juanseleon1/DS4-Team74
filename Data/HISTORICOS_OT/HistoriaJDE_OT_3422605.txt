@@ -1,0 +1,9 @@
+FECHA: MARZO 15/2017PROGRAMO: DANIEL PALACIOSEJECUTO: RONAL ARANGO.
+Se realiza mantenimiento al generador sincronico de la minicentral de Porce 3, se hacen pruebas electricas y se llenan formatos de toma de medidas al generador.
+
+OT PADRE: 3419087
+PLANEADOR: RMONTOYG
+FECHA: 14/03/2017
+PROGRAMADOR: DANIEL PALACIOS
+
+REALIZAR MANTENIMIENTO ANUAL A LA MINI CENTRAL DE PORCE 3

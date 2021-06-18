@@ -1,0 +1,11 @@
+2018/04/16 _ CARLOS ENRIQUE MONCADA. OT N° 3712667.
+Referente a la S/E 500 Kv:
+En coordinación con el equipo CCG Mantenimiento, se procede con la instalación del Router RUGGEDCOM RX 1501 en el tablero MEDIDORES, igualmente se instala la tarjeta NEBRO en el Slok 5 del Multiplexor 1500.
+Se realiza conectividad entre estos equipos para configurar, habilitar y migrar el servicio de de los contadores de Energia L2 ubicados en S/E 500 Kv.
+Se realizan pruebas con la sala de comunicaciones de S/E Colombia verificando conectividad y quedando el sistema en servicio.
+
+Realizo: Carlos Moncada, Eladio Piedrahita.
+Informó: Carlos Moncada.
+----------------------
+2018/04/11 _ CARLOS ENRIQUE MONCADA. OT N° 3712667.
+Se crea OT para la Instalación de Router y Tarjetra Nebro en Multiplexor 1500 Comunicaciones para migracion contador de Energía principal L2.

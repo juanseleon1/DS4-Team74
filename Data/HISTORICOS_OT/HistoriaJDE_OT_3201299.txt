@@ -1,0 +1,11 @@
+
+2016-08-11 REALIZÓ: JUAN JOSE LOPEZ (PRACTICANTE) - GIOVANNY DIAZ - JHONATAN USME,  PROGRAMO: RARBOLG OT: 3201299 PASO: 3,          
+Se realizó inspección termografica a la motobomba CW4 para identificar si la reparación inicial habia quedado en condiciones normales, se identificó una delta de temperatura en la fase T en la peineta de salida de 50°C, se realizará desarme nuevamente y se reemplazará la conexion de la fase T por otra de una peineta que esta en oficina de mantenimiento electrico.
+
+2016/0812 REALIZÓ: GIOVANNY DIAZ - JHONATAN USME,  PROGRAMO: RARBOLG OT: 3201299, PASO:4         
+Se realizó el desarme a la peineta de salida de la CW4 para cambiar la fase T, se espero un tiempo aproximado de 1 hora para realizar una inspección termografica, se evidenció mejoría, se realizo el informe termografico y se anexa a la OT: 3201299
+2016-08-11 REALIZÓ: JUAN JOSE LOPEZ (PRACTICANTE) - GIOVANNY DIAZ - JHONATAN USME,  PROGRAMO: RARBOLG OT: 3201299 PASO: 3,          
+Se realizó inspección termografica a la motobomba CW4 para identificar si la reparación inicial habia quedado en condiciones normales, se identificó una delta de temperatura en la fase T en la peineta de salida de 50°C, se realizará desarme nuevamente y se reemplazará la conexion de la fase T por otra de una peineta que esta en oficina de mantenimiento electrico.
+
+2016/0812 REALIZÓ: GIOVANNY DIAZ - JHONATAN USME,  PROGRAMO: RARBOLG OT: 3201299, PASO:4         
+Se realizó el desarme a la peineta de salida de la CW4 para cambiar la fase T, se espero un tiempo aproximado de 1 hora para realizar una inspección termografica, se evidenció mejoría, se realizo el informe termografico y se anexa a la OT: 3201299

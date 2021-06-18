@@ -1,0 +1,15 @@
+
+FECHA: OCTUBRE 27 DE 2015  OT: 2916817
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se realiza el cambio del contactor 17K2, fue necesario cambiar el fusible de 355 amperios de la fase L1 en el contactor 18K2, al momento de dar System OK el control del AG ro respondió, se des energizó todo el control pero el problema continua, se dejó todo desenergizado y realizar más pruebas el día de mañana.
+
+
+FECHA: OCTUBRE 28 DE 2015  OT: 2916817
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se continua con los trabajos en el AG, para solucionar el problema de bloqueo del control se realiza el cambio de RFC y verificación de módulos en el controlador inferior pero el problema continua, se decide verificar en l controlador superior, se encuentra el módulo 105A2 fallado en la entrada 2 que tiene la señal de "NO ACCESO REMOTO", se cambia y se realiza prueba de giro, el freno inferior tiene problema leve de descarga a tanque, al momento de empezar a generar aparece nuevamente la alarma de corrientes asimétricas.

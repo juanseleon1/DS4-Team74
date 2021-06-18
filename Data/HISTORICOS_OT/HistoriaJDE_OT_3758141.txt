@@ -1,0 +1,7 @@
+JHON MARIO PEREZ ARENAS. AGOSTO 26 DE 2018
+
+Revisar incremento de temperatura en la fase S del banco 2. Se encuentra en 67 grados con las otras dos fases en 52 grados. 
+
+
+2018/08/27 DIEGO BEDOYA
+Se suministra aire a los bancos uno y dos en las tres fases, en esta fase S del banco 2 salió lodo y la temperatura bajo considerablemente  despues del suministro de aire.

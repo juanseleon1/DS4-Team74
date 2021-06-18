@@ -1,0 +1,7 @@
+SOLICITANTE: FERNANDO GOMEZ
+FECHA:14-05-2018
+En el controlador de unidad UN- K01+WOO U1, se observa falla de comunicacion con el controlador 5,por esta razon la unidad no tiene condicciones de arranque desde el nivel 3 y 4, por favor revisar.
+
+
+DIONIS M. ZAPATA V.  LUNES 14/05/2018
+SE REVISA LA FALLA DE COMINUCACION Y SE OBSERVA QUE LA FALLA LA ESTA GENERANDO EL CONTROLADOR 5 KO1+W05 ESTE SE RESETEA Y NORMALIZA TODO EL ENVIO DE DATOS.

@@ -1,0 +1,8 @@
+JULIO 16 DE 2015 
+
+HACER EL DESMONTAJE DEL MOTOR A LA MOTOBOMBA CW 7 DE GUATAPE Y VERIFICAR EL NIVELADO DEL CABEZAL DE DESCARGA , YA QUE ESTA MOTOBOMBA PRESENTA UNOS ALTOS NIVELES DE VIBRACIONES 
+
+JAIME A RAMIREZ 
+
+2015/07/16 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+Se realizó desconexión del motor de la CW7 en control y potencia, se realizó apertura de las borneras de control en el tablero +DU6, se evidenció fallo en cableado de potencia en la zona del motor, a causa de la rigidez de este cable, en la tarde se realizó adecuación de potencia y señales de control, se dejó en condiciones electricas normales.

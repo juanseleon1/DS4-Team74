@@ -1,0 +1,5 @@
+MP ANUAL: - 3542 NEUTRO TIERRA U1 TR - 3543 NEUTRO TIERRA U2 TR
+17/09/2017JORGE ALIRIO HERNANDEZ.
+Se realiza mantenimiento anual U1TR tablero neutro tierra generador, se realiza limpieza, se reapretan bornes y se agrega limpiador de contactos, se realiza mantenimiento al banco de resistencias
+
+Se realizó mantenimiento preventivo según instructivo anual, se revisó barraje del neutro, se revisan y se reaprietan conexiones, transformador, resistencias de disipación, CT´s, y se realizó limpieza general , se agrega limpiador de contactos.

@@ -1,0 +1,11 @@
+2018/07/24. JUAN C DUARTE MUÑOZ.
+
+REVIZAR Y CORREGIR LA FALLA QUE SE PRESENTA EN EL IHM. LA PANTALLA ESTA NEGRA Y, NO ES POSIBLE REALIZAR MANIOBRAS DE OPERACIÓN.
+EN LA O.S SE OBSERVA TRABAJANDO LA BOMBA 1, PERO, EN REALIDAD ES LA 2 LA QUE ESTA EN SERVICIO.
+
+
+2018/07/26 OT 3747912 Victor Zuleta / Cesar Tulio / Luis Eduardo Arcila
+se revisa el controlador HE-XL105BB  encontrándose bloqueada la pantalla.
+se reinicia quedando en condiciones normales de operación.
+También se cambia tanto en la programación del controlador de unidad como en el despliegue del Scada, la dirección de las bombas.
+Se entrega al turno de operación para supervisión de su funcionamiento.

@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DARIO PUERTA.
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres (contador de Operaciones Q0=1570, contador de operaciones del motor bomba=3063).
+Trabajos realizados por: Dario Puerta, Jhonatan Arango, Maicol Gonzalez.
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

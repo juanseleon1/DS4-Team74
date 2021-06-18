@@ -1,0 +1,9 @@
+
+
+SOLICITA: EQUIPO OPERACION TURNO 2                      FECHA: 2014/12/07
+
+FAVOR REVISAR ALARMA UPS "FALLA TENSION ENTRADA" LA CUAL SE HA VENIDO PRESENTANDO OCACIONALMENTE.
+
+G4CMAXUPS2RLYBTA.
+
+Esta señal se presenta debido a baja tension AC , la ups trabaja en modo baterias es el funcionamiento normal de la UPS

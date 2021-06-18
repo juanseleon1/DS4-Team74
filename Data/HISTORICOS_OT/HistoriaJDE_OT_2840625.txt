@@ -1,0 +1,9 @@
+Referente a la unidad # 3:
+Regulador de tensión, al momento de sincronizar unidad el AVR2 presenta alarma (=Q13-HSO1-L4) falla flujo de aire en el rectificador, falla alimentación 24 Vcc GA01.
+Se revisa alarma y se encuentra la fuente GA011N de 24 Vcc en falla. 
+Se informa al grupo de mantenimiento para revisar y hacer cambio de fuente. 
+Informa: turno # 2
+2015/12/14_ CARLOS ENRIQUE MONCADA.
+SE PROCEDE CON EL CAMBIO DE LA FUENTRE DE ALIMENTACION FALLDA EN LA UNIDAD 3. SE REVISA Y VERIFICA QUEDANDO ESTA DISPONIBLE PARA LA OPERACIÓN.
+
+

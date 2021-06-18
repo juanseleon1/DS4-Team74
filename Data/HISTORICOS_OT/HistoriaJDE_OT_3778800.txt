@@ -1,0 +1,14 @@
+11 DE JULIO DEL 2018
+PREVENTIVO BANCO TRANSFORMADORES POTENCIA UNIDAD GENERACIÓN GUADALUPE 3.
+PLANEADOR:OSCAR ARANGO
+PROGRAMADOR:CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo según instructivo GCG3E0010, se revisan posibles fugas en las tres fases (R-S-T), se reaprietan conexiones en el lado de alta y de baja, se revisan conexiones en los gabinetes de control (relés, interruptores, fusibles, resistencia de calefacción), bujes, aisladores, estado de la silica. No se encuentran anomalías.
+Se realizaron las siguientes actividades.
+ 
+ Se reaprietan flanches para eliminar posibles fugas.
+ Se revisan el tanque de expansión, válvula de sobrepresión, relé de BUCHHOLZ.
+ Se ajustan todos los puntos de conexión de control y de potencia.
+
+Ejecutaron: Jorge Echeverri-Luis Correa
+Programo: Carlos Andres Forero

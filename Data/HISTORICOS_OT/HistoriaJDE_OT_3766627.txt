@@ -1,0 +1,9 @@
+17/19/2018
+OT creada para realiza la verificación del correcto funcionamiento del transductor de potencia del regulador de velocidad de la unidad 1.
+ 
+Néstor Fabián Ochoa. 
+
+04/12/2018
+se realza la verificaciònd el transductor de potencia, encontrandose un condiciones operativas nocmales, con u error maximo de 0.018 ma. 
+
+Nestor Ochoa.

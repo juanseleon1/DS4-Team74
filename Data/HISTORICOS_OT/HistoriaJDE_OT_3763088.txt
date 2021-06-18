@@ -1,0 +1,8 @@
+06/09/2018
+MONTAJE NUEVO ANALOGICO SENSOR RADIAL VALVULA MARIPOSA
+
+Grupo Mecanico:
+Realizar el soporte y la adecuacion del nuevo sensor analogico para la visualizacion en porcentaje de la apertura/cierre de la valvula mariposa de G4.
+
+Grupo Electronico:
+Conexion y puesta en servicio del sensor radial y ajustar su visualizacion en el escada de la sala de operacion.

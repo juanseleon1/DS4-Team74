@@ -1,0 +1,11 @@
+XE: MEDIR Y LIMPIAR, RECINTO ANILLOS ROZANTES, ESCOBILLAS, BARRAJE.
+
+16/03/2017
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizó el mantenimiento general. 
+Se tomaron medidas de las escobillas, se realizó el respectivo lavado de los anillos rozantes, se realizaron pruebas de aislamiento antes y después del lavado.
+Nota: según las medidas tomadas a las escobillas, se realizó el cambio de las escobillas número 15 y 16, ya que su dimensión era de 20 mm.   
+Para revisar el resto de los datos ver registros en el archivo de Troneras.
+
+Ejecuto: Daniel Arango
+Programo: Carlos Andres Forero

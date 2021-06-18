@@ -1,0 +1,13 @@
+CUATRIMESTRAL MECANICO COJINETE SUPERIOR GUADALUPE 3
+
+PLANEADOR:GABRIEL TAMAYO
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+
+Programador: Camilo Montagut - 19/06/2018
+
+Se adicionan 12 litros de aceite mobil heavy médium ISO 68 llevando el aceite a nivel patrón. Se verifica que el nivel converse con el nivel mostrado en los sensores y las pantallas de operación. Finalmente se realiza limpieza del compartimiento del cojinete.
+
+Ejecuta: equipo mantenimiento mecánico UOG

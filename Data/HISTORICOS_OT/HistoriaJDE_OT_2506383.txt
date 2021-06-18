@@ -1,0 +1,13 @@
+Se inciio con el montaje de sensores y adecuación de la ubicación de las resistencias, mantenimeinto y reemplazo de 20 resistencias que se encontraron reventadas. 
+
+Realizó: Edwar Londoño
+
+ABRIL 07 / 2014
+SE CONTINUA CON LA OT: 2230612
+RUBEN ARBOLEDA
+
+2014/09/18 RUBEN ARBOLEDA
+Se está realizando inventario y se está al pendiente de elaboración de planos por parte de Cesar Hoyos para luego realizar el cambio hacia el control viejo, con el fin de poder hacer extracción de rotor de la unidad 1 de Guatapé en Noviembre de 2014. 
+
+2015/03/17 OSCAR GIRALDO - JUAN DAVID GARCÍA - GRUPO DE MANTENIMEINTO ELECTRICO - CESAR HOYOS
+Se realizó modernización del puente grúa, conexion de cableado de manera temporal, con el fin de NO inhabilitar el control anterior, en caso de requerir el acople de ambos puentres grúa para extracción de rotor, el puente grúa se deja en funcionamiento con el mando a distancia, programación de plc, señalización e iluminación en condiciones optimas. 

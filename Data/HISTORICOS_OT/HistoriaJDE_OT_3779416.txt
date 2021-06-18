@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO: JHONN JADER ORREGO.
+
+Se realiza inspección visual del cable aislado a 500 KV en todo su recorrido por el túnel de cables, a los terminales interiores y conexión a la GIS de cada transformador, se revisa estructura de soportes a los cables, se revisa los manometros del gas SF6 en las tres terminales.
+Trabajo Ejecutado por: Jhon jader Orrego, Frank Manuel Cordoba y Camilo Cardona
+
+XE: INSPECCION GENERAL SISTEMA CABLES POTENCIA A 500KV CIRCUITO 2 DE LAS UNIDADES 3 Y 4
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

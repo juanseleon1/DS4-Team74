@@ -1,0 +1,5 @@
+En la unidad 4 de Guadalupe 3 los servicios auxiliares no estan realizando la transfrerencia en la secuencia de arranque.
+
+JUNIO 15 DE 2018.
+Se revisa la transferencia de los servicios auxiliares 440 Vac dela unidad, encontrando mal contacto en los micro suiches de posición del interruptor Q02, se realiza limpieza, ajuste y pruebas de su correcto funcionamiento.
+William Lopera.

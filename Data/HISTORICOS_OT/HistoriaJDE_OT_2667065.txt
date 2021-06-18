@@ -1,0 +1,5 @@
+Solicitante: Juan David Gutierrez  Fecha: 2/2015
+
+Descripcion: La unidad N°3 presenta la alarma G4CMGEVTU3NALM_A (Vibraciones) se resetea,pero esta se presenta nuevamente en los paros de la unidad, se observa la tarjeta (Relay Module) CH2 y CH4 Alarmados. 
+
+SE REVISAN LOS VOLTAJES DE CADA UNO DE LOS SENSORES Y SE ENCUENTRAN EN VALORES NORMALES DE TRABAJO.

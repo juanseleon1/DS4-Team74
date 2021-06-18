@@ -1,0 +1,5 @@
+Inspección y medidas generales de las motobombas de refrigeración para los generadores de Guatape.
+
+2018/07/13 GIOVANNY DIAZ 
+
+Se realizó mantenimiento al motor de motobomba CW6 refrig U5 GT    CORRIENTE: R:97,3, S:102, T:95,8, VOLTAJES RS:447, ST:450, TR:444,TEMPERATURA MAXIMA DE MOTOR 66,3°C 

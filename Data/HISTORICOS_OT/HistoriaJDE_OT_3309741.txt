@@ -1,0 +1,34 @@
+2016/11/10 RUBEN ARBOLEDA
+Se genero la OT para legalizar la solicitud de este material el cual se va a utilizar en las actividades de montaje de los soportes de los cables de repuesto e instalación de sellos cortafuegos de los transformadores y puente cables. 
+Código                 Descripción                        Cantidad
+1661                      Agrolene                            8 KG
+30483                    Cuerda retorcida             50 ML
+Solicito: Diofanor Salazar
+
+2016-11-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3309741, PASO:          
+Se realizó la reparación del alumbrado del túnel auxiliar, con el fin de que el personal de montajes realizará la instalación de los soportes para la instalación de cable de reserva de 230KV.
+
+
+2016-12-16 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: SOLIVARE OT: 3309741, PASO:2          
+Se inicio con la medida del cable de potencia del banco 3 y 4 desde la salida del túnel auxiliar al túnel de vehicular, hasta los empalmes y hasta la entrada al túnel auxiliar.
+
+2016-12-20 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: SOLIVARE OT: 3309741, PASO:3          
+Se finalizó con la medida de los cables de potencia del banco 3 y 4 desde la salida del túnel auxiliar al túnel de vehicular, hasta los empalmes y hasta la entrada al túnel auxiliar, cerca al portal con los siguientes datos: 
+Banco 3  
+Desde Hasta Distancia Medida (Mts)
+Muro C/M Primer Empalme 36
+Primer Empalme Segundo Empalme 439
+Segundo Empalme Tercer Empalme 502
+Tercer Empalme Cuarto Empalme 475
+Cuarto Empalme Muro Portal 307
+  
+Banco 4  
+Desde Hasta Distancia Medida (Mts)
+Muro C/M Primer Empalme 13,6
+Primer Empalme Segundo Empalme 439
+Segundo Empalme Tercer Empalme 497
+Tercer Empalme Cuarto Empalme 470
+Cuarto Empalme Muro Portal 339
+
+2017/01/14 RUBEN ARBOLEDA
+Se cierra la OT en caso de requerise se abrirá otra OT

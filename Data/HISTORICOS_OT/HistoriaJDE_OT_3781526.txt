@@ -1,0 +1,18 @@
+2018/12/02 OT N°: 3781526 PROGRAMO:  R JIMENEZ EJECUTO: YOANIS RODRIGUEZ
+SE REALIZA EL MANTENIMIENTO PREVENTIVO AL CARGADOR DE BATERIAS.
+SE HACE REVISION , MEDIADAS DE VOLTAJES Y LIMPIEZA DEL BANCO DE BATERIAS, PENDIENTE DE REALIZAR LA PRUEBA DE AUTONOMIA DEL BANCO
+
+FECHA: Noviembre 10/2018. PROGRAMO: RICHARD JIMENEZ EJECUTO :
+
+Se realiza mantenimiento a:
+
+CARGADOR DE BATERIAS 125VDC No 1 Y No 2 SUBESTACION A 500 KV PORCE III: Realizar inspeccion y limpieza cargador y tarjetas de control y de potencia, inspeccionar operacion de ventiladores e instrumentos de medida.
+
+Tablero de distribucion TUPS CARGADOR-: Realizar inspeccion y limpieza del tablero de distribucion, verificar auxiliares de tablero, equipos de medida y puestas a tierra.
+
+Banco de baterias de 125Vdc: Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, baterias calientes, soplado de baterias o fugas de electrolito.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ A.
+PROGRAMADOR: DANIEL EDUARDO PALACIOS O.
+OT:
+FECHA:

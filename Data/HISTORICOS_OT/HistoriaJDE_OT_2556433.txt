@@ -1,0 +1,9 @@
+
+FECHA: JUNIO 28 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presenta falla por comunicaciones en el AG 15, se inspecciona el RFC y se presenta falla 4,0 0C 16, se revisa la Top Box y no se encuentra nada anormal, se revisa la llegada de luz al modulo de fibra óptica y esta presente aunque tenue, al conectarlo se normaliza el LOOP, a los 10 minutos se presenta nuevamente la falla, en este caso no se recibe señal en el modulo de fibra óptica de la Bottom Box, nuevamente se revisa la Top Box y se encuentran deficientes las dos fibras, se procede a realizar los cortes y se deja en funcionamiento el aerogenerador.
+
+Durante los trabajos de la fibra óptica se aprovecho para revisar unos módulos de los que llamamos 1,0 y 4,0; se marcaron los buenos y se dejaron en el almacén en el estante metálico

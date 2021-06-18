@@ -1,0 +1,10 @@
+
+
+
+
+MAYO 09/2019  OT: 3838208  PROGRAMÓ: HGIRALRI EJECUTÓ: PEDRO ROBAYO
+
+Se realiza drenado del relé Buchholz del trafo 690/13,8, antes de realizar el procedimiento no se observaba nivel de aceite, se le drena aire y se deja con indicación visual de nivel de aceite.
+
+
+Para este trabajo es necesario la apertura del interruptor de maquina y se cierra el interruptor de tierra para poder ingresar al rele Buchholz

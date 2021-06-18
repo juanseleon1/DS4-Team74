@@ -1,0 +1,7 @@
+JULIO 31 DE 2017     OT NÚMERO: 3527831   PROGRAMÓ: JAIRO GUINGUER     EJECUTARON:  ALEXANDER VILLA
+Se realiza desmontaje de los transmisores de presión ubicados en las tuberías de aguas arriba y aguas abajo, después se procede a realizar su respectiva calibración,Ajuste sensores de posición Apertura - Cierre 
+ 
+Tablero: Válvula de Admisión U1 S1Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740.09 0.052816.07 15.621231.75 31.451644.50 47.002063.23 63.21Instrumento 1: Aguas Arriba (Bar)
+Instrumento 2: Aguas Abajo (Bar)
+
+Presostato Sellos Válvula de Admisión  Subiendo presión Bajando presión   20.56 bares 18.71 bares 

@@ -1,0 +1,2 @@
+2018/01/19 OT: 3674650 VICTOR ZULETA, WILFER HINCAPIE
+Se realiza cambio del sensor de temperatura de agua cojinete de turbina de la unidad, ademas, se instala soporte del sensor en la tuberia de salida de agua.

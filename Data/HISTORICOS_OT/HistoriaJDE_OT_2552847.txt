@@ -1,0 +1,18 @@
+Junio 22
+
+Se requiere intervencion a cableado, control y señales del interruptor H02 y el rele de protecciones de ese cto por falla en señal de disparo enviada desde el rele y no operacion del interruptor.
+
+Informa: Sandra Carmona y Federico Alvarez
+
+Junio 23
+
+Se interviene la celda del interruptor H02 y se revisa cableado de señales digitales (entrdas y salidas) del rele al interruptor y se encuentra todo normal. 
+
+Se presume problemas en el interruptor, en la bobina o en las borneras internas, se extrae, se revisa las borneras correspoendientes a supervision cto de disparo y mando apertura/cierra. Se encuentra bornes 11 y 12 sueltas, lo que explica la alarma en el rele y la no operacion del interruptor ante orden de apertura del rele ante falla. Se presume que se soltaron ante operacion del interruptor (?)
+
+Se realiza limpieza (mtto) al iterruptor H02 y se normaliza. Queda en condiciones operativas y queda en observacion ante apertura por falla enviada desde rele.
+
+Hay pequeñas inconsistencias en el plano As Build, no existe bornera X4 y aparece en el plano como la bornera de potencia.
+
+Informa y ejecuta: Sandra Carmona - Federico Alvarez - Fabian Giraldo - Fredy Echeverri
+

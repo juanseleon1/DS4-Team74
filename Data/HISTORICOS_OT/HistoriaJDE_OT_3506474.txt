@@ -1,0 +1,9 @@
+FECHA: 06 JUNIO 2017   SOLICITANTE: IVAN DARIO FRANCO
+El contador de frontera de la unidad 2 de troneras, al leer la generacion del 05 de junio a las 24:00 horas, totalizo un valor potencia activa, muy inferior al generado realmente; totalizo 147,2 Megavatios generados, cuando en realidad, se generaron 476 Megavatios aproximadamente.
+Por favor revesar este contador.
+
+
+
+REFERENTE AL CONTADOR DE FRONTERA UNIDAD TR2: POR PÉRDIDAS DE MEDIDAS DE VOLTAJE SE REVISA TODAS LAS SEÑALES REQUERIDAS PARA ESTA SALIDA Y SE ENCUENTRA ABIERTO EL INTERRUPTOR FS1 UBICADO EN LA CELDA +L02 DEL INTERRUPTOR DE MÁQUINA, SE NORMALIZA EL DISPOSITIVO REGRESANDO LAS MEDIDAS. LA PRUEBA SE HIZO CON MÁQUINA ENERGIZADA.
+
+REALIZO: GRUPO DE ELECTRONICA 

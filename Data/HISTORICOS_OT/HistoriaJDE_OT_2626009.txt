@@ -1,0 +1,11 @@
+POR FAVOR REPARAR CABLES DE PUESTA A TIERRA DEFECTUOSOS, PARA REEMPLAZAR CON MATERIAL DISPONIBLE EN LA HERRAMIENTERIA CON EL SEÑOR ELIAS BURITICA.
+
+2014/10/28 JUAN DAVID GARCÍA - OSCAR GIRALDO: INFORME DE REPARACIÓN DE TIERRAS PORTÁTILES
+El 28 de Octubre de 2014 se dio inicio al proceso de reparación de tierras portátiles, por parte del señor Joaquín Elías Buritica se recibieron 10 tierras, éstas tierras contaban con un cable delgado, se realizó el cambio por un cable para sistema de puesta a tierra suministrado igualmente por Elías Buritica. 
+
+Pasos para el cambio de cableado: 
+Paso 1, Retirar cable anterior, se identificó que la prensa para el cable es la misma mordaza o caimán, esta mordaza presentaba una característica la cual en la parte superior contaba con un aislamiento entre la prensa de la mordaza y la chaqueta del cable, el contacto entre el cable conductor y la mordaza sólo lo hacía en la parte inferior.
+
+Paso 2, cambio de cable; para esta actividad se realizó apertura completa de la prensa de la mordaza, se limpió y se instaló el nuevo cable ajustando nuevamente la prensa.
+
+Paso 3, proteger; Con el fin de tener una mejor protección y evitar la corrosión con ácido sulfhídrico se realizó protección de empalme con termo-encogible y con cinta de vinilo.

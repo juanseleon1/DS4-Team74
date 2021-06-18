@@ -1,0 +1,10 @@
+
+
+25/02/2019 Cesar tulio / Luis Eduardo Arcila
+
+Se pierden las señales en el Scada de la unidad 8
+
+Se revisa y se encuentra fuente de alimentación  5 Vdc  DSSR122 con oscilaciones en el voltaje salida, se cambia fuente por una reparada, y se carga de nuevo el programa desde la estación de ingeniería, quedando en condiciones normales (P1)
+
+También se encontró canal U-8.151 (Bomba 1 aceite refrigeración ON) fallado en la tarjeta DSDI110A, se cambia tanto en la programación como físicamente al canal U8-8.159 que se encontraba libre.
+

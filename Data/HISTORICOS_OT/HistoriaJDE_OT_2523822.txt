@@ -1,0 +1,11 @@
+
+ MAYO 07 DEL 2014 - MARIO ZAPATA
+
+ Equipo Hidráulico Válvula de admisión T1, el instrumento de medida del nivel de aceite tanque sumidero de la válvula  de admisión, está 
+ presentando problemas en el lazo de control.
+
+MAYO 11 DE 2014.
+
+Se  revisa y se desmonta el instrumento por presentar alteracion en el control, se le hace mantenimiento y se cambia  el cable de comunicacion desde la multibarrera al instrumento, esto debido que el transmisor de nivel estubo inundado de agua e igual que el cable y esto interferia en la señal de control.
+
+INFORMO Y REALIZO: FREDY DUARTE - WILLIAM LOPERA

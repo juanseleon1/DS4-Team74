@@ -1,0 +1,25 @@
+
+2018/07/18 _ CARLOS ENRIQUE MONCADA. OT N° 3742167.
+Se realiza limpieza y mantenimiento al tablero del tunel de acceso de la mini central. Se revisan  y verifican fallas y eventos en el RELË SIPROTEC encontrandolo sin fallas y operativo.  
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+FECHA: 05/07/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+
+Realizar inspeccion y verificacion la comunicacion del sistema, verificacion de fallas, eventos y alarmas del rele SIPROTEC, ademas de limpieza de la fibra optica y  estado del tablero.
+
+
+
+
+
+
+
+
+
+
+
+
+ 

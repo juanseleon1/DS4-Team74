@@ -1,0 +1,42 @@
+- FECHA : DOMINGO ENERO 29 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JUAN DAVID GARCÍA - JEISON ORTEGA 
+- ASOCIADO A LA OT : 3381037
+
+1. Mantenimiento Controles
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 264  Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  454.1 v
+       ST =  455.8 v                                                                 
+       RT =  456.3 v
+       Corriente de arranque:  
+Fase R = 70.4  a
+       Corriente de marcha:  
+Fase R = 12.8 a
+Fase S =  12.4 a 
+Fase T =  12.6  a                                                                              
+2.3. Temperatura excesiva carcaza: N/A
+        Temperatura excesiva cojinetes: N/A
+        Vibración anormal: N/A
+        Ruido anormal: N/A
+
+3. Calibración térmico control: 1a    Calibración térmico de potencia : 15 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 23.1 H
+
+6. Observaciones: medida de resistencia de aislamiento tomada con Megger MIT 420
+ * Medida de aislamiento tomada con Megger MIT420
+ * Se prueba control desde nivel 1 , nivel 2 y remoto , operando normalmente
+ * La bomba queda seleccionada como respaldo
+ * En el IHM del controlador , en el listado de eventos , se evidencia normal funcionamiento.
+
+

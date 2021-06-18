@@ -1,0 +1,43 @@
+DICIEMBRE 02 DE 2016
+
+
+SE ALMACENA EL INFORME GENERAL DE ESTE TRABAJO EN LA OT Y EN NOTAS DE EQUIPO 2:
+
+<\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\9. INFORMES\NORMALIZACION BANCO 35 GIII - 05-11-126.doc>
+
+
+
+
+OSCAR ALBERTO RESTREPO ALVAREZ
+
+
+
+PLANEADOR: BIANEY BRAVO: OCTUBRE 11 DE 2015
+
+ACTIVIDADES A REALIZAR PARA LA PUESTA EN SERVICIO DEL BANCO DE TRANSFORMADORES:
+
+- MOVIMIENTO Y REUBICACION DE TRANSFORMADORES
+- CONEXION DE CONTROL Y PROTECCION
+- CONEXION ALTA Y BAJA
+
+ENERO 21 DE 2016.
+En esta OT : Se ha estado trabajando en el cableado de las cajas de control de cada transformador , en el momento esta pendiente una suspencion del banco de la unidad G35 para terminar de realizar el trabajo.
+
+NOVIEMBRE 10 DE 2016
+Se desconectó el trasformador trifásico por alta y baja con el personal eléctrico de la unidad Operaciones Guadalupe, y por el lado de 115 KV se retiró todo el sistema que se había implementado para la puesta en servicio de este transformador trifásico con la ayuda del personal de Subestaciones y líneas, todo este material fue almacenado en el almacén de Guadalupe 4, se desconecta la caja de control y de empalme que se habían utilizado para este evento.
+Los tres transformadores de potencia reparados ya habían sido ubicados en sus respectivas fases, lo que facilito poder adelantar mucha parte del conexionado de las cajas de control en la fase S Y T.
+
+Se hace mantenimiento general a los barrajes, ductos de barras bujes de alta y baja a todo el banco de transformadores, se hace mantenimiento a aisladores, pararrayos y cambio de herrajes en la línea de 115 KV con el personal de subestaciones y líneas.
+
+NOTA: Queda pendiente para otro paro de cadena y por recomendación del personal de subestaciones líneas revisar y cambiar aisladores y herrajes en las líneas de 115 KV que van desde la salida de los transformadores de potencia hasta la subestación del Salto para los 6 campos de las unidades de G3.
+Los 3 transformadores fueron reparados por la empresa contratista EXPLORER, donde se instalaron válvulas de sobre presión y relé bucholz nuevos, también fueron realizadas las pruebas eléctricas a todo el banco de transformadores de potencia con el personal de operación y mantenimiento, los resultados están almacenados en el siguiente Link.
+
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\3. DIAGNOSTICO\ELECTRICISTAS>
+
+Se cablean las cajas de control y todas las señales al sistema de control (RIO 13 Y 14), se realiza los cambios en la caja de borneras de corrientes habían sido modificadas con la instalación del transformador trifásico, también se normal el sentido de la corriente por alta en los CT¨S, se cierran barrajes por alta y baja, se normaliza todo el banco al estado original.
+En el transformador fase S se instalado un relé Qualitrol 509 ITM como prueba que tiene monitoreo de temperatura por medio de fibra óptica directa en los devanados de baja y alta, con salidas a relé y de 4-20 mili amperios que se utilizó para monitoreo de alarmas en el control.
+Después de realizar todos los trabajos correctivos y preventivos, se normaliza el banco, se buscan condiciones, se le realiza la verificación con el protocolo de alarmas y disparos que van a los relés de protecciones de la unidad al banco de transformadores obteniendo buenos resultados. Se gira la unidad, se modifican algunos parámetros en el regulador de tensión para poder energizar en porcentajes, se energiza la unidad siguiendo el protocolo de energización obteniendo buenos resultados.
+
+Después de realizar todo este procedimiento se sincroniza la unidad respondiendo satisfactoriamente y con temperaturas normales en los tres transformadores. Registros gráficos en el siguiente link.
+<\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\6. REGISTRO GRAFICO\ELECTRICISTAS> 
+Programó: William Lopera 

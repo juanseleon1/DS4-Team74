@@ -1,0 +1,13 @@
+2019/01/08 JUAN C DUARTE MUÑOZ
+
+REVISAR Y CORREGIR LA ALARMA SERVICE DEL EQUIPO DGA.
+SE PRESENTA ALARMA DE CILINDRO VACIO DE HELIO (He). SE CAMBIA CILINDRO DE HELIO Y SE NORMALIZA LA PRESION.
+ADEMAS SE PRESENTA FALLA DE INSTRUMENTO NO LISTO (Sample 795 FAILED - Instrument not ready)
+SE VA A REPORTAR LA FALLA DEL EQUIPO DGA AL PROVEEDOR ABB, HACIENDO USO DE LA GARANTIA.
+
+JUAN CARLOS GRANADOS
+
+2019/01/18 DIEGO BEDOYA
+Se realiza el cambio de cilindro de Helio (He) en la fase T del banco 4, se deja el nuevo cilindro verificando que no tenga fugas en la válvula ni en el regulador. los datos que se tienen en el regulador son los siguientes:
+Presión de salida del cilindro: 175 Bar
+Presion de trabajo: 5,8 Bar.  

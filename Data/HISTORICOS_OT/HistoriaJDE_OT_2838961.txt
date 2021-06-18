@@ -1,0 +1,17 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LOS RADIADORES
+
+Ot: 2838961 - OM: Radiadores - Programador: Camilo Montagut - 29/10/2015
+
+Se realiza el overhaul mecánico de los radiadores. Se registra las actividades ejecutadas en el mantenimiento: 
+
+- Limpieza interna de toda  la tubería perteneciente a los radiadores
+- Limpieza de la tubería del intercambiador de calor de los radiadores
+- Cambio de empaquetadura en las tapas de los radiadores
+- Aplicación de epoxi alquitrán en las tapas de los radiadores
+- Pintura 
+
+Ejecuta: equipo mantenimiento mecánico GIII
+
+18/10/2015
+SE ENTREGA LA UNIDAD PARA EXPLOTACION COMERCIAL
+INFORMA: BIANEY BRAVO

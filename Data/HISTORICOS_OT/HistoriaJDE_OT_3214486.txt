@@ -1,0 +1,31 @@
+06/08/2016. WALTER TOBON.
+
+FALLA EN BOARD CPU GATEWAY SISTEMA MONITOREO SUBESTACION 230 TABLON, NO HAY COMUNICACION CON EL SISTEMA EN EL SCADA, 
+
+
+10/08/2016
+
+Se realiza verificacion de esta aplicacion y el equipo GATEWAY se enceuntra problemas en el inicio de WIndows , se realiza proceso de reinstalacion del sistema operativo y se encuetra falla en el inicio de WINDOWS devido a problemas en la Board y la memoria RAM, ademas la licencia se estravia. 
+
+realizado por Wtobonl
+
+15/08/2016
+
+Se inicia proceso de instalacion de este programa en un equipo provicional, ademas se incia el proceso de actualizacion de la licencia para rehabilitar de manera provicional el sistema, queda en espera de compra de esta licencia para continuar con el trabajo de adecuacion del programa y normalizar la aplicacion.
+
+realizado por Wtobonl
+
+
+02/09/2016
+
+Se inicia instala la aplicación AXON en un nuevo PC y se realiza instalación con un BACKUP del año 2015, queda pendiente actualizar la información con las últimas modificaciones además de que este equipo están en pruebas según su comportamiento, para luego realizar la compra de un equipo industrial para esta aplicación. NOTA: según el procedimiento enviado por el proveedor AXON no fue requerido realizar la compra de una nueva licencia para este equipo, pero si se requiere para la instalación en nuevo equipo.
+
+realizado por Wtobonl
+
+Terminada cerrar 
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+REALIZAR MANTENIMIENTO A LOS CONTROLADORES DE LAS CASETAS EN LA PRESA DE PORCE II.
+
+
+FECHA 01- ENERO-2014 OT# 2460585  PROGRAMADOR:JAIRO GUINGUER ,EJECUTANTE:DAVID ATEHORTUA.
+Se realiza mantenimiento general a la caseta, al igual que al tablero de las compuertas y al tablero de la RTU.
+

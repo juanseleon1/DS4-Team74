@@ -1,0 +1,4 @@
+2015/10/26 JHONATAN USME - SEBASTIAN HINCAPIE OT:2883267
+Se realizó limpieza revision geenral al tanque hidroneumatico, se aprovechó y se realizó el mantenimeinto a los dos compresores con los siguientes resultados: 
+EQUIPO: COMPRESOR 1 TANQUE HIDR. LA CLARA CORRIENTE: R:20,2, S:20,3, T:19,2, VOLTAJES RS:218, ST:218, TR:218, AISLAMIENTO DE MOTOR: 493 M Se realizó limpieza general, la medida de variables electricas se realizó en la OT del tanque hidroneumatico 
+EQUIPO: COMPRESOR 2 TANQUE HIDR. LA CLARA CORRIENTE: R:20,1, S:20,2, T:20,8, VOLTAJES RS:217, ST:218, TR:218, AISLAMIENTO DE MOTOR: 293 M Se realizó limpieza general, la medida de variables electricas se realizó en la OT del tanque hidroneumatico.

@@ -1,0 +1,9 @@
+XL: LIMPIAR Y VERIFICAR CONTROL AGUA SELLO +TAST, SISTEMA SELLO EJE TURBINA UNIDAD 
+
+
+05/11/2013
+
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas de los segmentos, se realiza verificación de los lazos profibus PA Y DP además de verificar la sincronización de la hora y fecha en el controlador e IHM.  Se encuentra el lazo profibus con problemas en el momento del mantenimiento se normaliza y queda en observación.
+
+Realizado por Walter Tobon

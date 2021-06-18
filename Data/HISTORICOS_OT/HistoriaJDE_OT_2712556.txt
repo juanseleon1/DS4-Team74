@@ -1,0 +1,18 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+MARZO 07 DE 2015
+
+FECHA 7 DE MARZO 2015.
+SOLICITANTES: JOHN JAIRO MENESE , ROBIN TAMAYO.
+EL MONITOR DE LA UNIDAD 2 DE GUADALUPE 3 DESDE EL DIA DE AYER NO PRENDE , FAVOR REVISAR. MUCHAS GRACIAS.
+
+ATT: JOHN JAIRO MENESE, ROBIN TAMAYO.
+
+08/MARZO/2015
+REFERENTE A LA U2 G3 PANTALLA UNIDAD: 
+Se reportó inicialmente que la pantalla no encendía y no mostraba ningún despliegue. 
+Después de revisarla se decidió cambiarla e instalar una nueva pantalla; se le instaló en sitio la aplicación y controladores , se descargan los bloques gráficos. 
+Se realizan pruebas de conexión y se comprueba el buen funcionamiento.  Se baja la pantalla defectuosa al laboratorio para su reparación.
+
+Ejecuto: Francisco Gonzales - Juan Caicedo
+Programador: Oscar Arango

@@ -1,0 +1,8 @@
+
+PARA DE EMERGENCIA
+ACTIVIDAD:
+
+octubre 16/2018 OT: 3769691  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+
+Se accionan los paros de emergencia de la Top Box, Bottom Box, Estación Hidráulica y Grúa, también se acciona de forma manual el sensor de vibración externa; con cada uno de estos accionamientos se comprueba la apertura de los Tip´s, la apertura del Main Switch y la activación del Safety Chain. 

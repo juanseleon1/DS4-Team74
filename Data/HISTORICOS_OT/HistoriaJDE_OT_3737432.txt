@@ -1,0 +1,16 @@
+Fecha de reporte falla: 15/06/2018 Reporta: Carlos Andrés Andrade
+Síntoma en Oficina: Intermitencia de señal de sensor de nivel paroscientific
+Fecha de atención falla: 21/06/2018
+Atiende: Raúl Mauricio Álvarez
+
+Diagnóstico de Oficina: Señal intermitente de sensores de nivel de embalse
+Modo de Falla: Fallos de sensor 
+Falla Inmediata: Intermitencia de señal
+Falla básica: Daños en sensor y sistema de conexión a tablero
+Recursos utilizados y sobrantes (de los solicitados en E1): Sensor reparado de la bodega, dos kit de radios freewave, regulador de 24 reutilizado de un acelerógrafo etna y se retorna a almacen general el sensor de burbujeo con código 116265 el cual no se utilizó por limitaciones en el rango de operación.
+
+Nota: Orden de trabajo en estado 35 debido a que se debe hacer reingeniería de la instalación. Actualmente los problemas de sensores y cableado ya no tiene reparación, por lo tanto se debe reinstalar el sistema.
+
+2018/11/15 se reestablece el sistema haciendo uso de un sensor reparado y sistema de comunicación inalábrico por medio de radio enlace. Para esto se solicitó apoyo de la central con la ubicación de una caja nema en pozo de aducción con energía regulada a 120VAC para alimentar el sensor y el radio esclavo.
+
+

@@ -1,0 +1,13 @@
+24/08/2016. 8:00.
+
+Se puede detectar y verificar que existe un desfase entre la señal digital y analoga o regleta del nive del embase  en la Bocatoma de G3, por lo tanto se solicita calibración y escalizacion en dicha señal y medida, por ser de caracter escencial en el proceso de producción electrica.
+
+Solicita : Centro de Control y Operación Guadalupe.
+
+Reaiza: Operacion . 
+
+Marlon Toro - Wilson Arango
+
+SE HACE UNA VERIFICACION FISICA DEL NIVEL DE CAPTACION GUADALUPE 3 Y SE PUEDE EVIDENCIAR EL DESFASE ENTRE LOS DOS NIVELES, ENTRE EL  DIGITAL Y LA REGLETA, SE LES HACE EL AJUSTE CORRESPONDIENTE Y LOS DOS NIVELES QUEDAN MARCANDO CORRECTAMENTE.
+
+REALIZO: UAIMER DIAZ Y JUAN CAICEDO. 

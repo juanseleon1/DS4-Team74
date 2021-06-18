@@ -1,0 +1,11 @@
+FECHA: 28/11/2017
+
+SOLICTANTE: DIOMER IGNACIO DIAZ 
+
+EJECUTANTE:
+
+NOTA 
+Se presenta un incremento anormal em la variable de nivel aceite cojinete superior el porcentaje de aceite presentado  es mayor a 75% provocando el disparo de la unidad, la variable registrada en el Scada es de mas de 82% y en el instrumento de control y mediad  FAFNIR tiene un valor de 55.5% medida real. 
+Nota :
+El setpoin de disparo por alto nivel se lleva al 142% para evitar nuevo disparo de la unida este ajuste es temporal mientras se atiende el evento, realizo Dionis Zapata
+

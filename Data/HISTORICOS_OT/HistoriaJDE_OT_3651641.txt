@@ -1,0 +1,3 @@
+2017/12/13 FARLEY GIOVANNY DIAZ
+Se realiza la inspección visual, medidas de escobillas del anillo superior e inferior, se registran en planilla y realiza el cambio de las escobillas que se encuentren con la medida mínima.
+2017/12/13- REALIZO: JEISON ORTEGA - JHONATAN USME - CARLOS SALAZAR- OT: 3651641MEDIDA DE ESCOBILLAS EN mm:A.S. 1A: 44,2A.S. 2A: 29,5A.S. 3A: 41,6A.S. 4A: 26,3A.S. 1B: 18,8A.S. 2B: 44,7A.S. 3B: 43,8A.S. 4B: 24,1A.I. 1A: 44,3A.I. 2A: 24,7A.I. 3A: 21,3A.I. 4A: 41,4A.I. 1B: 33,6A.I. 2B: 42,8A.I. 3B: 48,6A.I. 4B: 30,6OBSERVACIONES: Se realizó el cambio de la escobilla AI A3

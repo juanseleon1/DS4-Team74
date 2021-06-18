@@ -1,0 +1,12 @@
+2014/08/18 DANIEL LOPEZ TURNO 1
+REVISAR FLUJOMETRO COJINETE INFERIOR UNIDAD  1 POR SALIDA FORZADA CON 165 MW.
+
+
+
+19/09/2014
+
+la salida forzada del evento mensionado fue por la falla en el flujomentro del aceite en el cojinete combinado, devidi a la alta vibracion en este lugar que afecta el toroide de este flujometro, como accion de mejora se realiza modificacion en el control para evitar este disparo.
+
+Realizado por Wtobonl
+
+terminada Cerrar 

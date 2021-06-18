@@ -1,0 +1,15 @@
+
+
+SOLICITANTE: EQUIPO METROLOGIA                FECHA: AGOSTO/11/2015
+
+REALIZAR VERIFICACION METROLOGICA A TRANSMISOR TEMPERATURA CT U5 G3
+
+2015/08/11
+Se realiza la Inyeccion con el Calibrador de Procesos en diferentes valores de temperatura 55°c, 65°c y 75°c, comprobando la salida correcta hacia el control de unidad, segun el registro de calidad. 
+Se observa un comportamiento normal, segun la curva de verificacion.
+El registro de esta verificacion se encuentra en la siguiente ruta en el servidor:
+
+\\epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTRO.VERIFICACION.GUADALUPE.3\UNIDAD.5.GUADALUPE.3\261651TEMPERATURA.GUIA.TURBINA.G3.U5
+
+Programador: Oscar Arango
+Ejecuto: Francisco Gonzalez

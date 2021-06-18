@@ -1,0 +1,7 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 27-09-2019
+Tipo de mantenimiento: Retiro de la taraba
+Acciones de mantenimiento: 
+
+Retiro definitivo de la taraba.

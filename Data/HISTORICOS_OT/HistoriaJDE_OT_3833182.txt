@@ -1,0 +1,12 @@
+
+
+MAYO 03/2019  OT: 3833182  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO, CARLOS VALDELAMAR, ELIECER PUSHAINA
+
+Se realiza inspección al tablero de potencia Top Box y el generador, se encuentra falla entre dos devanados.
+Se desmonta el manguito del eje de alta velocidad al igual que el acople, y se retira la parte delantera del generador para mañana realizar inspección visual
+
+Tiempo: 5 horas
+
+MAYO 04/2019  OT: 3833182  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO, CARLOS VALDELAMAR, HENRY GIRALDO
+
+Se realiza limpieza con liquido dieléctrico en la parte delantera del generador, se realizan de nuevo las pruebas electricas de aislamiento y resistencia; se encuentra falla en devanado U y V. se coloca la tapa delantera del generador.

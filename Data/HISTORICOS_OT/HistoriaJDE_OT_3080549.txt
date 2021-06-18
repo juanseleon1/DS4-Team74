@@ -1,0 +1,7 @@
+16/04/2016 00:26
+
+Se encontró el Inyector nro. 4 bloqueado para abrir despues de estar sincronizada la Unidad con 26 Mw, carga que no subia a pesar de tener la consigna de 45Mw por el CCCG, se verificó y efectivamente estaba pegada al abrir, se forzo el actuador en dos ocasiones y en la segunda se logro dejar abierta y calibrada en el 67%, pendiente por revisar y normalizar.
+
+18/04/16 Informa Andres Arenas
+
+Se realiza cambio de la tarjeta Driver de la aguja #4 de la unidad G35 debido a que este presentaba problemas en el IGVT tambien se le cambia fusible, se realizan pruebas a todo el sistema de agujas evidenciando buena apertura y cierre de las mismas,se deja la maquina en condiciones de operacion.

@@ -1,0 +1,34 @@
+FECHA: 2015/02/12 PROGRAMADOR: WILMER DAVID MENDEZ CARO
+EJECUTANTES: 1997 / 7661
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:___3___________
+
+HOROMETRO:( H )___12330_________
+
+TIEMPO DE TRABAJO:( min.)____9 MIN 15 SEG________
+
+MW PLANTA: ___201____________
+
+
+Observaciones: SE EFECTUA MTTO PREVENTIVO ELECTROMECANICO EN CONJUNTO CON EL EQUIPO DE MTTO ELECTRICO. ________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

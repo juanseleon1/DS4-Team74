@@ -1,0 +1,5 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 12-02-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Realizar mtto, cambio y ajustes de cristales para realizar pruebas de factor de conversion.

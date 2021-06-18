@@ -1,0 +1,20 @@
+2018/04/25 _ CARLOS ENRIQUE MONCADA. OT N° 3713607.
+Se realiza mantenimiento , limpieza y reajuste de borneras a los tableros TUC 1 al 12 así:
+TUC 1: Se verifica estado de la IHM  del TUC 1 encontrandola MALA. Relé K 1 conectado. Transiver B200 sin Comunicación.
+TABLERO DE CONTROL UPS TUC 1Vin 120,8 VacVout 24,12 VdcVin Módulos 24,05 VdcVin Relé  K061Vin F211 24,11 Vdc PLCVin F231 24,11 vdc IHMTUC 2: Relé K 1 conectado.
+TABLERO DE CONTROL UPS TUC 2K061 209,1 210,1 209,9 VacF012 209,1 210,3 210,3 VacQ0 209,2 210,2 209,9 VacIHM F231 23,09 VdcPLC F211 23,57 VdcMODULOS F 201 23,75 VdcG001 Vin 120,1 Vac 24,06 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Errada Hora: ErradaTUC 3: No se visualiza el cierre de las cargas de reserva en la IHM.
+TABLERO DE CONTROL UPS TUC 3K061 209,19 210,1 209,9 VacF012 209,1 210,3 210,3 VacQ0 209,2 210,2 209,9 VacIHM F231 23,09 VdcPLC F211 23,57 VdcMODULOS F 201 23,75 VdcG001 Vin 120,1 Vac 24,06 VdcCable K1 2A (-202:2A)TUC 4:
+TABLERO DE CONTROL UPS TUC 4K061 209,2 210,2 209,9 VacF012 209,2 210,2 209,9 VacQ0 209,2 210,2 209,9 VacIHM F231 23,11 VdcPLC F211 23,6 VdcMODULOS F 201 23,85 VdcG001 Vin 120,5 Vac 24,07 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Correcta Hora: ErradaTUC 5:
+TABLERO DE CONTROL UPS TUC 5K061 209,1 210,1 209,9 VacF012 209,1 210,3 210,3 VacQ0 209,2 210,2 209,9 VacIHM F231 23,09 VdcPLC F211 23,57 VdcMODULOS F 201 23,75 VdcG001 Vin 120,1 Vac 24,06 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Errada Hora: ErradaTUC 6:
+TABLERO DE CONTROL UPS TUC 6K061 208,9 210,1 209,6 VacF012 208,9 210,1 209,6 VacQ0 209 210,2 209,7 VacIHM F231 23,2 VdcPLC F211 23586 VdcMODULOS F 201 23,79 VdcG001 Vin 120,5 Vac 24,07 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Correcta Hora: ErradaTUC 7: Falta el Transiver. No comunicación.
+TABLERO DE CONTROL UPS TUC 7K061 208,9 210,1 209,6 VacF012 209,4 210,6 209,6 VacQ0 209 210,2 210,3 VacIHM F231 23,2 VdcPLC F211 23586 VdcMODULOS F 201 23,77 VdcG001 Vin 120,5 Vac 24,07 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Correcta Hora: ErradaTUC 8: Relé K 1 desconectado y bornera abierta.
+TABLERO DE CONTROL UPS TUC 8K061 206,2 210,1 208 VacF012 208,2 209,1 209,6 VacQ0 209 210,2 210,3 VacIHM F231 23,2 VdcPLC F211 23586 VdcMODULOS F 201 23,77 VdcG001 Vin 120,5 Vac 24,07 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Correcta Hora: ErradaTUC 9: Discordancia en fecha de la IHM con fecha actual. Se realiza verificación de apertura de gargas de reserva y se verifica en IHM,
+TABLERO DE CONTROL UPS TUC 9K061 209 210,2 209,3 VacF012 209,4 210,1 209,1 VacQ0 210,2 209,4 209,8 VacIHM F231 23,25 VdcPLC F211 23,68 VdcMODULOS F 201 23,84 VdcG001 Vin 120,4 Vac 24,02 VdcCable K1 2A (-x202:4B) Desconectado del Relé K1. (-202:2A) Bornera seccionable abierta.TUC 10: El PLC no presenta alarmas y ninguno de los modulos alarmados, Se realiza verificación de apertura y cierre de cargas de reserva en IHM.
+TABLERO DE CONTROL UPS TUC 10K061 209,2 210,1 210,2 VacF012 209,3 210,2 210,1 VacQ0 209,2 210,1 210,1 VacIHM F231 23,18 VdcPLC F211 23,66 VdcMODULOS F 201 23,85 VdcG001 Vin 120,1 Vac 24,08 VdcCable K1 2A (-202:2A)En la IHM  Fecha: Correcta Hora: CalibrarTUC 11: El Touch de la IHM esta malo.
+TABLERO DE CONTROL UPS TUC 11K061 209,2 210,1 210,2 VacF012 209,3 210,2 210,1 VacQ0 209,2 210,1 210,1 VacIHM F231 23,18 VdcPLC F211 23,66 VdcMODULOS F 201 23,85 VdcG001 Vin 120,1 Vac 24,08 VdcTUC 12: Sistema sin Comunicación(Puntos Rojos). Falta Transiver de FO B200.
+TABLERO DE CONTROL UPS TUC 12K061 209,2 210,1 210,2 VacF012 209,3 210,2 210,1 VacQ0 209,2 210,1 210,1 VacIHM F231 23,18 VdcPLC F211 23,66 VdcMODULOS F 201 23,85 VdcG001 Vin 120,1 Vac 24,08 Vdc
+------------------
+
+2018/04/16 _ CARLOS ENRIQUE MONCADA. OT N° 3713607.
+Se crea OT para el mantenimiento de los tableros de control de UPS TUC 1 al 12.
+

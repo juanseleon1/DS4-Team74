@@ -1,0 +1,2 @@
+2018/04/16, RUBEN ARBOLEDA
+Se crea ésta OT para realizar pago al inventario de Escobillas y Liencillo, en la OT anterior no se cargaron los amteriales.

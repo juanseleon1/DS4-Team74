@@ -1,0 +1,7 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2016/05/19 ANGEL ADONIS CADAVID OCHOA
+OT PASA A ESTADO PROGRAMACION
+
+2016-09-16 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3089065, PASO:1          
+Se realizó mantenimiento al ventilador E2 con el siguiente diagnostico: El ventilador E2 requiere de paro, ya que presenta alta temperatura en una de las fases en la gaveta, ver página 5 del informe anexo: La temperatura en la salida de PEINETA fase T se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 50.°C, lo cual implica una deficiencia mayor en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.Por lo tanto Juan García y Oscar Giraldo realizaran el paro de dicho ventilador, ya que no cuenta con señal de control desde estación de operación debido a que los cables de control se quemaron en el incendio de los cables de potencia. Se hace OT correctiva: 3247515 y se anexa el informe a la OT.

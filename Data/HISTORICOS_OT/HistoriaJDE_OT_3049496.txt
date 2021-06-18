@@ -1,0 +1,7 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo del malacate
+
+Ot: 3049496 - Mantenimiento preventivo malacate - Programador: Camilo Montagut - 15/03/2016
+
+Se realiza mantenimiento preventivo en los equipos del malacate. A continuación se registran las tareas ejecutadas:
+
+ - Inspección de de la caja de engranajes. Se retira la tapa del reductor y se verifica el estado de los engranajes encontrándose en muy buen estado. Queda pendiente realizar muestreo del aceite y realizarle análisis de laboratorio 

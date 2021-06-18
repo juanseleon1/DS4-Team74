@@ -1,0 +1,6 @@
+FECHA: 2016-06-13 PROGRAMADOR: 591910
+EJECUTANTES: 856991 - 7661
+EVENTO: MANTENIMIENTO PREVENTIVO.
+
+
+Temperatura  33°CVibraciones puntos de medición1 vertical al piso Rod. 1 motor lado libre 3.4 mm/seg pico1 horizontal al piso Rod. 1 motor lado libre 1.8 mm/seg pico2 vertical al piso Rod. 2 motor lado acople 2.9 mm/seg pico2 horizontal al piso Rod. 2 motor lado acople 6.1 mm/seg picoPresión salida  130 PSIRPM 3552

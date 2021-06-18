@@ -1,0 +1,25 @@
+MANTENIMIENTO PREVENTIVO SERVICIOS AUXILIARES ELECTRICOS GUADALUPE III.
+
+
+OCTUBRE 5 DE 2018
+Referente a los servicios auxiliares Guadalupe III. Se realizó mantenimiento general eléctrico, limpieza a tableros y cables de potencia, revisión de barrajes, bornes de control, e interruptores. Dichas actividades fueron realizadas a los tableros de servicios auxiliares 208/120 Vac, servicios auxiliares 440 Vac y servicios auxiliares de 125 Vcc. Encontrando todos los sistemas en condiciones normales.
+OT: 3771811
+Realizó: Grupo eléctrico.
+Informó: William Lopera.
+
+Referente a cargadores de batería 125 Vcc Guadalupe 3, se realizó mantenimiento preventivo electrico a los cargadores número 1 y 2 con su respectivo banco de baterías, se extrae cada uno de los módulos se hace mantenimiento y se vuelve a insertar, se toman medidas de voltajes a cada una de las baterías encontrándose en 2.2 Vcc  con un total de 60 celdas  para un voltaje total de 134.1 Vcc con una corriente de 3.5 amperios. Se normaliza los cargadores y queda todo en condiciones normales.
+Realizó: Grupo eléctrico.
+Informó: William Lopera.
+
+Referente a la UPS Guadalupe III, Se realizó mantenimiento al banco de baterías de la ups y se realizó pruebas de autonomía del banco apagando la alimentación principal, operando correctamente el inversor de la ups durante una hora y media, se toman valores de voltajes de cada una de las baterías  cada 30 minutos  con un voltaje en el bus DC  de 208 Vcc y 12.6 Vcc en cada una de las celda hasta finalizar la prueba, con una corriente total del banco de 28 amperios y con un voltaje de salida de la ups de 122-121y 118 Vac en cada una de las fases con respecto al neutro, 206 Voltios entre fase y fase con una corriente de carga de 18 amperios en cada fase. Se normaliza la alimentación y queda la ups en condiciones normales.
+Realizó: Sergio Areiza - Jorge Echeverri - William Lopera.
+Informó: William Lopera.
+
+
+
+
+
+
+
+
+

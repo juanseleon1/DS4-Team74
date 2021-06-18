@@ -1,0 +1,9 @@
+2016-06-03. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE NO RESET EL RELÉ DE BAJO VOLTAJE BARRA 1.
+
+2016/06/03 ANGEL ADONIS CADAVID OCHOA
+PARA A PROGRAMACION, ASIGNADA A EQUIPO ELECTRICISTA.
+
+2016-11-06 REALIZÓ: RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3134616, PASO:1          
+En el sistema de información había una OT de los S.A de las Unidades 5 y 6 acerca del relé de bajo voltaje que no hacia reset, se realizó revisión de éste relé y se encontró en condiciones normales, se cerró la OT.

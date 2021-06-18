@@ -1,0 +1,4 @@
+FECHA: OCTUBRE 25/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: JORGE E. MUÑOZ.
+Se realiza limpieza general y revision de conexiones segun procedimiento en la OT, se toman registros de los motores.
+
+XE: VERIFICAR, INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCT DE LA UNIDAD

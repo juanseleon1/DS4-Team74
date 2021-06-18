@@ -1,0 +1,10 @@
+05/12/18 CESAR AUGUSTO HOYOS HENAO.
+Realizar medida de aislamiento a los devanados del motor y revisión de la calefacción antes de la puesta en servicio.
+
+2018-11-06 REALIZÓ: OSCAR ALIRIO GIRALDO - OMAR SANCHEZ (OPERADOR),  PROGRAMO: RARBOLG OT: 3781549, PASO:1-1,1          
+Se realizó medida de aislamiento al motor de la motobomba 1 de refrigeración la Clara, se encontró en 1,4MOhm, se aplicó 1.000VDC, se desacopló el cableado y se midió así: 
+Cable Fase R: 7GOhm
+Cable Fase S: 2,63GOhm
+Cable Fase T: 35,7MOhm
+Motor: 1,4MOhm
+Se realizó limpieza general al sitio, adicionalmente se realizó revisión de la calefacción del motor y se encontró fusible fallado, se realizó el cambio por uno de la bomba 5 y se dejó calentando para posteriormente realizar otra medida.

@@ -1,0 +1,9 @@
+2015-11-11. JUAN C DUARTE MUÑOZ.
+
+VERIFICAR LA ALARMA TIERRA BATERIAS QUE SE PRESENTA EN GENERAL I ETAPA EN EL MOMENTO DE ENERGIZAR LAS UNIDADES. QUEDA PENDIENTE.
+
+
+2016/04/21 - 2016/05/02 GIOVANNY DIAZ - FERNANDO RUIZ, PROGRAMO: RARBOLG
+Se realizó identificación de algunas fallas en diferentes zonas, algunas ocasionadas por falla en los cables de potencia del evento ocurrido el 15 de febrero de 2016, se abrieron las bornetas que coprresponden a los cables de control entre casa de maquinas y el portal, pertenecientes a señales y que fueron quemados en el siniestro. 
+
+Se dejó en condiciones normales.

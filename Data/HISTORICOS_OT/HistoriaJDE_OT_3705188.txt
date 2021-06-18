@@ -1,0 +1,18 @@
+31 DE MARZO DE 2018 IVAN DARIO ZAPATA GOMEZ
+EL COJINETE INFERIOR DE LA UNIDAD 1 DE TRONERAS ESTA PRESENTANDO INCREMENTO DEL NIVEL DIGITAL (PANTALLA) Y NO TIENE CONDICIONES DE MAQUINA LISTA PARA ARRANQUE. 
+SOLICITADO POR CARLOS ALBERTO TORRES MESA
+EXTENSION: 9520  9886
+
+PLANEADOR:OSCAR RESTREPO
+
+PROGRAMADOR:CAMILO MONTAGUT
+
+MARZO 31 DE 2018
+
+Ot: 3705188 -  Incremento de nivel digital - Programador: Camilo Montagut - 04/04/2018
+
+Se toma medidas físicas del nivel del cojinete y no se encuentran variaciones reales en el mismo. Se verifica el funcionamiento del presostato diferencial del mismo cojinete realizándole purga de aire con la válvula de venteo normalizando la medida del instrumento.
+
+Queda pendiente seguir verificando el trabajo del instrumento.
+
+Ejecuta: equipo mantenimiento mecánico

@@ -1,0 +1,9 @@
+XL: LIMPIAR Y VERIFICAR  CONTROL DEL EQUIPO HIDRAULICO TUH DE LA UNIDAD
+
+
+20/05/2015
+
+Se realizó mantenimiento según instructivo. Además de verificación de la instrumentación  generando señales en cada una de las medidas análogas, se realizan pruebas de carga y descarga de la estación hidráulica con las bombas. Para verificar los puntos de paro y arranque de las bombas, además se toman los datos del lazo de control en el distribuidor y se verifican los PICKUP de velocidad.
+
+SENSOR CG161  MAX 92.70MIN1.01SENSOR CG162MAX 92.09MIN0.45POSICION SERVO0%0100%100.02
+Realizador por Wtobonl

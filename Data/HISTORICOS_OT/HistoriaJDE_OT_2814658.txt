@@ -1,0 +1,16 @@
+PLANEADOR: BIANEY BRAVO VALENCIA: JULIO /2015.
+MANTENIMIENTO MAYOR UNIDAD 1 DE GUADALUPE 3. BALANCEO DE LA UNIDAD
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el balanceo dinámico de la unidad en coordinación de los ingenieros Pablo Gómez y Yofred Rodríguez
+
+Para el proceso de balanceo se instalo sensores inductivos en el cojinete inferior y en el cojinete de turbina, al igual que comparadores de carátula, los cuales nos dieron buena señal de que en el proceso de balanceo no era necesario adicionar algun adendo
+
+Para mayor información remitirse a la bitácora de la unidad
+
+Ejecuta: equipo mantenimiento mecánico GIII
+
+18/10/2015
+SE ENTREGA LA UNIDAD PARA EXPLOTACION COMERCIAL
+INFORMA: BIANEY BRAVO

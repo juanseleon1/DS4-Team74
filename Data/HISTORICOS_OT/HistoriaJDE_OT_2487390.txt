@@ -1,0 +1,4 @@
+MAR 19/2014 OT: 2487390 PROGARAMÓ: Javier Giraldo EJECUTÓ: Saúl Correa.
+Se realizó el mantenimiento según el instructivo GCTRE0003.
+
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABESAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.

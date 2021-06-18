@@ -1,0 +1,15 @@
+13/08/2018 María Isabel Arias Rendón
+Realizar inspección operativa para verificar que el compresor no presenta ruidos anómalos, calentamientos, que el ciclo de trabajo es adecuado, verificar que el aceite no presenta degradación, los filtros del compresor están en buenas condiciones. 
+En caso de encontrarse alguna evidencia que pueda indicar falla del sistema debe ser reportada. 
+
+2018/09/03 DIEGO BEDOYA
+En revision del compresor Nº2, se identifica que el display no funciona, además por información suministrada por el señor Ivan Zuluaga el compresor no prende. 
+
+2018/11/01 DIEGO BEDOYA
+Se envia personal para revisión de las lineas de aireación, se corrigen problemas en lineas con la manguera reventada y se deja trabajando la linea 
+
+2019/3/18 VICTOR ZULETA
+ SE VERIFICA EL ESTADO DE LA PANTALLA TACTIL CON FUENTE EXTERNA ENCONTRANDOSE EN PERFECTO ESTADO (ALIMENTACION 24VAC)
+ SE ENCUENTRA TRANSFORMADOR DE VOLTAJE DEFECTUOSO DE RELACION 480/230 VAC. 
+ SE ENCUENTRA FUSIBLE DE 4 AMP 10*38 ABIERTO.
+ SE LE INFORMA A LA PARTE ELECTRICA DE LA FALLA DEL TRANSFORMADOR PARA SU GESTION, ADEMAS DEL FUSIBLE FALTANTE.

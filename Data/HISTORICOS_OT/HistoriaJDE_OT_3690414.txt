@@ -1,0 +1,7 @@
+2018/02/21 RUBEN ARBOLEDA
+Se crea OT para revisión del transformador 3 de I etapa, se encuentra apagados circuitos de Operación, Herramientería y cocineta. 
+
+2016-02-21 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3690414, PASO:1          
+Se realizó una revisión al transformador numero 3 de alumbrado y tomas en casa de maquinas Guatape, se encontró falla en la fase R a la salida del trasformador, se realizó mantenimiento correctivo con Soldadura oxiacetilénica y varilla de acero plata. 
+Para esto fue necesario sacar de servicio el alumbrado de la zona central de casa de maquias sin impactos mayores al mantenimiento de casa de máquinas. 
+Se energizó y se dejó en condiciones normales

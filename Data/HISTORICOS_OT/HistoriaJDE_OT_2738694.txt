@@ -1,0 +1,10 @@
+
+Fecha: Lunes 13 Abril de 2015
+
+Referente a la unidad 2:
+A las 17:30 en la secuencia de arranque de la unidad se da Paro Rapido 86R por falla en organo de guarda (VE). Se normaliza la unidad y se ejecuta nuevamente secuencia de arranque en automático y vuelve a generarse Paro Rapido al inicio de la apertura de la válvula esférica. Se solicitó redespacho de los periodos 21-22-23-24 para analizar las fallas agrupadas del organo de guarda (VE). Se cambio válvula soleniode de apertura de VE, se calibró microsuiche de confirmación de sello de servicio desaplicado, se habilita puente en la bornera BN21 del tablero TCV entre los bornes 67-74. Se normaliza la unidad y se ejecuta secuencia "Giro mecánico" evidenciando comportamiento normal en la apertura de la VE y se procede a dar comando de paro normal. A las 23:23 se ejecuta nuevamente la secuencia de arranque hasta energizada y se genera Paro Rápido 86R al inicio del movimiento de la VE. Se procede entonces a dar arranque modo paso a paso de la unidad y se sincroniza a las 23:39 con 110 MW para cumplir programa de generación AGC. En este último paro se analizaron los eventos y se evidencío "Falla hidraulica VE" en el SCADA. Esta falla esta asociada a falla de los sensores de posición de la VE, los cuales se revisaran cuando la unidad pare por operación.
+OT: 2738694   -   # Horas Unidad: 72556
+Informarón: Vicente Gamboa, Gabriel Naranjo, Francis Londoño, Jairo Guinguer y Santiago Ramirez.
+
+Referente a la unidad # 2:                                                                                                  Con el informe del 5 de mayo, se cambia valvula selenoide BF se observo que se enrgizaba la electro válvula y la válvula de admision no abre, se realizan pruebas de apertura y cierre de de la válvula en modo manual y luego se gira la unidad observandose un buen comportamiento durante la secuencia , tambien se aumenta el tiempo de la falla hidraulica de la falla de 10 a 20 segundos.                                               
+Informan: Jairo Guinguer, Francis Londoño y Jorge Rodriguez

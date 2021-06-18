@@ -1,0 +1,8 @@
+2018-05-22 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: SOLIVARE OT: 3692585, PASO:1           
+Se realizaron las operaciones de desconexión y conexión del trafo, ejecutándose normalmente en remoto por orden de  operador.
+ Se realizo:
+ 1. Revisión de las conexiones en alta y baja, encontrándose normales.
+ 2. Revisión de calefacción: normal
+ 3. Ajuste de borneras.
+ 4. Limpieza general.
+     

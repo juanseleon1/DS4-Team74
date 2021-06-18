@@ -1,0 +1,10 @@
+01/04/17
+Se le dio arranque al generador 6 y no funciono el Sistema de recirculacion de aceite del cojinete superior, mostrando Alarma por sobrecarga en las dos motobombas, no fue posible entrarlas en servicio ni en automatico ni en manual, se le informo al ingeniero de turnno.
+ABAD RAMIREZ
+
+
+02/04/2017. SERGIO OLIVARES D.
+
+En la falla de sobrecarga de las dos motobombas del cojinete superior de la Unidad N°6, se encontraron los dos motores en dos fases. En caja de borneras de cada motor se evidencio humedad generada por goteras del piso de control cuando se hizo el pulimiento del piso de control generando descargas a tierra y oxidacion, por lo cual creó corto-circuitos dentro de la caja,falla en los cables y calentamientos en las borneras. Se hizo la reparacion correspondiente, las borneras fueron cambiadas como tambien algunos terminales. Se verifico sentidos de giro dejando todo normal.        
+            
+ Aislamiento: Motobomba N°1 = 2.05 M. Motobomba N°2 = 2.04 M

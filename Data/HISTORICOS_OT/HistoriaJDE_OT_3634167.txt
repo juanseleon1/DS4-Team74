@@ -1,0 +1,8 @@
+
+2017/11/09 _ CARLOS ENRIQUE MONCADA. OT N° 3634167.
+Referente a la Unidad N° 2 Regulador de Tensión:
+Se habilitan y configuran los disparos por temperatura banco de tiristores AVR1 y AVR2 los cuales quedan en 90°C, además se habilita el relé de vigilancia de tensión para el arranque de los ventiladores de ambos AVR el cual queda en 382V mínima y 492V Máxima . También se normalizan los pulsos de los Tiristores en el AVR los cuales se encontraron trocados: tiristores 1 y 4.
+La CPU del canal N° 2 Se está disparando aleatoriamente , queda pendiente de cambiar esta tarjeta por lo tanto queda disponible el canal N° 1.
+NOTA: Para restablecer LA CPU del canal N° 2 debe abrirse su interruptor de alimentación.
+Realizado Por : Grupo Electrónico: Carlos Moncada, Eladio Piedrahita, Jeniffer Garcia, Julio Parra, Nestor Ochoa, Oscar Adrian Duque, Walter Tobón.
+

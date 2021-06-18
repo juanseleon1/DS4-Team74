@@ -1,0 +1,11 @@
+
+Planeador:                           Hernando Alonso Castrillón T.
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              20/11/2017
+Tipo de mantenimiento:    Aforo líquido 
+
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+ Limpieza de estación
+              Verificación del nivel de mira vs. Sensor
+              Aforo Líquido

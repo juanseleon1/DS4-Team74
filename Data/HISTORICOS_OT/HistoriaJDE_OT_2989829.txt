@@ -1,0 +1,48 @@
+FECHA: JUEVES28/01/2016
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: DARIO ATEHORTUA, RICAURTE LOPEZ. 
+ASOCIADO A LA OT:2989829
+ASUNTO: REALIZAR MP PROGRAMADO.
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  ______678 HORAS________
+
+PRESION DE ARRANQUE: _____54 BAR_________
+
+PRESION DE PARO: _____61 BAR_________
+
+TIEMPO DE TRABAJO: ______633´________
+
+TIEMPO DE REPOSO: ______________
+
+TENSION DE BANDAS EN MM. ______________
+
+TEMPERATURA CARCAZA MOTOR: _____38°C_________
+
+TEMPERATURA CARCAZA UNIDAD:_____35°C_________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:____MIERCOLES 16/09/2015__________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:______________
+
+
+
+
+Observaciones:_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

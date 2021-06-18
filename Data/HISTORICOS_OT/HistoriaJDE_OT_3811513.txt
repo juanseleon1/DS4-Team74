@@ -1,0 +1,5 @@
+2019/02/08 RUBEN ARBOLEDA
+Se crea OT para realizar apoyo al personal de mantenimiento mecánico para la revisión de la valvula piloto del regulador hidraulico.
+
+2019-02-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3811513, PASO:1          
+Se realizó acompañamiento al personal de mantenimiento mecánico para la revisión de la valvula piloto de la Unidad 3, se encontró que ésta se encontraba en posición de apertura y no cerraba, se realizó un desarme mecánico, se limpió y se pulió, se armo y se dejo en condiciones normales.

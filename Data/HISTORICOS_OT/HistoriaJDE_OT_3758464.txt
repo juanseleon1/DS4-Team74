@@ -1,0 +1,29 @@
+FECHA: Septiembre 27/2018PROGRAMO: Daniel Palacios EJECUTO: John Jader Orrego, Frank Córdoba, Julián Camilo Giraldo
+
+Se realiza inspección visual y limpieza del barraje y cables secos y terminales de MT, se verifica el buen estado de las puestas a tierra, cableado, conexiones y componentes eléctricos, se verifica el buen funcionamiento de la calefacción y de los extractores de aire, se aspira y se hace limpieza a las bobinas del transformador, se aspira y se hace limpieza interna y externa al cubículo del transformador. Se realizan pruebas de aislamiento utilizando equipo de medida de aislamiento marca MEGGER, dando los siguientes resultados:
+BOBINA DE ALTA CON BOBINA DE BAJA: (515 VDC)
+2u (480) - U= 78.5 G.
+2v (480) - V= 73.0 G.
+2w (480) - W= 77.4 G.
+
+2u (208) - U= 82.8 G
+2v (208) - V= 77.4 G
+2w (208) - W= 72.2 G
+
+BOBINA DE ALTA CON TIERRA: (515 VDC)
+U= 25.9 G.
+V= 27.3 G.
+W= 27.6 G.
+BOBINA DE BAJA CON TIERRA: (514 VDC)
+2u (480)= 44.1 G.
+2v (480)= 33.4 G.
+2w (480)= 37.6 G.
+
+2u (208)= 45.2 G.
+2v (208)= 37.4 G.
+2w (208)= 39.9 G.
+
+Trabajo ejecutado por: John Jader Orrego, Frank Córdoba, Julián Camilo Giraldo.
+
+FECHA:26 Y 27 DE SEPTIEMBRE DEL 2018 PLANEADOR:LUIS FEDERICO ALVAREZ ALVAREZ
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y LIMPIEZA DEL TRANSFORMADOR DE AUXILIARES, Y CELDA DE TRAFO, SE INSPECCIONAN VISUALMENTE LOS DEVANADOS, BORNES Y CONEXIONES, TAMBIEN EL RELE DE PROTECCIONES, Y LAS BARRAS DE NEUTRO FASES Y CONEXION A TIERRA, SE DEBEN DESCONECTAR TODOS LOS DEVANADO Y REALIZAR LAS PRUEBAS ELECTRICAS DE RUTINA Y REGISTRAR LOS DATOS OBTENIDOS.

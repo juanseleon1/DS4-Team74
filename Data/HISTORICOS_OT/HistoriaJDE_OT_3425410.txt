@@ -1,0 +1,25 @@
+MANTENIMIENTO GENERAL MOTOBOMBA CI BCE 2 UNIDAD 1 CENTRAL PORCE 2.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones. 
+4. Inspeccionar fugas. 
+5. Revisar alineación. PENDIENTE
+6. Verificar estado general exterior (pintura). 
+INFORMACION SOBRE LA EJECUCION DE LA OT
+TEMPERATURA DEL MOTOR ªC
+TEMPERATURA DE LA BOMBA ªC
+
+INFORMACION ACERCA DE LA EJECUCION DE LA OT
+- SE REALIZA LIMPIEZA GENERAL
+- SE REVISAN ANCLAJES Y TORNILLERIA
+- PINTURA EN BUEN ESTADO
+- TEMPERATURA DEL MOTOR 41°C
+- TEMPERATURA DE LA BOMBA 44°C
+
+

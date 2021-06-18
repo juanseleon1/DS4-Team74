@@ -1,0 +1,14 @@
+07/01/2018
+FALLA EN PROCESO DE ARRANQUE DE LA UNIDAD, ADEMAS SE FALLA LA IHM QUEDANDO SIN APLICACIÓN PARA VISUALIZAR LOS EVENTOS.
+REALIZADO POR WALTER NOE  Y FERNANDO LOPERA
+
+07/01/2018
+
+Se realiza actualizacion de la aplicación en la IHM de la unidad , quedanto operativa pero se recuerda a los operadores que esto no indispone la unidad y que ademas se cuenta con la visualización en el sistema SCADA para estos eventos. 
+En el analizis de eventos se encuentra que al parecer la causa de la no confirmación de grupo listo en la unidad durante el paso de arranque en la secuencia del paso 8 , esto es causada por la confirmacion en la tension de la unidad 90 % 
+Se recomienda tener presente en la secuencia de arranque de la undiad y visualizar en la bornera BN9A borne 58 medir la confirmacion de la variable T_U90 del PLC .
+
+REALIZADO POR WTOBONL
+
+terminado cerrar
+

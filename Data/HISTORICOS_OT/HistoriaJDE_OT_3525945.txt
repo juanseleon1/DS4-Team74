@@ -1,0 +1,4 @@
+CE: TERMOGRAFIA EQUIPOS ANEXOS A LA UNIDAD
+
+   ESTE PROCEDIMIENTO APLICABLE A LOS SIGUIENTES EQUIPOS DE LAS UNIDADES    GENERADORAS Y SE REALIZA EN LINEA: - ANILLOS ROZANTES - BARRAJE SALIDA ESTATOR - NEUTRO TIERRA  - INTERRUPTOR CAMPO - EXCITACIÓN PRINCIPAL - TRANSFORMADOR S. AUX - TABLERO DIST PPAL S.AUX  - REGULADOR HIDRAULICO   - MOTOBOMBAS REFRIGERACION - MOTOBOMBAS CIRC ACEITE CGS - MOTOBOMBAS REFRIG COJINETE  - BANCO TRANSFORMADOR - SECCIONADORESJorge Alirio Hernandez Quintero martes 4 julio de 2017
+se realiza la termografia  a los diferentes equipos y se encuentra normal, no se puede realizar informe ya que los puertos de los computadores se encuentran bloqueados por seguridad informatica , no se puede utilizar el software.

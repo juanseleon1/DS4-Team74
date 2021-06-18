@@ -1,0 +1,9 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION CGT CENTRAL PORCE 2.
+
+Se revisan sensores de vibración, encontrando el sensor  CTPL 8.55VDC  y CTPR se encontró en 10.89VDC.
+
+Se realizo verificación de alarmas y disparos, según formato de inyección de señales, que se encuentra en la siguiente ruta: \\Wperezg5\MTTO UNIDADES GPEPORCE\MTTOPII2013 limpieza de cada una de las RTD asociadas a cojinete.
+
+Se realizo inyección de señales de temperatura
+PATRÓN SEG1 SEG2 ACEITE40° 40,0 40,0 3960° 60,0 60,0 5980° 80,0 80,0 78ALARMA 75,0 75,0 70DISPARO 80,0 80,0 75 
+

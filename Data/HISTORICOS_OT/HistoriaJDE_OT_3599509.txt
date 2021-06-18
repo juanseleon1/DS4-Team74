@@ -1,0 +1,4 @@
+Realizar Protocolo de Alarmas y Disparos de la unidad 1
+
+JORGE ALIRIO HERNANDEZ QUINTERO 19/09/2017
+Se realizan pruebas eléctricas de alarmas y disparos de la unidad, banco de transformadores, se prueban las secuencias de paro y funcionan bien.

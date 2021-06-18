@@ -1,0 +1,11 @@
+
+ OCTUBRE 29 DEL 2015 / JEOVANNY CORREA G
+
+ Revisar el módulo de vibraciones unidades 1-3, el cual saca la alarma por falla. 
+
+30/OCTUBRE/2015
+Se revisa la señal de supervision de modulos de sistema de vibraciones "vibrosystem" y se encuentra cable suelto en la bornera de entrada a la RIO, lo cual ocasionaba que el control de unidad no tuviera el 1 logico presente en la entrada digital y por esto mostraba el texto "falla modulo".
+Se procede a colocar nueva puntera al cable de control y se reapreta el borne a la salida del sistema de vibraciones.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

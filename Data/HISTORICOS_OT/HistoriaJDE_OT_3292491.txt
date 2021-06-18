@@ -1,0 +1,10 @@
+Se crea ot para el registro de tiempos y actividades en el montaje de la válvula cheque en el sistema de aire comprimido de la unidad 1. La idea es ubicar el cheque en la entrada del aire al tanque acumulador
+
+
+Programador: Camilo Montagut - 2016/11/01
+
+Se realiza el montaje de una válvula cheque en la entrada de aire al tanque acumulador de la unidad (circuito hidráulico). Se hacen las pruebas respectivas y se verifica  que no quedan fugas de aire
+
+Ejecuta: equipo manteninimiento mecánico GIII
+
+

@@ -1,0 +1,6 @@
+FECHA: 14/11/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+DESCRIPCIÓN: Por favor revisar la IHM del tablero +TCU5 correspondiente al control unidad de la unidad 5 de Guadalupe III, ya que inicializar el programa Digivis aparece: “ Error inicializando archivos DLL” . Debido a este error, no se pueden realizar maniobras locales.
+15-11-2018
+planeador carlos giordanelli
+programador jose montoya
+se realiza reset de la pantalla del controlador de la unidad y se reinicia el programa del Digivis y queda trabajando bien

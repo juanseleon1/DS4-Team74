@@ -1,0 +1,18 @@
+Jueves 19 de junio de 2014
+
+16:38: Sale la unidad 1 por paro rapido 86R. El paro se genera desde el sistema TCSR durante el procesos de cambio de un modulo fallado. El turno de operacion normaliza la unidad dando condiciones y sincronizando a las 17:07. Se hace necesario establecer la cuasa por la cual al cambiar el modulo el sistema envio para rapido ya que esto no deberia suceder.
+
+Waler Tobon continua con el analisis del evento.
+
+Durante el paro rapido, el sistema contra incendio del recinto del generador se activa. Se desconocen las causas. Se analizan las tempertauras del estator y del rotor y todas estan en rangos normales.
+
+Informa: Sandra Carmona
+
+
+20/06/2013
+
+La causa de la salida forzada en  la unidad 3 se debió a una falla ocasionada en el modulo de entradas analógicas el cual al reiniciarse falla el esclavo del PLC y por esta falla el PLC para las bombas de refrigeración  al detectar una falla grave en el hardware  dejando sin flujo el sistemas de los sellos.
+
+Terminada
+
+Realizado Por Wtobonl 

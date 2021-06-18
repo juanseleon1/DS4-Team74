@@ -1,0 +1,2 @@
+2016/04/21 - LONDOÑO OCAMPO EDWAR ALEXANDER - HINCAPIE HURTADO SEBASTIAN - GARCIA GARCIA JUAN DAVID - ORTEGA JIMENEZ JEISON ALBERTO - USME QUICENO JHONATAN ANDRES OT: 3108097
+Se realizó el movimiento del cable desde la unidad 5 hasta la unidad 2 se desconectó el barraje del transformador de excitación y se conectó el cable desde el interruptor de asincrínico en celdas de 13.2Kv, se normalizo despues de la prueba exitosa. 

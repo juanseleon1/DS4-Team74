@@ -1,0 +1,16 @@
+PLANEADOR:JOHNSON GOMEZ
+
+FECHA.AGOSTO20 DE 2016
+
+
+
+SE APRUEBA ESTA OT CON LA CUAL SE REALIZARÀ CUANDO LA UNIDAD ESTE FUERA DE SERVICIO
+
+
+ABRIL 17/2016
+
+SOLICITANTE: OPERACION TURNO 2
+
+La unidad 1 presenta FALLA BATERIA INTERNA, PROTECCION TRASM DISPARO 1.
+
+ AÑO 2016EVENTOS ASOCIADOS FALLA BATERIA PROTECCIONES TRASMISION DISPAROS U1_PLAYASTime Stamp Path 1 Path 2 Path 3 Path 4 Status Value Ind01/27/16 10:36:26:173 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime01/27/16 10:36:35:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime01/28/16 10:36:26:294 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime02/06/16 10:36:27:897 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime02/06/16 10:36:38:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime02/07/16 10:36:27:938 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime02/21/16 10:36:31:692 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime02/21/16 10:36:51:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime02/23/16 10:36:31:902 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime03/01/16 10:36:34:037 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime03/01/16 10:36:47:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime03/02/16 10:36:34:301 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime03/10/16 10:36:35:529 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime03/10/16 10:36:46:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime03/11/16 10:36:35:954 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime03/12/16 10:36:36:344 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime03/12/16 10:36:43:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime03/13/16 10:36:36:536 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime04/08/16 10:36:43:716 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime04/08/16 10:36:58:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime04/10/16 10:36:44:536 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime04/13/16 10:36:45:066 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime04/13/16 10:37:01:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime04/15/16 10:36:45:835 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Dis Inactivo AlarmTrueTime04/17/16 10:36:46:124 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna App Activo AlarmTrueTime04/17/16 10:36:57:000 Unid 1 Protecc Trasm Disp 1 St Falla Bateria interna Ack Activo AlarmTrueTime04/17/16 10:37:43:292 Unid 3 Protecc Princ 2 GEN St Falla Bateria Interna App Activo AlarmTrueTime04/17/16 10:37:50:000 Unid 3 Protecc Princ 2 GEN St Falla Bateria Interna Ack Activo AlarmTrueTime

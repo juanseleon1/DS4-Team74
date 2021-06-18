@@ -1,0 +1,9 @@
+- FECHA : JUEVES FEBRERO 02 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - JHONATAN USME
+- ASOCIADO A LA OT : 3383178
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+                     * Se hizo limpieza a todo el recinto y a sus tapas 
+                     * Se hizo medida de aislamiento al rotor antes y despues de limpiar
+                     * Se cambiaron escobillas : 4B - 6A - 6B - 7A - 7B - 8A - 10B inician con medida de 40 mm
+                     * Se cambiaron escobillas de la protección tierra rotor quedando con medida de 30.6 mm

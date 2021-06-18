@@ -1,0 +1,8 @@
+
+2018/04/14 _ CARLOS ENRIQUE MONCADA. OT N° 3712647.
+Se realiza revision de la RTD TE2 del TCCC U3, encontrando la medida con fluctuación por vibracion en el equipo, se toman medidas en la RTD entre la señal y las compensaciones dando 109 .8 ohmios. Se reajustan las terminales de la RTD y los 4 pines del conector rapido. se verifica la medida en la IHM del TCCC y con los operadores en el sistema SCADA y esta se estabiliza quedando normalizado el subsistema.
+Realizó: Eladio Piedrahita, Oscar Montoya, Carlos Moncada.
+informó: Carlos Moncada.
+----------------------
+2018/04/14 _ CARLOS ENRIQUE MONCADA. OT N° 3712647.
+Se crea OT para la revisión de la RTD TE2 en el cojinete combinado de la unidad 3.

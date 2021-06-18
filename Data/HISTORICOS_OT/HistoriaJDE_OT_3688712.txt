@@ -1,0 +1,48 @@
+MIERCOLES 14 FEBRERO 2018
+
+EN PROCESO DE ARRANQUE DE LA UNIDAD 1 DE GUADALUPE IV, DESPUES DE EJECUTADO EL MTTO CUATRIMEESTRAL, SE DETECTA RUIDO ANORMAL EN RECINTO DE GENERADOR.
+
+Se hace inspección exhaustiva al recinto sin identificarse la causa y el origen del mismo. Se declara la unidad indisponible hasta las 23:59 del 15 de febrero para continuar con el análisis y la inspección.
+
+Con el apoyo de la unidad operación y mantenimiento generación se realizan pruebas con el equipo de vibraciones identificando elemento estructural del rotor como posible causante del ruido, el cual se evidencia en los resultados de las pruebas. Para ser concluyentes se solicita inspección con cámara fibroscopica programada para el día 17 de febrero. Una vez que tenga conclusión después de todas las pruebas, análisis a inspecciones se tomara una decisión sobre la intervención de la máquina.
+Sandra Carmona.
+18:21 Se entrega la unidad G41 a operación con condiciones. Los resultados de las pruebas establecen que puede operar la unidad.
+
+Informa: Sandra Carmona (Jefe de trabajo)
+Ejecutan: Carlos Ospina, Esteban Hurtado, José Montoya y equipo de operación y mantenimiento
+Realizan Pruebas: Pablo Gomes y Julio Sanchez
+
+SABADO 17 DE FEBRERO
+
+15:03 Se indispone la unidad con el fin de realizar intervención por parte del personal de la unidad Operación y Mantenimiento Generación.
+
+Se realiza inspección con cámara fibroscopica al rotor y parte del estator, de igual manera se realizan pruebas electricas : SFRAC, DAR y resistencia de devanados.
+Como adelanto a la entrega del informe oficial, se da parte de tranquilidad por cuanto no hay una soltura mecánica franca que ponga en riesgo la integridad del generador y las pruebas electricas evidenciaron una buena condición.
+Realizo: Equipo Operación y mantenimiento Generación
+Ingenieros: Pablo Gómez, Carlos Palacio y Julio Sánchez.
+Unidad Operaciones Guadalupe: Equipo Mtto electromecánico, Carlos Forero, Mario Morales, Camilo Montagut, Didian Sepúlveda y Juan Darío Gómez.
+Informo: Yofred Rodríguez Vahos.
+
+actualiza 19 de febrero de 2018 16:41: Sandra Carmona
+
+______________________________________________________________________________________________________
+
+DURANTE LA PUESTA EN SERVICIO Y VERIFICACION DE LOS RADIADORES DEL GENERADOR, EN EL PROCESO DE PARO DE LA UNIDAD EN PAROXIMADAMENTE 300 -250 RPM, SE EVIDENCIA UN RUIDO ANORMAL EN EL GENERADOR, SE REALIZA UNA PRIMERA INSPECCION REVISANDO LOS RECINTOS DEL COJINETE INFERIOR, COJINETE SUPERIOR Y EXCITACIÓN, SIN ENCONTRAR NINGUNA NOVEDAD. SE REVISAN BAFFLES INFERIORES DE LAS CABEZAS DE BOBINA EN BUSCA DE ALGUN ELEMENTO EXTRAÑO SIN ENCONTRAR NADA ANORMAL. SE DECLARA LA UNIDAD INDISPONIBLE CON EL FIN DE SEGUIR EVALUANDO Y DIAGNOSTICANDO EL ORIGEN DEL RUIDO, SE SOLICITA APOYO A LA UNIDAD OPERACIÓN Y MANTENIMIENTO. 
+POR PARTE DEL EQUIPO MECANICO DE LA UNIDAD SE REALIZ AUNA INSPECCION GENERAL EN TODOS LO COMPONENTES ACCESIBLES DEL GENERADOR Y ROTOR, CORONA ROTORICA, INSPECCION D ETRAPECIOS SUPERIORES E INFERIORES DEL ROTOR, BAFFLES INFERIORES Y SUPERIORES DE CABEZA DE BOBINAS, RECINTOS DE COJINETES SIN ENCONTRAR NINGUNA NOVEDAD. SE EVIDENCIA ALGUNAS CUYAS D ELOS TRAPECIOS INFERIORES SUELTAS. EN LA SIGUIENTE RUTA SE ALMACENAN LOS REGISTROS GRAFICOS DE LA SEVIDENCIAS ENCONTRADAS:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\4-Gpe 4 general\Informes Mantto Gpe 4\Informes U1 Gpe 4\INFORME U1 G4 2018-02-14 <file:///\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\4-Gpe 4 general\Informes Mantto Gpe 4\Informes U1 Gpe 4\INFORME U1 G4 2018-02-14>
+
+INFORMO: CARLOS OSPINA (JUEVES 15 DE FEBRERO 2018)
+____________________________________________________________________________________________________________
+
+MARZO 01 DE 2018
+
+POR REUNION CONVOCADA EL DIA MARTES 27 DE FEBRERO, A LA CUAL ASISTIERON: SANDRA CARMONA, OSCAR RESTREPO, ESTEBAN VASQUEZ, GERMAN BETANCUR, YOFRED RODRIGUEZ Y CARLOS OSPINA, Y UNA VEZ ANALIZADOS LOS RESULTAODS Y CONCLUSIONES DEL INFORME ELAOBRADOR PRO EL EQUIPO OPERAION Y MTTO GENERACION ENERGIA, SE ESTABLECE PLAN DE ACCION CON UN HORIZONTE DE TIEMPO DE 6 MESES EN EL CUAL SE EVALUARA EL COMPORTAMIENTO DE LA MAQUINA Y SE LLEVARAN A ACABO LAS SIGUEINTES ACTIVIDADES:
+
+- EN CADA CUATRIMESTRAL SE HARA INSPECCION VIDEOSCOPICA A TODAS LAS UNIDADES DE GUADALUPE IV YA QUE PRESENTAN EL     MISMO RUIDO CON MENOR INTENSIDAD. 
+-CAMBIAR AJUSTES DEL SISTEMA PORTATIL DE MONITOREO DE VIBRACIONES Y AMPLIAR EL RANGO DE FRECUENCIA PARA VISUALIZAR LA EVOLUCION DE ESTE COMPORTAMIENTO YA QUE CON LOS AJUSTES ACTUALES NO SE EVIDENCIA.
+- PLAN DE APRIETE POR OPORTUNIDAD (UNIDAD EN CERO) POR GERMAN BETANCUR Y CARLOS OSPINA
+
+QUEDA ABERTA LA OT PARA CONTINUAR MONITOREO.
+
+INFORMA. SANDRA CARMONA

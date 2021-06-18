@@ -1,0 +1,4 @@
+
+MARZO 10/2019 OT: 3817907  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta falla comunicación, en el Diag+ se observa incremento en las fallas en el módulo 7,14; se procede a mejorar las conexiones del Loop entre el módulo 7,13 - 7,14 y 7,15; se deja el aerogenerador en servicio.

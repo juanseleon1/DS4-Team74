@@ -1,0 +1,8 @@
+SOLICITANTE: CORREGIR FUGA DE ACEITE QUE SE PRESENTA POR EL PRESOSTATO S2 DE LA HPU DE LA CENTRAL VUELTA. DURANTE ESTA ÚLTIMA SEMANA, SE HA INCREMENTADO LA FUGA A UN LITRO DIARIO.
+
+SOLICITÓ: ARTURO BETANCUR
+
+JULIO 30/2015 OT:2782049 PROGRAMO Y EJECUTO: JGUINGUER
+
+Se presentaba fuga de aceite en estación hidráulica de la central la vuelta, por presostato (S2 muy baja presión) Falla interna del instrumento.                            Se realiza consignación  hacia el  centro de control CCDPCG  para el paro de la unidad, Con la unidad detenida  se  descarga el  acumulador, Después de verificar que no exista presión en el circuito se realiza el cambio del presostato fallado por el nuevo el cual está ajustado en 52.6 BAR, se normaliza el sistema y se procede  a efectuar las pruebas  de carga y descarga del acumulador sin presentar fuga. La HPU queda en condiciones  normales de operación.  
+

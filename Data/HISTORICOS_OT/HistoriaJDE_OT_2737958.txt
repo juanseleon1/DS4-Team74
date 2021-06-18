@@ -1,0 +1,42 @@
+Empresas Públicas de Medellín E.S.P.
+FECHA: 23/04/2015
+REALIZO: ANDERSON LOPEZ - LEON PARRA 
+ASOCIADO A LA OT: 2737958
+ASUNTO: INSPECCIONAR ESTADO DE LAS ZAPATAS DE LOS GATOS DE FRENADO DEL GENERADOR.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 ________19.6_____________
+
+Zapata No 2 __________19.7__________
+
+Zapata No 3 _________19.8____________
+
+Zapata No 4 __________19.6___________
+
+Zapata No 5 __________19.7___________
+
+Zapata No 6 ___________19.6__________
+
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

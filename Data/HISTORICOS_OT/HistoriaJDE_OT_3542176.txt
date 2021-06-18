@@ -1,0 +1,15 @@
+JULIO 15 2017 SOLICITANTES ROBIN TAMAYO - FABIAN GIRALDO 
+FAVOR REVISAR DISTRIBUIDOR DE LA UNIDAD 1 DE GUADALUPE 4 YA QUE PRESENTA PROBLEMAS EN EL PORCENTAJE DE AJUSTE DE 
+APERTURA Y CIERRE, PROBLEMA EN EL ARRANQUE Y PARO DE LA UNIDAD.
+GRACIAS. 
+INICIA ATENCIÓN;JOSE ANTONIO MONTOYA , SE PIDE LA UNIDAD EN EL PERIODO 14 , ESTANDO LA CONSIGNA FULL
+
+15-07-2017
+programador jose montoya
+se realiza ajusta a la posiscion del distribuidor y la valvula distribuidora
+el distribuidor queda 
+abierto en -8.05v y cerrado en 7.87v
+la valvula distribuidora queda 
+abierta en -7.90v y cerrada en 8.00v
+retroalimentacion valvula distribuidora en bornes b67 y b68
+abierta en 5.9v y cerrada en 1.77v

@@ -1,0 +1,2 @@
+2015/11/10 OT: 2922765 - REALIZÓ: JHONATAN USME - EDWIN ARANGO (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó revision y medidas a los sensores, se dejó en condiciones normales, El tiempo de Edwin Arango no se registro ya que no cuenta con codigo de JDE E1

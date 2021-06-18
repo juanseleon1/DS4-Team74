@@ -1,0 +1,18 @@
+2018/05/31 RUBEN ARBOLEDA. 
+Se realizó mantenimiento mayor a la unidad 8, el informe se encuentra en la ruta: 
+\\epm-file\2000\2630 A Guatape\2032_MANTENIMIENTO UOZO\CENTRAL GUATAPÉ\CONVERSION\UNIDAD 8\Mantenimiento mayor abril 2018
+
+2018-04-26 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3713425, PASO:1-1.1          Se realizó pruebas de tiempos de apertura y cierre del interruptor de potencia unidad 8 con los siguientes resultados: 
+CIERRE:  
+A1: 119,4ms
+B1: 119,2ms
+C1: 120ms
+APERTURA: 
+A1: 49,2ms
+B1: 48,8ms
+C1: 49,2
+RESISTENCIA OHMICA: 
+A1: 28uOhm
+B1: 28uOhm
+C1: 25uOhm
+

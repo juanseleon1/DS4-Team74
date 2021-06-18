@@ -1,0 +1,21 @@
+REVISAR SUBSISTEMA N°1 DEL SISTEMA DE REFIGERACIION 
+FECHA PLANEACION MANTENIMIENTO: 20/06/2017
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V
+
+13 SEPTIEMBRE 2016
+
+Referente al TCSR U2 subsistema Nº1; se transfiere al subsistema Nº2 por presión alta en la salida del intercambiador de agua cruda, el subsistema Nº1 queda indisponible, se le da reset y normaliza.( se revisan parámetros del subsistema Nº1 y se encuentran dentro de los rangos establecidos excepto la presión de salida del intercambiador 1 agua cruda que muestra 321 kPa.                                                                                                         Siendo las 03:48 se falla la válvula 4 vías,  se colmata el filtro auto limpiante del subsistema Nº2 y dispara el térmico, se procede a hacer maniobras en automático y en manual para limpiar el filtro y no responde ( dispara térmico ), en vista de esto procedemos a hacer cambio de subsistema a las 03:54 y este rechaza nuevamente por alta presión a la salida del intercambiador agua cruda transfiriéndose nuevamente al subsistema Nº2. Se le informa al ingeniero encargado Jorge Rodríguez y su instrucción es dejar el filtro auto limpiante del subsistema Nº2 en 
+manual.
+
+Realizo: FABIAN GOMEZ - ESNEIDER RIVERA.
+
+Se revisa el Subsistema N°2: Encontrandose borne de control suelto en la caja de aliementacion motor filtro autolimpiante.Por esta razon el filtro se colmataba y no hacia el lavado, tambien fallaba el guardamotor. Se hacen pruebas del sistema quedando bien y en operacion.
+
+Se pide redespacho de la unidaddad por un (1) periodo para revisar el Subsistema N°1, se revisa el sistema encontrandose el PIT 06 a la salida de la bomba obstruido, se normaliza quedando en funcionamiento con este subsistema
+
+Realizo: JOHN JAIRO GONZALEZ VALENCIA
+         JORGE PEÑARANDA - JORGE MUÑOZ - JORGE POVEDAD
+         
+

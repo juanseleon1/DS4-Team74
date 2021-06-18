@@ -1,0 +1,23 @@
+FECHA: 16/11/2018 SOLICITADO POR: CAMILO CADAVID - FRANCISCO CORDOBA - NATALIA URREA- OPERACIÓN GUADALUPE IV
+DESCRIPCIÓN: Durante secuencia de arranque  de la unidad 1 de Guadalupe IV, se presentó disparo por ruptura pernofusible alabes #12(14 de noviembre) y #18(16 de noviembre). Al verificar en sitio, se evidencia que no se presentó ruptura real del pernofusible pero durante los movimientos del distribuidor; el pernofusible se sale del rango de sensado del instrumento de vigilancia .
+
+
+16-11-2018
+
+15:06 SE SOLICITA INDISPONIBILIDAD DE LA UNIDAD 1 DURANTE LOS PERIODOS 14 Y 15 PARA ATENDER EVENTO POR FALSA ALARMA RUPTURA PERNOFUSIBLE #18.
+
+SE AJUSTA LOS ALABES MECANICAMENTE, SE HACEN MOVIMIENTOS DEL DISTRIBUIDOR AL 0%, 50% Y 100% PARA GARANTIZAR BUENA OPERACION DEL SENSOR. SE ENTREGA LA UNIDAD A OPERACION A LAS 14:55. QUEDA EN OBSERVACION.
+
+SI SE PRESENTA NUEVAMENTE EL EVENTO SE SUGIERE CAMBIAR EL TORNILLO ACTUAL POR UNO CON UNA CABEZA DE MAS DIAMETRO PARA GARANTIZAR QUE EL SENSOR TENGA UNA SUPERFICIE DE REFERENCIA DURANTE TODO EL RECORRIDO.
+
+EJECUTA: CAMILO MONTAGUT, UAIMER DIAS, FREDY MORA, RUBEN MORALES, FRANCISCO CORDOBA.
+INFORMA: SANDRA CARMONA
+
+
+Ot: 3784943 - Falsa ruptura pernofusible UG41 - Programador: Camilo Montagut - 19/11/2018
+
+Se realizan movimientos manuales de los álabes en cuestión con el fin de obtener un ajuste mecánico. 
+
+El procecimiento consistió en primer lugar, en bloquear mecánicamente el distribuidor con el bulón y así poder asegurar el "cero mecánico" preestablecido. Posteriormente se desmontan las bielas de los álabes 12 y 18 permitiendo remover el pernofusible de cada sistema, acción que posibilitó el realizar movimientos de los álabes con el dispositivo manual dispuesto para su uso.
+
+Ejecuta: equipo mantenimiento mecánico UOG

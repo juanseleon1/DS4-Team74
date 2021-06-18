@@ -1,0 +1,5 @@
+
+19/12/2017 OT#3661332 Cesar Tulio / Luis Eduardo Arcila
+
+Se realiza mantenimiento al sistema SCADA 800XA de subestación y a las dos estaciones de operación.
+Se cambia motor ventilador  #3 del servidor IS61850 quedando en condiciones normales de operación.

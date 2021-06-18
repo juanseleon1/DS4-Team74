@@ -1,0 +1,3 @@
+Reporta : William Archila Perez
+Fecha : 03 de Juinio 2026
+Comentario : Realizar Mtto Correctivo. En el momento del Reporte no se contaba con transmisor y en la bodega no habia existencia.

@@ -1,0 +1,11 @@
+XE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD
+
+FECHA: JUNIO 06-2014
+
+EJECUTÓ: OLGA VIANA - JULIAN GIRALDO
+
+Se realiza mantenimiento al sistema de neutro tierra del generador, transformador de potencial, cableado, conexiones y  resistencia de descarga. IDM: GCP3E0006. Se encuentra todo el sistema sin fallas ni averías. Una vez realizado el procedimiento, el equipo queda en condiciones normales de funcionamiento.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+----------------------------------------------------------

@@ -1,0 +1,44 @@
+ESTA O.T ESTA ORIENTADA A REALIZAR LA ATENCION Y PRUEBAS DE LA UNIDAD 1, POR CAUSA DE CONDICION DE AISLAMIENTO E IP BAJO.
+
+Después de haber sido evaluado e identificado el estado del devanado del generador de la unidad 1, se ha realizado desde el pasado miércoles como medida correctiva y preventiva, entre otros lo siguiente:
+·La identificación de 9 amarres flojos asociados a las barras de salida y los puentes del devanado, los cuales fueron retirados y realizados nuevamente, considerando un número mayor de vueltas en el amarre.
+
+·La identificación de 8 amarres flojos asociados a las barras de salida y los puentes del devanado, a los cuales se les aplicó resina y se realizaron refuerzos con amarres de fibra.
+
+·Se realizó la limpieza de las cabezas de bobinas tanto en lado turbina como en el lado excitación. Se retiran materiales sobrantes del interior del generador, se revisa y queda en buen estado de limpieza.
+
+·Se realizan medidas periódicas de índice de polarización, las cuales se encuentran por encima de 5 para las fases S y T y por encima de 3, para la fase R, resultados que son considerados satisfactorios. Se relacionan las medidas al final de éste resumen.
+
+·Se procede a realizar un proceso de secado del devanado, con calentadores y con la calefacción propia del generador. Se recomienda realizar proceso de calentamiento, a partir de las 5 PM del día domingo 10 de marzo, hasta el día 12 de marzo a las 7 AM.
+
+·Se deben de realizar pruebas de índice de polarización, mínimo cada 12 horas, con el objeto de observar la evolución del proceso de secado.
+
+·Se realiza prueba de factor de potencia el día 11 de marzo y se debe de repetir tanto índice de polarización como factor de potencia, una vez el generador se encuentre con los escudos debidamente instalados.
+1. CONCLUSIONES Y RECOMENDACIONES
+
+·La inspección inicial y visual del devanado, permitió confirmar lo evidenciado con los resultados de factor de potencia, previo a la extracción de los escudos del generador. La medida de factor de potencia en el modo UST (modo de prueba que evalúa el aislamientos en cabezas de bobinas), se encontraba por encima de 35%, cuando valores normales para éste tipo de máquinas, debe de estar por debajo de 2%.
+
+·La contaminación presente en el devanado, es probable que obedezca a un mal proceso de secado del devanado una vez fue realizada la reparación mayor en el año 2010. Así mismo, se considera que algunos de los amarres de las cabezas de bobinas, de los puentes y barras de salida, durante la operación de la máquina se estén aflojando, lo cual degrada de manera significativa los mismos amarres, y por tanto dicho fenómeno contamina el devanado.
+
+·Si bien se realizó un adecuado proceso de limpieza, en las condiciones en las cuales se encuentra el generador (con el rotor instalado), no es posible extraer la totalidad de contaminación que se presentaba, en razón a que no se tiene acceso a sitios en los cuales se presume exista todavía contaminación.
+
+·En razón a lo observado en el devanado y a las pruebas realizadas, lo más recomendable en el futuro, es realizar el cambio (o reforzarlos) de los amarres de las cabezas de bobinas, pues se evidencian algunos aflojamientos de manera localizada, lo cual puede ser la fuente de la contaminación y/o degradación de los mismos amarres.
+
+·Considerando que la reparación mayor (daño del núcleo) fue realizada en el año 2010, se debe de programar un overhaul para el segundo semestre del año 2015, con el objeto de realizar entre otros, los correctivos necesarios en los amarres.
+
+·La prueba de factor de potencia realizada el día de hoy, mostró una mejora significativa en el aislamiento asociado a las cabezas de bobinas, resultados del mismo que deben de ser punto de referencia en el futuro. Los resultados no son los mejores, pero la unidad podrá continuar operando bajo el monitoreo permanente del aislamiento, con el objeto de evaluar si hay necesidad de realizar un overhaul, antes de los tres años.
+
+·Los resultados de factor de potencia en el modo de prueba GST a 10 KV (modo de prueba que evalúa el aislamiento en la zona recta de bobinas, es decir la zona que se encuentra en contacto con el núcleo), fueron satisfactorios y similares a los históricos de la máquina. Sin embargo, los valores del factor de potencia a 10 KV en el modo de prueba UST (modo de prueba que evalúa el aislamientos en cabezas de bobinas), fueron de 11.45%, 10.51% y 10.54% para las fases R, S y T, respectivamente, valores considerados aún altos para este tipo de generadores.
+
+·Lo anterior, permite afirmar en la necesidad de realizar un mantenimiento mayor en un lapso de tiempo no mayor a tres años, de tal forma que se planee el cambio de la totalidad de los amarres de cabezas de bobinas, actividades que deben de estructurase con la debida anticipación.
+
+·A partir de la fecha, se recomienda realizar medidas periódicas de índice de polarización, resistencia de aislamiento y factor de potencia, como mínimo cada seis (6) meses. Es una directriz que debe de considerarse en las rutinas de mantenimiento.
+
+Elaboró:
+______________________
+Luis Fernando Castaño B.
+Área Análisis e Ingeniería
+Marzo 11 de 2013.
+
+
+QUEDA PENDIENTE EL INFORME

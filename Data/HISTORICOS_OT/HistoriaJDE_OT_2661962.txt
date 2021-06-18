@@ -1,0 +1,6 @@
+
+FECHA: DICIEMBRE 19 DE 2014
+
+REALIZADO POR:  PEDRO ROBAYO
+
+Por presentarse falla comunicaciones controlador superior se procede a inspeccionar el estado del Loop, se decide cambiar los módulos 7,0 y se deja en observación, al pasar unos minutos sale nuevamente la falla, se seguirá colocándole atención al RFC para ver que modulo es el que tiene problema.

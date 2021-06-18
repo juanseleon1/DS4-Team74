@@ -1,0 +1,24 @@
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/01/19
+Falla de nuevo el controlador de servicios auxiliares, esta vez quedándose en P2.
+Se le da un clear al controlador y se carga de nuevo el programa, pero en el paso de arrancar el sistema “ DICONFIG”  no responde y se bloquea.
+Después de varios intentos, carga el programa, quedando en condiciones normales.
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/01/20
+Se pierden las señales del controlador, quedándose en P2, se intenta cargar de nuevo el programa, pero no lo permite.
+queda por fuera el controlador de servicios auxiliares ya que no se cuenta con repuestos de las tarjetas falladas; se le informa al grupo de operación.
+Queda pendiente programar la salida digital, para reconocer alarmas sonoras de las unidades desde otro controlador.
+
+Learcilas
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/01/19
+Falla de nuevo el controlador de servicios auxiliares, esta vez quedándose en P2.
+Se le da un clear al controlador y se carga de nuevo el programa, pero en el paso de arrancar el sistema “ DICONFIG”  no responde y se bloquea.
+Después de varios intentos, carga el programa, quedando en condiciones normales.
+EJECUTÓ:LUIS EDUARDO ARCILA
+FECHA:2017/01/20
+Se pierden las señales del controlador, quedándose en P2, se intenta cargar de nuevo el programa, pero no lo permite.
+queda por fuera el controlador de servicios auxiliares ya que no se cuenta con repuestos de las tarjetas falladas; se le informa al grupo de operación.
+Queda pendiente programar la salida digital, para reconocer alarmas sonoras de las unidades desde otro controlador.
+
+Learcilas

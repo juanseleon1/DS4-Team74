@@ -1,0 +1,8 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 19-06-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación, 
+Se realiza templada de los dos cables principales de la taraba asi como la linea de vida, se encuentran todos lo cables con una deflexion mayor a la clculada.
+los cables principales se encuentran con deflexion de 1.34 mts en cada cable, se deja en la deflecion calculada de 1,14 mts.
+la linea de vida se encuentra con deflexion de 0.56 mts y se deja con la deflexion calculada de 0.30 mt.

@@ -1,0 +1,28 @@
+5/Junio/2014
+Presenta oscilación de potencia activa cuando la unidad se encuentra en menos de 15 MW. 
+La unidad estabiliza cuando se encuentra por encima de los 20 MW.
+Se mide a la salida del transductor, encontrando oscilación anormal. 
+Se le pide a instrumentación la calibración o cambio del transductor de potencia activa.
+Luis E. Arcila
+
+10/Junio/2014
+Se cambia transductor P400 por uno programable, pero este tiene unos picos muy altos y se procede a colocar el anterior mientras llegan los nuevos.
+
+Mauricio Quijano
+Cesar Tulio
+Luis E. Arcila
+
+12/Junio/2014
+SE CAMBIA TRANSDUCTOR DE POTENCIA QUE PRESENTA OSCILACIÓN EN LA UNIDAD 6, SE INSTALA TRANSDUCTOR PROGRAMABLE QUE PRESTAN DE PLAYAS. SE ENTREGA A OPERACIÓN. QUEDA EN OBSERVACIÓN PARA CUANDO SINCRONICEN LA UNIDAD.
+MAURICIO QUIJANO - LUIS E. ARCILA
+13/Junio/2014
+SE INTERCAMBIAN LOS TRANSDUCTORES DE LA UNIDAD 5 CON EL DE LA UNIDAD 6, PARA VERIFICAR SI CONTINUA LA OSCILACION.
+18/Junio/2014
+Se realiza revisión al transductor programable de la unidad 5 se genera voltajes y corrientes con la maleta trifásica, Se generan valores de MVares y se verifica lecturas en la estación de operación, Luego se generan valores de Mwatios y se verifica lectura en la estación de operación. Los valores generados son iguales a los leídos en la estación de operación.
+
+4/Julio/2014
+
+Se compara valores y variables con la unidad 5 encontrándose varias diferencias, se envía correo a Mario Augusto Gómez para su evaluación.    
+   
+     VARIABLE  UNIDAD 5  UNIDAD 6                                    Control 1  PW080   -62.5    -5  PW087    5    20                                     Control 3  PW317    170    100  PW293;Delta    20    10  PW310    200    100  PW313    12    10  PW314;TN    15     5  PW315;KP.EN.VACIO     4      6  PW316;KP.ISLA     3     2  MW303    170    100    
+

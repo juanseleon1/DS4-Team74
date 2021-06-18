@@ -1,0 +1,12 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA TUBINA DE LA UNIDAD 2 DE LA MINICENTRAL LA HERRADURA.
+
+
+Nota: El informe se en cuentra en el servidor U2; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+01 Area Area metropolitana y otras 
+02 Plantas EADE
+02 Central la herradura HE ow 155690
+02 unidad generación U2 ow 226446
+01 vibeaciones macanicas 
+Ruta de vibraciones U2

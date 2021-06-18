@@ -1,0 +1,6 @@
+
+FECHA: 29 DE ABRIL DE 2014
+
+EJECUTO: DIOMER-PEDRO-CLAUDIA 
+
+Se monta LPC del AG5 enAGC para prueba de RFC.

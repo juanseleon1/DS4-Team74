@@ -1,0 +1,13 @@
+2018/01/05. JUAN C DUARTE MUÑOZ.
+
+CORREGIR DESVIACIÓN EN EL PORCENTAJE DE APERTURA POR ALARMAS FALLA INDICACIÓN AGUJAS, DISCREPANCIA AGUJAS/DEFLECTOR Y MEDIDAS SECUNDARIAS REGULADOR VELOCIDAD.
+
+LA UNIDAD ESTABA REALIZANDO AGC Y, CUANDO SE BAJO A 0 MW LA AGUJA SE QUEDO EN EL 2%.
+
+2018/01/05 DIEGO BEDOYA.
+Se cambia la servováluvula moog por varias calibradas, pero no responde. se procede a calibrar varias servoválvulas en banco de pruebas y se monta una de ellas dando ajuste satisfactorio de apertura y cierre del inyector. queda en observación su funcionamiento.
+Juan Carlos Granados, Jaime Ramírez, Diego Bedoya, Jorge Duque, Carlos Yepes
+
+marzo 29 de 2018 
+ot terminada y cerrada 
+andres ramirez 

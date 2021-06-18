@@ -1,0 +1,17 @@
+
+
+REVISAR IHM DEL COJINETE SUPERIOR DE LA UNIDAD
+FECHA PLANEACION MANTENIMIENTO: 19/10/2018
+N°OT: 3776258
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: CARLOS MONCADA.
+
+19/102018
+
+Referente al TCCS Unidad N°4: La IHM de este proceso presenta falla dejando sin comunicación este sistema. Pendiente revisar. Informa: Operación Turno 3 
+
+Referente al TCCS Unidad N°4: Se revisa la IHM del cojinete superior encontrando la fuente de alimentación dañada. se procede con el cambio de fuente y habilitando el servicio, se realizan pruebas de funcionamiento y la unidad termina la secuencia de paro normal.
+Realizo: Jennifer García, Eladio Piedrahita, John Jairo González.
+ Informa: Carlos Moncada

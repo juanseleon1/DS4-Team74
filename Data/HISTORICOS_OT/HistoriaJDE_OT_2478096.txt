@@ -1,0 +1,14 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION U2
+
+Nota 1: La unidad generadora esta en condiciones normales de funcionamoento, ver nota 2
+
+Nota 2 : El informe se en cuentra en el servidor U; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+01 Area Guadalupe GP OW 4860
+03 Central Troneras TR  OW 3694
+03 unidad generación U2 ow 3675
+01 vibraciones mecanicas
+Ruta vibraciones U2.
+
+La unidad esta en condiciones normales de funcionamiento.

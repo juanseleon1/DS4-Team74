@@ -1,0 +1,5 @@
+2015/09/17 LESLIE MARULANDA
+Actividades para el PIM:
+ Identificacion cableado y ductos, sensores de velocidad lado acople turbina "pick up" (medir antes).
+ Identificacion y mantenimiento caja conexionado y bornes sensores de vibracion sismicos lado turbina.
+ Identificacion y mantenimiento caja conexionado y bornes sensores de vibracion tipo proximitor lado acople.

@@ -1,0 +1,40 @@
+ 2017/02/14 DIEGO BEDOYA
+Se realiza el desarme de la motobomba CW10, esta presentaba vibraciones altas. Se encuentran los rodamientos del motor con problemas y en los anillos de los impulsores y los bujes de la bomba había mucha holgura entre estos y el eje.
+Se hace la cotización de los rodamientos para el motor con Rodarangos:
+·BALINERA CONTACTO ANGULAR CANASTILLA EN BRONCE REFERENCIA 7220 (CANTIDAD 1) $968.000
+       ·    BALINERA REFERENCIA 6211-2Z/C3 (CANTIDAD 1) $63.700
+2017/03/17 DIEGO BEDOYA
+La motobomba esta armada; pero estamos a la espera de los rodamientos del motor para poder poner la motobomba en funcionamiento.
+
+2017-04-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3383054, PASO:9          
+Motobombas CW10, Se realizó medida de asilamiento (13,5MOhm), se realizó conexión eléctrica para prueba en vacío, respondió normalmente.
+2017/05/13 DIEGO BEDOYA
+Se deja trabajando la motobomba Cw10 con parámetros normales de operación.
+Se entrega a operación en servicio.
+El trabajo fue realizado por: Oscar Vélez, Antonio Molina, Orlando Zuleta 
+
+agosto14 de 2017 
+ot terminada y cerrada 
+andres ramirez 
+
+
+ 2017/02/14 DIEGO BEDOYA
+Se realiza el desarme de la motobomba CW10, esta presentaba vibraciones altas. Se encuentran los rodamientos del motor con problemas y en los anillos de los impulsores y los bujes de la bomba había mucha holgura entre estos y el eje.
+Se hace la cotización de los rodamientos para el motor con Rodarangos:
+·BALINERA CONTACTO ANGULAR CANASTILLA EN BRONCE REFERENCIA 7220 (CANTIDAD 1) $968.000
+       ·    BALINERA REFERENCIA 6211-2Z/C3 (CANTIDAD 1) $63.700
+2017/03/17 DIEGO BEDOYA
+La motobomba esta armada; pero estamos a la espera de los rodamientos del motor para poder poner la motobomba en funcionamiento.
+
+2017-04-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3383054, PASO:9          
+Motobombas CW10, Se realizó medida de asilamiento (13,5MOhm), se realizó conexión eléctrica para prueba en vacío, respondió normalmente.
+2017/05/13 DIEGO BEDOYA
+Se deja trabajando la motobomba Cw10 con parámetros normales de operación.
+Se entrega a operación en servicio.
+El trabajo fue realizado por: Oscar Vélez, Antonio Molina, Orlando Zuleta 
+
+agosto14 de 2017 
+ot terminada y cerrada 
+andres ramirez 
+
+

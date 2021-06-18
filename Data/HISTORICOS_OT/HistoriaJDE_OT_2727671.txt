@@ -1,0 +1,8 @@
+
+29-03-2015
+
+Sale la unidad 1 por "FALLA REGULADOR DE VELOCIDAD FUERA DE ORDEN" se revisa el regulador de velocidad y controlador de unidad
+ y no se encuentra ninguna tarjeta fallada, se resetea la falla y se le da arranque.
+
+30-03-2015
+Se cambian tarjetas VAO20, VAI60 y DIGIO en el regulador de velocidad para descartar falla.

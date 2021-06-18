@@ -1,0 +1,6 @@
+
+RUIDO ANORMAL EN UN VENTILADOR DE FASE R.
+
+Noviembre 30 de 2016.
+Se reviso el ruido en el ventilador y se encontro flojo la malla protectora en la parte superior, se reaprieta y se deja de escuchar el ruido anormal.
+William Lopera.

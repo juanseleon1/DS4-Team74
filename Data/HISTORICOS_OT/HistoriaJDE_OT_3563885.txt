@@ -1,0 +1,15 @@
+
+2017/08/10 _ CARLOS ENRIQUE MONCADA. OT N° 3563885.
+
+Referente al PLC Unidad 1:
+Este presenta fallas en los módulos de entradas y salidas digitales; al reiniciar no cargan los módulos 2 y 3. 
+Se realiza verificación de la memoria RAM encontrándose mala.
+Se redespachan periodos 19 -20 -21 y 22.  Se procede al cambio de la memoria, se realizan pruebas de giro en modo paso a paso y en automático.
+Se energiza la unidad y se da orden de sincronismo respondiendo a los pulsos de subir y bajar velocidad y tensión.
+La unidad no se sincroniza por no tener autorización, se lanza el programa (3) paro normal donde la unidad termina secuencia de paro en condiciones normales quedando disponible para la explotación comercial.
+                       
+Realizo: Jorge Rodriguez - Eladio Piedrahita - Carlos Moncada - turno 1 - turno 2.
+Informa: Carlos Moncada.
+
+2017/08/09 _ CARLOS ENRIQUE MONCADA. OT N° 3563885.
+REVISAR CONTROLADOR DE LA UNIDAD 1, ESTE PRESENTA FALLA EN EL MODULO 2/3 SALIDAS DIGITALES DEL PLC.

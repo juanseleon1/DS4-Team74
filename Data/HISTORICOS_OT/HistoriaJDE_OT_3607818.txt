@@ -1,0 +1,11 @@
+MP ANUAL EQUIPOS:
+-2372 EXCITACIÓN PRINCIPAL U3 G3
+-2373 EXCITACIÓN PRINCIPAL U4 G3
+-2374 EXCITACIÓN PRINCIPAL U5 G3
+-2375 EXCITACIÓN PRINCIPAL U6 G3   
+
+DICIEMBRE 9 DE 2017
+En el mantenimiento anual electrico, se desmonta todo el sistema de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas al sistema de excitación, se le hace limpieza con criogénica con el apoyo de la unidad operación y mantenimiento, lavado con liquido dieléctrico, y mantenimiento en general ya que se tiene la posibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio armado, se hacen pruebas antes y después del mantenimiento al inductor, inducido, anillos rozantes, aislamientos y calibración de la sobre velocidad mecánica. Después de la limpieza se vuelve armar toda la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria y en los formatos de pruebas que se llevó durante el mantenimiento anual de la unidad.
+Durante las pruebas se realizó la calibración de los micro swiches de la sobre velocidad mecánica, quedando calibrado en el 115%
+
+EXCITAC. ANTES DE LIM EXCITAC. DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO MANILLO GSUPERIOR27.7SUPERIOR2.96INFERIOR27.1INFERIOR3.48 

@@ -1,0 +1,12 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+31-08-2016
+PROGRAMO JOSE MONTOYA
+Se desmontaron las RTD, los termómetros y el sensor de presión para la medida indirecta de nivel para los trabajos mecánicos y luego se instalaron nuevamente.
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL 8.99VDC y CTPR 9.01VDC   - KPH: 9.01VDC 
+Se inyectan las señales
+  COJ. TURBINA °CPATRÓN °C METAL 2 METAL 5 ACTE 4 ACTE 640 40.1 40.2 40.8 40.660 60.1 60.2 60.8 60.680 80.1 80.2 80.6 80.5ALARMA  80,0 75,0 80,0 80,0DISPARO  85,0 80,0 85,0 85,0Se verifica el disparo en pantalla cuando se extraen 6 litros de aceite
+Se calibran de nuevo las vibraciones
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\TRIMESTRALES G4-2016

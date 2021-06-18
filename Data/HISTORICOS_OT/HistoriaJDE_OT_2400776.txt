@@ -1,0 +1,11 @@
+
+OCTUBRE 20 DEL 2013 
+Se Reviso el sensor de vibraciones Axial ubicado en el Cojinete Inferior, el cual genero salida forzada de la unidad por presentar oscilacion en la medida, llegando a valores por encima del disparo (466 micrones). Provisionalmente se deja bloqueado el disparo en el control, puesto que la generacion del dia es 512MW y no es posible entrar a revisar el instrumento con maquina girando. Cuando el programa de generacion este bajo y se presente la oportunidad el persoanl electronico entrara a inspeccionar el sensor de vibracion.
+
+INFORMO: Oscar Arango
+
+NOVIEMBRE 15 DEL 2013 
+Por volverse a presentar alarma por vibraciones Altas, debido al sensor Axial, se decidio cambiar todo el lazo de control del sensor, esto quiere decir que se realizo el cambio de driver, extension y sensor de vibracion con el fin de descartar completamente la parte de instrumentacion. Si nuevamente se vuelve  a presentar una alarma por vibraciones altas, se deben tomar acciones encaminadas a pensar que es un efecto fisico real y la unidad esta presentando dichos movimientos periodicos axiales.
+
+INFORMO: Oscar Arango, Andres Arenas y William Lopera.
+EJECUTO: David Atehortua - Francisco Gonzalez

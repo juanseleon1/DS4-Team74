@@ -1,0 +1,14 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+10/DICIEMBRE/2014
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan calibrados así: CTPL 10.02 VDC y CTPR 9.05 VDC  y el RPM 8.35 VDC.
+Nivel cojinete de turbina se encontró en  220.4 mm   no se le adiciono aceite, el patrón es 220mm.
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina, según el formato de instrumentación, que se encuentra en la siguiente ruta: \\Wperezg5\MTTO UNIDADES GPEPORCE\2014\SEMESTRALES TRONERAS 
+
+Se realizó limpieza e inspección visual a las RTD del cojinete.
+Se ajustaron los sensores inductivos que supervisan la trava aplicada en los servos del distribuidor, puesto que no dejaban desbloquear el regulador automáticamente.
+
+Programador: Oscar Arango
+Ejecuto: fredy Duarte - Alvaro Piedrahita

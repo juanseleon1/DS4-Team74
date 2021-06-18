@@ -1,0 +1,18 @@
+REALIZARMANTENIMIENTO CORRECTIVO AL FLUJOMETRO COJINETE SUPERIOR UNIDAD 4
+
+FECHA PLANEACION MANTENIMIENTO: 21/11/2018
+
+NUMERO DE CONSIGNACION: @
+
+N°OT:
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: NESTOR OCHOA.
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el Jueves 29 de noviembre de 2018 a las 7:00 am

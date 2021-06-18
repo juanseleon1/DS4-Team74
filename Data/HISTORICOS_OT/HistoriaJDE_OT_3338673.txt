@@ -1,0 +1,4 @@
+
+VIERNES 09 / DICIEMBRE 2016
+
+la IHM de los controladores 2 y 3_U2, se encuentra fallada, no permite navegacion por la aplicacion.

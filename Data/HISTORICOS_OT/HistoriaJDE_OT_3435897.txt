@@ -1,0 +1,23 @@
+REVISAR FALLA COMUNICACION COJITE COMBINADO
+FECHA PLANEACION MANTENIMIENTO: 27 MARZO 2017
+PLANEADOR: HECTOR MARIO GOMEZ
+
+PROGRAMADOR:CARLOS SANCHEZ
+
+ 27 MARZO 2017
+
+Sale de sincronismo la unidad por paro rapido con 179 MW y 4 MVAR por falla comunicacion en el cojinte combinado, la bomba se quedo parada por reinicio del sistema de comunicacion en pruebas de ciber seguridad
+
+Informa: JOHN JAIRO GONZALEZ VALENCIA
+         ALEX CALLE         
+
+
+27/03/2017
+
+Sale la unidad 1 durante las pruebas de ciber seguridad realizadas por el personal de Medellín, ante un evento de comunicaciones en la red de control con el RSTP de los Swicht el sistema de control del TCCC de esta unidad pierde la condición de encendido deteniendo el sistema y causando el paro de la unidad. 
+
+Se expresa al personal de Medellín sobre la falta de gestión para estas pruebas y se detiene la ejecución de estas hasta tener más claridad de la magnitud y procedimientos para estas pruebas.
+
+REALIZADO POR WTOBONL
+
+terminada cerrar

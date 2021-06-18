@@ -1,0 +1,8 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2013-12-12
+OT  PARA REALIZAR MANTENIMIENTO A FILTROS COALESCENTES RED AIRE COMPRIMIDO PLANTAS DIESEL S/E PORCE 2.
+
+PROGRAMADOR:FRANCIS LONDOÑO, 2013-12-12
+
+Se desmontan los filtros y se deja trabajando los acumuladores directamente por un bay pass provisto para esto. Se desarman filtros y se encuentran saturados. Para este tipo de carcaza ya no se consigue elemento filtrante. Se deben comprar filtros completos.
+
+TRABAJO REALIZADO POR: ALEX MORA

@@ -1,0 +1,18 @@
+24/07/2014 REALIZÓ:CESAR HOYOS, ADONIS CADAVID.
+SE PRESENTA FALLA EN EL MOTOR DE LA BOMBA 2 DEL SISTEMA DE CIRCULACION DE ACEITE DEL COJINETE GENERADOR.
+Queda indisponible la bomba 2, la bomba 1queda fuera de automatico  hay que tenerlo en cuenta para el arranque y paro de la maquina.
+La unidad salio de 13/54 A 14/36
+2014/08/27 - RUBEN ARBOLEDA
+Se esta ealizando el proceso de catalogación de arrancador y motor por la undiad almacenes, queda  a la espera de llegada del repuesto para el montaje. 
+30/12/14- CÉSAR HOYOS.
+Se realiza cambio de arrancador #2  marca Siemens y se parametriza como el que estaba instalado, se realiza pruebas de aislamiento al motor con los siguiente valores a saber:
+R: 1.11G,, S: 1.07G, T: 978MG
+Queda pendiente realizar pruebas de sentido de giro. Número WO arrancador: 115522
+21/01/15- CÉSAR HOYOS.
+Se realizan pruebas de sentido de giro, se toma la corriente por línea R:6.4A, S: 6.5A, T:5.9A, presión 22Psi. Se entrega en condiciones normales al operador Juan Carlos Duarte. 
+
+
+
+
+
+/

@@ -1,0 +1,43 @@
+
+FECHA: 04/03/2019 OT 3817554
+REALIZO: ABB-DIEGO RUEDA Y CESAR T. JIMENEZ
+
+SE REALIZARON LOS BACKUP DE SERVIDORES, TAMBIEN SE REALIZARON LOS BACKUP-ESPEJOS DE TODOS LOS SERIDORES Y ESTACIONES DE OPERADORES.
+
+SE REALIZARON LOS SIGUIENTES PASOS:
+
+- Por medio del RNRP Utility se revisó que no hubiera errores en la red.
+- Se revisaron que todos los servicios se encontraran ejecutándose correctamente. En este caso el servicio del IEC61850 no opera correctamente Porque todavía no está completamente configurado.
+- Se revisó la correcta sincronización de tiempo entre todos los nodos del 800xA.
+- Se revisó la fragmentación del directorio de aspectos. La DB Free portion está en un porcentaje bueno (<50%) por lo cual no requiere desfragmentar la base de datos del directorio de aspectos.
+- Se realizó un análisis de consistencia de las estructuras. Se encontraron errores en la Functional Structure. Estos errores se corrigieron configurando la correcta referencia de esos gráficos. Después de realizar las correcciones ya no aparecieron los errores.
+- Se revisó el correcto mapeo de los controladores en la MB300 a través de las RTA’ s. El nodo 22 está en error porque ya no existe.
+- Se revisó la carga de procesamiento de las RTA’ s. La carga de las cuatro RTA’ s está por debajo de 50% lo cual es lo recomendado.
+- En el On-line Builder se revisó la ausencia de errores en el Message Log de cada RTA.
+- Se revisó que las RTA’ s estén recibiendo el pulso de sincronización de tiempo del controlador maestro.
+- Se revisó el espacio configurado y usado de las tablas de la base de datos de la IM. Todas las tablas tienen espacio suficiente.
+- Se revisó la sincronización de los history logs. Todos los logs están bien.
+- Revisión y actualización de parches de seguridad en Servidores y Estaciones de Operación
+    Se revisó que no hubiese errores en los logs de eventos.
+    Se borraron archivos temporales del disco C.
+    Se desfragmentó el disco C.
+    Se actualizó las definiciones de virus actualizada al 28 de febrero de 2019 para el antivirus McAfee.
+    Este DAT fue descargado directamente de la página de ABB y el cual fue aprobado previamente para ser instalado en el sistema 800xA.
+- En cada nodo se ejecutó el “ ABB 800xA Qualified Security Updates Installer for 800xA 5.1” , el cual primero analiza las actualizaciones de seguridad de Microsoft que requiere el nodo para posteriormente instalarlas. La herramienta se descargó con las actualizaciones hasta febrero de 2019. aciones de seguridad de Microsoft de febrero de 2019. En los servidores se instalaron 29 actualizaciones, en las estaciones fueron 27.
+- Backups e Imágenes
+ Se revisó que los Full Backup se estén ejecutando según lo programado en la Scheduler Structure y Maintenance Structure.
+ Se realizó un backup (Import/Export) de las Functional Structure, User Structure, Workplace Structure, Library Structure y Object Type Structure.
+ Se realizó backup de la base de datos de la IM.
+ Se realizó backups de la RTA’ s.
+ Se realizó imagen Acronis de todos los servidores y estaciones.
+ Todos los backups realizados se copiaron al disco duro externo de mantenimiento.
+- Otros
+ En las estaciones de operación de casa de máquinas se corrigió el error Run-time error '91' que aparecía al abrir Excel.
+ Se instaló Internet Explorer 11 en las estaciones de operación de casa de máquinas y la estación de ingeniería.
+ Se configuró en el despliegue GPROC92 un acceso a la interfaz web del PLC de Ventiladores de cámara de válvulas (172.16.6.10).
+- CONCLUSIONES Y RECOMENDACIONES
+ Se recomienda corregir el error de Excel en las estaciones de operación de Subestación.
+ Se recomienda instalar Internet Explorer 11 en los servidores y las estaciones faltantes.
+ Se recomienda instalar las actualizaciones de seguridad de Microsoft cada 3 meses para minimizar las vulnerabilidades de seguridad.
+
+Se copian todos los backup e imagenes al disco externo.

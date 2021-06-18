@@ -1,0 +1,15 @@
+PLANEADOR: WALTER TOBON FECHA: 2018-01-12  OT N° 
+
+OT REALIZADA PARA LA VERIFICACION DEL SENSOR DE NIVEL DE LA TURBINA EN LA UNIDAD 2 . SE ENCUENTRA POR FUERA LA MEDIDA 
+
+
+2018-01-14
+
+Se realiza la verificacion del sensor de nivel de aceite en la turbina BK. se encuentra con problemas devido a una falla en la conexion con la parte electronica del sensor, se realiza la modificacion de esta conexion y se verifica en la instalacion con el nivel patro fisico de 280 milimetros envia una señal de 6.03 mAmp y en el sistema de control de la unidad indica 281 mm. 
+
+queda normalizada la unidad y la indicacion 
+
+Realizado por WTOBONL
+
+
+

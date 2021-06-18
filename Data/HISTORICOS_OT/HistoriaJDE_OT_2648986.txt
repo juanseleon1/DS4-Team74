@@ -1,0 +1,12 @@
+XL: VERIFICAR Y LIMPIAR, EL TABLERO Y SUS PARTE, INSPECCIÓN SENSORICA Y SUS TRANSDUCTORES RV.
+
+10/DICIEMBRE/2014
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+Se realiza mantenimiento al regulador  de velocidad y a los transductores y sensores asociados a este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. 
+Se reapretan los bornes de los módulos de entradas y salidas digitales de los dos canales.
+Se revisan alarmas en la pantalla local del regulador.
+
+Programador: Oscar Arango
+Ejecuto: fredy Duarte - Alvaro Piedrahita

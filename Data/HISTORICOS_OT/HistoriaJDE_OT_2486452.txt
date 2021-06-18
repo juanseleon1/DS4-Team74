@@ -1,0 +1,5 @@
+MAR 14/2014 OT: 2486452 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Se adiciona un control en la parte inferior del rastrillo facilitando su operación en dos posiciones para los operarios.
+
+SOLICITANTE: Javier Giraldo Fecha Marzo 11 /2014.
+Adicinoar control en la parte inferior de la estructura del rastrillo, con el fin de facilitar la operación desde el piso.

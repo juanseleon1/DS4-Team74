@@ -1,0 +1,8 @@
+MANTENIMIENTO PREVENTIVO TRIMESTRAL MOTOR BOMBA 2 REGULADOR HIDRAULICO UNIDAD 1 GUADALUPE 3
+
+
+NOVIEMBRE 22 DE 2018
+Se realiza mantenimiento anual eléctrico general al tablero de control, se realiza pruebas eléctricas al motor como fue resistencia de aislamiento, toma de medidas de voltajes y corrientes, limpieza general, sin ninguna novedad.
+Programó: William Lopera
+
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE MR - S449R66.9R12.6R613S - T452S66.1S11.4S 607T - R448T65.2T12.5T603

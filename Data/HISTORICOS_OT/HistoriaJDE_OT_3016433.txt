@@ -1,0 +1,3 @@
+JUNIO 11/2016. -- SERGIO OLIVARES D.
+Se encuentran puenteados todos los sensores de las puertas, se retira el puente y el control funciona normalmente.
+Se espera poner en servicio para ver el comportamiento de los sensores.

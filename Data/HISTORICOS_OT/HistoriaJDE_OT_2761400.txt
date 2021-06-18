@@ -1,0 +1,7 @@
+
+FECHA: MAYO 6 DE 2015 OT: 2761400
+
+EJECUTANTE: HENRY GIRALDO, PEDRO SOLANO, ALVARITO PUSHAINA, ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+En la mañana se observó que la corriente reactiva estaba muy alta y negativa y después de un paro por grid error se le realiza prueba de condensadores, todos mostraron falla y sin presentar ningún tipo de corriente, se revisa y se encuentra muy caliente el tablero de los condensadores, se observa que la orden de entrar los condensadores si se presenta y la fase llega a la bobina de los contactores, pero el neutro estaba perdido, se observa que el neutro pasa por una termocupula, se revisa el aire acondicionado y se encuentra malo, se procede a cambiar el aire por uno del AG12, se refresca el tablero y los condensadores quedan funcionando bien.

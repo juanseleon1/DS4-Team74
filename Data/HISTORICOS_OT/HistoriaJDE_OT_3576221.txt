@@ -1,0 +1,7 @@
+SOLICITANTE: TURNO 3 OPERACIÓNFECHA:22/08/2017
+
+La unidad G35 presenta alarma en tableros G3 y S/E El Salto, por falta de permisivos para sincronizar.
+
+Referente a controlador bahía G35: 
+Inicialmente la unidad no presentaba permisivos para sincronizar por la alarma “ controlador de bahía” . Se comenzó a revisar el controlador ,el sincronizador, se descartaron problemas de fibra óptica; inyectando cada hilo desde S/E salto hasta casa de máquinas, se revisaron los canales de la rio. Se revisó en patio las señales del interruptor y seccionador. Se encontró el relé 311L SEL (protección de línea) Bloqueado, se procedió a reiniciarlo y se recuperaron las condiciones para sincronizar. Se entrega la unidad y se sincroniza a la 01:53 am. 
+                                                                                                                                     Informó: Juan Caicedo - Tatiana Almario- Oscar Arango

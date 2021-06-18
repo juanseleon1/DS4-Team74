@@ -1,0 +1,59 @@
+BM: MEDIR VIBRACIONES MOTOBOMBAS CW REFRIGERACION UNIDADES GENERADORAS,LA CLARA GUATAPE, AFFA, ACRA, ACA. ESTE EQUIPO DEBE ESTAR EN LÍNEA.
+
+2016/10/03 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba AFFA1 y se obtienen los siguientes resultados: 
+
+ Sistema de medición (RMS)
+
+1 Horizontal: 2.54 mm/seg
+1 Vertical: 1.98 mm/seg
+2 Horizontal: 0.64 mm/seg
+2 Vertical:  1.21 mm/seg
+2 Axial: 0.82 mm/seg
+3 Horizontal: 3.38 mm/seg
+3 Vertical: 1.81 mm/seg
+4 Horizontal: 1.41 mm/seg
+4 Vertical: 1.85 mm/seg
+
+Trabajo realizado por Anderson López y Darío Atehortua.
+
+
+
+OCTUBRE 04 DE 2016 
+
+OT CERRADA
+
+ABDRES RAMIREZ 
+
+
+
+   BM: MEDIR VIBRACIONES MOTOBOMBAS CW REFRIGERACION UNIDADES GENERADORAS,LA CLARA GUATAPE, AFFA, ACRA, ACA. ESTE EQUIPO DEBE ESTAR EN LÍNEA.
+
+2016/10/03 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba AFFA1 y se obtienen los siguientes resultados: 
+
+ Sistema de medición (RMS)
+
+1 Horizontal: 2.54 mm/seg
+1 Vertical: 1.98 mm/seg
+2 Horizontal: 0.64 mm/seg
+2 Vertical:  1.21 mm/seg
+2 Axial: 0.82 mm/seg
+3 Horizontal: 3.38 mm/seg
+3 Vertical: 1.81 mm/seg
+4 Horizontal: 1.41 mm/seg
+4 Vertical: 1.85 mm/seg
+
+Trabajo realizado por Anderson López y Darío Atehortua.
+
+
+
+OCTUBRE 04 DE 2016 
+
+OT CERRADA
+
+ABDRES RAMIREZ 
+
+
+
+   

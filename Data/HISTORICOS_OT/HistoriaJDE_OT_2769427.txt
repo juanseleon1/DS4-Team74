@@ -1,0 +1,4 @@
+FECHA: Agosto 16/2015PROGRAMO: Daniel PalaciosEJECUTO: Diego Restrepo.
+Se realiza mantenimiento general a tablero, revisión a conexiones electricas, limpieza a tablero y motores según procedimiento, se realizan medidas de aislamiento a motores y se llenan registros.
+
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD

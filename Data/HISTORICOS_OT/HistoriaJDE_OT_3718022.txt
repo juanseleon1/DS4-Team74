@@ -1,0 +1,18 @@
+2018/05/23 _ CARLOS ENRIQUE MONCADA. OT N° 3718022.
+Se realiza limpieza y verificación del cableado del tablero TCV. Se prueban los sensores de posición de la válvula (abierto, recuperando, intermedia), se verifica la señal en la IHM y en el modulo de entradas digitales del PLC. Se prueba el sensor de posición (abierto) del By- Pass, los sensores del sello de servicio y el sello de mantenimiento. en este último se evidencia que el sensor que envía la señal del sello de mantenimiento aplicado se encontraba dañado (fracturado). Se procede a cambiarlo. Se normaliza el sistema con el nuevo sensor y en la IHM podemos visualizar "Sello mantenimiento aplicado". Se realiza limpieza al sensor de posición radial.
+Se verificaron médidas correctas de los instrumentos asociados (Niveles, temperatura, presión), con respecto a los visualizados en la IHM  encontrando todo normal.
+Realizo: Eladio Piedrahita, Jeniffer García, Carlos Moncada.
+
+
+
+
+XL: CHEQUEAR Y VERIFICAR CONTROL VALVULA DE ADMISION +TCV DE LA UNIDAD
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

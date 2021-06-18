@@ -1,0 +1,13 @@
+XE: REVISAR Y MEDIR MOTOBOMBAS, LAS MEDIDAS QUE SE TOMAN SON ELECTRICAS, LAS CUALES TIENEN QUE VER CON EL CONTROL Y EL MOTOR.
+
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+
+SEPTIEMBRE 13 DE 2018.
+Se realizo mantenimiento semestral electrico general al control y motor, tambien fueron realizadas las pruebas electricas toma de medida de voltajes y corrientes en el motor, sin ninguna novedad, ver registro en archivo de mantenimiento de troneras.
+Programó: William Lopera.

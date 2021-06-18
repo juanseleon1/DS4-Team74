@@ -1,0 +1,11 @@
+2017/06/20 JUAN C DUARTE MUÑOZ.
+
+CORREGIR ALTA TEMPERATURA AGUA CONDENSADA (SALIDA) CON 31.10°C POR POSIBLE SUCIEDAD DEL INTERCAMBIADOR.
+ENTRADA CON 40.5°C.
+2017/06/28 DIEGO BEDOYA
+Se realiza el lavado de las placas del intercambiador IPAA1, se deja en servicio nuevamente después de verificar con el operador que no quedaron fugas en el sistema.
+El trabajo fue realizado por Antonio Molina, Jaime Jaramillo y Atanasio Jaramillo.
+
+NOVIEMBRE 21 DE 2017 
+OT CERRADA 
+ANDRES RAMIREZ 

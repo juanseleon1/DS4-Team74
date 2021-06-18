@@ -1,0 +1,46 @@
+2017/10/29. JUAN C DUARTE MUÑOZ.
+
+COOREGIR EL COMPORTAMIENTO DEL INYECTOR, PORQUE, CUANDO SE BAJA CARGA ESTÉ SE QUEDA EN EL 53% Y, LOS DEMÁS YA HAN BAJADO AL 36% (VER EN O.S.). EL EVENTO DURO AL REDEDOR DE 4 MINUTOS CUANDO LA UNIDAD SE ENGANCHO AL AGC-CND. 
+
+SE REGISTRAN LAS ALARMAS:
+ AGUJAS FALLA INDICACIÓN.
+ DISCREPANCIA AGUJA/DEFLECTOR.
+ MEDIDAS SECUNDARIAS REGULADOR VELOCIDAD.
+
+TAMBIÉN SE INCREMENTAN LAS TEMPERATURAS, EN:
+ EMPUJE 2 DE 85.5°C SUBE A 89.3°C.
+ EMPUJE 3 DE 88.8°C SUBE A 91°C.
+ 
+EL EVENTO SE VIENE PRESENTANDO PERO NO EN EL TIEMPO QUE TOMO A LAS 18:02 A 18:06 DE HOY 2017/10/29.
+
+2017/10/30 DIEGO BEDOYA
+Se debe esperar que haya posibilidad de revisar la válvula MOOG que se encuentra en este comando de aguja 1 para; ya que en estos momentos la Unidad se encuentra a plena carga.
+2017/11/25 DIEGO BEDOYA
+El día sábado 25 de noviembre sale del sistema la unidad 3 para la reparación del inyector #1, que presentaba pega mecánica entre el 55 y 50 % cuando se bajaba la carga de la unidad.
+Se para la unidad, se realizan los bloqueos de seguridad, se abre el recinto de turbina y se realiza la medición de gases, se autoriza el ingreso al personal mecánico para la apertura del inyector #1.
+Al realizar la apertura del inyector y hacer la inspección visual se encuentran partidos los discos de resorte.
+Se realiza mantenimiento en la parte interior del inyector, se vuelve armar con los discos y las empaquetaduras nuevas.
+Este inyector presenta varios puntos de corrosión, 
+Se reparan los puntos más grandes de corrosión con resina.
+Se realizan pruebas de apertura y cierre en vacío, respondiendo bien a estos movimientos. 
+Se calibran las agujas.
+Se cierra el recinto y se retiran los bloqueos de seguridad, se buscan condiciones de maquina lista y se da arranque a la unidad.
+Se entrega la unidad al CCG siendo las 11:30 am del día domingo 26 de noviembre.
+En coordinación con los operadores del CCG y del Centro Control Guatapé se sincroniza la unidad 3 subiendo carga lentamente y observado el comportamiento de las agujas, se lleva hasta 70MW y luego se baja la carga lentamente, pasando por los puntos donde se pegaba el inyector 55 y 50 % sin presentarse esta pega mecánica. La unidad queda trabajando, se reparte la carga programada en las 8 unidades. 
+El día lunes 27 de noviembre la unidad 3 inicia operación comercial desde el periodo 1, la planta sale despachada a 560MW.
+
+Encargados del trabajo:
+Líder Mecánico:
+Diego Alejandro Bedoya
+Mecánicos Industriales:
+Yesid Sanchez
+León Parra
+Jaime Jaramillo
+Fabio Herrera
+Andrés Álzate
+Orlando Zuleta.
+
+noviembre 29 de 2017
+ot cerrada 
+andres Ramirez
+

@@ -1,0 +1,7 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+20-08-2014
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión, 
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los sensores inductivos de estado de la válvula, comprobando su correcta visualización en el sistema de control.
+.

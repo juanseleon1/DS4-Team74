@@ -1,0 +1,7 @@
+2014/10/15 CESAR HOYOS
+Se realizará revisión de las medidas de pesaje del sistema contraincendio generadores de la central guatapé, al mismo tiempo la revisión de unas zonas que se encuentran deshabilitadas. 
+
+
+2014/10/27 CESAR HOYOS
+
+Se desmontaron cada una de las células de carga y se realizó un nuevo ajuste de altura a cada uno de los cilindros quedando entre 5 y 10 mm del suelo. Se desconectan las señales de falla que llegan al nodo del generador  para hacerle seguimiento al nuevo ajuste que se realizó (Esta desconexión no inhibe la operación del sistema). Se cambio la célula de carga  # 13 la cual se encontraba mala.

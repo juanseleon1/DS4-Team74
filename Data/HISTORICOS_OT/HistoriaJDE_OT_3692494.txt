@@ -1,0 +1,11 @@
+XM: VERIFICAR Y LIMPIAR PREVENTIVO REGULADOR HIDRAULICO UNIDAD GENERACION TRONERAS
+
+
+PLANEADOR:CARLOS GIORDANELLI
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+23/03/2018
+
+Se realiza según instructivo encontrando el nivel del tanque sumidero según el visor en la seña de normal y en la instrumentación el nivel leído es de 94.20mm, siendo su nivel patrón 50mm se considera normal. 

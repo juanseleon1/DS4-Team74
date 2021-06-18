@@ -1,0 +1,11 @@
+2014/09/09 REPORTO:JUAN CARLOS DUARTE
+
+Buenos dias, favor inspeccionar el nivel del elefante del tranformador Banco 2 fase R, el dia de hoy se observo en 0.5 con 140 MW y temperaturas de aceite: 52 y devanados 72 y 76. El 2 de septiembre se observo en 1 con los 140 MW.
+Gracias.
+
+2014/09/11 GIOVANNY DIAZ - OSCAR GIRALDO OT: 2597190
+Se realizó nivelación de aceite en el banco 1 así: 
+Fase T - Cuba: 15 Galones 
+Fase R - Elefante: 20 Galones 
+
+Los valores son estimados, ya que se hace visualizando la caneca para determinar la cantidad de aceite adicionado. 

@@ -1,0 +1,2 @@
+2017-02-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3404068, PASO:1          
+Se realizó una inspección termografica al tablero +KA4, con el fin de identificar la presencia de fallas ya que la noche anterior se presentó un evento con un contactor de las motobombas del banco 4 (OT: 3403120), se realizó inspección y se evidenció un punto caliente, se crea OT 3403877 para su corrección.

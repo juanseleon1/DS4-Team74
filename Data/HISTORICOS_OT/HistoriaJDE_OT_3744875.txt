@@ -1,0 +1,7 @@
+Se genera OT para reparar falla en la unidad 3, ya que en el proceso de arranque de la unidad no abre la valvula de aislamiento de la estación hidraulica.
+
+OT: 3744875 FECHA: 11/07/2018 PROGRAMADOR: NESTOR OCHOA EJECUTA: NESTOR OCHOA
+
+Durante la secuencia de arranque la estación hidráulica no confirma presión establecida en circuito de regulación. Se evidencia que la válvula de aislamiento del acumulador no abre. Se verifica laso de control de la solenoide BB “ Válvula de aislamiento acumulador”  y se evidencia que relé BBO-X operan correctamente; sin embargo fue necesario forzarlo para que la estación hidráulica normalizara. Continuó la secuencia de la apertura de la válvula esférica pero no confirmó presiones equilibradas y no desaplica sellos. Se revisan módulos de entradas y salidas del PLC y se encuentra el módulo 2 del rack principal fallado (referencia AEM1602), correspondiente a las entradas análogas de la estación hidráulica y la válvula esférica. Se cambia dicho módulo por repuesto disponible del PLC viejo de la unidad 2, evidenciando normalización del sistema. Se ejecuta “ programa 1: arranque sin sincronización”  evidenciando comportamiento normal en todas sus secuencias.
+
+Informa: Néstor Ochoa

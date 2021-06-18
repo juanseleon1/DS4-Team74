@@ -1,0 +1,25 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: RMONTOYG
+FECHA: 14-10-2018
+OT: 3774532
+
+Sabado 13 de Octubre /2018
+
+Referente al TAST de la Unidad N°3: El turno N°1 reporta anormalidad en el funcionamiento del filtro N°1 del TAST, Por presentar baja presion en la entrada de la succion de la bomba -0.6 bar, bajo flujo 77 L/M y se incremento la temperatura del sello en un grado, se pone a funcionar el sistema  N°1 en modo filtro sucio, el cual no mejora las condiciones de operacion del sistema. Se opta por hacer cambio de sistema hacia el sistema N°2, el cual queda con los siguientes parametros de funcionamiento, succion entrada bomba 1.2bar, flujo 124L/M, y tempreatura normal.
+
+
+Referente al TAST de la Unidad N°3: El turno N°1 reporta anormalidad en el funcionamiento del filtro N°1 del TAST, Por presentar baja presion en la entrada de la succion de la bomba.
+
+Siendo las 08:00AM se hace consignación local para la intervención de ambos sistemas del TAST, se inicia con la lava o revisión del filtro N°2 que es el que se encuentra disponible y en aparentes mejores condiciones de operación, el cual al destapar se nota limpio, se le cambian los oring del diferencial de presión y el de la válvula de limpieza por presentar desgaste y se vuelve a armar y a dejar en condiciones de operación. Posteriormente se cambia de prioridad de filtro quedando en operación el filtro N°2 para garantizar la confiabilidad de la operación, al hacer esta maniobra nos percatamos que la válvula AA07 del filtro N°2 presenta problemas para hacer limpieza del filtro y se falla al dejar el sistema en automático en modo tiempo, también se nota una pérdida de presión muy considerable en el filtro N°2 motivo por el cual se bloqueó el sensor de entra de succión a la bomba CP07 para mantener censado de presión en el sistema, se monitorean desde el scada los parámetros de  flujo de agua (L/M) y la temperatura del sello, mientras se hacia el lavado del filtro N°1 el cual se encontró con suciedad, al finalizar el lavado del filtro N°1 y montaje del mismo se cambia de prioridad de filtro quedando en operación de nuevo el sistema N°1 y su filtro, con una presión de succión entrada a la bomba de 2.4 bar, un flujo de 129.6 L/M, y una temperatura de 27.3°C. también se hizo normalización del instrumento CP07
+
+Queda pendiente revisión de la operación de la válvula AA07 (apertura cuando el sistema N°2 se encuentra operando y en automático) y verificación de la caída de presión del sistema. Informa y ejecuta Turno 2 Y grupo Mecánico.
+
+INFORME: 14-10-2018
+
+Referente a la Unidad 3 / subsistema 2 TAST
+Se verifica funcionamiento encontrando la presión diferencial muy alta, se inspecciona suciedad del filtro el cual se encontro limpio por que ya se había lavado. Se encontró obstruido con vaselina una de las tomas del instrumento que muestra la presión deferencial. Se retira dicha obstrucción y se realizan pruebas de funcionamiento, quedando en una presión diferencial de 0,03 bar.
+Queda pendiente verificar el funcionamiento de la válvula AA07 ya que presenta falla; se deja dicha válvula en manual y abierta un 30% aproximadamente.
+
+Realizó: Equipo Mecánico y Equipo de Operación.
+Informo: Renato Montoya
+

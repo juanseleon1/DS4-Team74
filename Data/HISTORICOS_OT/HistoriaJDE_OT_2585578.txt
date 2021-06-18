@@ -1,0 +1,23 @@
+2014/08/21 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+Se encontró falla en el ducto de salida de los ventiladores de segunda etapa, esta falla corresponde a un daño en lamina del ducto, la cual representa una fuga considerable para el sistema de aire, adicionalmente por esa parte se ingresa agua emanada de la roca, la cual afectó el regulador de velicodad de la unidad 8. 
+
+2014/08/28 RUBEN ARBOLEDA
+Se está a la espera de ejecución ya que el personal se encuetra realizando otras actividades como: 
+Reparacion de iluminación en torers de captación. 
+Puesta en servicio Chiller 3 (deshidratación)
+REvision y mantenimiento de cables BICC
+Puesta en servicio generador asincronico
+Capacitación personal Brigada en manejo de desfibrilador portatil
+Tarde Deportiva
+
+2014/09/01 GUILLERMO CORDOBA- SEBASTIAN HINCAPIE - RUBEN ARBOLEDA
+Se reainician actividades con la limpieza de escombros en la parte inferior del ducto, en el piso del regulador de velocidad. 
+
+2014/09/03 RUBEN ARBOLEDA
+Se le dá prioridad de ejecución al aire acondicionado del piso 2 de Subestación OT: 2580772, esta OT se pone en estado 35
+
+2014/09/23 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+Se continua con la ejecución, adecuación de andamiaje para continuar con las labores de mantenimiento correctivo
+
+2014/11/08 - GUILLERMO CORDOBA - SEBASTIAN HINCAPIE
+Se da por terminado la labor, quedando los ductos reparados, se dio arranque al ventilador S9 y se dejó en funcionamiento normal. 

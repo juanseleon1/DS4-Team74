@@ -1,0 +1,28 @@
+- FECHA : MARTES MARZO 28 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - JEISON ORTEGA - SEBASTIÁN HINCAPIÉ
+- ASOCIADO A LA OT : 3422152
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+- OBSERVACIONES : durante el mantto se realizó 
+   
+  ** 1. Medida de resistencia de aislamiento antes de hacer limíeza 
+          - Rotor + barraje = 16.1 Moh
+          - Rotor = 54.4 Moh
+          - Barraje = 16.2 Moh
+
+  ** 2. Medida de resistencia de aislamiento después  de hacer limíeza 
+          - Rotor + barraje = 1.0 Goh
+          - Rotor = 1.03 Goh
+          - Barraje = 1.0 Goh
+
+  ** 3. Medida de resistencia ohmica = 165 milioh
+           - Temperatura promedio rotor = 50 ° C
+           - Temperatura ambiente = 28 ° C
+
+  ** 4. Medida de aislamiento portaesobillas: superior = 10 Goh
+          - superior = 10 Goh
+          - Inferior = 8 Goh
+
+          
+
+

@@ -1,0 +1,6 @@
+09/05/2016
+ALEJANDRO VERGARA
+Revisar ya que se da falla mecánica al quedarse sin bombas el regulador de velocidad 
+
+2016/08/21,RUBEN ARBOLEDA - EJECUTADA POR MOTAJES
+Despues de la falla en los cables de potencia de la central guatapé, para la puesta en servicio de las unidades se realizó pruebas de todas las señales y cambio de algunos relés, esta OT la ejecutó Juan Carlos Ortíz con el personal destinado para la revision de todas las señales de casa de maquinas, ésta OT se cierra sin costos.

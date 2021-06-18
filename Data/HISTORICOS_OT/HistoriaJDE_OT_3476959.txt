@@ -1,0 +1,10 @@
+XM: INSPECCION GENERAL RODETE FRANCIS DE LA UNIDAD
+PLANEADOR: RENATO MONTOYA
+PROGRAMADOR: OSCAR PARRA
+FECHA: 2017/05/22
+
+**********************************************************************************************************************************************************
+Se realiza apertura del cono de aspiración y se arma plataforma para el ingreso y revisión del rodete, se realiza secado y marcación en cada uno de los desgastes de los alabes y se toman medidas, se aplican líquidos penetrantes SKL-SP2 y revelador SKD-S2, se levanta el mapa de defectos y se toman fotos, el alabes 9 en zona 23, 10 en el vértice final de la rueda zona 22, 14 y 16 en zona 22 presntan golpes leves, el alabe 6 zona 21-22 presenta rayón, el alabe 9 y 16 en zona 22 presentan el mayor desgaste por cavitación, el alabe 8 en zona 16 presenta rugosidad.
+HORAS DE SERVICIO: 30750 horas. 
+
+EJECUTO: CARLOS USUGA, GUSTAVO LOPERA, CARLOS VALDES.

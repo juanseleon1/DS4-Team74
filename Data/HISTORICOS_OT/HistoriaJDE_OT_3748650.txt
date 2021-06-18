@@ -1,0 +1,21 @@
+MP ANUAL:
+BLOQUEO UNIDAD
+
+
+PLANEADOR:OSCAR RESTREPO
+
+
+PROGRAMADOR:WILLIAM LOPERA
+
+AGOSTO 2 DE 2018.
+Se realizaron los bloqueos electricomecanicos de la unidad para realizar el mantenimiento abual en compania de el jefe encargado y los operadores de turno.
+
+AGOSTO 08 DE 2018
+
+
+SE ANEXA EL INFORME GENERAL DE MANTENIMIENTO, EL CUAL SE GUARDA EN LA SIGUIENTE RUTA DEL SERVIDOR:
+
+<\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\ANUALES DE GENERADOR\ANUALES 2018\UNIDAD G36\6 INFORMES>
+
+TAMBIÉN SE ANEXA EN NOTAS DE EQUIPO
+

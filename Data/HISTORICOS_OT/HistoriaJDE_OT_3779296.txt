@@ -1,0 +1,6 @@
+FECHA: NOVIEMBRE 15/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO.
+
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres. Contador operaciones Q0=1664, contador operaciones del motor de la bomba Q0=3251
+Trabajo ejecutado por: Jhon Jader Orrego, Jairo Torres, Camilo Cardona
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

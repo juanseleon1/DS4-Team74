@@ -1,0 +1,16 @@
+XE: MEDIR Y LIMPIAR, RECINTO ANILLOS ROZANTES, ESCOBILLAS, BARRAJE.
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+
+SEPTIEMBRE 13 DE 2018.
+Se realizó mantenimiento electrico semestral, se hizo limpieza de los anillos rozantes con liquido dielectrico, medición de las escobillas, pruebas de resistencia de aislamiento y cambio de escobilas desgastadas. Se cambiarón las escobillas # 1 de los anillos rozantes y  la # 1 de temperaruta rotor.
+
+ANTES DE LIMPIAR: VOLTAJE 500V.
+AISLAMIENTO/TIERRAANILLO KSUPERIOR<10INFERIOR <10
+DESPUES DE LIMPIAR: VOLTAJE 501V.
+AISLAMIENTO/TIERRAANILLO GSUPERIOR6.83INFERIOR7.37Programó: William Lopera.

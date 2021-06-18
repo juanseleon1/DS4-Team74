@@ -1,0 +1,11 @@
+
+SOLICITANTE: EQUIPO METROLOGIA                  
+FECHA: JUNIO 18/2015
+REALIZAR VERIFICACION METROLOGICA A MEGAWATIMETRO U4 G3
+18/06/2015
+METROLOGIA MEGAWATIMETRO
+Por oportunidad del mantenimiento Preventivo Cuatrimestral de la Unidad 4, se realizo la verificacion Metrologica con la maleta Trifasica inyectando señales de voltaje y corriente y comprobando el correcto funcionamiento en diferentes puntos de inyeccion y diligenciando el formato de los anexos de la OT. En la siguiente ruta se encuentra los datos consignados de la verificacion:
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTRO.VERIFICACION.GUADALUPE.3\UNIDAD.4.GUADALUPE.3
+
+Programador: Oscar Arango
+Ejecutante: Francisco Gonzalez

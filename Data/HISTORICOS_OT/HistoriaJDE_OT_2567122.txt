@@ -1,0 +1,6 @@
+
+FECHA: JULIO 13 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Se habilita un LPC y se configura como AG16, esto con el propósito de realizar la recolección de datos del SCADA, es necesario hacerlo por este LPC ya que en el SCADA propiamente no se puede hacer, se guardan los datos en una memoria USB.

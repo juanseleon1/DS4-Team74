@@ -1,0 +1,13 @@
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FECHA: MARZO 01 DE 2014
+
+
+Se revisa señales en los relés diferenciales de línea 311-L que presentan problemas en los permisivos de sincronización
+
+se requiere puentear señal en la RIO 32 B Módulo canal 16 de S/E el Salto, además del BCU (Siprotec) que esta presentando falla de canal 8 (PP no habilitado) se requiere revisar y/ o Cambiar
+
+además los SEL 311-L presentan falla de Comunicación por Canal 87 , es necesario revisar la comunicación de estos dos relés (Los 311-L).
+
+se revisa la fibra optica del enlace de estos reles encontrandose en buenas condiciones.

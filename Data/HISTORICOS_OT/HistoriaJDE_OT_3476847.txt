@@ -1,0 +1,3 @@
+MEDIDA DE VIBRACIONES (RUTAS DE INSPECCIÓN)  UNIDAD ___  CENTRAL PLAYAS  SEGÚN PROCEDIMIENTO N° GANTM0002.
+
+PLY-03 (06-Jun-17) OVERALL SUBHARMONICS 1xRPM 2xRPMCSL 58.20 Microns 3.855 Microns 42.92 Microns 7.573 MicronsCSP 65.44 Microns 1.014 Microns 55.15 Microns 8.389 MicronsCIL 85.96 Microns 1.661 Microns 74.23 Microns 5.728 MicronsCIP 82.23 Microns .762 Microns 72.58 Microns 4.970 MicronsCTL 80.54 Microns 16.65 Microns 47.60 Microns 8.707 MicronsCTP 90.38 Microns 12.13 Microns 43.94 Microns 7.765 MicronsAXI 73.89 Microns 8.765 Microns 7.668 Microns 7.160 Microns

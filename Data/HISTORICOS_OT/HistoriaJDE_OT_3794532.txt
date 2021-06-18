@@ -1,0 +1,8 @@
+Se crea ot para el registro de tiempos y actividades en el apoyo al contratista MANES INGENIERIA que relaciona el motaje de los rodamientos de las poleas direccionales del teleférico
+
+
+Progamador: Camilo Montagut - 19/12/2018
+
+Se realiza el apoyo mecánico a la empresa contratista MANES INGENIERÍA en las adecuaciones mecánicas del teleférico que correspondieron principalmente al cambio de los rodamientos de la polea de reenvío lado 2. Los resultados finales de las vibraciones están a cargo del mismo contratista.
+
+Ejecuta: equipo mantenimiento mecánico UOG

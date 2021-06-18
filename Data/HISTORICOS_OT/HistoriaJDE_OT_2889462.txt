@@ -1,0 +1,40 @@
+-  Fecha :sábado noviembre 14 de 2015
+- Realizó : Mario Restrepo - Francisco Quintero
+- Programó : Mario Gonzalez.
+- asociado a la ot : 2889462
+- asunto: esta ot se deja en estado 35  , es espera de ejecución , hasta poder contar con personal de mantto y tiempo para
+                  poder ser ejecutada.
+
+1. Mantto controles
+1.1. Mantenimiento interruptor:   sí        
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 5.1 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  473 v
+       ST =   474 v                                                                
+       RT =  473 v
+       Corriente de arranque:  
+Fase R = 52.7 a
+       Corriente de marcha:  
+Fase R = 7.3 a
+Fase S =  7.5 a 
+Fase T =   7.2 a                                                                              
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 1.0 a                         Calibración térmico potencia : 7 - 10 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 671 H
+
+6. Observaciones: se hizo limpíeza de todas las partes de control y potencia asociados al compresor y además se 
+                                    cambio piloto señalización MOTOR PARADO.
+                                   

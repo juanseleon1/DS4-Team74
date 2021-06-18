@@ -1,0 +1,7 @@
+2015/07/28 GIOVANNY DIAZ
+Se realizará adecuación de la antena externa del recptor del control remoto en el puente grua badony, con el fin de mejorar la recepción y comunicación. 
+
+
+2015/07/28 OSCAR GIRALDO - JUAN DAVIID GARCIA
+Se realizó adecuación de la antena receptora en la parte superior del tablero de control, se hizo prueba de funcionamiento al control, se evidenció inconvenente a la hora de operar las palancas del control, se deben operar siempre en linea recta, en caso de un desvío el puente grúa se bloqueará, para lo cual se debe dar Start para reiniciarlo.
+

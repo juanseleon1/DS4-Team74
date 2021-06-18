@@ -1,0 +1,47 @@
+
+
+FECHA : MIERCOLES 15/07/2015
+PROGRAMADOR : YOVANNY RIVERA 
+EJECUTA : RICAURTE LOPEZ , RODOLFO GARCES 
+ASUNTO : REALIZAR MP PROGRAMADO 
+Empresas Públicas de Medellín E.S.P 
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE HOROMETROS Y CAMBIO DE ACEITE COMPRESORES DE REGULADOR
+
+
+
+HOROMETRO:  ______________
+
+PRESION DE ARRANQUE  ______54.5_BARES_______
+
+PRESION DE PARO: _______60.1_BARES ______
+
+TIEMPO DE TRABAJO: ______________
+
+TIEMPO DE REPOSO: ______________
+
+TENSION DE BANDAS EN MM. ______________
+
+TEMPERATURA CARCAZA MOTOR: ______36° C________
+
+TEMPERATURA CARCAZA UNIDAD:______34° C________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:______________
+
+ULTIMA FECHA DE CAMBIO DE FILTRO:______________
+
+
+
+
+Observaciones:_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0019

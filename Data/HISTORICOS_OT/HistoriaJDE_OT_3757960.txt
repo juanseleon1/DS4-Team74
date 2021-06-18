@@ -1,0 +1,52 @@
+PLANEADOR. SANTIAGO RAMIREZ
+PROGRAMADOR. OSCAR PARRA
+FECHA. 27/08/2018
+
+OT 3757960
+
+Objetivo: Reducir la fricción en los bujes inferiores del distribuidor para aumentar la capacidad de respuesta del sistema distribuidor en la apertura de máximo esfuerzo (60a70%) de apertura.
+
+Metodología: 
+1. Cambiar casquetes de desgaste de los bujes inferiores por casquetes nuevos. 
+2. Ensamblar los casquetes con pegante loctitte 609 (adhesivo para ensambles cilindricos). 
+3. Reconstruir ranuras para empaques con resina cerámica ARC858 de Chesterton.
+4. Pintar zonas de las ranuras con recubrimiento anticorrosivo rico en zin. (Galvanizado en frío). Loctitte SF7800.
+5. Cambiar empaques  
+6. Instalar bujes lubrincando el interior y parte del muñón inferior del álabe con lubricante seco a base de molibdeno y grafito. CRC lubricante de grafito molibdeno. El exterior del buje se puede lubricar con grasa a base de litio.
+
+Att: Santiago Ramírez.
+
+BITACORA:
+
+AGOSTO 27:
+
+- A las 7:00 se abre consignación y se realizan bloqueos de la unidad. Ejecutan bloqueos ingenieros Jorge Rodriguez, Julián Ruiz y operadores .
+- 12:00. Se vacea tubo de aspiración y se demonta el buje inferior 1. 
+- 18:00. Se desmontan los 20 bujes inferiores y se les retira el casquede de fricción y empaques. En general se encontraron los casquetes con desgaste moderado en la zona de fricción y aparente desgaste en el exterior de los casquetes ( no en todos los bujes), lo que sugiere que algunos casquetes se estaban girando con el álabe. 
+-22:00. Se lavan todos los bujes. Se observa corrosión excesiva en la ranura de los oring exteriores de los bujes inferiroes. Se procede a fabricar plantillas para reconstruir esta ranura de alojamiento del oring con resina cerámica (Chesterton ARC858)
+
+EJECUTO: MANUEL PERLAZA, CARLOS USUGA, FERNANDO DELGADO, DEIVI BAENA, GUSTAVO LOPERA, HERNAN USUGA, GABRIEL ARBOLEDA, RICARDO PELAEZ
+Informa: Santiago Ramírez.
+
+AGOSTO 28
+
+SE REALIZA LIMPIEZA INTERNA DEL ALOJAMIENTO DEL BUJE (PARTE INFERIOR DEL ALABE MOVIL) Y DE LA PERIFERIA DEL CONO DE ASPIRACION, SE LIMPIA LA RANURA EXTERIOR DEL BUJE CON GRATA PARA LA APLICACION DE LA RESINA CERAMICA, SE REALIZA LIMPIEZA INTERNA DEL BUJE RETIRANDO PINTURA EN MAL ESTADO, REALIZANDO LIJADO Y APLICACION DE GALVANIZADO EN FRIO, SE MONTAN LOS CASQUILLOS DE DESGASTE DE LOS BUJES APLICANDO ADHESIVO LOCTITTE 609 A CADA UNO DE ELLOS, SE PROCEDE A LA APLICACION DE LA RESINA CERAMICA (CHESTERTON ARC858), SE DEJA SECAR HASTA EL DIA SIGUIENTE PARA PODER SER PULIDA Y APLICARLE NUEVAMENTE GALVANIZADO EN FRIO EN ESTE SITIO.
+
+EJECUTO: MANUEL PERLAZA, CARLOS USUGA, FERNANDO DELGADO, DEIVI BAENA, GUSTAVO LOPERA, HERNAN USUGA, GABRIEL ARBOLEDA, RICARDO PELAEZ
+INFORMA: OSCAR PARRA
+
+Para la aplicación de la resina en el alojamiento del oring exterior del porta buje inferior, se fabrica plantilla para facilitar su moldeado.
+Informa: Santiago Ramírez.
+
+AGOSTO 29
+
+SE PULEN LAS CAJAS EXTERIORES DEL ALOJAMIENTO DEL ORING EXTERIOR Y SE REVISA CAJA INTERIOR DE ALOJAMIENTO DEL SELLO DE LABIO, ENCONTRANDOSE EN BUEN ESTADO; SE INSTALAN LOS BUJES EN SUS RESPECTIVOS ALOJAMIENTOS, APLICANDO GRAFITO DE MOLIBDENO EN AEROSOL A LA PARTE INFERIOR DEL ALABE Y GRASA A LA PARTE EXTERIOR DEL BUJE PARA UNA MEJOR INSERCION DEL MISMO. PARA LA INSTALACION DEL BUJE ES NECESARIO UTILIZAR GATOS HIDRAULICOS Y DISPOSITIVOS PREPARADOS PARA TAL FIN. SE REALIZA MAPA DE DESGASTE DE CASQUILLOS QUEDANDO LA EVIDENCIA EN LOS FORMATOS REQUERIDOS.
+
+EJECUTO: MANUEL PERLAZA, CARLOS USUGA, FERNANDO DELGADO, DEIVI BAENA, GUSTAVO LOPERA, HERNAN USUGA, GABRIEL ARBOLEDA, RICARDO PELAEZ
+INFORMA: OSCAR PARRA
+
+AGOSTO 30
+
+SE DESBLOQUEA Y SE NORMALIZA LA UNIDAD PARA VERIFICAR ESTADOS DEL TYRABAJO Y REALIZAR PRUEBAS DE FUNCIONAMIENTO, EL SISTEMA QUEDA SIN FUGAS DE AGUA Y FUNCIONANDO CORRECTAMENTE. SE ORGANIZA Y SE REALIZA ASEO AL SITIO DE TRABAJO.
+
+INFORMA: OSCAR PARRA

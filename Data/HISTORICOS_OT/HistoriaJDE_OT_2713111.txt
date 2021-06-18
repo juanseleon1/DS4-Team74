@@ -1,0 +1,5 @@
+MAR 18/2015 OT: 2713111 PROGRAMÓ: Javier Giraldo EJECUTÓ: Saúl Correa.
+Se realizó el mantenimiento según el instructivo GCTRE0003
+El señor Carlos Giraldo realizó las pruebas predictivas al Generador. 
+
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABEZAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.

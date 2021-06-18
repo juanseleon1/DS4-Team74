@@ -1,0 +1,9 @@
+PLANEADOR:CESAR AUGUSTO GIRALDO RESTREPO
+PROGRAMADOR: WILLIAM LOPERA
+FECHA: 20/12/2018
+
+DICIEMBRE 20 DE 2018
+Se realizó mantenimiento general eléctrico cuatrimestral a todo el sistema de la excitación según instructivo GCG3E0009.
+Se cambiaron las siguientes escobillas de la excitación principal: Grupo 1 la 1 y 3, del grupo 3 la 3, del grupo 5 la 2, y del grupo 7 la 1. De los anillos rozantes se cambiaron la 12, 14, 16 y 22, que se encontraban en su desgaste mínimo requerido. 
+Resultado de aislamiento final con anillos acoplados al rotor.
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO MANILLO GSUPERIOR115SUPERIOR3INFERIOR117.6INFERIOR 3.6

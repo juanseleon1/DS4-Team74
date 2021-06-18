@@ -1,0 +1,15 @@
+BUENAS NOCHES.
+
+SE REQUIERE VERIFICAR EL REGULADOR DE VELOCIDAD DE LA UNIDAD #6 DE GUADALUPE 3, PUESTO QUE EN EL MOMENTO DE SINCRONIZAR LA UNIDAD ESTE SE APAGÓ Y CAUSÓ SALIDA FORZADA DE LA UNIDAD.
+
+ESTA FALLA AL PARECER ES DEL FUSIBLE DE LA FUENTE DEL REGULADOR.
+
+SE INFORMA AL INGENIERO ENCARGADO Y AL CENTRO DE CONTROL GUADALUPE.
+
+INFORMA: TURNO 1 OPERACION GUADALUPE 3.
+
+Referente a Falla Regulador de Velocidad U6 GIII.
+Se encuentra fusible de 3 Amperios alimentación de la fuente principal quemado, se cambia y se normaliza el regulador, se procede a arrancar la unidad y funciona normal.
+
+Atendió: Grupo Operación GIII y Grupo mtto Electrónico.
+               Esteban Vásquez  Alirio Hernández.

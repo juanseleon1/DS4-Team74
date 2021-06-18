@@ -1,0 +1,6 @@
+
+FECHA: 11 DE MAYO 2014
+
+EJECUTO: DIOMER DIAZ - PEDRO ROBAYO
+
+Se retira la UPS del AG6 y se coloca en el AG13 por estar  sacando alarma de UPS baja 

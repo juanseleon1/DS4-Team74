@@ -1,0 +1,25 @@
+FECHA: NOVIEMBRE 20 DE 2014
+EVENTO: SALID FORZADA VALVULA PROPORCIONAL
+INFORMA: SANDRA CARMONA
+
+DESCRIPCION
+
+A las 4:10 am del dia 20 de noviembre de 2014, sale alarma "Pos. Servomotor no alcanzada" en la unidad 3, inmediatamente sale paro rapido 86R falla valvula proporcional. La planta estaba despachada a 450MW, no se estaba regulando.
+
+En un analisis previo del evento, superponiendo las vaiables: Posicion distribuidor, potencia de referencia, potencia activa, posicion de referencia y comando valvula proporcional, se observa que desde las 3:40 am, se congelan las señales de pos de ref,y pos distribuidor. El comando valvula proporcional intenta enviar una consigna para intentar abrir el distribuidor y durante media hora no recibe respeusta de la pos de ref ni pos distribuidor, razon por lo "comando valv propo" cual sigue suibiendo hasta que finalmente se da paro rapido. ¿Por que da paro rapido subir hasta ese nivel?
+
+Lo particular del comportamiento anteriormente descrito es que cuando se presenta la alarma "Pos Servomo no alcanzada", ésta alarma se activa cuando la posición deseada del servomotor difiere en más de un 10% de la real por un período mayor a 5 segundos y se da paro rapido. En este caso no hubo diferencia debido a que ambas señales estaban congeladas (que causo que se congelaran? problemas en el modulo analogo del PLC? perdida de comunicacion?) 
+
+De acuerdo al Ingeniero Santiago, una posible explicacion es pega mecania en los alabes asociada a la misma problematica encontrada en la unidad 1 (hallazgos de problemas en los bujes). 
+
+Este evento continua en analisis y se hara inspeccion con el personal mecanico. Se reoceminda tambien revisar los modulos del PLC y las señales de lso sensores de posicion para descartar problemas de comunicacion.
+
+ACCIONES CORRECTIVAS
+
+Ninguna a la fecha.
+
+ACCIONES PREVENTIVAS
+
+Se propone una consigna operativa en la cual la unidad 3 opere al maximo de la potencia para evitar que el distribuidor entre en la zona de presion maxima (140 bar, 70% apertura distribuidor)).
+
+Informa: Sandra Carmona

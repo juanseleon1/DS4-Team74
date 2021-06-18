@@ -1,0 +1,29 @@
+
+2018/04/02 _ Referente a la unidad # 2. 
+Se realiza verificación de pulsos en los tiristores del AVR 2 y la tarjeta DPSEB, se encontró falla en conexión pulsos tiristores VS1, se normaliza y queda en observación. 
+OT: 3705060               
+Realizo: Grupo Electrónico.
+Informa: Jorge Rodriguez - Walter Tobón.
+
+2018/03/31 _ CARLOS ENRIQUE MONCADA. OT N° 3705060.
+
+Referente a la unidad # 2. Sale la unidad # 2 por falla en el AVR 2 con alarma en el regulador de tensión ( falla supervisión pulsos rectificadores).
+Se realiza prueba de energización en manual presentando incremento de tensión por encima de 6 KV, fue necesario des energizarla nuevamente. Se verifican parámetros del regulador de tensión, se verifican lazos de voltaje y corriente de excitación, estos se encontraron dentro de valores de referencia, se ajustan conexiones de ambos lazos y se prueba nuevamente energización en local manual, la unidad responde correctamente llegando a 6 KV. El regulador de tensión es pasado a automático y la unidad alcanza tensión de 13,0 KV. Con autorización del centro de control se procede a sincronizar la unidad y se distribuye carga, la unidad queda en observación hasta el periodo 18, para este periodo es entregada para explotación comercial. 
+
+Realizo: Adonis Cadavid, Jorge Rodriguez, Carlos Moncada, Jorge González, Carlos Guinguer y Eladio Piedrahita.   
+
+2018/04/01 _ Referente a la unidad # 2 Regulador de tensión. 
+Se entrega unidad disponible despues de encontrar falla en control de regulacion de tension por falla en CPU del AVR 2.                                                                                            Dentro de la revision se verificaron los lazos de control de corriente y tension de excitacion, disparo de tiristores, tarjeta de entradas y salidas analogas, tarjetas generadoras de pulsos y parametros de ajustes.                                                                                                                 Para solucionar problema en la unidad # 2. Se retira CPU del AVR1de la unidad #1. La unidad fue probada con la excitacion en modo manual y modo automatico, operando correctamente, se realiza transferencia de los servicios auxiliares de la unidad.                                                                                                                      Se declara la unidad disponible a las 16:05.
+
+Realizo: Jorge Rodriguez, Carlos Moncada, Eladio Piedrahita, Adonis Cadavid.
+
+30 DE MARZO DE 2018:
+SE FALLA EL AVR 2 DE LA UNIDAD 2. EL 1 SE ENCUENTRA FUERA DE SERVICIO POR TAL MOTIVO SE DA PARO DE EMERGENCIA.
+
+TRABAJO COMPLETADO CON TRABAJO ADICIONAL
+
+03/04/2018
+
+Se realiza verificacion de pulsos en los tiristores del AVR y la tarjeta DPSEB, se encontró falla en conexión pulsos tiristores VS1 se normaliza y queda en observacion
+
+Realizado por Walter Tobon 

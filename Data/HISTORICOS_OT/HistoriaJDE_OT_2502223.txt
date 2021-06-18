@@ -1,0 +1,4 @@
+XM - VERIFICAR, LAVAR Y AJUSTAR EL COJINETE SUPERIOR DE LA UNIDAD
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2014-05-15
+Se realiza según procedimiento. Se revisa el nivel el cual se encontró en el instrumento digital en +5.73 mm coincidiendo aproximadamente con la medida del  instrumento análogo en +5 mm. Se encuentran los filtros limpios. 

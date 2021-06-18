@@ -1,0 +1,22 @@
+MP ANUAL EQUIPOS:
+
+263577 CONTROLADOR UNIDAD +TCU4 U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+
+FECHA: 02/10/2018
+
+se realizó inspección visual, verificación y limpieza del tablero de control.
+se revisó la conexión de los cables y se reapretó la bornera de control.
+se realizó verificación y mantenimiento a la pantalla de unidad, revisando el cooller del procesador. 
+se revisó el cableado profibus DP de la unidad y las link-device de la unidad. también se le hace mantenimiento al aire acondicionado.
+Con el calibrador de procesos se realiza inyección de temperatura al lazo de instrumentación asociada a todas las señales de temperatura que son monitoreadas por el control de unidad.
+Se verifico falla de controlador de instrumentación C2A, se encuentra dirección IP errada, se reprogramo dirección IP y se descarga programa a controladores de instrumentación, desde estación de ingeniería, normalizando controladores y respondiendo a la función de toggle correctamente.
+
+PROGRAMO: LUIS ADRIAN CARDONA
+
+
+

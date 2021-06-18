@@ -1,0 +1,8 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+08-06-2016
+PROGRAMADOR JOSE MONTOYA
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+Se realiza verificación al funcionamiento de la tarjeta AMP 2 y el distribuidor
+% DE APERTURA MANDO25%   50%   75%   100%  MEDIDAS EN TABLEROmAMedidor RVXmAMedidor RVXmAMedidor RVXmAMedidor RVXDISTRIBUIDOR 8,00 (-3.9vol) 11.93 0.01vol 16.8 4.01vol 19.8 8vol

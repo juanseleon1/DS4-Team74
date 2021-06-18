@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: OCTUBRE5-2015
+EJECUTANTE: PEDRO ROBAYO
+
+
+
+Sale el AG7 por grid error se hace revision del contacor 17K1 y se encontrba bien en vista de que se habia mojado en días anteriores se revizo y se encontro la base del modulo 153A3 con salinidad y se hace el cambio pero continuo con el problema ,se cambia el modulo 151A3 DO y sincroniza el aerogenerador dejando en observacion 

@@ -1,0 +1,10 @@
+14/12/2018 7:26.
+Se detecta en pantalla termico del ventilador fallado, a pesar de que se le ha dado apertura y cierre a todo el gabinete no rearma, persiste la anomalia.
+Se solicita detectar y corregir la falla los ventiladores funcionan normalmente.
+Realiza e informa: Turno 3 - Mauricio Caicedo - Wilson Arango
+
+20/12/2018
+Se deshabilita la alarma del rele de supervision de tension debido a falla interna; se dejan habilitadas las alarmas de las fallas de los ventiladores, garantizando el correcto funcionamiento.
+
+Realizo: William Lopera-Carlos Andres Forero
+Informo: Carlos Andres Forero

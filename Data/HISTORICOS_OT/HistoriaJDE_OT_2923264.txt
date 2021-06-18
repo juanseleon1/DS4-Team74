@@ -1,0 +1,7 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-11-02
+REVISAR FUNCIONAMIENTO DE VALVULA 4 VIAS
+
+PROGRAMADOR:FRANCIS LONDOÑO, 2015-11-09
+Se desmonta y revisa válvula de 4 vías del intercambiador del subsistema 1 de refrigeración que se encontraba con problemas de funcionamiento. Se evidencia mala dirección de los flujos de entrada y salida de agua tratada.
+
+TRABAJO REALIZADO POR:  FRANCISCO GUINGUER

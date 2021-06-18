@@ -1,0 +1,11 @@
+
+PLANEADOR: ANDERSON GARCIA: MARZO 02/2014.
+CAMBIAR VARIADOR DEL PUENTE GRUA GANCHO PEQUEÑO
+
+ENERO 18 DE 2016.
+Se comienza a trabajar en la adecuación para realizar el cambio de los contactores por un variador de frecuencia, pero esta pendiente que lleguen unos materiales. 
+
+ENERO 13 DE 2017.
+Se termina con la instalción de un variador marca YASKAWA V1000, en el control del poli pasto del cancho pequeño, debido que en el control que hay era por contactores y los contactos se desgastaban demasiado. Queda pendiente realizar las pruebas con carga para corroborar el correcto funcionamiento.
+
+William Lopera

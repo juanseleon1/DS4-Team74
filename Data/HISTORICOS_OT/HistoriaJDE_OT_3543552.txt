@@ -1,0 +1,18 @@
+JULIO 18 DE 2017 REALIZAR INSPECCIÓN AL REGULADOR ELECTRÓNICO
+REALIZADO POR: ANDRES MAURICIO YEPES - ALEXANDER VILLA VELEZ 
+OT: 3543552 REGULADOR DE VELOCIDAD PJ U1
+·Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control del Sistema Regulación de Velocidad.
+·Ajuste y limpieza sensores de velocidad y posición en el sistema de regulación de 
+velocidad 
+ 
+Tablero: Regulador de Velocidad U+TR PJ U1Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 0 20 2282439.1 25 36 40 42122439.7 50 75 59 62162440.35 75 110 79 82202440.95 100 145 98 100Instrumento 1: Nivel Inferior (m)
+Instrumento 2: Limitador de posición (%)
+Instrumento 3: Revolución (%)
+Instrumento 4: Posición del Distribuidor (%)
+Instrumento 5: Posición de la Válvula (%) 
+Tablero: Control Turbina U+TT PJ U1Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 084.9 5 0.6128.5 8.6 21612 12.5 3.222015.5 16 4.98Instrumento 1: Delante de la Válvula (Bar)
+Instrumento 2: Cámara Espiral (Bar)
+Instrumento 3: Tubo de Aspiración (Bar)
+Instrumento 4:
+Instrumento 5:
+

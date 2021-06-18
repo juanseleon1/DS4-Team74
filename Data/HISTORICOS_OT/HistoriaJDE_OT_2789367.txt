@@ -1,0 +1,2 @@
+2015/06/18 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+Se encontró puente realizad en las borneras AX1 bornes 4 y 9, el día 2015-04-01, se realizó revisión de los sensores y se encontró sensor 5185, lejos de la platina de sensado, correspondiente a la puenta de aguas abajo del interruptor fase T , se realizó ajuste y se probó, quedando en condiciones normales.

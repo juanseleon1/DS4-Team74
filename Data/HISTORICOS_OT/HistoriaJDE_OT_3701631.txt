@@ -1,0 +1,13 @@
+2018/03/18 RUBEN ARBOLEDA
+Se crea OT para realizar peubas de carga de puente grúa
+2018-03-17 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3701631, PASO:1          
+Se realizó adecuación de pesos para ejecución de pruebas de carga de los puentes grúa de casa de maquinas, se inicio con las pruebas del gancho principal del puente grúa vevey
+
+2018-03-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3701631, PASO:2          
+Se finalizó las pruebas de carga del gancho principal del puente grúa vevey.
+
+2018-03-19 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3701631, PASO:3         
+ Se realizó adecuación de pesos y pruebas en modo tándem al puente grúa vevey.
+
+2018-03-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3701631, PASO:  4        
+Se realizó calibración de Sensor óptico en el puente grúa vevey, quedando a 48 centímetros entre el sensor y la parte superior del gancho principal

@@ -1,0 +1,7 @@
+
+FECHA: MAYO 03 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y ELIECER PUSHAINA
+
+
+Se realiza prueba de condensadores y se encuentran los 6 que tenia desbalanceados, se cambian por 6 condensadores nuevos, el numero 5 muestra malo pero el problema está en el contactor que se queda pegado para cerrarse.

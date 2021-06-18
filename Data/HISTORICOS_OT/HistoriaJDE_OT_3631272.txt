@@ -1,0 +1,10 @@
+Se realiza crea ot para el registro de tiempos y actividades en la ejecucción del mantenimeinto que relaciona la inspección general que se les realizará a las motobombas de la estación hidráuilica de la unidad 1 de la central de Troneras
+
+
+Programador: Camilo Montagut - 20/12/2017 
+
+Se realiza inspección de las bombas del regulador de la unidad 1 y se encuentra que en el momento posterior que termina de cargar presión el sistema se genera un ruido proveniente del cheque del regulador. Sdemás se realiza desmonte de tubería para verificar otras posibles causas del ruido.
+
+Queda pendiente planear el desmonte de las tuberías del regulador con el fin de verificar el estado del cheque
+
+Ejecuta: equipo mantenimiento mecánico UOG

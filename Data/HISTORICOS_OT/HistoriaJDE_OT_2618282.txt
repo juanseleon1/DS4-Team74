@@ -1,0 +1,6 @@
+NO ARRANCA EN REMOTO SE QUEDA EN PASO DOS O SEA NO CONECTA BY PASS NI ABRE VALVULA ESFERICA.
+13/10/2014 ABAD RAMIREZ.
+
+Se realizaron arranques y paros en modo remoto llegando al paso 4 siempre y no lo completaba, se optó por aumentar el tiempo a 1 minuto en dicha secuencia, se procedió a arrancarla remotamente hasta energizada y realizo todos los pasos, hasta energizada, se revisó este tiempo en las otras máquinas y se les coloco el mismo tiempo en este paso.
+
+Esta modificación se contó con la colaboración de operación y el Ing. Juan Carlos Granados.

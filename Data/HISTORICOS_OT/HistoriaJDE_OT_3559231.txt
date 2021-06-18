@@ -1,0 +1,5 @@
+FECHA: 06/08/2017   SOLICITADO POR: Natalia Urrea - Operación G4
+DESCRIPCIÓN: La IHM de bombas y compresores del sistema hidráulico Guadalupe 4 unidad 3 (tablero +LAC22) presenta constantemente bloqueo: cuando se trata de activar mediante la pantalla táctil ésta queda totalmente negra y con led indicador naranja.
+25-08-2017
+PROGRAMO JOSE MONTOYA 
+SE CAMBIO BATERIA A LA IHM

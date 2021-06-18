@@ -1,0 +1,11 @@
+Se realizó limpieza general al cubiculo del interruptor, 
+
+Se realizó medida de los sensores de las puertas, encontrándose en funcionamiento normal, al igual que la operacion del relé GBD/C. 
+
+Realizó: Fernando Ruiz - Leonardbo Arboleda
+
+Se realizó pruebas de tiempos de apertura y cierre, se encontró valores desfasados, se realizó ajuste y limpieza de contacto de la fase T ya que presentó 262michoohm en comparacion con las otras fases de 38microohm. 
+
+La limpieza fue efectiva, se redujo a 3 michroohm. 
+
+Realizó: Edwar Londoño 

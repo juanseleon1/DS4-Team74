@@ -1,0 +1,3 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION _____  DE LA CENTRAL GUADALUPE IV.
+
+GDP4-03 (17-Ago-17) OVERALL SUBHARMONICS 1xRPM 2xRPMCSL 59.17 Microns 2.746 Microns 48.58 Microns 14.66 MicronsCSP 54.11 Microns 1.679 Microns 30.53 Microns 16.32 MicronsCIL 61.82 Microns 17.71 Microns 23.21 Microns 7.881 MicronsCIP 58.42 Microns 17.37 Microns 14.37 Microns 4.081 MicronsCTL 69.45 Microns 8.565 Microns 26.06 Microns 8.879 MicronsCTP 61.97 Microns 7.651 Microns 23.63 Microns 6.263 MicronsAXI 61.01 Microns 23.03 Microns 13.33 Microns 9.397 Microns

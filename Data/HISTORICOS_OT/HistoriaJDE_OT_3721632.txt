@@ -1,0 +1,10 @@
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+
+PLANEADOR:YOFRED RODRÍGUEZ
+
+PROGRAMADOR:JOSÉ MONTOYA
+
+Se desmonta la instrumentación de la válvula de admisión para que los mecánicos reparen la válvula, Se realizó limpieza general del tablero de control de la válvula.
+Se realizó verificación y limpieza a los sensores y conectores de la válvula de admisión.
+Se instalan nuevamente los instrumentos de la válvula.

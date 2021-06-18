@@ -1,0 +1,5 @@
+SOLICITANTE:
+REALIZAR INYECCIÓN A LOS DIFERENTES INDICADORES DEL TABLERO DE MEDIDA. VERIFICAR BORNES
+
+ABRIL 29 DE 2018   OT:3826365   PROGRAMO: JGUINGUER   EJECUTO: ANDRES YEPES
+Se realiza limpieza del tablero de Medidas Unidad, verificación de cableado, estado de los componentes eléctricos y electrónicos; todo se encuentra  normal.

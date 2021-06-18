@@ -1,0 +1,12 @@
+2015/01/20 GUILLERMO CORDOBA - RUBEN ARBOLEDA
+Se realizo diagnostico de equipo de aire acondicionado de la oficina de instrumentación, para lo cual se encontró fallado el compresor, se requiere de cambio por tener bobinas abiertas, datos tecnicos del compresor: 
+
+Voltaje: 220VAC
+Capacidad: 18.000BTU
+Potencia: 1.5Hp
+Tipo: Rotativo
+Fases: 2
+KIT de Arranque incluido (Capacitor y termico)
+
+Se aplico soldadura a diferentes poros que se presnetaban a la hora de presurizar el equipo, se instaló y se dejo en condiciones normales de funcionamiento. 
+

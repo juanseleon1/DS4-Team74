@@ -1,0 +1,5 @@
+Efectura el cambio de los filtros y microfiltros en los cuiatro comandos y el dfeflector en la unidad 1 de guatape, ademas filtroprensar el aceite .
+
+esto con el fin de hacer las pruebas de respuesta en los inyectores por parte del ingeniero oswaldo alzate.
+
+jaime a ramirez 

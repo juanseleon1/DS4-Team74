@@ -1,0 +1,19 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+MARZO 29 DE 2016
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+
+BUENOS DIAS.
+
+SE REQUIERE REVISAR LA BOMBA DE REFRIGERACION COJINETES #2 DE GUADALUPE 3, PUESTO QUE PRESENTA ALTA VIBRACION Y RUIDO ANORMAL AL PONERLA EN SERVICIO, DE IGUAL FORMA, NO ESTA SUBIENDO PRESION AL MOMENTO DE ARRANCAR.
+
+POR EL MOMENTO SE ABRE LA ALIMENTACION PRINCIPAL DE LA BOMBA Y SE PONE PARO DE EMERGENCIA EN EL TABLERO DE CONTROL DE ESTA.
+
+INFORMÓ: TURNO #1 OPERACION G3.
+
+
+Nota: se desmonta la motobomba y se repara en lo relacionado a: cuerpo de impulsores, se construye eje deteriorado, se repara la caja prebsaestopa la cual se encontraba con desgaste el buje guia, se monta y se comprueba su normal funcionamiento en lo relacionadoa vibracionnes o ruidos anormales y a la presion que entrega la bomba que es 72 psi considerada la presion de servicio normal.
+En estas condiciones se da servicio a la motobomba para la refrigeracion de las unidades.

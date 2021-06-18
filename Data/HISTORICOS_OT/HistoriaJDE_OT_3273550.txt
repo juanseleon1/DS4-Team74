@@ -1,0 +1,7 @@
+
+FECHA: OCTUBRE 8 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla comunicación controlador superior, en el RFC se observa la falla 7,18 0D29 se inspecciona en la góndola y no se ve físicamente ninguna falla, se realizan pruebas con los módulos 7,17 y 7,18 pero la falla continua, se cambia el módulo 7,0 y se deja en servicio el aerogenerador, la falla sale nuevamente horas después, pero se deja borrar.

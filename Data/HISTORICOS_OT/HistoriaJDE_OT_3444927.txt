@@ -1,0 +1,11 @@
+
+ 01/03/2017. SERGIO OLIVARES D.
+
+ Se revizaron los sensores inductivos de las puertas los cuales se encontraron normales, porque la unidad se encontraba  fuera  de servicio y los sensores frios, no se retiro el puente de los mismos, porque no se pudo identificar cual sensor estaba malo,  porque fallan cuando se calientan.
+ Se requiere que la unidad este en servicio para que se calientes los sensores y saber cual esta fallando, e inmediatamente  salga, tomar las medidas correspondientes e identificar el fallado por calentamiento.
+ Se sugiere cambiar los sensores por de alta temperatura, en un mantenimiento de unidad, de los cuales hay disponibles, 
+
+2017-04-13 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3444927, PASO:2          
+Se realizó cambio de todos los sensores  del interruptor de potencia de la Unidad 4, se retiró un puente y se dejó en condiciones normales de cableado.
+
+

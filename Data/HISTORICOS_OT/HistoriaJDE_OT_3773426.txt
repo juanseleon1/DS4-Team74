@@ -1,0 +1,10 @@
+SE INICIA POR LA EMPRESA GENERALFIRE UN MANTENIMIENTO A TODOS LOS ELEMENTOS DEL SISTEMA CONTRA INCENDIO GENERADORES.
+
+Sabado 8/12/2018
+El sabado en la noche se dio descarga del banco principal de CO2 en el generador 1,y dio paro de maquina, cuando se inpecciono se evidencio que se produjo por la activacion manual del sistema, como hipotesis se penso que habia sido un error humano, se procedio a restablecer el sistema y se cambio al banco de respaldo, pasados unos minutos y ya estando en proceso de arranque de la maquina, se dio descarga al otro banco de CO2, nuevamente se revisa y se encuentra que la tarjeta electronica perteneciente a la estacion manual del SCI, del generador esta en corto, esto posiblemente causado por la contaminacion.
+
+Martes 11/12/2018
+Se revisa el modulo que dio la causa a la descarga de los cilindros de CO2 y este es cambiado y el sistema de deteccion vuelve a quedar en perfectas condiciones de operacion.
+
+17, 18 y 19 Diciembre/2018
+Se retiran los cilindros de CO2 para ser llevados a recargar, estos temporalmente mientras el carro viene a recogerlos para ser llevados a recargar, son ubicados en el taller de soldadura.  

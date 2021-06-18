@@ -1,0 +1,5 @@
+2017-11-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3641456, PASO:1          
+Se realizó mantenimiento al motor de uma 3 transformador c/m gt    CORRIENTE: R:7,9, S:7,6, T:8,3, VOLTAJES RS:448, ST:451, TR:450,TEMPERATURA MAXIMA DE MOTOR 81,6°C 
+
+2017-11-21 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3641456, PASO:2          
+Se realizó limpieza general e informe termográfico a la uma 3 transformador c/m gt, se dejó en condiciones normales

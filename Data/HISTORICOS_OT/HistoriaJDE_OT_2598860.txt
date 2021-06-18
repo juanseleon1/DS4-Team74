@@ -1,0 +1,7 @@
+
+FECHA: SEPTIEMBRE 10 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se presenta nuevamente falla comunicaciones, se inspecciona en la top box y se encuentra falla en el modulo159A1, se cambia y se soluciona el problema

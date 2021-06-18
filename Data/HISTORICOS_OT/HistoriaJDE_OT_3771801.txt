@@ -1,0 +1,11 @@
+
+2018/10/01 OT:3771801 Cesar Tulio / Luis Eduardo Arcila
+Falla módulo remoto DSAX452 de las señales de temperatura banco 2, se retira y se envía a RPM para su respectiva reparación. El dia 17 de octubre 
+se pasa el modulo del banco 1 para el banco 2 y se normalizan las señales. Queda pendiente el modulo que esta en reparacion para ser instalado 
+en el banco 1.
+
+2018/19/12 OT:3771801  Cesar Tulio / Luis Eduardo Arcila
+
+Se normaliza el módulo remoto DSAX452 de las señales de temperatura del banco 2 al banco 1 y se coloca uno de repuesto en el banco 2 quedando en condiciones normales de operación.
+
+

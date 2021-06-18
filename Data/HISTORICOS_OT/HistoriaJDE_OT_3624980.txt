@@ -1,0 +1,19 @@
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:WILLIAM LOPERA
+
+
+OCTUBRE 13 DE 2017
+
+
+SE REALIZA RETIRO DE ESTE TRANSFORMADOR, EL CUAL SERÁ REPARADO POR EL CONTRATISTA EXPLORER SAS DE ACUERDO AL CONTRATO CW11278 DE ARIBA, (CAMBIO DE BOBINA DE BAJA TENSIÓN POR DEFECTO TÉRMICO, INSTRUMENTACIÓN DE TEMPERATURAS, RELÉ BUCHHOLZ, VÁLVULA DE SOBREPRESIÓN  , PINTURA GENERAL, ADECUACIÓN DEL CABLEADO DE POTENCIA Y CONTROL , MANTENIMIENTO A LA BOBINA DE ALTA TENSIÓN Y PRUEBAS EN PLANTA Y SITIO DE FUNCIONAMIENTO, PRINCIPALMENTE).
+
+ESTE TRANSFORMADOR CUYA SERIE ES 01.2.4002 SERÁ RETIRADO DE LA FASE "S" , Y LUEGO SE INSTALARÁ EN LA FASE "T"
+
+ESTA OT CUENTA CON PASOS ELÉCTRICO Y MECÁNICO.
+
+OCTUBRE 17 DE 2017
+Antes de retirar el transformador que sale para su reparación con serie 01.2.4002 a realizar levantamiento de cableado de control antes de desconectar, se desconecta por lado de alta, baja y cables de tierras de la cuba, se realiza prueba del SFRA para tener como huella cuando vuelva reparado.
+Una vez desconectado el transformador se procede a retirar de la celda con el apoyo del grupo mecánico, utilizando dispositivo electromecánico para movilizarlo y ubicarlo en la sala de montajes para ser entregado al personal de EXPLORER que es la empresa contratista encargada de la reparación y mantenimiento del transformador.
+Informò: William Lopera

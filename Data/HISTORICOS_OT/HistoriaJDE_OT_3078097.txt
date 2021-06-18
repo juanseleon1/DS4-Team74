@@ -1,0 +1,4 @@
+Fecha: 2016/04/05
+Síntoma: No es posible establecer comunicacion con el Datalogger de la caseta 1 de RGII
+Diagnóstico preliminar: Posible falla en conversor ethernet a Optico o Cables de red en falla 
+Reportó: Jeison Julian Suarez Rios

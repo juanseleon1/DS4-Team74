@@ -1,0 +1,8 @@
+FECHA: 21/02/2018 SOLICITADO POR:Geovanny Echeverri, Gustavo Quintana, Natalia Urrea - Operación Guadalupe III
+DESCRIPCIÓN: Se presenta paro de emergencia por muy alta temperatura RTD2 devanado estador unidad 5 de Guadalupe III. Esta señal presentó oscilación de 0 a 250°C y se quedó en ese valor. Se verifica la RTD encontrando que se encuentra abierta.
+
+Desde el control, se deja deshabilitada alarma y disparo de esta señal con TAG G4U5TEMDEVE2OUT, y se da rearranque a la unidad.
+
+FECHA: 21/02/2018
+se realiza cheque0 de la rtd, encontrando las dos compensaciones abiertas, por lo tando se deja desconectada desde bornera
+Programo: Luis Adrian Cardona

@@ -1,0 +1,16 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+MAYO 01 DE 2014
+
+JEFE DE TRABAJO: ESTEBAN VASQUEZ.
+REALIZO: WILLIAM LOPERA.
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan calibrados de la siguiente manera:
+
+SENSORES  CTPL CTPR KPHVALOR MEDIDA VDC  -8.94 -8.86 -3.55VALOR   AJUSTE VDC  -7.56
+
+Nivel cojinete de turbina se encontró en  64  mm  no se le adiciono aceite, el patrón es de 65 mm.
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\Wperezg5\MTTO UNIDADES GPEPORCE\2014\TRIMESTRALES G4-2014
+
+ COJINETE TURBINA. °CPATRONES °C METAL 2 METAL 5 ACTE 4 ACTE 64040,2 40,2 39,7 406060,2 60,2 59,6 608080,2 80,1 79,5 80,1ALARMA80,0 75,0 80 80DISPARO85 80 85 85

@@ -1,0 +1,5 @@
+2018/11/22 RUBEN ARBOLEDA
+Se crea OT para realizar el desmonte y montaje de los sensores de frenado, para que el personal de mantenimiento mecánico realice un mantenimeinto a los gatos de frenado Unidad 2.
+
+2018-11-21 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3787723, PASO:1          
+Se realizó la desconexión de los sensores de los gatos en la Unidad 2, con el fin de realizar una revisión de la empaquetadura por parte del personal de mantenimiento mecánico.

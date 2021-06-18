@@ -1,0 +1,13 @@
+PLANEADOR: SANTIAGO RAMÍREZ, 2016-01-01
+
+DESCRIPCIÓN DE FALLO: En el proceso de arranque de la unidad se presenta rotura de perno fusible 2 a las 23:30 del 31 de diciembre de 2016, ocasionando paro rápido (86R). Se redespacha la unidad los periodos 2 y 3, ya que el periodo 1 se encuentra autorizado.
+
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2016-01-01
+SE REALIZA CAMBIO DE PERNOFUSIBLE Y SE HACEN PRUEBAS DE APERTURA Y CIERRE DE DISTRIBUIDOR, SE REALIZA CALIBRACIÓN DE SENSORES INDUCTIVOS DE LOS ALABES No. 2 Y 5.
+
+SE DEBE SOLICITAR UNIDAD PARA HACER INSPECCIÓN  Y CALIBRACIÓN DE BUJES DEL ALBAE No. 2.
+
+TRABAJO REALIZADO POR: LUIS FERNANO DELGADO Y GUSTAVO LOPERA.
+
+Se solicitó consignación de emergencia para el 4 de enero de 2017 entre los periodos 8 y 17 inclusives, para revisar al interior lainer en el álabe 2 y re calibración de los bujes de este álabe debido a las fallas recurrentes presentadas el 20 de diciembre y el 31 de diciembre de 2016. Informó: Santiago Ramírez.

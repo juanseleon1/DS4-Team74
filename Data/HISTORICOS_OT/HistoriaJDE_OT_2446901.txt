@@ -1,0 +1,12 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE PORCE2.
+
+XI: VERIFICAR INTRUMENTACION
+
+Verificar instrumentación de llenado tanque combustible de las plantas diesel, lo mismo que el tanque almacenador de combustible, verificar funcionamiento del tablero de control de las plantas y la comunicación con el PLC Modicom.
+
+
+
+Se realiza mantenimiento y limpieza de equipos , quedan en buenas condiciones operativas
+
+El visor de nivel del tanque de combustible plantas Diesel está muy deficiente, requiere cambio
+

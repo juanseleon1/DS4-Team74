@@ -1,0 +1,11 @@
+26/OCTUBRE/2015
+Esta OT se realiza para el diseño y fabricacion de soporte para el nuevo sensor de posicion de la valvula deflectora de la unidad G31. Puesto que el instrumento actual presenta oscilacion en la medida de corriente que envia al regulador de velocidad. 
+El nuevo sensor es inductivo, para que no tenga perturbaciones la señal de control.
+Este trabajo se ejecutara en conjunto las dos disciplinas (mecanica y electronica).
+En estos momentos se encuentra la pieza en el taller industrial para la fabricacion y los acabados finales, puesto que este cambio de sensor se debe hacer cuando todo este listo para montar.
+
+Programador: Oscar Arango
+
+7/12/2016 planeador: yofred Bernardo Rodriguez Vahos
+
+Esta orden de trabajo se cierra por depuración , vencimiento de ejecución y según la gestion del plan productividad.

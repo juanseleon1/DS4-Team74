@@ -1,0 +1,10 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+FECHA: 07/11/2018
+
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL 9.73VDC se ajusta a 9.02 VDC y CTPR 9.0VDC, KPH: 7.62VDC se ajustó a 9.04VDC.
+Se inyectan las señales
+
+  COJ TURBINA °CPATRÓN °C METAL 1 ACTE 3 ACTE 740 40.6 41.3 sensor deshabilitado60 60.1 61.980 80.1 82.1ALARMA  80.1 80.1DISPARO  85.1 85.1
+
+
+PROGRAMO: LUIS ADRIAN CARDONA

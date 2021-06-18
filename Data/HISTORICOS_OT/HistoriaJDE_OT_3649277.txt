@@ -1,0 +1,2 @@
+2017/11/22 CESAR HOYOS OT: 3649277
+Se cambia microfiltro en la válvula MOOG y se ajusta trasductor.

@@ -1,0 +1,17 @@
+
+FECHA: JUNIO 19 DE 2015 OT: 2799150
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+El día de ayer después de reponer el aerogenerador, tras la apertura de la línea 742, quedo fallado el aerogenerador por falla en el modulo 10,1; el día de hoy se realiza inspección del controlador superior y se encuentran los fusibles bien se retiran los módulos 10,1; 10;2; 10,3 y 10,4 para observar su estado, se encuentra el 10,3 suelto en su parte interna, aparentemente no ajusta adecuadamente en la base, se prueba y continua con la falla en 10,1. Se mide el voltaje de DC de la fuente 102A1 que alimenta estos módulos y se encuentra en 22 Vdc, se calibra dejándola en 24,2 Vdc pero oscila demasiado, al subir el voltaje se normaliza la falla 10,1 y queda fallado el 10,3. Las medidas de temperatura que estaban perdidas y que están asociadas a los módulos mencionados se recuperaron a excepción del 10,3. Se realizaron mas pruebas pero la falla continua. Se deja detenido el aerogenerador.
+
+
+FECHA: JUNIO 20 DE 2015 OT: 2799150
+
+EJECUTANTE: PEDRO SOLANO Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+En la Bottom Box se escucha un ruido extraño en la fuente 32A1 se intercambia con la fuente 35A1, Se continua con la solución del problema de comunicación del controlador superior modulo 10,3 se le coloca una cuña en la parte interna para impedir que la tarjeta se desplace al colocar el modulo en la base, se realiza la prueba de control y continua la falla, se decide intercambiar las fuentes 102A1 y 102A2; se realiza la prueba y el RFC queda en Run pero con una falla de vibraciones, se mide el voltaje de DC en la fuente 102A2 y se encontraba en 22Vdc se va subiendo el voltaje y al llegar a 25,2Vdc las fallas presentes se borran y se deja en servicio el aerogenerador.
+
+

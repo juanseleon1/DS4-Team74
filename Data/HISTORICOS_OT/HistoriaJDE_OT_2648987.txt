@@ -1,0 +1,14 @@
+XL: VERIFICAR Y LIMPIAR PREVENTIVO CONTROL UNIDAD GENERACION TRONERAS
+
+10/DICIEMBRE/2014
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+Se realizo inspección visual, verificación y limpieza del tablero de control.
+Se reviso la conexión de los cables y se reapretó la bornera de control.
+Se realizo verificación y mantenimiento a la pantalla de unidad, revisando el cooller del procesador. 
+Se reviso el cableado profibus DP de la unidad y las link-device de la unidad.
+
+Se identifico alta temperatura dentro del tablero, lo que causa que la pantalla de unidad procese lento. Se gestionara la compra e instalación de aire acondicionado para cada tablero.
+
+Programador: Oscar Arango
+Ejecuto: fredy Duarte - Alvaro Piedrahita

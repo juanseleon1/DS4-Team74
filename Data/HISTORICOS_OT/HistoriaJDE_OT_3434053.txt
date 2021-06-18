@@ -1,0 +1,29 @@
+FECHA DE TERMINACIÓN: Domingo 14 de Mayo de 2017
+Ejecutó: Equipo Mantenimiento U.O.P - Oscar Parra - Santiago Ramírez - Cristian Gómez
+Informó: Cristian Gómez
+Se realiza montaje del motor N°2 correspondiente al sistema Estación Hidráulica Válvula Howell-Bunger (HB). 
+El equipo se encontraba en reparación por fallas en su bobinado, Resistencia de aislamiento Fase R 0 MOhm. Después de la reparación, se realizan pruebas iniciales en C/M y se verifica su correcto funcionamiento, Fase R 31 MOhm, 512 VDC.
+En la minicentral, el motor se acopla mecánicamente a la estación hidráulica HB y luego se realiza la conexión eléctrica, verificando el correcto sentido de giro. (Se debe tener mucho cuidado en este paso, si el motor se conecta con el sentido giro inverso, la bomba no levantará presión y la válvula HB no abrirá.)
+Se realizan pruebas de funcionamiento:
+ Inicialmente se enciende la bomba girando en vacío, sin problemas.
+ Luego, se verifican las variables de presión, corriente y se verifica la correcta apertura de la válvula Realizando el movimiento desde el control en forma manual.
+ Corriente de Trabajo Placa: 1,9 A
+ Corriente de Trabajo Medida: 1,8 A
+ Presión de Aceite: 56 bar
+ Apretura Compuerta: Hasta 0.5 m3/s
+Se normaliza el control, (Modo Automático) y se elige prioridad de arranque bomba N°1. 
+------------------------------------------------------------------
+
+23 MARZO DE 2017 GUILLERMO LEON ECHEVERRY VELEZ
+
+SE GENERA ESTA OT PARA LA REVISION DE LA BOMBA 2 DE LA ESTACIÓN HIDRAULICA DE LA VÁLVULA HOWELL-BUNGUER POR PRESENTAR PROBLEMAS ELECTRICOS Y LA BOMBA 1 PRESENTA RUIDO ANORMAL. INFORMA WALTER TOBON
+------------------------------------------------------------------
+
+FECHA: 25/03/2017 OT # 3434053  
+SE RETIRA MOTOR LA BOMBA # 2, POR PRESENTAR PEGA MECANICA, SE HACE MEDIDA DE ASILAMIENTO, LA FASE S, NO DEJA INYECTAR VOLTAGE, SE  REALIZA SECADO DEL MOTOR,Y LA FALLA A TIERRA SIGUE PRESENTE,PENDIENTE EL CAMBIO DEL MOTOR.ESTOS SON LOS DATOS QUE SE TOMARON
+
+FASE R 34 M  A 500 VDC
+FASE S 0 M  A 2 VDC
+FASE T 32 M  A 500 VDC
+
+

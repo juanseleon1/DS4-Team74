@@ -1,0 +1,25 @@
+FECHA: 11 JULIO DE 2018
+
+SOLICITANTES: GUSTAVO QUINTANA - GEOVANNY ECHEVERRI
+
+DESCRIPCION: EN EL RECINTO DE LOS ANILLOS ROZANTES SE EVIDENCIA ACEITE DEL COJINETE SUPERIOR, SE RECOMIENDA REALIZAR LIMPIEZA PARA PREVENIR CONTAMINACION EN LAS ESCOBILLAS.
+
+GRACIAS.
+
+AGOSTO 9 DE 2018
+Se atendió con la OT:3748638 en el mantenimiento anual que se realizó a la unidad.
+Se desmonta la cúpula de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, y mantenimiento en general, se hacen pruebas antes y después del mantenimiento al inductor, inducido y anillos rozantes para verificar su estado; pruebas del DAR, inductancia y capacitancia al rotor. Después de la limpieza se vuelve a montar la cúpula a la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria y en la carpeta de diagnóstico y pruebas (eléctrico).
+Estos son los datos después del mantenimiento realizado:
+
+ANTES                                                DESPUÉS
+Anillo superior: 435 M 502VDC        Anillo superior: 2.63 G 503VDC
+Anillo inferior:   469 M 502VDC        Anillo inferior:   3.26 G 503VDC
+
+Se cambian escobillas, ya que no tenían la medida para el criterio de aceptación. Son las siguientes:
+Excitación principal
+Grupo 5: 1
+Anillos rozantes:
+7-17-18-19-20-23
+
+JULIO 12 DE 2018. ESTA OT SE EJECUTARA EN EL MANTENIMIENTO ANUAL QUE SE TIENE PARA EL 10 DE AGOSTO.
+William Lopera.

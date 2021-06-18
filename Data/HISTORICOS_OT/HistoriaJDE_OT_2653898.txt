@@ -1,0 +1,9 @@
+MANTENIMIENTO GENERAL ESTATOR GENERADOR CENTRAL PORCE 2.
+
+22/12/2014
+
+Se realiza mantenimiento de la instrumentación del generador, verificación en relés multi line, y tablero TCIG. No fue posible verificar alarmas y disparos el relé no permite simular con el generador de señales
+
+Realizado por Wtobonl
+
+terminada cerrar

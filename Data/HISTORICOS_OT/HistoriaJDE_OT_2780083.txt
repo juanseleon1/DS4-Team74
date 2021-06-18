@@ -1,0 +1,4 @@
+
+2015/05/29 YEISON ORTEGA - JHONATAN USME - RUBEN ARBOLEDA - OT: 2780083
+Se realizó recuperacion de la presión de SF6 en el interruptor, se encontró en 4.3 Kg y se subio a 5 Kg de presión, aplicando el proedimeinto descrito para tal fin, Se aprovecho interruptor abierto y a temperatura ambiente.
+

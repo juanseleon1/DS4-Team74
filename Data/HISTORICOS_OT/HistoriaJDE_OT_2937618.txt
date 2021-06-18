@@ -1,0 +1,3 @@
+
+2015/11/09 DIEGO BEDOYA
+Se realiza el montaje de la válvula reguladora de presión en la tubería principal de agua que va para los transformadores. Una (1) válvula por banco. Además se instalan manometros antes y después de la válvula para verificar las presiones en esta tubería. 

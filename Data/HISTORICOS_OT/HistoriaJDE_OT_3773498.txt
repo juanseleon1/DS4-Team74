@@ -1,0 +1,13 @@
+MANTENIMIENTO ANUAL MOTORBOMBA #2 LUBRICACION FORZADA
+OCTUBRE 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: como mejora implementada, se empezo a tomar los datos de resistencia ohmica, para llevra una trazabilidad y asi, poder detectar fallas del nucleo.
+                                                                                                                               
+VOLTAJESFASEVOLTIOSR - S445S - T445T - R448 
+CTE. DE ARRANQUEFASEAMPERIOSR47.9S30.9T21.9
+CTES. DE TRABAJOFASEAMPERIOSR8.7S7.3T7.9
+AISLAMIENTO / TIERRAFASEMR569S567T566
+RESISTENCIA OHMICAFASEmR - S2.462S - T2.453T - R2.418
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Mateo Perez

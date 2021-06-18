@@ -1,0 +1,6 @@
+FEB 16/2015 OT: 2694740 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Se cambia el variador por falla a tierra.
+La oscilación de Tensión del transformador fue correida por El personal de Distrbución estaba entre 350 VAC y 407 VAC, se normaliza a 440 VAC, esto se debía a la sulfatación de unas borneras en las protecciones.
+
+SOLICITANTE: Esteban Vasquez Fecha: Febrero 10/2015.
+Revisar alarma de subtensión en el variador.

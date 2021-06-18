@@ -1,0 +1,5 @@
+AL ACTIVAR LA ORDEN DE ARRANQUE EN LA ESTACION DE OPERACION LA CLARA SE PRESENTA LA ALARMA FALLA COMUNICACION ESTACION LA CLARA
+Y FALLA COMUNICACION DISIPADORA.
+
+2014/11/27 Luis Eduardo Arcila
+Se revisa el control del bombeo, encontrándose alarmado el módulo de comunicación, se reinicia el PLC, se le da orden de arranque a la bomba #1 queda trabajando en condiciones normales.

@@ -1,0 +1,6 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+08-03-2016
+PROGRAMO JOSE MONTOYA
+Se realizó mantenimiento al tablero de control del regulador hidráulico, revisando el estado de los arrancadores suaves, el PLC, el correcto funcionamiento del aire acondicionado, pantalla de visualización, se encontró todo normal,.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+Se cambió la válvula 304 y se realizaron pruebas y quedo mostrando en pantalla el bloque y desbloque del regulador

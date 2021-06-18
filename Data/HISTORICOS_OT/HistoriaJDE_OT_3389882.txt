@@ -1,0 +1,23 @@
+07 FEBRERO 2017 GUILLERMO LEON ECHEVERRY
+
+SE HACE ESTA OT PARA VERIFICAR Y HACER SEGUIMIENTO DEL PARO DE EMERGENCIA DE LA UNIDAD #3 A LAS 00:49 DEL 07 FEBRERO 2017 EN EL MOMENTO QUE SE ENCONTRABA HACIENDO LA  SECUENCIA DE PARO.
+
+
+07/02/2017
+
+Se realiza verificacion de los eventos del sistemas en los cuales se evidencia la falla en las CIO y CCI del sistemas, se verifican las tensiones del sistema y se encuentra fallada la fuente G81, se retira el repuesto del almacen y queda pendiente realizar pruebas de este sistema con la unidad detenida.
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+
+
+09/02/2017
+
+Se realiza verificacioin de la alimentacion de esta fuente para dictaminar la cuasa de la falla, se encuentra una onda de alimentacion sin rizados o distorcion. el sistema queda operando en observacion 
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR
+
+

@@ -1,0 +1,4 @@
+2016/03/16 OSCAR GIRALDO - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG
+Se realizó mantenimiento general a las electrovalvulas de control de valvula esferica, By Pass y Bloqueo hidraulico
+Se realizó revision general y medida de voltaje en cada sensor de la valvula esferica, se encontró en condiciones normales.
+ 

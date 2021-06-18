@@ -1,0 +1,10 @@
+XL: VERIFICAR Y LIMPIAR CONTROL TRANSFORMADOR POTENCIA CONTROL TCIT, DE LA UNIDAD
+
+
+20/11/2013
+
+
+Se realiza mantenimiento a la IHM y la RTU  del transformador de potencia, además de verificación y limpieza de la fibra óptica  y los instrumentos que componen al transformador, además se realiza verificación de los equipos HIDRAN , TEC y DOOBLE.
+
+
+Realizado por Walter Tobon

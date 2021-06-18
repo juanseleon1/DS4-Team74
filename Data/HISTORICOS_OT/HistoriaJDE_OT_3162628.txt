@@ -1,0 +1,13 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+REGISTRAR VALORES EN LA OT
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+fecha: 2016-08-11 ot: 3162628 PROGRAMÓ: cristian a gómez hejecutó: JAIRO TORRES - OLGA M VIANA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite cojinete guia superior pertenecientes al sistema de generador (S3). Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+ruta planillas:  \\epm-dc07\2000\11. INFORMACIÓN PORCE II\03. MANTENIMIENTO\02. MTTO ELECTRICO\01-UNIDAD Nº1\COJINETE SUPERIOR U1

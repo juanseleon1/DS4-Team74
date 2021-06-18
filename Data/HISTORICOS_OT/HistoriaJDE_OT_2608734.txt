@@ -1,0 +1,8 @@
+2014/09/29 RUBEN ARBOLEDA
+Se realiza actividad de acompañamiento al grupo de mantenimeinto mecánico para realizar revisión de funcionamiento del ventilador S10 en C/V Guatapé, para lo cual se evidencia que en la estación de operación figura en servicio pero no se siente aire en el tunel de segunda etapa. 
+
+2014/09/29 EDWAR LONDOÑO - JHONATAN USME
+Se realizó revisión en compañia del grupo de mantenimiento mecánico(Leon Guillermo Parra y Humberto Flor), se evidenció bandas por fuera de las poleas y dañadas, se dejó breaker de 480VAC en S/A abierto, y minibreaker de control en gaveta de S7 (S10) abierto, la gaveta quedó insertada. 
+OT: 2608734
+
+2014/010/10 ANGEL ADONIS CADAVID SE  GENERA  OT 2618157  PARA DARLE SOLUCION A LA FALLA PRESENTADA 

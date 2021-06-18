@@ -1,0 +1,5 @@
+PROGRAMADOR:LUIS EDUAR4DO ARCILA
+FECHA:4/Enero/2016
+Se pierden las señales del controlador de unidad quedando en P2.
+Se carga de nuevo el programa desde la estación de ingeniería, quedando el equipo en funcionamiento normal.
+Learcilas 

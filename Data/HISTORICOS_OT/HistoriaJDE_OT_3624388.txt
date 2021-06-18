@@ -1,0 +1,8 @@
+Referente al poso de drenaje C/P.
+Se abre el interruptor K11 del TDP # 2 quedando sin tensión el alimentador 2 del CCM4, el cual alimenta las bombas VPI 2 y la VTA2 por lo tanto se queda el poso sin sistema de drenaje ya que las bombas VPI 1 y la VTA 1 se encuentra bloqueadas eléctricamente por problemas mecánicos.
+Debido a este evento el nivel del tanque de drenajes se sube a un nivel bastante elevado, por lo que es necesario abrir el hidroenyector.
+NOTA: queda por fuera el CCM4 ya que se dispara el sistema de potencia y control.
+
+FECHA : 2017/12/13, PROGRAMO R JIMENEZ, EJECUTO JADER ORREGO
+PLANEADOR : LUIS FEDERICO ALVAREZ ALVAREZ
+SE REALIZA REVISION DE CORRIENTES DEL SISTEMA CONECTANDO EL ANALIZADOR DE REDES, Y SE ENCUENTRA FALLA EN LA TARGETA DE CONTROL DEL INTERRUPTOR DEL TDP, SE HACE CAMBIO DE PRIORIDAD,QUEDANDO POR LA BBARA # 1

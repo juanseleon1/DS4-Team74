@@ -1,0 +1,13 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION CGT CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418250 PROGRAMADOR: JRODRIGL EJECUTA: OLGA MARIA VIANA
+
+Se revisan sensores de vibración, encontrando el sensor  CTPL -8,80 VDC y CTPR se encontró en -10,01 VDC.
+Nivel cojinete de turbina se encontró en  810 mm, el patrón es 285 mm, Nivel aceite tanque sumidero se encontró en 576mm y el patrón es 550mm.
+Se desmonto el indicador de Flujo agua de las bombas del sello del eje y se hizo limpieza internamente.
+Se realizó verificación de alarmas y disparos, según formato de inyección de señales.
+
+COJINETE TURBINA       PATRÓN SEG1 SEG2 ACEITE SELLO40° 40,0 40,0 40 4060° 60,0 60,0 59 6080° 80,0 80,0 78 80ALARMA 73,0 73,0 68 35DISPARO 83,0 83,0 75 40
+
+Informa: Jorge Rodríguez
+

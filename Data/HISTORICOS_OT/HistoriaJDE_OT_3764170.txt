@@ -1,0 +1,19 @@
+10 SEPTIEMBRE 2018  GUILLERMO LEÓN ECHEVERRY VÉLEZ
+
+En el control TDPC auxiliares 480 VAC presa: se realiza verificación de la transferencia y se encuentra falla en el comando de cierre para el interruptor Q1, el sistema trabaja en automático para el arranque de la planta Diesel y toma de carga pero al retornar la tensión el interruptor Q1 no cierra y al ver tensión la transferencia envía a parar la DIESEL sin lograr cerrar el interruptor, es de cuidado debido a que el sistema al retornar la tensión quedará con los dos interruptores abiertos, se deben realizar nuevas pruebas y verificar el relé cambiado por el ingeniero Federico Álvarez el cual envía las señales de confirmación y normalizar la transferencia.  Informa Walter Tobón
+
+
+03/11/2018
+
+Se realiza verifiacion de la secuencia en el rele de protecciones de la celda Q2 correspondiente a la transferencia de la planta Diesel , se realiza prueba con la tension de la celda Q1 y Q2 se observa arranque de la planta Diesel y en el momento de normalizar la alimentacion la planta diesel se detiene pero el interruptor Q1 se demora en cerrar , se realizan pruebas con el equipos electrico y mecanico
+
+Se encuentra tiempo de confirmación por baja tensión en interruptor Q2 sin ajuste, se verifica el interruptor Q1 en el rele siprotec y se encuentra tiempo incrementado, se ajusta y descarga el backup.                                                                                
+Relé SIPROTEC Q1 27.1, Pickup time 10 Seg, se encontraba en 30 Seg.                                                        
+Relé SIPROTEC Q2 Tiempo baja tensión CFC se ajusta en 3000 ms, se encontraba en 7000 ms.   
+
+
+
+Realizado por Wtobonl 
+
+TERMINADA CERRAR 
+

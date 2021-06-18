@@ -1,0 +1,4 @@
+
+MARZO 17/2018 OT: 3701633  PROGRAMÓ: HGIRALRI EJECUTÓ: GERMAN ECHAVARRIA
+
+Debido a falla por Phase Shift Error se queda pegado el contactor 17K2, perteneciente al circuito de potencia del G1, para despegarlo fue necesario desarmar el contactor y despegar los contactos con una palanca, se arma de nuevo y se deja en servicio.

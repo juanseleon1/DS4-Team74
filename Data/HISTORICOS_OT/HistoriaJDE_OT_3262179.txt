@@ -1,0 +1,11 @@
+
+
+Cambio de modo de comunicacion con CND de protocolo IEC 50870-5-101 a  IEC 60870-5-104.
+
+Se superviso el montaje de protocolo de comunicacion a 104, para comunicacion con CND. Lo realizo personal de centro de control y un contratista. Queda funcionando normalmente.
+CTJJ
+
+Cambio de modo de comunicacion con CND de protocolo IEC 50870-5-101 a  IEC 60870-5-104.
+
+Se superviso el montaje de protocolo de comunicacion a 104, para comunicacion con CND. Lo realizo personal de centro de control y un contratista. Queda funcionando normalmente.
+CTJJ

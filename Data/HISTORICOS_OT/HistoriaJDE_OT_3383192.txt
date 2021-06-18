@@ -1,0 +1,67 @@
+FECHA: JIUEVES 02/02/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: GABRIEL BUSTAMANTE, ANDERSON LOPEZ
+ASOCIADO A LA OT: 3383192
+ASUNTO: EJECUTAR MP PROGRAMADO A RUEDA FRANCIS DE LA U3 SEGÚN INSTRUCTIVO DE MANTENIMIENTO.
+        EL EQUIPO SE ENCUENTRA FUNCIONANDO SATISFACTORIAMENTE. 
+
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE DAÑOS POR CAVITACION EN RUEDAS FRANCIS  
+CENTRAL:PLAYAS 
+
+UNIDAD N° :___3___
+
+RUEDA N° :__9 -070 -1150____ 
+
+N° DE ALABES: 16 
+
+
+FECHA DE REVISION: DIA MES AÑO
+
+ANTERIOR  __02___   ___08___   ___2016___
+
+ACTUAL  __02___   ___02___   ___2017___ 
+
+Nº DE REPARACIONES: ________ 
+
+HORAS DE SERVICIO: HOROMETRO DE LA UNIDAD AL PARAR:_____174496________ 
+
+INSPECCION: 
+
+Nº DIMENSION (mm.) 
+ALABE      LONGITUD                ANCHO PROFUNDIDAD 
+
+__29___  ____185______  __40___  _____5______ 
+__16___  ____240______  __55___  _____4______ 
+__02__  ____253______  __53___  _____4______ 
+__23___  ____292______  __60___  _____6______ 
+__05___  ____310______  __53___  _____9______ 
+__40___  ____260______  __54___  _____7______ 
+__49___  ____242______  __57___        _____5______ 
+__60___  ____245______  __43___  _____6______ 
+__09___  ____275______  __55___  _____7______ 
+__45___  ____275______  __56___  _____5______ 
+__35___  ____274______  __54___  _____5______ 
+__13___  ____313______  __73___  _____7______ 
+__58___  ____295______  __58___  _____5______ 
+__47___  ____210______  __52___  _____5______ 
+__44___  ____275______  __55___  _____5______
+__64___  ____240______  __53___  _____4______
+
+
+OBSERVACIONES:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ 
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0013 

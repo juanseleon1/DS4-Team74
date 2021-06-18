@@ -1,0 +1,7 @@
+Fecha: Noviembre 15/2017Programo: Daniel Palacios O.Ejecuto: Jairo Torres y Frank Córdoba.
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de carbón de las escobillas, se toma medida de aislamiento a los motores del equipo y se llena planilla con estos datos.
+Trabajo ejecutado por: Jairo Torres y Frank Córdoba.
+
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

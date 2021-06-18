@@ -1,0 +1,4 @@
+CE: LIMPIEZA Y REVISION CONTR CAMPO 44 kv
+
+2016/04/11 OSCAR GIRALDO - JUAN JOSE LOPEZ, PROGRAMO: RARBOLG
+Se realizó medida de sensores, se encontró en condiciones normales.

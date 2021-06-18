@@ -1,0 +1,6 @@
+
+FECHA: JUNIO 01 DE 2014
+
+RESPONSABLE: GERMAN ECHAVARRIA Y  HENRY GIRALDO
+
+Se coloca el LPC en el AG y se configura el RFC como AG6, se reinicia el sistema y queda trabajando como maquina 6, esta maquina estaba trabajando desde el 30 de Abril a las 9:16 hasta el 1 de Junio a las 8:40.

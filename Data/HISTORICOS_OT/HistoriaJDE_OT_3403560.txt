@@ -1,0 +1,125 @@
+TE: REALIZAR BUSQUEDA DE FALLAS Y MONITOREO DE CONDICION DEL AISLAMIENTO, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE RESPALDO CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+13/03/2017. SERGIO OLIVARES D.
+
+INFORME TERMOGRAFIA:
+
+MOTOR:
+PLACA POTENCIA = 60 HP
+VOLTAJE = 460 V
+CORRIENTE = 68 A
+REGISTRO DE VOLTAJES FASE
+RS = 430.3 V
+FASE ST = 431.9 V
+FASE RT = 432.5 V
+REGISTRO DE CORRIENTES
+FASE R = 56.4 A
+FASE S = 54.8 A
+FASE T = 54.9 A
+HOROMETRO 05249.08
+DIAGNOSTICO 66.4°C, está dentro de los parámetros normales
+de operación según su clasificación.
+
+BORNES MOTOR
+Nombre     Temperatura 
+FASE R     48,8°C 
+FASE S     47,8°C
+FASE T     47,9°C.
+ESTADO NORMAL
+
+
+PEINETA SALIDA:  
+Nombre         Temperatura 
+FASE T1        35,2°C 
+FASE S1       34,4°C 
+FASE R1       32,7°C
+FASE T1.1    40,9°C 
+FASE S1.1   34,8°C
+FASE R1.1   32,4°C 
+FASE T1.1: TEMPERATURA ALTA EN COMPARACION CON LAS OTRAS DOS.
+
+PEINETA DE ENTRADA.
+Nombre         Temperatura 
+FASE S1      54,6°C 0,95
+FASE R1      67,5°C 0,95
+FASE T1.1    50,0°C 0,95
+FASE S1.1    81,5°C 0,95
+FASE R1.1    99,3°C 0,95.
+LAS FASES T1.1, S1.1 Y R1.1: CONTACTOS  REALES DE LA PEINETA, SE ENCUENTRAN MUY ALTOS. SE DEBEN CORREGIR Y SE REALIZO O.T.
+CORRECTIVA: 3423577
+
+CABLES DE ENTRADA:
+Nombre      Temperatura
+FASE R      77,6°C 
+FASE S      66,6°C 
+FASE T       60,7°C 
+Información de la imagen
+La temperatura de los cables a la entrada del
+Breaker se encuentra en el nivel 2 de los
+parámetros establecidos en la tabla de
+clasificación de fallas eléctricas según LOS
+CRITERIOS NETA, donde Delta T° = 16.9°C, lo
+cual implica una probable deficiencia. Se
+recomienda hacer ajuste a los bornesTE: REALIZAR BUSQUEDA DE FALLAS Y MONITOREO DE CONDICION DEL AISLAMIENTO, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE RESPALDO CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+13/03/2017. SERGIO OLIVARES D.
+
+INFORME TERMOGRAFIA:
+
+MOTOR:
+PLACA POTENCIA = 60 HP
+VOLTAJE = 460 V
+CORRIENTE = 68 A
+REGISTRO DE VOLTAJES FASE
+RS = 430.3 V
+FASE ST = 431.9 V
+FASE RT = 432.5 V
+REGISTRO DE CORRIENTES
+FASE R = 56.4 A
+FASE S = 54.8 A
+FASE T = 54.9 A
+HOROMETRO 05249.08
+DIAGNOSTICO 66.4°C, está dentro de los parámetros normales
+de operación según su clasificación.
+
+BORNES MOTOR
+Nombre     Temperatura 
+FASE R     48,8°C 
+FASE S     47,8°C
+FASE T     47,9°C.
+ESTADO NORMAL
+
+
+PEINETA SALIDA:  
+Nombre         Temperatura 
+FASE T1        35,2°C 
+FASE S1       34,4°C 
+FASE R1       32,7°C
+FASE T1.1    40,9°C 
+FASE S1.1   34,8°C
+FASE R1.1   32,4°C 
+FASE T1.1: TEMPERATURA ALTA EN COMPARACION CON LAS OTRAS DOS.
+
+PEINETA DE ENTRADA.
+Nombre         Temperatura 
+FASE S1      54,6°C 0,95
+FASE R1      67,5°C 0,95
+FASE T1.1    50,0°C 0,95
+FASE S1.1    81,5°C 0,95
+FASE R1.1    99,3°C 0,95.
+LAS FASES T1.1, S1.1 Y R1.1: CONTACTOS  REALES DE LA PEINETA, SE ENCUENTRAN MUY ALTOS. SE DEBEN CORREGIR Y SE REALIZO O.T.
+CORRECTIVA: 3423577
+
+CABLES DE ENTRADA:
+Nombre      Temperatura
+FASE R      77,6°C 
+FASE S      66,6°C 
+FASE T       60,7°C 
+Información de la imagen
+La temperatura de los cables a la entrada del
+Breaker se encuentra en el nivel 2 de los
+parámetros establecidos en la tabla de
+clasificación de fallas eléctricas según LOS
+CRITERIOS NETA, donde Delta T° = 16.9°C, lo
+cual implica una probable deficiencia. Se
+recomienda hacer ajuste a los bornes

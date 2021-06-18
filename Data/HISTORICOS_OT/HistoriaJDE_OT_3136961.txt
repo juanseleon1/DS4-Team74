@@ -1,0 +1,16 @@
+06/06/2016
+SOLICITANTE: RAMIRO A TORRES.
+SIN NINGUN EVENTO DE PROTECCION ASOCIADO, SE DISPARA EL CCM1, ALIMENTADO POR LA DP1, QUEDANDO SIN AGUA DE REFRIGERACION LAS MAQUINAS DE PRIMERA ETAPA. SE PERCIBIO OLOR A QUEMADO, POR EL SITIO. SE NORMAILZA NUEVAMENTE CON LA LLAVE, MECANICAMENTE, POR LA DP1.
+
+2016/06/06 EDWAR LONDOÑO - JHONATAN USME - FRANK VILLA - FERNANDO CASTRILLO, PROGRAMO: RARBOLG
+Se realizó medida de corriente por fase a la llegada del interruptor Q1 con 4 bombas CW (1, 2, 3 y 5) así: 
+Fase R: 366
+Fase S: 373
+Fase T: 357
+
+Se realizó inspección termografica al interruptor Q1, se evidencio calentamiento general en él, se procedió a realizar transferencia manual (mecánicamente) hacia la barra de la DP2, se desarmó lo contactos tipo tulipán, se limpiaron y se ajustaron, 
+
+Para normalizar se colocó el PLC en automático, posteriormente se abrió el interruptor 2 y realizó intento de cierre en el interruptor 1, pero fallo el cierre, se procedió a cerrarlo manualmente (mecánicamente), y se dejó en operación normal. 
+
+2016/06/07 EDWAR LONDOÑO, PROGRAMO: RARBOLG
+Se realizó informe termografico, se adjunta a la OT, no se evidenciaron puntos calientes, el calentamiento fue causado por consumo de corriente normal, se dejo en operación en condiciones normales.

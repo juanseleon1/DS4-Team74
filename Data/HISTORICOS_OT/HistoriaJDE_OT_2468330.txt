@@ -1,0 +1,5 @@
+Efectuar la revision del compresor sullair para servicios generales, ya que no se encuentra funcionando correctamente en su etapa de compresion.
+
+verificar inicialmente el nivel de aceite y posteriormente con ayuda de los electricistas o instrumentista posible falla del control.
+
+jaime a ramirez

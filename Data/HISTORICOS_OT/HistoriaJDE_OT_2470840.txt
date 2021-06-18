@@ -1,0 +1,24 @@
+- FECHA : FEBRERO 12 DE 2014
+- REALIZO : FRANCISCO QUINTERO - DARIO ATEHORTUA - YOVANNI RIVERA  - ANDRÉS ZAPATA
+                       MARIO GONZALEZ - NORBERTO PESTANA - JAIME ARDILA .FABIO SIERRA . ORLANDO MONTOYA.
+HECTOR TORRES.
+- ASOCIADO A LA OT : 2470870
+- ASUNTO : FALLA EN NIVEL PRESIÓN TANQUE ACUMULADOR POR PROBLEMAS MECÁNICOS EN: NO SE SOSTENÍA LA
+                       PRESIÓN MÍNIMA CUANDO ABRÍA VÁLVULA MARIPOSA POR FALTA DE LA BOMBA DE RESPALDO.
+                       ** BOMBA N° 2 : FALLA SISTEMA DE REGULADOR 
+                       ** BOMBA N°1 : FALLA BOMBA 
+
+
+" El personal de Operación informa que la presión del tanque acumulador de la U1PL está bajando la presión y el nivel a valores que comprometen la seguridad de la máquina..
+
+Dado que las dos bombas funcionaban continuamente, el aceite del tanque sumidero se calienta, accionado la bomba del intercambiador de calor aceite - agua. Al poco tiempo se detecta alto nivel del aceite y contaminación con agua. Se debió cambiar la totalidad del aceite, requiriéndose 9 canecas de 54 galones. 
+
+Se decide dar paro a la Unidad a las 10:00am.
+
+Durante la inspección y revisión del sistema, se encuentra que ninguna de las dos bombas levanta presión, por lo que se retira la válvula 20QPC2 y el módulo de sobrepresión. 
+
+Durante las pruebas con máquina parada el sistema intervenido funciona correctamente.  Intervenciones en el sistema de la bomba 2 del regulador hidráulico no son exitosa, pues se encuentra que hay un problema con la bomba propiamente dicha. Se arranca la U1PL con una sola bomba. Queda pendiente cambio de la bomba No. 1 del regulador. 
+
+Aunque estaba con redespacho hasta las 12:00pm, se hace traspaso de carga y la unidad se sincroniza a las 10:26 pm.
+
+Para atender la falla se generó la OT No. 2470840.

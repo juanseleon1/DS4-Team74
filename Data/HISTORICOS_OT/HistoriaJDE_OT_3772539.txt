@@ -1,0 +1,5 @@
+2018/10/08 RUBEN ARBOLEDA
+Se realizará revisión revisión del barraje de salida del TSA3, para identificar las conexiones electricas para la prueba del RING TEST en la Unidad 1 proximamente.
+
+2018-10-08 REALIZÓ: FERNANDO ANTONIO RUIZ - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA ,  PROGRAMO: RARBOLG OT: 3772539, PASO:1          
+Se destapó el barraje de salida del transformador de servicios auxiliares TSA3, para esto de abrió el interruptor de 13.2KV (SB4), se identificó que en labifurcación en T se puede instalar el cable para la prueba del RING TEST.

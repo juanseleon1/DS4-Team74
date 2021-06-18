@@ -1,0 +1,62 @@
+2017/02/21- REALIZO: EDWAR LONDOÑO - JHONATAN USME- OT: 3394597MEDIDA DE ESCOBILLAS EN mm:A.S. 1A: 47A.S. 2A: 45,4A.S. 3A: 48,7A.S. 4A: 45,2A.S. 5A: 46,8A.S. 6A: 32,3A.S. 7A: 36A.S. 8A: 41,9A.S. 1B: 39,1A.S. 3B: 39,5A.S. 4B: 30,5A.S. 5B: 46,3A.S. 6B: 36,5A.S. 7B: 45,4A.I. 1A: 37A.I. 2A: 37,7A.I. 3A: 37,1A.I. 4A: 32,3A.I. 5A: 32A.I. 6A: 38,1A.I. 7A: 41,2A.I. 8A: 42,8A.I. 2B: 41,3A.I. 3B: 42,9A.I. 4B: 39,8A.I. 5B: 42,3A.I. 6B: 42,5A.I. 7B: 42A.I. 8B: 42,4OBSERVACIONES: Se realizó el cambio de 3 escobillas, 1B SUPERIOR Y 6A SUPERIOR por desgaste del cable conductor, y la escobilla 4B INFERIOR por tener bordes despicados.
+
+21/02/2017.SERGIO OLIVARES D.- JAIME A. RAMIREZ R. O.T.3394597
+
+*** CORRECCIÓN  VAPORES ACEITE RECINTO ANILLOS.
+
+Las unidades de segunda etapa, siempre han tenido fuga de vapores de aceite de la cuba superior al recinto de anillos por los laberintos del eje, los cuales nos afecta considerablemente los aislamientos del recinto, de los anillos del rotor, del rotor propiamente y en general de toda la máquina.
+
+Los señores  de mantenimiento mecánico, hicieron un piloto para eliminar los vapores, el cual fue exitoso.
+
+El 15 de octubre/2016, se hizo el piloto y en el mantto del 21 de febrero/2017, se encontro cero vapores, pero si 
+gran cantidad de polvo de escobillas, el cual bajo considerablemente el aislmiento del rotor a 40 k-ohmios y con solo
+limpiar con aire a presión subio a 353 M-ohmios, se aspiro el polvo de recinto y se hizo limpieza con Dielectric en todo el recinto en general.
+
+**El lider Jaime Ramirez R., describe como se realizo el trabajo:
+
+Como ya es sabido la tapa de la cuba de generador está compuesta por una brida completa que cube toda la cuba de aceite , esta a su vez tiene  en  la parte central tiene un cuello  con una altura de unos 25 centímetros y que es la zona que abraza el eje del rotor  y en cuya zona se alojan los sellos de laberinto en tres niveles distintos  
+
+Los sellos de laberinto son de material baquelita y esta montados a una distancia de 0.35 mm del eje, para así evitar que salga el aceite a la parte superior .  
+
+En vista de que el sello de laberinto no estaba operando correctamente en el sellado del aceite , procedimos a efectuar una mejora en este lugar  y fue la siguiente:
+
+Se fabricaron 3 anillos de felpa de lana de 5 milímetros de espesor con densidad media  (uno para cada nivel)  con el mismo diámetro del eje y se montaron de manera que quedaran pisados con el mismo laberinto.
+
+Al tubo por donde salían los vapores de aceite  parte superior de la cuba y que anteriormente desembocaba  en una boca abierta al interior del recinto , mezclándose con el polvo de las escobillas ,  lo canalizamos por una manguera de 2 “   hacia un decantador de aceite,  fabricado por  el personal de mantenimiento mecánico  acá  en la central   y el cual montamos dentro del recinto de radiadores.
+
+Finalmente los vapores  que salen del decantador ya sin ese aceite en suspensión  lo condujimos  por medio de una manguera hacia el canal de descarga de las unidad en este caso la 6  , para que por  tiro natural de salida del agua fuera succionado hacia el exterior a través de la descarga de las unidades.
+
+Con esto logramos eliminar los vapores de aceite 100% del recinto de escobillas  y la no contaminación de la casa de máquinas con los vapores de aceite en suspensión,  situación  que se evidencio en   el  mantenimiento del pasado 21 de febrero de 2017.
+
+
+2017/02/21- REALIZO: EDWAR LONDOÑO - JHONATAN USME- OT: 3394597MEDIDA DE ESCOBILLAS EN mm:A.S. 1A: 47A.S. 2A: 45,4A.S. 3A: 48,7A.S. 4A: 45,2A.S. 5A: 46,8A.S. 6A: 32,3A.S. 7A: 36A.S. 8A: 41,9A.S. 1B: 39,1A.S. 3B: 39,5A.S. 4B: 30,5A.S. 5B: 46,3A.S. 6B: 36,5A.S. 7B: 45,4A.I. 1A: 37A.I. 2A: 37,7A.I. 3A: 37,1A.I. 4A: 32,3A.I. 5A: 32A.I. 6A: 38,1A.I. 7A: 41,2A.I. 8A: 42,8A.I. 2B: 41,3A.I. 3B: 42,9A.I. 4B: 39,8A.I. 5B: 42,3A.I. 6B: 42,5A.I. 7B: 42A.I. 8B: 42,4OBSERVACIONES: Se realizó el cambio de 3 escobillas, 1B SUPERIOR Y 6A SUPERIOR por desgaste del cable conductor, y la escobilla 4B INFERIOR por tener bordes despicados.
+
+21/02/2017.SERGIO OLIVARES D.- JAIME A. RAMIREZ R. O.T.3394597
+
+*** CORRECCIÓN  VAPORES ACEITE RECINTO ANILLOS.
+
+Las unidades de segunda etapa, siempre han tenido fuga de vapores de aceite de la cuba superior al recinto de anillos por los laberintos del eje, los cuales nos afecta considerablemente los aislamientos del recinto, de los anillos del rotor, del rotor propiamente y en general de toda la máquina.
+
+Los señores  de mantenimiento mecánico, hicieron un piloto para eliminar los vapores, el cual fue exitoso.
+
+El 15 de octubre/2016, se hizo el piloto y en el mantto del 21 de febrero/2017, se encontro cero vapores, pero si 
+gran cantidad de polvo de escobillas, el cual bajo considerablemente el aislmiento del rotor a 40 k-ohmios y con solo
+limpiar con aire a presión subio a 353 M-ohmios, se aspiro el polvo de recinto y se hizo limpieza con Dielectric en todo el recinto en general.
+
+**El lider Jaime Ramirez R., describe como se realizo el trabajo:
+
+Como ya es sabido la tapa de la cuba de generador está compuesta por una brida completa que cube toda la cuba de aceite , esta a su vez tiene  en  la parte central tiene un cuello  con una altura de unos 25 centímetros y que es la zona que abraza el eje del rotor  y en cuya zona se alojan los sellos de laberinto en tres niveles distintos  
+
+Los sellos de laberinto son de material baquelita y esta montados a una distancia de 0.35 mm del eje, para así evitar que salga el aceite a la parte superior .  
+
+En vista de que el sello de laberinto no estaba operando correctamente en el sellado del aceite , procedimos a efectuar una mejora en este lugar  y fue la siguiente:
+
+Se fabricaron 3 anillos de felpa de lana de 5 milímetros de espesor con densidad media  (uno para cada nivel)  con el mismo diámetro del eje y se montaron de manera que quedaran pisados con el mismo laberinto.
+
+Al tubo por donde salían los vapores de aceite  parte superior de la cuba y que anteriormente desembocaba  en una boca abierta al interior del recinto , mezclándose con el polvo de las escobillas ,  lo canalizamos por una manguera de 2 “   hacia un decantador de aceite,  fabricado por  el personal de mantenimiento mecánico  acá  en la central   y el cual montamos dentro del recinto de radiadores.
+
+Finalmente los vapores  que salen del decantador ya sin ese aceite en suspensión  lo condujimos  por medio de una manguera hacia el canal de descarga de las unidad en este caso la 6  , para que por  tiro natural de salida del agua fuera succionado hacia el exterior a través de la descarga de las unidades.
+
+Con esto logramos eliminar los vapores de aceite 100% del recinto de escobillas  y la no contaminación de la casa de máquinas con los vapores de aceite en suspensión,  situación  que se evidencio en   el  mantenimiento del pasado 21 de febrero de 2017.
+
+

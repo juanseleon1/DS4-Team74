@@ -1,0 +1,12 @@
+17 DE JUNIO DE 2018 
+
+Referente al cojinete combinado de la Unidad # 3:
+La temperatura de aceite cuba (RTD 70) presenta errores en la medida, en el SCADA sala de operación y en la IHM de la unidad. respecto al TIG presentan una diferencia de 6 °C. 
+Informa: grupo de operación - Carlos Guinguer - Arley Baena 
+
+18/05/2018
+se realiza verificacion en la animacion del sistema y se encuentra un mal direccionamiento de esta variable, se corrige y normaliza 
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR 
+

@@ -1,0 +1,7 @@
+FECHA: 17/07/2018 SOLICITADO POR: Natalia Urrea - Camilo Cadavid - Operación G4
+DESCRIPCIÓN: Se presenta paro de emergencia de la unidad 2 de Guadalupe IV con 75 MW por apertura del interruptor de la bahía Banco 1. Esta apertura se dio por pruebas en el interruptor de máquina de la unidad 1.
+
+FECHA: 17/07/2018
+durante las pruebas necesarias para verificar el correcto funcionamiento de la intervencion correctiva realizada al interruptor de maquina de la unidad 1 de Guadalupe IV, se requirio hacer movimientos manuales de apertura y cierre de dicho interruptor, en estos movimientos se produjo una señal electrica que activo un disparo al del banco 1 de transformadores, ocasionando como respueta la apertura del banco. Previamente a las pruebas se habia revisado las condiciones que generaban este disparo y se forzaron estas condiciones, revisando que contacto ocasiono el disparo se encontro  que es el NO 13-14, la conclusion esta documentado en la  OT 3746707 ya que haciendo esta revision tuvimos un nuevo disparo del banco 1.
+
+Informo: Luis Adrian Cardona 

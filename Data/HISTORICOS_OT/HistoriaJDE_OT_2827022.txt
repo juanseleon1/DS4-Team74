@@ -1,0 +1,17 @@
+
+El procedimiento para el mantenimiento del regulador hidráulico es  aplicable en las ocho 
+(8), unidades de la central hidroeléctrica de Guatapé. Realizados por el equipo de mantenimiento mecánico.
+
+Incluye:
+a. realizar chequeos de las bombas.
+b. ajustar niveles de aceite.
+c. chequeos.
+d. calibración de las servo-válvulas moog.
+2015/08/14 DIEGO BEDOYA
+Se realizó el mantenimiento al regulador U4, se cambiaron los microfiltros a las cuatro (4) válvulas Moog, se cambiaron los fitros Mahle en los  cuatro (4) comandos de aguja en la posición 1 y en la toma de datos se obtubieron los siguientes resultados:
+Bomba principalBomba de reserva
+Presion de arranque(kg/cm2): 34 33
+Presion de paro(kg/cm2):38.5 37.5
+Nivel de arranque(cm):-4 -6.5
+Nivel de paro(cm):  2.5 1
+Tiempo de trabajo (seg):  46 37

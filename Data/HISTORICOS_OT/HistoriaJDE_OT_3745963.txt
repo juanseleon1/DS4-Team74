@@ -1,0 +1,6 @@
+Solicitante-Planeador: 113114
+Aprobador: 355694
+Fecha de solicitud:16-07-2018
+Tipo de mantenimiento: Aforo liquido 
+Acciones de mantenimiento: 
+se realiza aforo,verificacion de la seccion y de lectura de mira.

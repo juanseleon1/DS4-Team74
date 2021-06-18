@@ -1,0 +1,10 @@
+FECHA : 30\ 07\ 2017 OT # 3362253  PROGRAMO : R JIMENEZ, EJECUTO :  OLGA VIANA
+
+SE REALIZA MANTENIMIENTO PREVENTIVO SEGUN EL INSTRUCTIVO GCP2E0009, LIMPIEZA Y REVISION DEL CONEXIONADO DE POTENCIA Y DE CONTROL.
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual del estado de tapas, puertas y cerraduras; bornes de potencia, terminales, borneras y cableado. Realizar mantenimiento a los interruptores y al barraje.

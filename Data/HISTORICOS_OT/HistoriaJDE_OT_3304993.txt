@@ -1,0 +1,24 @@
+MANTENIMIENTO GENERAL MOTOBOMBA 2 SELLO OPERACION  UNIDAD 3 CENTRAL PORCE 2.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones. OK
+5. Inspeccionar fugas NO
+6. Revisar alineación.
+7. Verificar estado general exterior (pintura)
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2016-11-30
+TEMPERATURA DEL MOTOR: 44°C (ADELANTE), 22°C (ATRAS)
+
+TEMPERATURA BOMBA: 26°C (ADELANTE), 26°C (ATRAS).
+
+PRESIONES FILTRO CENTRIFUGO
+
+ENTRADA: 4.2 BAR
+SALIDA: 4.1 BAR
+
+TRABAJO REALIZADO POR: ALEX MORA Y GUSTAVO LOPERA.

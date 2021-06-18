@@ -1,0 +1,10 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+
+
+03/03/2016
+MANTENIMIENTO PREVENTIVO TRIMESTRAL ELECTRONICO
+
+Se realizo limpieza, inspección visual y se reapretaron las borneras de control de los diferentes tableros del  regulador de tensión, enfocándose en el control (canales). Se reinicio la aplicación en la pantalla ABB. Se realizo mantenimiento a los filtros de aire de cada tablero y se analizo el histórico de eventos del panel de alarmas, ubicados en los tableros de los tiristores. Se cambia el Relé K41 por precaución, puesto que en la unidad dos presento problemas en días pasados.
+
+Ejecuto: Francisco Gonzalez - Alvaro sanchez - Duban Agudelo
+Programador: Oscar Arango

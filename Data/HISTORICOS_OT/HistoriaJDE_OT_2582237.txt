@@ -1,0 +1,12 @@
+14/AGOSTO/2014
+REVISAR AGUJA 4 DEL REGULADOR DE VELOCIDAD, PUESTO QUE SE CERRO
+
+Salió de sincronismo para realizar el cambio de driver de la aguja 4 , puesto que se evidencio el cierre de la aguja y al realizar las mediciones se comprobó la falla del IGBT . Se cambió por un driver de repuesto se realizaron pruebas de apertura y cierre a diferentes porcentajes .
+
+Este trabajo se planeó con anticipación y se solicitó respectivo despacho . Quedan las agujas normales.
+
+Ejecuto: Marlon Carmona
+               Fredy Duarte
+               Andres Arenas
+                 
+Programador: Oscar Arango

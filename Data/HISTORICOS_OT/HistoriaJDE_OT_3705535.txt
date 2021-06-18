@@ -1,0 +1,11 @@
+PREVENTIVO ELECTRICO BARRAJE SALIDA ESTATOR GENERADOR GUADALUPE III
+
+
+PLANEADOR:GABRIEL TAMAYO
+
+
+PROGRAMADOR:WILLIAM LOPERA.
+
+ABRIL 8 DE 2018.
+Se desacoplan las barras de salida del estator para pruebas eléctricas, se realiza mantenimiento de acuerdo al instructivo, se verifica estados de los CT’ S y se hace limpieza, luego de realizar el respectivo mantenimiento se vuelve a normalizar en barraje. 
+Programó: William Lopera

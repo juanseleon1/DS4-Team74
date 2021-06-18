@@ -1,0 +1,10 @@
+2018/10/22 RUBEN ARBOLEDA
+Se crea OT para realizar el lavado criogenico del estator en el mantenimiento mayor de la Unidad 1, Octubre de 2018
+
+2018-10-22 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776810, PASO:1          
+Se realizó limpieza del estator en la parte superior, en la parte interna de los radiadores antes de realizar la limpieza criogénica, con el fin de evitar que la suciedad se desplace por el estator.
+
+2018-10-26 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776810, PASO:2          
+Se realizó limpieza del estator con un escobillón en las ranuras de ventilación para verificar la limpieza criogénica ejecutad por parte de la cuadrilla móvil se encontró en buenas condiciones de limpieza.
+
+El lavado criogenico lo realizó el personal de la cuadrilla movil

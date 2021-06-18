@@ -1,0 +1,10 @@
+MIERCOLES 07 SEPT 2016
+
+REFERENTE A LA VALVULA DE ADMISION U3: 
+
+07/09/2016
+
+Se realiza verificación de la señal de posición aplicación sello de servicio entrada digital 05 módulo IO10 se encuentra falla en la confirmación del sensor por recorrido del martillo, para esto se ajusta la base del sensor y se calibra de nuevo esta indicación.
+El sistema que operativo y en pruebas
+Realizado Wtobonl
+TERMINADA CERRAR

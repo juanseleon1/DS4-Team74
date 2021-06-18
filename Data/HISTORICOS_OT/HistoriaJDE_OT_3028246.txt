@@ -1,0 +1,8 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA:FEBRERO 21 2016
+EJECUTANTE: GERMAN ECHAVARRIA Y PEDRO ROBAYO
+
+
+Sale alarma de corrientes asimetricas, se grafica y se observa que la fase L3 esta fallada.
+
+Se verifica el contactor y se encuentra averiado los contactos de la fase L3, se cambia el equipo y la máquina queda en operación. 

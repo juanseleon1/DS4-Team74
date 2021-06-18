@@ -1,0 +1,5 @@
+NOV 17/2013 OT: 2419478 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edwin Lopera.
+Falta un banco de resistencias.
+Se realizaron las pruebas eléctricas a las resistencias.
+
+Realizar mantenimiento a la calefacción del Generador.

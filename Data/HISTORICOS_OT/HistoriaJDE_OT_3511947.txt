@@ -1,0 +1,7 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 12-06-2017
+Tipo de mantenimiento: CorrectivO
+Desmonte de equipos o estación
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación, Diagnosticar modo de falla, 
+causa inmediata, causa básica en la estación, Descarga y verificación de datos de la estación, realizar visita de emplazamiento y Calibracion de Pvm.

@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711344
+
+BAE: INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OSCAR M. MONTOYA
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de frenos.
+Trabajo realizado por: Jairo Torres, Carlos Vasquez, Oscar Mauricio Montoya y Alejandro Echeverry

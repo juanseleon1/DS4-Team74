@@ -1,0 +1,15 @@
+2014-12-10 EDWAR LONDOÑO - SEBASTIAN HINCAPIE
+Se realizó revisión y medidas electricas, se tomó los siguientes registros: 
+
+UMA 4
+OT 2648992
+CORRIENTES:
+R 8,3
+S 7,2
+T 7,9
+VOLTAJES:
+RS 462
+ST 462
+TR 460
+
+Sin novedad adicional

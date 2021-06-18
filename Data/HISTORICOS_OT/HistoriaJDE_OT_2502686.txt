@@ -1,0 +1,11 @@
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD
+
+FECHA: JUNIO 04-2014
+
+EJECUTÓ: CAMILO CARDONA - JHONATAN ARANGO 
+
+Se realiza mantenimiento al sistema de frenos del generador, tablero eléctrico TCFM, acometidas y electroválvulas.  Se revisan conexiones y se prueba el correcto funcionamiento del  subsistema (Aplicando/desaplicando los frenos). IDM: GCP3E0010. No se encuentran fallas graves en el equipo. Una vez terminado el procedimiento, se reestablece el sistema quedando todo en operación normal.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+OBSERVACIÓN: lA OT PRESENTA UNA ANORMALIDAD EN EL COSTO DE MANO DE OBRA. 

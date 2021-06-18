@@ -1,0 +1,6 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 7-oct-2018
+Tipo de mantenimiento: Preventivo y montaje.
+ACTIVIDADES A REALIZAR:
+Se realizara montaje de sensor de tempertaura y humedada  en paralelo al existente para realizar un analisis comparativo de las temoeraturas, y se comenzara el montaje de la tuberia para pasar la fibra y la potencia para instalacion de la climatologica la sierra en linea por red corporativa.

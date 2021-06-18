@@ -1,0 +1,16 @@
+2017/05/24
+Abad Ramirez Giraldo.
+Se presenta ruido anormal en el Rac del escada en subestacion ubicado en sala de comunicaciones.
+
+2017/05/24 
+Cesar Tulio
+Luis Eduardo Arcila 
+Se encuentra ventilador 3 del servidor 61850 en falla, por lo que los demás ventiladores trabajan en velocidad 2, esto genera el ruido reportado por operación.
+Se deja apagado el servidor quedando como respaldo el de casa maquinas.
+Se retira el ventilador referencia GFM0412SS para proceder con su compra.
+FECHA: 02/08/2017 OT:3491558
+REALIZO: LUIS EDUARDO ARCILA
+SE REALIZA CAMBIO DE VENTILADOR, POR UNO NUEVO, SE REINICIA Y QUEDA ONLINE, COMO SERVIDOR PRIMARIO, NORMAL.
+
+
+

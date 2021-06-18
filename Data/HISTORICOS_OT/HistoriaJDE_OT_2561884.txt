@@ -1,0 +1,6 @@
+JUL 18/2014 OT: 2561884 PROGRAMÓ: Javier Giraldo EJECUTÓ: Equipos Eléctrico y Mecánico.
+Fue cambiada el baston de La ranura N° 8 por presentar una falla en el aislamiento debido a la coloccación de una RTD de mayor espesor que el relleno de fondo, en el empalme de los dos elementos se encontró averiado el aislamiento. 
+
+JULIO 08 DE 2014 FALLA ESTATOR UNIDAD 6 DE GUADALUPE3.
+A LAS 04:40 SALIO LA ALARMA PROT PRINCIPAL Y RESPALDO TIERRA ESTATOR. QUEDA LA UNIDAD INDISPONIBLE PARA REVISION.
+REPORTADO POR HECTOR PATIÑO U OPERACIÓN GUADALUPE 3.

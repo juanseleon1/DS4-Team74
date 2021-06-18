@@ -1,0 +1,14 @@
+24 MAYO 2015
+UNIDAD 3 PORCE 3.
+Se da Paro de emergencia 86E1, 86E2 en la unidad N° 3 en repetidas ocasiones, por presentar falla en el control del +TUH regulador de velocidad. 
+Se solicitan varios redespachos en el transcurso del dia para revisar el regualdor de velocidad.
+Autoriza: Ing. Sandra Carmona.
+Informó: Esneider Rivera - Gabriel Naranjo.
+
+
+28/05/2015
+
+Unidad 3, durante las acciones realizadas en las pruebas con la unidad  se verificaron los módulos y señales de las bombas, además de verificar la rutina en el programa. durante las pruebas realizadas no se evidencio el problema presentado en los paros anteriores pero si salido de nuevo la unidad por posición no alcanzada del distribuidor lo cual se evidencia en el control del regulador. 
+la unidad aun se encuentra en vigilancia ante otro evento para poder dictaminar al problema real.
+
+Realizado por Wtobonl

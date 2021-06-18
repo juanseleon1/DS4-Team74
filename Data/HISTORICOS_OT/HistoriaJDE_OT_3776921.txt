@@ -1,0 +1,7 @@
+2018/10/19 RUBEN ARBOLEDA
+Se crea OT para realizar pruebas electricas al estator de la unidad 1 durante el cambio del banco de transformadores 1, tareas a realizar:
+Desarme de barraje. 
+Pruebas Estator IP y Resistencia Ohmica
+Armado de barraje, 
+
+El personal de analisis tecnico realizará pruebas al estator.

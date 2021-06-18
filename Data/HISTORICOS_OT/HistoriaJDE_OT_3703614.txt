@@ -1,0 +1,19 @@
+23 DE MARZO 2018 FERNANDO/WALTER NOE
+
+SE FALLA EN LAS COMUNICACIONES DE LA SUBESTACION TABLON, FAVOR REVIZAR 
+
+
+23/03/2018
+
+Se verifica la comunicacion del sistema AXON con la subestacion tablon, se encuntra falla en la comunicacion debido a problemas en el sistema operativo de la GATEWAY, este sistema queda sin comunicacion mientras se configura un nuevo equipo lo antes posible, durante este lapso los operadores deberan monitorear el sistema localmente en la subestacion tablon devido a que no tendran monitoreo del sistema desde la casa de maquinas.
+
+Realizado por Walter Tobon
+
+
+26/03/2018
+
+Referente a la Subestación Gateway C/M:  Se instala un nuevo equipo y se programa la aplicación AXON con el último backup. Queda normalizada la comunicación, el equipo anterior falló por disco duro.  O. T. # 3703614                                                                                               Realizado por: Iván Cano - Walter Tobón 
+
+TERMINADA CERRAR
+
+

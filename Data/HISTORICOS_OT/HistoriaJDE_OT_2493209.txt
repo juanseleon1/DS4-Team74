@@ -1,0 +1,8 @@
+
+En el momento de arrancar la unidad 7 el deflector oscila dejando la unidad en el 5% de la velocidad nominal, se observa que la frecuencia de la máquina IW0 no es constante, por lo que se procede a cambiar la tarjeta VAI60 por presentar problemas en una de sus  entradas análogas.
+Mario Augusto Gomez
+Adonis Cadavid
+Ruben Arboleda
+Luis Eduardo Arcila
+19/marzo/2014
+

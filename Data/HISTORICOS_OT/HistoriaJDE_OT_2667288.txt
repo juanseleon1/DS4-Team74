@@ -1,0 +1,21 @@
+fecha: 2015-03-19 ot: 267288 mtto: eléctrico
+ejecutó: JHONATAN ARANGO -  GEOVANY ECHEVERI
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de agua estación hidroflow pertenecientes al sistema de válvula de admisión (S3). Según IDM: GCP2E0017. No se encuentran averías ni fallas en los equipos,y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO, SOLO SE REALIZA LA PRUEBA DE NIVEL DE AISLAMIENTO EL SISTEMA NO ES TA OPERATIVO
+el mtto se realiza por oportunidad con planta en 0 mva.
+
+
+
+
+
+
+
+NOTA: REVISAR EL ESTADO DE LOS MOTORES Y ELEMENTOS ELECTRICOS DEL EQUIPO.
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

@@ -1,0 +1,13 @@
+REVISAR COMUNICACION DEL TCBA DE LA UNIDAD N 4
+FECHA PLANEACION MANTENIMIENTO: 25/09/2016
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V
+
+25 SEPTIEMBRE 2016
+
+Se encuentra falla en la red ABB generando problemas de comunicación con el PLC al igual que en la secuencia de arranque de la unidad por no confirmar estado del sistema. Se encuentra OPC con archivos corruptos, observándose IHM en color magenta, se realiza mantenimiento en las tarjetas de red y se cargan  nuevos archivos para que el OPC funcione correctamente. Se normaliza y queda en funcionamiento el sistema
+
+Realizo: JOHN JAIRO GONZALEZ VALENCIA
+         GUILLERMO ECHEVERRY
+         ALEX FABIAN CALLE U

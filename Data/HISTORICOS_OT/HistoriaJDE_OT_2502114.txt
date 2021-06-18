@@ -1,0 +1,46 @@
+03/04/2014 DIEXER CARO SE CREA ORDEN DE TRABAJO PARA LA COMPRA E INSTLACION DE UN ACTUADOR LIMITORQUE CON LAS SIGUIENTES CARACTERISTICAS 
+
+Suministro de un actuador eléctrico Limitorque, para ser instalado sobre válvula de compuerta de 3" # 300 TAG: 210-MBV-2204 
+
+Voltaje de alimentación: 460 Voltios 
+ Torque: 73 Ft/Lbs. 
+ Control Estándar Cableado Estándar 
+ Encerramiento a prueba de humedad. 
+ Carcasa NCU 
+ Factory mutual 
+ Incluye servicio de Instalación, Configuración y Arranque 
+
+El servicio de asistencia técnica para el montaje de un actuador Limitorque Modelo L-120 incluye las siguientes actividades: 
+
+Alcance: 
+Instalación  y adecuación de un actuador electromecánico  
+ Verificación de datos de válvulas. 
+ Mecanizado de acoples, manzanas y vástagos extendidos.
+ Pruebas en manual del conjunto mecánico para asegurar correcto funcionamiento del    acople y movimiento de la válvula. 
+ Verificación de la configuración de los puntos de apertura y cierre de conjunto actuador - válvula. 
+ Verificación de los parámetros de seguridad y protecciones del actuador como: 
+
+ Recorrido. 
+ Tiempo de operación. 
+ Limitadores de Torque. 
+ Controles manuales.
+  Control Remoto 
+ Puesta en marcha en los modos remoto y  local
+Identificación de cableado y marcación de este con marquillas en termo incogible 
+ Interruptores de recorrido. (Calibración de recorrido). 
+ Pruebas de funcionamiento en modo local y remoto 
+Actualización de planos y esquemáticos de control los cuales se recibirán en conjunto con los equipos una vez satisfagan las necesidades de operación local y remota del proceso y cumplan con lo esperado.
+
+El proveedor deberá suministrar los elementos y accesorios necesarios para realizar las adecuaciones o modificaciones donde se instalara el actuador tales como conduletas, cajas de paso, cajas de conexión, tubería, soportaría, corazas, conectores, entre otros elementos y accesorios que necesite la instalación y puesta en marcha del equipo  Estas labores se realizaran en la central Termosierra de EPM
+
+Tiempo de entrega 15 Semana en la central Termosierra 
+Proveedor Sugerido Saufer Limitorque 
+Costo del actuador con el servicio de instalación incluido: $ 17.500.000 
+
+2014/06/04 DIEXER CARO
+CONCEPTO EMITIDO SOLO SE PRESENTO UN PROPONENTE SAUFER LIMITORQUE A LA ESPERA DE SER ADJUDICADO POR EL COMPRADOR MONICA HAICHELL
+2014/12/24 DIEXER CARO                                                                                                                                                                                                         EL PERSONAL DE SAUFER SOLUCIONES  INICIA EL MONTAJE DEL ACTUADOR 210-MBV-2204, SE IDENTIFICAN LAS SEÑALES DE CONTROL Y POTENCIA CABLAEDAS AL ACTUADOR ANTERIOR DE MARCA AUMA CON EL FIN DE INSTALARLAS EN EL ACTUADOR LIMITORQUE  E INICIAR SU PUESTA EN MARCHA
+2014/12/29 DIEXER CARO
+QUE PENDIENTE INSTALAR EL INDICADOR MECANICO EL CUAL LLEGO CON LA RELACION DE 4 A 1 Y SE NECESITA DE 3 A 1 Y LA INSTALACION EN DEL TAPON  EN LA CAJA DEL ACTUADOR 
+2015/02/25 DIEXER CARO
+SE RECIBEN LOS TAPONES EN PVC DE DIAMETRO DE 2 /12 Y SE INSTALA EN EL TRONILO SIN FIN PARA EVITAR EL INGRESO DE AGUA Y PERDIDA DEL LUBRICANTE 

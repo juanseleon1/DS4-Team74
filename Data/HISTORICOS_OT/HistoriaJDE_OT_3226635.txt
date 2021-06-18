@@ -1,0 +1,38 @@
+
+
+2016/08/29 CESAR HOYOS - LUIS EDUARDO ARCILA - RUBEN ARBOLEDA
+
+
+Al cambiar la mini RTU de la unidad 2 por solicitud de Luis Fernando Correa, se abre la protección del regulador de velocidad, sacando la unidad de generación con 70 MW.
+Se evidenció un corto circuito al colocar la bornera X8 de la mini RTU.
+Se le da nuevamente arranque a la unidad, Se le informa a Luis Fernando Correa y se deja todos los conectores de la mini RTU por fuera. 
+
+Se evidencia falla para controlar la potencia activa, al ponerse en control en remoto, siempre se presentaba un pulso continuo con la consigna de subir potencia, llegando al límite y continuando el pulso, por lo tanto no recibía la orden de bajar potencia, en el SCADA no llega la señal de referencia de potencia U2-6.9, adicionalmente en el tablero TT2.2 se evidencia que el Megawatimetro se encuentra en 0, se realizó medidas en diferentes puntos.
+
+Se solicita la unidad para cambio de la tarjeta VAO20 en el regulador de la Unidad 2, El canal fallado es el QW15, Referencia de Potencia.
+De nuevo se le da arranque a la unidad y se sincroniza pero el problema continúa.
+
+Se procede a conectar la Mini RTU que tenía la unidad para descartar alguna conexión relacionada con el regulador de velocidad y efectivamente la serie de la referencia de potencia pasa por la RTU (no aparece en los planos de la unidad) se le hacen pruebas de subir y bajar carga en remoto, respondiendo satisfactoriamente.
+
+
+
+
+
+
+2016/08/29 CESAR HOYOS - LUIS EDUARDO ARCILA - RUBEN ARBOLEDA
+
+
+Al cambiar la mini RTU de la unidad 2 por solicitud de Luis Fernando Correa, se abre la protección del regulador de velocidad, sacando la unidad de generación con 70 MW.
+Se evidenció un corto circuito al colocar la bornera X8 de la mini RTU.
+Se le da nuevamente arranque a la unidad, Se le informa a Luis Fernando Correa y se deja todos los conectores de la mini RTU por fuera. 
+
+Se evidencia falla para controlar la potencia activa, al ponerse en control en remoto, siempre se presentaba un pulso continuo con la consigna de subir potencia, llegando al límite y continuando el pulso, por lo tanto no recibía la orden de bajar potencia, en el SCADA no llega la señal de referencia de potencia U2-6.9, adicionalmente en el tablero TT2.2 se evidencia que el Megawatimetro se encuentra en 0, se realizó medidas en diferentes puntos.
+
+Se solicita la unidad para cambio de la tarjeta VAO20 en el regulador de la Unidad 2, El canal fallado es el QW15, Referencia de Potencia.
+De nuevo se le da arranque a la unidad y se sincroniza pero el problema continúa.
+
+Se procede a conectar la Mini RTU que tenía la unidad para descartar alguna conexión relacionada con el regulador de velocidad y efectivamente la serie de la referencia de potencia pasa por la RTU (no aparece en los planos de la unidad) se le hacen pruebas de subir y bajar carga en remoto, respondiendo satisfactoriamente.
+
+
+
+

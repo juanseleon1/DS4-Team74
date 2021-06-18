@@ -1,0 +1,10 @@
+FECHA:06/07/2016
+
+SOLICITANTE:GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCIÓN:COJINETE SUPERIOR CON BAJO NIVEL DE ACEITE Y EL RECINTO SE OBSERVA CON MUCHO ACEITE.
+
+Por presentar alarma por bajo nivel ( 121 en el instrumento digital) de aceite el cojinete superior de la unidad 5 de Gpe 3 se recuperaron 25 lts de aceite heavy Medium ISO VG 68 alcanzando el nivel patrón (132 en el instrumento digital)
+verificando además con la varilla de nivel los valores encontrados los cuales concuerdan con el instrumento.
+Se realiza limpieza general al generador el cual se encontró contaminado de aceite.
+Nota: queda en observación el comportamiento del nivel y la detección de la fuga.

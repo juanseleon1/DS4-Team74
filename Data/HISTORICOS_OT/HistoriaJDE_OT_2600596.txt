@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL VALVULA ADMISION CENTRAL PORCE 2.
+
+FECHA: 25/10/2014 PROGRAMADOR: JGUINGUER
+
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los microsuiches de estado de la válvula, Sello de operación y aplicación del Bulón.
+
+REALIZO: DAVID ATEHORTUA - FRANK CORDOBA

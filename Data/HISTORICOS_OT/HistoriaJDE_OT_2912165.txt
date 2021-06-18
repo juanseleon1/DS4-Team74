@@ -1,0 +1,4 @@
+FECHA: OCTUBRE 24/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: JORGE E. MUÑOZ.
+Se realiza limpieza general y revision de conexiones segun procedimiento en la OT.
+
+XE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD

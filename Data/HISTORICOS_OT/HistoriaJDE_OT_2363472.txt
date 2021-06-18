@@ -1,0 +1,24 @@
+OCTUBRE 12 DE 2014.
+
+SE ANEXA INFORME DEL INGENIERO HECTOR DIEGO GONZALEZ
+
+Buenas tardes a todos.
+
+De acuerdo con lo último que se , para la ruta es necesario realizarla con el equipo con que cuenta el equipo de trabajo de Operación y Mantenimiento.
+
+Por favor Jairo coordina la entrega del equipo de cómputo asociado al equipo de descargas parciales que se emplea para la ruta de las unidades del área Metropolitana (Niquía y Tasajera).
+
+La recopilación de información~ la conocen Carlos Giraldo y Gabriel Santiago.
+
+INFORMA: GORTIZG
+
+
+XE: REALIZAR PRUEBA DESCARGAS PARCIALES
+
+REALIZAR LA PRUEBA DE DESCARGAS PARCIALES A LOS ESTATORES DE LA CENTRAL LA HERRADURA, SEGÚN EL INSTRUCTIVO GANTE0011.
+
+CON ESTA OT SE INTERVENDRÁN LOS SIGUIENTES EQUIPOS:
+
+COD EQUIPO EQUIPO155781 ESTATOR GENERADOR U1 HE155782 ESTATOR GENERADOR U2 HE
+2013/09/10 CARLOS A. GIRALDO J.
+NO FUE POSIBLE REALIZAR LA PRUEBA DEBIDO A QUE EL CONDENSADOR SE ENCUENTRA MALO.

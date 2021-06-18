@@ -1,0 +1,17 @@
+2014-12-28. JUAN CARLOS DUARTE MUÑOZ.
+
+REVISAR EL EVENTO EN NODO 2: "INPUT OPEN CIRCUIT, DETECTOR TERMICO GEN 2, ZONE 36, ADR 038, LP1 ND 2".
+CON EL EVENTO SE ENCIENDE LA INDICACIÓN DE PROBLEMA GENERAL.
+
+2015-01-13. CÉSAR HOYOS.
+
+El evento se encuentra asociado a la alarma bajo voltaje de baterías, en revisión se encuentra que una de las baterías tiene un voltaje de 8.65V y la otra 13V.El manual del panel de control indica que estas baterías su vida útil es de 3 a 5 años; el sistema va a cumplir 3. Se realizara la gestión mediante esta orden para  conseguir una nueva batería, se retiran las 2 baterías del panel de control Nodo 2.
+
+2015-01-15.  CÉSAR HOYOS
+
+Se realizará la gestión para adquirir 2 baterías.
+
+2015-02-28.  CÉSAR HOYOS
+
+Se realizó el cambio de las 2 baterías normalizando las alarmas y quedando el nodo sin novedad.
+

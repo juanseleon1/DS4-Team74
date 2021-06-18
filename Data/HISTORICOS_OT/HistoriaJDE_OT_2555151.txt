@@ -1,0 +1,17 @@
+Jueves junio 26 de 2014
+Operación GlV
+Revisar y corregir falla en sistema modbus, tablero bombas de drenajes central Guadalupe lV, está ocasionando salida de la unidad G42.
+
+Jueves 26 junio de 2014
+
+Desde la estación de ingeniería se deshabilita la comunicación Modbus del tablero de Drenajes G4 porque estaba ocasionando oscilaciones en el PLC de la unidad 2, disparándola en varias ocasiones. El sistema queda trabajando en forma automática pero sin visualización de las variables del sistema de drenajes en la sala de operación. 
+
+Se recomienda a operación estar monitoreando este sistema cada hora hasta que se solucione este problema.
+
+Sabado 28 de junio de 2014
+
+Debido a que la unidad 2 vuelve a salirse por falla MODBUS, se desconecta la señal MODBUS que va del PECA al Controlador de unidad para realizar segumiento a este problema.
+
+Domingo 29 de junio de 2014
+
+De nuevo la unidad 2 vuelve a salirse por falla MODBUS, se desconecta la señal física MODBUS del sistema de drenajes. Queda en observación la unidad.

@@ -1,0 +1,10 @@
+SENSOR FALLADO DEL TAST
+
+23/01/2016
+
+Se realiza verificacion de la señal posicion de la valvula sello operacion , se encontro problemas con la señal por ajustes de la señal en los sensores de posicion, se realiza ajuste de los sensores y la unidad queda en observacion.
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR 
+  

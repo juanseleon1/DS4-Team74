@@ -1,0 +1,19 @@
+14/09/2017 LIMPIEZA FOSO DE BOMBAS REFRIGERACION UNIDADES GUADALUPE IV. 
+
+
+
+Programador: Camilo Montagut - 2017/10/11
+
+Se realiza limpieza del foso por medio de los eductores dispuestos en la misma instalación.
+Al evidenciar un gran cumulo de arena y lodo a la entrada del foso se procede a limpiarlo con mangueras de alta presión mostrando que algunos eductores presentaban un funcionamiento diferente a los otros.
+
+Se realiza limpieza a las granadas de las bombas de refrigeración y en toda la superficie del muro del recinto.
+Se entrega el trabajo a operación y se hacen pruebas con maquina girando registrándose los siguientes valores de presión de las bombas:
+
+- Bomba # 1…1.73 bar.
+- Bomba # 2…2.3 bar.
+- Bomba # 3…2.3 bar.
+
+Tener en cuenta que a la primera revisión de los filtros se evidenció que las duchas se encontraban obstruidas por lodo y por esto no se lograba limpiar de manera adecuada los mismos filtros
+
+Ejecuta: equipo mantenimiento UOG

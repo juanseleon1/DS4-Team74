@@ -1,0 +1,21 @@
+FECHA: 18/06/2018    SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Camilo Cadavid - Iván Franco- Operación G4
+DESCRIPCIÓN: Se presenta explosión del interruptor de máquina de la unidad 3 de Guadalupe IV a las 22:19, con apertura del interruptor de la bahía Banco 2 de la subestación 230kv, operó la protección del relé diferencial SEL 387E (87-1, 87-2, 87-3 fases A, B y C) del banco 2.
+La máquina se encontraba sincronizada desde las 18:35 con 36MW y 0 MVar. 
+
+
+FECHA: 18/06/2018    SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Camilo Cadavid - Iván Franco- Operación G4
+DESCRIPCIÓN: Se presenta explosión del interruptor de máquina de la unidad 3 de Guadalupe IV a las 22:19, con apertura del interruptor de la bahía Banco 2 de la subestación 230kv, operó la protección del relé diferencial SEL 387E (87-1, 87-2, 87-3 fases A, B y C) del banco 2.
+La máquina se encontraba sincronizada desde las 18:35 con 36MW y 0 MVar. 
+
+15/07/2018
+SE REALIZA MANTEIMIENTO CORRECTIVO ELECTROMECANICO A ESTE INTERRUPTOR, DEBIDO A LA FALLA PRESENTADA, EL MANTENIMIENTO TIENEN COMPONENTE MECANICO, ELECTRICO Y DE INSTRUMENTACION.
+
+ESTA REPARACION ES REALIZADA POR EL PERSONAL DE LA UNIDAD OPERACIONES GUADALUPE, COMPRENDIO DESCONEXIONADO Y CONEXIONADO DE TODAS LAS SEÑALES DE CONTROL, DESARME DEL INTERRUPTOR MECANICA Y ELECTRICAMNETE, PARA REPARACION DE PIEZAS MECANICAS Y ELECTRICAS, SE HICIERON PRUEBAS ELECTRICAS A TODOS LOS COMPONENTES ASOCIADOS AL CIRCUITO DE POTENCIA, PRUEBAS Y PUESTA EN SERVICIO. LAS PRUEBAS ELECTRICAS , MECANICAS Y LOS TRABAJOS EN DETALLE, ASI COMO UN REGISTRO FOTOGRAFICO QUEDAN ASENTADOS EN LA CARPÉTA Y LAS BITACORAS QUE SE ABRIERON PARA EL EVENTO, EN EL SERVIDOR DE LA UNIDAD...
+
+LA REPARACION DE ESTE INTERRUPOTR SE DIO DESDE EL 18 DE JUNIO HAST EL DIA 15 DE JULIO, DEL 2018
+
+JUAN A. CAICEDO HENAO
+
+La información queda en el servidor:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\RIESGOS Y SEGUROS\1.Gestión Riesgos y Seguros\SINIESTROS\2018-18-06 FALLA INTERRUPTOR DE POTENCIA G43

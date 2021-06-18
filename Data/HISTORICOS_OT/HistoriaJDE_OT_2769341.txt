@@ -1,0 +1,4 @@
+
+FECHA: AGOSTO 15/2015PROGRAMO: Daniel PalaciosEJECUTO: Diego Restrepo.
+Se realiza mantenimiento según instructivo de la OT, se realiza limpieza general al tablero TSAU, se reviza conexiones en interruptores, se revisan puertas.
+XE: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU DE LA UNIDAD

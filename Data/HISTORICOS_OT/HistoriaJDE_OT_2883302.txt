@@ -1,0 +1,51 @@
+FECHA: JUEVES 05/11/2015
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RODOLFO GARCES Y CAMILO FLOREZ 
+ASOCIADO A LA OT: 2883302
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DE TEMPERATURA, HOROMETRO Y PRESION DE FLUJO MOTOBOMBAS DE REFRIGERACION GENERADORES
+
+Nota : Realineamiento Anual
+
+Motobombas de refrigeración # __1___
+
+horometro:_________23195_______________
+
+vibraciones cojinete ventilador 1VP(mm/s):____0.9_______
+
+vibraciones cojinete ventilador 2HP(mm/s):_____0.7______
+
+vibraciones cojinete de acople 3VP(mm/s):_____1.2______
+
+vibraciones cojinete de acople 4HP(mm/s):______1.7_____
+
+vibraciones bomba acople 5VP (mm/s):_____1.9_____
+
+vibraciones bomba acople 6HP (mm/s):______3.3____
+
+vibraciones bomba descarga 7VP (mm/s):_____1.9_______
+
+vibraciones bomba descarga 8HP(mm/s):______2.2______
+
+temperatura motor: ( °C ):____64____
+
+temperatura bomba: ( °C ):_________
+
+Presión de trabajo: ( BAR ):_____2.94_______
+
+RPM: 1760 
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0044

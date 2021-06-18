@@ -1,0 +1,3 @@
+2014/10/14 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+Se realizó liompieza general a los tableros de la distribucion general. 
+Se dejó en funcionamiento normal. 

@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION COJINETE SUPERIOR CENTRAL PORCE 2.
+
+FECHA: 25/09/2014 PROGRAMADOR: JGUINGUER
+
+Se realiza limpieza general a toda la instrumentación, se verifican  los sensores de vibración. Sensor  CSP  9.43VDC y CSL  9.72VDC. Nivel de aceite cojinete de turbina se encontró en 373mm el patrón es 370mm.
+
+REALIZO: JUAN CAMILO MONTOYA - JENIFFER GARCIA

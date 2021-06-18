@@ -1,0 +1,34 @@
+
+REFERENTE AL AIRE ACONDICIONADO CASA DE MÁQUINAS.
+PRESENTA FALLA EL CHILLER #1 NO SE PUEDE IDENTIFICAR LA FALLA YA QUE EL PANEL DE CONTROL TIENE MALO EL DISPLAY DESDE DÍAS ANTERIORES.
+
+NOTA: TENER EN CUENTA QUE QUEDAMOS SIN NINGÚN CHILLER EN FUNCIONAMIENTO PUES EL #2 SE ENCUENTRA FALLADO DESDE EL DÍA 31 DE JULIO /2017 CON LA OT # 355 4104.
+
+FECHA: OCTUBRE 05 - 2017.
+
+SOLICITANTE: LUIS FERNANDO LOPERA - VICENTE GAMBOA (TURNO 1).
+
+El día 5 de Octubre de 2017 se presenta llamada de servicio, por problemas con el sistema de aire acondicionado de la central de Porce Dos, durante la revisión se encuentra las siguientes eventualidades las cuales se describen a continuación: 
+
+Paso uno atención del servicio. 
+Se encuentara sistema fuera de servicio en ambas enfriadoras, la centrifuga #1 la cual estaba en funcionamiento presentaba una alarma la cual no se lograba identificar por el estado actual de display. 
+Durante la atención de servicio se logro evidenciar que la unidad enfriadora #1 sufrio un corte en la tensión de suministro durante su operación, como consecuencia se describen algunas causas se derivan de este tipo de maniobras. 
+1. El apagado del sistema no fue el adecuado de acuerdo con el fabricante del equipo la parada del sistema es la siguiente: Cuando se produce una señal de parada, la secuencia de apagado para el compresor es la siguiente primero se desactivar el relé de arranque, un estado mensaje de '' SHUTDOWN IN PROGRESS, COMPRESSOR DEENERGIZED 'aparece en la pantalla. Compresor a tiempo y servicio ontime stop. Las paletas (levas) guías se llevan entonces posición cerrada, el relé de la bomba de aceite y el relé de agua se apaga unos segundos después de que el compresor se detiene. 
+
+2. Realizar un apago mediante un comando diferente al display ocasiona que tanto los elemento mecánicos como los sensores pueden generar errores en su operación, en el caso de los elementos mecánicos el sistema de levas puede terminar en una posición no muy adecuata para su próximo arranque, ocasionando un sobre esfuerzon en el arranque inicial. 
+
+. 
+Ademas cuando se intento arrancar la maquina de nuevo, logramos evidenciar que la temperatura del agua de condensación era elevada, lo cual ocasiona que la unidad enfriadora se sobre esfuerce y se presenten salidas de servicio; como ya se tiene experiencia con este tema procedimos reducir la carga apagando UMAS de agua helada para normalizar la temperatura de agua de condensación y asi logara la normalización del enfriador, luego se procede a ingresar carga encendiendo UMAS de agua helada, pero después de algunos minutos de trabajo la unidad enfriadora de nuevo presenta una salida por una de sus protecciones, la cual no se puede verificar por el estado del display.
+ 
+Paso dos cambio de sensor: 
+Como la unidad enfriadora #2 se encuentra parada por el daño de uno de los sensores que fue golpeado y en su defecto se daño, por parte del personal técnico de C.S.L.S.A.S se quería realizar el cambio de dicho sensor pero funcionarios de epm no autorizaron el cambio. 
+
+Paso tres cambio de display 
+El dia 6 de octubre funcionarios de epm precedieron con el cambio del display, para dejar la maquina operativa pero esta maniobra no funciono, el sistema no identifico todos los sensores y por tal motivo no arranca la unidad enfriadora. 
+Al medio dia los técnicos de C.S.L S.A.S procedieron con el cambio del sensor para dejar la maquina operativa, pero con apoyo de proveedor de la maquina ya que con el cambio del display se altero uno de los parámetros de la enfriadora dicha maniobra logro encender la unidad y dejar en oparacion el sistema. 
+
+Paso Cuatro verificiacion trabajo de la enfriadora 
+Duarante la tarde se realizo seguimiento del sistema para garantizar la buena operación del enfriador, este no presenta ninguan novedad. 
+
+ESTE TRABAJO FUE REALIZADO POR LA EMPRESA CONTRATISTA COMERCIAL Y SERVICIOS LARCO S.A.S.
+INFORMA: OSCAR PARRA

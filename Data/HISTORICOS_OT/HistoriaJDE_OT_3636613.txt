@@ -1,0 +1,6 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Jhonatan Arango y Olga Viana.
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos +ECF y +TCFM tableros de control válvulas de frenos de la unidad 1, verificación en el tablero +TCF la aplicación y desaplicación de los frenos, revisión y verificación de los microsuiches finales de curso.
+Trabajo ejecutado por: Jhonatan Arango y Olga Viana.
+
+XE:VERIFICAR, REVISAR Y LIMPIAR FRENOS GENERADOR DE LA UNIDAD

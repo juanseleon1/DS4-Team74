@@ -1,0 +1,5 @@
+
+FECHA: OCTUBRE10 DE 2014
+
+EJECUTANTE: PEDRO ROBAYO
+Se le adiciona agua al sistema de refrigeración, se encontró la presión en 1 bar y se deja en 2,5 bar, fue necesario cambiar el tanque de presión de este mismo sistema.

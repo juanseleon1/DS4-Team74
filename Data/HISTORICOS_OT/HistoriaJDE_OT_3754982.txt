@@ -1,0 +1,67 @@
+FECHA: 2018-07-16  OT 3754982, Consignación GOM 40223
+PLANEADOR: LUIS FEDERICO ALVAREZ, PROGRAMÓ: CRISTIAN GOMEZ
+EJECUTÓ: JULIAN GIRALDO, GIOVANIS RODRIGUEZ, OLGA MARIA VIANA, DAVISON AUDREY PEREZ MORALES, (DISTRIBUCIÓN:ANGEL SANCHEZ, CARLOS MANUEL VASQUEZ)
+
+REFERENTE LINEA A 44 KV CTO R53-43
+A las 17:00 se solicita la apertura del circuito a 44 kv R53-43 de Porce 3, para realizar los siguientes trabajos:
+· Retirar puentes provisionales en la torrecilla de llegada de circuitos a la subestación Brisas
+· Retirar carpa debajo de los barrajes de 44 kv
+· Cerrar seccionador lado de línea en subestación Brisas
+· Abrir cuchillas en  poste en subestación portal y abrir alimentación desde interruptor Q1 de S/E Portal de Porce III
+· Cerrar cuchillas de salidas de circuitos No 1 y No 2 de brisas y cuchillas hacia circuitos rurales R109-13 y R20-06
+A las 17:31 se energiza el circuito a 44 kv R53-43 y paran normalmente las plantas de emergencia y operan automáticamente los interruptores en media tensión de subestación Portal.
+REFERENTE A LA SUBESTACION BRISAS
+A las 18:31 se energiza el transformador de 44 kv de la subestación Brisas y el barraje principal a 13.2 kv
+A las 18:39 se energizan el circuito No 1 y circuito No 2 de Brisas y se informa al CLD las maniobras, se cierran los interruptores H01-H02 y H03 de servicios auxiliares de subestación de 500 kv.
+Pendiente la verificación de la comunicación de la frontera comercial con telemedida.
+OTROS TRABAJOS POR PARTE DE TyD
+· Instalación del nuevo reconectador para el circuito de campamentos, queda pendiente su programación y puesta en servicio
+· Traslado del reconectador del circuito de Amalfi a nuevo poste, por trabajos en la nueva subestación Brisas.
+OBSERVACIONES
+· La planta de emergencia de Zona C sigue fuera de servicio y pendiente por pruebas de carga del motor después de su reparación, se instaó banco resistivo de 30 kw para las pruebas.
+· El banco de baterías de 48 Vdc de subestación Brisas, fue necesario remplazarlo por presentar las 4 baterías de 20 AH en cero voltios, que impedían la operación local de la subestación, se informó a Anibal Henao
+· Se ajustó nivel de aceite en el polo de la fase T del interruptor de 44 kv y se informó a subestaciones y líneas (Ing. Ferney Henao) Pendiente el remplazo del interruptor para reparación por parte de TyD.
+· Se corrigió el problema en el seccionador del interruptor de trafo de auxiliares en la Minicentral que estaba ocasionó la falta de alimentación de los dos cargadores de baterías y la descarga del banco de 24 VDC en la minicentral.
+Jefe de trabajo: Luis Federico Alvarez A. OT 3754982, Consignación GOM 40223
+Ing. Angel Adonis Cadavid
+Daniel Palacios, Cristian Gomez, Davison Pérez
+Realizaron: Electricistas UOP, Cuadrillas de mantenimiento redes Zona centro, Cuadrilla de Línea Viva Distribución Zona Centro, Cuadrilla de Proyectos Distribución Zona Centro.
+
+INFORME PARCIAL TRABAJOS EN CIRCUITO A 44 KV R53-43 Y SUBESTACION BRISAS, OT 3754982
+FECHA: 2018-07-15  OT 3754982, Consignación GOM 40214 Y 40223
+PLANEADOR: LUIS FEDERICO ALVAREZ, PROGRAMÓ: DANIEL EDUARDO PALACIOS
+EJECUTÓ: JULIAN GIRALDO, GIOVANIS RODRIGUEZ, OLGA MARIA VIANA, DAVISON AUDREY PEREZ MORALES, (DISTRIBUCIÓN:ANGEL SANCHEZ, CARLOS MANUEL VASQUEZ)
+
+REF CIRCUITO A 44 KV R53-43 DE PORCE 3:
+Mediante la consignación GOM40214 se desenergiza el circuito R53-43 de Porce 3 para realizar los siguientes trabajos:
+- Cambio de dos aisladores a 44 kv. tipo LINE POST en la torre 63, los cuales se encontraban flameados.
+- Corregir problema en el tablero de mando del seccionador, por falla en el circuito de calefacción del tablero.
+- Aislar la subestación brisas abriendo seccionadores lado de 44 kv y lado de 13.2 kv para iniciar trabajos de cambio de PTs de barras y tablero de medidores de frontera de la minicentral.
+Se desenergizó a las 08:05 am y se normalizó a las 11:05 am
+Informó: Jefe de trabajo Federico Alvarez A.
+Realizó: Equipo  Electricistas UOP, Oficiales redes Angel Sánchez y Carlos Vasquez,  Daniel Palacios, Adonis Cadavid, Cristian Gomez, Julian Giraldo, Olga Maria Viana.
+
+REF. SUBESTACIÓN BRISAS
+Mediante la consignación GOM 40223, se desenergiza la subestación Brisas, y se realizan las siguientes maniobras:
+- Abiertos y bloqueado el seccionador de llegada lado de 44 kv,
+- Abiertos y bloqueado interruptor de bahía de llegada lado de 44 kv,
+- Abierto y bloqueado seccionador general lado de 13.2 kv
+- Abiertos y extraidos interruptores 1 y 2 lado de 13.2 kv
+- Abiertas cuchillas de salidas de circuitos 1, 2, y salidas hacia el cto R20-06 y R109-13, cuchillas en poste No 1366.
+Trabajos a realizar:
+- Instalación de nuevos PTs de media tensión en barra No 1 a 13.2 kv de la subestación brisas para cumplir acuerdo 038 de fronteras comerciales
+- Instalación de nuevo tablero de medidores de la frontera de la Minicentral en la subestación brisas, para cumplir acuerdo 038 de fronteras comerciales
+- Inspección de polo fase R del interruptor de 44 kv por fuga de aceite y bajo nivel, personal de TyD. (Mtto subestaciones y líneas).
+- Instalación de nuevo reconectador para el circuito de campamentos Porce III por parte de la cuadrilla de línea viva Zona Centro.
+- Traslado reconectador del circuito R20-06 a nuevo poste por parte de la cuadrilla de proyectos redes zona nordeste, por trabajos de la nueva subestación brisas.
+- Instalación de puentes provisionales en la torre de llegada a la subestación brisas, entre el cto de campamentos y presa para alimentar la presa Porce III y descarga de fondo.
+- En descarga de fondo Traslado de tablero de UPS 6 y nuevos tableros de distribución siemens, por parte de cuadrilla de montajes, Walter Tobon, Cristian Gomez y electricistas UOP.
+- Pendiente tomar lectura de medidores antes de arrancar la MCH.
+Informó: Jefe de trabajo : Federico Alvarez A.
+
+Realizó: Equipo  Electricistas UOP, Oficiales redes Angel Sánchez y Carlos Vasquez,  Daniel Palacios, Adonis Cadavid, Cristian Gomez. Cuadrilla de línea Viva Distribución Zona Centro, Cuadrilla de Proyectos distribución zona centro, Cuadrilla de montajes, Cuadrilla daños energía zona centro.
+Consignación: GOM 40223, OT 3754982
+
+
+
+

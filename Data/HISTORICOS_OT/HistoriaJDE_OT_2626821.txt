@@ -1,0 +1,58 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+Sergio Olivares D. 06/11/2014.
+
+Se inicia el desarme del recinto de anillos de la unidad; se mide el aislamiento del rotor y del barraje por separado a las 9:00 AM:
+ Rotor = 7.73 M         Barraje = 697 M    
+Se continua con el desarme, se mide rotor y anillos por separado a las 2:30 PM.
+            Rotor = 4.06 M     Anillo Superior = 4.76 G     Anillo Inferior = 5.16 G
+Se retira el eje del recinto de anillos,  y se deja disponible para el desarme por los mecanicos del cojinete de generador.
+
+Sergio Olivares D. 07/11/2014.
+Se empieza la logìstica para la extracciòn del rotor por parte de los mecànicos y electricistas.
+Se adecua la sala de montaje para colocar el rotor y realizar la limpieza correspondiente
+Por parte de los electricistas se colocan cortinas de agrolene para evitar los gases del liquido limpiador Dielectric en piso de generadores, tambien para evitar humedad del mismo piso.
+Se tuvo algunos inconvenientes con la grua Vevey en la extraccion del rotor, pero fueron ràpidamnete solucionados.
+A las 5:00 PM se coloca el rotor en su sitio.
+En la horas de la noche se empieza a armar el andamio y se fija al dispositivo del piso, y se coloca la plataforma de acceso a la parte superior del rotor.
+
+Sergio Olivares D. 08/11/2014.
+Se continua con el armado del andamio. Se hace nuevamente la medida de aislamiento alas 8:00 AM, encontrandose en 1.9 M
+Se empieza con la lògistica para el lavado: adecuacion de mangueras, lìneas de vida, trajes de proteccion personal, materiales para lavado (cepillos, dielectric, estopa, liencillo)
+ Antes de empezar el lavado se hizo nuevamente la medida de aislamiento, y se encontro en 1.55 M, a las 6:50 PM.
+Se hizo el lavado con 8 electricistas entre las 6:30 PM y 10:00 PM. Se hizo por periodos de media hora 4 personas.
+El lavado se inicia por la parte superior, lavando principalmente los extremos superiores de las bobinas. Se hace de nuevo la medida de aislamiento y se encuentra en 806 M, a las 7:25 PM
+Se continua el lavado hacia abajo con las otros 4 personas, y se sigue sucesivamenete cambiando el personal cada media hora.
+Se termina el lavado a las 9.45 PM. Se mide de nuevo el aislamiento y se encontro en 836 M.
+
+Sergio Olivares D. 09/11/2014.
+Se mide nuevamente el aislamiento a las 7:30 AM, y se encontro en 1.65 G.
+Se realiza la prueba exitosa de caìda de tensiòn en AC.
+Se empieza la adecuacion para realizar la prueba en DC.
+
+Sergio Olivares D. 10/11/2014.
+Se termina la adecuacion logistica para la prueba DC.
+Se mide aislamiento al rotor a las 8:40 AM, resultado = 1.94 G.
+Se prueba el equipo de soldadura enviado de la central de Playas, y no sube de corriente, se destapo y se encontro tarjeta de control mala
+Se trajo otro soldador de los talleres, se hizo las adecuaciones necesarias y se pudo hacer la prueba en DC, resultado: exitosa
+A la 2:30 PM se hizo prueba de limpieza con el equipo criogènico que se contrato para el estator, y el resultado fue excelente, pero bajo el aislamiento a 17.6 M. Se dejo calentando con el soldador.
+
+Sergio Olivares D. 11/11/2014.
+Se mide aislamiento a las 8:00 AM, 1.99 G.
+Se empieza a barnizar con Glytal las uniones y las plaquetas laterales de polo.
+ìA las plaquetas laterales (de los zapatas laterales), se barniza por todos los bordes tratando de rellenar con el mismo barniz los vacìos que hay entre el la plaqueta aislante y  la bobina propiamente; se detalla que el barniz penetra dentro de la plaqueta y se escurre, no sella.
+Se consulta con el ingeniero Juan Carlos Granados y se determina volver a barnizar nuevamente y no realizar ningun otro proceso. 
+
+Sergio Olivares D. 12/11/2104.
+Se mide aislamiento a las 7:50 AM. 1.59 G.
+Se barniza de nuevo las plaquetas por todos los bordes, ocurriendo lo mismo, se escurre entre la plaqueta y la bobina.
+
+Sergio Olivares D. 13/11/2104.
+Se mide aislamiento a las 8:00 AM. 1.50 G.
+Se procede a realizar los preparativos para barnizar todo el rotor, se enmarcarrilla el ventilador inferior y la ranura donde encaja el ventilador superior que fue retirado. Se pinta a brocha el eje  inferior del rotor.
+En las horas de la noche se hace el barnizado con dos personas. Se deja intalado el soldador a 40 amperios. Se olvido subirlo a 150 amperios.
+Sergio Olivares D. 14/11/2104.
+Se mide aislamiento a las 7:50 AM. 1.0 G.
+Se mide resistencia ohmica del rotor = 219.8 m., a una temperatura promedio de 27.5 ºC.
+Se procede al translado del rotor hacia el estator, en el transcurso de la mañana. 
+ 

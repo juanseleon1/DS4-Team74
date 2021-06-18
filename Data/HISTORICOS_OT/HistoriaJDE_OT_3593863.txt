@@ -1,0 +1,17 @@
+2017/09/04 RUBEN ARBOLEDA
+Se crea ésta OT para realizar adecuaciones eléctricas para el lavado del túnel por parte del grupo de mantenimiento mecánico de planta.
+
+2017-09-11 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3593863, PASO:3          
+Se realizó conexión de hidrolavadora para el lavado del túnel en zona cercana a la puerta 14, se presentaron dificultades con la conexión ya que los puntos de conexión son muy distantes y presentan caída de tensión. Finalmente se adecuó con cable y se dejó en servicio normalmente.
+
+2017-09-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3593863, PASO:4     
+Se realizó revisión general de la hidrolavadora y se encontró falla en el contactor de potencia, éste quedó pegado y se derritió la pasta, se desmontó y se busco uno de características similares, queda pendiente instalar
+
+2017-09-23 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3593863, PASO:5          
+Se realizó montaje de contactor en la hidrolavadora en el túnel de acceso, se realizó prueba de funcionamiento y se evidenció que la tensión se está bajando a 130VAC, se recomienda realizar prueba en casa de maquinas.
+
+2017-09-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3593863, PASO:6          
+Se realizó conexión de una hidrolavadora enviada de playas para continuar con las labores del lavado del túnel.
+
+2017-10-31 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3593863, PASO:8          
+Se realizó adecuación de conexiones electricas en el túnel para el proceso de impermeabilización

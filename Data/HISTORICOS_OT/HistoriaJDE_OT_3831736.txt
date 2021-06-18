@@ -1,0 +1,9 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 29/04/2019
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+REALIZAR VERIFICACION DE LA ESTACION
+DESCARGAR DATOS 
+AJUSTE DEL PROGRAMA DE LA DCP
+AJUSTE DE CABLE DE SENSOR DE VIENTO Y DE PARARAYO A LA TORRE

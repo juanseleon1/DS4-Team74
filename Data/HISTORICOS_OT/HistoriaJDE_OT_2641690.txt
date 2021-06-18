@@ -1,0 +1,22 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2015/01/21 GIOVANNY DIAZ - YEISON ORTEGA OT: 2641690
+La temperatura en la salida del breaker se encuentra en el nivel 1 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 10°C, lo cual implica una posible deficiencia en su operación, se recomienda tener en cuenta para próxima inspección. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+REGISTRO DE TEMPERATURAS A LA SALIDA DEL BREAKER:
+FASE R 43,8°C
+FASE S 53,8°C 
+FASE T 46,3°C 
+
+TEMPERATURA DE AISLAMIENTO ESTIMADA 74°C, está dentro de los parámetros normales de operación según su clasificación de
+aislamientos.
+
+REGISTROS DE VOLTAJE 
+FASE RS = 454 V
+FASE ST = 452 V
+FASE RT = 452 V
+
+REGISTROS DE CORRIENTE 
+FASE R= 47 A
+FASE S = 48.5 A
+FASE T = 46.5 A

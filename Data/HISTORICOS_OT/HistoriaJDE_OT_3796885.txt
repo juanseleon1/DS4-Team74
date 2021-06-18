@@ -1,0 +1,6 @@
+Planeador:642009
+Aprobador:355694
+Fecha de solicitud: 21 de diciembre de 2018
+Tipo de mantenimiento: Preventivo
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Realización de aforo

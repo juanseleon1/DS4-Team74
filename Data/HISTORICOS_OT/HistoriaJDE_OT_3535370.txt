@@ -1,0 +1,24 @@
+Planeador: José Alirio Hoyos
+Aprobador: Camilo Cardona
+Fecha de creación: 08/07/2017
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa: 
+ Cresta 
+ Talud aguas arriba
+ Talud aguas abajo 
+ Estribos 
+ Vertedero
+ Tapón salida antiguo vertedero
+ Zonas bajas
+ Llenos de refuerzo 
+
+ Realizar lectura de la instrumentación:
+ Piezómetros
+ Pozo de observación 
+ Vertedero de aforo 
+ Medidor de asentamiento
+ Inclinómetros 
+ Acelerógrafos
+ Aforos presa principal y derrumbe Santa Gertrudis
+ Descargar la información en la base de datos de seguridad de presas.

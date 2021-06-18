@@ -1,0 +1,14 @@
+REVISAR COMUNICACION RED PROFIBUS Y SISTEMA DE PRESION DE ACEITE TUH
+PLANEACION MANTENIMIENTO: 24/02/2017
+PLANEADOR: RENATO MONTOYA
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V
+
+OT: 3406228
+
+24 FEBRERO 2017
+
+Referente al regulador de la unidad nº1 el sistema del TUH está haciendo una descarga muy acelerada (perdida de presión) descargando el sistema en un promedio de 6 min y 40 seg también se evidencia en la red profibus perdiendo el nivel del tanque y haciendo operador las bombas simultáneamente se encuentra operando en el momento la bomba 2 siendo prioridades las bombas 1 en las unidades, se informó al ing. Renato Montoya quien hizo inspección en el sistema sin encontrar fugas.
+
+Realizo: JOHN JAIRO GONZALEZ VALENCIA
+         JORGE MARIO PEÑARANDA

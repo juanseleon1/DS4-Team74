@@ -1,0 +1,77 @@
+PRUEBAS ELECTRICAS PREDICTIVAS.
+
+INSPECCION UNIONES ENTRE POLOS CON TERMOGRAFIA.
+MEDICION DE AISLAMIENTO A TIERRA.
+PRUEBA DE CAIDA DE VOLTAJE AC ENTRE POLOS.
+PRUEBA DE CAIDA DE VOLTAJE DC ENTRE POLOS.
+MEDIDA DE RESISTENCIA OHMICA CIRCUITO POLOS.
+
+JUAN CARLOS GRANADOS
+
+2016-09-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO, PROGRAMO: RARBOLG OT: 3251104, PASO:1 
+Se acompañamiento en las pruebas electricas al rotor sucio, al señor Edwin Lopera
+
+2016-09-23 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO - JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:2 
+Se realizó la desconexión del barraje pasante del ventilador del rotor, para extraer el ventilador, se hizo medida eléctrica al rotor (Solo Polos): 12,63MOhm
+
+2016-09-23 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO - JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:3 
+Se realizó conexión de soldadores para calentamiento del rotor
+
+2016-09-25 REALIZÓ: JHONATAN USME - JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:4 
+Con los soldadores conectados a uno corriente aproximada de 280 Amperios las bobinas de los polos alcanzaron una temperatura aproximada de 52 Grados, Se realizó desconexión de los soldadores y medida de aislamiento al rotor sucio pero con alta temperatura: 12,3MOhm, se dejó desconectado para que el contratista CRIOTECH realice el lavado criogénico.
+
+2016-09-25 REALIZÓ: CONTRATISTA CRIOTECH, PROGRAMO: RARBOLG OT: 3251104, PASO: 
+Se inicio el lavado criogénico al rotor por parte del contratista CRIOTECH
+
+2016-09-25 REALIZÓ: CONTRATISTA CRIOTECH, PROGRAMO: RARBOLG OT: 3251104, PASO: 
+Se termino el lavado criogénico al rotor por parte del contratista CRIOTECH
+
+2016-09-27 REALIZÓ: (EDWAR ALEXANDER LONDOÑO), PROGRAMO: RARBOLG OT: 3251104, PASO:5 
+Se inicio con la perforación del rotor, para realizar una prueba de caída de tensión por espiras
+
+2016-09-27 REALIZÓ: (EDWAR ALEXANDER LONDOÑO), PROGRAMO: RARBOLG OT: 3251104, PASO:5 
+Se realizó una prueba al rotor por parte del personal de la Universidad Nacional, se hizo acompañamiento en las pruebas con el equipo RDS (equipo para el diagnóstico de fallas en rotores)
+
+2016-09-28 REALIZÓ: JHONATAN USME - EDWAR LONDOÑO, PROGRAMO: RARBOLG OT: 3251104, PASO:6 
+Se realizó prueba de caída de tensión por expira a cada polo del rotor
+
+2016-09-28 REALIZÓ: JUAN DAVID GARCIA - JESUS MARIA GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:7 - 7,1 
+Se realizó pintura del rotor, después de la limpieza criogénica y después de las revisiones, se dejó calentando al finalizar la pintada.PRUEBAS ELECTRICAS PREDICTIVAS.
+
+INSPECCION UNIONES ENTRE POLOS CON TERMOGRAFIA.
+MEDICION DE AISLAMIENTO A TIERRA.
+PRUEBA DE CAIDA DE VOLTAJE AC ENTRE POLOS.
+PRUEBA DE CAIDA DE VOLTAJE DC ENTRE POLOS.
+MEDIDA DE RESISTENCIA OHMICA CIRCUITO POLOS.
+
+JUAN CARLOS GRANADOS
+
+2016-09-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO, PROGRAMO: RARBOLG OT: 3251104, PASO:1 
+Se acompañamiento en las pruebas electricas al rotor sucio, al señor Edwin Lopera
+
+2016-09-23 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO - JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:2 
+Se realizó la desconexión del barraje pasante del ventilador del rotor, para extraer el ventilador, se hizo medida eléctrica al rotor (Solo Polos): 12,63MOhm
+
+2016-09-23 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO - JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:3 
+Se realizó conexión de soldadores para calentamiento del rotor
+
+2016-09-25 REALIZÓ: JHONATAN USME - JUAN DAVID GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:4 
+Con los soldadores conectados a uno corriente aproximada de 280 Amperios las bobinas de los polos alcanzaron una temperatura aproximada de 52 Grados, Se realizó desconexión de los soldadores y medida de aislamiento al rotor sucio pero con alta temperatura: 12,3MOhm, se dejó desconectado para que el contratista CRIOTECH realice el lavado criogénico.
+
+2016-09-25 REALIZÓ: CONTRATISTA CRIOTECH, PROGRAMO: RARBOLG OT: 3251104, PASO: 
+Se inicio el lavado criogénico al rotor por parte del contratista CRIOTECH
+
+2016-09-25 REALIZÓ: CONTRATISTA CRIOTECH, PROGRAMO: RARBOLG OT: 3251104, PASO: 
+Se termino el lavado criogénico al rotor por parte del contratista CRIOTECH
+
+2016-09-27 REALIZÓ: (EDWAR ALEXANDER LONDOÑO), PROGRAMO: RARBOLG OT: 3251104, PASO:5 
+Se inicio con la perforación del rotor, para realizar una prueba de caída de tensión por espiras
+
+2016-09-27 REALIZÓ: (EDWAR ALEXANDER LONDOÑO), PROGRAMO: RARBOLG OT: 3251104, PASO:5 
+Se realizó una prueba al rotor por parte del personal de la Universidad Nacional, se hizo acompañamiento en las pruebas con el equipo RDS (equipo para el diagnóstico de fallas en rotores)
+
+2016-09-28 REALIZÓ: JHONATAN USME - EDWAR LONDOÑO, PROGRAMO: RARBOLG OT: 3251104, PASO:6 
+Se realizó prueba de caída de tensión por expira a cada polo del rotor
+
+2016-09-28 REALIZÓ: JUAN DAVID GARCIA - JESUS MARIA GARCIA, PROGRAMO: RARBOLG OT: 3251104, PASO:7 - 7,1 
+Se realizó pintura del rotor, después de la limpieza criogénica y después de las revisiones, se dejó calentando al finalizar la pintada.

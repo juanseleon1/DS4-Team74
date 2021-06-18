@@ -1,0 +1,26 @@
+AI: ESTATOR U1 REVISAR RTD ENTRADA Y SALIDA DE AIRE DE REFRIGERACIÓN DEL GENERADOR
+FECHA PLANEACION MANTENIMIENTO: 17/09/2018
+NUMERO DE CONSIGNACION:
+
+N°OT: 3766616
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: NESTOR FABIAN OCHOA
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores 
+
+29/09/2018
+
+Se revia la RTD 13, entrada aire al generador, encontrándose error en la salida de corriente, en total son 4 transductores de temperatura que presentan problema en la salida de corriente. 
+se deja la OT en estado 35 en espera del repuesto. 
+
+se realiza chequeo a todas la rtds del devanado del estator, encontrandose las rtd 2,3, y 7 con medidas erroneas. 
+
+Realizado por: NESTOR OCHOA
+Se cierra OT, se compraron repuestos y se instalaran en enero del 2019.

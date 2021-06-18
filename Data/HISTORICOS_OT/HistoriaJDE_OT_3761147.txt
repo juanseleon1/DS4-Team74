@@ -1,0 +1,11 @@
+2018/09/03 RUBEN ARBOLEDA
+Se crea OT para ejecutar protocolo de disparos electricos y mecánicos a la Unidad de generación
+
+2018-09-03 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3761147, PASO:1-1,1          
+Se ejecutó protocolo de pruebas de disparos a la Undad 5.
+
+2018-09-06 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3761147, PASO:2          
+Se realizó acompañamiento en la ejecución de pruebas de puesta en servicio de la unidad 5.
+
+2018-09-07 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3761147, PASO:3          
+Se realizó acompañamiento en la ejecución de pruebas de puesta en servicio de la unidad 5.

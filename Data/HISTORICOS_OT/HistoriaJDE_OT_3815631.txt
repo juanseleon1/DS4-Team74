@@ -1,0 +1,16 @@
+
+04/03/2019
+
+Se presenta falla de comunicación en la RTU principal.
+
+se revisa y se hacen pruebas, encontrando problemas en las tarjetas RIO Head, tarjeta digital y análoga.
+Se cambian por unas de repuesto, se carga de nuevo el programa, se realizan pruebas de subir bajar carga en todas las unidades, quedando reestablecidas las señales en la RTU.
+Jorge Quijano
+Luis Fernando Correa
+Luis Eduardo Arcila
+
+2019/03/28-29 Victor Zuleta - Cesar Tulio Jimenez
+
+Se presenta falla en la comunicacion de la RTU principal y la de respaldo SMP, se encuentra problema en suiche de comunicacion ubicado en el tablero de la RTU de respaldo SMP bloqueando la tarjeta NEO de la RTD principal y la tarjeta de comunicacion NEBRO.
+
+Adicional se encuentra otro problema en el Acg de la unidad numero seis, producto a una entrada fallada (entrada 14)en el modulo de entrada digitales ERT 854 10 del backplane dos de la rtu principal ubicada en el cuarto supervisorio de casa de maquinas, se cambia por modulo nuevo y en coordinacion con el operador del CND se realizan pruebas de activacion del AGC de las ocho unidades tanto en remoto como en local para garantizar el optimo funcionamiento del modulo instalado a la hora de solicitud del AGC

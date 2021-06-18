@@ -1,0 +1,14 @@
+MP ANUAL, EQUIPOS:
+2620 VALVULA ADMISION U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: 02/10/2018 MANTENIMIENTO ELECTRONICO ANUAL OT: 3769337
+
+se realiza una verificación con el calibrador de presión Fluke, a los transmisores de presión aguas arriba y presión aguas abajo de la válvula de admisión, se les hace verificación a los trasmisores de presión de apertura, al transmisor de presión de cierre de la válvula esférica, y al transmisor de presión de sellos aguas arriba y sellos aguas abajo
+
+PROGRAMO: LUIS ADRIAN CARDONA
+
+

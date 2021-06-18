@@ -1,0 +1,9 @@
+DIC 17 DE 2018     OT NÚMERO: 3788068    PROGRAMÓ: JAIRO GUINGUER     EJECUTARON: ALEXANDER VILLA Y ANDRÉS YEPES
+SE INYECTO SEÑAL DE 4 -20MA A LOS INDICADORES DE MEDIDA DEL TABLERO DE CONTROL SISTEMA REGULACIÓN DE VELOCIDAD, AJUSTE Y LIMPIEZA SENSORES DE VELOCIDAD Y POSICIÓN EN EL SISTEMA DE REGULACIÓN DE VELOCIDAD
+
+Tablero: Regulador Electrónico Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 2 3 481.3 350 26 28 30122.5 690 50 52 54163.8 1040 75 78 80205 1400 100 100 104
+Instrumento 1: Potencia Activa (MW) 
+Instrumento 2: Rotación (rpm) 
+Instrumento 3: Posición Inyector (%)
+Instrumento 4: Posición Deflector (%)
+Instrumento 5: Posición Limitador (%) 

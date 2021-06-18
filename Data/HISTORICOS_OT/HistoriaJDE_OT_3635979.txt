@@ -1,0 +1,16 @@
+NOV 2 DE 2017     OT NÚMERO: 3635979    PROGRAMÓ: JGUINGUL     EJECUTARON: ANDRÉS YEPES 
+Se realiza inyección señal de temperatura con el calibrador de procesos y se activa Alarma - Disparo 
+
+
+Temperaturas de: Núcleo Estator Equipo 90°C 95°C 100°CTemperatura 1 88.06°C 93.11°C 98.16°CTemperatura 2 88.27°C 93.21°C 98.26°CTemperatura 3 88.38°C 93.32°C 98.37°CValor programado Alarma:92°CValor programado Disparo:97°CComentarios:Sin novedades  
+
+
+Temperaturas de: Devanado EstatorEquipo 90°C 95°C 100°CFase R 88.70°C 93.64°C 98.69°CFase S 88.81°C 93.86°C 98.80°CFase T 88.70°C 93.64°C 98.69°CValor programado Alarma:92°CValor programado Disparo:97°CComentarios:Sin novedades
+
+
+
+
+
+
+
+

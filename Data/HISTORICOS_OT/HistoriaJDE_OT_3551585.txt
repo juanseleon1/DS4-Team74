@@ -1,0 +1,13 @@
+2017/07/27 RUBEN ARBOLEDA, 
+Se crea la OT para realizar pruebas de tiempos de apertura y cierre y realizar medida de resistencia ohmica a los contactos del interruptor aprovechando la salida del banco 1 para pintura ignifuga
+
+
+2017-07-29 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3551585, PASO:1-2          
+Se realizó medida de tiempos de apertura y cierre del interruptor en la Unidad 5 con los siguientes resultados: 
+                          Fase R Fase S Fase T
+Tiempo cierre (ms) 122.6 121.8 122.6
+Tiempo apertura (ms) 53.4 52.2 53
+Resistencia estática () 192 166 150
+I bobina cierre (A) 1.089  
+I bobina apertura (A) 1.062  
+ 

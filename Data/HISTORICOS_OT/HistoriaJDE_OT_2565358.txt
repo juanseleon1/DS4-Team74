@@ -1,0 +1,14 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+24/JULIO/2014 MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL 9.26 VDC  y el CIPR 8.62 VDC. 
+Nivel de aceite se encontró en 365mm  no se le adiciono aceite, referenciado con el visor análogo: el nivel patrón es 340.0mm.
+ 
+No se pudo realizar la inyección de señales, por falta del calibrador de procesos. Cuando se presente oportunidad en baja carga se 
+realizara esta verificación de alarmas y disparos.
+
+Se realiza mantenimiento de cada una de las RTD asociadas a cojinete.
+
+Programador: Oscar Arango
+Ejecuto: Marlon Carmona - Francisco Gonzalez

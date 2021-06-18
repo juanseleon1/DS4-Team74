@@ -1,0 +1,11 @@
+
+2018/07/30 OT:3749944 Luis Eduardo Arcila
+Mantenimiento general por el personal de General Fire
+Se realizan pruebas de alarmas en generadores 1- 8.
+Se prueban sensores térmicos, estaciones manuales, sistemas de activación de descarga, avisos luminosos, señales audibles y luces estroboscópicas.
+Se realiza mantenimiento mensual al panel de control.
+Se corrige falla a tierra localizada en NAC 4 Dir 122.
+Se retiran cilindros de CO2 para recarga en banco de generadores 1 cilindro
+
+
+

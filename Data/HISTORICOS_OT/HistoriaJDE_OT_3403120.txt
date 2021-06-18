@@ -1,0 +1,12 @@
+Hay Sobrecarga en Grupo de Bombas 2 del Banco. Se resetean las 3 bombas y no repone la falla.
+
+21/02/2017. REALIZO ADONIS CADAVID O., JORGE GIRALDO R., SERGIO OLIVARES D.  O.T.: 3403120
+
+A las 18:26 se dio paro el grupo de bombas N°2, encontrandose dos fases con los contactos de salida destruidos.
+El contactor original es de una Ith=80 amperios, para una corriente de 26 amperios; Se cambio por un contactor 
+de Ith=50 Amperios, dejando todo en condiciones normales de operación.
+
+ Corrientes Medidas: R:26,6 S:26,3 T:26.3
+ Voltajes: RS:430  ST:430   TR:432 
+
+El grupo de bombas entro en servicio a las 20:56.

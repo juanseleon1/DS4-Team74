@@ -1,0 +1,4 @@
+2015/04/11 DIEGO BEDOYA
+Se realiza la limpieza del recinto de turbina, también se toma la medida con flexómetro del cojinete y luego se verifica en el prosonic.
+Flexómetro: 315 mm
+Prosonic: 314 mm

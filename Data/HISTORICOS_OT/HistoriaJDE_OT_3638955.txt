@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 2017/11/03
+Síntoma: Las señales de hilo vibratil (VW) provenientes de los sensores instalados en los pozos no estan llegando al datalogger. El multiplexor se quemó, se debe cambiar y reestablecer las señales VW. La interface Ethernet del datalogger de la caseta 1 sufrió un daño, se debe cambiar para reestablecer la comunicacion de la caseta 1.

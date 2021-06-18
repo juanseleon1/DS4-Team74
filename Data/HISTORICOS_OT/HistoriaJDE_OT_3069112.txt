@@ -1,0 +1,7 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación en las actividades de limpieza y ajuste de la central de Guadalupe III
+
+Ot: 3069112 - Ajuste y limpieza GIII - Programador: Camilo Montagut - 03/05/2016
+
+Se cierra la ot como terminada con las actividades de adecuación y limpieza finalizadas por el mes de abril
+
+Ejecuta: equipo mantenimiento mecánico GIII

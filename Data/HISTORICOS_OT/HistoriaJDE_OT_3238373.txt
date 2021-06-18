@@ -1,0 +1,20 @@
+
+2016/09/09. .
+SE GENERA ESTA OT PARA REALIZAR LA CONSECUCION E INSTALACION DE TEMPORIZADORES ANTE LAS FALLAS DE LA UNIDAD BLOQUEANDO EL PROGRAMA DEL PLC Y EVITAR SALIDAS FORZADAS DE ESTA UNIDAD
+
+
+09/09/2016
+Se inicia con la compra de los temporizadores para esta reforma en la unidad 3 de porce 2 y evitar las salidas forzadas de esta unidad.
+
+Realizado por Wtobonl
+
+
+12/11/2016
+Se realiza la instalacion y configuracion de los temporizadores para los FIS1, FIS3 y FIS4 se realizan pruebas con la unidad girando para garantizar su buen trabajo y queda actualizado el plano electrico para esta unidad.
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR
+
+
+

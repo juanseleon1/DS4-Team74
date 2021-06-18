@@ -1,0 +1,5 @@
+FECHA: MAYO 05/2016PROGRAMO: DANIEL PALACIOSEJECUTA: FRANCISCO QUINTERO.
+
+Trasladar tablero TCID del piso S3 al piso principal.
+
+El codigo 70005 lo reclama en el almacen A01 El funcionario Argiro Osorio con vehiculo de placa OMK886 de la UOP

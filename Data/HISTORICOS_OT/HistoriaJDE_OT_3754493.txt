@@ -1,0 +1,10 @@
+Fecha de solicitud: 13-08-2018
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento: 
+Realizar las siguientes acciones de mantenimiento correctivo:
+Reparación sistema de sensores y protectores
+Realizar  cambios en el sensor de humedad y temperatura.
+
+cambio las configuraciones de red de comunicación a los equipos, radio y DCP 
+
+.

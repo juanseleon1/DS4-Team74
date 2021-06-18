@@ -1,0 +1,19 @@
+2018-04-12 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3705601, PASO:1          
+Se realizó mantenimiento preventivo a la Unidad 2, revisión y limpieza del recinto de anillos y medida de las escobillas con los siguientes resultados: 
+A.S. 1A: 44,4
+A.S. 2A: 28,7
+A.S. 3A: 41,5
+A.S. 4A: 35,7
+A.S. 5A: 47,3
+A.S. 6A: 44,2
+A.S. 7A: 44
+A.S. 8A: 22
+A.I. 1A: 44,9
+A.I. 2A: 22
+A.I. 3A: 48,8
+A.I. 4A: 39,9
+A.I. 5A: 32,1
+A.I. 6A: 39,6
+A.I. 7A: 47,7
+A.I. 8A: 28,1
+OBSERVACIONES: Se realizó el cambio de 2 escobillas, 8A Anillo Superior y 2A anillo inferior

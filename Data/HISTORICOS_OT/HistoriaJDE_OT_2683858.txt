@@ -1,0 +1,12 @@
+FECHA : 22\ 07\ 2015 OT # 2683858,PROGRAMADOR : R JIMENEZ, EJECUTO : DAVISON PEREZ
+SE RELALIZA PRUEBAS  A LAS TARGETAS DE DISPAROS DE LOS INTERRUPTOTRES DEL TABLERO DE 480 VAC, CON LA MALETA DE PRUEBA MASTER PACK, SE ENCONTRARON LAS TARGETAS DELOS INTERRUPTORES DEL SAU # 2,TDP # 1, SERVICIOS MICELANEOS 208 VAC # 1, TDP # 2, Y EL ALIMENTADOR DEL CCM # 5,MALAS, SE HACE PEDIDO AL ALMACEN Y SE CAMBIAN, AS LAS NUENAS TARGETAS SE REALIZA LA PRUEBA Y FUNCIONAN EN CONDICIONES NORMALES, SE CALIBRAN COMO ESTABAN LAS ANTERIORES.
+
+NOTA: AL DESPLEGAR A TEXTO2, ESTAN LOS AJUSTES DE LOS INTERRUPTORES.
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AE: REVISION Y CALIBRACION
+
+Procedimiento aplicable a todos los interruptores del tablero principal a 480v de casa maquinas, los interuptores de las transferencias automaticas del tablero de servicios miscelaneos a 208v y las transferencias automaticas de las tres unidades, al igual que la transferencia automatica del tablero de servicios miscelaneos a 208v de la subestacion Porce.  Consiste en realizar calibracion y ajustes (si se requiere) a los modulos de protecciones de los interruptores MASTER PACK, con el proposito de mejorar  su confiabilidad.
+
+NOTA: ANTES DE REALIZAR LA INSPECCION, INFORMAR AL INGENIERO DE LA PLANTA.

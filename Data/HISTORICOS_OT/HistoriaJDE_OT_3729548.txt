@@ -1,0 +1,7 @@
+JULIO 18 DE 2017     OT NÚMERO: 3729548    PROGRAMÓ: JGUINGUL    EJECUTARON: ALEXANDER VILLA Y ANDRÉS YEPES
+SE REALIZÓ INYECCIÓN DE SEÑAL DE 4 A 20 mA. A LOS INDICADORES DEL TABLERO RVX POWER SISTEMA DE REGULACIÓN, TODO SE ENCONTRÓ EN NORMAL FUNCIONAMIENTO.
+Tablero: Regulador Electrónico Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 0 0 0825 26 25 4 2201248 50 50 7.5 4201672 78 78 11.5 6602098 100 102 15 880Instrumento 1: Posición Inyector (%) 
+Instrumento 2: Posición Deflector (%)
+Instrumento 3: Posición Limitador (%) 
+Instrumento 4: Potencia Activa (MW)
+Instrumento 5: Rotación (rpm) 

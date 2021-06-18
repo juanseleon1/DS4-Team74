@@ -1,0 +1,7 @@
+PREVENTIVO ELECTRICO CALEFACCION GENERADOR GUADALUPE III
+05/07/2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo segun instructivo GCG3E0002. Se revisaron las resistencias de calefaccion, midiendo continuidad entre ellas, se midio el valor ohmico de cada una de ellas, se realizo limpieza con dielectrico, se reviso el gabinete de control, conexiones y demas elementos.
+
+Ejecuto: Tatiana Galvis-Mateo perez
+Programo: Carlos Andres Forero

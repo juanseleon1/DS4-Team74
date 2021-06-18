@@ -1,0 +1,7 @@
+MP ANUAL:
+ - 2715 CALEFACCIÓN GENERADOR U1 - 2716 CALEFACCIÓN GENERADOR U2 - 2717 CALEFACCIÓN GENERADOR U3 - 2718 CALEFACCIÓN GENERADOR U4 - 2719 CALEFACCIÓN GENERADOR U5 - 2720 CALEFACCIÓN GENERADOR U6
+
+
+NOVIEMBRE 19 DE 2017.
+Se realiza mantenimiento a la calefacción del generador, se realizan pruebas de funcionamiento a las resistencias, se le hace mantenimiento al tablero de control y potencia, se verifican voltajes y corriente.
+William Lopera

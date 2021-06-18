@@ -1,0 +1,21 @@
+PLANEADOR: GABRIEL TAMAYO
+
+PROGRAMADORES: CARLOS OSPINA-WILLIAM LOPERA
+
+
+26/07/2017. 7:41.
+
+Despues de verificaciòn y reset del arrancador, se hace seguimiento al funcionamiento y vuelve a dar 3 paros del funcionamiento del motor por alta temperatura, se toma la decisiòn de dejar como prioridad la Bomba Nro. 1 sin respaldo Se realiza la presente Solicitud de trabajo con el objetivo de verificaciòn de la Bomba nro. 2, y se deja por fuera sin servicio el Motor Nro. 2 para evitar posible daño electrico en èl.
+
+Se requiere atenciòn inmediata.
+
+Informa. Operaciòn Troneras - Turnos 2 y 3.
+
+ORLANDO ALBEIRO CORREA - WILSON ARANGO.
+
+Ot: 3549370 - Alta temperatura en motor eléctrico - Programador: Camilo Montagut - 22/08/2018
+
+Se cierra la ot sin tiempos ni registros ya que el problema fue atacado con otra ot en el mentenimiento preventivo de la central de Troneras.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+ 

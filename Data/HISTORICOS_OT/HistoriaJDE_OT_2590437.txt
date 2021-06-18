@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION CGT CENTRAL PORCE 2.
+
+FECHA: 25/09/2014 PROGRAMADOR: JGUINGUER
+
+Se realiza limpieza general a toda la instrumentación, se verifican  los sensores de vibración. Sensor  CTPL  9.1VDC y CTPR  9.01VDC. Nivel de aceite cojinete de turbina se encontró en 251mm el patrón es 250mm.
+
+REALIZO: JENIFFER GARCIA - JUAN CAMILO MONTOYA

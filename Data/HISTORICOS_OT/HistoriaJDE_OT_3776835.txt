@@ -1,0 +1,5 @@
+2018/10/22 RUBEN ARBOLEDA
+Se crea OT para realizar lava criogenico al rotor de la Unidad 1. 
+
+2018/11/19 RUBEN ARBOLEDA
+El lavado criogenico lo realizó el personal de la cuadrilla movil

@@ -1,0 +1,11 @@
+2019/03/17
+OMAR SANCHEZ VILLADA
+REVISAR FALLA REGULADOR DE VELOCIDAD, PORQUE ESTA OCACIONANDO SALIDA DE LA UNIDAD SIENDO NECESARIO RESETEAR DICHO EQUIPO.
+
+Abril 4 - 5/2019 Victor Zuleta / Cesar Tulio OT 3819716
+La unidad de generación número 5 ha venido teniendo problemas por fallas del regulador de velocidad; este fenómeno se ha dado asociado a la alta temperatura en instantes de la casa de máquinas y con lo visto ahora en las tarjetas del PLC del regulador a la alta contaminación en las mismas.
+
+Lo ejecutado el día de hoy para el restablecimiento de la unidad, se procede al cambio de los ventiladores de extracción de calor del PLC, además, se cambia la tarjeta DIGIO IO que integra la señal del watch dog para el buen funcionamiento del software, persistiendo él problema .
+
+A raíz de la continuación del problema, se cambia la tarjeta PG2050 y se le instala el software de las unidad número 5.
+Esta unidad de generación entra en funcionamiento aproximadamente a las 10:40 am del día jueves 4/04/2019 quedando en observación

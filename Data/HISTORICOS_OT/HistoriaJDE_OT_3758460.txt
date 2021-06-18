@@ -1,0 +1,16 @@
+FECHA: Septiembre 27/2018PROGRAMO: Daniel Palacios O.EJECUTO: Davison Pérez, Yoanis Rodriguez y Milton Vargas
+
+Se realiza mantenimiento eléctrico general a los siguientes tableros:
+1. TABLERO DE CONTROL CE +TCHB.
+2. TABLERO DE ALUMBRADO TAT 277 V Y TAT 220V.
+3. TABLERO DE CARGADO DE BATERIAS TB.
+4. TABLERO DIST. CARGA TD 24V Y DISTRIBUCIÓN A 480V TDT.
+5. TABLERO DE CENTRO DE CONTROL MOTORES CCM.
+6. TABLERO CONTROL INFILTRACIONES +TBD.
+7. TABLERO CONTROL PUENTE GRUA.
+ A todos estos tableros se les verifica el buen estado de las puestas a tierra, cableado, conexionado y componentes eléctricos del tablero, se verifica el correcto funcionamiento de la calefacción y del alumbrado, se inspecciona el estado de las pinturas del tablero y puertas, se verifica y lubrica bisagras y cerraduras, se realiza prueba de aislamiento a motores y se llenan las respectivas planillas.
+Trabajo ejecutado por: Davison Pérez, Yoanis Rodriguez y Milton Vargas.
+
+FECHA:11 DE SEPTIEMBRE DEL 2018  PLANEADOR:LUIS FEDERICO ALVAREZ ALVAREZ
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE MTTO DE LOS AUXILIARES ELECTRICOS TALES COMO EL TABLERO DE DISTRIBUCION A 208V, LA TRANSFERENCIA AUTOMATICA, LOS EXTRACTORES DE AIRE,LOS TOMAS A 120 VAC Y 220V AC Y 480VAC, Y TAMBIEN LAMPARAS DE EMERGENCIA; EL TABLERO DE CONTROL DEL POZO DE DRENAJES Y LAS MOTOBOMBAS DEL POZO DE DRENAJES

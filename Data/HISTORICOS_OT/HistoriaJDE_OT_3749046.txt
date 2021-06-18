@@ -1,0 +1,11 @@
+2018-07-25 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3749046, PASO:1          
+Se realizó mantenimiento correctivo al extractor E2 del portal, queda pendiente verificar con termografía.
+
+2018-07-26 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3749046, PASO:2          
+Se realizó seguimiento termográfico al extractor E2, se encontró en condiciones normales, queda pendiente realizar el informe termográfico.
+
+2018-07-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3749046, PASO:3          
+Se realizó informes termograficos, se organizó plantilla en software Fluke, se presentaba fallas al momento de realizar el informe, no mostraba las anotaciones, se dejó en condiciones normales. 
+
+DIAGNOSTICO: 
+Segun los parámetros establecidos en la tabla de clasificación de fallas eléctricas LOS CRITERIOS NETA, la temperatura de la salida del arrancador se encontraba en el nivel 4 donde Delta T° = 28.8°C, Por lo cual presentaba una Deficiencia mayor en su funcionamiento, se realizo un correctivo en el ajuste y limpieza de los cables tanto a la salida del Arrancador como a la llegada a la Peineta con esto se mejoro el contacto electrico y la temperatura de los cables, ya no se presentan puntos de falla, sin embargo se recomienta realizar un seguimiento de su funcionamiento. Las corrientes y voltajes medidos estan dentro de los parametros normales de funcionamiento.

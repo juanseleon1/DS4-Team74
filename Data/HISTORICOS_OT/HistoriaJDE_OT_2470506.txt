@@ -1,0 +1,14 @@
+SE CREA OT PARA REGISTRAR INFORMACION SOBRE LA REPARACION DE LOS DIENTES DEL RASTRILLO (REJA) DE LA BOCATOMA G33L J
+                                                                                                                                                                                                                                                                                                                                                                        EJECUTANTES:  ALBEIRO FERNANDEZ
+          JHON MONTOYA
+          SEBASTIAN SEPULVEDA
+
+PROGRAMADOR: CAMILO MONTAGUT GIL 13-02-2014
+
+SE REPARAN LOS DIENTES DEL RASTRILLO SEGUN SOLICITUD Y SE APROVECHA A SOLDAR EL PRISIONERO DEL PIÑON (EJE) PARA EL MOVIMIENTO LONGITUDINAL DE LA ESTRUCTURA DEL RASTRILLO QUE SE ENCONTRABA DESGASTADO
+
+EJECUTO:  ALBEIRO FERNANDEZ
+           JHON MONTOYA
+           SEBASTIAN SEPULVEDA
+          
+

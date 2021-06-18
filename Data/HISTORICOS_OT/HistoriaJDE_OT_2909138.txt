@@ -1,0 +1,11 @@
+2015-10-19 JUAN CARLOS DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE LA UNIDAD NO RECIBE LA ORDEN DE ARRANQUE. LA UNIDAD PRESENTA CONDICCIONES DE MÁQUINA LISTA: NO ABRIO LA VÁLVULA PILOTO, PERO, SI ARRANCO LA LUBRICACIÓN FORZADA Y ABRIO LA VÁLVULA MOTORIZADA. 
+
+LA UNIDAD SALE POR RELÉ FALLA MECANICA CON LA ALARMA "U7-8.117 MEDIDAS PRIM REG VEL ALARMA FALLA".
+
+20/10/2015.
+Se cambia bobina de apertura de electroválvula piloto S1105, por una de un bloque de repuesto que tenían los mecánicos. Esta bobina se encontró abierta.
+Se revisa proceso de arranque en control Remoto, presentándose problemas con la apertura de las agujas (Paso 3) y por esta razón la maquina no logra llegar a velocidad nominal. Solo se alcanzan más o menos 50 RPM, por lo que los frenos se aplican y se quedan aplicados provocándose el paro de la unidad, esta falla también se presenta en control Local-Manual. 
+Para que la maquina alcance la velocidad nominal hay que en control Local-Manual operar pulsador de Subir en tablero +TT7.2, que correspondiente al control del Limitador de apertura, de manera que se logre que abra hasta un valor del 30%, así las agujas abren a este porcentaje y se logra que la maquina tome la velocidad nominal. De ahí en adelante la maquina funciona correctamente.
+JUAN CARLOS GRANADOS.

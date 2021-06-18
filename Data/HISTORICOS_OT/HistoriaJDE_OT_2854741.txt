@@ -1,0 +1,3 @@
+CM:Vibraciones umas-ventiladores-extractores Guatape. Este equipo debe estar en línea
+2015/11/23 DIEGO BEDOYA
+Debido al tamaño del acelerometro y el diseño de las umas, no es posible realizar las medidas de vibración.

@@ -1,0 +1,10 @@
+SOLICITANTE:Anexo.  -  FECHA: Julio 05 del 2014.
+ EN  +TCBR1  -TABLERO  DE  CONTROL  MOTOBOMBAS  ACEITE  REGULADOR  TURBINA UND.  NO  1-  SE  ENCUENTRA  SELECCIONADA  LA  MOTOBOMBA  N°1  COMO  PRIORITARIA  Y  NO  ESTÁ  ARRANCANDO,  LA  RESPALDA  LA  MOTOBONBA  N°2. 
+ FAVOR  CORREGIR  AUTOMATISMO  PARA  RECUPERAR  NORMAL  FUNCIONAMIENTO  DE  LA  MOTOBOMBA  N°1  SIN  AGOTAR  EL  RESPALDO.
+
+26/AGOSTO/2014
+Se realizo la verificacion y revision del arranque de Bomba en forma Automatica y manual, en el modo manual desde el tablero local el motor arranca y para sin problemas.
+Se evidencio que en forma autoamtica cuando cae la presion no arranque, se verificaron conexiones, alimentacion de 480vac y señales de control y se encontro el presostato mecanico de calibracion manual, descalibrado. Se procedio a calibrar nuevamente deacuerdo al presion de arranque del sistema y se realizaron varios arranques y paros en forma automatica y el sistema responidio normalmente.
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte - Francisco Gonzalez

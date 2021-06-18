@@ -1,0 +1,22 @@
+MANTENIMIENTO GENERAL MOTOBOMBA 2 AGUA TRATADA UNIDAD 3 CENTRAL PORCE 2.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo  debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+
+INSTRUCTIVO DE MANTENIMIENTO:
+1. Inspeccionar  temperatura del motor (Max 55°C)
+2. Inspeccionar temperatura de la bomba
+3. Revisar anclajes, tornillería, guardas y fijaciones. OK
+4. Inspeccionar fugas NO
+5. Revisar alineación. PDTE
+8. Verificar estado general exterior (pintura) OK
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2016-11-15
+TEMPERATURA DEL MOTOR: 49°C (ADELANTE), 28°C (ATRAS)
+
+TEMPERATURA BOMBA: 36°C (ADELANTE), 35°C (ATRAS).
+
+TRABAJO REALIZADO POR: CARLOS GUINGUER Y DEIVI BAENA.
+
+

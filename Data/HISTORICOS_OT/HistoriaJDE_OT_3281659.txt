@@ -1,0 +1,19 @@
+TRABAJOS CORRECTIVOS CAMARA DE VALVULAS GUADALUPE 3- BLOQUEOS 
+
+OCTUBRE 17 DE 2016.
+
+Esta es la OT padre del Mantenimiento de camara de valvulas, relacionar esta Ot a las OT que se crearon para atender este trabajo.
+
+Todos los datos del mantenimiento, en las tres disciplinas se deben anexar en la siguiente ruta del servidor:
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\Informes Mantto Gpe 3\Informes Central Gpe 3\INFORME G3 2016-10-17 CAMARA VALVULAS
+
+Las consignaciones relacionadas a las unidades generadoras son las siguientes:
+@138821 Unidad 1 G3, @138822 Unidad 2 G3, @138823 Unidad 3 G3, @138824 Unidad 4 G3, @138825 Unidad 5 G3, @138826 Unidad 6 G3, @138830 Unidad 1 TR, @138831 Unidad 2 TR
+
+
+Planeador/Encargado Trabajo: Oscar Arango.
+Programadores: camilo Montagut - uaimer diaz - William Lopera
+
+OCTUBRE 17 DE 2016
+Referente cámara de válvulas G3:  Se realiza la rehabilitación del sistema de control y subsistema hidráulico de la mariposa 1 y 2. Se normalizan los disparos de cierre local, remoto de las válvulas y se habilitan nuevamente los disparos, hacia los generadores de Guadalupe 3. Se modifica el control de recuperación de presión de la mariposa 2. Se entrega el sistema al grupo de operación, con todas sus señales normalizadas.
+Ejecuto: grupo mantenimiento   Informo: Ingo Oscar Arango.

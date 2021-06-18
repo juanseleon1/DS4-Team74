@@ -1,0 +1,6 @@
+
+FECHA: ENERO 11DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se presentaba falla por perdida de medida de viento, dirección de viento y temperaturas negativas en la top box, se cambio el modulo 106A2 y se soluciona la falla. Código OW 64001

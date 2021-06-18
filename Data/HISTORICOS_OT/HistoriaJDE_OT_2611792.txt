@@ -1,0 +1,16 @@
+PLANTA DIESSEL DE 910 KW SUBESTACION
+
+SE ENCUENTRA INDISPONIBLE PORQUE AL MOMENTO DE DAR ARRANQUE Y LLEGAR A SUS 1800 RPM PRESENTA PARO DEL GENERADOR CON ALARMA "GENERADOR EN FALLA". NO CONECTA EXCITACION Y TAMPOCO MUESTRA VOLTAJE EN LOS INSTRUMENTOS. 
+
+2014/10/08 ANGEL ADONIS CADAVID OCHOA
+De acuerdo al la solicitud de trabajo 2611792 evento 5611 de la bitacora electronica, se revisa el sistema de excitación de la planta diesel con el fin de identificar posibles fallas.
+Se realizan las siguientes actividades:
+Arranque en modo no programado, en este arranque se puede evidenciar que la unidad no eleva voltaje al momento del arranque.
+Revisión de la señal de DC que es inyectada por la tarjeta CDVR del regulador de tension al campo de excitación, no se observó voltaje de excitación.
+Revision de los conectores del regulador de tension, son desconectados y no se encuentra nada anormal, se procede a conectarlos nuevamente.
+Terminada esta revisión se arranca nuevamente la planta diesel, en este arranque la unidad cumplio el siclo normal hasta  sincronizar  y carga de 500 KW.
+En conclusión no se detecto ningun problema franco, la actividd de desconexion y conexion de los conectores fue lo unico realizado como accion diferente ya que las medidas de voltajes no implicó desconexion electrica alguna.
+Se probo el arranque no programado dos veces, en la dos ocasiones funcionó normalmente.
+La planta queda disponible.
+SE ESTA COTIANDO UN MANTENIMIENTO CON LA EMPRESA GECOLSA. ENCARGAO JUAN CARLOS GRANADOS
+REALIZÓ:Juan Carlos Granados, Fran Villa, Nestor Ramirez, Adonis Cadavid

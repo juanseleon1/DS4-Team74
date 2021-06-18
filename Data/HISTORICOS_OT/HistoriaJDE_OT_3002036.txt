@@ -1,0 +1,25 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CT R1
+
+FEB 18/2016 PROGRAMO: JGUINGUER    EJECUTO: ALEXANDER VILLA
+
+SE HACE VERIFICACION DE RTD METAL 1 Y 2 COJINETE DE TURBINA LOS VALORES SON LOS SIGUIENTES:
+PATRON          METAL 1             METAL 2
+20ºC                 15,96ºC               17,2ºC                  
+40ºC                 40,2ºC                 30.3ºC                  
+60ºC                 60,2ºC                 58,3ºC                  
+80ºC                 80,2ºC                 78,3ºC                   
+100ºC               100ºC                  99,98ºC                    
+Valor programado alarma: 75ºC                   
+Valor programado disparo:80ºC                    
+
+    
+
+
+    
+
+                                 
+
+
+
+

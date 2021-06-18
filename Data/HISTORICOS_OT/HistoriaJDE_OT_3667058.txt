@@ -1,0 +1,5 @@
+2018/01/04 RUBEN ARBOLEDA
+Se crea OT para realizar la revisión de 2 ventiladores de la herramientería Gtpe.
+
+2018-01-04 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3667058, PASO:1          
+Se realiza revisión de 2 ventiladores de la herramientería ya que no arrancan, cuentan con control de arranque, se desarmaron y se revisó ambos motores se encuentran quemados, se entregaron nuevamente en la herramientería y se le informó a Elías Buritica. 

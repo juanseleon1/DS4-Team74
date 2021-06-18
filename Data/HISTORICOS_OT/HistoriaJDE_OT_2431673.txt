@@ -1,0 +1,3 @@
+Ot creada para las atenciones electricas en la Ejcución de modernización del Sistema Scada, por parte de la empresa ABB. 
+
+Se realizó adecuación electrica de cableado de tensión de control en Sub Estación

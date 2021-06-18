@@ -1,0 +1,11 @@
+MP ANUAL EQUIPOS:
+-2372 EXCITACIÓN PRINCIPAL U3 G3
+-2373 EXCITACIÓN PRINCIPAL U4 G3
+-2374 EXCITACIÓN PRINCIPAL U5 G3
+-2375 EXCITACIÓN PRINCIPAL U6 G3   
+
+JUNIO 30 DE 2017
+Se desmonta todo el sistema de la excitación de la unidad para realizarle su respectivo mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, re aislado de barrajes, y mantenimiento en general ya que se tiene la posibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio, se hacen pruebas antes y después del mantenimiento al inductor, inducido y anillos rozantes para verificar su estado. Después de la limpieza se vuelve armar toda la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora diaria que se llevó durante el mantenimiento anual.
+Resultado de aislamiento final con anillos acoplados al rotor.
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLOKANILLO GSUPERIOR198SUPERIOR3.52INFERIOR194INFERIOR 3.11
+Programó: William Lopera.

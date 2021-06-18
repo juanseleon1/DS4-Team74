@@ -1,0 +1,21 @@
+2017/08/18 RUBEN ARBOLEDA
+Tarea: Realizar medida de ductos en el barraje de salida de la Unidad 5, para determinar cantidad de bujes existentes.
+
+
+18/08/2017. SERGIO OLIVARES D.  O.T. 3579452. EJECUTORES: EDWAR LONDOÑO - JHONATAN USME.
+
+            Se midieron dos tramos: Máquina 5 hasta la fase R, la mas lejana = 81 metros 
+                                                       Máquina 7 hasta la fase T, la mas lejana = 72 metros.
+
+            Se promediaron las dos medidas:76.5 metros  Se 
+
+            76.5 x 3 (barras) x 4 (bancos) =918 metros
+
+             0.85 = Distancia entre bujes
+
+             918 / 0.85 = 1080 bujes promedio total.
+
+En promedio  se necesitan 1080 bujes para los 4 barrajes de las 4 unidades de II etapa.
+
+
+

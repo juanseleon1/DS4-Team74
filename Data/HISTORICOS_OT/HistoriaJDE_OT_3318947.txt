@@ -1,0 +1,8 @@
+19 DE NOVIEMBRE DE 2016 IVAN DARIO ZAPATA GOMEZ
+EN LA UNIDAD 1 DE GUADALUPE III (G31) ESTA SALIENDO CONSTANTEMENTE LA ALARMA "PROTECCION GENERADOR TIERRA ROTOR ALARMA".
+
+
+20 DE DICIEMBRE DE 2016 
+Se realizó lavado de la excitación principal y los anillos rozantes, quedando el relé de tierra rotor mostrando un valor de 20 Kilo ohmios y con alarma, queda pendiente de planear y programar el desarme de la excitación para una mejor limpieza ya que las pruebas que se realizan desde los anillos rozantes dan bien descartando problemas en el rotor.
+
+William Lopera

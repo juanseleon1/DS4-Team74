@@ -1,0 +1,7 @@
+FECHA: JUNIO 17 DE 2016 OT 3149397
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Durante la noche se presentó falla por comunicaciones, para empezar a despejar esta falla se procede a cambiar el módulo 4,0 se esperan unos minutos y la falla aparece de nuevo, se desconecta y se verifican las conexiones de los módulos 7,0 se espera un tiempo y la falla no aparece, se deja en servicio el aerogenerador.

@@ -1,0 +1,11 @@
+2018/06/06 RUBEN ARBOLEDA
+Se crea OT para realizar reubicación de bandeja en la galería de cables.
+
+2018-06-06 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3733633, PASO:1          
+Se inició con adecuación de bandeja la cual se cruza con instalación de tubería desde las celdas de transformadores hacia pozo de contención de derrames de aceite dieléctrico, se retiraron los cables y la bandeja.
+
+2019-02-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3733633, PASO:2          
+Se inició con adecuación de bandeja la cual se cruza con instalación de tubería desde las celdas de transformadores hacia pozo de contención de derrames de aceite dieléctrico, Se realizó la instalación de la bandeja y los cables quedando en condiciones normales.
+
+2019-02-19 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3733633, PASO:3          
+Se finalizó con la adecuación de la bandeja en zona cercana a los cables de potencia y al transformador de reserva, se dejó en condiciones normales.

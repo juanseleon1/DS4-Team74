@@ -1,0 +1,13 @@
+MANTENIMIENTO ANUAL MOTORBOMBA REFRIGERACION
+OCTUBRE 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: como mejora implementada, se empezo a tomar los datos de resistencia ohmica, para llevra una trazabilidad y asi, poder detectar fallas del nucleo.
+                                                                                                                               
+VOLTAJESFASEVOLTIOSR - S443S - T447T - R449 
+CTE. DE ARRANQUEFASEAMPERIOSRVARIADORSVARIADORTVARIADOR
+CTES. DE TRABAJOFASEAMPERIOSR16S15.7T16.5
+AISLAMIENTO / TIERRAFASEMR72.6S72.9T70.5
+RESISTENCIA OHMICAFASEmR - S851S - T853T - R844
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Mateo Perez

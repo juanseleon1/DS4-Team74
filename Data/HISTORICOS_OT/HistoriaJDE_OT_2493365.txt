@@ -1,0 +1,8 @@
+Se realizó verificación del funcionamiento de los suiches limite, ya que durante la operación subiendo el gancho principal, éste se pegó contra el tambor del cable, ocasionando que se dañaran algunos torones, impidiendo así su correcto funcionamiento. 
+
+Se verificó que este puente grua tenía instalado y habilitado un sistema para subir más del limite, para realizar trabajos en casos especiales. 
+
+Se inabilitó el sistema descrito anteriomente y se dejó con actuador de suiches limite. 
+
+Realizó: Mario Restrepo - Edwar Londoño
+Planeó: Ruben Arboleda

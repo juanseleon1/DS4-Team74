@@ -1,0 +1,13 @@
+2014/09/19
+REVISAR PARO RAPIDO U3 DE PORCE 2 , FALLA REGULADOR DE VELOCIDAD DIGIPID 1500
+
+INFORMA TURNO:3 DE OPERACION 
+
+Referente a la Unidad #3 de Porce 2: en la secuencia de arranque de la unidad al entrar en servicio el regulador de velocidad sale alarma "Falla mayor del regulador Digipid 1500" ocasionando paro rápido de la Unidad , se informa del evento al Ing. Hector Gómez y se genera solicitud de trabajo.            Informa :Turno 3 de operación 
+19/09/2014 3:00 AM
+Ante la falla presentada en la unidad #3 de Porce 2 En el regulador de velocidad , se realizan todas las pruebas de agua muerta y giro mecánico pero se detecta problema en el PID de velocidad , se continuara en la solución del problema con la asesoría del Ing. Oswaldo Alzate .                                    
+Informa : Walter Tobon -  Eladio Piedrahita -Grupo Operación  
+Después de realizar varias pruebas con el programa del regulador de velocidad para detectar la falla grave que impedía el arranque de la unidad se descartan los pickup, la tarjeta pos, las esb y la tarjeta taquimétrica. Esta última se encontró funcionando bien pero aun así se instala al display y taquimétrica ION para después conectar. 
+La falla fue encontrada con la tarjeta UCT la cual fue remplazada y configurada con los parámetros y ajustes de la unidad.                                                                             
+Se realizan pruebas con agua muerta y girando tanto en manual como en automático la unidad queda operativa y funcionando no fue posible realizar sincronización por despacho económico.
+Realizo: Oscar Duque, Carlos Sanchez, Walter Tobon                                                                                                                           

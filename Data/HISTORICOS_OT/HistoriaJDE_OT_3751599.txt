@@ -1,0 +1,38 @@
+FECHA: AGOSTO 3/2018PROGRAMO: DANIEL PALACIOS EJECUTO: JULIAN CAMILO GIRALDO
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+Referente al Cargador de Baterías a 125 VDC N°3 de Casa Maquinas Porce 3; (Respaldo a Cargadores 1 y 2): Se realizó la inspección al cargador de baterías No 3, el cual se encontraba apagado, con interruptor Q01 disparado; reportado indisponible por corto interno del equipo y se encontraron las siguientes novedades:
+ La tarjeta electrónica UYG 20  con un corto que afectó algunos componentes electrónicos (Diodos, potenciómetros, condensadores y pistas de conexión de la tarjeta.
+ Falla en transformador de control T5.
+ Fusibles de potencia fases S y T de 250 A fallados.
+ Tiristores de potencia fases S y T fallados.
+ 3 fusibles de señalización fallados.
+ Tarjetas UYG 50 pendiente para revisión técnica : Tarjeta de limitación de corriente del rectificador.
+ Tarjeta UyG 103 pendiente para revisión técnica: Tarjeta integrados, balancea la corriente de salida (disparos a los tiristores (P1, P2, P3, P4, P5 Y P6)).
+Se contactó al proveedor de servicio técnico del cargador, VICTORY INGENIERIA,  para cotización de componentes y servicio de reparación; queda apagado el cargador No 3 y deshabilitado con interruptores abiertos Q01 (entrada a 480 v),  Q02 Y Q03 (salida a 125 Vdc); la causa raíz fue por falla en los tiristores de potencia, que originaron corto a la salida y afectaron las tarjetas de pulsos UYG 20, UYG 50 y UYG 103; queda pendiente el informe final por parte del proveedor después de la reparación.
+Nota: Al momento de la falla el equipo se encontraba encendido, en vacío y operando como respaldo; la alimentación de la carga critica a 125 VDC, queda operando normal por los cargadores No 1 y No 2.
+Consignación Local: Diligenciada.
+Realizó: Líder - Daniel Eduardo Palacios.
+Electricistas: Julián Camilo Giraldo - Giovanis Rodriguez.
+Electrónicos: Jenifer García.
+Informó: Luis Federico Álvarez.
+
+02/08/2018 - 04:39 - Wilder Herrera.
+
+Referente al Cargador de Baterias CB3: Se genera la presente OT por encontrarse el interruptor de alimentación principal Q01 del cargador disparado 
+(No repone).
+Se encuentra pendiente para ser revisado por mantenimiento eléctrico.
+Informa: Turno 1 - Operación.
+
+20 DE SEPTIEMBRE DEL 2018S CB-3 
+
+SE REALIZO LA REPARACION DEL CARGADOR, VERIFICACION DE AJUSTES DE FLOTACION E IGUALACION, SE HACEN PRUEBAS EN VACIO Y CON CARGA DE 200 A. ARRANCANDO LA BOMBA DC DE LUBRICACION EN LA UNIDADES 3 Y 4, SE REALIZA LIMPIEZA GENERAL E INSPECCION DE SUS COMPONENTES.
+SE REMPLAZARON LOS SIGUUENTES ELEMENTOS:
+2 TIRISTORES DE 250A - 400V 
+1 TARJETA DE PULSOS UYG 20C
+1 TRANSFORMADOR T5
+2 FUSIBLES DE 250A- FASES S Y T.
+3 FUSIBLES DE SEÑALIZACION DE POTENCIA DE 1.5A
+SE REALIZARON PRUEBAS EN VACIO Y CON CARGA DE 200 AMPERIOS, EN DC, SE DEJA FUNCIONANDO CON CARGA DE 2 KW DURANTE 10 HORAS; SE NORMALIZA Y QUEDA OPERANDO NORMAL. 
+INFORMA: LUIS FEDERICO ALVAREZ ALVAREZ, DANIEL EDUARDO PALACIOS
+TECNICO DE LA EMPRESA VICTORY ING. LUIS ALBERTO FELICIANO, REPORTE DE SERVICIO 121946.

@@ -1,0 +1,8 @@
+ENERO 2 DE 2017
+
+Por desgaste de las partes del sistema de sobrevelocidad mecanica de la unidad G36 y riesgo de caida de las piesas al sistema de excitacion durante la operacion de la maquina, y como consecuencia de los esfuerzos mecanicos soportaods por las partes, se solicita la unidad indisponible bajo consignacion de emergencia numero: XXXXXXX para ejecutarse el dia martes 3 de enero de 2017.
+
+Ejecuta Sergio Ramirez y equipo mecanico.
+
+Por presentar vibración excesiva ocasionada por el deterioro del actuador perteneciente al dispositivo de sobrevelocidad mecánica se cambió por repuesto existente.
+Una vez montado el actuador se procede a calibrar el disparo por sobrevelocidad mediante motor y variador dispuestos para el caso quedando el disparo en el microsuiche 1 en 567 RPM y en el microsuiche 2 en 568 RPM, siendo estas velocidades más o menos el 125% de la velocidad nominal.

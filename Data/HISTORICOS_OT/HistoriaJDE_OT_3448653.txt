@@ -1,0 +1,23 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: CARLOS FORERO
+FECHA : 22/05/2017
+
+REALIZAR MANTENIMIENTO PREVENTIVO A LOS EQUIPOS ELECTROMECANICOS DEL PUENTE GRUA.
+VERIFICAR EL CORRECTO FUNCIONAMIENTO DE RELES E INDICACIONES.
+TOMAR DATOS DE PLACA Y HACER PRUEBAS ELECTRICAS.
+
+
+NOTA: ELABORAR PERMISO DE TRABAJO POR RIESGO DE ALTURAS.
+
+MAYO 26 DE 2017.
+
+Se realizó mantenimiento electrico preventivo a los equipos electricos y electronicos del puente grúa Troneras, se realizaron mantenimiento y pruebas electricas a los motores como resistencia de aislamiento, voltajes, corrientes de arranque y trabajo, encontrandose en buenas condiciones. Se le realizó limpieza a los tableros de control y verificación del correcto funcionamiento de los controles.
+
+DATOS DE RESISTENCIA DE AISLAMIENTO DE LOS MOTORES.
+
+MOT/DESPLA/ PRINCIPAL MOT/GANCHO 65 TONRESIS/AISLAMIEN/ K RESIS/AISLAMIEN/ MR520R543S315S555T280T580
+MOT/DESPL/ CARRO/65 T MOT/DESP/POLI PASTO MOT/POLI PASTO/10 TONRESIS/AISLAMIEN/ M RESIS/AISLAMIEN/ M RESIS/AISLAMIEN/ GR670R1.19R2.40S678S1.02S2.45T672T1.17T2.55
+NOTA: Se deben evaluar los resultados obtenidos en las pruebas de aislamiento realizadas, al motor de desplazamiento horizontal (motor desplazamiento principal), ya que no cumple con la norma ANSI/IEEE43-1974, item 9.3 pagina 14, que dice: Rm= Kv+1. Estos resultados indican, que se debe realizar mantenimiento preventivo a este equipo. 
+  
+Realizó: Mateo Perez - Sergio Areiza.
+Programó: Carlos Andres Forero.

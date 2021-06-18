@@ -1,0 +1,10 @@
+FECHA : 23\ 012\ 2015 OT # 2827081 PROGRAMO : R JIMENEZ, EJECUTO :  J ORREGO
+SE REALIZA MANTENIMIENTO PREVENTIVO SEGUN EL INSTRUCTIVO GCP2E0009
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION Y APRIETE DE BORNERAS
+
+Procedimiento aplicable a todas las borneras del tablero de control turbina en las tres unidades de la central Porce.  Consiste en revisar, reapretar y/o cambiar borneras defectuosas, en caso de ser necesario;  con el proposito de disminuir eventos indeseados por causa de cables flojos en las unidades de generacion.  

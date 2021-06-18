@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+
+FECHA:JUNIO 25 2016
+
+EJECUTANTE: PEDRO ROBAYO
+
+Se cambio el modulo 7.16 en el AG5 por estar saliendo baja presion en los tip. La salida 1 del módulo tenía un borne quemado. A las 19:47 se deja en operación el AG. 

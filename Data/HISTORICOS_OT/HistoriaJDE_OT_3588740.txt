@@ -1,0 +1,9 @@
+MP ANUAL:-- 3682 RADIADOR 1 GENERADOR U1 TR -- 3683 RADIADOR 2 GENERADOR U1 TR -- 3684 RADIADOR 3 GENERADOR U1 TR -- 3685 RADIADOR 4 GENERADOR U1 TR -- 3686 RADIADOR 5 GENERADOR U1 TR -- 3687 RADIADOR 6 GENERADOR U1 TR -- 3688 RADIADOR 1 GENERADOR U2 TR -- 3689 RADIADOR 2 GENERADOR U2 TR -- 3690 RADIADOR 3 GENERADOR U2 TR -- 3691 RADIADOR 4 GENERADOR U2 TR -- 3692 RADIADOR 5 GENERADOR U2 TR -- 3693 RADIADOR 6 GENERADOR U2 TR
+
+
+
+Ot: 3588740 - Limpieza radiadores - Programador: Camilo Montagut - 03/10/2017
+
+Se cierra la ot sin tiempos ni registros ya que no se realizó intervención alguna en este equipo debido a que se realizó limpieza en este radiador el pasado 7 de mayo de 2017 con la ot:3474905
+
+Ejecuta: equipo mantenimiento mecánico UOG

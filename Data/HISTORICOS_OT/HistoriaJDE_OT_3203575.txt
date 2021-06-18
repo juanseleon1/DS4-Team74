@@ -1,0 +1,15 @@
+14/07/2016. OPERACION.
+
+FAVOR REALIZAR VERIFICACION DE LA IHM NO FUNCIONA PANEL TOUCH 
+
+
+
+
+08/08/2016
+
+Se realiza verificación y evaluacion de la IHM del sistema , se encuentra con problemas el panel TOUCH se  realiza mantenimiento y verificacion del procesador y etapa de video de la IHM se instala un nuevo TOUCH y queda operativa la IHM.
+
+
+Realizado por Wtobonl 
+
+TERMINADA CERRAR

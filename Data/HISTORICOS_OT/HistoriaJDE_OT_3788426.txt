@@ -1,0 +1,14 @@
+
+25 NOVIEMBRE 2018 GUILLERMO LEON ECHEVERRY VELEZ
+
+
+SE GENERA ESTA OT PARA LA REVISIÓN DE LA ALARMA "FALLA RED PROFIBUS" DE LA VÁLVULA AA002 DEL AGUA TRATADA DE LA REFRIGERACIÓN DEL TLCT UNIDAD Nº1 DEL INTERCAMBIADOR Nº2.
+
+
+25/11/2018
+
+Se realiza verificacion de los lazos profibus DP de la valvula AA002, esta comunica bien y no posee fallas se realiza verificacion local de la valvula y se encuentra piñon del motor reventado , se cambia este piñon y se realizan pruebas con la valvula manera local y remota. se normaliza la valvual en modo remoto y el sistema queda disponible.
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR 

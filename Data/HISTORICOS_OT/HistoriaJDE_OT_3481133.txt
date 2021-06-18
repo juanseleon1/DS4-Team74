@@ -1,0 +1,19 @@
+14/05/2017 
+SE GENERA ESTA OT POR FALLA EN EL TOUCH DE LA IHM DEL CONTROL DE LA REFRIGERACIÒN DE LA UNIDAD Nº2.
+
+
+
+14/05/2017
+
+se realiza verificacion de la IHM del TCSR U2, se encuentra con problemas el controlador del TOUCH ademas de que la estructura de esta se encuntra quebrada, se instala y configura una nueva IHM, el proceso queda normalizado y operativo.
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

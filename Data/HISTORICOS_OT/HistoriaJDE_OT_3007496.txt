@@ -1,0 +1,21 @@
+2016/02/07 WALTER TOBON.
+SE GENERA ESTA OT PARA REALIZAR LA INSTALACION DE LOS SENSORES DE POSICIÓN DE LA VALVIULA.
+
+
+24/05/2016
+
+Se realiza instalacion del nuevo sensor de posicion para la vlavula HB, se ajustan lazos de posicion de manera local y  luego con el sistema hidraulico, adema se verifica y ajusta la posicioin de esta valvual en el control de PLC, se informa a los ingenieros encargados de esta labor y queda pendiente solo la verificacion de manera automatica con el sistema de control PID entre la valvula HB y la mini central, este sistema queda en modo manual hasta poder realizar la pruebas solicitadas entre estos dos sistemas y poder dejar esta sistema en modo automatico.
+
+
+Realizado por Wtobonl
+
+29/05/2016
+
+El día de hoy se realizan pruebas y ajustes en el PID después de la instalación de los sensores de posición en la válvula HB, se realizan pruebas en coordinación con operación de cierre y apertura de la válvula HB y el paro y arranque de la mini central , el sistema queda operativo y se informa a la ingeniera Sandra Carmona sobre la operatividad del sistema la cual autoriza a dejar este sistema de manera automática. Observación este sistema debe ser monitoreado con las variables de temperatura y nivel en el aceite mientras se encuentre en modo automático.
+
+
+realizada por Wtobonl 
+
+terminada  cerrar 
+
+

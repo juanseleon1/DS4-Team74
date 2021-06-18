@@ -1,0 +1,24 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL:MANTENIMIENTO Y LIMPIEZA
+
+Realizar mantenimiento a cargadores 1, 2 y 3, instructivo de operación y mantenimiento, además prueba de autonomía
+
+Cargadores de 125 VDC
+
+
+
+SE REALIZAN PRUEBAS DE AUTONOMIA Y SE ENCUENTRA EN BUENAS CONDICIONES AL CARGADOR Y BANCO DE BATERIAS #2 DE PORCE 2
+
+      V(voltaje)                       I (corriente)             HORA
+         130                                   7.3A                    13:40
+         127.3                                6.6A                    14:10
+         127.2                                6.6A                    14:40
+         127.1                                6.5A                    15:10
+         127.1                                6.6A                    15:40
+         127.1                                6.5A                    16:10
+         127.2                                6.5A                    16:40
+         
+               
+INFORMAN : URIEL CASTRILLON - ADRIAN NARVAEZ
+

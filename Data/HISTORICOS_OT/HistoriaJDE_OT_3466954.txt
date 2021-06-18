@@ -1,0 +1,10 @@
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios
+EJECUTO: Francisco Quintero.
+PLANEADOR: RMONTOYG
+OT PADRE: 3466843
+CONSIGNACIÓN: @135887
+
+Se inspecciona, se limpieza y se hace mantenimiento al tablero eléctrico +TCCSM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos
+
+XE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCS DE LA UNIDAD

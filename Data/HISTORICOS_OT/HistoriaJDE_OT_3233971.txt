@@ -1,0 +1,11 @@
+035/09/2016. MANTENIMIENTO
+
+
+FAVOR REALIZAR MANTENIMIENTO ELECRONICO A LOS EQUIPOS DE ESTE PROCESO 
+
+05/09/2016
+Se realiza mantenimiento electrónico a los equipos de este proceso como son PLC, IHM y comunicaciones. Se verifica la comunicación con el sistema SCADA del PLC y los relés SIPROTEC, realizando además verificación de la fibra y ODF, como también mantenimiento a las partes electrónicas, se entrega el sistema operativo a operación. Se encuentra falla en la comunicacion de este sistema por bloqueo de la red en este sistema se normaliza.
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR

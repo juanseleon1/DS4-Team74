@@ -1,0 +1,5 @@
+FECHA: Mayo 28/2017 PROGRAMADOR: Daniel Palacios.EJECUTO: Julian Giraldo
+Planeador: Luis Federico Alvarez Alvarez
+Se toma muestra de aceite al transformador y se envia al laboratorio en Medellín.
+
+CE: TOMAR MUESTRA ACEITE CUATRIMESTRALMENETE PARA EL ANALISIS CROMATOGRAFICO

@@ -1,0 +1,10 @@
+
+
+31/Octubre/2015
+Perdida de señales en la estación de operación de Miraflores,  se revisa y se encuentra la fuente DSSR 122 en falla; se cambia por una de repuesto y se carga de nuevo el programa  desde la estación de ingeniería, quedando el controlador trabajando en condiciones normales.
+Cesar Tulio
+Learcilas
+
+
+
+

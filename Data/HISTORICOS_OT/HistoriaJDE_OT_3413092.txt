@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades de limpieza de los cables de sustentación dle teleférico
+
+
+
+Programador: Camilo Montagut - 13/03/2017
+
+Se realiza la limpieza en todo el recorrido de los dos cables de sustentación. Igualmente se realiza limpieza en los dos carricoches, en la torre soporte y en sus dos juegos de poleas.
+
+Ejecuta: equipo mantenimiento mecánico UOG

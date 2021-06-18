@@ -1,0 +1,4 @@
+FECHA: OCTUBRE 22/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: OSCAR MONTOYA.
+Se realiza OT segun insstructivo, se encuentra la carcaza del totalizador partida, se repara, se toman registros de las calefacciones.
+
+XE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD

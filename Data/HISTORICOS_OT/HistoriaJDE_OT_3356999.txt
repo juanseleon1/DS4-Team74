@@ -1,0 +1,27 @@
+DOMINGO 1 DE ENERO DE 2017
+
+Turno de operacion reporta aplicacion de frenos al 60% de la velocidad nominal en el proceso de paro de la unidad G31. Se deja la valvula de paso d aire del sistema de frenos cerrada para evitar aplicacion de frenos antes de revision y solucion.
+
+LUNES 2 DE ENERO DE 2017
+
+Se inspeccionan zapatas de frenos y pista de frenado, no se observa daño o desgaste excesivo ocasionado por el evento.
+
+Se hacen prueba con giro de maquina para tratar de simular el evento, durante el proceso de arranque la maquina se da paro rapido con alarma Falla Grave Regulador al 60% de la velocidad nominal, se observa que se esta cerrando la valvula de aislamiento antes de terminar el proceso de paro.
+
+Se concluye por los eventos que estos tienen origen en la lectura de velocidad. Se revisan los sensores de los pick ups, se revisa el lazo de control y lazo de comunicaciones. Se revisan los ajustes en el regulador de tension para la medida de velocidad por pick ups y PT. No se observa nada anormal.
+
+Se repite la prueba con giro de maquina revisando desde la estacion de ingenieria el proceso de arranque y paro a  traves de la logica de control
+
+*****Juan, por favor comentar los hallazgos y la solucion implementada****
+
+Informan: Sandra Carmona, Juan Caicedo, Sergio Ramirez, Esteban Vasquez. 
+Ejecutan: Grupo electronico y grupo mécacnico.
+
+
+03/01/2017
+
+SE HACE UNA REVISION DE TODO EL LASO DE CONTROL DE LOS SENSORES DE VELOCIDAD PICK-KUPS, SE ENCUENTRA UNA REFERENCIA DEL CABLE DE TIERRA SUELTO EN EL REGULADOR DE VELOCIDAD EN LA BORNERA A:104 SE LE COLOCA TERMINAL DE PUNTERA Y SE REAPRETA EL BORNE.
+
+
+REALIZO: GRUPO DE ELECTRONICA.
+

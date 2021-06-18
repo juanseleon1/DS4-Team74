@@ -1,0 +1,26 @@
+31/03/2017
+
+AJUSTAR Y HABILITAR LA PROTECCION DE SOBRE CORRIENTE EXCITACION EN LA UNIDAD 
+
+INFORMA TURNO 2 OPERACION 
+
+
+
+25/04/2017
+
+Se  se realizan pruebas verificaciones en los lazo de control para la indicacion de corriente  excitacion en el transductor UA02 y la tarjeta PMCIR se cambia y ajusta el transductor ya que la proteccion no se encontraba habilitada, se realizan pruebas en la tarjeta y se prueba el disparo de la unidad provocando una paro parcial por esta proteccion.
+
+se encontro el transdutor UA02 en 0 a 200 Mv y salida 0 a 10 V fue ajustadado en 0 a 60 Mv y salida 0 a 10 Vdc y el punto de disparo por esta proteccion quedo en 54.7 Mv para una corriente +/- 1823 Amp, el limitador de la unidad se encontro en 180 % de la corriente nominal el ie_lim.
+
+la unidad queda operativa y normalizada 
+
+ Realizado por Wtobonl 
+
+TERMINADA CERRAR 
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

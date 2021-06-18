@@ -1,0 +1,5 @@
+2018/06/16 GIOVANNY DIAZ
+Se requiere corregir el cable del encoder del gancho principal en el puente grua vevey.
+
+2018-06-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3738908, PASO:1          
+Se realizó adecuación de cable del encoder en el puente grúa vevey, éste cable fue fallado en zona cercana al encoder debido a golpe entre el carro del puente grúa y una lampara. Se realizó prueba y se dejó en condiciones normales.

@@ -1,0 +1,13 @@
+XI: VERIFICAR Y REVISAR, CONTROL DE A VALVULA, INSTRUMENTOS DE PRESION, SENSORES DE POSISCIÓN VALVULA, BY PASS Y VALVULA MOTORIZADA. 
+
+18/DICIEMBRE/2013
+MANTENIMIENTO ELECTRONICO PREVENTIVO SEMESTRAL
+Se realizo inspección y limpieza a los sensores y conectores de la válvula de admisión.
+Se realizo limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los Microsuiches de estado de la válvula, comprobando su correcta visualización en el sistema de control.
+Se tuvo que apagar y encender nuevamente el interruptor del tanque colector de aceite, ya que la bomba estaba bloqueada y presentaba un nivel muy alto.
+
+NOTA: Se debe cambiar el instrumento de nivel del tanque colector, puesto que presenta problemas en la medida.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Francisco Gonzalez - Fredy Duarte - Marlon Carmona

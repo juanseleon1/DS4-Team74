@@ -1,0 +1,5 @@
+
+2015/11/25 DIEGO BEDOYA
+Se cierra la válvula de entrada de aire y registra una presión de 10.5 Kg/cm2
+durante dos (2) horas y despues mostró una presión de 10 kg/cm2
+ 

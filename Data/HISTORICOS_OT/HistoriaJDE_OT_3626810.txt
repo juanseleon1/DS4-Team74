@@ -1,0 +1,31 @@
+
+2017/10/17 _ CARLOS ENRIQUE MONCADA. OT N° 3626810.
+Referente a la Unidad N° 2 paro parcial 2: 
+
+Se encuentran fuentes de alimentación de 125 / 24v dc dañadas, estas alimentan los transductores de corriente de excitación, tensión de excitación y corriente crowbar del AVR 1, también se encontró contactor de la pre excitación con los contactos móviles y fijos fundidos, de este no se encontró repuestos en el almacén, se decidió dejar la unidad sin estos contactos.  
+
+Se gira la unidad y se selecciona el AVR2, se ajustan los siguientes parámetros que hacían falta quedando con los siguientes valores.                                                                         
+
+ve-sel = 4500 vm- min= 96%, vm max = 107%.  
+
+Se tensiona la unidad observándose un buen comportamiento del AVR, se solicita autorización para sincronizar la unidad, esta queda sincronizada a las 16:14 cargada con 120 MW y 25 MVAR, se deja 2 periodos en observación y a las 19:00 horas se entrega la unidad para su explotación comercial.   
+
+Queda pendiente reparar fuentes del AVR1 y comprar contactor de la pre excitación.
+
+Trabajo realizado por: grupo de operación y grupo de mantenimiento de la U.O.P.
+
+Informo: Jorge Rodríguez.                                                                                         
+
+
+----------------------
+2017/10/17
+
+PARO PARCIAL U2 POR FALLA EN REGULADOR DE TENSIÓN SE ENCONTRABA TRABAJANDO ATRAVÉS DEL AVR 1 , EL AVR 2 SE ENCUENTRA INDISPONIBLE 
+INFORMA : TURNO # 3 DE OPERACION PORCE 2
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

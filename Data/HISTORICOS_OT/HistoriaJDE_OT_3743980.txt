@@ -1,0 +1,70 @@
+16/07/2018.
+REPOSICION TRANSFORMADORES DE POTENCIA, SE CAMBIAN POR LOS FABRICADOS EN ABB PEREIRA.
+ACTIVIDADES DE PUESTA EN SERVICIO Y PRUEBAS.
+JUAN CARLOS GRANADOS.
+
+2018-07-16 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3743980, PASO:1          
+Se aterrizó el banco # 3 en el portal con tierras temporales.
+
+2018-08-13 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:2          
+Se inició con las labores de armado de la GIS del banco 3. 
+
+2018-08-14 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:3          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-15 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:4          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:5          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:6          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-17 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:6.1          
+Se realizó orden y aseo general de elementos retirados, cables y accesorios del banco 3, algunos se llevaros para chatarra el cable retirado se dejó en bodega de los polos para picarlo.
+
+2018-08-20 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:7          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-21 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:8          
+Se realizó orden y aseo general en casa de máquinas, se ordenó elementos del cambio de transformadores del banco 3.
+
+2018-08-21 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:9          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-22 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:10          
+Se realizó orden y aseo general en casa de máquinas, se ordenó elementos del cambio de transformadores del banco 3.
+
+2018-08-22 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:11          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-23 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:12          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-24 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:13          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-27 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:14          
+Se continuó con el apoyo en el armado de la GIS del banco 3. 
+
+2018-08-28 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3743980, PASO:15          
+Se continuó con el apoyo en el armado de la GIS del banco 3, Se realizó adecuación de elementos y se asistió a un charla sobre el SF6.
+
+2018-08-30 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:16          
+Se realizó orden y aseo general después del montaje del banco 3 y mantenimiento general a las unidades 5 y 6. 
+
+2018-09-04 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:18          
+Se pegaron avisos de señalización en las celdas de los transformadores del banco 3
+
+2018-09-05 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:19          
+Se realizó conexión eléctrica del transformador de excitación Unidad 6 desde el interruptor de 13.2Kv del asincrónico
+
+2018-09-05 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3743980, PASO:20          
+Se realizó apoyo al personal de ingeniería para realizas las pruebas de corto circuito largo del banco 3, para esto se realizó el retiro de tierras en el portal, la instalación de puente (tierras) en subestación y los puentes en control para el banco 3 en las borneras X4 5, 6, 7 y 8 correspondiente a las medidas de protección diferencias de barras, posteriormente se realizó la prueba de corto circuito subiendo hasta 500 amperios en el lado de la Unidad y al finalizar las pruebas se normaliza la Unidad, los puentes de potencia y el puente de control dejando en condiciones normales para energizar controladamente el banco.
+
+2018-09-08 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3743980, PASO:21          
+Se organizan los cables con los cuales se realizan las pruebas de excitación independiente de la U6.
+
+2018-09-14 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743980, PASO:22          
+Se realizó adecuación de tomas de muestras de aceite para el banco 3

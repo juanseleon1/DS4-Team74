@@ -1,0 +1,7 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Frank Córdoba, Julián C. Giraldo y Olga Viana.
+Planeador: Luis Federico Alvarez Alvarez
+Se realiza inspección, limpieza y mantenimiento al tablero +TCD, a las acometidas de las motobombas y a los motores. A estos se les midió la resistencia de aislamiento y se llenaron registros con estos datos.
+Trabajo ejecutado por: Frank Córdoba, Julián C. Giraldo y Olga Viana.
+
+
+XE: VERIFICAR Y MEDIR EQUIPO HIDRAULICO DESCARGA DE LA UNIDAD

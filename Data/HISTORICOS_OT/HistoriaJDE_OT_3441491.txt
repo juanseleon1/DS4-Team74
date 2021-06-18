@@ -1,0 +1,15 @@
+2017/03/31 RUBEN ARBOLEDA
+EL 2017-03-21, SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  En la ejecución de la OT: 3422089         
+Se realizó mantenimiento a la ESTACION HIDRAULICA LACLARA GT, Se encontró fuga de aceite en las válvulas, se realizó limpieza pero la fuga continua,
+Se crea ésta OT para realizar revision y correción de la fuga
+2017/05/15 DIEGO BEDOYA
+Se realiza la revisión de las fugas en el sistema hidráulico del bombeo la clara y se encuentran algunos racores flojos, se aprietan y se verifican que no queden fugas.
+
+El trabajo fue realizado por Orlando Zuleta y Leon Parra
+
+
+marzo 29 de 2018 
+
+ot terminada y cerrada 
+
+andres ramirez 

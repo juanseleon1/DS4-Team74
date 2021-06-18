@@ -1,0 +1,1 @@
+Autorizar intervencion a la estacion Climatologica de la 30, para cambio de cableado entre DCP y punto de red

@@ -1,0 +1,54 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE DAÑOS POR CAVITACION EN RUEDAS FRANCIS  
+CENTRAL:PLAYAS 
+
+UNIDAD N° :_1_
+
+RUEDA N° :_6842_ 
+
+N° DE ALABES: 16 
+
+
+FECHA DE REVISION: DIA MES AÑO
+
+ANTERIOR  _____   ______   ______
+
+ACTUAL  _10__   _06___   _2014_ 
+
+Nº DE REPARACIONES: ___0____ 
+
+HORAS DE SERVICIO: HOROMETRO DE LA UNIDAD AL PARAR:_____________ 
+
+INSPECCION: 
+
+Nº DIMENSION (mm.) 
+ALABE  LONGITUD  ANCHO PROFUNDIDAD 
+
+_56__  ___120____  __35_ SOMBRA ____ 
+_11__  ___145____  __55_ 3__________ 
+_08__  ___110____  __40_ SOMBRA ___   
+_61__  ___160____  __55_ 1.5 ________ 
+_46__  ___165____  __45_ 1__________ 
+_37__  ___160____  __45_ 1.5_______ _ 
+_51__  ___085____  __40_SOMBRA ____ 
+_59__  ___135____  __60_ 1__________ 
+_39__  ___145____  __45_ SOMBRA ____ 
+_22__  ___175____  __70_ 1.5     ______
+_53__  ___145____  __45_ 1__________ 
+_26__  ___190____  __70_ 2__________ 
+_25__  ___170____  __65_ 3__________ 
+_57__  ___185____  __65_ 1.5________
+_10__  ___110____  __40_ SOMBRA____
+_24__  ___120____  __50_ 1.5________
+
+
+OBSERVACIONES:__EL GRUPO DE TRABAJO ESTA CONFORMADO POR ATANASIO JARAMILLO PORRAS Y DOS CONTRATISTAS ANDRES ECHEVERY Y JUAN FELIPE JIMENES, ESTOS DOS ULTIMOS NO TIENEN A UN REGISTRO DE OW, YA SE SOLICITO Y AUN NO LO HAN       ASIGNADO Y NO APARCEN EN EL SISTEMA, SON TEMPORALES POR LOS TRABAJOS DE LA MODERNIZACION DE LA UNIDAD 3    _______ 
+      
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0013 

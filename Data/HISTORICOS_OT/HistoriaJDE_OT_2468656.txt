@@ -1,0 +1,11 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Realizar mantenimiento a tableros de control y verificar funcionamiento  de los PLC, realizar Backup. Verificar transductores de 4 - 20 mA., Verificar transferencia.
+
+FECHA: 29/08/2014 PRGRAMADOR: JGUINGUER
+
+SE REALIZA MANTENIMIENTO SEGUN INSTRUCTIVO SIN NOVEDADES.
+
+REALIZO: JOHN ORREGO

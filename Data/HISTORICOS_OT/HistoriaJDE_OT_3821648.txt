@@ -1,0 +1,4 @@
+
+MARZO 20/2019 OT: 3821648  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO 
+
+Después de presentarse falla interbus se inspecciona y se encuentra en falla la fuente 102A1, se realiza el cambio y se deja en servicio el aerogenerador.

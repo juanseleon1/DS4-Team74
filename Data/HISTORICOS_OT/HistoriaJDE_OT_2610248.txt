@@ -1,0 +1,3 @@
+2014/09/30 RUBEN ARBOLEDA
+
+A solicitud telefonica del señor Marco Uriel Alzate se realiza la verificación del funcionamiento de un soldador en el taller industrial, a este soldador se le identificó falla en 2 resistencias de 47KOhm y 5 Wattios, el señor Luis Eduardo Arcila suministró resistencias equivalentes, con la cual se puso en servicio. 

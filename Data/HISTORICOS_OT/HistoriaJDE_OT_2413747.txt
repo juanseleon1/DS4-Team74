@@ -1,0 +1,5 @@
+FECHA: Nov. 20/2013PROGRAMO: Daniel PalaciosEJECUTO: Franisco Quintero.
+Se realiza mantenimiento segun instructivo, se hace limpieza al equipo y al tablero.
+
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

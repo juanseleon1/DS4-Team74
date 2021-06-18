@@ -1,0 +1,22 @@
+Jueves 6 de febrero 2014
+
+En la visita realizada para adecuación de arranque del ventilador S7, OT: 2461428, se evidenció que la presión en el manómetro del equipo de presión de la válvula mariposa estaba en cero. 
+
+Se realizó planeación con planos eléctricos del equipo y se inicio con la búsqueda de falla, la cual se encontró en un relé R11, correspondiente a la señal de presiones equilibradas, que da señal visual Tubería llena y permite cumplir una de las condiciones de arranque de la motobomba seleccionada. 
+
+Se realizó el proceso de apertura de breaker de 480 VAC, para trabajar si tensión en el control y poder realizar el cambio de este relé por uno que estaba disponible en el tablero. 
+
+Se cambio y se realizó cierre de breaker de 480 VAC, lo cual de inmediato arrancó la motobomba. 
+
+El relé se encontró chispeado y abierta la bobina.
+
+Realizó: 
+Cesar A. Hoyos 
+Ruben D. Arboleda G.
+Sergio Olivares D.
+Oscar Giraldo
+
+
+
+
+

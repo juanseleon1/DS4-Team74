@@ -1,0 +1,6 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Camilo Cardona.
+Se realiza inspección al sistema de cables de potencia, a los terminales (exteriores e interiores) de 500KV y pararrayos de las unidades generadoras, también se revisan los niveles del SF6.
+
+Se realizan las pruebas de disparos transferidos por falla por muy baja presion en los presostatos del SF6 de las terminales exteriores y verificados en el scada de casa de maquinas y fisicamente en los reles de disparo y bloqueo en las casetas de control en la subestacion de 500 kv. (Interruptor de ISA y el de EPM).
+
+XE: INSPECCION GENERAL SISTEMA CABLES POTENCIA A 500KV CIRCUITO 2 DE LAS UNIDADES 3 Y 4

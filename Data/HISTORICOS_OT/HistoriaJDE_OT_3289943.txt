@@ -1,0 +1,2 @@
+FECHA:24/10/2016.SOLICITANTE:ALEXANDER MADRID
+Se encuentra la IHM de los controladores 2 y 3 con falla en el reconocimiento de las alarmas.

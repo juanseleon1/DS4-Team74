@@ -1,0 +1,5 @@
+DOMINGO 14 DE OCTUBRE 2018
+
+Referente al sistema N°2 del TAST UNIDAD N°3: En el momento de hacer el lavado del filtro se ha presentado inconsistencia en la operación de la válvula AA07, al hacer maniobras automáticas y locales la válvula AA07 no abre (fallándose en el control de la IHM) ocasionando la colmatación del filtro. Se deja la válvula entre/abierta para que haya evacuación y no se sature el filtro.
+
+Informa y ejecuta Renato Montoya, Turno 2, grupo Mecánico.

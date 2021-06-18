@@ -1,0 +1,33 @@
+2018/05/23 _ CARLOS ENRIQUE MONCADA. OT N° 3717873.
+Se realiza verificación de sensores de vibración  y Acelerometros así:
+UGB 0°: 11:95 mA  / 10:82 Vdc.
+UGB 90°: 11:65 mA  / 10:33 Vdc.
+LGB 0°: 12:35 mA  / 10:86 Vdc.
+LGB 90°: 11:89 mA  / 10:31 Vdc.
+TGB 0°: 13:40 mA  / 10:55 Vdc.
+TGB 90°: 11:26 mA  / 11:24 Vdc.
+Axial: 11.88 mA   /10.19 Vdc.
+Cubierta turbina 0°: 10.67 Vdc.
+Cubierta turbina 90°: 10.53 Vdc.
+Las borneras correspondientes a los disparos de las vibraciones (3, 4, 5 y 6), se encuentran abiertas. Las borneras (7, 8, 9, 10 y 11), se encuentran abiertas (contiguos a los bornes de disparo de sensores de vibraciones)
+Realizo: Eladio Piedrahita, Jeniffer García
+
+
+
+
+XL-VERIFICAR Y LIMPIAR EN EL MONITOREO PCSV-PCSD, LA INSTRUMENTACIÓN DEL SISTEMA DE VIBRACIONES Y DESCARGAS PARCIALES.
+
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  
+
+
+
+
+

@@ -1,0 +1,11 @@
+Realizar modificacion y pruebas de la logica en el control del CCM con la nueva aplicacion y configuracion CIMPLICITY de GEFANUC.
+
+
+23/02/2015
+
+Se realiza el cambio de programa y controlador en la unidad 3 CCM, se adecua la nueva configuracion del controlador y sus equipos, modificacion del cableado , ademas de verificacion del programa siguiendo el protocolo realizado para este sistema.
+
+queda pendiente subir el mapeo de señales para el sistema SCADA y verificar las animaciones.
+
+
+Realizado por Wtobonl

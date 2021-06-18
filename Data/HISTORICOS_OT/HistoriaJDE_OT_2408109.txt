@@ -1,0 +1,8 @@
+
+XM: VERIFICAR, LAVAR Y AJUSTAR EL COJINETE INFERIOR DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 04/1/2013 - OT 2408109 @C0087666
+
+Se realiza según procedimiento. Se verifica su nivel el cual se encontró en el instrumento digital en +2.6 mm y en el instrumento análogo en 0. Se cambia empaque de asbesto de la brida de salida de aceite del filtro. Se verifica el nivel en la tapa superior de la cuba del cojinete combinado el cual se encontró en +10 mm. Este nivel es el que fue dejado por los fabricantes de TOSHIBA.
+
+

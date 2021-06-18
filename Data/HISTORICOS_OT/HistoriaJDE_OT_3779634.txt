@@ -1,0 +1,6 @@
+FECHA: NOVIEMBRE14/2018PROGRAMO: DANIEL PALACIOSEJECUTO: dARIO pUERTA
+
+Se realiza inspección al barraje de fase aislada, a las puestas a tierra y a la estructura. Se inspeccionan las RTD´s, se realiza mantenimiento al tablero de control del aire a presión y se verifican presiones en los ductos.
+Trabajo ejecutado por: Dario Puerta, Jhonatan Arango y Milton Vargas
+
+XE: INSPECCIONAR Y LIMPIAR BARRAJE FASE AISLADA SALIDA ESTATOR DE LA UNIDAD

@@ -1,0 +1,12 @@
+11/25/2015
+
+SOLICITANTE: RAMIRO TORRES.
+
+AL MOMENTO DE INGRESAR AIRE AL TANQUE DE PRESION DEL REGULADOR DE VELOCIDAD, SE DA PARO CON FALLA MECANICA, POR LA PROTECCION "NIVEL TANQUE PRESION DE ACEITE ALTO", YA QUE NO RECIBE EL FLUIDO.
+
+2015/12/04 DIEGO BEDOYA
+Se realiza la calibración de los presostatos de las bombas del regulador de velocidad,ya que estaban arrancando las dos (2) bomnbas al mismo tiempo y generaba el incremento de nivel de aceite en el visor. Este nivel de aceite provocaba la salida de la unidad la cual se encontarba generando. 
+se cambia la válvula para suministrar aire al tanque de presión, tambien se corrigen fugas en la válvula del manometro del tanque; adicional a estos trabajos se cambia el empaque del cheque de la tubería de aire que esta en el carcamo de la parte inferiior del tanque acumulador del reguylador.  También se cambia la válvula de instrumentación que esta ubicada junto a la válvula de sobrepresión del tanque de presión.
+
+quedando asi el regulador en condiciones normales de operación.
+ 

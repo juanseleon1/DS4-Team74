@@ -1,0 +1,13 @@
+MANTENIMIENTO ANUAL MOTORES #1 Y #2 ESTACION HIDRAULICA
+AGOSTO 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: como mejora implementada, se empezo a tomar los datos de resistencia ohmica, para llevra una trazabilidad y asi, poder detectar fallas del nucleo.
+                                                                                                                               
+VOLTAJESFASEM1M2R - S437437S - T439439T - R435436 
+CTES. DE ARRANQUEFASEM1M2R156163S153165T157155
+CTES. DE TRABAJOFASEM1M2R7.714.6S6.513T7.313.9
+AISLAMIENTO/TIERRAFASEGMR3.04782S3.54749T4.23743
+RESISTENCIA OHMICAFASEmmR - S804639.7S - T804635.8T - R807631.8
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Mateo Perez

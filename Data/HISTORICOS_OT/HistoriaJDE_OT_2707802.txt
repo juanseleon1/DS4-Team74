@@ -1,0 +1,13 @@
+
+FECHA: MARZO 01 DE 2015
+
+RESPONSABLE:  HENRY GIRALDO
+
+Por presentarse paro por Speed Error 2 se inspecciona y se encuentra algo suelto el soporte del sensor de alta velocidad, se apretó y se dejo en servicio el aerogenerador.
+
+
+FECHA: MARZO 02 DE 2015
+
+RESPONSABLE:  HENRY GIRALDO
+
+Nuevamente se presenta la falla de Speed Error 2, el soporte del sensor de alta velocidad se desplazo nuevamente  y produjo la mala lectura de velocidad, se aprieta con doble llave este soporte y se deja en servicio.

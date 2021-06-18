@@ -1,0 +1,7 @@
+JULIO  31  DE 2017     OT NÚMERO: 3527801     PROGRAMÓ: JGUINGUL     EJECUTARON: ALEXANDE VILLA 
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de: Cojinete Generador U2 S1Equipo 40°C 60°C 80°CTemperatura metal 38.95 58.94 78.92Temperatura Aceite 38.84 58.83 78.92Valor programado Alarma:Metal: 75°C / Aceite: 60°CValor programado Disparo:Metal: 80°C / Aceite: 65°CComentarios:Sin novedades 
+  
+
+

@@ -1,0 +1,14 @@
+
+FECHA 05 de DICIEMBRE de 2013.
+PARO  DE UNIDAD P23
+
+A las 15:06 se presentó un PARO PARCIAL 2, por presentar baja tensión en el alimentador principal de la unidad; lo cual genero una sobre corriente en el momento de la transferencia en el interruptor de respaldo.
+En el proceso de paro el controlador de unidad mando a parar las bombas del sistema de lubricación de los cojinetes. 
+Se genera un paro rápido y se pararon todos los subsistemas en manual por que la secuencia se bloqueó. 
+Se ingresa nuevamente para su explotacion comercial a las 16:27.
+
+Se verifican eventos registrados en los relès Multilin SR489-1 y SR489-2 y no se observan registros asociados a este evento.
+
+Informa : Jorge Rodrìguez 
+
+

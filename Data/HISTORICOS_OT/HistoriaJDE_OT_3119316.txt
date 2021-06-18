@@ -1,0 +1,9 @@
+
+2016/07/11 _ CARLOS ENRIQUE MONCADA. OT N° 3119316.
+SE RESETEA EL PLC DE LA UNIDAD NORMALIZANDO EL SISTEMA , QUEDA EN CONDICIONES PARA LA OPERACION.
+
+REALIZO: NEIRO FABIAN PEREZ.
+
+20/05/2016
+Referente a la unidad # 1:
+Se da paro rápido por falla “ FA042 módulos de entradas y salidas del autómata” , se da reset al PLC y se normaliza la unidad, este paro se da con 75 Mw

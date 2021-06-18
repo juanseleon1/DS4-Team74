@@ -1,0 +1,19 @@
+REVISAR CONTROL PLANTA DE TRATAMIENTO AGUA
+FECHA PLANEACION MANTENIMIENTO: 02/11/2018
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: CARLOS MONCADA.
+
+02 NOVIEMBRE 2018
+Referente a la PTAP Casa Maquina Porce 3: Falla el Control PLC, no arranca quedando el proceso fuera de servicio. Queda pendiente revisar por mantenimiento electrónico. Informa: Operación Turno 3. . 
+07 NOVIEMBRE 2018
+Referente a la PTAP: Se encuentra el PLC que no arranca ni en automático ni en manual, esta situación se viene presentando desde el 02 de noviembre 2018, en estos momentos al estar el sistema parado no deja ver los niveles del agua, se considera muy importante darle prioridad a esta situación ya que no se puede recuperar el agua y no se sabe cuánto es el porcentaje de agua en estos momentos, se queda a la espera para seguir con la operación de la planta.
+ Informa: Verónica Sepúlveda JACL
+09 NOVIEMBRE 2018
+Referente a la PTAP: Sigue la falla en el PLC. El proceso de recuperar agua sigue parado. Informa: Verónica Sepúlveda JACL
+
+
+
+
+
+

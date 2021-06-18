@@ -1,0 +1,2 @@
+TAREA: 
+Realizar pruebas predictivas al Estator Unidad 5, Mapeo Estator, Verificacion de Amarres, adecuacion de plataformas, Limpieza Criogenica

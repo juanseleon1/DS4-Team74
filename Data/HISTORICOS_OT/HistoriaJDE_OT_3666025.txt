@@ -1,0 +1,5 @@
+2017/01/03 RUBEN ARBOLEDA
+Se crea OT para realizar revision del funcionameinto del turco de Bizcocho.
+
+2018-01-03 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3666025, PASO:1          
+Se realizó revisión del funcionamiento del turco en la urbanización bizcocho, se encontró breaker disparado, se repuso y se dejó operativo. 

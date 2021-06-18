@@ -1,0 +1,5 @@
+MAYO 21 /2015
+
+A las 23:52 sale de sincronismo la unidad N°3,  paro rápido 86 R. Ocasionado por falla en la válvula proporcional. La unidad estaba regulando 
+
+VIERNES 22: Referente a la Unidad 3. Por solicitud del ingeniero Nicolás Aguilar se pasa la unidad de modo potencia a modo posición, para tratar de que la posición del distribuidor se mantenga entre el 80%, ya que el disparo rápido que se ha dado ha sido cuando el regulador esta en el  70%.                                                                                                                                            Si salen periodos de AGC, coordinar para pedirlos como redespachos con el ingeniero encargado de la central.

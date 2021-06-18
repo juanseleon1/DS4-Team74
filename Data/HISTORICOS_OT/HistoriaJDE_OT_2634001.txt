@@ -1,0 +1,13 @@
+
+FECHA: NOVIEMBRE 06 DE 2014
+
+EJECUTANTE: GERMÁN ECHAVARRÍA Y HENRY GIRALDO 
+
+Se cambia la válvula proporcional, esto debido a que se estaban presentando tiempos prolongados en los paros normales, se aprovecha para adicionarle agua al sistema de refrigeración.
+
+
+FECHA: NOVIEMBRE 10 DE 2014
+
+EJECUTANTE: GERMÁN ECHAVARRÍA
+
+Continúan los paros con tiempo prolongado, se continua inspeccionado, se realiza el intercambio de las fuentes 102A1 y 102A2 pero la falla continuaba, se decide cambiar el modulo 7,14 pero no hay respuesta positiva, por último se cambia la bobina de la válvula 290 y el problema se soluciona, la bobina que tenia esta válvula es más pequeña que el vástago de accionamiento.

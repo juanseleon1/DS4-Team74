@@ -1,0 +1,7 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF
+
+2016/07/30. SERGIO OLIVARES D.
+ La temperatura del motor fue de 47.4°C. Queda en servicio.
+ Medidas---  Voltajes RS: 436                     CORRIENTES  R: 31.2
+              ST:  437                                                  S: 30
+  RT:  438                                                  T:  31.1

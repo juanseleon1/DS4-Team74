@@ -1,0 +1,19 @@
+PLANEADOR: OSCAR RESTREPO
+
+MARZO 07 DE 2015.
+
+
+SE PLANEAN LOS TRABAJOS, LOS CUALES SE EJECUTARÁN POR OPORTUNIDAD CUANDO LA UNIDAD G36 SE ENCUENTRE PARADA Y SE PUEDAN HACER PRuEBAS EN EL INTERRUPTOR, SIN AFECTAR LA GENERACIÓN DE LAS MISMAS PARA CORREGIR LA SEÑALIZACIÓN.
+
+
+
+
+SOLICITANTE: LUIS FERNANDO YEPES C. FECHA: 07/03/2015
+La señal de posición del interruptor en estado ABIERTO no es acorde con la realidad física. Requiere correctivo.
+INTERRUPTOR 110 U6S/E SALTO G3 NOM. CAMPO: UNIDAD 6 CLASE: GENERADOR G3 S/E R-51 PATIO EQ.110K
+la señalización tiene problemas, pero el interruptor no presentaba problema alguno, es el testigo físico 
+Fabio programara este correctivo con la cuadrilla de mantenimiento  de subestaciones… 
+
+juan caicedo
+
+

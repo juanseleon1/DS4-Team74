@@ -1,0 +1,10 @@
+2017/08/10 OT:3620570 Luis Eduardo Arcila / Cesar Tulio
+
+Grupo de mantenimiento electrónico: 
+
+Limpieza de tarjetas.
+Se verifica voltajes de fuentes y funcionamiento en general.
+este controlador esta por fuera de servicio por falta de repuestos.
+
+
+

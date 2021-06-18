@@ -1,0 +1,44 @@
+FECHA: JUEVES 06/04/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, RODOLFO GARCES.
+ASOCIADO A LA OT: 3394774
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA PARA EL REGISTRO HOROMETRO , CAMBIO DE ACEITE Y FILTROS COMPRESORES SERVICIOS GENERALES
+
+
+HOROMETRO: ________613__________
+
+PRESION DE ARRANQUE: ________5.61 BAR__________
+
+PRESION DE PARO: ________6.91 BAR__________
+
+TIEMPO DE TRABAJO: _______59"___________
+
+TIEMPO DE REPOSO: _______10´___________
+
+TEMPERATURA CARCAZA MOTOR: ________39.6° C__________
+
+TEMPERATURA CARCAZA UNIDAD:________41.5° C__________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:____27/04/2014______________
+
+ULTIMA FECHA DE CAMBIO DE FILTROS.___27/042014_______________
+
+
+
+Observaciones:____SE REALIZA ASEO GENERAL AL                           COMPRESOR________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0018

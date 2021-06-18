@@ -1,0 +1,7 @@
+23/03/16  CESAR AUGUSTO HOYOS HENAO.
+Se comenzará con los preparativos para cambio de todas las protecciones y switch estático.
+31/03/16 CESAR AUGUSTO HOYOS HENAO
+Se realizó cambio de las protecciones de la UPS A de la UPS Stanby y se instala el switch manual. Se realizan pruebas en conjunto con operación según procedimiento sin novedad, queda pendiente la instalación de las bobinas de disparo de los interruptores B1 de ambas UPS, se encuentran en proceso de compra.
+19/04/16 JUAN DAVID GARCIA-DIEGO PERLAZA-CÉSAR HOYOS.
+Se instalan bobinas de disparo en los interruptores B1 de las UPS A y UPS Stanby las cuales estaban pendientes, se realizan pruebas y se entrega a operación el equipo.
+

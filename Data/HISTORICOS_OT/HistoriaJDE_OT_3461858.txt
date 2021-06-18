@@ -1,0 +1,11 @@
+- FECHA : VIERNES ABRIL 21 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : NORBERTO PESTANA - WILFER HINCAPIÉ - WILMER MÉNDEZ - MARIO GONZÁLEZ
+- ASOCIADO A LA OT : 3461858
+- ASUNTO : SALIDA UNIDAD DEL SINCRONISMO
+           * LA UNIDAD SALE DEL SISTEMA POR FALLA EN EL TANQUE ACUMULADOR AIRE ACEITE DEL REGULADOR DE VELOCIDAD
+           * PÉRDIDA DE PRESIÓN EN EL SISTEMA POR FALLA CONTROL SENSOR DE NIVEL ACEITE.
+
+NDPT: Se realiza un estudio de causa de la problematica, acciones de mantenimiento y de Operación. Se elaboró informe sobre esta salida de Unidad.
+          
+          

@@ -1,0 +1,7 @@
+AE: PRUEBAS ELECTRICAS DE LA UNIDAD-
+
+
+
+SEPTIEMBRE 26 DE 2017
+En la unidad solo se realizaron al estator, rotor y banco de transformadores, por parte de la unidad operaciones Guadalupe como fueron: En el rotor Resistencia de aislamiento, inductancia, capacitancia y DAR, en el estator se realizò resistencia Ohmica y el (IP) Indice de polarizaciòn, y en el banco de transformadores realizò resistencia Ohmica y el (IP) Indice de polarizaciòn, los resultados quedan almacenados en la carpeta del mantenimiento diagnostico y pruebas que se estipulo para el mantenimiento anual de la unidad.
+William Lopera.

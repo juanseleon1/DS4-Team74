@@ -1,0 +1,10 @@
+FECHA: 07/10/2015
+SOLICITA: GEOVANNY ANDRES ECHEVERRI.
+TRANSFORMADOR DE POTENCIA FASE R TRONERAS.
+DISPARO DEL GUARDAMOTOR Q11 POR SOBRECALENTAMIENTO DE SU CARGA (2 VENTILADORES).INSPECCIONAR,IDENTIFICAR Y REALIZAR MANTENIMIENTO PREVENTIVO AL VENTILADOR QUE ESTA PROVOCANDO LA FALLA.
+
+OCTUBRE 7 DE 2015.
+
+Se revisa las corrientes de trabajo, se hace pruebas de resistencia de aislamiento a los motores, se encuentran en condiciones normales y se le aumenta la protección térmica a 5 Amperios para evitar picos de trabajo altos ya que estos motores ya han sido rebobinados varias veces y la protección esta un poco ajustada.
+
+William Lopera.

@@ -1,0 +1,2 @@
+Favor darle continuidad a el analisis de la falla presion tuberia de presion unidad 3, ya que el dia de ayer se volvio critico el evento al quedarse enclavado el rele fallamecanica 86M y la valvula de seguridad 2130. El presostato 63PS se dejo puenteado para habilitar la unidad mientras se realizan las respectivas verificaciones de los equipos asociados. En la espera de un paro de maquina.
+Realizo: Carlos Andres Mejia 27/05/2014

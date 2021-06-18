@@ -1,0 +1,15 @@
+En la unidad 5 de Guadalupe 3 el inyector 4 esta presentando no abre en el momento del arranque. 
+
+planeador yofred rodriguez
+programador jose montoya
+
+Referente a la unidad G35: En proceso de arranque aguja # 4 se quedó cerrada. Se revisa y se encuentra driver con IGBT malo, se cambia tarjeta, se verifica apertura de aguja y corriente, se le da mando de arranque y queda trabajando bien.
+
+Atención OT No. 3715190  Informó: Francisco González, William Lopera, Yofred Rodríguez, José Montoya.                                                 Nota: Desviación por contadores CCG : P2 = 62 MwH, P3 = 31 MwH. Total  93 MwH. 
+
+20-04-2018
+PROGRAMO JOSE MONTOYA
+PLANEADOR YOFRED BERNARDO
+SE REVISA Y SE EN CUENTRA DRIVER CON IGBT MALO Y SE ENCONTRO CABLE FLOJO EN EL ACTUADOR, SE CAMBIA DRIVER , SE NORMALIZA, SE DA REARREANQUE A LA UNIDAD Y QUEDA TRABAJANDO BIEN.
+WILLIAN LOPERA, FRANCISCO GONZALEZ,YOFRED BERNARDO,JOSE MONTOYA
+                                                  

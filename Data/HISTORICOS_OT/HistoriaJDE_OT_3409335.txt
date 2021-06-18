@@ -1,0 +1,82 @@
+TRABAJOS CON CUADRILLA DE LINEA VIVA EN LA TERMOELÉCTRICA LA SIERRA
+
+
+
+De: MARITZA HELENA BACCA GAVIRIA Enviado el: jueves, 23 de febrero de 2017 05:28 p.m.Para: LUIS ALBERTO QUINTERO BEDOYA <Luis.Quintero@epm.com.co <mailto:Luis.Quintero@epm.com.co>>CC: JUAN CARLOS YARCE URREA <JUAN.YARCE@epm.com.co <mailto:JUAN.YARCE@epm.com.co>>Asunto: CanastaImportancia: Alta
+
+¡Buenas tardes Don Luis!
+
+El presente para pedirle un gran favor. Es que necesitamos una canasta para hacer una desconexión de unos CT  versus unos interruptores en una subestación de 250kV.
+El trabajo se hará de forma desenergizada ¿Cómo debo proceder para pedirles éste favorsote de forma formal?
+La cuadrilla tendría que viajar desde el Miércoles al medio dia para ejecutar los trabajos entre el jueves y viernes de la semana próxima.
+Se devolverían el viernes al mediodía y por acá les gestionaríamos viáticos y alojamiento.
+
+Atentamente,
+
+De: LUIS ALBERTO QUINTERO BEDOYA Enviado el: sábado, 25 de febrero de 2017 6:45 a. m.Para: MARITZA HELENA BACCA GAVIRIA <Maritza.Bacca@epm.com.co <mailto:Maritza.Bacca@epm.com.co>>CC: JUAN CARLOS YARCE URREA <JUAN.YARCE@epm.com.co <mailto:JUAN.YARCE@epm.com.co>>; JAVIER ALEXIS GIRON PEREZ <Javier.Giron@epm.com.co <mailto:Javier.Giron@epm.com.co>>; JAIME ALONSO YEPES LONDONO <Jaime.Yepes@epm.com.co <mailto:Jaime.Yepes@epm.com.co>>; CARLOS ALEJANDRO LARIOS RESTREPO <CARLOS.LARIOS@epm.com.co <mailto:CARLOS.LARIOS@epm.com.co>>Asunto: RE: Canasta
+
+Buenos días.
+Maritza, el recurso de canasta ya se coordinó, solo se requiere la desconexión de cuantos TC. ?? ??  . La idea es enviar dos operarios. Está bien???
+Favor me cuentas.
+Gracias.
+Saludos
+
+
+De: MARITZA HELENA BACCA GAVIRIA Enviado el: lunes, 27 de febrero de 2017 03:32 p.m.Para: LUIS ALBERTO QUINTERO BEDOYA <Luis.Quintero@epm.com.co <mailto:Luis.Quintero@epm.com.co>>CC: JUAN CARLOS YARCE URREA <JUAN.YARCE@epm.com.co <mailto:JUAN.YARCE@epm.com.co>>; JAVIER ALEXIS GIRON PEREZ <Javier.Giron@epm.com.co <mailto:Javier.Giron@epm.com.co>>; JAIME ALONSO YEPES LONDONO <Jaime.Yepes@epm.com.co <mailto:Jaime.Yepes@epm.com.co>>; CARLOS ALEJANDRO LARIOS RESTREPO <CARLOS.LARIOS@epm.com.co <mailto:CARLOS.LARIOS@epm.com.co>>; CESAR ROBERTO TRIVINO RAMIREZ <Cesar.Trivino@epm.com.co <mailto:Cesar.Trivino@epm.com.co>>; LUIS EMIRO PEREZ GALVIS <Luis.Perez.Galvis@epm.com.co <mailto:Luis.Perez.Galvis@epm.com.co>>Asunto: RE:Canasta
+
+
+Lo ideal por seguridad y rapidez sería trabajar en una canasta grande o pequeña con uno o dos operadores. 
+
+El objetivo es diagnosticar los tres interruptores de 250kV, y para ello, debemos desconectarlos de los CTs uno a la vez. Los interruptores están conectados a los CTs mediante un ducto conductor, y ya que suele pasar que esos tornillos se pegan, sería de gran ayuda la canasta. El trabajo para aislar éstos CTs es sin tensión.
+
+A continuación está cómo tenemos programados los trabajos:
+
+G250: Jueves 2 de marzo de 7:00 a.m. hasta las 12:00 p.m. Instalado en 1.997 ha presentado humedad y bloqueos para su operación por baja presión del gas.
+G150: Jueves 2 de marzo de 13:00 p.m. hasta las 18:00 m. Instalado en 1.997 ha presentado humedad.
+M050: Viernes 3 de marzo de 7:00 a.m. hasta las 12:00 m. Instalado en 1.997 ha presentado humedad.
+
+Para acometer esto, sería necesario que la grua con los muchachos viajaran desde el miércoles al medio dia de manera que puedan iniciar los trabajos el jueves por la mañana.
+Muchas gracias por su atención y quedo atenta a lo que puedan colaborarnos.
+
+
+De: LUIS ALBERTO QUINTERO BEDOYA Enviado el: martes, 28 de febrero de 2017 10:18 a. m.Para: MARITZA HELENA BACCA GAVIRIA <Maritza.Bacca@epm.com.co <mailto:Maritza.Bacca@epm.com.co>>CC: JAVIER ALEXIS GIRON PEREZ <Javier.Giron@epm.com.co <mailto:Javier.Giron@epm.com.co>>Asunto: RE: Indicaciones para llegar a La Sierra: Canasta
+
+Buenos días.
+Maritza, favor nos informa un circuito de la Sierra para poder hacer  la   OT.
+Gracias.
+Saludos
+
+
+De: MARITZA HELENA BACCA GAVIRIA Enviado el: martes, 28 de febrero de 2017 10:24 a.m.Para: LUIS ALBERTO QUINTERO BEDOYA <Luis.Quintero@epm.com.co <mailto:Luis.Quintero@epm.com.co>>CC: JAVIER ALEXIS GIRON PEREZ <Javier.Giron@epm.com.co <mailto:Javier.Giron@epm.com.co>>; RAFAEL SEGOVIA CARO <RAFAEL.SEGOVIA@epm.com.co <mailto:RAFAEL.SEGOVIA@epm.com.co>>Asunto: RE: Indicaciones para llegar a La Sierra: Canasta
+
+¡Hola!
+
+Pueden cargarse los trabajos a cualquiera de los siguientes equipos. Me cuentan por favor si tienen algún inconveniente o si obligatoriamente debe ser un circuito de distribución:
+
+EQUIPO/ACTIVO  INTERRUPTOR129687 G250129686 G150129685 M050
+Atentamente,
+
+
+
+
+
+
+
+
+De: LUIS ALBERTO QUINTERO BEDOYA Enviado el: martes, 28 de febrero de 2017 11:23 a.m.Para: DIANA PATRICIA RESTREPO SOLANO <DIANA.RESTREPO@contratista.epm.co>CC: JAVIER ALEXIS GIRON PEREZ <Javier.Giron@epm.com.co>; WILDER ANDRES JIMENEZ SANCHEZ <Wilder.Jimenez@epm.com.co>; MARITZA HELENA BACCA GAVIRIA <Maritza.Bacca@epm.com.co>; JAIME ALONSO YEPES LONDONO <Jaime.Yepes@epm.com.co>; RAFAEL SEGOVIA CARO <RAFAEL.SEGOVIA@epm.com.co>; CARLOS ALEJANDRO LARIOS RESTREPO <CARLOS.LARIOS@epm.com.co>Asunto: RE: Indicaciones para llegar a La Sierra: Canasta
+
+Buenos días.
+Diana, favor generar una OT para línea viva [8.4], con uno de los activos que no informa Maritza.
+Jaime Yepes, favor tener en cuenta para la programación de las cuadrillas de L.V para Generar Evento, salen mañana miércoles 01 de marzo y regresan el viernes 3 en horas de la tarde.
+Gracias.
+Saludos
+_____________________________________________________
+
+2017/03/02 k-70
+ se abrio el interrutor g250 para trabajos en subestacion la sierra.trabajos coordinados con Maritza Bacca. 2017-03-02 12:03:14 k-70 2305453
+
+2017/03/02 k-70 
+ se abrio interrutor g150 para trabajos en la subestacion la sierra.trabajos coordinados con Maritza Bacca. 2017-03-02 14:53:32 k-70 2306382
+
+cerrar
+

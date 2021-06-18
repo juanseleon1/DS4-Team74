@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en la supervisión de las actividades que relacionan la adecuación mecánica de los sellos de las compuertas de la capatación de Troneras por parte de la empresa contratista Hidrotech.
+
+
+
+Ot: 3628288 - Adecuación sellos compuertas - Programador: Camilo Montagut - 21/12/2017 
+
+Se cierra ot como finalizada ya que la actividad se terminó de realizar con la ot: 3661966 la cual fue la ot padre de todas las actividades que se realizaron en el paro de cadena del 20 de diciembre de 2017
+
+Ejecuta: equipo mantenimiento mecánico UOG

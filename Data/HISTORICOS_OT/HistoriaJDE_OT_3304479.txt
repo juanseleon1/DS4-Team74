@@ -1,0 +1,11 @@
+FECHA: 04/11/2016
+
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCION: FALLA LA RTD N°2 DE TEMPERATURA DE DEVANADO, CAUSANDO LECTURAS Y OSCILACIONES  ANORMALES,COLOCANDO EN RIESGO EL DISPARO DE LA UNIDAD POR TEMPERATURA MUY ALTA. 
+
+05/11/2016
+Se corrige el problema de medicion de la RTD del devanado de Estator, se encontro un de las compensaciones reventadas de la RTD desde adentro. se procedio a conectar en paralelo la otra compensacion al borne del modulo de RTD de la RIO. Se verifica la medida y se comprueba su estabilidad en el control, luego se procedio a habilitar desde la estacion de ingenieria.
+
+Ejecuto: Francisco Gonzalez - Eduardo Gonzalez
+Planeador: Oscar Arango

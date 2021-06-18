@@ -1,0 +1,14 @@
+
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN LA EJECUCION DEL MANTENIMIENTO CORRECTIVO EN LAS TUBERIAS, VALVULAS Y ELEMENTOS ASOCIADOS A LA ESTACION HIDRAULICA DE LA UNIDAD  
+
+Programador: Camilo Montagut - 15/09/2015
+
+Se realiza la correccción de las sigueintes fugas:
+
+- Fuga en el circuito hidáulico de la válvula de contrachorro. Se cierra la válvula principal ya que este sistema no está en funcionamiento (se aprovecha y se cierra la misma válvula en todas las unidades)
+- Fuga en prensa estopa en el servo de la aguja # 4
+- Fuga por los tapones para drenaje de la aguja # 3
+
+Es de aclarar que se dejan destapadas las tapas de los cárcamos de la estación hidráulica con el fin de verificar posibles fugas presentes en la tubería y acoples universales
+
+Ejecuta: equipo mantenimiento mecánico GIII

@@ -1,0 +1,8 @@
+
+SE CREA ESTA OT PARA EL CAMBIO DE SELLOS VALVULA ESFERICA G34 POR PRESENTAR FUGA DE AGUA HACIA LA TURBINA LO QUE IMPIDE EL MANTENIMIENTO DEL RODETE. 
+
+
+Nota:Se cambian cajas y sellos fijos y moviles aguas arriba y aguas abajo pertenecientes a la valvula esferica por repeuestos existentes.
+las pruebas de paralelismo del obturador denotaron paralelismo aceptable lo cual permitio el montaje de los sellos sin corregir el mencionado paralelismo.
+las pruebas de estanqueidad realizadas aplicando presion a los sellos (55 kgxcm2) fueron satisfactorias en tanto que no se presentaron fugas por la empaquetadura de los sellos e hicieron contacto el sello fijo y movil lo cual fue comprobado con galga de 0.05mm.
+una vezsta en operacion la valvula se comprobao la normal aplicacion de los sellos de servicio y de mantenimiento. 

@@ -1,0 +1,5 @@
+Planeador:William Archila Perez
+Aprobador:Gustavo Muñoz
+Fecha de solicitud:13-12-2016
+Tipo de mantenimiento: CorrectivO
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación Descarga, verificación de datos de la estación, Diagnosticar modo de falla, causa inmediata y causa básica en la estación, Reparación sistema de transmisión y Reparación sistema de potencia. 

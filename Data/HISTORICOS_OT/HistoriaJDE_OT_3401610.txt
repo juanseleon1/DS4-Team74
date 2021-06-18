@@ -1,0 +1,10 @@
+FALLA EN PROCESO DE ARRANQUE UNIDAD POR EL TCCC DE LA UNIDAD, VERIFICAR EL FLUJO ACEITE DE ESTE SISTEMA
+
+20/02/2017
+
+Se realiza la verificaicion de las condiciones de este sistema, se encuentra falla en el flujometro de aceite este possee el error de sensado , se verifca el sistema y se actualiza el flujometro, ademas de vaerifcar los sensores y temperaturas del algoritmo, se normaliza la medida quedando operativo este sistema. 
+
+
+realizado por Wtobonl
+
+terminada Cerrar

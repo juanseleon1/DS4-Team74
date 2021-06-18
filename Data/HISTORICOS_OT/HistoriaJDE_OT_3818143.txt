@@ -1,0 +1,45 @@
+FECHA: 19-03-2019  
+PROGRAMADOR: WILMER DAVID MENDEZ CARO 591910
+OT: 381 81 43
+EJECUTO: ANDRES ALZATE / GABRIEL BUSTAMANTE
+DESCRIPCION DE EVENTO: REVISION E INSPECCION DE GATOS HIDRAULICOS Y ZAPATAS.
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1: 19 MM_____________________
+
+Zapata No 2: 20 MM_____________________
+
+Zapata No 3: 20 MM_____________________
+
+Zapata No 4: 20 MM_____________________
+
+Zapata No 5: 20 MM_____________________
+
+Zapata No 6: 20 MM_____________________
+
+
+
+
+Observaciones:__HOROMETRO 40942.5 HORAS _______________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

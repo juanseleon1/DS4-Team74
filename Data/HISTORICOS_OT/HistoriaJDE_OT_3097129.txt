@@ -1,0 +1,14 @@
+2016/05/19 ANGEL ADONIS CADAVID OCHOA
+OT PASA A ESTADO PROGRAMACION
+
+2016/07/03 RUBEN ARBOLEDA
+Se realiza el pedido de 300 bombillos miniespiral, los cuales es necesario comprarlos para continuar con la reparación del alumbrado, esta reparación se inició en la OT: 2680482, queda pendiente de compra. 
+
+2016-08-16 REALIZÓ: DAVER MIRA - OSCAR LOPEZ -  JUAN CARLOS CIFUENTES,  PROGRAMO: ELONDOOC OT: 3097129, PASO:1
+Se realiza la adcecuación de lamparas tipo tortuga para la reparación del alumbrado de los verticales, adicionalmente se recibieron los bombillos, esta actividad es realizada por la cuadrilla móvil.
+
+2016/08/27 RUBEN ARBOLEDA
+Se pone la OT en estado 35, debido a que el personal de la cuadrilla movil se fue a laborar a medellín en atencion de otras centrales.
+
+2016/11/06 RUBEN ARBOLEDA
+Esta OT fue realizada por personal de la cuadrilla movil, Se terminó la labor completamente, Edwin Lopera registro los tiempos laborados, se cierra la OT.

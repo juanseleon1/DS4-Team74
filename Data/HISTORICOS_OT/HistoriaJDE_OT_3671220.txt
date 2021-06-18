@@ -1,0 +1,23 @@
+14/01/2018
+
+AJUSTAR EL AVR DE LA UNIDAD P21 SE ENCUENTRA FALLA EN EL PROCESO DE EXCITACION
+
+INFORMA TURNO 2 OPERACION 
+
+
+
+14/01/2018
+
+Se  se realizan pruebas verificaciones en los lazo de control para la indicacion de corriente  excitacion en el transductor UA02 y  el transductor UV30, se verifica tambien la entrada analoga  de la tarjeta analogas, se enceuntra falla en la tarjeta optica de pulsos para los tiristores en el canal 3 adicionalmente se cambia sintilla de conexion de la tarjeta entradas analogas COMBES con la  CPU. se realizan pruebas y se ajustan los canales de control en las variables Vm_min y V_SCL 
+
+queda normalizado y operativos ambos AVR de la unidad, para operar sin restrinciones 
+
+
+
+Realizado por Grupo electronico
+Informa  Wtobonl 
+
+
+
+TERMINADA CERRAR 
+

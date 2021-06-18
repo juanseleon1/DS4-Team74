@@ -1,0 +1,8 @@
+
+ MARZO 31 DEL 2015 / JEOVANNY CORREA GOMEZ
+
+Reviasr el control de la bomba de refrigeracion de la unidad G35,este da la orden de paro a la bomba.
+
+SE ATIENDE SOLICITUD Y SE ENCONTRO PROBLEMAS EN LA COMUNICACION, SE LE CAMBIA LA LOGICA DEL CONTROL Y EL SISTEMA SE NORMALIZA.
+
+REALIZO:UAIMER DIAZ   

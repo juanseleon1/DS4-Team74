@@ -1,0 +1,6 @@
+
+FECHA: 1 DE MARZO DE 2013
+
+EJECUTO: 
+ 
+Se coloca el LPC en el AG13 y se dispara el AG y se opto por alimentarlo directamente de la bornera de 110 voltios porque la ups están defectuosas  y hasta el momento esta trabajando bien la idea es colocarlo a 230 controlado con el contactor 34k2

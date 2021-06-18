@@ -1,0 +1,48 @@
+
+2018/08/14 _ CARLOS ENRIQUE MONCADA. OT N° 3753737.
+Se realiza inspección y verificación  a las comunicaciones del sistema, se verifican fallas, eventos y alarmas en los relés de protección de la celda , se realiza limpieza de la fibra optica y  estado del tablero. Se encuentra señal del carro de interruptor enganchado, esta señal se normaliza.
+
+Valores tomados:
+
+Voltaje R-S = 13.3 Kv
+V/I fase R = 7.7 V  - 4 A
+V/I fase S = 7.7 V  - 3 A
+V/I fase T = 7.6 V  - 4 A
+
+Alarmas: Recierre bloqueado.
+                 IED en Remoto.
+                 Fecha y Hora: Ok.
+Se encuentra cable suelto del borne 9 de la bornera R, ficha 135.
+Se desconecta cable de comunicaciones para verificar que la falla registre en el Relé y se normaliza.
+
+Realizo: Jeniffer García, Carlos Moncada
+
+FECHA: 09/08/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+REALIZAR CONSIGNACION LOCAL, PERMISO DE TRABAJO LOCAL CON LOS TECNICOS E INFORMAR A LOS OPERADORES DE LA CENTRAL
+
+REALIZAR MANTENIMIENTO E INSPECCION EN TABLERO CELDA H01 EN SUBESTACION 13.2 SAN BENIGNO 
+
+Realizar inspeccion y verificacion la comunicacion del sistema, verificacion de fallas, eventos y alarmas en los reles de protecciones de la celda , ademas de limpieza de la fibra optica y  estado del tablero.
+OJO NOTA: los reles  NO se deben  apagar y solo se realizara una inspeccion del sistema y anexar las notas de alarmas o fallas encontradas, ademas de los datos segun instructivo anexo a esta orden 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

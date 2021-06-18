@@ -1,0 +1,8 @@
+
+EL REGULADOR DE VELOCIDAD DE LA UNIDAD DE PAJARITO ESTA PRESENTANDO INCONVENIENTES PARA EL ARRANQUE DE LA UNIDAD
+SE REQUIERE SU REVISION 
+REPORTO:ELIAS SANCHEZ, ROBINSON LONDOÑO.
+
+
+FEB 13 DE 2017  OT: 3395635 PROGRAMO: E. SANCHEZ EJECUTO: E. SANCHEZ Y R. LONDOÑO
+La unidad de generación sale por presentar falla en el Regulador de Velocidad, se realiza maniobra de manera manual abriendo el distribuidor de la unidad para descartar falla mecanica por ruptura de pernofusibles o alabes atravezados la operación fue exitosa, se procede a bajar la tarjeta de posicion principal del distribuidor turbina se limpia y se resoldan puntos en la tarjeta; se instala nuevamente, se procede a revisar los sensores que se encuentran en el servomotor del distribuidor y se cambia el sensor de posicion variable, se resetean las alarmas y se da arranque a la unidad, esta sincroniza exitosamente

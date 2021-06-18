@@ -1,0 +1,24 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 29/06/2017
+
+MANTENIMIENTO PREVENTIVO PARA LOS EQUIPOS  - ELECTOMECANICOS ASOCIADOS DEL TELEFERICO.
+LOS RESULTADOS Y PRUEBAS, RELACIONARLOS EN LA PESTAÑA DE ANEXO Y EQUIPO.
+
+AGOSTO 3 DE 2017.
+Se realizó mantenimiento preventivo electrico y electronico a tod el sistema general del teleferico, se realizarón las siguientes actividades:
+ Mantenimiento general y pruebas electricas de resistencia de aislamiento, inductancia al motor principal.
+ Limpieza general a los tableros de control y potencia del cuarto de mando, contra estación y las dos cabinas del teleferico con su respectivas tarjetas electronicas y componentes electricos.
+ Calibración de los cargadores de baterías de las dos cabinas.
+ Ajuste de borneras de control y potencia en todos los tableros.
+ Mantenimiento general electrico a la planta de emergencia.
+ Mantenimiento a las baterías de as cabinas, contra estación y cuarto de mando.
+ Se instala dos tiristores de convertidore de frecuencia # 2 (ISU - INU) que se habian quemado.
+ Mantenimiento y calibración de los finales de carrera de las dos cabinas.
+ Manetenimiento a los sensores de descarrilamiento del cable portante en la torre.
+ Limpieza a carcamos y cables en las dos cabinas, contra estación y estación superior.
+ Pruebas de resistencia de aislamiento cable tractor y contra cable con valores resultantes de 180 KiloOhmios con 250 Voltios y 125 KiloOhmios a 250 Voltios respectivamente.
+ Pruebas de funcionamiento de los dos sistemas hidraulicos.
+
+Realizó: Grupo Eléctrico y electrónico.
+William Lopera.

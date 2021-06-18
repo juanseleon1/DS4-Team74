@@ -1,0 +1,10 @@
+
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717904.
+PLANEADOR: LUIS FEDERICO ALVAREZ A.
+Se realiza verificaciòn de los canales de comunicaciòn con fibra optica de los Relès SIPROTEC visualizandolos en display de relè, al finalizar se normaliza fibra optica. Se realiza actualizaciópn del DATE\ TIME del Relé  de supervisiòn de voltaje de barra (SIMEAS).
+Se verifican corrientes de cada tablero asociado, se verifica cableado y se realiza limpieza.
+REALIZO: Eladio Piedrahita, Jeniffer García.
+
+
+
+XL: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU CONTROL IHM PLC Y TM 1703 DE LA UNIDAD 4 P3.

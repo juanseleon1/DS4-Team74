@@ -1,0 +1,12 @@
+- FECHA : ENERO 10 DE 2017
+- PROGRAMÓ : MARIO G.B. 
+- REALIZÓ : PERSONAL MANTTO PLANTA + PERSONAL  CUADRILLA MÓVIL
+- ASOCIADO A LA OT : 3362955
+- ASUNTO : REALIZAR TRABAJOS VARIOS DONDE SE REQUIERE DESARMAR PARTE DE LA EXCITACIÓN 
+           1.BUSCAR LA CAUSA DEL BAJO AISLAMIENTO EN EL ROTOR 
+           2. OTROS TRABAJOS ASOCIADOS AL AISLAMIENTO ROTOR Y REALIZADOS POR LOS MECÁNICOS 
+
+Se encontrola causa del bajo aislamiento. Falla del aislamiento en una barra intermedia del circuito entre las escobillas y el rotor. Se reencita esta barra y queda OK. NDPT
+           
+
+           

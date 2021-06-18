@@ -1,0 +1,18 @@
+REVISAR SENSOR DE FLUJO VALVULA ESFERICA DE LA UNIDAD N 3
+FECHA PLANEACION MANTENIMIENTO: 11/09/2016
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: CARLOS ANTONIO SANCHEZ
+
+09 NOVIEMBRE 2016
+
+El miércoles 09 de Nov 2016 en el mantenimiento del instrumento transmisor de flujo rittmeyer, el cual mide el flujo de entrada a la válvula esférica de la U3 se evidenció un alto deterioro en algunos elementos sensores, esto debido a la humedad que se está filtrando a dicho elemento.
+Una pcb se logró recuperar y dos de ellas se reemplazaron por 2 de la unidad 4 que estaban deshabilitadas, con esto se dejó midiendo bien el transmisor. 
+debido a esto se deben tomar acciones preventivas, ya que son equipos muy costosos de gran importancia para el proceso.
+Como medida inmediata se optó por usar silicona líquida en el empalme de la coraza protectora con el elemento sensor, pero la idea es realizar una guarda ya sea en inoxidable, o acrílico de fácil desmonte que proteja cada elemento sensor.
+
+
+Realizo: JOHN JAIRO GONZALEZ VALENCIA
+         NESTOR OCHOA
+         
+         

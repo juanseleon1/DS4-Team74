@@ -1,0 +1,6 @@
+MANTENIMIENTO GENERAL BANCO TRANSFORMADORES CENTRAL PORCE 2.
+
+2015/12/10_ CARLOS ENRIQUE MONCADA.
+Se realiza mantenimiento semestral y se realizó por oportunidad la verificación a los transformadores de medida del Banco 2. Al momento de normalizar se presentó “ discrepancia frenos” , alarma que fue provocada por fusible averiado. Se cambió el fusible y la unidad queda con condiciones de arranque. Se sincroniza la unidad con 5 MW a las 18:48 evidenciando comportamiento normal de los sistemas. Se entrega la unidad al CCG y se levanta la consignación 115924 (P8  P22).      
+ OT padre: 2951949.   
+

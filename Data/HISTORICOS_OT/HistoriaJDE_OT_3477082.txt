@@ -1,0 +1,4 @@
+FECHA: MAYO 23/2017PROGRAMO: DANIEL PALACIOSEJECUTO: FRANCISCO QUINTERO.
+Se realiza inspección, limpieza y mantenimiento al tablero +TCD, a las acometidas de las motobombas y a los motores. A estos se les midió la resistencia de aislamiento y se llenaron registros con estos datos.
+
+XE: VERIFICAR Y MEDIR EQUIPO HIDRAULICO DESCARGA DE LA UNIDAD

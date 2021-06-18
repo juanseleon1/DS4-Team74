@@ -1,0 +1,46 @@
+ FECHA: 06/09/2017
+Se dá paro de emergencia en la unidad # 2 por FALLAS AGRUPADAS 
+TURNO OPERACION 2
+2017/09/06 _ CARLOS ENRIQUE MONCADA. OT N° 3590554
+
+FECHA: 06/09/2017  OT: 3590554 PROGRAMÓ: CRISTIAN A GÓMEZ H  EJECUTÓ: FRANK CÓRDOBA
+A las 8:41 aproximadamente se presentan salidas forzadas, con 135MW, de la las Unidades 1, 2 y 3. Inicialmente sale la unidad 3, luego la Unidad 1 y 2. Se verifican las alarmas en el sistema SCADA evidenciando la siguiente cascada de eventos:
+ Disparo Excitación U3
+ Paro Parcial 2 Unidad 3
+ Falla Interruptor de Grupo U3
+ Protección Disparo Paro de Emergencia U3
+ Sobrevelocidad Eléctrica U3
+
+ Disparo Excitación U1
+ Paro Parcial 2 U1
+ Falla Interruptor de Grupo U1
+ Paro de Emergencia U1
+
+ Fallas Agrupadas Digipid Regulador de Velocidad U2
+ Sobrevelocidad Mecánica U2
+ Sobrevelocidad Eléctrica U2
+ Paro de Emergencia U2
+
+**Límite Sobreexcitación Alcanzado, esto ocasiona apertura del Interruptor de Campo
+
+Se procede con la normalización de las unidades, iniciando con la Maquina 3. Se realiza el reset de los Paros, pero no se obtienen condiciones de giro (Grupo Listo) porque se encontraba la tarjeta PMCIR (Sobre Excitación Instantánea) activada/alarmada. Se realiza el reset de la tarjeta, la cual está ubicada en el tablero de Auxiliares del Regulador de Tensión (S1). Una vez realizada esta acción, la unidad queda con condiciones de arranque, luego se procede al giro y luego se sincroniza con 135 MW (Hora 21:14).
+
+
+A continuación, se procede a normalizar la Unidad 2. Se intenta realizar el reset de los paros, pero esta acción no es posible, se revisa completamente la unidad y se encuentra también la tarjeta PMCIR (Sobre Excitación Instantánea) activada/alarmada, se realiza el reset de esta tarjeta. En los Trafos de potencia se resetea la alarma de “ Bajo Flujo”  y “ Falla AC” . Adicionalmente, se rearma el dispositivo mecánico el cual operó por la sobrevelocidad mecánica. Una vez realizadas estas acciónes, la unidad queda con condiciones de arranque y se procede al giro, luego se sincroniza con 135 MW (Hora 21:51).  
+                  
+Finalmente, en la unidad 1 se intenta realizar el reset de los paros, pero esta acción no es posible, se revisa completamente la unidad y se encuentra también la tarjeta PMCIR (Sobre Excitación Instantánea) activada, se realiza el reset de esta tarjeta quedando la unidad sin Fallas pero sin Grupo Listo. Se revisa la unidad y se encuentra problemas con el instrumento de nivel de aceite del Cojinete de Turbina. Se inspecciona el instrumento y se le adiciona aceite al cojinete (6 Litros). Tambien es necesario realizar el reinicio de la IHM el programa Monitor Pro. Una vez realizada estas acciónes, la unidad queda con condiciones de arranque y se procede al giro y se sincroniza con 135 MW (22:00).
+
+Se presume que la causa del evento fue una fluctuación de tención en el sistema (Regulada)
+. 
+Número de OT: 
+ U1 3590550   
+ U2 3590552  
+ U3: 3590554
+
+Ejecutó:  Grupo Operación Turno 2 - Equipo Mantenimiento U.O.P
+Informó: Cristian Gómez - Carlos Moncada - Arley Baena.
+
+REFERENTE A LAS SALIDAS FORZADAS DE LAS UNIDADES 1, 2 y 3 Porce 2 de ayer 6/9/2017 a las 20:42:        
+Al analizar los eventos en el sistema SCADA de C/M P2, del CCG y de CC STN, se observó que a las 20:42 ocurrió un “ Recierre exitoso en ambos extremos por operación de protección Distancia Trifásico, Corriente Direccional y Envío/Recibo Disparo Transferido de las líneas LT220kV Occidente - Guadalupe IV y LT220kV Barbosa - Guadalupe IV por tormenta en la zona” .                                                                                                                                                                                                                     Este evento demandó en el sistema la regulación primaria. Las unidades 1,2 y 3 de Porce 2, alcanzaron el límite de corriente instantánea de excitación, provocando inicialmente el disparo de emergencia (86E2) en la unidad 2 por “ Protección sobre carga” , simultáneamente se ocasionaron paros parciales 2 (94P2) en las unidades 1 y 3 y luego los paros de emergencia (86E) en ambas unidades.                                                                                                                                                   Las unidades fueron restablecidas y sincronizadas en el siguiente orden: 21:14 la U3, 21:53 la U2 y a las 22:03 la U1.                                                                                                                                              Este evento causó una desviación de 420MWh durante los periodos 21 y 22 del 6 de septiembre.
+Informaron: Jorge Rodríguez, Cristian Gómez y Santiago Ramírez.
+NOTA: Se realizará verificación y ajuste de ser necesario en los parámetros de  “ corriente instantánea de excitación”  y “ protección sobre carga”    en los reguladores de tensión de las 3 unidades.     

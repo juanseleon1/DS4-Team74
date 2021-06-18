@@ -1,0 +1,9 @@
+FECHA: 06/03/2018 SOLICITADO POR: Natalia Urrea - Geovanny Echeverri - Gustavo Quintana
+
+DESCRIPCIÓN: Se presenta alarma por alta presión en el tanque acumulador del sistema hidráulico Unidad 4 de Guadalupe 3. La presión llegó hasta 28.5 Bar y el nivel 830mm. Se evidencia pase de aire por la electroválvula de inyección.
+
+
+22/06/2018
+
+Se desmonta la electrovalvula y se desarma encontrando suciedad en el sello lo que ocasionaba que quedara con pase y aumentara la presion del tanque.
+Se monta y se comprueba su normal funcionamiento. 

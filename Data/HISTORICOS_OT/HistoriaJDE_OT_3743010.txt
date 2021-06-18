@@ -1,0 +1,6 @@
+2018/07/07. JUAN C DUARTE MUÑOZ
+
+IDENTIFICAR Y CORREGIR POSIBLE FUGA DE SF6. SE ENCUENTRA ALARMA PRESIÓN BAJA SF6.
+
+2018-07-10 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3743010, PASO:1          
+Se realizó recuperación de SF6 en el Interruptor SB1 de cámara de válvulas, se encontró en 2.8kg/cm2 y se dejó en 5.3 kg/cm2, se dejó en condiciones normales.

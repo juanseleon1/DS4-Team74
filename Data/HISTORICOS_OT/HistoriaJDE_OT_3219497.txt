@@ -1,0 +1,12 @@
+21/08/2016. WALTER TOBON.
+
+REALIZAR MANTENIMIENTO AL SISTEMA DE CONTROL REMOTO DE LOS COMPRESORES AIRE SERVICIOS GENERALES Y DUCTOS DE BARRAJE DE SALIDA REALIZAR LIMPIEZA Y MANTENIMIENTO.  
+
+
+23/08/2016
+
+Se realiza mantenimiento e inspeccion al controlador y las comunicacion del sistema, se verifican los modulos de entradas y salidas , ademas la comunicacion con el sistema Scada . Se recomienda mejorar la temperatura en este sector del sotano 1 la cual permance alta por los compresores.
+
+Realizad por Wtobonl
+
+terminada cerrar

@@ -1,0 +1,10 @@
+REALIZAR CORRECTIVO EN PERDIDA DE COMUNICACION DEL PANEL DE CONTROL CON EL PLC OCTUBRE 23 DE 2017- WILLIAM LOPERA
+
+DICIEMBRE 01 DE 2017.OT.3632932
+Se monta nuevamente la HMI que se habia enviado a reparar a la ciudad de Medellin, se realizan pruebas de funcionamiente obteniendo buenos resultados, se resetea alarmas presentes y queda funcionando en condiciones operativas normales.
+Oscar Arango - William Lopera.
+
+OCTUBRE 24 DE 2017.
+Se reviso el sistema de control encontrando el puerto de comunicacion del panel de control con el PLC malo, lo que se procedio a desmontar la HMI para reparacion y bajar la informacion para instalar el programa en una nueva HMI. El teleferico queda operando por mando de sustituciòn hasta que se monte nuevamente la HMI reparada o una nueva.
+
+NOTA: La OT, queda abierta hasta que se restablezca el servicio nuevamente la HMI.

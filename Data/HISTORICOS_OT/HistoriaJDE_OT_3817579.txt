@@ -1,0 +1,6 @@
+09/03/2019
+Abad Ramirez Giraldo.
+El indicador de nivel muestra nivel alto de aceite en el transformador de potencia de la fase R, es necesario normalizar el parametro (Equipo en garantia).
+
+2019-03-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3817579, PASO:1          
+Se realizó extraccion de aceite al transformador del banco 1 fase R, el nivel estaba en 98,8% con temperatura de 47°C según la QTMS, se extrajo un total de 90 Litros, el nivel quedó en 85,0% con temperatura de 57°C.

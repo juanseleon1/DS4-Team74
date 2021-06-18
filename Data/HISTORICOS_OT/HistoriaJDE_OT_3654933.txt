@@ -1,0 +1,15 @@
+05/12/2017    
+En la subestación tablón se evidencia fuga de aceite en el compresor # 1 de las plantas de emergencia.
+PROGRAMADOR: FRANCIS LONDOÑO, 2017-12-16
+
+FECHA: 17/12/2017
+SE REALIZA PRUEBA DE RESISTENCIA DE AISLAMIENTO AL MOTOR DEL COMPRESOR N°2 CORRESPONDIENTE AL SISTEMA DE ARRANQUE DE LAS PLANTAS DIESEL S/E TABLÓN. SE ENCUENTRAN VALORES DE RESISTENCIA NORMALES (1.2 GOHM POR FASE).
+
+ADICIONAL, SE CORRIGE UN MAL CONTACTO ENTRE EL RELÉ TÉRMICO Y EL CONTACTOR  PRINCIPAL DE ARRANQUE. SE REALIZAN PRUEBAS DE FUNCIONAMIENTO AL EQUIPO (ARRANQUE Y PARO) SIN PRESENTARSE NINGUNA ANORMALIDAD. EL EQUIPO QUEDA EN CONDICIONES NORMALES DE FUNCIONAMIENTO. PRINCIPAL: COMPRESOR N°2 - RESPALDO: COMPRESOR N°1 
+REALIZA: equipo ELÉCTRICO U.O.P
+ INFORMAN: Cristian Gómez - Francis Londoño
+
+FECHA: 16/12/2017
+Referente a compresores de aire comprimido Plantas Diesel Subestación Tablón Se atiende requerimiento de OT para revision de fuga de aceite en compresor # 1. Al momento de probar se observa anormalidad en el arranque del mismo y se procede a darle tambien arranque al compresor #2 presentando la misma condición .                                                                              Interviene equipo eléctrico y encuentran en compresor # 2 cable flojo en bornera del contactor de ARRANQUE; se SOLUCIONA, pero el motor presenta calentamiento anormal por lo que se deja para mañana realizarle verificación con el megger.                                                El compresor # 1 queda operando en modo manual y la fuga de aceite se observa por el radiador. Pendiente intervenir                                                                                                              
+REALIZA: equipo de operación y mantenimiento UOP                                                                   
+ INFORMAN: Cristian Gómez - Francis Londoño

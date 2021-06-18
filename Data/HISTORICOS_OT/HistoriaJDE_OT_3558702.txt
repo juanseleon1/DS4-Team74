@@ -1,0 +1,6 @@
+05/08/2017 - Juan Camilo Montoya Fonnegra 
+Se presenta baja presión a la salida de la bomba e incremento en la temperatura del aceite. 
+Se realiza cambio de prioridad en el sistema; pero continua registrando aún una presion baja en el proceso. 
+
+2017/08/08. CARLOS SANCHEZ. 
+CON EL INGENIERO RENATO Y LOS MECANICOS SE REALIZA AJUSTE DE ACEITE AL SISTEMA NORMALIZANDO ASI LA BAJA PRESION PARA CONTINUAR CON LA GENERACION NORMAL.

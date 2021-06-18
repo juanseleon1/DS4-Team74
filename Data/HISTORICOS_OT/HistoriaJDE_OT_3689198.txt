@@ -1,0 +1,5 @@
+2018/02/18 PROGRAMO MAURICIO QUIJANO
+SE DISPARA LA UNIDAD 4 POR CIERRE DEL DEFLECTOR, SE TRATA DE ARRANCAR PERO NO ABRE EL DEFLECTOR.
+
+2018/02/19 Victor Zuleta / Luis Eduardo Arcila
+Se calibran los dos transductores del comando de deflectores garantizando el cero mecanico.

@@ -1,0 +1,8 @@
+ 
+ARREGLAR LA COMUNICACION DESDE EL CCM1 HASTA LA ESTACION DE OPERACION, PRESENTA PROBLEMAS.
+
+SOLICITANTE . IVAN FRANCO - FEDERICO MONTOYA.
+
+Se verifica funcioanmiento de las comunicaciones del PLC con el escada, se borran alarmas de los modulos en el PLC y se deja equipo opreando bien.
+
+Informa: Jorge Rodríguez 

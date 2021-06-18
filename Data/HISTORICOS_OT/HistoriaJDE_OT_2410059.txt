@@ -1,0 +1,12 @@
+
+Datos medidos:
+
+1. ANTES DE LIMPIEZA 
+ROTOR + BARRAJE 26 K
+ ROTOR  27 K
+BARRAJE 21,6 M
+2. DESPUES DE LIMPIAR
+ROTOR + BARRAJE 4,63 M
+ROTOR  7,08 M
+BARRAJE 4,93 G
+Realizó: Edwar londoño - Mario Restrepo - Fernando Ruiz

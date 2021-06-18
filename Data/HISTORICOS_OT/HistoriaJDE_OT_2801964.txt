@@ -1,0 +1,11 @@
+MIERCOLES 24 DE JUNIO DE 2015
+Se da paro rápido la unidad # 3 por alta temperatura, se dispara el interruptor de la bomba ATRA # 2 del subsistema # 2 de refrigeración y se cambia automáticamente al subsistema # 1. En el momento no se cuenta con un monitoreo de alarmas en la sala de operación.
+Los sistemas de refrigeración no tienen un sistema adecuado de ventosas para evacuar el aire que se acumula en el sistema por el proceso, razón por la cual al momento de cambiarse el subsistema de respaldo se sube súbitamente la temperatura por gran acumulación de aire en la tubería, esto genera un paro en la unidad. 
+Este evento genero una desviación de 41.2 MW
+Informó: Operación.
+16/07/2015. 
+En la entrega de turno se plantean modificaciones a realizar a las ventosas para evitar que se bloqueen mientras están evacuando aire. 
+1. Perforar esfera y agregar peso.
+2. Instalar placa deflectora con orificios para restringir el caudal de aire.
+3. Instalar te de derivación de 1/2" con válvula para purgar manualmente.
+Informó: Santiago Ramírez:

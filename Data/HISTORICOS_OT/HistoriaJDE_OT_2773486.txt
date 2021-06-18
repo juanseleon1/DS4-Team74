@@ -1,0 +1,18 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  COJINETE SUPERIOR UNIDAD GENERACION TRONERAS
+
+04/06/2015.
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+
+
+Se realizo mantenimiento según instructivo, no se encontró novedades, se inyectaron  con el calibrador de procesos los transmisores de temperatura Aceite 1, segmento Guía  1 y segmento Guía  3, segmento empuje 1, segmento  empuje 3 y segmento empuje 5  y se verificaron sus puntos de alarma y disparo y respondieron correctamente.
+El nivel de aceite se encontró en 393.6 mm su nivel patrón es de 375 mm.
+
+VIBRACIONES.
+CSL:9.65 VDC
+CSP: 7.83VDC, Se ajusto y quedo en 9.09 VDC.
+
+
+
+
+                        

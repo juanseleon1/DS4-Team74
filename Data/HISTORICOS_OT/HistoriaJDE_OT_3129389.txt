@@ -1,0 +1,4 @@
+MANTENIMIENTO PREVENTIVO NEUTRO TIERRA UNIDAD GENERACION
+
+Se realizó el mantenimiento preventivo según el instructivo se reaprieta tornillería, se toma la medida de resistencia óhmica con un valor de 0.2.
+

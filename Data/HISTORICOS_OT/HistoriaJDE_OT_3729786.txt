@@ -1,0 +1,18 @@
+SOLICITANTE:
+REALIZAR MANTENIMIENTO PREVENTIVO ANUAL SEGÚN PROCEDIMIENTO N°GAMTV0015 AL REGULADOR HIDRÁULICO DE LA UNIDAD DE LA CENTRAL NIQUÍA.
+FECHA PROGRAMADA MANTTO:  _______________
+
+JUN 20/2018 OT: 3729786 PROGRAMADOR: L ARIAS EJECUTO: A BERRIO
+
+HOROMETRO: 85274.35 + 24671
+
+SE HIZO INSPECCION VISUAL DE TODOS LOS ELEMENTOS DEL REGULADOR HIDRAULICO. SE EVIDENCIA EL EQUIPO EN BUENAS CONDICIONES PARA SU FUNCIONAMIENTO.
+
+JULIO 30/2018 OT:3729786  PROGRAMO: JGUINGUL  EJECUTARON: ALEXANDER VILLA - ANDRES YEPES
+Se verifica presostatos y manómetros del sistema (PUH) con la bomba de calibración hidráulica, y arroja los siguientes datos:
+Presostato (PUH) código: EB Presostato (PUH) código: EA36.1 34.8 32.2 32.6 Presostato (PUH) código: PD Presostato (PUH) código: PA34.6 35.9 30.9 33.2 
+Manómetro 70D Patrón 10bar 20bar 30barEquipo9.95bar 19.7bar 29.45barManómetro ReservaPatrón 10bar 20bar 30barEquipo10.11bar 20.2bar 30.1bar
+
+
+
+

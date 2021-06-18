@@ -1,0 +1,5 @@
+SOLICITANTE: OPERACIÓN TURNO 3 FG-ARFECHA: 20/01/2018
+
+Radiador 1 presenta fuga de agua que se filtra y cae al nivel inferior al costado trasero del recinto de turbina. Requiere correctivo.
+
+Nota: se corrige mediante la ot 3758910 

@@ -1,0 +1,8 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DEL COJINETE INFERIOR
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el cambio del cojinete inferior ya que el que se encontraba en la unidad presentaba fallas estructurales en la aplicación del babbit. Se registra que el nuevo cojinete entregado por la empresa ASTECO y fabricado por la empresa ESPITIA presenta algunas deformaciones en la aplicación del babbit
+
+Ejecuta: equipo mantenimiento mecánico GIII

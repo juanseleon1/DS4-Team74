@@ -1,0 +1,13 @@
+MP ANUAL, EQUIPOS:
+384782 RODETE PELTON U1 G3
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:SERGIO RAMÍREZ
+
+26/11/2018
+
+A las 37567.57 horas de servicio del Rodete Pelton 65571 marca Voith se revisaron cangilones alternados encontrando sombras en la parte posterior de la escotadura en todos los cangilones y cavitación en el cangilón 18, los demás cangilones se encuentran en buen estado (ver registro archivado en la planoteca de G3).
+Se realizó inspección visual, chequeo de fisura con líquidos penetrantes y partículas magnéticas por parte de ASTECO no encontrando fisuras.
+(ver informe archivado en el servidor de la central).
+Se repara el piso o rejas de inspección soldando 16 platinas 

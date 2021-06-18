@@ -1,0 +1,8 @@
+2019/01/29 RUBEN ARBOLEDA OT: 3806013
+Se crea OT para realizar el desarme de los barrajes de salida/neutro para que el personal de Analisis e ingeniería realice las pruebas electricas al estator. 
+
+2019-01-29 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3806013, PASO:1          
+Se realizó desarme del barraje de salida y de neutro de la Unidad 3, para realizar pruebas electricas al estator.
+
+2019-01-29 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3806013, PASO:2          
+Se realizó el armado del barraje de salida y de neutro de la Unidad 3, se dejó en condiciones normales.

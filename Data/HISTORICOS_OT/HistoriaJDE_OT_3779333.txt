@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 27/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ.
+
+Se realiza limpieza y revisión a los tableros TEC y MIBA, se realiza inspección y limpieza al transformador se detectan fugas que están siendo monitoreadas, se inspeccionan pararrayos y GIS, bridas de soporte y tornillería, se realiza mantenimiento a válvulas motorizadas, se llena reporte de revisión del transformador y reportes de revisión de los motores de las bombas (3) y de las electroválvulas (8).
+Trabajo ejecutado por: Yoanis Rodriguez, Julio Parra y Jorge Parra
+
+XE: INSPECCIONAR Y LIMPIAR TRANSFORMADORES DE POTENCIA BCO 2 DE LAS UNIDADES 3 Y 4
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

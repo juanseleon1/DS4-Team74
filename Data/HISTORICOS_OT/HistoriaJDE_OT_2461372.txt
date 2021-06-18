@@ -1,0 +1,26 @@
+Realizar adecuacion de cajas para conectar disparos de CO2 de generadores 
+
+UNIDADES DE GENERACIÓN.
+
+·Se conectaron los disparos de las unidades de generación  cuando actúa la protección diferencial  y al mismo tiempo se activa un sensor térmico o el detector de humo  de aspiración cuando llega al nivel 10 de alarma.
+·Se conecto la señal que llega al saco de alarmas de cada uno de las unidades de generación por disparo de CO².
+·Se conectó la señal que llega a cada uno de los controladores de unidad de las unidades de generación por disparo de CO².
+TABLEROS CRITICOS
+
+Se habilitaron los módulos R2M ubicados en las cajas de integración de las unidades de generación, los cuales indicaran en la estación de operación en el listado de alarmas por medio de la entrada digital U8.25 alarma sensor de humo  y al mismo tiempo se activara la sirena en la unidad correspondiente cuando se active un sensor de humo. De este modo no quedaremos limitados a identificar en que punto hubo una alarma de humo en los tableros críticos, hay que recordar que en el momento que se presentaba una alarma de humo en este sistema por estar las señales audiovisuales en la parte posterior (atrás) de los tableros se dificultaba identificar inmediatamente donde era, con la nueva implementación será más fácil y rápido.
+A diferencia de la programación de descarga de CO² de las unidades de  generación y banco de transformadores el sistema de tableros críticos (entendiendo por tableros críticos todos los tableros de los contraladores de unidad, tableros de regulador de tensión, tableros de interruptor de unidad, DP1, DP2, auxiliares de 13.8Kv y 208vAC)  no tiene descarga automática, la descarga es manual mediante las estaciones manuales que se encuentran con el nombre " FIRE SUPPESSION SYSTEM RELEASE"  ubicadas en la parte posterior (atrás) de las unidades de generación. Cuando se genere una alarma detectada por los sensores de humo hay que identificar en que tablero fue dicha alarma, si fue en el tablero del controlador de unidad, tablero regulador de tensión o tablero de interruptor de unidad; dicha alarma se identifica en el display que se encuentra en el tablero a la entrada de las oficinas de instrumentación o en el display ubicado en el tablero de la sala de operación. Acto seguido se determinara si es real o no la alarma y si amerita descarga de CO². 
+La descarga de CO² no se realiza de cualquier estación manual, se realiza de la estación manual asociada a el tablero que presento la alarma. Es de anotar que en los tableros DP1, DP2 auxiliares de 13.8Kv y 208vAC aún no se ha instalado ningún sensor solo en los críticos de las unidades de generación.
+
+Se han marcado cada una de las estaciones manuales de los tableros críticos para su fácil identificación y evitar descargas erróneas.
+Las cajas de integración tanto de banco de transformadores  como unidades de generación han quedado alambradas con borneras seccionables para efecto de mantenimiento y pruebas, llegando todas las señales de campo a dicha bornera con el nombre de CX 1 y; saliendo de esta bornera a  los módulos R2M.
+Cada uno de los módulos R2M se probó su cambio de estado produciendo las acciones mencionadas anteriormente cuando se genera una descarga de CO², al mismo  tiempo se probaron las válvulas solenoides de los pilotos de nitrógeno  para garantizar que si halla descarga de CO²  cuando se den las condiciones de descarga según programación tanto el principal como el de respaldo. 
+
+Quedan actualizados los planos de los bancos de transformadores y las  unidades de generación, los planos de las cajas de integración, tablas de cableado y toda la información del nuevo sistema de CO² queda guardada en una carpeta con el nombre de CO² en el computador industrial.
+
+
+Nota: Se le indicó a cada uno de los turnos de operación el modo de funcionamiento del sistema de CO²  de los tableros críticos y se les mostró en sitio cada una de las estaciones manuales de descarga.
+
+
+Realizó: Juan David García - Edwar Londoño
+Coordinó: Cesar Hoyos
+Planeó: Ruben Arboleda

@@ -1,0 +1,12 @@
+NOV 1  DE 2017  PROGRAMÓ: JGUINGUL     EJECUTARON: ALEXANDE VILLA 
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de: Cojinete Excitación U2 S1Equipo 60°C 65°C 75°C 80°CTemperatura metal 59.2°C 64.2°C 74.2°C 79.2°CTemperatura Aceite 59.1°C 64.1°C 74.0°C 79.2°CValor programado Alarma:Aceite: 60°C OKValor programado Disparo:Aceite: 65°C OKValor programado Alarma:Metal: 75°C OKValor programado Disparo:Metal: 80°C OKComentarios:Sin novedades
+
+
+
+
+
+  
+
+

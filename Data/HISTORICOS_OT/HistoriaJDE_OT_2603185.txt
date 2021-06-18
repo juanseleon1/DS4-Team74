@@ -1,0 +1,10 @@
+2014/09/18 RUBEN ARBOLEDA
+En la ejecución de la OT: 2585751 se evidenció un alta temperatura descrita a continuación: 
+CW1 PEINETA DE SALIDA
+La temperatura de la peineta de salida se encuentran en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° =30°C con respecto a las otras peinetas con iguales características, lo cual implica una deficiencia mayor en la operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2014/09/18GIOVANNY DIAZ - EDWAR LONDOÑO OT: 2603185
+Se realizó desmontaje de la gaveta y se instaló una de reserva de II etapa, se realizó limpieza y cambio de peineta de potencia a la salida queda pendiente realizar inspección termografica para determinar mejora. 
+
+2014/09/19 GIOVANNY DIAZ - EDWAR LONDOÑO OT: 2603185
+Se relizó inspección termografica y se encontró que la temperatura bajo considerablemente a 37° en servicio. no se realizó informe. 

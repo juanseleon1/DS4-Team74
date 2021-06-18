@@ -1,0 +1,5 @@
+FECHA: NOV. 04/2013 PORGRAMADOR: Daniel Palacios O.EJECUTANTE: Diego A. Restrepo.
+Se hacen trabajos segun instructivo, se toman registros a los motores y sellenan registros. En el instructivo se debe cambiar: "el Q01 de motobomba olehidraulica por Q02 y el Q04 de calefacción motobomba 2 por el Q05". 
+
+
+XE: VERIFICAR Y MEDIR EQUIPO HIDRAULICO DESCARGA DE LA UNIDAD

@@ -1,0 +1,17 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+FECHA: 07/11/2018
+
+Se realizó mantenimiento al tablero de control del regulador hidráulico Y pantalla de visualización, se encontró todo normal.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura de la unidad, 
+Se hace verificación de posición de distribuidor.
+
+Se realiza cambio de sensor de vigilancia de posición de la válvula distribuidora, reemplazando el sensor resistivo, por un sensor inductivo que ofrece mayor confiabilidad al proceso, durante el procedimiento; se desconectan las señales asociadas al sensor resistivo, se realiza conexión  y calibración del nuevo sensor inductivo.
+Se realizan los ajustes de la nueva señal de posición de la válvula distribuidora a través de los potenciómetros TP3 y TP5 de la tarjeta AMP2.  Arrojando los siguientes resultados:
+Tabla de ajustes con sensor inductivo:
+V_ in bornes B68 (+) y B67) Voltaje de salida borne B142  Posición v. distribuidora2.0 VDC -8.0VDC -100%4.3VDC 0.0VDC 0%6.6VDC 7.71VDC 97%
+este cambio queda documentado en la siguiente ruta:
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\07 REIVAX GUATRON\Reguladores Reivax_G3 Y G4\GUADALUPE 4\DOCUMENTACION G4.
+Se realiza calibración de sensor inductivo Perno Fusible 12.
+
+PROGRAMO: LUIS ADRIAN CARDONA

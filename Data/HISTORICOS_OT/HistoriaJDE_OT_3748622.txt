@@ -1,0 +1,9 @@
+MANTENIMIENTO ANUAL BARRAJE DE SALIDA 
+AGOSTO 09 A 11 DEL 2018
+Se realiza mantenimiento preventivo según instructivo GCG3E0001. Se revisan el estado de los aisladores de apoyo, juntas de dilatación, estado de ajuste de las conexiones. Se revisan los CT's (se petrolizan con dieléctrico como mejora implementada) verificando estado de porcelanas, cableado y conexiones, se limpian los pararrayos y sus alrededores. Se revisan los PT's, los fusibles, conexiones, se revisan los puntos de conexión en la salida del generador. No se evidencian anomalías. 
+
+Nota: se desconectó el barraje para realización de pruebas electrica, después de finalizadas las pruebas se normaliza. 
+
+Programador: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Daniel Arango
+

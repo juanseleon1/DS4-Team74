@@ -1,0 +1,8 @@
+2017-09-12 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3503532, PASO:1          
+Se realizó revisión general del freno del puente grúa La Clara, se encontró aparente falla en la tarjeta, se desmontó para su revisión.
+
+2017-09-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3503532, PASO:2          
+Por parte de Luis Eduardo Arcila se realizó revisión general de la tarjeta electrónica, se encontró en condiciones normales, se realizó la instalación de la tarjeta y prueba, el freno no se está actuando, queda pendiente continuar.
+
+2018/04/18 RUBEN ARBOLEDA
+Se cierra ésta OT, no se ha continuado por falta de recurso disponible.

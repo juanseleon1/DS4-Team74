@@ -1,0 +1,14 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704928, PASO:1          
+Se realizó mantenimiento preventivo al transformador de excitación de la unidad 7, se realizó medida de aislamiento así: 
+Alta - Baja: 6,74GOhm DAR: 1.00 IP: 1.2
+Alta - Tierra: 106MOhm, DAR: 1.00 IP: 1.00
+Baja - Tierra: 1.282MOhm IP:7.90
+Para estas medidas se realizó la desconexión del lado de alta, adicionalmente se realizó limpieza general
+ 
+2018-04-16 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704928, PASO:2          
+Se continuó con el mantenimiento del transformador de excitación, se limpio exteriormente y se dejó todo tapado y disponible.
+2018-05-26 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704928, PASO:3          
+Se realizó medida de IP al transformador de excitación de la Unidad 7, se encontró en 7,22MOhm, se dejó calentando con 2 turbo calentadores para mejorar el aislamiento.

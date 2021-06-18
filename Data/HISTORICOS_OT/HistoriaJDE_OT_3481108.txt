@@ -1,0 +1,30 @@
+REVISAR CONTROL DE NIVEL POZO DE DRENAJE
+FECHA PLANEACION MANTENIMIENTO: 13/05/2017
+PLANEADOR: WALTER WILMAR TOBON
+
+PROGRAMADOR: JOHN JAIRO GONZALEZ V.
+
+
+
+
+Realizado por: WALTER WILMAR TOBON
+                              ELADIO PIEDRAHITA
+
+
+13/05/2017
+
+ Se encuentra falla en el programa de este proceso, por problemas en la última configuración, se encontró el flotador movido y el sensor de bajo nivel malo, este se reemplaza y se ajustan los niveles de los sensores al igual que el nivel de la sonda, el sistema queda operativo y en observación, nivel de sonda bajo 32% alto 80%, nivel de flotadores bajo 25% alto 85%.
+
+se encontro el programa incompatible, favor evitar descargar versiones de programa que no correspondan o preguntar antes de realizar estas labores  
+
+
+Realizado por Wtobonl
+
+terminada cerrar 
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

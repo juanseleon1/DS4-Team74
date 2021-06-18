@@ -1,0 +1,7 @@
+
+FECHA: MAYO 6 DE 2015 OT: 2761397
+
+EJECUTANTE: HENRY GIRALDO Y ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+Por presentarse paros por corrientes asimétricas se procede a revisar los condensadores, se encontraron 8 marcando bien las corrientes y cuatro desbalanceados, de los 8 con corrientes buenas 7 no mostraban medida de potencia reactiva, se intercambió el MFR con el del AG5 pero siguió lo mismo, se procede a colocar 9 condensadores buenos y queda trabajando bien, se coloca nuevamente el MFR original.

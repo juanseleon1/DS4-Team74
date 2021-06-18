@@ -1,0 +1,16 @@
+JHON MARIO PEREZ ARENAS. FEB 14 DE 2017
+
+APARECE CONTINUAMENE LA SEÑAL U2-8.69 DE VALVULA ESFERICA CERRADA. LLENA PAGINA DE EVENTOS. 
+
+16/02/2017 
+Se encuentra canal malo de la tarjeta DSDI110A, se cambia para el canal U2-8.76 se programa en el controlador quedando en condiciones normales. 
+Cesar Tulio 
+Learcilas
+JHON MARIO PEREZ ARENAS. FEB 14 DE 2017
+
+APARECE CONTINUAMENE LA SEÑAL U2-8.69 DE VALVULA ESFERICA CERRADA. LLENA PAGINA DE EVENTOS. 
+
+16/02/2017 
+Se encuentra canal malo de la tarjeta DSDI110A, se cambia para el canal U2-8.76 se programa en el controlador quedando en condiciones normales. 
+Cesar Tulio 
+Learcilas

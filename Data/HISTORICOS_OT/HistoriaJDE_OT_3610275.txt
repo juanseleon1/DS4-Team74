@@ -1,0 +1,8 @@
+
+2017/28/09  Luis E. Arcila OT 3610275
+
+Falla el controlador de la unidad 4 quedando en error 88
+se cambia tarjeta DSCA-140 quedando en condiciones normales. 
+
+
+

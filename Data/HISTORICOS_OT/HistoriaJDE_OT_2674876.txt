@@ -1,0 +1,43 @@
+- FECHA : DOMINGO  FEBRERO 08 DE 2015
+- REALIZÓ : ANDRÉS ZAPATA - VICTOR ZULETA
+- ASOCIADO A LA OT : 2674876
+- ASUNTO : HACER MANTTO MP 
+
+** MANTTO CONTROLES 
+    - Mantto interruptor : sí                 - Mannto contactores : sí
+    - Revisión cableado : sí                - Revisión conexiones y tornillería : sí
+
+** MOTOR
+     - Aislamiento con respecto a tierra ( debe dar un valor alto , tendiendo a infinito ) 
+     - Valor : 2.13 Goh
+
+** VALORES DE VOLTAJE Y CORRIENTE ( comparar con datos de placa )
+     * Voltaje 
+       - RS : 467.0 V
+       - ST : 469.0 V
+       - RT : 468.1 V
+
+     * Corrientes 
+       - Corriente arranque fase R : 147.2 amp.
+       - Corriente de funcionamiento fase R : 27.5  a
+       - Corriente de funcionamiento fase S : 26.0  a
+       - Corriente de funcionamiento fase T : 27.0  a
+
+** TEMPERATURAS Y OTRAS VARIABLES 
+    * Temperatura excesiva carcaza : nó
+    * Temperatura excesiva cojinetes : nó
+    * Vibración anormal : nó
+    * Ruido anormal : nó
+
+** TÉRMICOS 
+     * Calibración térmico control : 0.75
+     * Calibración térmico potencia : 63 a  
+
+** HORÓMETRO : 99344
+
+** Funcionamiento de control normal : sí
+
+** OBSERVACIONES : la medida de aislamiento se toma desde el tablero de control  . Se toman medidas de temperatura 
+    con la cámara termográfica Flike
+    - Temperatura carcaza : 59 ° C
+    - Temperatura cojinetes : 61 ° C

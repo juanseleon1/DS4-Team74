@@ -1,0 +1,2 @@
+2017/10/06 RUBEN ARBOLEDA
+En la OT 3526030 se evidenció falla en la bobina 20SVo, se hace esta OT para reemplazarla. 

@@ -1,0 +1,9 @@
+2018/01/20 OT:3620951  EJECUTÓ: VICTOR A. ZULETA
+se atiende la correccion de la UPS con la siguiente  OT: 3641234, En ella que reportado su respectivo informe.
+
+
+2017/10/08. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR FALLA DEL INVERSOR PRINCIPAL POSIBLEMENTE A LA SALIDA.
+
+SE DEJA EN ESTADO 35 POR FALTA DE RECURSO.

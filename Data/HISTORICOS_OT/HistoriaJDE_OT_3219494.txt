@@ -1,0 +1,12 @@
+21/08/2016. WALTER TOBON.
+
+REALIZAR MANTENIMIENTO AL SISTEMA DE CONTROL REMOTO DE LOS COMPRESORES TIAT INYECCION PARA LA TURBINA, REALIZAR LIMPIEZA Y MANTENIMIENTO.  
+
+
+22/08/2016
+
+Se realiza mantenimiento e inspeccion al controlador y las comunicacion del sistema, se verifican los modulos de entradas y salidas , ademas la comunicacion con el sistema Scada y la IHM local, durante este proceso falla la Fuente D01 de 24 Vdc y se realiza cambio de esta por una nueva, el sistema queda operativo y se entrega al personal de opeacion.
+
+Realizad por Wtobonl
+
+terminada cerrar

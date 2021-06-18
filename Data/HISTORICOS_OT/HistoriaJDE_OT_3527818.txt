@@ -1,0 +1,9 @@
+VERIFICAR INSTRUMENTACION TRANFORMADOR
+JULIO 31 DE 2017 OT: 3527818 PROGRAMO: JGUINGUL EJECUTO: ALEXANDER VILLA 
+Se realiza verificación de señales Alarmas y Disparos del transformador de Potencia las cuales se encuentran en buen funcionamiento.
+ALARMAS
+
+DESCRIPCION  VERIFICACION 1. Máximo nivel de Aceite OK2. Alta temperatura de Aceite 70°C OK3. No tiene temperatura Devanado ----4. Alarma Relé Buchholz OK
+DIAPAROS PROTECCIONES MECANICAS
+
+DESCRIPCION VERIFICACION 1. Mínimo nivel de Aceite OK2. Muy Alta temperatura de Aceite 75°C OK3. No tiene temperatura Devanado ----4. Disparo Relé Buchholz OK5. Disparo Válvula de Sobrepresión OK 

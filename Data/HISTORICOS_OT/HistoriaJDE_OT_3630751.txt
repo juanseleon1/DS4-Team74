@@ -1,0 +1,11 @@
+Se crea ot para el registro de tiempos y actividades en la ejecucción del mantenimeinto correctivo que relaciona el cambio del rodete pelton marca HITACHI de referencia M-845  por el rodete pelton marca Hitachi de referencia M-847.
+
+Nota:
+
+Por presentar desgaste los cangilones del rodete Pelton M-845 con 104290.89 horas de servicio marca Hitachi se cambia por rodete Pelton marca hitachi M-874 con 
+58788 horas servicio.
+Al Rodete montado ( M-874 ) le fueron realizadas pruebas por ASTECO con el siguiente diagnostico:
+
+No se detectan fisuras, ni ninguna otra indicación en los bordes, estrados ni
+entalladura de los cangilones mediante partículas fluorescentes. Se encuentran indicaciones no relevantes por medio de ultrasonido convencional, estas indicaciones no deben ser intervenidas, porque son aceptables por las normativas aplicables.
+  

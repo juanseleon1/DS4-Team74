@@ -1,0 +1,10 @@
+SOLICITANTE:
+
+SE OBSERVA ALTO GRADO DE SUCIEDAD POR ACUMULACIÓN DE POLVO DE ESCOBILLAS EN LOS ANILLOS ROZANTES Y PORTA ESCOBILLAS DEL SISTEMA DE EXCITACIÓN,  LAS ESCOBILLAS N° ( 1, 2, 3, 4, 5, 10, 12, 13 y 14) PRESENTAN MAYOR DESGASTE, LA ESCOBILLA N°14 NO ESTÁ HACIENDO CONTACTO CON EL ANILLO.  NOTA: EL DIA 26 DE MARZO SE REGISTRÓ LA RESISTENCIA DE AISLAMIENTO ROTOR (296.2K) El dia de hoy (02 ABRIL SE ENCUENTRA EN  73.6k) El DISPARO DE LA UNIDAD POR BAJO AISLAMIENTO ESTÁ EN (+/- 8K)
+
+REPORTA: ERNEY ANT BETANCUR B.
+
+
+Se realizará reposición de las escobillas que se encuentren en grosor inferior a 35 mm el dia 04 de abril de 2018 con el apoyo del operador. Se realizará aplicación de dielectric para la correspondiente limpieza y se tomarán medidas para el seguimiento.
+
+JEFFERSON ENRIQUE CARDENAS LEÓN

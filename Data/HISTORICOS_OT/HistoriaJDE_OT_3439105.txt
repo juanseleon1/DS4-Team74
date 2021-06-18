@@ -1,0 +1,12 @@
+
+ 29/03/2017. SERGIO OLIVARES D.
+
+ Se pide abrir el banco para poder realizar apertura del seccionador fusible del transformador TSA1, y 
+ realizar mantenimiento tanto al TSA1 como al Seccionador
+
+ 30/03/2017. SERGIO OLIVARES D.
+
+ Se abrio el cubiculo del seccionador y se evidencio platina de fundicion del baquerilaje de operacion que se  une con el brazo escualizable que da operacion al seccionador, reventada. Se fabrica una platina es aluminio
+ y se coloca nuevo. Un tope de accionamiento del lado derecho del varilaje frontal se encontro reventado, se  soldo y se coloco de nuevo. Se prueba el seccionador para la apertura y cierre y se detecta que queda  bloqueado al cierre. Se hicieron varias pruebas y no se pudo calibrar adecuamente por falta de tiempo y  cumplimiento de la consignación. Personal ejecutor: Edwar Londoño, Juan David García, Ruben Arboleda, 
+ Sergio Olivares, Cesar Hoyos, se creo la OT: 3441493 para continuar con la calibración.
+  

@@ -1,0 +1,12 @@
+Planeador:Raul Mauricio Alvarez Alvarez
+Aprobador:Raul Mauricio Alvarez Alvarez
+Fecha de solicitud:2018/09/05
+Tipo de mantenimiento: Preventivo
+Capacitación en presa Miraflores en mantenimiento preventivo de equipos sísmicos a personal de seguridad de presas: Juan Alejo Osorio, Juan David Correa, John Fredy Gomez y Wilson Efraín Morales.
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Limpieza de la estación
+ Descarga de datos de la estación
+ Actualización de programa de la estación
+ Actualización de sistema operativo del digitalizador
+ Análisis de datos de estado del equipo y comunicaciones
+ Calibración de sensores

@@ -1,0 +1,19 @@
+FECHA: ENERO 27 DE 2015
+HORA: 08:40
+Horas de servicio de la unidad: 71753
+
+Se da paro a la unidad 1 a las 8:40 debido a paro de emergencia transferido desde la subestación generado por apertura del interruptor de 125 DC en el tablero del sincronizador. Luego del paro se identifica una falla en el interruptor de campo.
+
+Se realiza cambio de la unidad de control del interruptor de campo normalizando el regulador de tensión.
+
+Se realizan pruebas con mando local de apertura y cierre del interruptor de campo sin tensión, se verifica operación adecuada. 
+
+Se da orden de arranque a la unidad verificando tensión normal.
+
+Se sincroniza y se carga con 135MW a las 13:18
+
+Informa: Fernando Vasquez, Richard Jimenez y Jairo Guinguer.
+
+Nota: Se redespacharon los periodos 13,14,15.
+
+Elabora OT: Santiago Ramírez.

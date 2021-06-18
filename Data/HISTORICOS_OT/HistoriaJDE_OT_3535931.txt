@@ -1,0 +1,6 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 10-07-2017
+Tipo de mantenimiento: Correctivo
+Desmonte de equipos o estación
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estacion,No tx.

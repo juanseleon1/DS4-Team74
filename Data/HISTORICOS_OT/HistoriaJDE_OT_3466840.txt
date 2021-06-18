@@ -1,0 +1,26 @@
+XM: BLOQUEOS ELECTROMECANICOS DE LA UNIDAD GENERADORA 2 A INTERVENIR
+PLANEADOR: FEDERICO ALVAREZ
+PROGRAMADOR: OSCAR PARRA
+FECHA: 2017/05/08
+
+Referente al mantenimiento anual Unidad No 2 de Porce III:
+09:00 Se bloquea la unidad Nº2 y se entrega para mantenimiento anual. Consignación: C0135889.
+17:07 Se realizan las maniobras operativas para normalizar la S/E de 500KV y se energiza el banco de trasformadores Nº1. 
+Inspección de los tercios del estator y el rotor con las actividades que están descritas en el documento maestro del mantenimiento de las unidades de Porce 3 -  Se realizan pruebas eléctricas al estator y rotor (DAR - IP - Resistencia Óhmica estator y rotor - Resistencia de aislamiento - Surge - Test)                                       -  Se realizan pruebas de disparo de la unidad.                                                          -  Se realiza metrología a la instrumentación de la unidad.                                            
+- Realizo: Equipo de mantenimiento electrónico - mecánico - eléctrico.
+
+Informó: Jefe de trabajo: Luis Federico Álvarez Alvarez.
+
+Referente al mantenimiento anual banco de transformadores de potencia Nº1 de Porce III: Se realizó el mantenimiento preventivo anual del banco de transformadores Nº1 que incluye los siguientes trabajos:                                          * Mantenimiento eléctrico, electrónico, e instrumentación y metrología.                    * Mantenimiento e inspección de los cables de potencia y GIS (Gas Insulated Switchgear) de transformador y terminales exteriores a 500KV.                                *Pruebas de disparos transferidos por baja presión del SF6. Consignación Nº 135878.                                                                                                                     *En el portal de salida , inspección y limpieza de aisladores poliméricos a 500KV, trabajos realizados por la cuadrilla de mantenimiento de S/E y líneas de TyD          * En el pórtico y estructura de llegada de la S/E de 500KV, inspección y limpieza de los aisladores poliméricos. Trabajos realizados por la cuadrilla de mmto S/E y líneas de TyD.   
+17:46 Se sincroniza la Unidad Nº1.
+                                                           
+Referente al mantenimiento anual de la Unidad No 1 de Porce III:
+Referente a la unidad Nº1:     Horas de servicio 22837 
+* Se realiza mantenimiento preventivo anual , en el cual se realizan los siguientes trabajos:                                                                                                                     -  Se desmontan en su totalidad los bujes inferiores de los alabes para el cambio de casquillos. (Empaquetadura nueva).                                                                   -  Se desmontan los bujes superiores Nº2, 6, 12, y 16 para inspección de casquillos.                                                                                                                  -  Se levanta el anillo del distribuidor para inspección y/o cambio de patines axiales y radiales.                                                                                                        -  Se aplica resina epoxica 858 de Chesterton a la cámara espiral, predistribuidor y cono de aspiración en el sitio donde existiera corrosión o cavitación. 
+ -  Inspección de los tercios del estator y el rotor con las actividades que están descritas en el documento maestro del mantenimiento de las unidades de Porce 3 -  Se realizan pruebas eléctricas al estator y rotor (DAR - IP - Resistencia Óhmica estator y rotor - Resistencia de aislamiento - Surge - Test)                                       -  Se realizan pruebas de disparo de la unidad.                                                          -  Se realiza metrología a la instrumentación de la unidad.                                        *  Se sincroniza la unidad No 1 a las 17:46 y queda para explotación comercial
+-  Consignación   135887.     
+Informo: Jefe de trabajo: Renato Montoya. Realizo: Equipo de mantenimiento electrónico - mecánico - eléctrico.
+   
+AL TERMINAR LOS TRABAJOS DE MANTENIMIENTO SE DESBLOQUEAN LOS SISTEMAS ELECTROMECANICOS PARA DAR GIRO A MAQUINA, Y SE CIERRA LA CONSIGNACION @135889 
+
+OSCAR PARRA.

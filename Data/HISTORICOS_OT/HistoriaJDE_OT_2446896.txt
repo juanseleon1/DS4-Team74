@@ -1,0 +1,12 @@
+OT:2446896
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Procedimiento aplicable a los tableros de arrancadores y control de los compresores.  Realizar inspección visual de tapas flojas, puertas y cerraduras, bornes de potencia, borneras, terminales, peinetas, conexiones de potencia y cableado.   
+
+ESTA OT SALE PARA EL AIRE COMPRIMIDO, PERO SE DEBE INTERVENIR CADA COMPRESOR QUE DEPENDA DE EL.
+
+Se realiza inspeccion del sistema de control y de potencia de los compresores verificando su comportamiento de funcionamiento encontrandoce en buen estado se revisaron las borneras y el cableado.
+
+Realizo: Arley Baena y Osbaldo Lopera.

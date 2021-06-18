@@ -1,0 +1,2 @@
+2016/07/20 CESAR HOYOS - JHONATAN USME - JUAN JOSE LOPEZ (PRACTICANTE)
+Se realizó la revisión de la alarma atención valvula mariposa, se encontró falla en bobina de contactor KM1, y se realizó inversión en la señal de un relé dependiente del KM1. 

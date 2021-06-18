@@ -1,0 +1,9 @@
+
+ABRIL 05/2019  OT: 3826424  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta falla corriente tiristor L1 L2 L3, se revisa en el tablero de la Bottom Box, se encuentra disparado el breake 32F3 que alimenta la fuente 32A1, se repone el breake pero la fuente no está entregando el voltaje de DC, se realiza el cambio de la fuente entregando el voltaje adecuado 24 Vdc, esta fuente alimenta el módulo 151A3 de salidas digitales el cual da la orden de cerrar los contactores auxiliares 163K5 y 163K6 correspondientes a señales de servicio del G1 o G2 y que llegan directamente al WP4060 y estaban causando la falla mencionada, se deja en servicio el aerogenerador.
+
+
+ABRIL 06/2019  OT: 3826424  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMARY PEDRO ROBAYO
+
+Se presenta falla por Error Tiristor, se verifican los tiristores y se encuentran bien, el módulo al cual corresponde esta señal también está bueno, se prueba cambiando el WP4060 pero la falla no borra, moviendo los conectores de este módulo se logró normalizar la falla al mover el conector 400, se deja en servicio el aerogenerador

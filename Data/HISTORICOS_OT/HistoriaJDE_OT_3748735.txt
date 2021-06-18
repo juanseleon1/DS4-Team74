@@ -1,0 +1,12 @@
+
+16 / 08 / 2018 OT:3748735 Luis Eduardo Arcila
+Se realizan las actividades:
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+4. Limpieza de intercambiador de aire.
+5. Limpieza general al tablero del regulador.
+6. Se calibraron transductores de posición de los comandos de agujas y deflector.
+7.   Se cambia valvula Moog del comando 3
+8.   Se cambia tarjeta PG2050 por entrar en falla al momento de conectarla al computador.
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

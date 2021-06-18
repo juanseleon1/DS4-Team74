@@ -1,0 +1,9 @@
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779641.
+Se verifica el buen funcionamiento del Switch B100, B300 y B400. No se realiza el apagado de estos por recomendaciónes antes realizadas.
+Realizó: Richard Londoño, Jeniffer García.
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779641.
+OT programada para el mantenimiento CONTROL DE UNIDAD U2 P3.
+
+
+XL: INSPECCIONAR Y LIMPIAR COMUNICACIONES DEL CONTROL DE LA UNIDAD

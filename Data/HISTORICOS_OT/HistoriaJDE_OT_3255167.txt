@@ -1,0 +1,13 @@
+
+FECHA: 23 DE SEPTIEMBRE DE 2016
+SOLICITANTE: FRANCISCO JAVIER CORDOBA CIFUENTES
+DESCRIPCION: G43 SE DIO PARO RAPIDO POR RUPTURA DE ALABE MOVIL # 12. 
+
+
+Programador: Camilo Montagut - 06/10/2016 
+
+Se cambia el  perno fusible número 12 por presentar  falla, se realiza limpieza , engrase en todos los patines y vieletas , y se ajusta el tornillo /sensor a 8 ,2 m.m  , según dato de calibración.
+
+La unidad se entrega a operación , y queda pendiente por parte del equipo de mantenimiento , analizar el comportamiento en la gráfica  del freenlance , y evaluar el comportamiento de los 3 distribuidores , con respecto a la potencia de cada unidad.
+
+Ejecuta: equipo mantenimiento mecánico UOG  

@@ -1,0 +1,6 @@
+15/11/2015
+ALEJANDRO VERGARA
+Banco de transformadores 3 (panel alarmas SACO) todo el modulo se encuentra en falla, revisar.
+
+2015/11/15 EJECUTANTE: RUBEN ARBOLEDA, PROGRAMADOR: RARBOLG
+Se realizó revision, se encontró fuente quemada, se entrega a Cesar Turlio para enviar a Reparar

@@ -1,0 +1,13 @@
+09/02/2018. 5:00 .
+
+Unidad presenta Paro de emergencia al sincronizar, presentandose Alarma Grave en el Regulador de Tensiòn, al llevar las RPM a (0) cero se le da condiciones y procede a sincronizar nuevamente sin presentar esta alarma.
+
+Se solicita revisiòn por oportunidad, ya ha ocurrido en varias ocasiones.
+
+Informa Turno 3 de Operacion. Fabian Giraldo - Wilson Arango.
+
+15/03/2017
+
+se revisa etapa de sincronizacion de la unidad 1, se evidencia bajo voltaje en la barra de 6.9kv, por lo que se hace necesario subir potencia reactiva en la unidad 2 para que el sicronizador encuentre condiciones.
+
+PROGRAMO: Luis Adrian Cardona Lopez.

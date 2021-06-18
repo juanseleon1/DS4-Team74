@@ -1,0 +1,13 @@
+Se crea ot para el registro de tiempos y actividades en el montaje de las regletas en acero inoxidable en la estación inferior del teleférico. Estas regletas se instalan en la estación con el fin de tener un mejor control de la medida libre de las contrapesas
+
+
+Programador: Camilo Montagut - 15/03/2018
+
+Se instala regletas de acero inoxidable en la estación inferior del teleférico con el fin de medir la elongación de los cables tensores, de sustentación y tractores.  Además se realiza la primera inspección de cables y se verifica que los cables de sustentación se han elongado de la siguiente manera:
+
+- Cable 1: 12.5 cm
+- Cable 2: 13.1 cm
+
+Se realizará control de los cables cada mes e igualmente se registrará en la planilla dispuesta para tal fin.
+
+Informa: Camilo Montagut 

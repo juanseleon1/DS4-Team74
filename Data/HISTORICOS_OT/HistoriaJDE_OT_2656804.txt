@@ -1,0 +1,13 @@
+SOLICITANTE: Alex J. Restrepo M.FECHA: 11/12/2014
+
+SEÑAL DE BYPASS TRU2 CONTRARIA A LA REALIDAD FISICA. REVISAR.
+
+07/01/2015
+Referente Rotor K del By-pass unidad 2 Troneras: 
+Se calibra el límite de cierre de la válvula rotor-k del by-pass  de la unidad 2, se había  reportado mala indicación local, lo cual no permitía la operación remota de la válvula, se realizan pruebas y queda trabajando normal.
+
+SE REVISA LA VALVULA Y SE ENCUENTRA ALARMADA POR LO CUAL NO RECIBIA LA ORDEN DE APERTURA Y CIERRE, SE PROCEDE A DARLE UN RESET ABRIENDO SU ALIMENTACION DE 120 VAC. LUEGO SE NORMALIZA Y  SE LE AJUSTA EL VALOR DE CIRRE Y QUEDA TRABAJANDO COORECTAMENTE. 
+
+REALIZO:GRUPO ELECTRONICO
+
+Informó: Uaimer Diaz y Oscar Arango

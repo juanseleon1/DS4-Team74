@@ -1,0 +1,6 @@
+
+FECHA: ABRIL 20 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se inspecciona el sensor de nivel de la caja multiplicadora, y efectivamente, como lo comentaron los compañeros del otro turno, el sensor esta viendo bajo nivel lo ilógico es que tiene nivel físicamente, nos queda pendiente para mañana tratar de colocar un sensor nuevo.

@@ -1,0 +1,13 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+27-07-2017
+PROGRAMADOR JOSE MONTOYA
+Se realiza mantenimiento al regulador hidráulico.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador.
+Se realiza el procedimiento para calibración de lazos de control observando lo siguiente:
+AGUJA 1: 5Amp -  105mm a 75% - 70mm a 50% - 35mm a 25%
+AGUJA 2: 5Amp - 105 mm a 75% - 70mm a 50% - 35mm a 25%
+AGUJA 3: 5.5Amp - 105mm a 75% - 70mm a 50% - 35mm a 25%
+AGUJA 4: 5.2Amp - 105mm a 73% - 70mm a 50% - 35mm a 25%
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.
+Nota: se corrige desplazamiento físico del sensor se realiza ajusta a la posición cerrada del deflector de 1.3% a 0.3%.

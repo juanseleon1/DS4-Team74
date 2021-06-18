@@ -1,0 +1,5 @@
+XM:VERIFICAR, REVISAR Y LIMPIAR VÁLVULA DE ADMISIÓN
+
+PROGRAMADOR: RMONTOYG, 25/11/2014 - CONSIGNACIÓN @C098557
+
+Se realiza según procedimiento. Se cambian los 3 filtros de la estación, los cuales tienen como referencia (llave filtro cantidad 2) 0030 R 010 BN4HC (H1262993) marca HYDAC, código almacén 95987. Igualmente se cambia el filtro del bloque de aceite, con referencia 0110 D 010 BN3HC (1250488) marca HYDAC, código almacén 96305 Se verifica en nivel del tanque sumidero el cual se encontró en 483 mm con una presión de 146 Bar. Se revisa el nivel del tanque de agua encontrándose en 461 mm. Se deja así ya que este sistema no está trabajando para la aplicación de los sellos de la esférica. Estos se están aplicando directamente con la presión aguas arriba. Se lavan el tanque del sistema Hidroflow. Se encuentran los filtros del agua bastante sucios. Los filtros de aceite se encontraron limpios.

@@ -1,0 +1,7 @@
+
+FECHA: NOVIEMBRE 7 DE 2015
+
+EJECUTANTE: HENRY GIRALDO Y JOHN ORREGO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla de comunicación y aparece en el RFC el código E6, se consulta en el manual, donde hace referencia a múltiples fallos del bus de comunicación, se revisan los módulos y todos están bien, se decide apagar todo el sistema de control y potencia, se energiza y queda en Run el RFC, se deja en servicio el aerogenerador.

@@ -1,0 +1,38 @@
+SOLICITANTE:
+REALIZAR MANTENIMIENTO PREVENTIVO ANUAL SEGÚN PROCEDIMIENTO N°GAMTE0015 AL ESTATOR GENERADOR DE LA UNIDAD _____ DE LA CENTRAL RIOGRANDE I.
+FECHA PROGRAMADA MANTTO:  _______________
+
+INFORMES DE MANTENIMIENTOS ANTERIORES:
+
+FEBRERO 2 DE 2016 OT:2995464  PROGRAMO: FARFREY OSPINA EJECUTO:MARICELA GUZMAN
+SE REALIZA IMPECCION VISULA A BARRAJE DE SALIDA GENERADOR, SE DESCONECTAN LAS BARRAS PARA PODER REALIZAR PRUEBAS ELECTRICAS, SE REALIZAN PRUEBNAS ELECTRICAS QUEDA REGISTRO ESCRITO DE LAS PRUEBAS EN ARCHIVADOR DE LA SEDE LA 30, SE CONECTA LAS BARRAS LA MAQUINA QUEDA OPERANDO CORRECTAMENTE.    
+
+
+
+FEB 22/2016 PROGRAMO: JGUINGUER  EJECUTO ALEXANDER VILLA
+SE REALIZA MANTENIMIENTO PREVENTIVO, AJUSTE  DE BORNERAS Y LIEMPIEZA GENERAL A LAS CAJAS DE PASO Y A TODA LA INSTRUMENTACION. SE HACE VERIFICACION DE ALARMAS Y DISPAROS DE LAS RTD´S HACIA EL SISTEMA DE CONTROL.
+DEVANADO ESTATOR
+PATRON          DEVA 1                 DEVA 2          DEVA 3         DEVA 4                   
+0ºC                     0ºC                       0ºC                 0ºC                0ºC
+20ºC                  16,82ºC               18,8ºC            12,8ºC            17,04ºC
+40ºC                  36,4ºC                 38,6ºC            33,18ºC          37,5ºC
+60ºC                  56,7ºC                 58,7ºC            53,01ºC          57,3ºC                     
+80ºC                  76,7ºC                 78,8ºC            73,01ºC          77,5ºC                
+100ºC  96,7ºC                  98,87ºC          93,3ºC            97,8ºC                      
+Valor programado alarma: 90ºC                   
+Valor programado disparo: 100ºC 
+
+NUCLEO ESTATOR
+PATRON              1                         2                      3                     4
+0ºC                     0ºC                      0ºC                  0ºC                 0ºC
+20ºC                  19,15                   19,32               19,42ºC           20,03ºC
+40ºC                  39,14                   39,31               39.39ºC           39,92ºC
+60ºC                  59,50ºC               59,28ºC           59,71ºC           60,22ºC                          
+80ºC                  79,53ºC               79,65ºC           79,77ºC           80,28ºC                  
+100ºC  99,5ºC                 99,65ºC           99,76ºC           100,17ºC                      
+Valor programado alarma: 90ºC                   
+Valor programado disparo: 100ºC 
+
+
+                        
+

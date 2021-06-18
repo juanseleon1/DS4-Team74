@@ -1,0 +1,11 @@
+
+ FEBRERO 18 DEL 2014 - JEOVANNY CORREA G
+
+ La bomba de refrigeración cojinetes que este de prioritaria no es capaz de mantener el nivel del tanque de refrigeración, esta arranca en 2.50 y el nivel baja hasta 2.30 arrancando la de respaldo, este fenómeno es debido a que el agua de las duchas de los filtros está pegada a la tubería que va al tanque de refrigeración cojinetes mermándole volumen de flujo de agua.
+
+
+PROGRAMADOR: CAMILO MONTAGUT - 14/01/2015
+
+SE CIERRA LA OT SIN REGISTRO DE TIEMPO YA QUE EN SU MOEMNTO EL PROBLEMA SE CORRIGIO EN LOS TRABAJOS DE LA OT:2590188
+
+EJECUTA: EQUIPO MANTENIMIENTO GIII

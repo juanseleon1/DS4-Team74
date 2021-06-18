@@ -1,0 +1,7 @@
+
+FECHA: ABRIL 21 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+
+Se presenta falla Offset Current L1-L2-L3, se verifica en la base del aerogenerador y se aprecia que hay medida de corriente y potencia, se optó por cambiar el MFR pero la falla continuaba, se abrieron las borneras de corriente hacia el MFR y la medida baja, se empezó a buscar la razón de esta medida y se encontró un contactor pegado en los condensadores, se procedió a retirar los fusibles de este par de condensadores y se dejo la maquina en servicio.

@@ -1,0 +1,9 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2017-05-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476780, PASO:1          
+Se realizó mantenimiento al motor de motobomba cw2 refrig u2 gt    CORRIENTE: R:108,2, S:105,7, T:108,5, VOLTAJES RS:443,2, ST:445,7, TR:447,TEMPERATURA MAXIMA DE MOTOR 54,6°C Se realizó OT correctiva #: 3531625 para atender sobrecalentamiento en la fase T a la entrada del breaker.
+
+2017-05-31 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476780, PASO:2          
+Se realizó informe termográfico a la MOTOBOMBA CW2 REFRIG U2 GT, se evidenció una alta temperatura en la fase T a la llegada del interruptor, se crea OT correctiva #3531625
+La temperatura de los cables a la entrada del Breaker se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 48.7°C,
+presenta una deficiencia mayor en su funcionamiento, se debe hacer un correctivo. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.

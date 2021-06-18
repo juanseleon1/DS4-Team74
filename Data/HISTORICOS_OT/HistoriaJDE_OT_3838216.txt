@@ -1,0 +1,8 @@
+
+
+
+MAYO 20/2019  OT: 3838216  PROGRAMÓ: HGIRALRI EJECUTÓ: CARLOS VALDELAMAR Y PEDRO ROBAYO
+
+Por presentarse alta temperatura en el generador y tras verificar la potencia reactiva, se decide cambiar cuatro condensadores que tenía malos, queda trabajando con 6.
+
+Materiales: condensadores 4 (224128)

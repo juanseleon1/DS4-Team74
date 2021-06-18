@@ -1,0 +1,60 @@
+MARZO 17/2014     SOLICITANTE : JIMMY ALBERTO CUARTAS VELEZ
+La Unidad se dio paro de emergencia, no dejo desbloquear el regulador de tension.
+
+ABRIL 11/2014
+En el regulador de tensión módulo CCI2 (banco de tiristores No. 2), se hace conexión directa de los sensores de temperatura a la bornera de entrada, debido a que con la bornera que se tenía , oscilaba la medida al punto de dispararse el banco y disparar la unidad. Se lleva la unidad hasta energizada, se verifica la medida de temperatura y se corrobora con termografía, quedando todo normal. Queda en observación.                                                                      
+Realizó: Esteban Vásquez, William Lopera, Marlon Carmona, Carlos David Montoya.
+
+MARZO 30/2014
+Se continúa realizando pruebas y seguimiento al disparo que se presenta "falla grave regulador" por conmutación de los canales 1, 2 y Backup.  Se cablearon adicionalmente las señales de alimentación de cada canal y la señal analógica de  TIERRA ROTOR.  Se retiran las fuentes A80 y A81, las cuales se tiene dudas del voltaje de salida (125 Vdc.) y se realiza una conexión directa desde el banco de baterías.
+Se deja el DATA LOGGER graficando nuevamente para el análisis posterior de las señales, si se vuelve a presentar un disparo por regulador de tensión.
+Informó:
+            Andrés Arenas
+            Marlon Carmona
+            Oscar Arango.
+
+MARZO 28/2014.
+La Unidad en días pasados, ha venido presentando disparo del regulador de tensión, sin identificar la causa de la falla grave, para identificar cual es la señal que está provocando esto se instaló un "DATA LOGGER" el cual consiste en cablear paralelamente las señales críticas de entrada a los módulos I/O del regulador y la supervisión de los canales (1, 2 y backup).  Se deja el sistema graficando todo el tiempo estas señales, por si vuelve a ocurrir un disparo quede registrada cual señal causa este evento.  Queda en observación por parte del personal de mantenimiento.
+Informó:
+            Andrés Arenas
+            Marlon Carmona
+            Oscar Arango
+
+MARZO 21/2014. Se realiza reset a las CPU del regulador de Tensión con el PC, se normaliza, se gira y se deja conectado PC para monitoreó. Ejecuta: Equipo de Instrumentación - Ing. Bianey Bravo. Informa: José Montoya
+
+
+MARZO 17/2014
+Referente unidad 1 de Guadalupe 4:  Se presenta falla en el regulador de tensión, se procede a resetear y normalizar. En el momento de girar, la velocidad no llegaba a 514 rpm por lo cual se reinicia el regulador de velocidad.
+Se normaliza la unidad, se lleva a girando, luego a energizada y finalmente a sincronizada.  Realiza: Equipo de mantenimiento.  Informó: Carlos David Montoya E.
+
+FEBRERO 27 DE 2014.
+Se dio paro de Emergencia la Unidad N° 1 de Guadalupe 4.
+Con 66 Mw y 15 Mvar, por falla en el regulador de tensión. OT:2480123
+Se informó al ing. Gabriel Tamayo
+
+FEBRERO 19 DE 2014.
+Se revisa los programas y se realiza un download y upload  a los canales, cio y los cci de las tres unidades.
+
+FEBRERO 18 DEL 2014 WILSON ARANGO 
+
+Se dio paro la unidad G 41 por falla CCI1 del  Regulador de Tensión.
+
+Se procede a dar reset al regulador de tensión con el portátil y su respectivo sofware, habilitando nuevamente todos los canales. Se        arrancó la unidad con el banco de tiristores # 2, quedando pendiente por revisar el banco # 1.
+ 
+Realizo: Equipo Electronico.
+
+
+ENERO 30/2014. 
+Se revisa regulador de tensión y se descargan programas de todos los módulos. Se deja habilitado el canal 1, canal 2 y canal backup. Se realizan pruebas hasta energizada con los diferentes canales y funciona de manera correcta. 
+Realizó: equipo operación y mantenimiento Porce y Guadalupe. 
+Inf. Ingo. Carlos David Montoya Escobar
+
+ENERO 24/2014
+Se dio paro rápido la unidad con 55 Mw y 5 Mva, por perdida de refrigeración, al hacer cambio de bomba por la de reserva para muestreo de aceite por parte del grupo mecánico en compañía de personal de operación. El inconveniente se debió a una válvula pegada en el circuito de refrigeración que obstaculizó la debida maniobra. Al tratar de arrancar nuevamente la unidad conseguidas las condiciones previas se dio nuevamente paro por falla grave del regulador de tensión. Al revisar se encontró que las pantallas de control para este se hallaron bloqueadas, la IHM no habilita los botones para operar el regulador de tensión, La CPU del Regulador no tenía el Firmware, se descarga el programa del canal 1, canal 2 y Backup, luego se actualizan archivos de OPC en las IHM.
+
+La unidad da condiciones de arranque, se arranca la unidad hasta girando, luego se energiza con el canal 1 y funciona, se prueba con el canal 2 y no excita. Por tanto se deja la unidad y el regulador de tensión con el canal 1, esto para poder sincronizar y entregarla a explotación comercial. Queda pendiente revisar el canal 2 y habilitarlo. Realiza: Equipo de operación y mantenimiento Porce y Guadalupe. 
+Se genera OT Nro. 2458133.
+
+
+
+

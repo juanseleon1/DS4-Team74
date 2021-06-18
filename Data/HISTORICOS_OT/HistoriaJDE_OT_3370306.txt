@@ -1,0 +1,27 @@
+MANTENIMIENTO GENERAL COMPRESOR 3 RESPALDO SOTANO 2
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo no debe estar en funcionamiento se debe deshabilitar y colocar ficha de seguridad. Desenergizar tablero de alimentación.
+2. Temperaturas altas en algunas partes del equipo. Usar guantes de protección.
+3. En caso de estar generando la unidad, poner en funcionamiento el Compresor de respaldo del sótano 2.
+PROCEDIMIENTO DE LA INSPECCIÓN
+1. Inspeccionar nivel de refrigerante. Ajustar de ser necesario con Aceite ULTRACOOLANT. Registrar cantidad adicionada en observaciones. Nivel de refrigerante debe estar en la mitad del vidrio indicador con la unidad en modo DESCARGADO. (Máximo 15 Lts)
+2. Revisar temperatura de aire en la descarga. (Max. 103°C)
+3. Revisar diferencial de presión elemento separador. (0.8 Bar)
+4. Revisar diferencial de presión filtro de aire a plena carga.
+5. Revisar estado de filtro aire, registrar horómetro.
+6. Revisar estado del filtro de aceite, registrar horómetro.
+7. Revisar estado del filtro separador, registrar horómetro.
+8. Revisar estado del aceite y verificar horómetro.
+9. Inspeccionar tornillería, anclajes y fijaciones.
+10. Revisar fugas de fluido.
+11. Inspeccionar estado de mangueras.
+INFORMACION SOBRE LA EJECUCION DE LA OT
+- Se realiza limpieza general al equipo.
+- Se sopletea filtro de aire.
+- Temperatura 80ªC
+- Nivel de aceite se encuentra bien
+- Filtro separador bien
+- Filtro de aceite  y magueras bien
+- Se encuentran anclaje y fijaciones en buen estado
+- Horometro equipo 18783 hrs

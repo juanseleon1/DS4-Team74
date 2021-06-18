@@ -1,0 +1,9 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO.
+
+19 DE NOVIEMBRE DE 2014.
+
+Se realiza mantenimiento al regulador  de velocidad a los transductores de potencia y sensores asociados al sistema, sin ninguna novedad.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se le hace mantenimiento al variometro de posición del distribuidor, electroválvulas, presos tatos de la estación hidráulica.
+Se realiza el procedimiento para calibración de lazos de control y se deja calibrado de la siguiente manera.
+
+DISTRIBUIDORVALV. DISTRIBUI.% V mA % V0 -8,01 4,23 0 -8,0225,0 -3,96 8.22    50,0 0,01 12.25    75,0 3,99 16.31    100,0 7.99 20.23 100 -8,00

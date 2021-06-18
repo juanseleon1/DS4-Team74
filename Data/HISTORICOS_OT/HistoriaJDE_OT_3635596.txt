@@ -1,0 +1,11 @@
+PLANEADOR: CESAR GIRALDO
+
+PROGRAMADOR:CARLOS FORERO
+
+OCTUBRE 29 DE 2017
+La planta de emergencia de Guadalupe 3 presenta falla por baja refigeracion, se realiza arranque manual para recuperar el calor del motor. 
+
+Nota: se realiza inspeccion a la planta, encontrando mal contacto en el termostato el cual sensa la temperatura de la resitencia y envia el pulso para el cierre de la bobina del contactor. Se ajusta y se deja en condiciones normales para su correcto funcionamiento. 
+
+Ejecuto: William Lopera-Carlos Andres Forero 
+Informo: Carlos Andres Forero 

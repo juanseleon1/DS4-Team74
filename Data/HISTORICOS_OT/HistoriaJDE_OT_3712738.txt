@@ -1,0 +1,9 @@
+
+15/04/2018. 13:00.
+
+En recorrido de rutina se detecta ventilador generando ruido en el Transformador de Potencia de la Fase R del Banco 2 de Guadalupe 3. Se solicita diagnosticar por personal de mantenimiento (posible falla en rodamiento superior).
+
+ABRIL 17 DE 2018
+Se atiende la solicitud 3712738, debido que tenía ruido anormal en el motor, se desmonta se hace mantenimiento y cambio de rodamientos referencia 6204 z, se vuelve a montar, se verifica corrientes de trabajo y el buen funcionamiento del mismo, quedando en condiciones normales.
+Realizó: Jorge Echeverri - Luis Fernando Correa.
+Informó: William Lopera.

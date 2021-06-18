@@ -1,0 +1,13 @@
+SOLICITANTE: OPERACIÓN G3/TURNO 2 FECHA: 30/12/2015
+
+Por falla general en controladores de la unidad se activan todos los paros sacando de sincronismo la unidad.
+
+FECHA: 02/01/2016
+FALLA COMUNICACION PLC DE CONTROL
+
+Se revisaron las tarjetas I/O de los 4 controladores de unidad y se evidencio una temperatura elevada al interior del tablero de control, lo cual ocasiono un calentamiento excesivo en los controladores de unidad. 
+Despues de revisar la fuente de alimentacion y todo el conexionado, se encontro el aire acondicionado fallado en su unidad de enfriamiento, esto produjo que el PLC se bloqueara y activara todas las alarmas hacia la sala de operacion. 
+Como no se tiene repuesto de otro Aire Acondicionado se deja consigna operativa al grupo de operacion de no cerrar las puertas del tablero para evitar futuras salidas forzadas por bloqueo de los controladores.
+
+Programador: Oscar Arango
+Ejecutante: Francisco Gonzalez

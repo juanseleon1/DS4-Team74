@@ -1,0 +1,16 @@
+05/08/2015 ALEJANDRO VERGARA
+Revisar válvulas que drenan el caracol ya que se escucha como si tuvieran pase de agua
+Revisar el bloque del sello ya que muestra goteo de aceite 
+2015/08/10 DIEGO BEDOYA
+Se realiza la reparación de las válvulas de drenaje del caracol de la unidad 5, se suelda la compuerta de esta válvula al vástago. 
+El trabajo fue realizado por Orlando Zuleta y Oscar Vélez.
+También se corrige la fuga en el bloque de sellos automáticos, se encontró un oring malo por el que se estaba presentando la fuga. 
+La fuga fue corregida por Anderson López y Andrés Alzate.
+
+
+
+octubre 04 de 2016
+
+or cerrada 
+
+andres ramirez 

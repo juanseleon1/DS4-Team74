@@ -1,0 +1,4 @@
+Se encontró bajo voltaje en el sistema de los sensores ópticos.
+
+
+R/. Carlos Mario Torres

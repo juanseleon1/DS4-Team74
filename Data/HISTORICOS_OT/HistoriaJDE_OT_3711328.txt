@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711328
+
+BAE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD
+
+FECHA: ABRIL 25/2018 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA MARIA VIANA.
+
+Se realiza inspección, mantenimiento y limpieza a los tableros +PCG, +TCIG, en el recinto se revisan y limpian las resistencias calefactoras, se les mide su resistencia óhmica y se llenan registros con los valores, valor de las resisitencias entre 60 y 63 ohmios.
+Trabajos realizados por: Olga Viana, Yoanis Rodriguez.

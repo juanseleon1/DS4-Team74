@@ -1,0 +1,20 @@
+MEDIR RESISTENCIA OHMICA DEL ROTOR
+-- FECHA : JUEVES FEBRERO 02 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - JHONATAN USME
+- ASOCIADO A LA OT : 3383181
+- ASUNTO : HACER MANTTO MP SEMESTRAL 
+                     * Se hacen medidas de resistencia de aislamiento antes y después de limpiar y :
+                        - Antes de limpiar 
+                          ** rotor + barraje = 911 Moh
+                          ** rotor = 1.35 Goh
+                          ** barraje = 498 Moh
+
+                        - Después de limpiar 
+                          ** rotor + barraje = 925 Moh
+                          ** rotor = 1.44 Goh
+                          ** barraje = 915 Moh
+             
+                       - Resistencia ohmica = 156 milioh
+                         ** Temperatura promedio rotor = 46° C
+                         ** Temperatura ambiente = 28 ° C

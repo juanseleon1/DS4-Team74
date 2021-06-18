@@ -1,0 +1,9 @@
+PROGRAMADOR:JUAN GILBERTO TOBON , 2018-05-20
+
+OT PARA PARA REALIZAR MANTENIMIENTO A LA VALVULA DE INTERMITENCIA  DE LA UNIDAD 2 DE PORCE 2
+
+PROGRAMADOR: JUAN GILBERTOTOBON CUARTAS, 2018-05-20
+
+Se realiza mantenimiento al cilindro y a los pistones de la valvula de intermitencia debido a que las bombas no estaban chequeando cuando la presion bajaba menos de 60 bar, despues de este mantenimiento se realizo pruebas con el grupo de operacion turno 2(jorge gonzales) y quedo el sistema funcionando bien
+
+Realizó: Gustavo lopera, francisco guinguer, jorge gonzales y juan gilberto tobon

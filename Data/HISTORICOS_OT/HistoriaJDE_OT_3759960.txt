@@ -1,0 +1,6 @@
+2018/08/29 _ CARLOS ENRIQUE MONCADA. OT N° 3759960.
+Se realiza montaje de cableado de fibra optica, cableado estructurado UTP y Multipar telefonico desde el tablero de comunicaciones hacia la nueva sala de operación de porce 2; se hace conectorización, se trasladan los equipos de estación de operación (SCADA), computador corporativo y lineas telefonicas. Se realizan pruebas de funcionamiento quedando los sistemas operativos en el nuevo puesto de trabajo.
+Realizo: Jesus eladio Piedrahita, Neiro Fabian Pérez, Carlos Moncada.
+-----------------------
+2018/08/29 _ CARLOS ENRIQUE MONCADA. OT N° 3759960.
+Se crea OT para el traslado y montaje de la estacion de operación, Red corporativa y telefonia a la nueva sala de operaciópn de Porce 2.

@@ -1,0 +1,18 @@
+
+PROGRAMADOR:WILLIAM LOPERA
+
+DICIEMBRE 20 DE 2017
+REALIZAR MANTENIMIENTO PREVENTIVO ELECTRICO AL CONTROL, POTENCIA Y MOTORES DEL MALACATE COMO MANTENIMIENTO PREVENTIVO.
+
+JULIO 30 DE 2018.
+Se realizó mantenimiento prevntivo electrico y electronico al malacate como fueron:
+ Mantenimiento al motor principal con pruebas de resistencia de aislamiento, arrojando resultados satisfactorios.
+ Tableros de control y potencia.
+ Finales de carrera.
+ Motor de la bomba hidraulica. 
+ Taco poleas.
+ Revsión del cableado de potencia.
+ Ajuste de sensores de posición.
+ Limpieza general de carcamos con sus respectivos cables
+ Extración de los convertidores de frecuencia y limpieza general.       
+ NOTA: El control del malacate no esta operativo debido que un roedor contamino las tarjetas del PLC PILZ, lo que ocasiono bloqueo en el control. Esta pendiente de revisar o comprar el modulo PSS DOS.                                                                                                                                                                            

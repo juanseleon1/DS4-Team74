@@ -1,0 +1,15 @@
+2016/05/19 ANGEL ADONIS CADAVID OCHOA 
+LA OT PASA A ESTADO PROGRAMACION
+
+2016/12/03 GIOVANNY DIAZ
+Se realizó maniobras operativas con el personal de operación de turno, no fue posible abrir el seccionador fusible del banco 2, se crea solicitud de trabajo para la revisión, el mantenimiento del TSA1 queda aplazado hasta que se revise el seccionador fusible.
+
+2017/03/29 SERGIO OLIVARES - RUBEN ARBOLESA
+Se realiza OT 3439105 para la revisión del Seccionador Fusible y queda pendiente realizar una calibración, se creo la OT: 3441493 para continuar con la calibración. 
+
+2017/04/10 RUBEN ARBOLEDA
+Se creó la otra OT automáticamente #3441679, la cual se solicita cancelar.
+
+2017-05-07 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3078040, PASO:1         
+Se realizó aseo, revisión y limpieza general al transformador de servicios auxiliares, se realizó medida de aislamiento en el lado de alta con un valor de 287MOhm, éste mantenimiento se realizó aprovechando que los bancos estaban abiertos (OT: 3460427) y teniendo en cuenta que el seccionador fusible del banco 2 - TSA1 tiene una falla en su operación (OT:3441493), se dejó disponible.
+

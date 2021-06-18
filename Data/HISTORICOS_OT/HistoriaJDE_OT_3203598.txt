@@ -1,0 +1,20 @@
+OT: 3203598
+
+Se crea ot para el registro de tiempos y actividades en la actividad que relaciona la reparación de las compuertas de la descarga de la unidad 2 de la central de Troneras. El correctivo comprende la recuperación de su superficie y el cambio de empaquetadura
+
+ Progamador: Camilo Montagut - 08/08/2016
+
+Los trabajos de las 3 compuertas se registraran tanto en esta ot como en la número: 3053661 que relaciona el mismo trabajo pero cargado a la unidad 1,  situación que merece repartir costos del trabajo e insumos en las dos unidades
+
+SE REQUIEREN FABRICAR DISPOSITIVOS PARA EL SISTEMA DE PRETENSIONADO DE LAS COMPUERTAS DE LA CAPTACION DE TRONERAS, ESTOS TRABAJOS SE DEBEN EJECUTAR EN EL TALLER INDUSTRIAL POR EL TORNERO JULIAN GOMEZ. 
+
+LOS TRABAJOS REALIZADOS EN LAS TRES COMPUERTAS DE DESCARGA DE LA CENTRAL TRONERAS, SON LOS SIGUIENTES:
+
+- FABRICACION DE LOS DISPOSITIVOS PARA EL SISTEMA DE PRETENSIONADO DE LAS COMPUERTAS.
+- FABRICACION DE LOS DISPOSITIVOS PARA EL SISTEMA DE ALCE DE LAS COMPUERTAS.
+- PREPARACION DE SUPERFICIES Y PINTURA CON INTERSEAL 670 HS GRIS. 
+- MONTAJE DE EMPAQUES.
+- MONTAJE Y PERFORACIONES PARA PLATINAS PISADORES DE EMPAQUE.
+
+INFORMO: CARLOS OSPINA
+

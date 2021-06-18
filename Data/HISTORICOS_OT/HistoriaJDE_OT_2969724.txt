@@ -1,0 +1,10 @@
+PLANEADOR: SANTIAGO RAMÍREZ, 2015-12-19
+POR PARTE DE LA VIGILANCIA SE INFORMA DE APERTURA LEVE DE LA COMPUERTA RADIAL No. 1 DE LA PRESA DE PORCE 2.
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-12-19
+Se atiende evento de apertura leve   de la compuerta informada por el vigilante,se encuentra presion de circuito hidraulico de compuerta en 52 bar.
+Se realizan aperturas de aproximadamente 5 cms y cierres para verificar sellado completo,pero queda con fuga leve,al final se presuriza manualmente a 125 bar y se minimiza la fuga.
+Se presume que la caida de presion del sistema sea a causa de la valvula de cheque #32 designada en el plano hidraulico, lo que ocasiona la apertura de la   compuerta.
+Se deja bloqueada la compuerta y cerradas las valvulas de paso #37 del plano 31-14 763.
+
+TRABAJO REALIZADO POR: FRANCISCO GUINGUER Y DEIVI BAENA

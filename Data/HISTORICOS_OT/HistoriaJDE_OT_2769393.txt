@@ -1,0 +1,4 @@
+FECHA: Junio 11/2015PROGRAMO: Daniel PalaciosEJECUTO: Oscar Montoya.
+Se realiza mantenimiento según procedimiento en la OT, se encuentra en la celda +EG1 (banco de tiristores) 2 capacitores sueltos del bloque auxiliar, se informa a operación y se normaliza.Queda todo normal, se realiza mantenimiento a equipos y limpieza.
+
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD

@@ -1,0 +1,7 @@
+10/11/2017
+Abad Ramirez Giraldo.
+Identificar porque hay perdida de señales en temperatura de aceite y devanados en la fase T del Banco 4.
+
+15/11/2017 Mauricio Quijano
+ 
+Se encuentra el módulo de temperatura de imagen térmica banco 4 fase T con todas las señales en 0°c. Se revisan las señales de entrada de temperatura y corriente al módulo de control EPT-202 de imagen térmica, las señales están llegando al módulo, pero la señal de temperatura no la lee el instrumento. se instala módulo nuevo EPT-202 y se realizan pruebas, se normalizan las señales en el instrumento y en el scada. 

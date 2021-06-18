@@ -1,0 +1,11 @@
+2014/09/15 Reporto: Juan Carlos Duarte
+
+Favor habilitar el cargador de bateria 1 de los servicios auxiliares 125 VDC ILLURAM, el cual fue desenergizado por motivo de la modernizacion de la DG1 desde Junio de 2010 y en la actualidad continua sin alimentacion.
+O por favor informar que se tiene planeado con este cargador.
+Gracias. 
+
+2015/09/23 YEISON ORTEGA - SEBASTIAN HINCAPIE - GIOVANNY DIAZ
+Se identificó falta de conexión en la DG1, se realizó la instalación del cargador en el breaker Q7 se deja energizado y en observación, antes de conectar carga. 
+
+2015/11/09 EDWAR LONDOÑO - RUBEN ARBOLEDA - GIOVANNY DIAZ DIEGO PERLAZA (PRACTICANTE)
+Se realizó adecuación de potencia, prueba de funcionamiento y normalización de las cargas en el cargador 1, se dejó en funcionamiento normal. 

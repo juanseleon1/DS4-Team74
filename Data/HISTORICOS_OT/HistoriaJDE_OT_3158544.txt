@@ -1,0 +1,37 @@
+SOLICITANTE: PEDRO ROBAYO
+
+FECHA:JUNIO 28-2016
+
+EJECUTANTE: ALVARITO,ELIECER PUSHAINA Y PROBAYO
+
+
+Se hace el cambio del radiador del AG13 se coloca el que se bajo despues de hacerle limpieza 
+
+
+despues de colocar el radiador se le da un arranque pero sale por sobrecorriente se hace muchas pruebas para mirar que equipo estaba dando esta sobrecorriente pero todoestaba dando bien , que quita la tapa trasera del lado de los condensadores para mirar que podia estar dando esta falla ya que el día anterior se hizo el cambio de condensadores y se encontro un comun estaba sobre una platina ,se le da un arranque y no vollvio a salir la alarma sobrecorriente 
+
+
+
+Se sube al AG13 para hacer el cambio de la bomba de agua por estar fallada la que estaba daba el pueso de energizar la bomba pero no prendia , al momento de hecharle agua se observa una pequena fuga en esta ocacion se hace una la mezcla de las dos pegas de 
+
+
+
+Se sube al AG13 para mirar porque estaba saliendo por sobretemperatura en la bomba de agua  y se encontro en la caja de conexiones de la bomba un cable suelto  que corresponde segun plano al modulo 7.5 salida 2 se une y borra la alarma y se reviza la presion del agua estando en 2.4 bar se le da un arranque y se deja en servicio el AG quedando en observacion  
+
+
+
+Se le recupera aceite hidraulico al AG13
+
+
+
+Se hace el cambio de retenedores de los frenos 3 del sistema de orientacion yaw
+
+
+
+
+
+Se cambia empaquetadura de la bomba 2 del sistema de refrigeracion 
+
+
+
+

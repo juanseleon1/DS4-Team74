@@ -1,0 +1,9 @@
+26/07/2018 - 7:57
+
+La Valvula del By Pass de la Valvula de Admisiòn presenta falla de control al no realizar automaticamente apertura y cierre, requiriendo por este estado realizarlo manualmente, ocasiòn que al momento de hacerlo se siente ruido fuerte que hace pensar que mecanicamente tambièn presenta problemas.
+
+Solicitamos reparaciòn, mantenimiento y normalizaciòn en forma automatica de este dispositivo y los detalles menores generados por el mismo.
+
+Informa: Turno 3 - Tecnologo Operador - Wilson Arango Bedoya.
+
+Esta ot se atiende en el aplicativo de Maximo.

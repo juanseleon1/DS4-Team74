@@ -1,0 +1,12 @@
+29/01/2015
+FAVOR REVIZAR EN (CCM1) EL RELE DE BAJO VOLTAGE BARRA 2 SE ENCUENTRA ALARMADO Y NO DA REST
+
+INFORMO : ALEJANDRO VERGARA
+
+2015/01/29 GIOVANNY DIAZ - SEBASTIAN HINCAPIE ot: 2686477
+Se realizo revision a la tensión de alimentación, no se encontro nada anormal, se realizo revision de fusibles y todos sen encuentran en buen estado. 
+
+Se presume de un fallo en la parte interna del relé. 
+
+Posteriormente se encontrò olor a quemado OT: 2687951, se gestionó la OT y el rele quedo en operacion normal. 
+

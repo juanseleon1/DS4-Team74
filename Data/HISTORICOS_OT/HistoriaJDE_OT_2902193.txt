@@ -1,0 +1,10 @@
+2015/10/20 FERNANDO RUIZ - SEBASTIAN HINCAPIE - EDWIN AGUDELO (PRACTICANTE), PROGRAMO: RARBOLG
+
+ ESCOBILLA 1 2 3 4 5 6 7 8
+
+ANILLO A        mm 25,9 22,8 37,8 21,0 23,5 33,2 28,0
+SUPERIOR B        mm 38,5 40,0 46,8 27,5 38,9 20,9 32,8
+ANILLO A        mm 31,3 44,5 27,5 23,7 43,5 38,0
+INFERIOR B        mm 30,0 48,5 29,3 29,2 23,5 23,0
+
+OBSERVACIONES: Se realizó el cambio de 5 escobillas, Anillo Superior: 2A, 4A Y 6B, Anillo inferior: 4A Y 6B

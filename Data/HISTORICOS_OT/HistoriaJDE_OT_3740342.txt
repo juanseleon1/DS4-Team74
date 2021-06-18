@@ -1,0 +1,4 @@
+
+09/07/2018 OT:3740342 Luis Eduardo Arcila
+Se realiza inspección de las descargas parciales de la unidad y se envía para su verificación y análisis. 
+

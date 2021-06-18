@@ -1,0 +1,6 @@
+
+FECHA:  AGOSTO 17 DE  2014
+
+EJECUTÓ:  PEDRO ROBAYO
+
+Se abre transformador de servicios auxiliares y no entro la planta porque tenia el selector en desconectado y el pulsador  de seguridad estaba activado. Se le da reset al trafo quedando en servicio.   

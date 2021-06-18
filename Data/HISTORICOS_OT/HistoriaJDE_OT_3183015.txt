@@ -1,0 +1,34 @@
+
+
+
+SERGIO OLIVARES D. JULIO20/2016
+Se cambió instrumento Prosonic de nivel de aceite en turbina por uno nuevo. Queda registrando 263 mm
+            con máquina en servicio.
+ El anterior equipo no registraba bien la medida
+
+
+ Informe, Sr. Victor Zuleta. Julio 20/2016
+                                                                                                                                                                                                                           VERIFICACIÓN NIVEL DE ACEITE COJINETE TURBINA UNIDAD 2
+
+               Según la constante alarma de bajo nivel del cojinete de turbina de la unidad 2, debido al reinicio y bloqueo del prosonic FMU              860 (transductor de nivel ultrasónico), se entra a verificar los diferentes componentes que conforman el sistema de medida.
+        de salida.
+·Se verifica el modulo (prosonic) y se identifica una falla en la salida de alimentación del sensor FMU 80 por recalentamiento de un elemento electrónico asociado a la tarjeta principal del equipo.
+            Se procede a cambiar el prosonic FMU 860 y se monta un equipo nuevo FMU 90 con su respectiva parametrización,     garantizando las medidas correspondientes al nivel de la cuba de turbina.
+            Se deja de forma operativa y se informa al operador de turno.
+
+
+
+SERGIO OLIVARES D. JULIO20/2016
+Se cambió instrumento Prosonic de nivel de aceite en turbina por uno nuevo. Queda registrando 263 mm
+            con máquina en servicio.
+ El anterior equipo no registraba bien la medida
+
+
+ Informe, Sr. Victor Zuleta. Julio 20/2016
+                                                                                                                                                                                                                           VERIFICACIÓN NIVEL DE ACEITE COJINETE TURBINA UNIDAD 2
+
+               Según la constante alarma de bajo nivel del cojinete de turbina de la unidad 2, debido al reinicio y bloqueo del prosonic FMU              860 (transductor de nivel ultrasónico), se entra a verificar los diferentes componentes que conforman el sistema de medida.
+        de salida.
+·Se verifica el modulo (prosonic) y se identifica una falla en la salida de alimentación del sensor FMU 80 por recalentamiento de un elemento electrónico asociado a la tarjeta principal del equipo.
+            Se procede a cambiar el prosonic FMU 860 y se monta un equipo nuevo FMU 90 con su respectiva parametrización,     garantizando las medidas correspondientes al nivel de la cuba de turbina.
+            Se deja de forma operativa y se informa al operador de turno.

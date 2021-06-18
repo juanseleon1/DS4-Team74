@@ -1,0 +1,19 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+circulación de aceite lubricación forzada U2 - sistema generador
+-----------------------------------------
+fecha:  Septiembre 12-2014 ot: 2565275 mtto: eléctrico
+ejecutó: davison perez - camilo cardona
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite lubricación forzada pertenecientes al sistema de generador (S2). Según IDM: GCP2E0017. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+bomba 1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S481R124,4R12,2R11,7 500S - T481S124,4S12,4S12,7 505T - R480T121,8T12T13,1 500
+bomba 2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S481R118,1R12,3R16,2 500S - T481S120,4S12,6S18,6 505T - R480T123,5T12,4T18,6 500
+el mtto se realiza por oportunidad con planta en 0 mva.
+informa: cristian a gómez h

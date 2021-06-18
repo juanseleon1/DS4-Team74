@@ -1,0 +1,10 @@
+EN EL TABLERO +TT4.1 INDICACION DE VALVULA ESFERICA ABIERTA EL LED DE INDICACION DE QUE LA VALVULA ESTA ABRIENDO NO FLACHEA
+POR LO QUE NO SE SABE SI LA VALVUAL ESTA ABRIENDO O NO.
+13/10/2014 ABAD RAMIREZ.
+
+2014/10/13 - OSCAR GIRALDO - JUAN DAVID GARCÍA - CESAR HOYOS
+Se realizó revisión y se encontró el relé 33DB fallado, este relé es el que se encarga de realizar el pulso intermitente, es necesario realizar  compra y para ejecutar el cambio. 
+OT: 2618281
+
+2017-03-17 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 2618281, PASO:2-3          
+En la Unidad 4 se realizó el montaje de un relé de marca Schneider Electric referencia RE22R1DMR el cual se instaló en reemplazo del 33Db, se realizó pruebas y se realizó ajuste del sensor de válvula esférica en movimiento y se dejó en condiciones normales, en ésta unidad había un relé a modo de prueba el cual se trajo de la central playas, éste relé se revisó y se instaló en la unidad 3 OT: 3427927

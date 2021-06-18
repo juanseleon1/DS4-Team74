@@ -1,0 +1,8 @@
+TAREA: PROGRAMO: RARBOLG
+Realizar desarme de barraje de neutro y salida del estator para realizar medida de indice de polarización a la unidad fase a fase.
+
+2016-03-20, REALIZO: GIOVANNY DIAZ  - JUAN DAVID GARCIA, PROGRAMO: RARBOLG, OT: 3089234
+FASE 1 MINUTO 10 MINUTOS IP
+R 2,40 G 16,1 G 6,71
+S 4,4 G 24,0 G 5,45
+T 2,62 G 15,1 G 5,76

@@ -1,0 +1,14 @@
+Noviembre 15 de 2018
+
+Edgar Barrera C
+
+El valor H2 está en 8 y las vibraciones Radial muestra constantemente 11.8 mm/seg. Se probó parándola una hora y al arrancarla continuó con valores altos. Se deja parada para cuando mantenimiento pueda hacer revisión. Informados Ingos.
+
+2018/12/22 DIEGO BEDOYA
+Se realiza la revision de las vibraciones con el equipo VIBER serie 4172, se obtienen los siguientes resultados:
+
+1 Horizontal X: 4,7 mm/seg
+1 Horizontal Y: 11,7 mm/seg
+2 Horizontal X: 2,6 mm/seg
+2 Horizontal Y: 4,2 mm/seg
+2 Axial V: 0.9 mm/seg

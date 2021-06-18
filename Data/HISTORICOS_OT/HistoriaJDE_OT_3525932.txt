@@ -1,0 +1,6 @@
+CE: REVISION, MEDIR Y LIMPIAR ANILLOS ROZANTES.
+
+JULIO 06 DE 2017.
+Se revisan escobillas y se toman medidas de desgaste, se hace una inspección para verificar y se observa el recinto relativamente limpio, se observa, en la primera prueba de resistencia de aislamiento da muy buena medida y se puede observar que después de limpiar con liquido dieléctrico aumenta mucho más el valor de aislamiento, también cabe anotar que se encontró en el polo 13 del rotor con desprendimiento de aislamiento. Se realizó una prueba de inductancia desde los anillos Rozantes para descartar corto entre espiras, dio como resultado 91.37 mH.
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLOGANILLOGSUPERIOR1,5SUPERIOR4INFERIOR1,23INFERIOR4,16
+William Lopera

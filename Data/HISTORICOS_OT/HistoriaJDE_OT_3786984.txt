@@ -1,0 +1,22 @@
+OT PARA EL LAVADO DEL INTERCAMBIADOR Y FILTRO AUTOLIMPIANTE Y REVISIÓN DE VALVULA CUATRO VIAS DEL SUBSISTEMA 2 DE REFRIGERACIÓN DE LA UNIDAD 3 DE PORCE 2
+
+Referente al subsistema # 2 de refrigeración de la unidad 3. 
+
+Se cambia subsistema N°2 por el subsistema N°1 ya que estaba presentando alta temperatura (39°C).
+
+Horómetros: 
+ACRA 2 =47678 - ATRA 2 =47738 
+ACRA 1 =38083 - ATRA 1 =38089 
+
+Informa: Vicente Gamboa - Walter Gómez                          
+
+
+PROGRAMADOR: JUAN G. TOBON, 2018-11-21
+Referente al sistema de intercambiador de calor #1 de la unidad #3.
+Se realiza el lavado del filtro y de las placas del sistema, se normaliza y se hace entrega a operación.
+
+Horometro agua cruda refrigeración unidad #1 34243.
+Horometro agua tratada refrigeración unidad # 1. 34263
+
+
+Trabajo realizado por: Alex Mora, Carlos Agudelo, Ricardo pelaez

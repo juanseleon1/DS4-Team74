@@ -1,0 +1,11 @@
+SOLICITANTE: OPERACIÓN TURNO 3 G3FECHA: 05/06/2017
+
+Barraje de salida del estator unidad G31 presenta vibración, favor revisar.
+
+JUNIO 6 DE 2017.
+La unidad es parada por tener un ruido en la Fase T, donde se encontró en el barraje, tornillería suelta en una de las uniones de las barras, además se cambia el CT de la Fase T por un repuesto de una de las maquinas existente con las mismas características eléctricas del CT a retirar.
+Se le realiza al CT mantenimiento y se le aplica pintura aislante, luego se energiza la unidad para proceder a sincronizar.
+La unidad queda en observación y seguimiento de temperatura en la barra (termografía).
+
+Informó: Cesar Augusto Giraldo Restrepo.
+Ejecutó: William Lopera  Equipo Eléctrico.

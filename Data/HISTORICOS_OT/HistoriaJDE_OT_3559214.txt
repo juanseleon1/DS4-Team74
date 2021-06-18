@@ -1,0 +1,5 @@
+FECHA: 06/08/2017   SOLICITADO POR: Natalia Urrea - Operación G4
+DESCRIPCIÓN: Por favor verificar control del tanque acumulador sistema hidráulico G43 ya que se encuentra trabajando con una presión aproximada entre 38.9 y 40 bar, mientras que las unidades 1 y 2 está aproximadamente entre 37.8 y 40 bar.
+PROGRAMO JOSE MONTOYA 
+SE REALIZARON LAS REVISIONES PERTINENTES CON JUAN CAICEDO Y SE ENCUENTRA TRABAJANDO BIEN
+

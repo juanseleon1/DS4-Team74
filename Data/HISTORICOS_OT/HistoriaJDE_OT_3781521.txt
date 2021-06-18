@@ -1,0 +1,18 @@
+2018/11/19 OT N°: 3781521 PROGRAMO:  R JIMENEZ EJECUTO: YOANIS RODRIGUEZ
+ SE REALIZA EL MANTENIMIENTO PREVENTIVO A LA UPS MODULAR, SE LIMPIAN CADA UNO DE LOS MODULOS DE LA UPS, Y TODO EL SISTEMA,
+SE HACE REVISION , MEDIADAS DE VOLTAJES Y LIMPIEZA DEL BANCO DE BATERIAS, PENDIENTE DE REALIZAR LA PRUEBA DE AUTONOMIA DEL BANCO
+
+FECHA: noviembre 07/2018. PROGRAMO: DANIEL PALACIOS EJECUTO :
+
+Se realiza mantenimiento a:
+
+La UPS 5 de vertedero: Realizar inspeccion y limpieza de ups y modulos de potencia, inspeccionar operacion de ventiladores e instrumentos de medida.
+
+Tablero de distribucion TUPS-06: Realizar inspeccion y limpieza del tablero de distribucion, verificar auxiliares de tablero, equipos de medida y puestas a tierra.
+
+Banco de baterias de UPS 5: Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, baterias calientes, soplado de baterias o fugas de electrolito.
+
+Cargador UIG de 48 Vdc comunicaciones: Realizar inspeccion y limpieza de cargador UYG de 48 vdc.
+ 
+Banco de baterias 48 vdc: Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, baterias calientes, soplado de baterias o fugas de electrolito.
+

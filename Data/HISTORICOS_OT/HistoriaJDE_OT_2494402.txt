@@ -1,0 +1,6 @@
+OT   2494402   Realizó: Jhonatan usme - Giovanny Diaz
+Se realizó puesta en servicio del compresor 1 de la isla captación, marca Atlas Copco, para esto se realizó acompañamiento a un tecnico de la empresa Atlas Copco, se montó un controlador nuevo (MK5), el cual se le hizo tramite de compra. 
+
+El compresor quedo en funcionamiento con el nuevo control, aunque se presenta un desbalanceo de corrientes en las bobinas del motor, lo cual provoca una disparo de la protección termica del motor. 
+
+Duración: 7 Horas

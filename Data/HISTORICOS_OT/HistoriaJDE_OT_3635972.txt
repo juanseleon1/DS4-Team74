@@ -1,0 +1,5 @@
+NOV 1  DE 2017   PROGRAMÓ: JAIRO GUINGUER     EJECUTARON: ALEXANDER VILLA 
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se verifica activación Alarma y Disparo.
+
+Temperaturas de: Cojinete Turbina U2 S1Equipo 65°C 70°C 75°C 80°CTemperatura metal 63.8°C 68.8°C 73.8 78.8°CTemperatura Aceite 64.7°C 69.7°C 74.7°C 79.7°CMetal Axial Turbina 64.2°C 69.2°C 74.2°C 79.2°CMetal Axial Bomba 64.8°C 69.8°C 74.8°C 79.8°CValor programado Alarma:Aceite: 64°C OKValor programado Disparo:Aceite: 69°C OKValor programado Alarma:Metal: 75°C OKValor programado Disparo:Metal: 80°C OKValor programado Alarma:Axiales: 75°C OKValor programado Disparo:Axiales: 80°C OKComentarios:Sin novedades 

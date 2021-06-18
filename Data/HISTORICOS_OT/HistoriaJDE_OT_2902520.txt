@@ -1,0 +1,10 @@
+Referente a la unidad #3.
+Siendo la 08:28 se sincroniza la unidad y se carga con 75 MW, a las 08:42 se da paro rápido desconociéndose la causa ya que la pantalla IHM de la unidad se encontraba bloqueada por el cual no se podía verificar la alarma. 
+Después de tener la unidad con condiciones operativas se sincroniza, a las 09:13 y se carga con 135 MW y de nuevo a las 09:29 se da paro rápido por el mismo problema, de nuevo se le da condiciones a la unidad y se sincroniza, se carga con 135 MW, y a las 10:10 se da paro rápido de nuevo.
+Durante este proceso se desbloquea la pantalla y se verifica la falla lo cual se identifica la causa del paro rápido de la unidad, lo generaba alta temperatura patín guía rtd 38 - 49 del cojinete combinado,  se inhibe la señal y se le da condiciones a la unidad. 
+Se sincroniza la unida  a las 10: 42 y se carga 135 MW.
+Nota: no se generó desviación estamos autorizados
+
+14/10/2015
+Se bloque disparo correspondiente a la RTD45 del cojinete combinado de la Unidad 3, por presentar falla en la medida, queda pendiente revisar RTD ciuando la unidad entre en mantenimiento.
+Realiza: Jorge Rodríguez 

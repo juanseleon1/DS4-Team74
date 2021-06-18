@@ -1,0 +1,1 @@
+ Se hace el cambio de RFC que estaban en el almacen. El primero quedaba con alarma de bateria, el otro con el codigo 8.0  y se bajo el del AG12 y se coloco tambien mostrando 7.9 y el que tenia mostraba 7.9.  Se hace el cambio del modulo 7.9 en el AG15 quedando todo normal con el mismo RFC, estamos sin repuesto.

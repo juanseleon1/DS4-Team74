@@ -1,0 +1,11 @@
+MANTENIMIENTO PREVENTIVO COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+
+
+Programador: Camilo Montagut - 09/09/2016
+
+Se cierra ot preventiva ya que las actividades de mantenimiento se ejecutan en la ot: 3144914 que obedece al cambio de cuba móvil del mismo cojinete
+
+Nota: no se ingresan tiempos.
+
+Ejecuta: equipo mantenimiento mecánico UOG

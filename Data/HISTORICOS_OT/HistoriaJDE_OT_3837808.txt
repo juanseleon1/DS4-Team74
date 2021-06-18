@@ -1,0 +1,5 @@
+MAYO 29 DE 2019    OT NÚMERO: 3837808    PROGRAMÓ: JGUINGUL     EJECUTARON: ANDRÉS YEPES Y ALEXANDER VILLA
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de:Lado ExcitaciónEquipo 80°C 100°C 120°CMetal 78.39 98.37 118.36Aceite 78.49 98.59 118.57Valor programado Alarma:Metal: 75°C / Aceite: 66°CValor programado Disparo:Metal: 82.50°C / Aceite: 72°CComentarios:Sin novedades
+

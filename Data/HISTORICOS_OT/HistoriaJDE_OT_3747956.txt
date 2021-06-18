@@ -1,0 +1,7 @@
+2018/08/08 _ CARLOS ENRIQUE MONCADA. OT N° 3747956 .
+Se ingresa al PLC del puente grua 2 y se descarga software para actulizar y desbloquear el puente grua.
+El puente grua no responde a los mandos de movimiento desde la botonera inalambrica, esto debido a que la botonera no esta configurada para este puente grua; queda pendiente configurar  por medio del proveedor. El puente grua queda habilitado para operar en todos sus movimientos desde la botonera manual  alambrica.   
+Realizó: Carlos Moncada, Ivan Ramirez, Jeniffer García
+
+2018/07/24 _ CARLOS ENRIQUE MONCADA. OT N° 3747956.
+Se crea OT para revisión y desbloqueo del puente grua 2 de P3.

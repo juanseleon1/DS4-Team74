@@ -1,0 +1,63 @@
+- FECHA : LUNES SEPTIEMBRE 28 DE 2015
+- REALIZÓ : MARIO RESTREPO - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 2827191
+- ASUNTO : HACER MANTTO MP
+
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí           
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 
+       * FASES       R - S - T
+              Goh 
+        - Ventilador :  2.8 Goh
+        - Compresor : 1.39 Goh
+
+2.2. Valores de voltaje y corriente:
+
+
+        VENTILADOR 
+        * Voltaje
+           - RS : 476.1 v
+           - ST : 475.7 v
+           - TR : 476.9 v
+
+        * Corriente 
+          - R - S - T : 31.2 amp.
+        
+COMPRESOR 
+* Voltaje
+ - RS : 476.2 v
+ - ST : 475.8 v
+ - RT : 477.0 v
+
+* Corriente 
+- R - S - T : 175.1 amp.
+  
+
+2.3. Temperatura excesiva carcaza: nó
+      Temperatura excesiva cojinetes: nó
+      Vibración anormal: nó 
+      Ruido anormal: nó
+
+3. Calibración térmico control: 
+    * Ventilador : 2.5 amp.
+    * Compresor : 2.5 amp.
+    Calibración térmico potencia :
+    * Ventilador : 5 amp.
+    * Compresor : 48 amp.
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 4763 H
+
+6. Observaciones: se realizan lo siguiente 
+    1. Limpieza y mantto a todo el sistema 
+    2. Se hace medida de aislamiento con Megger MI 3121H a 500 v
+    3. Las medidas de aislamiento se realizaron desde la acometida
+    4. Queda operando como principal
+    5. inicia arranque a comprimir en 86 psi. Para en 110 psi.

@@ -1,0 +1,40 @@
+
+2018/10/09  Luis Eduardo Arcila
+2018/12/03 PROGRAMO MAURICIO QUIJANO VILLA
+SE INICIAN TRABAJOS CON EL CONTRATISTA ACCEQUIP EN LA PUESTA A PUNTO DE LOS BANCOS DE CILINDROS DE LOS TABLEROS DP´S - DG´S Y SERVICIOS AUXILIARES.
+
+ PUESTA A PUNTO SISTEMA CONTAR INCENDIO EN TABLEROS DP1-DG1 Y DP2-DG2 
+Fecha de elaboración: Lunes, 17 de Diciembre de 2018 
+Nombre del cliente: Empresas publicas de Medellín, central Guatapé 
+Orden De compra: 2413450 
+OBJETIVO: 
+El objetivo de este informe es dar a conocer las labores realizadas para la puesta a punto de los sistemas contra incendio (detección humo y extinción Co2) en los tableros DP1-DG1 y DP2-DG2 de la central de generación Guatapé. 
+TABLEROS SERVICIOS AUXILIARES: 
+En estos tableros se realizó la reubicación de los 8 sensores de humo que se encontraban al exterior de los tableros ubicándolos en el interior de estos. 
+TABLEROS DP2-DG2 
+Para la puesta a punto de los sistemas de estos gabinetes se realizaron las siguientes actividades: 
+1. Instalación de toda la tubería de cobre para los cilindros piloto con sus respectivos accesorios, se evidenció en este sistema que no se tenía válvula cut off por lo que se instaló el sistema sin esta, no afecta el funcionamiento, pero para las labores de mantenimiento se deben retirar las solenoides, también encontramos que faltaba 1 disparo manual el cual fue instalado. 
+2. Se instalaron 5 sensores de humo al interior de los tableros, estos sensores fueron suministrados por EPM, se verificaron y direccionaron 3 existentes. 
+3. Se instalaron 5 Boquillas de CO2 al interior de los tableros con su respectiva tubería y soportería 
+4. Se realizó prueba de estanqueidad a una presión de 95 PSI por más de 3 horas a la tubería que ya se encontraba instalada, se corrigieron las fugas encontradas. 
+5. Se instalaron las estaciones manuales de descarga y la corneta luz (común para los dos sistemas) con sus respectivos módulos, cableado y tubería, la corneta fue suministrada por EPM. 
+TABLEROS DP1-DG1 
+Para la puesta a punto de los sistemas de estos gabinetes se realizaron las siguientes actividades: 
+1. Instalación de toda la tubería de cobre para los cilindros piloto con sus respectivos accesorios, se evidenció en este sistema que no se tenían los tornillos de sobrepresión ni los cheques para los cilindros pilotos, por lo que se procedió a instalarlos. 
+2. Se instalaron 8 sensores de humo al interior de los tableros, estos sensores fueron suministrados por EPM. 
+3. Se instalaron 8 Boquillas de CO2 al interior de los tableros con su respectiva tubería y soportería. 
+4. Se realizó prueba de estanqueidad a una presión de 95 PSI por más de 3 horas a la tubería que ya se encontraba instalada, se corrigieron las fugas encontradas. 
+5. Se instalaron las estaciones manuales de descarga y la corneta luz (común para los dos sistemas) con sus respectivos módulos, cableado y tubería, la corneta fue suministrada por EPM. 
+
+PRUEBAS 
+Se realizaron pruebas de estanqueidad a la tubería de CO2 ya instalada, se probó el funcionamiento de los detectores de Humo y la activación de las solenoides de los cilindros, se entregan los dispositivos funcionando y programados en el Nodo 4 (tableros Críticos) Lazo 4. 
+
+RECOMENDACIONES: 
+ Sellar aberturas en los tableros, estas aberturas permiten la salida de CO2 evitando que se mantenga la concentración necesaria para controlar un eventual incendio. 
+
+ Recargar los 2 cilindros pilotos de reserva de N2, no tienen la presión necesaria para la activación del sistema. 
+
+ Recargar 1 cilindro de CO2 (#2 DG2) no tiene los 45 KG necesarios. 
+
+ Efectuar un diagnóstico y posterior reparación al sistema de la central, se evidencian paneles desconectados del principal y varios problemas en cada uno de los paneles. 
+

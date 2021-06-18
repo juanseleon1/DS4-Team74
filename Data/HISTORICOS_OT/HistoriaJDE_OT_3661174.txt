@@ -1,0 +1,6 @@
+
+Fecha: Diciembre 18 de 2017
+
+Solicitante: Henry Giraldo
+
+Se requiere pegar el eje de baja velocidad que va dentro de la caja multiplicadora y que trasmite el movimiento para ser sensado, se presenta falla por sobrevelocidad.

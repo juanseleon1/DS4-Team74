@@ -1,0 +1,17 @@
+Domingo 18 de Marzo / 2018
+
+
+Referente al TLCT U 4: El sensor de flujo de aceite CF 002 marca un valor de flujo de aceite en el cojinete muy alto en 9850 l/m aproximadamente, el sensor aparentemente esta descalibrado, necesitamos esta medida de flujo para calibrar el flujo correcto y hacer seguimiento a la supervisión de las temperaturas en los segmentos  2 - 3 y 5, del cojinete, puesto que han presentado un incremento significativo y están en diferente valor a los demás segmentos del TLCT, nos hemos percatado que estando la unidad parada todos los segmentos registran igualdad en las temperaturas, indicando que las RTDS se encuentran en buen estado . Turno 2
+
+
+20/03/2018
+
+Nestor favor retomar esta nota y reailzar un analisis de esta medida, realizar informe de evidencias encontradas y las accines correctivas ha realizar.
+
+por favor me informas y documentas esta OT 
+
+NOTA realizada por Wtobonl
+
+se da cierre a esta OT por tiempo , el sistema fue verificado 
+
+

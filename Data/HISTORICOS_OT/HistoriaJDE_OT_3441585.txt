@@ -1,0 +1,47 @@
+31/03/2017
+
+FALLA Y DISPARO DEL SISTEMA CO2 DENTRO DEL CUBICULO, SE EVIDENCIA ALTA TEMPERATURA (115 °C tomados con termometro manual infrarojo) EN ESTE AVR Y EL VENTILADOR DETENIDO, SE INFORMA AL PERSONAL DE LA CENTRAL
+
+INFORMA TURNO 1 OPERACION 
+
+
+31/03/2017
+
+Se realiza inspección del ventilador por parte eléctrica y se evidencia un comportamiento normal con una corriente medida de 2.5 Amp se realiza pruebas al control de este ventilador y durante la operación de la unidad se falla el ventilador de este AVR por sobre corriente dando disparo a la unidad, se normaliza el térmico del AVR2 y se ingresa de nuevo la unidad al sistema. 
+
+EL AVR 1 queda bloqueado por fallas para realizar verificación de este sistema por oportunidad cuando la unidad se encuentre detenida.
+
+Realizado por Wtobonl
+
+02/04/2017
+
+Se realiza inspección del AVR y se encuentra con fusibles de banco disparados, se espera planeacion para cambiar tiristores y normalizar los fusibles, ademas realizar inspeccion de todo el sistema para verificar su correcto funcionamiento.
+
+Pendiente planeacion de este trabajo por el Planeador electronico 
+
+ Realizado por Wtobonl
+
+
+04/04/2017
+
+Se  se realizan pruebas verificaciones en el banco de tiristores y los transductores, se encuentra falla en el transductor UV10, además se cambio el tiristor 1 de la fase R. La unidad queda disponible por el AVR 2, el AVR 1 queda pendiente para realizar ajustes de los lazos de control. 
+
+ Realizado por Wtobonl y Oscar Duque
+
+
+05/04/2017
+
+Se  se realizan pruebas verificaciones en los lazo de control para la indicacion de voltaje excitacion se encuentra fallado el transductor UV10 el cual se reemplaza y para garantizar la lineabilidad de la medida se cambia el transductor UV30 los cuales se verifican y se realiza curva trasalibilidad. Se determina que la causa del fallo en la AVR fue este tranductor al estar descalibrado aumenta la tension de excitacion hasta el punto de calentar la electronica y realizar el cambio de AVR.
+
+la unidad queda operativa y normalizada 
+
+ Realizado por Wtobonl y Oscar Duque
+
+TERMINADA CERRAR 
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

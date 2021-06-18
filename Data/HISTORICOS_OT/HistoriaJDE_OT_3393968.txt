@@ -1,0 +1,11 @@
+12 FEBRERO 2017 GUILLERMO LEON ECHEVERRY
+
+SE GENERA ESTA OT PARA ATENDER ALARMA DEL DIA 11 FEBRERO 2017 SEGUN NOTA EN BITACORA:
+
+Referente al compresor de servicios generales atlas copco #1, se sale de servicio por disparo de guardamotor del ventilador por sobrecalentamiento, queda como prioridad el compresor atlas copco #2
+**********************************************************************************************************************************************************
+SE BLOQUEA EL EQUIPO Y SE DESMONTA EL MOTOR VENTILADOR DEL COMPRESOR, SE ENCONTRO CON LOS RODAMIENTOS EN MAL ESTADO, SE PROCEDE AL CAMBIO DE LOS MISMOS Y SE ARMA NUEVAMENTE, SE AGREGAN 3 LITROS DE ACEITE ATLAS COPCO 5Ie, SE REALIZAN PRUEBAS DE FUNCIONAMIENTO QUEDANDO EN OPERACION NORMAL.
+
+SERIE RODAMIENTOS: 6204ZZC3
+
+EJECUTO: MANUEL PERLAZA, CARLOS VALDES

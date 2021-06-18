@@ -1,0 +1,19 @@
+2018/05/23 _ CARLOS ENRIQUE MONCADA. OT N° 3717902.
+Se realiza mantenimiento, limpieza y verificación del cableado, con las siguientes novedades:
+Bornes 119 - 118 >89T2 02 unidad 3 abierto.
+Bornes 119 - 120 > interruptor generador S2U unidad 3 abierto.
+Bornes 121 - 122 > No señal de voltaje, lado transformador 136 Kv.
+Bornes 129 - 130 > TCIG sello generador 890 unidad 3
+Bornes 131 - 132 > Unidad parada.
+Realizo: Eladio Piedrahita, Jeniffer García.
+
+XL: VERIFICAR Y LIMPIAR SERVICIOS AUX TSAU CONTROL IHM PLC Y TM 1703 DE LA UNIDAD
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

@@ -1,0 +1,11 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 476 mm el nivel patrón es de 530 mm,  se le recupero 15 litros de  aceite.
+
+VIBRACIONES: CSL:8.88VDC
+                           CSP:9.0VDC
+                                  AXIAL:9.24VDC
+
+
+Realizo: Marlon Carmona y Francisco Gonzalez

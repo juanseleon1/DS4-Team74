@@ -1,0 +1,11 @@
+SE CREA OT PARA REGISTRAR INFORMACION SOBRE LA CORRECCION DE UN RODAMIENTO EN EL MOTOR DEL RATRILLO (REJA) DE LA BOCATOMA G33L J
+                                                                                                                                                                                                                                                                                                                                                                        
+    
+PROGRAMADOR: CAMILO MONTAGUT GIL 04/08/2014
+
+SE DESMONTAN LOS RODAMIENTOS Y SE VERIFICA QUE NO SE ENCUENTRAN EN MAL ESTADO. SE LES HACE LIMPIEZA Y LUBRICACION
+SE REALIZA EL MONTAJE DE LOS EQUIPOS Y SE ENTREGA EL EQUIPO AL EQUIPO DE OPERACION DE BOCATOMA
+
+EJECUTANTES:  ALBEIRO FERNANDEZ
+   SEBASTIAN SEPULVEDA
+   JORGE DAZA

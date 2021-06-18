@@ -1,0 +1,8 @@
+
+FECHA: FEBRERO 12 DE 2014 
+
+RESPONSABLE:  PEDRO ROBAYO
+
+
+Se retira el accionamiento del Main Switch del AG6 y se colocará en el AG15
+

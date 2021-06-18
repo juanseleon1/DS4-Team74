@@ -1,0 +1,6 @@
+
+FECHA: MARZO 10 DE 2016 OT 3043152
+
+EJECUTANTE: PEDRO ROBAYO, GERMAN ECHAVARRIA Y HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Después de normalizar la línea 742, el RFC del AG4 quedo fallado, no leía la tarjeta de programación, se realizaron varias pruebas pero el problema continuaba, se le coloca la tarjeta del RFC del AG2 pero continua la misma falla, se coloca el RFC del AG2 con la tarjeta del AG4 y el problema se resuelve, durante la reposición del AG se presenta falla en la UPS, dado que las baterías están en proceso de compra se decide dejar trabajando el AG sin UPS.

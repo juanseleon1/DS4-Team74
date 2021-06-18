@@ -1,0 +1,10 @@
+En la motobomba #2 se sentía un ruido anormal (Reportado por Operacion), para lo cual se realizó intento de cambio de motobomba en servicio, se seleccionó la #1, luego de 2 intentos fallidos de arranque se percibio disparo de interruptor en +SA3, se optó por dejar en servicio la motobomba 2. 
+
+Luego se realizó la revision del motor #1 se encontró con valores de resistencia óhmica en devanados con desfase en su medida, se optó por realizar el cambio del motor #2 y colocarlo en la bomba #1. 
+
+Se realizó este cambio y se dejó en funcionamiento normal.
+
+Realizó: Guillermo Cordoba - Victor Zuleta
+Planeó: Ruben Arboleda
+
+

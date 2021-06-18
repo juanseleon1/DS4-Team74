@@ -1,0 +1,7 @@
+2017/11/16  Luis Eduardo Arcila
+Se inician los trabajos correctivos en el sistema contraincendios loop de Generadores con el personal de General Fire Control 
+Se realizan pruebas de estanqueidad en la tubería de descarga de los generadores.
+Se corrigen fugas presentes en las uniones universales 
+Se realiza mantenimiento al sistema de aspiracion de los generadores.
+
+

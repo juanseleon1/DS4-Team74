@@ -1,0 +1,12 @@
+Planeador:                           Hernando Alonso Castrillón T.
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              26/11/2018
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de transmisión
+REVISION NIVEL
+AFORO

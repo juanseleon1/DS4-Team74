@@ -1,0 +1,12 @@
+FECHA: 21 DE ENERO DE 2017
+SOLICITANTE: TURNO 2 OPERACIÓN GIV
+
+DESCRIPCIÓN: Alarma frecuente por nivel de aceite alto en acumulador del sistema hidráulico Regulador de velocidad de la Unidad 1. 
+
+Se realiza tendencia en monitor G4S8 tanto de la señal de nivel de aceite como presión en el acumulador en el cual se observa que al recuperar presión el nivel de aceite sube hasta 645mm, pasando así por el valor de alarma por alto nivel que está en 640mm. Se ha realizado seguimiento físicamente mediante observación directa en la mirilla del acumulador y de igual manera llega al nivel de alarma, es decir, es una situación real.
+
+04-02-2017
+PROGRAMADOR JOSE MONTOYA
+SE REVISA FUNCIONAMIENTO Y SE REALIZA AJUSTE EN LA ESTACION DE INGENIERIA PARA CORREGIR DESVIACION EN LA MEDIDA EN LA PANTALLA G4S5 QUEDO EN OBSERVACION, EN VARIABLE G4U1_REG_805_RR SE CAMBIAN LOS PARAMETROS DE SALIDA EN LA ESCALIZACION DE LA MEDIDA EN LA ESTACION DE INGENIERIA Y SE CAMBIA DE O-1050 A 275-895 Y AL SUMADOR EN LA SALIDA SE CAMBIA DE 90 Y O-100 POR UN VALOR DE 5 Y 0-100.
+QUEDA FUNCIONANDO BIEN
+

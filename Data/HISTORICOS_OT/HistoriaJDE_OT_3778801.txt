@@ -1,0 +1,8 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+14-11-2018
+PLANEADOR: OSCAR ARANGO
+PROGRAMADOR:JOSÉ MONTOYA
+Se realizó mantenimiento y verificación a los sensores de temperatura Fase R-S-T y las caratulas de los termómetros Qualitrol.
+Se realizó mantenimiento a las RIO asociadas a los transformadores.
+Se revisaron los bornes del tablero de control de los transformadores 

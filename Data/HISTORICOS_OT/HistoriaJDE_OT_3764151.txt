@@ -1,0 +1,23 @@
+10/09/2018 - Juan Camilo Montoya Fonngra
+
+Referente al control del TCCAD: Se genera la presente OT por encontrarse en inspección de rutina la IHM del control del sistema de las compuertas de aducción fuera de servicio.
+Este evento se reporto en el informe diario del dia 20 de agosto del año en curso.
+Informa: Operación - Turno 3.
+
+
+10/09/2018
+
+TCCAD control compuerta aducción, se encuentra panel fallado por temperatura, no inicia el sistema operativo pendiente cambiar este panel
+
+
+REALIZADO POR WTOBONL 
+
+
+06/10/2018
+
+TCCAD control compuerta aducción, se realiza verificacion del sistema operativo y se encuentra falla en la memoria y borrado del programa se retira repuesto del almacen para configurar y normalizar el proceso, se instala el backup y se configura la comunicacion. se instala de nuevo la IHM y normaliza el sistema.
+
+TERMINAR CERRAR 
+
+REALIZADO POR WTOBONL 
+

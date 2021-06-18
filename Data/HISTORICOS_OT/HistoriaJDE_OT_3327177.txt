@@ -1,0 +1,8 @@
+XM: LAVAR RADIADORES, REFRIGERACIÓN GENERADOR
+
+
+Programador: Camilo Montagut - 21/12/2016
+
+Se realiza lavado de los 6 radiadores del generador. Cada radiador se lava por 20 minutos aproximadamente. Se normaliza las válvulas luego del proceso de lavado. 
+
+Ejecuta: equipo mantenimiento mecánico UOG

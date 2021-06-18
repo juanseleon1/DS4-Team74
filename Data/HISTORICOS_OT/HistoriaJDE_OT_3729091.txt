@@ -1,0 +1,5 @@
+2018/05/26 RUBEN ARBOLEDA
+Se crea esta OT para realizar el montaje y adecuación de conectores a 7 turbocalentadores para el cuarto caliente de la bodega Gtpe
+
+2018-05-26 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3729091, PASO:1          
+Se realizó adecuación de conectores para los turbo calentadores reparados en la empresa OVELMA con el fin de mejorar temperatura en el cuarto Caliente del almacén, se instalaron 7 turbo calentadores y se dejaron funcionando. 

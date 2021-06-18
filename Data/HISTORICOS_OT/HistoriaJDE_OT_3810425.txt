@@ -1,0 +1,4 @@
+
+FEBRERO 07/2019 OT: 3810425  PROGRAMÓ: HGIRALRI EJECUTÓ: GERMAN ECHAVARRIA
+
+Aprovechando que el aerogenerador paro por temperatura se procede a realizar unos ensayos para una nueva media de temperatura, en esta oportunidad se instaló un instrumento en la conexión 2 del módulo 7.12 correspondiente a la temperatura rodamiento principal 2 entregando medida adecuada en el Scada, lo anterior se hizo para más adelante colocar una nueva medida de temperatura para el intercambiador agua aceite.

@@ -1,0 +1,5 @@
+2017-05-15 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3476807, PASO:1          
+Se realizó mantenimiento al motor de uma 10 transformador c/m gt    CORRIENTE: R:3, S:2,9, T:3, VOLTAJES RS:458, ST:457, TR:457,TEMPERATURA MAXIMA DE MOTOR 58,2°C Se encontró el termostato calibrado, arrancando a los 35,1°C y Parando a los 25°C
+
+2017-05-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3476807, PASO:2          
+Se realizó informe termografica a la UMA 10, se anexa a la OT

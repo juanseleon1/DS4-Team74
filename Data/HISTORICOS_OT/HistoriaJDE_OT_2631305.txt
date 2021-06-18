@@ -1,0 +1,5 @@
+NOVIEMBRE 08 DE 2014 DIEGO BEDOYA
+Desmontar el servomotor de apertura y cierre de la válvula de admisión, desarmarlo y revizar el estado del cilindro y los empaques.
+
+NOVIEMBRE 10 DE 2014 DIEGO BEDOYA
+Se realizó el desarme del servomotor y se encontraron los empaques en mal estado, el cilindro esta en buen estado por lo cual solo se cambiaron los empaques. se vuelve a armar y queda en condiciones normales de operación.

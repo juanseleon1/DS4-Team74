@@ -1,0 +1,6 @@
+FECHA: NOV. 04/2013 PORGRAMADOR: Daniel Palacios O.EJECUTANTE: Jhon Jader Orrego.
+Se hacen trabajos segun instructivo, se toman registros de valores de resistencia de voltajes y corrientes.
+
+
+
+XE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD

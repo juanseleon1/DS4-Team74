@@ -1,0 +1,15 @@
+REVISIÓN Y MANTENIMIENTO A LOS CABLES DE POTENCIA DE LA SALIDA DEL LOS GENERADORES 
+
+NOVIEMBRE 10 DE 2016
+Al realizar mantenimiento preventivo en la celda del interruptor de máquina, se detecta que a la llegada de los cables de potencia que viene del generador hacia la barra del interruptor, específicamente cerca a la conexión con los bornes. Los cables evidencian fatiga del material aislante posiblemente por temperaturas elevadas.
+Se procedió a realizar la respectiva desconexión del lado generador e interruptor de máquina, para conocer el estado del aislamiento.
+Se realiza prueba de resistencia de aislamiento a un minuto y con una inyección de 5000Vdc. 
+Después de realizar las pruebas y determinar que los resultados del aislamiento de cada una de las líneas que componen las fases son óptimos para su correcto funcionamiento, se conecta de nuevo en ambos puntos. 
+
+Nota: en las siguientes rutas del servidor quedan los resultados de las pruebas y los registros fotográficos de los cables.
+
+Registros Fotográficos: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\IN. Cables\Fotos > 
+
+Datos De Pruebas: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\IN. Cables\Datos>
+
+PROGRAMÓ:Carlos Forero.

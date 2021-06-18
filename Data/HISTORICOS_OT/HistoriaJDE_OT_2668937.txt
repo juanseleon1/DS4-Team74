@@ -1,0 +1,6 @@
+
+FECHA: ENERO 05 DE 2014
+
+EJECUTANTE: HENRY GIRALDO
+
+Se retira la UPS del AG 13 y se coloca en el AG1 debido a que después de normalizar el aerogenerador tras la apertura del circuito 742, la UPS no quiso prender. Después de cambiarla quedo en servicio el aerogenerador.

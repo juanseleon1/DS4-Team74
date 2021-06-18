@@ -1,0 +1,10 @@
+2014/02/21
+
+
+Favor verificar instrumento de medida de Nivel Cojinete Inferior G41, por presentar oscilación en su medida ocasionando disparo por nivel Alto y Bajo al mismo tiempo.
+
+Informan: Equipo Operación
+MARZO 20 DE 2014.
+
+Se cambio sensor de nivel por motivo que se quedo en una sola medida, se retiro y se instalo el nuevo sensor.
+Revisando el sensor que se retiro se encontro el sensor que tiene interno el einstrumento se soldo con un componente electronico, por lo tanto no variaba la medida. 

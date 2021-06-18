@@ -1,0 +1,11 @@
+SEMESTRAL ELECTRICISTA/H4000 TIPO2
+CADENA PARADA DE EMERGENCIA AEROGENERADOR
+
+
+FECHA: OCTUBRE 30 DE 2014
+
+EJECUTANTE: GERMAN ECHAVARRIA Y HENRY GIRALDO
+
+
+Se realizan los 5 disparos de emergencia ubicados en el aerogenerador, respondieron adecuadamente disparando el Main Switch.
+

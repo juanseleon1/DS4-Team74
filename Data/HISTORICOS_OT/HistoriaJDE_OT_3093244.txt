@@ -1,0 +1,3 @@
+28/Abril/2016
+Se encuentra fallada la tarjeta DSDI110A, se cambia por una de repuesto y se verifica su buen funcionamiento en la estacion de operación.
+Learcilas 

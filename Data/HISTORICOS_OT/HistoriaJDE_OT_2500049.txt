@@ -1,0 +1,6 @@
+
+FECHA: MARZO 31  DE 2013
+
+EJECUTO:PEDRO LIUIS DIOMER
+
+Se bajan los condensadores de capsula que estaban en el AG3 y se montan en el AG9

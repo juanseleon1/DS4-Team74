@@ -1,0 +1,9 @@
+
+
+
+TRAFO
+ACTIVIDAD:
+
+ 2018/11/01 OT: 3779268  PROGRAMÓ: HGIRALRI EJECUTÓ: PEDRO ROBAYO
+
+Se comprueba el buen estado del transformador y de la estación de transformación, el nivel de gas SF6 se encuentra en los valores adecuados, no hay presencia de cuerpos 

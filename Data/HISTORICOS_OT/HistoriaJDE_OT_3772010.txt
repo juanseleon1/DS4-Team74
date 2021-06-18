@@ -1,0 +1,55 @@
+FECHA: LUNES 08/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, RODOLFO GARCES
+ASOCIADO A LA OT: 3772010
+ASUNTO: EJECUTAR MANTENIMIENTO PRGRAMADO A MOTOBOBA N°4 REFRIGERACIN GENERADORES
+
+   - SE REALIZA LA MEDICION DE LOS PARAMETROS DE OPERACION, QUEDAN REGISTRADOS EN LA PLANILLA ADJUNTA
+   - SE PARA EL EQUIPO PARA DESMONTAR TAPA DEL VENTILADOR Y HACER LIMPIEZA GENERAL.
+   - EL EQUIPO SE ENTREGA AL PERSONAL DE OPERACION EN CONDICIONES SATISFACTORIAS.
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DE TEMPERATURA, HOROMETRO Y PRESION DE FLUJO MOTOBOMBAS DE REFRIGERACION GENERADORES
+
+
+Motobombas de refrigeración # __4___
+
+horometro:__________1829______________
+
+vibraciones cojinete ventilador 1VP(mm/s):_____0.0______
+
+vibraciones cojinete ventilador 2HP(mm/s):_____0.0______
+
+vibraciones cojinete de acople 3VP(mm/s):______0.0_____
+
+vibraciones cojinete de acople 4HP(mm/s):______0.0_____
+
+vibraciones bomba acople 5VP (mm/s):____0.8______
+
+vibraciones bomba acople 6HP (mm/s):____0.9______
+
+vibraciones bomba descarga 7VP (mm/s):_____0.7_______
+
+vibraciones bomba descarga 8HP(mm/s):_____0.0_______
+
+temperatura motor: ( °C ):___62_____
+
+temperatura bomba: ( °C ):____46_____
+
+Presión de trabajo: ( Kg/cm ):_____3.3_______
+
+RPM: 1784
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0044

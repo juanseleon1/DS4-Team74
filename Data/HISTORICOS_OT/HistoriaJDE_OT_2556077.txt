@@ -1,0 +1,11 @@
+JUNIO 30 DE 2014.
+INFORME:
+·El día 27 de junio en el cambio del servomotor de agua del deflector suministrado por Reivax se generó un cortocircuito en el conector del transductor de la aguja lo que origino daño a la tarjeta de entradas análogas de la multican 2.1 debido a que  se reventaron los 2 cables del conector de la salida del transductor de la aguja. Este mismo día se retiró el conector y se llevó al municipio de Sonsón para que soldaran los 2 cables reventados; normalizando así el conector. 
+El día 30 de junio se realiza el cambio de la tarjeta análoga de la multican 2.1 y se realiza los ajustes de transducción desde la IHM del regulador de velocidad dejando la medición de la aguja en 0.0% con una corriente de 4.780 mA al cierre y  la apertura del 100% con una corriente de 17.882 mA. Luego de esto se procede a sincronizar dejando la unidad en condiciones operativas.
+
+INFORMA: GUILLERMO ORTIZ G
+
+SOLICITANTE:
+
+SE LE DIO PARO A LA UNIDAD PARA CAMBIO DE SERVOMOTOR EN EL DEFLECTOR. DESPUÉS DEL CAMBIO SE INTENTO NORMALIZAR LA UNIDAD Y NO DABA CONDICIONES POR  PRESENTAR LA ALARMA DE ERROR DE POSICIONAMIENTO DE LA AGUJA. SE SOLICITA REVISAR EL TRANSDUCTOR DE LA AGUJA.
+REPORTA: LUIS ALFONSO CIRO - JULIAN RESTREPO

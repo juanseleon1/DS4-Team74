@@ -1,0 +1,12 @@
+2015/04/27 JEISON ORTEGA - SEBASTIAN HINCAPIE
+Se realiza revisión de disparo de interruptor, sin causa aparente, se evidenció falla en la indicación corriente de la fase A, con una corriente de 0 Amperios lo cual produce disparo de interruptor y bloqueo, se desmonto el interruptor y se instaló uno que habia en almacén.  
+
+2015/04/28 JEISON ORTEGA - SEBASTIAN HINCAPIE
+Se desarmó la parte de atras del interruptor, se midio los CT's y se enocntraron en buenas condiciones, se armo yse realizó prueba de inyección de correinte con el equipo para tal fin, se dejó trabajando durante 2 horas sin presentar variaciones en la medida, queda pendiente instalarlo en la DP1
+
+2015/05/28 JEISON ORTEGA - JHONATAN USME
+Se realizó el montaje del interruptor en la DP2, se verificó que el CT de la dase A ya estaba marcando corriente. 
+
+Se dejó en funcionamiento normal. 
+
+

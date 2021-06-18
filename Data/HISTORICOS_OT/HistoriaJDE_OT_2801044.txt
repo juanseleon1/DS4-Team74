@@ -1,0 +1,13 @@
+
+23 DE JUNIO 2015.
+
+ROBIN TAMAYO - WILSON ARANGO
+
+CONTROL DE LAS BOMBAS DEL INTERCAMBIADOR NO ACTUAN AUTOMATICAMENTE, PRESENTANDO FALLA.
+
+25/JUNIO/2015
+Se realiza la revision a lazo de control Automatico del Arranque de las dos bombas. Se encontro uel modulo de salida de la RIO DO820 fallado.
+Se procede a resetearlo y revisando la logica en la estacion de ingenieria, se observa que el pulso para el arranque de cada bomba es de 3seg , se decide alargar este tiempo a 15 seg para garantizar la energizacion del rele de control de la Bomba.
+
+Ejecuto: Fredy Duarte
+Programador: Oscar Arango

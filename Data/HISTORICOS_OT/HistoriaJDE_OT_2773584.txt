@@ -1,0 +1,13 @@
+XL: REVISAR Y LIMPIAR REGULADOR DE TENSIÓN.
+
+04/06/2015
+
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+Se realiza mantenimiento al regulador  de tensión, se aspira el tablero, se inspeccionan las borneras de control y se realiza mantenimiento preventivo y limpieza a la pantalla del tablero.
+  
+IMPORTANTE tener en cuenta que para los futuros mantenimientos antes que empezar los electricistas con el mantenimiento del banco de tiristores y el interruptor de campo, se debe retirar todas las peinetas de los módulos de entradas y salidas del regulador, para evitar que algún canal de entrada y/o salida se queme por la manipulación externa de algunas señales.
+
+
+
+

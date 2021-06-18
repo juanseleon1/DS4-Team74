@@ -1,0 +1,5 @@
+21/02/2018 OT:3690536  Cesar Tulio / Luis Eduardo Arcila
+
+Se prueban tarjetas  en el controlador de la unidad 1 reparadas en RPM para verificar su estado y garantía.
+Se deja trabajando en condiciones normales de operación
+

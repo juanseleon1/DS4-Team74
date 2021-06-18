@@ -1,0 +1,6 @@
+
+FECHA: NOVIEMBRE 27 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se presenta nuevamente falla en el LOOP de comunicaciones, el modulo que aparece fallado en el RFC es el 7,9 en uno de sus periféricos, se procede a inspeccionar y se encuentra el cable de desgaste de pasta de freno superior rosando contra el disco produciéndose corto, el conector al sensor de desgaste de pasta se encuentra malo, se procede a desconectar el cable de en corto, desconexión realizada en el modulo 7,9 punto 1. Se deja en servicio el aerogenerador. 

@@ -1,0 +1,27 @@
+DESCRIPCIÓN DE FALLO: 
+
+Falla presentada Durante el Mantenimiento semestral programado de la unidad 4. OT 2633648 el 3 de diciembre de 2014 Horas de servicio de la unidad: 19352,12
+En el procedimiento de cierre de compuerta de descarga para inspección de rodete, la compuerta no respondió al cierre y queda atascada en un punto (alrededor de 50-70 cm desde tope) pero sube de nuevo a la posición de apertura sin problemas. Se realizaron 3 intentos de cierre pero presentó el mismo comportamiento.
+
+PRESENCIARON EL EVENTO:
+Sandra Marcel Carmona (Jefe de trabajo)
+Jorge Peñaranda (Operador)
+Renato Montoya (Lider Mto mecánico)
+
+AENCIÓN CORRECTIVA:
+
+Jefe de trabajo: Santiago Ramírez
+Lider Mto Mecánico: Renato León Montoya
+
+Se planea realizar extracción de la compuerta y de requerirse, desatascarla durante el paro de la central programado en el PIM de 2015 para extraer las compuertas de descarga de las unidades 3 y 4 para reparación del recubrimiento anticorrosivo. Este paro se tiene programado para Junio 6 - 8 de 2015.
+
+COMENTARIOS Y HALLAZGOS
+
+El trabajo se pospone para el 11 de Junio hasta el 16 de Junio (6 días). Durante este tiempo se vacea el túnel de descarga en su totalidad, se extraen las 4 compuertas. Se dejan las compuertas 3 y 4 por fuera para pintarlas. Las compuertas 1 y 2 se inspeccionan y se les realiza correctivo en las 4 guías laterales, el cual consistió en soldarlas a los paneles y retirarles los tornillos. (ver bitácora anexa).
+
+El atascamiento de la compuerta se evidenció que era debido a que los tornillos que sujetaban los tornillos de las guías laterales perdieron sus tuercas y se salieron, atascándose con el concreto del vano de la compuerta. ver informe y toda la información pertinente en el servidor de Porce 3:(\\Epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO\18. MTO COMPUERTAS DESCARGA 2015\INFORMES).
+
+Los tiempos de esta OT fueron cargados en la OT de vaciado del túnel de descarga. OT 2754158: Vaciado túnel descarga
+
+Informó: Santiago Ramírez.
+

@@ -1,0 +1,8 @@
+FECHA: 13/10/2017    SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: Por favor habilitar en el mímico de la sala de control Guadalupe 4 el control remoto para interruptor del circuito de 13.2KV bidireccional R53-10. Esta solicitud se realiza teniendo en cuenta el riesgo que corre el personal para las maniobras locales de dicho interruptor.
+
+MAYO 10 DE 2018
+
+Se cierra esta OT en vista de que no se contempla por criterios de seguridad la operacion remota del interruptor del circuiuto R53-10 en el lago de Guadalpe IV. Se evaluara la opcion mas idonea para dar respuesta a esta solicitud. Por ahora no se contempla cambiar la filosofia actual.
+
+INFORMA: SANDRA CARMONA

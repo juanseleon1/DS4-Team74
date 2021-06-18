@@ -1,0 +1,6 @@
+
+        10/05/2017. SERGIO OLIVARES D. O.T. 3485159. REALIZO: EDWAR LONDOÑO O.-- FERNANDO RUIZ A.
+
+        Se realizon paralelos de la resitencia Shunt y del voltaje de campo hacia el equipo RDS, para realizar 
+
+   medidas de referencia del rotor.

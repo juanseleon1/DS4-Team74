@@ -1,0 +1,12 @@
+ALEJANDRO VERGARA
+28/02/2019
+
+Falla en CPU 1 se procede a cambiar la CPU 2 del Regulador de tension (RT) de la unidad 1, por encontrarse el puerto ethernet malo.
+Se deja como principal la CPU 2.
+
+
+Dionis M. Zapata V. Miercoles 6/03/2015
+se retira CPXcan del almacen para reemplazar la CPXcan1 Fallada en RT de la U1PL, se cotejan parametros entre las 2 CPXcan y se deja trabajando la CPXcan1.
+
+Dionis M. Zapata V. Martes 5/03/2019
+Se realizan pruebas con la CPXcan1 para descartar problemas, y se encuentra falla en la comunicacion ethernet, la comunicacion CANopen se encuentra OK.

@@ -1,0 +1,6 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: AGOSTO 09 2015
+EJECUTANTE: GERMAN ECHAVARRIA Y PROBAYO
+
+
+Se  mide el aislamiento del contactor 17K1 del AG14 y se observa que toda la micarta presenta bajo aislamiento. Se opta por hacer el cambio del contactor.

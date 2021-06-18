@@ -1,0 +1,7 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo que comprende la adecuación mecánica de las tuercas correspondientes a la tronillería del acople de la válvula esférica de la unidad 4 de Guadalupe 3
+
+Programador: Camilo Montagut Gil - 29/08/2017
+
+Se cierra ot sin finalizar actividad debido a instrucciones del gestor de mantenimiento.
+
+Ejecuta: equipo mantenimiento mecánico UOG

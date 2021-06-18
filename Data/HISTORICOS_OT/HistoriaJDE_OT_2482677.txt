@@ -1,0 +1,21 @@
+Reference al cargador numero 3 CB-3:
+
+Este presentaba alarma falla de fase y se observaba oscilación en la tensión de salida. 
+
+Se chequeo el circuito de potencia encontrándose todo normal; esto es transformadores, fusibles entre otros, luego se cambió la tarjeta de alarmas UyG69 y la alarma borro, por tanto se procedió a cambiar esta tarjeta y calibrarla así:
+
+Tensión de cargador alta:  157.5 VDC, cuando llega a este  límite dispara el contactor Q01 de alimentación al cargador.
+Tensión de cargador baja: 126.0 VDC, cuando llega a este límite anuncia la alarma en el panel local.
+
+Se verifico la estabilidad de la tensión de salida y sus niveles en flotación e igualación quedando calibrado así:
+
+Flotación: 135 VDC.
+Igualación: 147 VDC.
+
+También se hicieron pruebas exitosas con carga apagando los cargadores CB-1 y CB-2. 
+
+Informó y ejecutó:
+Guillermo Echeverry.
+Diego Restrepo.
+Neiro Fabián.
+Óscar Duque.

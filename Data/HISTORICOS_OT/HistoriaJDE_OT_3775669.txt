@@ -1,0 +1,7 @@
+2018/10/12 ANGEL ADONIS CADAVID
+
+Sale alarma posición intermedia Equipo de patio 230Kv seccionador de barra Banco #2. Se verifica seccionador físicamente en el patio y se encuentra en posición cerrado correctamente.                                                                                                                
+Se informó al Ing. Adonis Cadavid y al CRC Ing. Héctor Tirado, para programar revisión de señales de confirmación de cierre del seccionador                              
+ Informa: Carlos Adrián Narváez
+
+Pendiente corregir señalización de seccionador cerrado, este no está llegando al controlador de bahía, se requiere unidad parada para maniobrar seccionador. Informado Edgar Maldonado y personal de protecciones TYD.

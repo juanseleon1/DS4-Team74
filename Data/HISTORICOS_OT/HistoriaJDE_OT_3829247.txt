@@ -1,0 +1,4 @@
+
+ABRIL 20/2019   OT:  3829247  PROGRAMÓ: HGIRALRI EJECUTÓ:  HENRY GIRALDO
+
+Después de un Grid Error se queda pegado el contactor 17K2, para despegarlo solo fue necesario accionar manualmente el contactor auxiliar 16K1, se deja en servicio el aerogenerador.

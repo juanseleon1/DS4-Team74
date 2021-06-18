@@ -1,0 +1,44 @@
+- FECHA : JUEVES FEBRERO 12 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - ANDRÉS ZAPATA
+- ASOCIADO A LA OT : 2666177
+- ASUNTO : HACER MANTTO MP
+
+Datos de placa:         P = 60 HP    V = 440vac    I = 77 A
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 2.1 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 475 v
+       ST = 471 v                                                                  
+       RT = 468 v 
+       Corriente de arranque:  
+Fase R = 300a
+       Corriente de marcha:  
+Fase R = 69.1 a
+Fase S = 70.2 a  
+Fase T =  67.7 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 60 a                       Calibración térmico potencia : 60 a
+
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 12330.18
+
+6. Observaciones: el térmico de control está asociado al térmico de potencia
+    El QAC6 : es un térmico de control general para el control de las  3 bombas ( 4 amp. )
+    Se realizó medida de aislamiento desde la acometida , equipo utilizado megger MI 3121 H
+    Tiempo de evacuación : 9.15 minutos ; queda operando normal.
+
+
+

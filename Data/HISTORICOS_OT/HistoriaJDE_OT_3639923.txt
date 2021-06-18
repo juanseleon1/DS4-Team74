@@ -1,0 +1,8 @@
+JHON MARIO PEREZ ARENAS. NOVIEMBRE 5/2017
+
+Se pierden las señales y las variables eléctricas de campo banco 1 en subestación. se revisa y se encuentra en falla el controlador de campo banco 1. 
+
+FECHA: 05/10/2017 OT 3639923
+REALIZO: CESAR T. JIMENEZ
+
+SE CAMBIA FUENTE DE 5.5 VOLTIOS DSSR-122, SE DAÑARON LOS DIODOS, TAMBIEN TARJETA DE COMUNICACIONES CI-532.V02, SE ENCONTRO DAÑADA, SE DESCARGA DE NUEVO EL BACKUP DEL PROGRAMA, QUEDA NORMAL.

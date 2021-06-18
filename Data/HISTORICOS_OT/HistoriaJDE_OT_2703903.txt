@@ -1,0 +1,81 @@
+FECHA: 24/02/2015 PROGRAMDOR: WILMER DAVID MENDEZ CARO
+EJECUTO: JHON DARÍO ATEHORTÚA - RODOLFO GARCÉS- CAMILO FLOREZ -ANTONIO MOLINA - JORGE ECHEVERRI
+ASUNTO: HACER MANTTO  CORRECTIVO A LA BOMBA N° 2  DE DRENAJE.
+
+Se llevó a cabo el mantenimiento programado (correctivo) de la motobomba (2) del pozo de drenaje casa de máquinas playas esto se hizo debido a un seguimiento que se efectuó a dicha motobomba y en vista que las vibraciones se estaban incrementando se tomó la determinación de intervenirla, también se anexara un registro fotográfico.
+
+Se hizo un barrido de las vibraciones antes de intervenir la motobomba arrojando los siguientes resultados
+
+El equipo que se utiliza para esta labor es el pen de vibraciones PV50 Y la medición la registra en mm/s (desplazamiento)
+
+La medición se hizo el 2015 -02 -24
+
+Aguas arriba                                 Unidad 3
+
+14.2 mm/s                                  9.9 mm/s
+
+9.8 mm/s                                    6.7mm/s
+
+5.5 mm/s                                   4.0 mm/s
+
+Tiempo de evacuación con la planta trabajando 207 MW  :  13.8”
+
+Temperatura de la carcaza del motor  45°C
+
+Corriente de arranque : 305amp
+
+Fases
+
+R : 55.5amp
+S : 52.8amp
+T : 53.2 amp
+
+El día 26 de febrero se lleva a cabo el desarme de la bomba para el mantenimiento correctivo
+
+Hallazgos, el buje que se encuentra alojado en la cavidad del prensaestopa estaba desgastado por la fricción que allí se genera
+
+También se fabrica buje para uno de los difusores por presentar desgaste por fricción
+
+Se hace limpieza general y pintura
+
+Se procede al armado haciendo sus respectivos ajustes y su posterior montaje
+
+El ajuste final de la tuerca que sujeta todo el eje  se toma con todo el eje y tazones asentado completamente
+
+Asentado : 23.7 mm
+
+Ajustado con la tuerca : 27.7mm
+
+Se hacen giros con este ajuste arrojando los siguientes resultados
+
+Aguas arriba                         Unidad 3
+
+4.4 mm/s                               3.7 mm /s
+
+3.8 mm /s                              2.4 mm/s
+
+2.0 mm /s                              1.8 mm/s
+
+Tiempo de evacuación con la Planta trabajando a 207MW  10.26”
+
+Temperatura de la carcaza 41°C
+
+Corriente de arranque : 305.3 amp
+
+Corriente de fases
+
+R : 54.7 amp
+
+S : 53.7 amp
+
+T : 54.7 amp
+
+Nota: el mantenimiento fue ejecutado por el grupo de electricistas y mecánicos de la planta
+
+
+
+
+
+
+
+

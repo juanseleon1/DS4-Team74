@@ -1,0 +1,7 @@
+
+FECHA: JULIO 2 DE 2015 OT: 2807544
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se para el aerogenerador por falla corriente tiristor, se revisa la Bottom box y se encuentra la fuente 32A1 quemada, se procede a realizar el cambio y se deja en servicio el aerogenerador.

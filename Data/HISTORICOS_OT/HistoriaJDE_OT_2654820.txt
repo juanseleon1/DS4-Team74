@@ -1,0 +1,4 @@
+
+DICIEMBRE 10-2014
+
+Cambio de la manquera de salida de la bomba 1 del sistema de refrigeración del AG14 y el código de OW 63910. Se aprovecha y se le recupera el agua al sistema de refrigeración. 

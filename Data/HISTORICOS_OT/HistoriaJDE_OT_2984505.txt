@@ -1,0 +1,16 @@
+------------------------------------
+FECHA: 25 ENERO 2016
+SE CANCELA OT
+EL PERIODO DE MANTENIMIENTO PARA ESTE EQUIPO SE DEFINIÓ SEMESTRAL.
+INTERVENSIÓN ANTERIOR: DICIEMB 2015  - - - PRÓXIMA INTERVENSIÓN JUNIO 2016
+
+------------------------------------
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

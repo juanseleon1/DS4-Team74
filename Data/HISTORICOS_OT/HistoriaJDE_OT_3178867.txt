@@ -1,0 +1,8 @@
+FECHA: JULIO 17 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Debido a que cuando la maquina trata de ubicarse de frente al viento se produce falla Stop Yaw Error, se revisan los sensores de la yaw y se encuentra el de 90° malo, se realiza el cambio y se deja habilitado este sistema.
+
+Queda en operación el AG.

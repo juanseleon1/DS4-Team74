@@ -1,0 +1,20 @@
+15/09/2017
+Se presenta falla en la unidad, al momento de girar se falla el sistema de refrigeración. Se revisa y se encuentra el PLC fallado del CCM2.
+
+
+15/09/2017
+
+se realiza verificacion del programa en el PLC del CCM2, se encuentra la rutina detenida y algunas fallas por tarjeta de red, se inicia la rutina y el PLC queda sin fallas y normalizado.
+
+este evento causa desviacion por que la unidad deberia realizar regulacion secundaria y los dos periodos no pudo realizarla 
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

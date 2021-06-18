@@ -1,0 +1,6 @@
+2015/09/15 LESLIE MARULANDA
+Actividades de la orden
+ Identificación y Desmonte sensores sistema contraincendios CO2.
+ Bloqueo valvula salida tanque CO2.
+ Desconexion o deshabilitar zonas desde el panel principal sistema contraincendios.
+ Desmonte cableado y ductos, sistema contraincendios lado acople "para retirar el techo lado carga y retirar los cojinetes". 

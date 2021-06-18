@@ -1,0 +1,21 @@
+
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717982.
+PLANEADOR LUIS FEDERICO ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación al TCV así:
+Bornera X41, bornes 70, 71: se encuentran desconectados.
+Se verifica sensor del By pass en la IHM y en el modulo PLC 401.09>14(By pass abierto).
+Se realiza comparación de los datos que llegan a la IHM con los datos físicos de los instrumentos y coinciden los valores ( UHS-UHE).
+Se realiza prueba con el sensor de nivel de aceite de la UHE desconectandolo y no registra falla en el PLC e IHM.
+401.09>13: Válvula esférica falla recuperando.
+401.09>12: Válvula esférica recuperando.
+401.09>10: Válvula esférica abierta.
+Se prueban los sensores de posición de la válvula esférica con visualización de la señal en la IHM del tablero de control y en el modulo  de PLC.
+Se realiza mantenimiento del sensor de posición radial de la válvula.
+Se verifican las señales de los sellos en la IHM y en el PLC así:
+Sello Mantenimiento: 401.10-09 (Retirado).
+Sello de servicio: 401.10-06 (Retirado)
+ambos sellos se encuentran aplicados antes de la prueba.
+
+Realizo: Eladio Piedrahita, Jeniffer García.
+
+XL: CHEQUEAR Y VERIFICAR CONTROL VALVULA DE ADMISION +TCV DE LA UNIDAD 4 P3.

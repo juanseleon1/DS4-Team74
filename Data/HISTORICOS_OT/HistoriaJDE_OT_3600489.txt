@@ -1,0 +1,5 @@
+MTTO CORRECTIVO: -CAMBIAR LOS SEIS TRANSFORMADORES DE LA MAQUINA Y REALIZAR PRUEBA DE CORTO CIRCUITO LARGO DE LA MAQUINA. COORDINAR CON EL EQUIPO ELETRONICO PARA PROGRAMAR EL REGULADOR DE TENSIÓN Y HACER PUENTE EN LOS CTS DEL BANCO DE LA UNIDAD 1.
+
+SEPTIEMBRE 26 DE 2017
+Se retira la bandeja porta cables y los CT’ s, se montan unos nuevos CT’ s marca ABB por el lado del barraje de salida y punto neutro, se le realizan pruebas de funcionamiento, se instala nuevamente la bandeja porta cables con su respectivo cableado de control. Después de realizar el cambio de los CT’ s se cierra nuevamente e barraje de salida, se realiza la prueba de corto circuito largo y se energiza la unidad de modo manual incrementado la corriente para las pruebsa de funcionamiento de los CT's.
+Programó: William Lopera.

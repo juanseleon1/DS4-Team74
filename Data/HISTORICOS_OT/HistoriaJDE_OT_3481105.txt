@@ -1,0 +1,53 @@
+Fecha de solicitud: 13 de Mayo de 2017
+Solicitante: Santiago Ramírez
+Planeador: Renato Montoya
+Programador: Oscar Parra
+
+Descripción de Fallo: 
+Operación Reporta acumulador de nitrogeno AK132 de la estación hidráulica del regulador de velocidad de la unidad 3 con presión baja 80 bar. Presión Normal: 150 Bar.
+
+Descripción de solicitud:
+
+1. Diagnosticar posible causa de pérdida de presión y de ser posible repararla.
+2. Recargar acumulador según procedimiento descrito en el manual "211.- MANUAL DE OPERACIÓN Y MANTENIMIENTO (0678-00-13-MO0300_r03 Manual de operaci¢n y mantenimiento - CAO), #5.1.3.1 " en la página 133.
+
+
+Observaciones de planeación:
+
+Fecha prevista de ejecución: x de Junio de 2017
+
+1.
+Informa: xxx  Fecha: xxx
+
+2.
+Informa: xxx  Fecha: xxx
+
+Fecha y hora Real de ejecución: xxx
+
+Observaciones de ejecución:
+
+1.
+Informa: xxx  Fecha: xxx
+
+2.
+Informa: xxx  Fecha: xxx
+
+Fecha y hora de finalización: xxx
+*******************************************************************************************************************
+JUNIO 03 2017
+SE REALIZA PRUEBAS DE CARGA CON CILINDROS DE NITROGENO AL ACUMULAADOR 2 DE LA UNIDAD 4 QUE PRESNTABA PRESION EN 65 BAR, SE REALIZA SEGUN PROCEDIMIENTO, ES NECESARIO REVISAR YA QUE AL EMPEZAR A CARGAR LOS ACUMULADORES LLEGA A UNA IGUALACION DE PRESIONES CON EL CILINDRO DE NITROGENO QUE NO PERMITE SEGUUIR LA CARGA DEL ACUMULADOR.
+
+OSCAR PARRA
+******************************************************************************************************************
+JULIO 24 2017
+
+RENATO MONTOYA HACE CONTACTO CON LA EMPRESA SUMEQUIPOS CON EL SEÑOR DANILO URREA, PARA REALIZAR VISITA A LA CENTRAL, HECER COTIZACION DE REPARACION Y SUMINISTRO DE 2 CILINDROS ACUMULADOR PISTON DE REPUESTO, YA QUE NO CONTAMOS CON LAS BOMBAS DE VACIO PARA LA CARGA DEL SISTEMA Y EL KIT DE REPARACION.
+
+OSCAR PARRA
+
+_____________________________________________________________________________
+
+PLANEADOR: RMONTOYG
+FECHA: 26/12/2017
+
+ESTA PENDIENTE REPARACION Y CARGA DE ESTE BANCO YA QUE POR TIEMPO DE ENTREGA DE LOS REPUESTOS Y EQUIPOS ERA DE 28 SEMANAS Y NO FUE POSIBLE CONSEGUIRLOS PARA EL AÑO EN CURSO. SE GENERARA OTRA OT PARA SU REPARACION Y CARGA.

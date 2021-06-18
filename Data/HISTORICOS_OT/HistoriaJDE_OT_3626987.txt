@@ -1,0 +1,13 @@
+
+2017/10/15 DIEGO BEDOYA
+Se realiza el cambio de filtros MAHLE en el comando de aguja N°1 de la U3, debido a que se estaba quedando pegada la aguja en el momento de bajar carga. Con este cambio de filtros mejoro el comando.
+El trabajo fue realizado por Andres Alzate y Jorge Duque.
+
+2017/10/17 DIEGO BEDOYA
+Se realiza el cambio del micro filtro en el comando de aguja N°1 de la U3, debido a que estaba muy lenta su repuesta en el momento de cerrar la aguja para disminuir carga. Queda respondiendo bien a las consignas que se le dan.
+El trabajo fue realizado por Yesid Sánchez y Orlando Zuleta
+
+noviembre 21 de 2017 
+ot cerrada
+andres ramirez 
+

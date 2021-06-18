@@ -1,0 +1,5 @@
+FECHA: 13/08/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri - Gustavo Quintana Operación G3
+DESCRIPCIÓN: Se presenta falla grave en el regulador electrónico de velocidad de la unidad 2 de Guadalupe III por pérdida medida de frecuencia.
+13/08/2018
+Se realiza la revisión las borneras donde llega el cableado de los PT y desde el trasductor hasta las borneras de la entrada del regulador, se reaprietan tornillos de las borneras y se chequea el cableado y conexionado de este laso, el sistema se encontro en buenas condiciones.
+

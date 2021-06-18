@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento correctivo que comprende la correción y adecuación de la manguera de presión del freno de emergencia en la cabina 1 del teleférico 
+
+Programador: Camilo Montagut - 15/06/2016
+
+Referente al sistema de frenado de la cabina # 1 del teleférico: tras la rotura de la manguera flexible de la línea de presión del freno de emergencia, se realiza la adecuación mecánica de una línea provisional permitiendo des energizar el freno de emergencia y así restablecer mecánicamente el sistema. Queda pendiente adecuar las mangueras originales del freno de emergencia.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+
+

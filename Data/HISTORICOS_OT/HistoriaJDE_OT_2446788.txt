@@ -1,0 +1,13 @@
+XE: REVISION Y MEDIR MOTOBOMBAS REGULADOR HIDRAULICO
+---------------------------
+
+REALIZÓ: JULIAN GIRALDO - CAMILO CARDONA
+
+
+AISLAMIENTO / TIERRAFASE GR6,42S6,93T7,58
+
+VOLTAJEFASE VOLTIOSR - S451S - T450T - R448
+
+Se hace mtto eléctrico y limpieza a la bomba 1 de la estación hidráulica, se le aplica limpia contactos, se revisa y reaprieta los bornes de alimentación, se hacen pruebas de arranque y funcionamiento. Se toman los valores de corrientes  de arranque y de trabajo, así como la caída de voltaje, también se meguea el motor, los datos están en la planilla registro de mantenimiento revisión general de motores.
+
+------------------------------------------------------

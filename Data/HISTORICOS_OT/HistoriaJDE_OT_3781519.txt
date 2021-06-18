@@ -1,0 +1,20 @@
+
+FECHA: noviembre 06/2018PROGRAMO: DANIEL PALACIOS EJECUTO :YOANIS ENRIQUE RODRIGUEZ.
+Se realiza mantenimiento a:
+
+La UPS 3 del contenedor de baja: Realizar inspeccion y limpieza de <ups y <modulos de potencia, inspeccionar operacion de ventiladores e instrumentos de medida.
+
+Tablero de distribucion TUPS-04: Realizar inspeccion y limpieza del tablero de distribucion, verificar auxiliares de tablero, equipos de medida y puestas a tierra.
+
+Banco de baterias de UPS 3: Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, soplado de baterias o fugas de electrolito.
+
+Cargador de 125 vdc ELTEK a 125 Vdc: Realizar inspeccion y limpieza de modulos de potencia, inspeccion de cableao y partes internas del cargador, inspeccionar alarmas.
+
+Bancos de baterias del cargador ELTEK:Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, soplado de baterias o fugas de electrolito.
+
+ESTA OT SE CIERRA PARA SER REMPLAZADA POR UNA NUEVA EN ENERO DEL 2019, EN EL NUEVO SISTEMA DE INFORMACION DE MAXIMO, EL TRABAJO SE REPROGRAMA PARA ENERO Y FEBRERO DE 2019.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ A.
+PROGRAMADOR: DANIEL EDUARDO PALACIOS O.
+OT:
+FECHA:

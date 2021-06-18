@@ -1,0 +1,11 @@
+SOLICITANTE: OPERACIÓN TURNO 3FECHA: 08/10/2017
+
+Unidad G33 salida forzada por paro rápido debido a disparo nivel alto aceite cojinete inferior. Requiere revisión y correctivo.
+
+Programador: Camilo Montagut - 2017/10/18
+
+Luego del paro de unidad se procede a verificar cual fue la causa exacta de la situación. Se verifica que el nivel de aceite se encuentra más alto el nivel patrón (según mirilla) y para descartar que este se encuentre emulsionado, se extrae una cantidad considerable de aceite verificando que no extisten trazas algunas de agua. Finalmente se deja el nivel de aceite 2 mm por debajo del nivel patrón según mirilla.
+
+Nota: tener en cuenta que el aumento en el volumen del aceite se debió a la expansión térmica que tiene este fluido al trabajarse en un régimen de operación normal
+
+Ejecuta: equipo mantenimeinto mecánico UOG

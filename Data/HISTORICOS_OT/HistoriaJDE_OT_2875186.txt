@@ -1,0 +1,7 @@
+
+FECHA: SEPTIEMBRE 10 DE 2015  OT: 2875186
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se revisa la Top Box ya que se presenta falla por comunicaciones, se calibraron las fuentes en 24,5 voltios; también se observa el módulo 7,9 parpadeando pero sin presentar falla del LOOP, se procede a apagar todo el control y al reiniciar el modulo queda bien, se deja en observación.

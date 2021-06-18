@@ -1,0 +1,16 @@
+PLANEADOR:BIANEY BRAVO
+
+PROGRAMADOR: WILLIAM LOPERA
+
+FECHA: 6 DE OCTUBRE DE 2016.
+SOLICITANTE. ROBIN TAMAYO.
+FAVOR REVISAR INTERRUPTOR PRINCIPAL DE DISTRIBUCION BARRAJE 120VAC DE LA UPS EN SUBESTACION EL SALTO, SE ESTA DISPARANDO PORQUE SE ENCUENTRA SATURAD LO QUE HACE QUE SE ABRA ANTE CUALQUIER CAMBIO DE DE CARGA. POR SU ATENCION.MUCHAS GRACIAS.
+
+ATT: ROBIN TAMAYO.
+NUMERO DE EQUIPO 381603.UPS AUX S/E EL SALTO.
+
+OCTUBRE 16 DE 2016
+Referente a la UPS subestación el salto. Se desconecta de la UPS la carga de la antena de Tigo que es de 11 amperios por fase, y se conecta independiente desde los servicios auxiliares de 208 Vac, esto por motivo que la UPS que se tiene es de 6 KVA y con esta carga estaba quedando muy ajustada a la capacidad nominal, también se  aprovechó  para energizar la UPS de 20 KVA la cual estaba apagada por falla en el inversor y se le había realizado mantenimiento días anteriores, esto con el fin de a mantener cargado el banco de batería, cabe anotar que esta UPS se encendió con el procedimiento adecuado y ya no está mostrando falla en el inversor, queda normal y en prueba durante una semana para verificar su correcto funcionamiento.
+Estos trabajos fueron realizados bajo consignación local con la OT: 3270403.
+Realizo: Grupo eléctrico.
+Informó: Carlos A. Forero, William Lopera.

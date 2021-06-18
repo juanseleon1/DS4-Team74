@@ -1,0 +1,6 @@
+
+FECHA: 1 DE MARZO DE 2013
+
+EJECUTO: PEDRO 
+
+Se cambia el modulo 7.0 en el AG12 por falla de comunicaciones 

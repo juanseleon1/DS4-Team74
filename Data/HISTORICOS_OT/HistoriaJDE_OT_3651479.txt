@@ -1,0 +1,49 @@
+OT: 3651479
+SOLICITANTES: FABIAN GIRALDO, ROBIN TAMAYO.
+FECHA: MARTES 28 DE NOVIEMBRE DE 2017.
+FAVOR REVISAR EL NIVEL DEL COJINETE DE TURBINA DE LA UNIDAD 2 DE GUADALUPE IV PORQUE AL DARLE ARRANQUE A LA UNIDAD DIO PARO DE EMERGENCIA Y AL REVISAR SE VIO QUE EL NIVEL MOSTRABA BAJO, FUE NECESARIO ADICCIONARLE 7 LITROS DE ACEITE, FAVOR REVISAR, MUCHAS GRACIAS.
+
+ATT: FABIAN GIRALDO, ROBIN TAMAYO.
+NOTA: ESTA UNIDAD 2 DE GUADALUPE IV VIENE PRESENTANDO PROBLEMAS DE CALENTAMINTO EN ESTE COJINETE DE TURBINA SE VIENE CONTROLANDO Y MONITORENADO CON EL PORCENTAJE DE APERTURA DE LAS DUCHAS.
+
+Programador: Camilo Montagut - 30/11/2017
+
+Nuevamente se realiza inspección en el sistema de refrigeración encontrándose todo normal. A continuación se registra las últimas eventualidades en orden cronológico:
+
+- (08/11/2017) Operación informa alto nivel de aceite y el equipo de mantenimiento procede a inspeccionarlo. Se extraen 56 litros de aceite con trazas de agua y se agrega aceite tratado hasta llegar a nivel patrón. Al inspeccionar la posible causa de la cantidad de agua contenida en el cojinete se encuentra que la válvula de las duchas se encuentra abierta en un 100% creando un ambiente turbulento. Se deja la válvula en un 50% de apertura (temperatura promedio en 70 °C - responsable: Camilo Montagut)
+
+- (19/11/2017) Operación informa alto nivel de aceite y el equipo de mantenimiento procede a inspeccionarlo. Se extraen 10 litros de aceite con trazas de agua y se agrega aceite tratado hasta llegar a nivel patrón. Se inspecciona la altura de las duchas y la distancia entre estas y la cuba del cojinete encontrándose similares a las de las unidades 1 y 3.  Se deja la válvula en un 40% de apertura (temperatura promedio en 77 °C - responsable: Camilo Montagut)
+
+- (22/11/2017) Operación informa alto nivel de aceite y el equipo de mantenimiento procede a inspeccionarlo. Evidentemente se encuentra un poco más alto el nivel según patrón sin embargo se decide no extraer aceite debido a que este todavía se encuentra caliente (temperatura implica expansión térmica del aceite). Se deja la válvula en un 30% de apertura
+
+- (22/11/2017) Operación informa alta temperatura en el cojinete (llegando a 82 °C) y se toma la decisión de abrir al 100% la válvula con el fin de enfriar y estabilizar la temperatura del equipo. (responsable: Camilo Montagut)
+
+- Se abre la válvula a un 70% (No hay responsable)
+
+- (24/11/2017) Operación informa alto nivel de aceite y el equipo de mantenimiento procede a inspeccionarlo. Se extraen 40 litros de aceite con trazas de agua y se agrega aceite tratado hasta llegar a nivel patrón.  Se deja la válvula en un 35% de apertura (Responsable: Sergio Ramírez)
+
+- (28/11/2017) Es necesario adicionarle 7 litros de aceite por presentar bajo nivel
+
+- (30/11/2017) Se inspecciona el cojinete y se encuentra la válvula en un 50% de apertura y con temperatura estable en 70 °C 
+
+Queda cómo tarea pendiente la próxima vez que pare la unidad verificar sí el nivel de aceite contenido en el cojinete ha incrementado. Además se propone: 
+
+1. Con máquina parada se debe entrar el sistema de refrigeración de la unidad y verificar el nivel de aceite dentro del cojinete y así descartar que el agua que le está entrando al cojinete no sea por su propia refrigeración.
+
+2. Realizar desmonte y limpieza de la tubería de refrigeración y así descartar que no existan elementos obstáculos dentro de la tubería que este disminuyendo la transferencia de calor del mismo cojinete.
+
+3. En último lugar se debe verificar el estado de los sellos del cojinete
+
+Informa: Camilo Montagut
+
+miercoles 13 de diciembre 2017
+
+Se realiza una inspeccion del nivel de aceite del cojinete de turbina, despues de estar la unidad en operacion aproximadamente 8 horas, con el fin de evidenciar incrementos en el nivel de aceite de la cuba por entrada de agua, o perdida de nivel; se reporta por parte de operacion incrementois en la temperatura del aceite del cojinete hasta punto de alarma 80ºC, por lo cual se realiza una calibracion de las duchas, dejandolas abiertas aproximadamente al 50%. se evidencia que las temperaturas permanecen estables.  
+
+miercoles 20 de diciembre 2017
+
+se realiza nueva inspeccion al cojinete despues de parar la unidad por generacion, se revisa los niveles del cojinete y se encuentra todo normal. se evidencia que el cojinete a normalizado su funcionamiento en condiciones operativas. 
+
+informo: carlos ospina
+
+

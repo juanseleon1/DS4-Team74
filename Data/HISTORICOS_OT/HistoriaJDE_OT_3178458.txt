@@ -1,0 +1,17 @@
+
+
+
+Julio 15 de 2016 
+Se cambia la señal U1-8.90 por la U1-8.91, INTERRUPTOR GENERADOR  por presentar canal malo en tarjeta DSDI110A.
+Se actualiza tanto en los despliegues del Scada como en los planos de banco. 
+
+Cesar Tulio 
+Luis Eduardo Arcila 
+
+
+Julio 15 de 2016 
+Se cambia la señal U1-8.90 por la U1-8.91, INTERRUPTOR GENERADOR  por presentar canal malo en tarjeta DSDI110A.
+Se actualiza tanto en los despliegues del Scada como en los planos de banco. 
+
+Cesar Tulio 
+Luis Eduardo Arcila 

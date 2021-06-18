@@ -1,0 +1,5 @@
+2017/12/12 FARLEY GIOVANNY DIAZ
+Se realiza la inspección visual, medidas de voltajes a los sensores de la válvula esférica, se verifican los led y relés, se realiza limpieza y medidas de resistencia Ohmica a las electroválvulas según planillas.
+
+2017-12-06 REALIZÓ: JHONATAN ANDRES USME - JEISON ALBERTO ORTEGA,  PROGRAMO: FDIAZ OT: 3651667, PASO:1          
+Se realizó mantenimiento prevenitivo a la Unidad 8, se realizó revision de los sensores de la valvula de admision, se encontró en condiciones normales

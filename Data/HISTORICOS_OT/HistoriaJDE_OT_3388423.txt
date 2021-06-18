@@ -1,0 +1,16 @@
+FECHA: FEBRERO 6 DE 2017.
+SOLICITANTES: WILSON ARANGO, ROBIN TAMAYO.
+FAVOR REVISAR EL SISTEMA DE REFRIGERACION DEL ESTATOR DE LA UNIDAD 1 DE TRONERAS PORQUE SE VIENE CALENTANDO A NIVELES DE ALARMA (RTD#4 108°C), ADEMAS EN UBO DE SUS RADIADORES SE PRESENTA UNA FUGA ABUNDANTE DE AGUA QUE ESTA MOJANDO LOS INSTRUMENTOS DE FLUJO DE LOS COJINETES. MUCHAS GRACIAS.
+
+Programador: Camilo Montagut - 22/03/2017
+Luego de las pasadas inspecciones y la corrección de una fuga en una de las bridas de la tubería de refrigeración aparaece una nueva fuga de agua proveniente de un poro presentado en la misma tubería de refrigeración. Se realiza el correctivo necesario y se le informa a los ingenieros de la unidad que se hace necesario el cambio de la tuberìa de refrigeración ya que en varios puntos presenta perdida de espesor (tener en cuenta que la tubería de refrigeración es de acero al carbono).
+Tras este episodio se decide inspeccionar el estado interno de los radiadores, evento que se realiza el jueves 16 de marzo a cargo del ingeniero Gabriel Tamayo.
+Ejecuta: equipo mantenimiento mecánico UOG 
+
+FEBRERO 7 DE 2017
+
+En revsiones previas se determno que la fuga de agua proviene de la tuberia de refrigeracion de los cojinetes. Se espera que la unidad este parada para realizar una revision mas detallada y reparacion de la fuga. Los intrumentos estan protegidos por plasticos para evitar daño por humedad. 
+
+Sobre el aumentos de temperatura en la RTD #4 ya se habia detectado letura anormal del intrumento. Solo cuando haya un incrementos uniforme de la temperutara (leidos por las otras RTD) se considera aumento real en el estator.
+
+Informa: Sandra Carmona y Camilo Montagut

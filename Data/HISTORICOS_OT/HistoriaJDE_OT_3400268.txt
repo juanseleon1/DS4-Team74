@@ -1,0 +1,11 @@
+SOLICITANTE: OPERACIÓN G4 TURNO 3FECHA: 18/02/2017
+
+Distribuidor de turbina presenta problemas de ajuste en secuencia de arranque automático, siendo necesario operarlo localmente desde el regulador de velocidad.
+
+18-02-2017
+programador jose montoya
+se revisa el distribuidor de la unidad y se realiza calibracion y adicionalmenta se realiza reset al regulador de tensión que se encontraba fallado
+
+
+
+ 

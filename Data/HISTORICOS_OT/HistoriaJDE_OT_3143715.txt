@@ -1,0 +1,18 @@
+SOLICITANTE: EQUIPO METROLOGÍA UOG.FECHA: 16/07/2016
+
+Realizar metrología según Plan Anual, durante el mantenimiento preventivo (PIM).
+
+Realizar inyeccion de voltajes y corrientes para comprobar el correcto funcionamiento del Transductor de Potencia.
+
+
+Planeador: Oscar Arango
+
+Programador: Uaimer Diaz
+
+
+
+SE REALIZA UNA VERIFICACION DEL INSTRUMENTO INYECTANDO VALORES DE VOLTAJE Y CORRIENTE CON LA MALETA TRIFASICA,EL COMPORTAMIENTO DEL INSTRUMENTO FUE BUENO. LOS VALORES DE CORRIENTE Y DE VOLTAJE INYECTADOS FUERON TOMADOS DE LOS DE LOS REGISTROS REGISTROS  DEL  SISTEMA DE CALIDAD.
+
+
+
+TEALIZO: UAIMER DIAZ

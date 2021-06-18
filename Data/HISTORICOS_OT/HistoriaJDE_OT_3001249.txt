@@ -1,0 +1,12 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FEBRERO 03 DE 2016
+
+
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES GUADALUPE 4
+
+10-02-2016
+PROGRAMO:JOSE MONTOYA
+EJECUTO GRUPO ELECTRONICA
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados y las RTD de los radiadores. No se encontró ninguna novedad.
+Se desconectan los 3 flujo metros y retira el flujo metro del cojinete superior se realiza mantenimiento.

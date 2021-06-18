@@ -1,0 +1,15 @@
+
+FECHA: JULIO 18 DE 2015 OT: 2823147
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por demasiados arranques del sistema hidráulico, se inspecciona y se encuentra salida de aceite por el freno numero 5 de la yaw, se realiza prueba a los demás frenos y se encuentra malo también el 6, debido a que estaba ya muy tarde se procedió a dejar trabajando la maquina con 4 frenos.
+
+
+FECHA: JULIO 22 DE 2015 OT: 2823147
+
+EJECUTANTE: ALVARITO PUSHAINA Y ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+Se realiza el cambio de los frenos 4, 5 y 6  de la yaw. El 4 y 5 son frenos con empaques antiguos y el 6 es con empaques nuevos, se le adiciona 1 galon de aceite DTE24.

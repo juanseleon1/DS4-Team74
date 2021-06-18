@@ -1,0 +1,22 @@
+PLANEADOR: FRANCIS LONDOÑO VERA, 2017-09-11
+OT PARA LA INSPECCION PREVENTIVA DE LA COMPUERTA 2 DE DESCARGA DEL EMBALSE DE PORCE 2
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo no debe estar en funcionamiento se debe deshabilitar y colocar ficha de seguridad. Desenergizar tablero de alimentación.
+2. Temperaturas altas en algunas partes del equipo. Usar guantes de protección.
+PROCEDIMIENTO DE LA INSPECCIÓN
+1. Inspeccionar elementos del sistema hidráulico (mangueras, vávulas, racores, tubería, etc).
+2. Revisar fugas de fluido del sistema.
+3. Revisar estado de los elementos expuestos a intemperie.
+5. Revisar sellos laterales.
+6. Verificar que no haya fugas de agua del embalse.
+7. Inspeccionar tornillería, anclajes y fijaciones 
+PROGRAMADOR: JUAN GILBERTO TOBON CUARTAS, 25-10-2017
+INFORMACION SOBRE LA EJECUCION DE LA OT
+- TUBERÍAS, MANGUERAS, VALVULAS Y RACORES DEL SISTEMA HIDRAÚLICO EN BUES ESTADO
+- EL SISTEMA NO PRESENTA FUGAS
+- PINTURA SE ENCUENTRA DETERIORADA
+- SELLOS DE LA COMPUERTA EN BUEN ESTADO
+- TORNILLERÍA, ANCLAJES Y FIJACIONES EN BUEN ESTADO
+- LATIGUILLOS PARA  CAMBIO POR DETERIORO
+
+TRABAJO REALIZADO POR: DEIVI BAENA, CARLOS GUINGUER Y GUSTAVO LOPERA

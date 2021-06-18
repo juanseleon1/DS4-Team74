@@ -1,0 +1,23 @@
+MANTENIMIENTO PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III.
+05/07/2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo segun intructivo GCG3E009. Se retiran las escobillas de los portaescobillas, se realiza prueba de aislamiento antes de la limpieza, se lava toda la excitacion con dielectrico, se miden las escobillas, despues de la limpieza se mide de nuevo aislamiento.
+
+Nota: estos son los resultados del antes y el despues de la limpieza.
+
+ANTES                                                             DESPUES
+Anillo superior: 173 K    331VDC               Anillo superior:  2.28 G
+Anillo inferior:   188 K    340 VDC              Anillo inferior:     2.28 G
+
+Se cambian siete escobillas en total de los anillos rozantes, ya que no tenian la medida para el criterio de aceptacion. Son las siguientes:
+
+2: 23.2 mm
+5: 21.7 mm
+7: 22.6 mm
+9: 23.8 mm
+11: 24.2 mm
+14: 23.3 mm
+18: 23 mm
+
+Ejecuto: Daniel Arango-Juan David Gutierrez
+Programo: Carlos Andres Forero

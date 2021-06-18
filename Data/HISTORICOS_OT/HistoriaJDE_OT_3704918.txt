@@ -1,0 +1,7 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-09 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704918, PASO:2          
+Se realizó aseo general al estator, principalmente a la zona de los bolsillos de los radiadores, también se realizó aseo general a las paredes del recinto. 
+
+El Lavado criogenico lo realiza el personal de la cuadrilla movil.

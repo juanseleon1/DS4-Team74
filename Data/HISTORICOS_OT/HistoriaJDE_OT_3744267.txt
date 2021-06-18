@@ -1,0 +1,6 @@
+11 DE JULIO DE 2018 IVAN DARIO ZAPATA GOMEZ
+LA VALVULA DE ADMISION DE LA UNIDAD 2 DE GUADALUPE 3 PRESENTA FUGA DE AGUA EN LA TUBERIA DE ENTRADA AL SERVO DE APERTURA DE LA MISMA.
+
+18/07/2018
+
+Se corrige la mencionada fuga cambiando empaque a la universal que acopla la tuberia con la entrada de agua al servomotor en la via de cierre.

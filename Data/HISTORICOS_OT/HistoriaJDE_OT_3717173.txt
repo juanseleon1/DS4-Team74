@@ -1,0 +1,11 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+
+2018/04/13 DIEGO BEDOYA
+Se realiza la extraccion del aceite del tanque del regulador hidráulico de la Unidad N°8, para realizarle limpieza a los tanques acumulador y sumidero, tambien se hace mantenimiento a todos los bloques de las electroválvulas, se cambian filtros mahle en todos los comandos y el regulador, se realiza calibarcion de trasductor y válvula MOOG.
+Se deja el regulador en condiciones normales de operación.

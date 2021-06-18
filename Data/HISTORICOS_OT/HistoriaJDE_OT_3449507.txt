@@ -1,0 +1,20 @@
+PLANEADOR:CESAR AUGUSTO GIRALDO RESTREPO
+PROGRAMADOR: WILLIAM LOPERA
+FECHA: 07/04/2017
+
+ASUNTO : MEJORA AL TABLERO QUE PERTENECE A LA COMPUERTA, CON EL FIN DE COMPRA Y MONTAJE DEL NUEVO EQUIPO.
+
+ACTIVIDADES: 
+ LEVANTAMIENTO DE LA INFORMACION.
+ ELABORACION DE PLANOS.
+ ESTUDIO DE MERCADO
+ ESPECIFICAR ELEMENTOS QUE SE REQUIEREN PARA LA MEJORA.
+ MONTAJE Y PUESTA EN SERVICIO.
+
+DICIEMBRE 14 DE 2018
+Se compro el tablero de control en acero inoxidable con las normas retie, se hace modificaciones con el apoyo mecanico para el anclaje, se cablea el control y potencia, se hizo mantenimiento preventivo al motor y finales de carrera. Se realiza pruebas de funcionamiento del control con apertura y cierre de la compuerta.
+Programo: William Lopera
+
+DICIEMBRE 27 DE 2017.
+Se genero un contrato para la compra del tablero de control y potencia, queda pendiente para el mes de febrero del 2018 ponerlo en servio
+William Lopera

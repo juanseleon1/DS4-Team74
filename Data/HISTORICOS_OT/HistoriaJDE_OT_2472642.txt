@@ -1,0 +1,11 @@
+Por solicitud directa de supervisores mecánicos se atiende esta OT en la cual se ejecutó los siguiente
+
+La falla de compresor se evidenció en el proceso de arranque, ya que inicialmente arrancaba pero no hacia el proceso de carga, se identificó que la valvula de entrada de aire permanecía cerrada, se realizó verificación de funcionamiento, y verificación de cada señal en electrovalvulas neumaticas, se hizo mantenimeinto a actuadores neumaticos los cuales se enocntraron con mucha suciedad. 
+
+Se realizó algunos ajustes en las conexiones neumáticas ya que estaban mal conectadas, se hizo pruebas de funcionamiento y calibraciones necesarias. 
+
+Se dejó en operación electrica normal, aunque se evidencio una perdida de aceite cuando se pone en servicio durante unas 18 horas pierde alrededor de un litro de aceite, se hace entrega al grupo de mantenimiento mecánico de esta observación. 
+
+Realizó: Guillermo Cordoba - Victor Zuleta
+Solicitó: Ricaurte lópez - Mecánico
+Planeó: Ruben Arboleda

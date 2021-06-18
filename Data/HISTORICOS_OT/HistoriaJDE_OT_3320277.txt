@@ -1,0 +1,8 @@
+2016/11/21 Luis Eduardo Arcila
+
+Falla tarjeta DSBC173 del controlador de servicios auxiliares, afectando también las tarjetas digitales del rack superior.
+En el momento no contamos con repuestos de las digitales, por lo que estamos en la espera de su respectiva reparación y restablecimiento del controlador.
+2016/11/21 Luis Eduardo Arcila
+
+Falla tarjeta DSBC173 del controlador de servicios auxiliares, afectando también las tarjetas digitales del rack superior.
+En el momento no contamos con repuestos de las digitales, por lo que estamos en la espera de su respectiva reparación y restablecimiento del controlador.

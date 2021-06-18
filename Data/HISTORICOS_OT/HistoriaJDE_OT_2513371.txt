@@ -1,0 +1,6 @@
+
+FECHA: ABRIL 21 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Aprovechando que el AG 15 estaba detenido se revisa las conexiones del sensor de nivel de aceite caja multiplicadora, esto con el fin de verificar el estado y compararlas con las conexiones del mismo sensor en el AG14, se concluye que el sensor del AG6 esta conectado en el punto que no es en el modulo 7,9 se cambiara mas adelante.

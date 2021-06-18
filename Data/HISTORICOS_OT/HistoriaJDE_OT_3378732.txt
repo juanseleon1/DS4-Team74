@@ -1,0 +1,14 @@
+
+
+ENERO 20 /2017
+
+COMPRESOR INYECCION AIRE TURBINA U3_PL; PRESENTA FALLA POR ALTA PRESION DEPOSITO, LA CUAL IMPIDE SU ARRANQUE NORMAL.
+
+
+27 de enero de 2017
+
+Se revisa el compresor con personal de la empresa Almacenes JJ (Distribuidores Certificzdos de INGERSOLL RAND). Se encuentra traductor de presión descalibrado, lo que ocasiona bloqueo de la válvula 10DS. se procede a recalibrar transductor, aislando el compresor del sistema y descargando la presion de éste a la atmosfera. De esta forma el transductor toma com referencia la presión atmosferica como cero, quedando calibrado y evitando el bloqueo de la válvual 10DS.
+
+RECOMNDACIONES: Se recomienda instalar válvula auxiliar de oparación manual para descargar a la atmosfera en los tres compresores.
+
+INFORMA: Wilmer Mendez

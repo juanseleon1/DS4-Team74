@@ -1,0 +1,12 @@
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+NOVIEMBRE 17 DE 2013
+
+OT PARA ATENDER TRABAJOS CORRECTIVOS EN CONTACTOR FALLADO EN LA BOMBA 2
+ DE LA ESTACIÓN HIDRAULICA DE LA UNIDAD 1 DE PORCE II
+
+PROGRAMADOR:CRISTIAN GÓMEZ
+
+Labores :
+Se realiza cambio del contactor de potencia, correspondiente a la bonba N°2, en la estación hidráulica de la Unidad N° 1: Se verifica su correcto funcionamiento antes de instalarlo (Bobina y contactos auxiliares),  a continuación se procede al montaje y conexionado del dispositivo según plano.  Una vez realizada la instalación, se realizan pruebas de operación tanto en manual como en automático. El control responde satisfactoriamente en prioridad bomba 1 como en bomba 2.  Se verifican valores normales de corrientes de arranque y de trabajo. (Tabla Anexa)
+Corrientes:
+BOMBA 1 BOMBA 2I arranque 232A I arranque 217.4AI fase R 25.2A I fase R 24.6AI fase S 25.6A I fase S 25.05AI fase T 23.4A I fase T 22.9A

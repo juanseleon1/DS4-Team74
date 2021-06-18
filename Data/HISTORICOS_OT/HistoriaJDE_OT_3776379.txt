@@ -1,0 +1,7 @@
+2018/10/19 RUBEN ARBOLEDA
+Se crea OT para realizar pruebas electricas al estator de la unidad 1 durante el mantenimiento mayor en Octubre de 2018.
+Desarme de barraje. 
+Pruebas Estator Sucio (IP y Resistencia Ohmica)
+Prueba Ring Test
+Prueba El Cid
+Armado de barraje.

@@ -1,0 +1,5 @@
+FECHA: MARZO 15/2015PROGRAMO: Daniel Palacios.
+Se revisan bancos de baterias encontrando varias con el mismo problema, se desconectan y se arma un banco con las restantes. Se instala de forma provisional un banco en reemplazo del banco 2. Se empieza compra para reemplazaar el banco 2 y se adecuara el banco 1.
+
+FECHA: 25 FEBRERO 2015, HORA: 10:31 AM
+OBJETO: EN CUARTO DE BATERÍAS CASA MÁQUINAS, REPARAR BATERÍA No 8 QUE PRESENTA FUGA DE ELECTROLITO POR FISURA EN CUBA PLASTICA DE BATERIA No 8 DEL BANCO No 2.

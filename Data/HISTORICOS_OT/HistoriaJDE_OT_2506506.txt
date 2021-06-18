@@ -1,0 +1,10 @@
+
+ ABRIL 09 DEL 2014 - EDUARD QUINTERO 
+
+La señal de pontencia activa de la unidad G35 presenta discrepancia entre la señal del regulador de tension 44.9 MW, tablero medidas y disparo 44.4 MW, y la pantalla S8 sala de opreacion 47.1 MW.
+
+11/ABRIL/2014
+Referente al transductor de potencia unidad G35: 
+Se realizó el cambio de transductor de potencia ubicado en el regulador de velocidad por presentar un desfase de 2 MW, se realizaron pruebas en baja carga comparando el correcto funcionamiento, se comparó la medida del regulador de velocidad, pantalla de control, regulador de tensión y subestación y se verificó que la medida coincidia en todas las fases.
+     
+Ejecuto: Uaimer Díaz, Fredy Duarte, Francisco González, Oscar Arango 

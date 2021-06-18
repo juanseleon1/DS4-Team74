@@ -1,0 +1,12 @@
+23/05/2018 - 18:29.
+
+Por observación en los diferentes niveles del Sistema de Refrigeración para los generadores en Guadalupe 3, se pudo identificar que algunos sensores de nivel requieren metrologia, para que las señales que llegan a pantalla de control sean las reales, entre dichas señales tenemos; sensor de nivel en Tanque o Foso de Refrigeración, los sensores de nivel del tanque de Agua filtrada 1 y 2, el sensor de nivel de entrada de agua filtros.
+
+Solicitamos metrologia de correción de lecturas.
+
+Informa: Turno 3. ( John Meneses - Mauricio Caicedo - Wilson Arango ).
+
+SE HACE UNA REVISION  Y AJUSTE DE LOS INSTRUMENTOS DE NIVEL DEL FOSO DE REFRIGERACION Y DEL FOSO DE FILTROS DE LA CENTRAL GUADALUPE 3 ENCONTRANDOCEN EN CONDICIONES NORMALES DE OPERACION.
+
+
+REALIZO: GRUPO ELECTRONICO

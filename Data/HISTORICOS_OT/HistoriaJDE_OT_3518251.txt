@@ -1,0 +1,15 @@
+Se procede con el bloqueo de la unidad con el fin de verificar y revisar el transformador de marca Asea, serie:570126.
+
+El equipo de mantenimiento procede con el desconexionado con la bobina de alta y baja, luego, limpieza para continual con las pruebas de resistencia ohmica y resistencia de aislamiento de los devanados, obteniendo resultados satisfactorios con respencto a los valores adqueridos antes de la puesta de servicio.
+
+Alta y Tierra
+30'':1.53 G; 60':1.63G; 600´:1.87G; IP: 1.15_5099Vdc
+Baja y Tierra
+30'':1.04 G; 60':1.23G; 600´:1.31G; IP: 1.06_5099Vdc
+Alta y Baja
+30'':944 M; 60':1.1G; 600´:1.19G; IP: 1.08_5098Vdc
+Resistencia de la bobina de alta:255 m  y bobina de baja : 7.63m. 
+Verifican las valvulas del tanque conservador y cuba que se encontraba semi-Cerrada, que  esten abiertas. Las valvulas del sistema refrigeracion, abiertas.
+
+JUNIO 18 2017. SE PRESENTA SALIDA FORZADA DE LA UNIDAD G34 POR OPERACIÓN VÁLVULA DE ALIVIO TRF FASE R.
+TURNO UNO OPERACIÓN

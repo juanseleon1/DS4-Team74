@@ -1,0 +1,36 @@
+FECHA: MARTES 28/02/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: YOVANNY RIVERA
+ASOCIADO A LA OT: 3403609
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______1________
+
+HOROMETRO:( H )______783______
+
+TIEMPO DE TRABAJO:( min.)_____52´20"_______
+
+MW PLANTA: _____207__________
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010

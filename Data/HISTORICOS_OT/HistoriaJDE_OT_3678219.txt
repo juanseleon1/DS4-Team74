@@ -1,0 +1,6 @@
+2018/01/29 RUBEN ARBOLEDA
+Se crea esta OT para realizar el cambio de interruptor Q3 correspondiente a la alimentación de los puentes grua.
+
+
+2018-01-29 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: FDIAZ OT: 3678219, PASO:1          
+Se realizó revisión de falla presentada el día anterior (2018/01/28) en la operación del puente grúa, se encontró interruptor en DG1 en 2 fases, se intentó abrir pero no funcionó, se realizó el cambio, interruptor anterior SCHNEIDER 160 Amperios, Configurado a 112 Amperios, Interruptor Nuevo: ABB 250 Amperios Regulable, se configura en 0.4+0,08 (110Amperios)

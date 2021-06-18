@@ -1,0 +1,19 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+
+1. Aislamiento antes de limpieza:
+     
+    Rotor + Barraje = 724 M 
+    Rotor = 740 M
+    Barraje = 712 M
+
+
+2. Aislamiento despues de limpieza:
+    
+    Rotor + Barraje = 840 M 
+    Rotor = 764  M 
+   Barraje = 962 M 
+    El rotor conserva buen aislamiento
+
+
+    

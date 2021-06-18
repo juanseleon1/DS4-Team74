@@ -1,0 +1,8 @@
+2016/02/02 FERNANDO RUIZ - JUAN DAVID GARCIA, PROGRAMO: CESAR HOYOS, OT: 3003217
+Se realiza el desmontaje del receptor de control remoto, ya que no funcionan correctamente en modo tandem, se envía al proveedor para verificar programación.
+
+19-04-16 CESAR AUGUSTO HOYOS HENAO.
+Se revisó la programación de los controladores  y se ajustaron por parte del proveedor, se está a la espera de la disponibilidad de personal para instalar nuevamente los controles remotos.
+
+2016/08/28 RUBEN ARBOLEDA
+Se realiza el cierre de esta OT, se realizó la prueba del control remoto incluyendo el control del puente grúa VEVEY, los tiempos de prueba se registraron en la OT: 2831527. 

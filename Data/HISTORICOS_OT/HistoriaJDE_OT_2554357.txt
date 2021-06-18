@@ -1,0 +1,8 @@
+PLANEADOR: SANTIAGO RAMÍREZ, 2014-06-30
+OT PARA REALIZAR CAMBIO DE BUJES QUE PRESENTAN FUGA EN EL DISTRIBUIDOR DE  LA UNIDAD.
+BUJES SUPERIORES Nos. 04, 15, 19, 23 Y 24
+BUJES INFERIORES Nos. 01, 22 Y 23
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2014-06-30
+Se desmontan y cambian bujes superiores de los álabes Nos. 04, 15, 19, 23 y 24 e inferiores los Nos. 01, 23 y 24 por presentar fuga de agua. Todos se montan con sistema de sellos de labio de CHESTERTON Tipo K6 de 200*215*9.5 mm y sistema de doble o'ring.
+

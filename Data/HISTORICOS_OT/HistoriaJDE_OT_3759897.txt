@@ -1,0 +1,9 @@
+FECHA: 28/08/2018 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: Se encuentra presente alarma en indicador del tablero +EG2 Regulador de tensión de la unidad 3 de Guadalupe IV. La alarma que presenta es la Falla 1 clase 3 Global ID 20001.
+Por favor atender esta solicitud.
+
+
+FECHA: 29/08/2018
+
+se revisa alarma en el indicador del tablero y queda trabajando ok
+reviso: fredy duarte, natalia urrea, jose montoya

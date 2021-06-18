@@ -1,0 +1,12 @@
+2016/06/22 CESAR HOYOS - RUBEN ARBOLEDA
+Tarea: Realizar pruebas de tiempos de cierre y apertura al interruptor de potencia de la unidad, adicionalmente realizar medida de resistencia óhmica a los contactos de potencia del interruptor.
+
+Registro de tiempos: 
+
+Fecha:23/06/16
+ Fase R Fase S Fase T
+Tiempo cierre (ms) 124,4 124,4 125
+Tiempo apertura (ms) 50,6 48,6 49,8
+Resistencia estática () 27 51 136
+I bobina cierre (A) 1,055
+I bobina apertura (A) 1,045

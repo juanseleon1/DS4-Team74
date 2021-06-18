@@ -1,0 +1,7 @@
+21/12/2018
+
+EN LA UNIDAD G34 COJINETE SUPERIOR ESTA SALIENDO CONSTANTEMENTE LA ALARMA COJINETE SUPERIOR TEMPERATURA EMPUJE 5.
+OSCILA HASTA EL PUNTO DE DISPARO.
+
+26-12-2018
+esta señal se encuentra inhibida,sehabilitan los disparos y alarmas, se observa quela medida oscila casihastael punto de disparo, queda pendiente cambiar RTD en un des arme del cojinete.

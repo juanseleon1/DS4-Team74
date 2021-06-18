@@ -1,0 +1,11 @@
+20- Febrero - 2014
+
+Se realizó corrección de falla en control, provocada durante el mantenimiento preventivo de la unidad numero 5, en el cual el puente grua no respondia en mando del puente hacia la unidad 8. 
+
+Se realizó revisión y se encontro falla en cable que iva desde el tablero hacia un sensor de limite hacia la unidad 8, se realizó correccción. 
+
+Adicionalmente fue necesario desbloquear el puente grus realizando puente entre borneras 70 y 73. 
+
+Se hizo pruebas de operacion y de dejo en funcionamiento normal. 
+
+Realizó: Juan David García - Ruben Arboleda

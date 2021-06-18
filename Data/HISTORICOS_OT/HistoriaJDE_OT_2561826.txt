@@ -1,0 +1,23 @@
+2014/07/04 - GUILLERMO CORDOBA - NESTOR RAMIREZ - YEISON ORTEGA
+Se realizó revision de un ruido anormal al momento de poner en servicio el chiller 3, realizó cambio de tarjetas electronicas y pruebas, pero el ruido persistía. 
+
+Se identificó falla en la parte interna de la turbina, se inicio con la habilitación del chiller 1, posteriormente se identificó un falla en sellos para lo cual se realizó cotización y solicitud de compra.
+
+2014/09/18 RUBEN ARBOLEDA - CIERRE DE OT
+Por falta de presupuesto para la compra de materiales, se realiza el proceso de cierre de la OT, para reinicialo el proximo año con nuevo presupuesto, los materiales solicitados y cotizados son: 
+
+ BUILDING EFFICIENCY SERVICE DEPARTMENT
+Referencia: Version:  B REPUESTOS PARTES PARA CHILLER EEPPM Guatapé
+ITEM P/N Descripción Entrega Cant Precio Unitario Precio Total
+001 031 01**** 002 BOARD, CONTROL (*1) Reemplazó 031 01065 001 5 Semanas 1 13.497.000$  13.497.000$ 
+002 024 26507 000 MOTOR, 1/20 HP 1750 RPM, 5 Semanas 2 2.596.000$  5.192.000$ 
+003 031 03**** 000 DISPLAYReemplazó 031 00775 001 5 Semanas 2 6.023.000$  12.046.000$ 
+004 026 36775 000 EDUCTOR ASSY 5 Semanas 2 479.000$  958.000$ 
+005 026 09353 000 DISK, RUPR 15# ***** + 2 GASKET 5 Semanas 2 716.000$  1.432.000$ 
+006 028 04519 000 SEAL O RING 2-1/8 IDX3/16 S 5 Semanas 2 114.000$  228.000$ 
+007 029 08605 010 RING SEAL SHAFT 1-1/2 CPL 5 Semanas 2 867.000$  1.734.000$ 
+008 029 11568 003 SPRING HEL 16.8# AT 15/16  5 Semanas 2 105.000$  210.000$ 
+009 028 04349 000 SEAL O RING 4 ID X 1/8 5 Semanas 2 55.000$  110.000$ 
+010 R123 REFRIGERANTE R123 x 45,5Kg 5 Semanas 18 2.904.000$  52.272.000$ 
+ 87.679.000$ 
+JOHNSON CONTROLS LIMITADA 

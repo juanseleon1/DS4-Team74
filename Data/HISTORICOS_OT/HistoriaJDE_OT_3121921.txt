@@ -1,0 +1,11 @@
+SOLICITANTE: EQUIPO METROLOGÍA UOG.FECHA: 24/05/2016
+
+Realizar metrología según plan anual metrológico.
+Inyectar con la maleta Trifasica los diferentes valores de voltaje y corriente para los diferentes puntos de verificacion, segun el registro de metrologia.
+
+Programador: Uaimer Diaz
+Planeador: Oscar Arango
+
+SE REALIZA UNA VERIFICACION DEL INSTRUMENTO INYECTANDO VALORES DE VOLTAJE Y DE CORRIENTE CON LA MALETA TRIFASICA, LOS VALORES INYECTADOS FUERON TOMADOS DE LOS REGISTROS DE VERIFICACION DE ACUERDO AL SISTEMA DE CALIDAD.
+
+REALIZO: UAIMER DIAZ Y DUBAN CASTAÑEDA

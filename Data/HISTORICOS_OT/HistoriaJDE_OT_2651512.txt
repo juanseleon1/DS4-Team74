@@ -1,0 +1,6 @@
+
+FECHA: DICIEMBRE 03 DE 2014
+
+EJECUTANTE: PEDRO ROBAYO
+
+Se presenta fallo en el LOOP de comunicaciones del controlador superior, se procede a verificar y se encuentra el modulo 7,5 fallado, se cambio por uno que quedaron de la modernización.

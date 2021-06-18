@@ -1,0 +1,122 @@
+2017/03/07 ANGEL ADONIS CADAVID OCHOA
+SE CREA OT PARA CONTINUA TRABAJO DE PRUEBAS DESPUES MONTADO EL CABLE POR PARTE DE MONTAJES
+De: JUAN FELIPE ARDILA VALENCIA Enviado el: lunes, 06 de marzo de 2017 1:51 p. m.Para: JUAN GUILLERMO OSORNO ECHEVERRI <Juan.Osorno@epm.com.co <mailto:Juan.Osorno@epm.com.co>>CC: RODRIGO ALONSO PALACIO OSORIO <Rodrigo.Palacio@epm.com.co <mailto:Rodrigo.Palacio@epm.com.co>>; CRISTIAN CAMILO GIRALDO VERA <Cristian.Giraldo@epm.com.co <mailto:Cristian.Giraldo@epm.com.co>>; ANGEL ADONIS CADAVID OCHOA <Angel.Cadavid@epm.com.co <mailto:Angel.Cadavid@epm.com.co>>Asunto: OT 3415097
+
+Buena tarde,
+
+Juan Guillermo, favor reclamar la OT  3415097 en el almacén A300, los materiales a reclamar son:
+
+Código           Descripción                                                                                                            Cantidad                               Almacen                   Peso por carrete
+
+200434          CABLE CU 12X14AWG CONTROL AIS XLPE/XLPE 600V 90°C               2700 metros                          A300                       250 kg                     
+200438          CABLE CU 4X12AWG CONTROL  AIS XLPE/XLPE 600V 90°C                1200 metros                          A300                         216 kg 
+
+Cordial saludo,
+
+   Juan Felipe Ardila ValenciaProfesional Gestión Proyectos e IngenieríaUnidad proyectos lineales 1  Sitio Web: www.epm.com.co <http://www.epm.com.co> Correo: juan.ardila.valencia@epm.com.co <mailto:juan.ardila.valencia@epm.com.co>Correo electrónico: epm@epm.com.co <mailto:epm@epm.com.co> Teléfono: (+57-4) 380 25 97Línea Ética: Contacto Transparente 01 8000 522 955 Fax: (+57-4) 265 93 50Línea de atención: (+57-4) 44 44 115 Móvil: (+57) 300 312 18 27Carrera 58 # 42-125. Medellín, Colombia   2017/02/22 RUBEN ARBOLEDA
+Realizar la identificación del cableado que conecta las señales del tanque del portal a las señales del tablero de control del asincrónico, éste cable se daño en el evento de los cables de potencia de la central Guatapé, se crea esta OT para identificar la cantidad de cable a reponer.
+
+2017-02-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3403406, PASO:1          
+Se realizó la identificación de las señales que van desde casa de maquinas hacia el portal, referentes al control de la disipadora/asincrónico, éste cableado se pretende reestablecer ya que se deterioró en el evento ocurrido el 15 de febrero de 2016.
+
+2017-02-17 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3403406, PASO:2          
+Se continuó con la identificación de señales de casa de maquinas al portal
+
+2017-02-22 REALIZÓ: JUAN DAVID GARCIA  - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3403406, PASO:3          
+Se continuó con la identificación de señales de casa de maquinas al portal.
+
+2017-02-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3403406, PASO:4          
+Se continuo con la identificación del cable del portal a casa de maquinas, en total se requieren 700 metros de cables 7x12, éste cable lo conseguirá el ingeniero Juan Felipe Ardila Valencia, y se restablecerá con los cables de termostatos del portal por el area de Montajes.
+
+
+2017-04-14 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3415967, PASO:1          
+Se inició con la identificación del cableado entre el portal y casa de maquinas, se realizó la recopilación de información para realizar prueba de cada cable.
+
+2017-04-17 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3415967, PASO:2-2,1          
+Se realizó prueba de las señales desde el portal a casa de máquinas, se identificó que la señal del portal está llegando en ambas posiciones del flotador, se realizó la prueba y conexión de las señales: 
+
+SA+ 
+S/E 13,8 KV SERVICIOS AUX SECC. ABIERTO 
+S/E 13,8 KV SERVICIOS RURALES SECC. ABIERTO 
+INTERRUPTOR 480VAC DISPARADO (350A, 100A Y 50A) 
+INTERRUPTOR 208 VCA DISPARADO (10, 50 RES..) 
+FALLA TENSION (3U> Y  3U<) 
+TRAFO 30KVA TEMPERATURA ALTA 
+2017/04/21 VICTOR ZULETA - CRISTIAN GARCIA (PRACTICANTE) OT: 3415967
+Ubicación: Portal Casa Maquinas Guatapé 
+
+Estado inicial: 
+·Se encuentra señales digitales de nivel bajo y nivel normal activas en el PLC S5 siemens del sistema del generador asíncrono en C/M.
+·Se evidencia de manera visual el nivel bajo del tanque acumulador ubicado en el portal.
+·Se observa problemas en las conexiones de control en los Relés k51 y k52, asociados al nivel normal y nivel bajo respectivamente.
+·En la caja de paso ubicada en el tanque acumulador del portal, se evidencia una conexión anómala de la llegada de las conexiones  en bornera del sensor de nivel. 
+Estado final
+·Se hace mantenimiento general al sensor de nivel y se verifica en bornera de paso, el buen funcionamiento del equipo a la hora de actuar la boya, garantizando los contactos de abierto y cerrado.  
+·Se conecta las señales correspondientes del sensor en la caja de paso, las cuales llevan la señal a C/M.
+·Se organiza el sistema de cableado asociado a los relés k51 y k52 según el plano inicial del sistema del asincrónico.
+·Se simula la flota del sensor de nivel del tanque desde el portal y se observa la diferente conmutación de las entradas digitales de bajo nivel y nivel normal en el PLC s5 siemens  C/M del asincrónico.
+·Se hace limpieza general a los equipos y tableros intervenidos.
+·Queda en condiciones para operar según las señales digítales del PLC intervenidas.
+
+
+2017/03/07 ANGEL ADONIS CADAVID OCHOA
+SE CREA OT PARA CONTINUA TRABAJO DE PRUEBAS DESPUES MONTADO EL CABLE POR PARTE DE MONTAJES
+De: JUAN FELIPE ARDILA VALENCIA Enviado el: lunes, 06 de marzo de 2017 1:51 p. m.Para: JUAN GUILLERMO OSORNO ECHEVERRI <Juan.Osorno@epm.com.co <mailto:Juan.Osorno@epm.com.co>>CC: RODRIGO ALONSO PALACIO OSORIO <Rodrigo.Palacio@epm.com.co <mailto:Rodrigo.Palacio@epm.com.co>>; CRISTIAN CAMILO GIRALDO VERA <Cristian.Giraldo@epm.com.co <mailto:Cristian.Giraldo@epm.com.co>>; ANGEL ADONIS CADAVID OCHOA <Angel.Cadavid@epm.com.co <mailto:Angel.Cadavid@epm.com.co>>Asunto: OT 3415097
+
+Buena tarde,
+
+Juan Guillermo, favor reclamar la OT  3415097 en el almacén A300, los materiales a reclamar son:
+
+Código           Descripción                                                                                                            Cantidad                               Almacen                   Peso por carrete
+
+200434          CABLE CU 12X14AWG CONTROL AIS XLPE/XLPE 600V 90°C               2700 metros                          A300                       250 kg                     
+200438          CABLE CU 4X12AWG CONTROL  AIS XLPE/XLPE 600V 90°C                1200 metros                          A300                         216 kg 
+
+Cordial saludo,
+
+   Juan Felipe Ardila ValenciaProfesional Gestión Proyectos e IngenieríaUnidad proyectos lineales 1  Sitio Web: www.epm.com.co <http://www.epm.com.co> Correo: juan.ardila.valencia@epm.com.co <mailto:juan.ardila.valencia@epm.com.co>Correo electrónico: epm@epm.com.co <mailto:epm@epm.com.co> Teléfono: (+57-4) 380 25 97Línea Ética: Contacto Transparente 01 8000 522 955 Fax: (+57-4) 265 93 50Línea de atención: (+57-4) 44 44 115 Móvil: (+57) 300 312 18 27Carrera 58 # 42-125. Medellín, Colombia   2017/02/22 RUBEN ARBOLEDA
+Realizar la identificación del cableado que conecta las señales del tanque del portal a las señales del tablero de control del asincrónico, éste cable se daño en el evento de los cables de potencia de la central Guatapé, se crea esta OT para identificar la cantidad de cable a reponer.
+
+2017-02-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3403406, PASO:1          
+Se realizó la identificación de las señales que van desde casa de maquinas hacia el portal, referentes al control de la disipadora/asincrónico, éste cableado se pretende reestablecer ya que se deterioró en el evento ocurrido el 15 de febrero de 2016.
+
+2017-02-17 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3403406, PASO:2          
+Se continuó con la identificación de señales de casa de maquinas al portal
+
+2017-02-22 REALIZÓ: JUAN DAVID GARCIA  - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3403406, PASO:3          
+Se continuó con la identificación de señales de casa de maquinas al portal.
+
+2017-02-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3403406, PASO:4          
+Se continuo con la identificación del cable del portal a casa de maquinas, en total se requieren 700 metros de cables 7x12, éste cable lo conseguirá el ingeniero Juan Felipe Ardila Valencia, y se restablecerá con los cables de termostatos del portal por el area de Montajes.
+
+
+2017-04-14 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3415967, PASO:1          
+Se inició con la identificación del cableado entre el portal y casa de maquinas, se realizó la recopilación de información para realizar prueba de cada cable.
+
+2017-04-17 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3415967, PASO:2-2,1          
+Se realizó prueba de las señales desde el portal a casa de máquinas, se identificó que la señal del portal está llegando en ambas posiciones del flotador, se realizó la prueba y conexión de las señales: 
+
+SA+ 
+S/E 13,8 KV SERVICIOS AUX SECC. ABIERTO 
+S/E 13,8 KV SERVICIOS RURALES SECC. ABIERTO 
+INTERRUPTOR 480VAC DISPARADO (350A, 100A Y 50A) 
+INTERRUPTOR 208 VCA DISPARADO (10, 50 RES..) 
+FALLA TENSION (3U> Y  3U<) 
+TRAFO 30KVA TEMPERATURA ALTA 
+2017/04/21 VICTOR ZULETA - CRISTIAN GARCIA (PRACTICANTE) OT: 3415967
+Ubicación: Portal Casa Maquinas Guatapé 
+
+Estado inicial: 
+·Se encuentra señales digitales de nivel bajo y nivel normal activas en el PLC S5 siemens del sistema del generador asíncrono en C/M.
+·Se evidencia de manera visual el nivel bajo del tanque acumulador ubicado en el portal.
+·Se observa problemas en las conexiones de control en los Relés k51 y k52, asociados al nivel normal y nivel bajo respectivamente.
+·En la caja de paso ubicada en el tanque acumulador del portal, se evidencia una conexión anómala de la llegada de las conexiones  en bornera del sensor de nivel. 
+Estado final
+·Se hace mantenimiento general al sensor de nivel y se verifica en bornera de paso, el buen funcionamiento del equipo a la hora de actuar la boya, garantizando los contactos de abierto y cerrado.  
+·Se conecta las señales correspondientes del sensor en la caja de paso, las cuales llevan la señal a C/M.
+·Se organiza el sistema de cableado asociado a los relés k51 y k52 según el plano inicial del sistema del asincrónico.
+·Se simula la flota del sensor de nivel del tanque desde el portal y se observa la diferente conmutación de las entradas digitales de bajo nivel y nivel normal en el PLC s5 siemens  C/M del asincrónico.
+·Se hace limpieza general a los equipos y tableros intervenidos.
+·Queda en condiciones para operar según las señales digítales del PLC intervenidas.
+
+

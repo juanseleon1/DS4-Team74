@@ -1,0 +1,16 @@
+2015/08/05
+
+REALIZAR METROLÓGIA A TRANSDUCTOR DE POTENCIA ACTIVA U2
+
+2015/08/05
+Se realiza la Inyeccion con la Maleta Trifasica de diferentes valores de Corriente y Voltaje y comprobando la salida correcta analoga de 0-10Vdc, segun el registro de calidad. 
+Se observa un comportamiento normal, segun la curva de verificacion.
+El registro de esta verificacion se encuentra en la siguiente ruta en el servidor:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTROS.VERIFICACION.GUADALUPE.4\UNIDAD.2.GUADALUPE.4\116704TRANSDUCTOR.POTENCIA.ACTIVA.G4.U2
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte
+
+
+

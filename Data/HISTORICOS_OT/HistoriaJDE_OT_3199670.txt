@@ -1,0 +1,25 @@
+04/08/16
+
+ABAD DE JESUS RAMIREZ GIRALDO.
+
+SALIO LA ALARMA SN-8.257 T4-R FLUJ ACEI REF 1 ALARMA FALLA, Y LA ALARMA SN-8.259 T4-S FLUJ ACEI REF 1 EN LA ESTACION DE OPERACION, SE REVISA EN EL TABLERO CONTROL DEL BANCO APARECE GRUPO 2 INTERRUPTOR 52Q2 ABIERTO, SE REPONE Y EL EQUIPO CONTINUA TRABAJANDO,ES BUENO REVISAR QUE NO SE TENGAN PUNTOS CALIENTES EN ESE INTERRUPTOR.
+
+
+
+  AGOSTO 04/2016. JHONATAN USME Q. GIOVANNY DÍAZ - SERGIO OLIVARES D.
+
+  Se realizo termografia encontrandose la temperatura normal, asi:
+     Entrada alimentacion:
+
+               R=  49,4°C 
+               S=  51,1°C 
+               T=  46,4°C
+
+    Salida Alimentacion:
+   
+             R= 56,3°C
+             S= 58,3°C 
+             T = 57,0°C 
+
+
+     Se deja termografia en notas de equipo N°1.

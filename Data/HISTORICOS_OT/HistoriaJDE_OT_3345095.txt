@@ -1,0 +1,16 @@
+VIERNES 16 DE DICIEMBRE DE 2016
+
+EL DIA JUEVES 15 DE DICIEMBRE EL TURNO DE OPERACION REPORTA RUIDO ANORMAL EN LA SALIDA DEL BARRAJE DE LA U1 ASOCIADO A POSIBLE DISRUPTICON ELECTRICA POR FUGA DE CORRIETNE A TIERRA EN LAS FASES.
+ 
+A TRAVES DE INSPECCION TERMOGRAFICA SE EVIDENCIA UN DELTA DE TEMPERATURA RESPECTO A LA FASE MAS FRIA DE 20°C APROXIMADAMENTE. ESTE PUTNO CALIENTE SE OBSERVA ENTRE LA FASE S Y T, SALIENDO DESDE EL RECINTO DE GENERADO.
+
+SE SOLICITA EVAOLUCION EN EL CAMBIO DE TEMPERATURA, INCREMENTO DEL RUIDO, ARCO ELECTRICO, Y CAMBIO EN LA CORRIENTE DE SALIDA DEL GENERADOR.
+
+UNA VEZ LA UNIDAD PARE POR OPERACION SE HARA LA INSPECCION Y ANALIZARAN LAS POSIBLES SOLUCIONES.
+
+INFORMA. SANDRA CARMONA
+
+DICIEMBRE 18 DE 2016
+Por oportunidad se revisó el barraje y se encontró en el buje pasa muro de la fase T con un pequeño desgaste por fuga de corrientes a tierra, se desmonta las barras y se aplica resina con una lámina de fibra de vidrio G11  a la superficie del buje, y después se aplica pintura aislante, esto se hace mientras llegan los CT´S pasa muros que se están comprando, y debido que los bujes están con muy bajo aislamiento. Se normaliza la unidad y se lleva hasta energizada, quedando sin ningún ruido en el barraje de salida, se entrega a operación y queda en observación para cuando sincronice la unidad. Se atendió la OT: 3345095
+Realizó: Grupo eléctrico.
+Informó: William Lopera. 

@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL REGULADOR ELECTRONICO CENTRAL PORCE 2.
+
+
+17/06/2015
+
+No fue posible realizar  mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas  de los transductores, ademas de verificar los lazos de control del distribuidor, solo se realiza verificacion de distancia calibracion sensores inductivos PICKUP.
+
+Realizador por Wtobonl

@@ -1,0 +1,9 @@
+La unidad 3 de guadalupe 3 no esta realizando conmutación en los servicios auxiliares cuando entra o sale de sincronismo la unidad. 
+
+INFORME:
+Se verifica funcionamiento de la transferencia del tablero + TPU3.  Al momento de realizar pruebas en modo automático se detecta que bornera X A 5 está floja procediendo a apretarla. 
+Hacen las maniobras de cierre y apertura de los interruptores Q 01 Y Q 02 Donde realizan las maniobras sin problemas, para luego normalizar el tablero y coordinar con el centro de control, para arrancar y sincronizar la máquina.
+Con máquina sincronizada, la transferencia se verifica el correcto funcionamiento.
+
+
+REALIZO: GRUPO DE ELECTRONICA.

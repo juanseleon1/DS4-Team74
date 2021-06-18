@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JULIAN CAMILO GIRALDO.
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de carbón de las escobillas, se toma medida de aislamiento a los motores del equipo y se llena planilla con estos datos.
+Trabajo ejecutado por: Julian Camilo Giraldo, Juan Esteban Ortega y Juan Diego Llanos 
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS
+OT PADRE 3779285

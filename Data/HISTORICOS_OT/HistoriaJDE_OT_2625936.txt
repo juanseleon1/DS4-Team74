@@ -1,0 +1,6 @@
+OCTUBRE 24 DE 2014
+
+DESCRIPCIÓN: En el sistema de aire comprimido regulador de la unidad N°2, se fallan continuamente ambos compresores, generando la siguiente alarma "Falla grupo bomba compresor" G4U2TO65ALR001_A.
+
+INFORMAN: Luis Fernando Yepes
+     Juan David Gutierrez 

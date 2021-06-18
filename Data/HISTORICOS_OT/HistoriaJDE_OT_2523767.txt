@@ -1,0 +1,9 @@
+MAY 1/2014 OT: 2504113 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edwin Lopera.
+Se realizó el mantenimiento según instructivo GCG4E0010.
+Encontrándose  desprendimiento de material en el brazo central del interruptor de máquina.  Fue necesario utilizar el brazo central del interruptor de máquina de la Unidad 2 que se encuentra en mantenimiento especial, ya que era inminente la falla que se tendría en la Unidad 1, durante la operación de su interruptor.
+Luego del correctivo se realizan pruebas manuales de apertura y cierre del interruptor para garantizar la confiabilidad y se energiza la Unidad.
+
+Fueron realizadas las pruebas eléctricas a los motores.
+Ver registros en el archivo de Guadalupe IV.
+
+PREVENTIVO INTERRUPTOR POTENCIA UNIDAD GENERACION GUADALUPE 4

@@ -1,0 +1,6 @@
+
+FECHA: NOVIEMBRE 02 DE 2014
+
+EJECUTANTE: HENRY GIRALDO 
+
+Por presentarse paros continuos por vibraciones, se procede a inspeccionar el sistema de la Yaw, no se encontraron fugas externas, el disco se encontraba limpio, el conector del PCH esta bien, al girar no se produce ruido, se cambia el sensor PCH por uno nuevo, ya que el que tenia esta muy sensible.

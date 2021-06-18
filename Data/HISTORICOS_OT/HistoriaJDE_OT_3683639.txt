@@ -1,0 +1,6 @@
+2018/02/13 RUBEN ARBOLEDA SE CREA OT CORRECTIVA
+La temperatura de los cables de la peineta de del cubiculo se encuentran en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 15.7°C, lo cual requiere reparar inmediatamente. Pero esta temperatura puede ser un refejo del punto caliente en la fase S de la peineta de salida.
+Se crea OT: 3683639 para su revisión
+
+2018-02-06 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3683639, PASO:1          
+Se realizó mantenimiento correctivo al ventilador S5, se limpiaron los contactos conectables y se intentó poner en servicio, se presenta fallo OLF, se realizó medida de aislamiento con 500VDC se encontró en 536MOhm, se deja reposar según recomendación del manual por un periodo de 12 horas, el 2018/02/07 se realiza un arranque y se dejó en servicio normal, el 2018/02/09 se presentó disparo, se realizó revisión y se evidenció que este ventilador estuvo girando en sentido contrario, se cambio la alimentación y se dejó en condiciones normales. 

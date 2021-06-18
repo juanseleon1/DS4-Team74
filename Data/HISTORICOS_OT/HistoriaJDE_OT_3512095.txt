@@ -1,0 +1,22 @@
+EL PROCEDIMIENTO PARA EL MANTENIMIENTO DEL REGULADOR HIDRÁULICO ES  APLICABLE EN LAS OCHO ( 8 ), UNIDADES DE LA CENTRAL HIDROELÉCTRICA DE GUATAPÉ. REALIZADOS POR EL EQUIPO DE MANTENIMIENTO MECÁNICO.
+
+INCLUYE:
+A. REALIZAR CHEQUEOS DE LAS BOMBAS.
+B. AJUSTAR NIVELES DE ACEITE.
+C. CHEQUEOS.
+D. CALIBRACIÓN DE LAS SERVO-VÁLVULAS MOOG.
+2017/06/21 DIEGO BEDOYA
+Se les cambian los micro filtros a los comandos de aguja y al comando de deflectores, se toman datos de funcionamiento de las bombas del regulador hidráulico de la unidad 5 así:
+                                                  Bomba principal                Bomba de respaldo 
+Presión de arranque (kg/cm2):                 34                                      33
+Presión de paro (kg/cm2):                        39                                       38
+Nivel de arranque (cm):                           -8.5                                     -11  
+Nivel de paro (cm):                                    -1                                       -2.5
+Tiempo de trabajo (s):                               56                                       95
+Se evidencio fuga en la válvula de aislamiento de aire lo cual provoca perdida de aire en pulmón de suministro. La fuga fue corregida y la válvula queda en condiciones de operación.
+Realiza el trabajo Orlando Zuleta, Andres Alzate y Jaime Jaramillo
+
+
+NOVIEMBRE 21 DE 2017 
+OT CERRADA 
+ANDRES RAMIREZ 

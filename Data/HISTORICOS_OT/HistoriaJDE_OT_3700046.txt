@@ -1,0 +1,22 @@
+
+Miércoles 14 de Marzo / 2018
+
+
+Referente al TLCT U 3: El sensor de flujo de aceite CF 002 se encuentra desmontado y el set poin del cojinete de turbina se encuentra setiado desde el programa en 350 l/m se necesita este valor para hacerle seguimiento al sistema del TLCT, con respecto al incremento de temperatura de los segmentos 5 - 6 y 7, para hacer análisis de estos incrementos se debe de tener calibrado el flujo en un valor recomendado por el fabricante.  nos hemos percatado que estando la unidad parada, todos los segmentos registran igualdad en las temperaturas, indicando que las RTDS se encuentran en buen estado. Turno 2
+
+
+18/03/2018
+
+Nestor favor retomar este tema y realizar de nuevo priuebas con el cabezote de repuesto, en las ultimas pruebas la falla fue detectada en el toroide con una de las resistencias por esta razon se retiro, favor realizar cotizacion y gestion con este instrumento. o si es del caso realizar planeacion para cambiar el toroide en los mantenimientos programas de este año 
+
+NOTA realizad por  Wtobonl
+
+PENDIENTE 
+
+28/03/2018
+ el transmisor de flujo cf002 del tlc unidad  3, se encontró daño en el módulo sensorprom, el cuál está en proceso de compra.
+informa 
+Néstor Fabián Ochoa.
+
+
+terminada cerrarda 

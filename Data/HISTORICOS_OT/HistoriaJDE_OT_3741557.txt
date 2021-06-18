@@ -1,0 +1,4 @@
+
+JULIO 03 DE 2018 OT: 3741557  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta falla Feedback bypass G1 Top, se observa en la graficas que el control manda a cerrar el contactor pero no hay respuesta del contactor 17K2, se inspecciona y se encuentra disparado el breake que coloca las fases para energizar los contactores, se repone y se deja en servicio.

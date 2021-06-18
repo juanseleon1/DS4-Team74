@@ -1,0 +1,9 @@
+SOLICITANTE: Gerardo A. Pérez A.
+FECHA: 15/12/2014
+La bomba no arranca operación en automático ante bajo nivel y es necesario operarla manualmente.
+
+02/ENERO/2015
+Se revisa en la estacion de ingenieria los permisivos para el arranque de la bomba en automatico y se ajusta el parametro de nivel patron de aceite del tanque sumidero para tener un rango mas amplio y permitir el arranque de la bomba. Ademas se realiza mantenimiento preventivo y calibracion al presostato mecanico/manual, ubicado en el tablero de la estacion hidraulica, el cual entrega la señal definitiva para el arranque de la bomba en Automatico.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

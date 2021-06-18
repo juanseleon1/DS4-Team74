@@ -1,0 +1,8 @@
+Se esta bloqueando constantemente el IHM de la unidad1 de P2
+fecha 09/06/2013.
+
+fecha: 05/08/2013 OT#2311933 PROGRAMADOR: JRODRIGL EJECUTA: MARLON CARMONA
+
+Se retira suiche de comunicación entre la IHM y el PLC de la unidad, se hace un cable RJ45 y se hace la comunicación directa entre el controlador de unidad y la IHM.
+
+Informa: Jorge Rodríguez

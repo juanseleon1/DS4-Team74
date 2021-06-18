@@ -1,0 +1,19 @@
+FECHA: MARTES 16/04/2018
+PROGRAMO: YOVANNY RIVERA.
+EJECUTO: DARIO ATEHORTUA
+ASOCIADO A LA OT: 3705347
+ASUNTO:  EJECUTAR EL MP TRIMESTRAL A A MOTOBOMBA N° 1 DE AGUA HELADA. SE REGISTRAN LOS SIGUIENTES DATOS:
+     
+                  * PARAMETROS DE OPERACION:
+          TEMPERATURA:  56°C
+           VIBRACIONES E (mm/seg):
+                     -  VERTICAL motor lado libre:              2.2
+          -  HORIZONTAL motor lado libre          1.3
+          -  VERTICAL motor lado acople           1.4
+          -   HORIZONTAL motor lado acople     2.1
+          -  VERTICAL bomba lado acople         1.2
+                     -  HORIZONTAL bomba lado acople    1.8
+           -  VERTICAL bomba lado motor           0.9
+          -  HORIZONTAL bomba lado motor      1.4
+       *    PRESIO DE SALIDA: 60PSI
+       *     RPM: 1760

@@ -1,0 +1,14 @@
+DOMINGO 18 MAYO 2014
+
+LA salida de la unidad 4 Se DEBIO UNA BAJA PRESION EN EL SISTEMA HIDRAULICO DEL REGULADOR DE VELOCIDAD, SE HIZO revisION EN el tablero de la estacion hidraulica DE la unidad y se encontro alarmado el modulo -A.3.01 DEL PLC SIMATIC/ET200M/LINK (SIN COMUNICACION) , se revisan los fusibles QUE ALIMENTAN EL PLC F62 y F63, se encuentran en buen estado, se resetea el PLC de la TUH abriendo los porta fusibles que lo alimentan se reestablecen medidas y control en la IHM del TUH, normalizandose el funcionamiento EN EL SISTEMA HIDRAULICO en la unidad hidraulica.                    
+Nota:   Este mismo problema se presento el dia 15 de Mayo del 2014 durante la ejecucion delmantenimiento en el momento de hacer pruebas en el distribuidor. por tal motivo el grupo electronico debe de hacer seguimiento al problema. Informa Hector Gomez
+
+20/05/2014
+Se realizan verificaciones de los lazos profibus y se encuentra discrepancia o alteraciones en el lazo profibus PA , es necesario realizar pruebas y ajustes con la unidad detenida, se informa al Ing. Nicolás sobre la solicitud de esta unidad en pruebas. 
+Pendiente continuar cuando la unidad sea solicitada para pruebas y ajustes en los lazos profibus de la TUH
+Realiza por Wtobonl
+26/05/2014
+Se cambia esclavo profibus temperatura aceite tanque en el lazo profibus PA , este presentaba fallas en el bus de comunicaciones
+
+terminada cerrar
+Realiza por Wtobonl

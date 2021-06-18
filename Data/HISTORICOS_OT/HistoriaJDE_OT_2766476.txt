@@ -1,0 +1,7 @@
+
+FECHA: MAYO 14 DE 2015 OT: 2766476
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Se inspecciona en el tablero nuevo del controlador superior la causa de la falla, ya que el RFC mostraba falla en el módulo 10,3 se revisó este módulo pero no presentaba falla, se revisaron los fusibles de los módulos 10,2 - 10,3 pero estaban buenos, después de esto se queda con falla 10,1 en el RFC, se decide apagar todo el control desde la UPS y el RFC queda en RUN, quedo una alarma de temperatura en el aceite hidráulico, estaba en 73 grados se dejó en funcionamiento el sistema hidráulico y empezó a bajar, cuando presento condiciones se dejó en servicio el aerogenerador.

@@ -1,0 +1,11 @@
+
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717919.
+Se realiza verificación del cableado interno del tablero, se prueba toma corriente interno. Se relaliza mediciòn de voltaje de la fuente G1 encontrandose OK. 
+El flujometro FIT-01 se encuentra sin display.
+La IHM del tablero se encuentra quebrada.
+El bombillo está quemado.
+Realizo: Julio Cesar Parra, Neiro Fabian Pérez.
+
+
+
+XL: CHEQUEAR, VERIFICAR Y LIMPIAR CONTROL REFRIGERACION +TCSR DE LA UNIDAD 4 P3.

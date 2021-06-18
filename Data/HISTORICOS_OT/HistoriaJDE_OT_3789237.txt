@@ -1,0 +1,7 @@
+17/12/2018 OT:3789237  Cesar tulio / Luis Eduardo Arcila
+Falla de nuevo las señales del controlador, se cambia puerto RJ45 del suiche Ruggedcom por uno de repuesto quedando el controlador y el sistema Scada en condiciones normales de operaciòn.
+
+27/11/2018 OT:3789237 Cesar tulio / Luis Eduardo Arcila
+Se pierden las señales en el Scada de la unidad 6
+Se revisa y se encuentra puerto RJ45 de comunicaciones en falla, se cambia de puerto quedando en condiciones normales. 
+

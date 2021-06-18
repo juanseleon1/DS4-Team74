@@ -1,0 +1,6 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: NOVIEMBRE 12-2016
+EJECUTANTE: PEDRO ROBAYO
+
+
+Se sube al AG2 y se le cambian los dos modulos 7.0 por estar sacando en el RFC 7.0  y falla comunicaciones quedando en observacion 

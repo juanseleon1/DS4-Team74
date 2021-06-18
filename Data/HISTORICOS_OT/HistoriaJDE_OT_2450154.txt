@@ -1,0 +1,9 @@
+
+REVISION INYECCION SEÑALES +TIG 
+UNIDAD 5
+Esta OT se realiza con el fin de comprobar que coincida la señal que se va a inyectar en formato que se utiliza en los mantenimiento preventivos cuatrimestrales en la unidades generadoras de Guadalupe 3. 
+Este formato se realizo para inyectar las señales de temperatura de las unidades, dentro de los Mttos, verficando sus puntos de alarma y disparo y la correcta visualizacion en el control. Pero se evidencio que algunas unidades no coinciden los bornes y borneras de este formato con los transmisores en el tablero+TIG.
+Ademas con esta comprobacion se realizara un levantamiento detallado del tagname y los puntos de conexion de cada señal, para dejarlo en el servidor y su posterior utilizacion en los mantenimientos Cuatrimestrales.
+
+Programador: Oscar Arango - Uaimer Diaz
+Ejecuto: Francisco Gonzalez - Fredy Duarte

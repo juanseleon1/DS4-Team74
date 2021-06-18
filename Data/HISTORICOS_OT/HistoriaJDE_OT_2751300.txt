@@ -1,0 +1,9 @@
+2015/04/27 ANGEL ADONIS CADAVID OCHOA
+REVISAR ARRANQUE EN AUTOMATICO DE LOS VENTILADORES DEL TRANASFORMADOR
+
+2015/05/27 MAURICIO QUIJANO - SERGIO OLIVARES - RUBEN ARBOLEDA OT: 2751300
+Se realizó la revisión del control de los ventiladores, se evidencio que el indicador de temperatura -3P5 contaba con calibracion de arranque de ventilacion forzada alrededor de 100°C, , realizó el ajuste para arancar en 60 y parar en 50°C. 
+
+
+
+

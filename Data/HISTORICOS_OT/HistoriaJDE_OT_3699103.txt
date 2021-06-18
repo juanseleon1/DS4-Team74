@@ -1,0 +1,19 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3699103.
+Se realiza mantenimiento general, limpieza y verificación al tablero de monitoreo de la vibraciones TSV de la MINICENTRAL P3.
+Se verifica IHM, se reajusta el cableado y las borneras.
+Se realiza limpieza al ventilador de enfriamento del tablero.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizo: Eladio Piedrahita, Neiro Fabian Pérez
+
+-------------------
+
+PLANEADOR: RMONTOYG
+PROGRAMADOR: CARLOS MONCADA
+FECHA: 14/03/2018
+CONSIGNACIÓN: @180304
+OT PADRE: 3698544
+
+REALIZAR MANTENIMIENTO SEMESTRAL AL SISTEMA DE MONITOREO DE VIBRACIONES DE LA MINI CENTRAL DE PORCE 3

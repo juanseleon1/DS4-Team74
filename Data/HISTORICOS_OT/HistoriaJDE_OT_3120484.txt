@@ -1,0 +1,6 @@
+FECHA: MAYO 22 DE 2016 OT 3120484
+
+EJECUTANTE: HGIRALRI
+SOLICITANTE: HENRY GIRALDO
+
+Se cambian los módulos  del 7,0 y sensor de proxímidad para solucionar falla de comunicación controlador superior, en días anteriores se cambió una de las fuentes pero la falla continuó. Se deja en servicio el AG.

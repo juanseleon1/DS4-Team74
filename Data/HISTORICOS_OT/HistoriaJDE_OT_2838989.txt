@@ -1,0 +1,7 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DEL COJINETE SUPERIOR
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico del cojinete rasquetiando los segmentos guías del mismo equipo. Se verifica la holgura (0.25 mm) en el montaje de los patines
+
+Ejecuta: equipo mantenimiento mecánico GIII

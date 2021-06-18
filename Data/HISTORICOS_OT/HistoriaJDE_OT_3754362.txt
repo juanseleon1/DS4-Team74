@@ -1,0 +1,28 @@
+2018/08/13 GIOVANNY DIAZ
+Se crea OT para realizar prueba de tiempos de apertura y cierre del interruptor y resistencia ohmica a los contactos del interruptor y seccionador.
+
+2018-08-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3754362, PASO:1          
+Se preparó los equipos para realizar pruebas de tiempos de apertura y cierre a los interruptores de potencia de la Unidad 5 y 6, por falla en el computador no se ejecutó la prueba, ya se instaló el software y se está cargando los planes de ensayo.
+
+2018-08-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3754362, PASO:2-2,1          
+Se realizó medida de tiempos de apertura y cierre al interruptor de potencia de la Undiad 5 con los siguientes resultados: 
+
+Unidad 5 Cierre (mS): 
+Fase A: 125.2
+Fase B: 124.2
+Fase C: 125
+
+Unidad 5 Apertura(mS): 
+Fase A: 52.8
+Fase B: 52.4
+Fase C: 53
+
+Resistencia Ohmica:
+Fase A: 197uOhm 
+Fase B: 186uOhm
+Fase C: 186uOhm
+
+Adicionalmente se realizó medida de resistencia ohmica al seccionador de la Unidad 5 con los siguioentes Resultados: 
+Fase A: 170uOhm  34mV  200 Amperios
+Fase B: 162uOhm  32.4mV  200 Amperios
+Fase C: 159uOhm       31.799mV 200 Amperios

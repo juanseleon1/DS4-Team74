@@ -1,0 +1,7 @@
+2014/09/22 JOHN MARIO PEREZ
+VENTILADORES S1 Y S2 EN CCM3
+Favor implementar las señales de indicación y control desde las estaciones de operación en ventiladores S1 y S2 en CCM3.
+
+2017-06-12 REALIZÓ: SEBASTIAN HINCAPIE - FERNANDO RUIZ, PROGRAMO: FDIAZ 
+Se inició la medición del cableado necesario para implementar las señales de indicación y control de los ventiladores S1 y S2 CCM3, desde estación de operación casa de máquinas.
+

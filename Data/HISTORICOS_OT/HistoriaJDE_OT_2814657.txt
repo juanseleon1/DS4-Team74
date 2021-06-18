@@ -1,0 +1,14 @@
+OT CREADA PARA EL REGISTRO DE TIEMPOS Y ACTIVIDADES REFERENTE AL PROCESO DE RUN OUT DE LA UNIDAD. PLANEADOR BIANEY BRAVO. JULIO 09/2015
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el run out de la unidad. En primer lugar se tomo de referencia que los bulones del acople de turbina solo tenían la mitad del torque necesario, por eso se procede a darle el torque final.
+
+Finalmente se realiza la corrección corrigiendo con shim en el runner de la unidad. Para mayor información verificar la bitacora de la unidad
+
+Ejecuta: equipo mantenimiento mecánico GIII
+
+18/10/2015
+SE ENTREGA LA UNIDAD PARA EXPLOTACION COMERCIAL
+INFORMA: BIANEY BRAVO

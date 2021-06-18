@@ -1,0 +1,11 @@
+2017/08/01 _ CARLOS ENRIQUE MONCADA. OT N° 3554436.
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+Se realiza verificación de la indicación del cojinete superior RTD guía 71, se encuentra el transmisor MAXTERMO en el tablero +TCIG  apagado razón del paro 86R  de la unidad, se verifica la fuente de este equipo y normaliza cambiando el fusible de la fuente de alimentación . 
+La unidad queda operativa .
+Realizado por Grupo Electrónico.
+-------------
+01/08/2017
+Referente a la unidad # 1:
+Se da paro rápido por falla (RTD 71) temperatura alta cuba aceite cojinete superior. 
+
+

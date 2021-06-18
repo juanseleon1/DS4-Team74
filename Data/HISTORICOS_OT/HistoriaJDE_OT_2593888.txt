@@ -1,0 +1,7 @@
+2014/09/04  Reporto: Carlos Mejia
+
+Fallo indicación sello superior aplicado en la unidad de generación 2 Guatape, lo que ocasiono el cierre de la válvula esférica.
+2014/09/05 ANGEL ADONIS CADAVID OCHOA.
+Por problemas en la valvula de aplicacion de sellos de la unidad 2 se presenta la aplicacion del sello en posicion abierta lo que genera que la electrovalvula 20HL bloqueara el paso de aceite hacia el contrapeso de accionamiento de la valvula esferica y esta se cerrara, la unidad se encontraba genrando 70 MW.
+Esta valvula esta pendiente de reparaciòn.
+

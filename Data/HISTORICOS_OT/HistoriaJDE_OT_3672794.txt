@@ -1,0 +1,7 @@
+El control de la unidad 5 de Guadalupe 3 al momento de realizar el paro normal se esta quedando en 5 MW o en algunos casos abre el interruptor de maquina y se queda en 450 rpm, por lo que hay que activar el paro de emergencia.
+
+23/01/2018
+
+SE REVISA LA SECUENCIA DESDE EL CONTROL, SE ENUENTRA UNA ANORALIDAD EN LA SECUENCIA, ALGUNAS FUNCIONES PARADAS, SE HACE NECESARIO VOLVER A CARGAR EL CONTROL DE UNDAD NORMALIZANDOSE LA SITUACION...
+
+JUAN A. CAICEDO HENAO

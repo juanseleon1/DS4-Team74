@@ -1,0 +1,21 @@
+FECHA: 27/02/2014
+EQUIPO: Regulador de Tension
+
+Descripcion: El regulador de tension de la unidad N° 1 se conmuta al regulador N° 3 (Back up) quedando bloqueado por software y  generando un paro de emergencia en esta unidad. 
+Nota:El regulador de tension no mostro en los eventos de la unidad ningun tipo de alarma.
+
+Informo:  Turno 1   
+
+se ingresaron los programas y se le hizo reset
+
+FEBRERO 27 DE 2014
+
+Se encontró los canales 1,2 y backUp inactivos, se procede a dar reset al regulador de tensión con el portátil y su respectivo software, se cargan de nuevo los programas del canal 1, canal 2 y backUp habilitando así todos estos. Se arranca la unidad con el banco de tiristores 2 y se deja la unidad sincronizada. Queda la unidad en observación.
+
+Esteban Vásquez M
+
+FEBRERO 28 DE 2014
+
+Se sincroniza la unidad luego de reponer falla del regulador de tensión. Se dejaron inhabilitados los canales 1 y el de respaldo, y la operación queda por el canal 2. Es necesario encontrar la causa raíz de la falla del canal 1, el cual queda deshabilitado por sofware, hasta encontrar su motivo de falla.
+
+Esteban Vásquez - Oscar  Restrepo

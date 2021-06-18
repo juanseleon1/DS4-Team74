@@ -1,0 +1,12 @@
+FECHA: OCTUBRE 17 /2016
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+DESCRIPCION: SALIDA FORZADA DE LAS UNIDADES 3,4,5,6 POR CIERRE DE LA VALVULA MARIPOSA ETAPA 2
+
+OCTUBRE 17 /2016
+Salen las unidades 3, 4, 5 y 6 de Guadalupe 3 con paro de emergencia debido a disparo proveniente desde camara de valvulas etapa 2 por causa de falla en el sensor de recuperacion de presion  (se procede a cambiarlo); este evento no causa desvio al programa de generacion.
+
+Referente cámara de válvulas G3:  
+Se realiza la rehabilitación del sistema de control y subsistema hidráulico de la mariposa 1 y 2. Se normalizan los disparos de cierre local y remoto de las válvulas y se habilitan nuevamente los disparos, hacia los generadores de Guadalupe 3. Se modifica el control de recuperación de presión de la mariposa 2. Se entrega el sistema al grupo de operación, con todas sus señales normalizadas.
+
+Ejecuto: grupo mantenimiento   
+Informo: Ingo Oscar Arango.

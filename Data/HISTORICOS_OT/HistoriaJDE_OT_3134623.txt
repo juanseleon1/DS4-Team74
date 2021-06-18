@@ -1,0 +1,10 @@
+2016-06-03. JUAN C DUARTE MUÑOZ.
+
+CORREGIR ARRANQUE DE LA BOMBA, PORQUE NO LO HACE EN LOS PROCESOS DE ARRANQUE Y PARO.
+
+2016/06/03 ANGEL ADONIS CADAVID OCHOA
+OT PASA A PROGRAMACION, DIRECCIONADA AL EQUIPO ELECTRICISTA.
+
+2017/05/04. SERGIO OLIVARES D.
+A la fecha las motobombas de lubricacion forzada de la unidad se encuentran en funcionamiento normal.
+Se cierra sin tiempo. 

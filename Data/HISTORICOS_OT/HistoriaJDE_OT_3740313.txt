@@ -1,0 +1,11 @@
+PREVENTIVO VALVULA DE ADMISION UNIDAD GENERACION GUADALUPE 4
+
+
+
+PLANEADOR:GERMÁN BETANCUR
+
+Programador: Camilo Montagut - 04/07/2018
+
+Se lavaron los filtros de la válvula de admisión. Además se inspecciona toda la válvula en búsqueda de fugas o situaciones inusuales
+
+Ejecuta: equipo mantenimiento mecánico UOG

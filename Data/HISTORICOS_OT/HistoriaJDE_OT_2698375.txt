@@ -1,0 +1,40 @@
+-  FECHA : SÁBADO FEBRERO 28 DE 2015
+- REALIZÓ : FRANCISCO QUINTERO -  WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 2698375
+- ASUNTO : HACER MANTTO MP.
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí       
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 39.2 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  468 v
+       ST =  468 v                                                                
+       RT =  467 v
+       Corriente de arranque:  
+Fase R = 50 a
+       Corriente de marcha:  
+Fase R = 7.1 a
+Fase S = 6.6 a 
+Fase T =  6.8 a                                                                                
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 6.3 a                                   Calibración térmico potencia : 25 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = N.A
+
+6. Observaciones: 1. Datos de presión para arranque y paro:
+                                        * Arrancca : 56.3 Bares 
+                                        * Para : 59.6 Bares
+                                   2. Este equipo que como principal y en operación normal. Se le informa al personal de operación del
+                                       turno : Omar Sanches - Heriberto Suarez .

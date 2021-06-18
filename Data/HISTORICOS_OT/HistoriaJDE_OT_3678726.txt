@@ -1,0 +1,8 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4
+
+
+PLANEADORA:SANDRA CARMONA
+PROGRAMADOR: JOSÉ MONTOYA
+ASIGNADA A PLANEADOR: ENERO 30 DE 2018
+Se realizó limpieza, inspección visual y se revisaron las borneras de control de los diferentes tableros del regulador de tensión. Se realizó mantenimiento a los filtros de aire de cada celda del regulador.
+Se revisó el estado de los sensores de vibración y se ajustaron

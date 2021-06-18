@@ -1,0 +1,316 @@
+2018/10/25 RUBEN ARBOLEDA
+Se crea OT para realizar actividades previas y de reparación de las Juntas del estator Unidad 1.
+
+
+2018-10-25 REALIZÓ: JHONATAN ANDRES USME - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3778224, PASO:1
+Se desmontaron las cuñas del estator de la ranura numero 149, para determinar la cantidad necesaria y disponible en el almacén, se extrajeron 5 tipos de cuña.
+
+2018-10-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:2
+Se retiraron los sensores de los gatos de frenado de la Unidad 1, para el movimiento de los cascos del estator en la apertura de Juntas.
+
+2018-11-02 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:5
+Se recibe el equipo de soldadura por inducción compuesto de: 
+
+
+2018-11-03 REALIZÓ: OSCAR ALIRIO GIRALDO - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:6
+Se realizó ubicación en zona cercana al estator, se realizó limpieza general y conexión eléctrica al equipo de soldadura por inducción, No se energizó. 
+
+2018-11-03 REALIZÓ: OSCAR ALIRIO GIRALDO - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:6,1
+Se apoyó al personal de la cuadrilla móvil para destruir 25 capuchones de la zona inferior de la junta aguas abajo y 20 de 25 de la zona inferior de la junta aguas arriba, para esto se realizó adecuación de iluminación y se protegió los 4 comandos de las válvulas MOOG y el transductor de posición deflector con bolsa plástica para evitar la suciedad. 
+
+
+2018-11-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3778224, PASO:7
+Se realizó limpieza general al recinto de turbina de los residuos de los capuchones de la zona inferior, 
+
+2018-11-04 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:7,1
+Se realizó apoyo al personal de la cuadrilla móvil para continuar destruyendo los 3 capuchones de cabezas de bobina inferior de la junta aguas arriba, 
+Se retiró la mayor cantidad de masilla negra de las cabezas y se reventaron los amarres de las cabezas de bobina inferior tanto de la zona de aguas abajo como aguas arriba.
+
+2018-11-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3778224, PASO:7,2
+Se realizó instalación eléctrica del equipo de soldadura por inducción, para esto se utilizó lo siguiente: 
+Acometida para calentamiento de runner, para conectarla desde la DP2 hasta zona cercana al estator de la Unidad 1, Consumo del equipo de soldadura: 90Amperios
+Se realizó la instalación eléctrica de chiller para equipo de soldadura, para esto se conectó el cable de alimentación de 480VAC desde +SA1 interruptor disponible, consumo del equipo de enfriamiento: 32Amperios, 
+Adicionalmente se cambio el agua por agua de botellón, se le hecho un total de 50 litros, se realizó adecuación de la iluminación en la zona superior del estator para retirar capuchones.
+
+
+2018-11-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3778224, PASO:7,3
+Se adecuó plataforma redonda en el estator y plataforma en media luna para destruir los capuchones de cabeza de bobina superior.
+
+
+2018-11-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3778224, PASO:7,31
+Se realizó aspiración de la zona superior del núcleo del estator Unidad 1, en esta zona se encontró residuos de limalla de pulido, adicionalmente se realizó la protección del espacio entre bobinas y bobinas y núcleo superior para proceder a destruir los capuchones y así evitar que los residuos ingresen en las cabezas de bobina que no se van a extraer.
+
+2018-11-04 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:7,4
+Se realizó apoyo al personal de la cuadrilla móvil desencintar los de los puentes en las cabezas de bobina de la junta aguas abajo, y para retirar los capuchones de las cabezas de bobina superior de la Junta aguas Abajo. 
+
+2018-11-05 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:8
+Se realizó apoyo al personal de la cuadrilla móvil desencintar los de los puentes en las cabezas de bobina de la junta aguas abajo, y para retirar los capuchones de las cabezas de bobina superior de la Junta aguas Abajo, adicionalmente se realizó prueba del equipo de soldadura por inducción, éste no funcionó debido a obstrucción del filtro, el agua del tanque se ensució nuevamente, se realizó adecuación de una manguera para alimentar el tanque de agua y poner a funcionar el chiller botando el agua para limpiar las tuberías y mangueras. 
+
+2018-11-06 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:9
+Se inició con el proceso de desoldar los puentes y desoldar los clips de las cabezas de bobina superior.
+
+2018-11-06 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:9,1-9,2
+Se realizó movimiento de elementos, campana, tapas, plataformas que estaban entre la unidad 1 y la roca, con el fin de abrir espacio para ubicar las bobinas retiradas, los puentes, elementos y resinas para realizar la reparación de junta de la Unidad 1.
+
+2018-11-07 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:20
+Se continuó adecuando elementos para tener disponible espacio entre la Unidad 1 y la roca para adecuar las bobinas que se retiren de la separación de Junta Estator Unidad 1
+
+2018-11-07 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:20,1
+Se realizó apoyo al personal de la cuadrilla móvil para desoldar los clips de las cabezas de bobina superior, en la zona de Aguas Abajo
+
+2018-11-08 REALIZÓ: JHONATAN ANDRES USME - RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3778224, PASO:21
+Se realizó la adecuación de extractores de humo en la reparación de la junta de la Unidad 1, en el taller industrial se contaba con uno el cual tenía el guarda motor con problemas, se instaló un guarda motor de 6 a 10 Amperios y se le realizó limpieza general, adicionalmente éste equipo tenía el tubo de succión de humos en mal estado se le realizó un recubrimiento con papel chicle y se dejó operando.
+
+2018-11-08 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:21,1
+Se realizó apoyo al personal de la cuadrilla móvil para desoldar los clips de las cabezas de bobina superior, en la zona de Aguas Abajo
+
+2018-11-09 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:22
+Se realizó reubicación de elementos para la reparación de la junta de la Unidad 1.
+
+2018-11-09 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:22,1
+Se realizó apoyo al personal de la cuadrilla móvil para desoldar los clips de las cabezas de bobina inferior, en la zona de Aguas Abajo
+
+2018-11-09 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3778224, PASO:22,2
+Se realizó adecuación de la plataforma para el ingreso al estator de la unidad 1, se retiró la plataforma en media luna y la plataforma redonda grande y se instaló la plataforma redonda pequeña.
+
+2018-11-10 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:23
+Se realizó apoyo al personal de la cuadrilla móvil para desoldar los clips de las cabezas de bobina inferior, en la zona de Aguas Abajo
+
+2018-11-11 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:24
+Se realizó apoyo al personal de la cuadrilla móvil para desoldar los clips de las cabezas de bobina inferior, en la zona de Aguas Abajo
+
+2018-11-12 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:25
+Se realizó apoyo al personal de la cuadrilla móvil para desoldar los clips de las cabezas de bobina inferior, en la zona de Aguas Abajo
+
+2018-11-13 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:26
+Se continuó con el apoyo al personal de la cuadrilla móvil para realizar la extracción de bobinas para la reparación de Junta estator Unidad 1.
+
+2018-11-13 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:26,1
+Se realizó apoyo en pruebas de barras retiradas de la junta del estator Unidad 1. 
+
+2018-11-14 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:27
+Se realizó apoyo en prueba de aislamiento y prueba de resistencia óhmica a las barras retiradas de la junta del estator Unidad 1. 
+
+2018-11-14 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:27,1
+Se continuó con el apoyo al personal de la cuadrilla móvil para realizar la extracción de bobinas para la reparación de Junta estator Unidad 1.
+
+2018-11-14 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:27,2
+Se realizó apoyo al personal de mantenimiento mecánico para la apertura del estator.
+
+2018-11-15 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:29
+Se realizó apertura de Junta estatórica Unidad 1, y se inició con la limpieza general de ésta junta aplicando liquido dieléctrico
+
+2018-11-16 REALIZÓ: MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:30
+Se realizó apoyo en la limpieza general de la Junta estatórica Unidad 1.
+
+2018-11-17 REALIZÓ: OSCAR ALIRIO GIRALDO - RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3778224, PASO:31
+Se atendió un requerimiento del equipo mecánico para revisar una herramienta de trabajo con la que se están realizando los trabajos en la reparación de junta de la unidad 1.
+
+2018-11-19 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:32
+Se inició la fabricación de un dispositivo y la adecuación de 2 fuentes para la limpieza con ácido orto fosfórico en la reparación de la Junta estatórica Unidad 1.
+
+2018-11-19 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3778224, PASO:32,1
+Se continuó con la fabricación de un dispositivo y la adecuación de 2 fuentes para la limpieza con ácido orto fosfórico en la reparación de la Junta estatórica Unidad 1.
+
+2018-11-20 REALIZÓ: JUAN DAVID GARCIA - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:
+Se realizó limpieza de tarros de resina que fueron enviados de Ituango, estos tarros vinieron sucios por el transporte, se recibieron 30 tarros de galón, esta resina se utilizará para el relleno de los capuchones, se ubicó la resina en zona cercana al estator de la unidad 1.
+
+2018-11-20 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:33
+Se realizó apoyo al personal de mantenimiento mecánico en el pulido con lijas a la junta estatórica Unidad 1.
+
+2018-11-22 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:35
+Se realizó limpieza general con aspiradora al estator de la unidad 1, ya que se cuenta con partículas en diferentes partes. 
+
+2018-11-22 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:35,1
+Se realizó la instalación de una fuente de 24VDC y 10 Amperios para realizar el electro pulido en la junta estatórica de la Unidad 1 con ácido orto fosfórico.
+
+2018-11-23 REALIZÓ: JHONATAN ANDRES USME - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:36
+Se inició con la electro limpieza de la junta estatórica aguas arriba de la Unidad 1, se instalaron la fuentes en sitio y se realizó pruebas iniciales.
+
+2018-11-24 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:37
+Se realizó el proceso de limpieza de la junta estatórica mediante electro pulido, con la ayuda de 2 fuentes simultaneas, para esta actividad se contó con el apoyo del personal de mantenimiento mecánico y se realizó lo siguiente: 
+Electro limpieza en varias pasadas por cada paquete de la junta estatórica
+neutralización con liencillo impregnado de agua de botellón
+Limpieza de residuos de agua con alcohol isopropílico
+
+2018-11-25 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:38
+Se realizó limpieza con Alcohol industrial a la junta después de haberla dejado la noche anterior con CRC Lubricante penetrante.
+Se realizó el retiro de elementos y preparación para el cierre de la junta estatórica
+se realizó el cierre de la Junta estatórica Unidad 1, lo anterior con el acompañamiento y apoyo del personal de mantenimiento mecánico.
+
+2018-11-26 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:39,1
+Se realizó apoyo al personal de mantenimiento mecánico para realizar la toma de medidas para el papel y posteriormente se realizó una reapertura de junta estatórica de la unidad 1, lo anterior dado que la junta tiene unas zonas más pulidas que otras se va a realizar un nuevo pulido.
+
+2018-11-27 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:40
+Se continuó con el apoyo al personal de mantenimiento mecánico para realizar un segundo pulido a la junta estatórica Unidad 1. 
+
+2018-11-28 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:41
+Se realizó adecuación de liencillo y elementos de protección del estator en la zona de cabezas de bobina las cuales se van a limpiar, lo anterior para realizar las limpieza de los clips después de la unión de la junta estatórica. 
+
+2018-11-29 REALIZÓ: JHONATAN ANDRES USME - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:42
+Se realizó la instalación y adecuación de 2 fuentes para la electro limpieza de la junta estatórica de la Unidad 1. 
+
+2018-12-03 REALIZÓ: MATEO PEREZ (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:43
+Se realizó apoyo en la limpieza con ácido orto fosfórico a la Junta estatórica de la Unidad 1.
+
+2018-12-04 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:44
+Se finalizó con la limpieza de la junta estatórica y se realizó la medida de papel, adicionalmente se realizó la limpieza con petrolizadora y alcohol isopropílico de la junta, posteriormente se realizó la pintura de los paquetes laminados del estator con pintura dieléctrica en aerosol. 
+
+2018-12-05 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:45
+Se realizó apoyo en la reparación de Junta estatórica Unidad 1, se realizó limpieza general del estator.
+
+2018-12-06 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:51
+Se realizó acompañamiento a conductor para traer un equipo de soldadura para soldar los clips de las bobinas de la junta estatórica. 
+
+2018-12-06 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:51,1
+Se realizó limpieza general de las cabezas de bobina del estator y limpieza general al estator para empezar a realizar lavado criogénico y realizar la instalación de las bobinas retiradas en la reparación de la Junta estatórica. 
+
+2018-12-09 REALIZÓ: MARIO MORALES (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se continua con los trabajos del estator en la unidad 1
+
+2018-12-10 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+trabajos en el estator unidad 1 cabezas de bobina
+
+2018-12-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se realizan preparativos para calentamiento del estator de la unidad 1.
+
+2018-12-13 REALIZÓ: JHONATAN ANDRES USME - SEBASTIAN HINCAPIE HURTADO - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se adecua soldador para iniciar la soldadura de las cabezas de bobina del estator de la unidad 1.
+
+2018-12-14 REALIZÓ: MATEO PEREZ (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+Se trabaja en la operación del soldador en el estator de la unidad 1
+
+2018-12-15 REALIZÓ: FERNANDO ANTONIO RUIZ - SEBASTIAN HINCAPIE HURTADO - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224 3795465, PASO:
+se hace acompañamiento en la pruebas del ring test en el estator de la unidad 1.
+
+
+      se atienden problemas en puente grúa vevey.
+
+2018-14-16 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se retoman trabajos en el estator unidad 1 después de las pruebas.
+
+2018-12-17 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: FDIAZ OT: 3778224, PASO:
+ se realiza adecuación eléctrica del calentador portátil en el estator de la unidad 1.
+
+2018-12-17 REALIZÓ: MATEO PEREZ (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se continua con el armado de las bobinas del estator de la unidad 1
+
+2018-12-17 REALIZÓ: JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se continua con el armado de las bobinas del estator de la unidad 1
+
+2018-12-18 REALIZÓ: MATEO PEREZ (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se instalan amarres el las bobinas que fueron removidas para la reparación de la junta.
+
+2018-12-19 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se revisan y se dejan disponibles la resistencias propias del estator del la unidad 1 para ponerlo a calentar cuando se requiera.
+
+2018-12-19 REALIZÓ: MATEO PEREZ (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+se siguen instalando amarres en las bobinas que fueron removidas y reinstaladas.
+
+2018-12-20 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:74
+se continua con los trabajos en el estator de la unidad 1
+
+2018-12-21 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:75
+se continua con los trabajos en el estator de la unidad 1
+
+2018-12-22 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3778224, PASO:76-76,1
+Se apoya el trabajo de recuñado del estator de la unidad 1
+
+2018-12-22 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: FDIAZ OT: 3778224, PASO:77
+Se continua con el recuñado del estator de la unidad 1.
+
+2018-12-23 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3778224, PASO:77,1
+Se continua con el recuñado del estator de la unidad 1, se realizó la preparación y prueba de una muestra de resina para los amarres. 
+
+2018-12-24 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: FDIAZ OT: 3778224, PASO:78
+Se realizó apoyo en el recuñado de las bobinas del estator Unidad 1.
+
+2018-12-25 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3778224, PASO:79
+Se realizó orden y aseo general al estator de la Unidad 1.
+
+2018-12-26 REALIZÓ: MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3778224, PASO:
+Se continuó con la soldadura de las cabezas de bobina en el estator de la Unidad 1
+
+2018-12-27 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:81
+Se continuó con la soldadura de las cabezas de bobina en el estator de la Unidad 1, adicionalmente se realizo la limpieza y el pulido de las soldaduras para posteriormente realizar la instalación de los capuchones.
+
+2018-12-27 REALIZÓ: JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:81,1
+Se continuó con la limpieza general de las cabezas de bobina en el estator de la Unidad 1 y se continuó con la soldadura de las cabezas de bobina y los puentes. 
+
+2018-12-28 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:82
+Se continuó con la limpieza general de las cabezas de bobina en el estator de la Unidad 1 y se continuó con la soldadura de las cabezas de bobina y los puentes. 
+
+2018-12-28 REALIZÓ: JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:82,1
+Se continuó con la limpieza general de las cabezas de bobina en el estator de la Unidad 1 y se continuó con la soldadura de las cabezas de bobina y los puentes. 
+
+2018-12-29 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3778224, PASO:83
+Se continuó con la limpieza general de las cabezas de bobina, adicionalmente la instalación de capuchones y el amarre del estator en sus diferentes partes.
+
+2018-12-29 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3778224, PASO:83,1
+Se realizó la adecuación de cableado para el calentamiento del estator de la Unidad 1, se dejó calentando con 200 Amperios.
+
+2018-12-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:84
+Se continuó con los amarres del estator de la Unidad 1, adicionalmente se realizó la adecuación de cable 4/0 para tener dos lineas desde el soldador y así aplicarle mayor amperaje, se conectó el soldador y se ajustó con 400 Amperios, en la parte inferior del estator se dejó instalado 2 dehumidificadores.
+
+2018-12-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3778224, PASO:85
+Se continuó con el encintado de las cabezas de bobinas, los puentes y las cuñas del estator de la Unidad 1. 
+
+2019-01-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3778224, PASO:86
+Se continuó con el encintado de las cabezas de bobinas, los puentes y las cuñas del estator de la Unidad 1. 
+
+2019-01-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3778224, PASO:87
+Se continuó con el encintado de las cabezas de bobinas, los puentes y las cuñas del estator de la Unidad 1. 
+
+2019-01-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3778224, PASO:88
+Se continuó con el encintado de las cabezas de bobinas, los puentes y las cuñas del estator de la Unidad 1. 
+
+2019-01-03 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:88,1
+Se realizó adecuación de cintas de fibra de vidrio y cintas de mica para en elcintado de las cabezas de bobina y demás en el estator de la unidad 1
+
+2019-01-04 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:89
+Se continuó con el encintado del estator de la Unidad 1, se realizó amarre de capuchones y encintado de puentes
+
+2019-01-04 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3778224, PASO:89
+Se continuó con el encintado del estator de la Unidad 1, se realizó amarre de capuchones y encintado de puentes
+
+2019-01-05 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3778224, PASO:90
+Se realizó apoyo en la ejecución de las pruebas eléctricas al estator de la unidad 1, se realió IP por fase, resistencia ohmica, prueba de alta tensión. 
+
+2019-01-06 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3778224, PASO:91
+Se inició con el montaje de los sensores de los gatos de frenado de la Unidad 1, se realizó el cambio de la tubería flexible desde la caja de paso hasta cada sensor. 
+
+2019-01-07 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3778224, PASO:92
+Se continuó con el montaje de los sensores de los gatos de frenado de la Unidad 1, se realizó el cambio de la tubería flexible desde la caja de paso hasta cada sensor.
+
+2019-01-09 REALIZÓ: JUAN DAVID GARCIA - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:94
+Se realizó apoyo al personal de mantenimiento electrónico e instrumentación en el montaje y conexionado de las RTD's.de la Unidad 1
+
+2019-01-10 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL) - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:95
+Se realizó apoyo al personal de mantenimiento mecánico en el armado de la Unidad 1, durante estas actividades se realizó medida de aislamiento al rotor con un resultado de 160MOhm, se continúa armando, 
+Se realizó medida de aislamiento a los cojinetes, con un resultado de 33.1MOhm, 
+Se adecuó los dos soldadores para poner a calentar el rotor.
+
+2019-01-10 REALIZÓ: JUAN DAVID GARCIA - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:95,1
+Se realizó apoyo al personal de mantenimiento electrónico e instrumentación en el montaje y conexionado de las RTD's.de la Unidad 1
+
+2019-01-11 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: ELONDOOC OT: 3778224, PASO:96
+Se realizó reparación del CT de nuetro en la fase T de la Unidad 1, éste se encontraba con una terminal floja, se adecuó con resina y se dejó en condiciones normales. 
+
+2019-01-11 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: ELONDOOC OT: 3778224, PASO:96,1
+Se realizó apoyo al personal de instrumentación en la conexión de las señales de la Unidad 1
+
+2019-01-11 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: ELONDOOC OT: 3778224, PASO:96,2
+Se realizó el armado de los barrajes de neutro y de salida de la unidad 1.
+
+2019-01-12 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: ELONDOOC OT: 3778224, PASO:97
+Se realizó apoyo al personal de instrumentación en la conexión de las señales de la Unidad 1
+
+
+2019-01-18 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3778224, PASO:98
+Se inició con el orden y aseo general al taller electricistas, se transladó algunos elementos para los cuartos del asincrónico.
+
+2019-01-19 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3778224, PASO:99
+Se continuó con el orden y aseo general en el taller electricista, se sacó algunos elementos y se transladaron para los cuartos del asincrónico. 
+
+2019-02-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3778224, PASO:100
+Se realizó adecuación de soldador por inducción en un guacal con el fin de transportarlo para la Unidad Operaciones Guadalupe.

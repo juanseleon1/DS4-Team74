@@ -1,0 +1,14 @@
+
+2017/08/22 _ CARLOS ENRIQUE MONCADA. OT N° 3481136.
+El sistema CI en las U 1 y 3 presentó la descarga de cilindros de CO2 porqué el equipo VESDA detectó la presencia de humo en el recinto de los generadores, dado que se tiene en la programacion de los paneles de control (ARIES) el disparo por detección de humo o por termicos o por proteccion diferencial del generador o de forma manual. Como se indicó en la programción, la descarga de los 20 cilindros fue ocasinada por la correcta operación de los VESDA.  Con el fin de evitar que se vuelva a presentar la descarga del CO2 de forma errada por señal de humo, se solicitó por carta escrita a la empresa CIVALCO quien diseño y montó el sistema para modificar la programacion del panel ARIES y la descarga, se siga dando por dos condiciones:
+
+por temperatura y por la zona cruzada entre el VESDA y dos térmicos nuevos que se instalaran en la periferia de los generadores de las unidades. Queda el disparo habilitado por térmicos y deshabilitado por el sistema VESDA.
+
+Informó: Hector Mario Gomez Calle (Interventor contrato sistema Contraincendios)
+   
+
+2017/05/14
+REVISAR CONTROL DE DESCARGA BANCOS DE CO2 DEL GENERADOR DE LAS TRES UNIDADES , YA QUE SE HAN PRESENTADO DESCARGAS POR FALSAS ALARMAS EN LA UNIDAD #1 Y #3 , ADICIONAL SE OBSERVAN LAS SIGUIENTES ANOMALIAS 
+CUANDO SE HACE LA DESCARGA NO SE EVIDENCIA SUFICIENTE CO2 EN EL RECINTO DEL GENERADOR ,EN CAMBIO SE EVIDENCIA CONGELAMIENTO EN EL DUCTO DEL EXTRACTOR DONDE LLEGAN LAS TUBERIAS DE ALIVIO DEL CO2 DE ESTE SISTEMA ,ADEMAS NO SE ENCUENTRAN HABILITADAS LAS CALEFACCIONES DEL GENERADOR DE LAS UNIDADES 1 Y 2 LAS CUALES QUEDARON DESHABILITADAS DURANTE EL MONTAJE DEL NUEVO SISTEMA 
+ESTA PENDIENTE RECARGAR EL BANCO DE RESPALDO 
+

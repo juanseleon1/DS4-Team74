@@ -1,0 +1,23 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FECHA: ABRIL 01-2014
+
+
+OT´S DEL TRIMESTRAL QUE SE EJECUTA DENTRO DEL CAMBIO DE POLOS DE LA UNIDAD
+
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+
+
+
+FECHA: ABRIL 09-2014
+
+NOTA: SE INGRESA MAS TIEMPO A ESTA OT POR CORRECTIVO EN CAJA DE PASO BORNERAS SENSORES DE POSICION DE VALVULA ESFERICA, BYPASS, SELLOS AGUAS ARRIBA.
+
+TRABAJO CORRECTIVO: LEVANTAMIENTO DE CABLEADO, CAMBIO DE BORNERA Y MANTENIMIENTO A LA CAJA DE PASO VALVULA ESFERICA.
+
+09-05-2014
+SE REALIZA TRIMESTRAL
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión, 
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizaron pruebas a los sensores inductivos de estado de la válvula, comprobando su correcta visualización en el sistema de control.
+JOSE MONTOYA

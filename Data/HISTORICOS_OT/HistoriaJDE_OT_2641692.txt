@@ -1,0 +1,21 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2015/02/21 GIOVANNY DIAZ - YEISON ORTEGA OT: 2641692 
+Se realizo inspeccion termografica, no se encontro punto caliente, se tomo los datos descritos a continuacion: 
+
+DATOS DE PLACA 
+POTENCIA = 40 HP
+VOLTAJE = 440 V
+CORRIENTE = 50 A
+INS (AISLAMIENTO) = A
+ID = X4678201
+REGISTROS DE VOLTAJE 
+FASE RS = 450 V
+FASE ST = 449 V
+FASE RT = 450 V
+REGISTROS DE CORRIENTE 
+FASE R= 42.5 A
+FASE S = 43.5 A
+FASE T = 42 A
+HOROMETRO 5171
+TEMPERATURA DE AISLAMIENTO ESTIMADA 76°C, está dentro de los parámetros normales de operación según su clasificación de aislamientos.

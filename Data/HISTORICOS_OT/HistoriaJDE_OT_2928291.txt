@@ -1,0 +1,10 @@
+07/11/2015 ALEJANDRO VERGARA
+SALE SEÑAL U2-8.89 INTERRUPTOR CERRADO LA CUAL SE RREPITE EN VARIAS OCACIONES EN LISTA DE EVENTOS ESTACION DE OPERACION
+2015/11/09 ANGEL ADONIS CADAVID OCHOA
+SE ASIGNA ORDEN DE TRABAJO AL EQUIPO ELECTRICISTA
+
+2015/11/09 EDWAR LONDOÑO - DIEGO PERLAZA (PRACTICANTE)
+Se realizó revisión general, no se encontró falla aparente en el relé, se deja la OT abierta para cuando la unidad se encuentre sincronzada y la alarma esté saliendo. 
+
+2016/04/26 RUBEN ARBOLEDA
+Se realiza el cierre de la OT ya que a la fecha no se ha vuelto a presentar la falla.  

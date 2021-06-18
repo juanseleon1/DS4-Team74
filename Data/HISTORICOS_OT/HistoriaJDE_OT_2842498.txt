@@ -1,0 +1,10 @@
+
+ 12/08/2015.SERGIO OLIVARES D.
+
+ Se hizo cambio de los tres para-rayos, en el seccionador fusible del transformador Guatape Alejandria,
+ dejando todo normal. se hizo ajuste de tornilleria de ambos trafos.
+
+ Se midio aislamiento por el lado de alta y se encontro en 13.4 Megaohimios,y por baja en 68.0 Megaohmios; se  dejo calentando y se energizo al otro dia, con una medida de aislamiento por alta de 30.4 Megaohmios, y por  baja de 105 Megaohmios.
+
+ El dia 11 de agosto/2015 se energizo el trafo de Guatape-Alejandría, y se hizo mantenimiento a los servicios  auxiliares AC, y se probó la transferencia automatica encontrandose en mal funcionamiento;Se le comunico al
+ Sr. Luis Eduardo Arcila con la O.T. 2720686.

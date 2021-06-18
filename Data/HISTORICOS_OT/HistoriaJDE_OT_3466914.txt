@@ -1,0 +1,4 @@
+FECHA: mayo 09/2017PROGRAMO: Daniel Palacios EJECUTO: Diego Restrepo.
+Se realiza inspección, limpieza y mantenimiento al tablero eléctrico +TCCCM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+
+XE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCI DE LA UNIDAD

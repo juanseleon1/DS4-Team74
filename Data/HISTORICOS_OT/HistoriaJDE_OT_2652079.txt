@@ -1,0 +1,9 @@
+SOLICITANTE: JUAN DAVID GUTIERREZ, FECHA: 4-12-2014.
+
+DESCRPCION: Se presenta alarma transitoria "Falla Grave Regulador de Velocidad", llevando la potencia a 4Mw, y bloqueando la subida de carga, se observa el rele R65 desenergizado y el regulador no responde a las consignas de subir Potencia ni localmente ni remotamente, ni al comando desbloquear regulador, aparece solamente alarma Falla Leve Regulador.
+
+13 DE DICIEMBRE 2014
+
+Se verifica la electrovalvula 304 y su respectivo microswiche la cual da la señal que confirma Regulador bloqueado o desbloqueado, se realiza mantenimiento en los bornes, se verifica el cableado y seguimiento de dicha señal hasta la entradas de la CIO01 de la unidad G43, dando ajustes a los bornes y limpiando los contactos.
+
+Informó: William Lopera

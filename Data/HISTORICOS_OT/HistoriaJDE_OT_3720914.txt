@@ -1,0 +1,9 @@
+
+Fecha: 04/05/2018
+
+Descripción: Favor revisar aguja N° 4 de la unidad 5 de Gpe 3. Se falló y no obedece a la consigna.
+
+Solicita:   Gustavo Quintana - Mario Zapata
+
+Fecha: 04/05/2018
+se revisó y se encontró driver de aguja 4 dañado, se procede a cambiar tarjeta y a realizar pruebas de lazo de control, se encontró fusible correspondiente al actuador de dicha aguja quemado, se cambia y al montar el driver de repuesto, se quemó integrado, se verifican todas las señales y debido a no encontrar anomalía, se monta otro de los drivers disponibles como repuesto, se realizan movimientos en manual en esta aguja, encontrando respuesta satisfactoria, se normaliza la unidad y se procede a sincronizar y asignar carga, trabajando la unidad.  las salidas anteriores no generaron desvió al programa de generación, se elaboró solicitud # 3720914; la unidad, en el SCADA, queda indicando 12MW menos de lo que realmente se está generando; queda pendiente por normalizar. Se reaprietan borneras en rack del regulador electrónico, y con esto se da solución Realizo: Francisco Gonzales, Adrián Cardona y Carlos GIORDANELLI.

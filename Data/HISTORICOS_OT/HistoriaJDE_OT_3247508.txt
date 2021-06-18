@@ -1,0 +1,6 @@
+REVISAR FUNCIONAMIENTO DEL SENSOR DE FLUJA AGUA TURBINADO EN LA UNIDAD PORCE 34, PRESENTA OSCILACIÓN PERMANENTE DE LA MEDIDA DEL SENSOR. OT realizada para labores del instrumentista NESTOR OCHOA. 
+
+
+25/10/2016
+
+El transmisor de caudal turbinado se encuentra trayectoria 3 con problemas, se reemplaza por la trayectoria 7 y se dejan normalizados, el flujo estabiliza y durante una hora se le hace seguimiento. La trayectoria 3 quedo desconectado mientras se realiza el cambio del elemento sensor. Informa: Néstor Ochoa.

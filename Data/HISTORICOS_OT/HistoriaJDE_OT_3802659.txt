@@ -1,0 +1,4 @@
+
+ENERO 08/2019 OT: 3802659  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presentaba alarma de Supply Voltage Low durante el arranque, aun con la maquina a -50° la falla continuaba, se verifica en graficas que la fase L1 solo marcaba 185 Voltios, se cambia el módulo 152A1 y se arranca a -50° y entra en servicio

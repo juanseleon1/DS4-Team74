@@ -1,0 +1,14 @@
+13/09/2018
+VERIFICAR CONDICION ANORMAL EN SELECTOR DE CONTROL Y SEÑAL DE OPERACION DEL VENTILADOR FASE R, DESDE TRAFO DE POTENCIA HACIA SALA DE CONTROL. CUANDO EL VENTILADOR ESTA OPERANDO LLEGA SEÑAL POR FUERA DE SERVICIO.
+CARLOS ALBERTO TORRES MESA
+GERARDO AUGUSTO PEREZ ATEHORTUA
+
+
+Nota. Se verifica la tensión de los bornes (potencia) en la bornera X5. Donde una de las fases presenta una tensión mener de 100 voltios (medida en tre linea a neutro). Se debe proceder a verificar los alimentadores con la posibilidad de encontrar que una de sus polos este contaminado.  
+
+ Identifcar el alimentador con problemas.
+ realizar las maniobras requeridas (si la falla esta el el alimetador pricipal de 440 Vac o ejecutarlo con maquina parada.
+ 
+ SE HACE UNA REVISION DEL CONTROL Y SE ENCONTRO UN CABLE SUELTO EN EL CONTACTO AUXILIAR DEL K12 SE CCONECTA ESTE CABLE Y SE NORMALIZA LA SEÑAL.
+ 
+ REALIZO: FRANCISCO GONZALEZ

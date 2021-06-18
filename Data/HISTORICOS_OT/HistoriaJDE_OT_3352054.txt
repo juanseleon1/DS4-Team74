@@ -1,0 +1,9 @@
+2016/12/26 RUBEN ARBOLEDA
+En la ejecución de la OT: 3352050, se evidenció mucha suciedad en los ventiladores de la UPS, se realiza esta OT para realizar limpieza general
+
+2017-01-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3352054, PASO:1          
+Se realizó limpieza general a los ventiladores de la UPS 1, se lubricaron los rodamientos con CRC, la limpieza se realizó con dielectric y se limpio la parte superior de la UPS, se evidenció mucha suciedad y se dejó en condiciones normales. 2016/12/26 RUBEN ARBOLEDA
+En la ejecución de la OT: 3352050, se evidenció mucha suciedad en los ventiladores de la UPS, se realiza esta OT para realizar limpieza general
+
+2017-01-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3352054, PASO:1          
+Se realizó limpieza general a los ventiladores de la UPS 1, se lubricaron los rodamientos con CRC, la limpieza se realizó con dielectric y se limpio la parte superior de la UPS, se evidenció mucha suciedad y se dejó en condiciones normales. 

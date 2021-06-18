@@ -1,0 +1,4 @@
+MANTENIMIENTO GENERAL ESTATOR GENERADOR CENTRAL PORCE 2.
+
+Se realizo mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados a los radiadores.
+Se realizo mtto a los detectores de la excitación asociados al sistema contra-incendio del generador y se inspecciono los cables y conexiones de las RTD´s dentro del recinto del generador (radiadores).

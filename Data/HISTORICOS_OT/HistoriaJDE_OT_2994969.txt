@@ -1,0 +1,5 @@
+
+12-02-11 JEISON ORTEGA - JHONATAN USME  - CESAR HOYOS
+Se realiza prueba de tiempos y resistencia de contactos con los siguientes resultados. 
+Fecha:12/02/2016Fasa R Fasa S Fasa TTiempo cierre (ms) 164,2 165,6 164,6Tiempo apertura (ms) 78,2 74,6 79Resistencia estática () 6 16 16I bobina cierre (A) 1,236I bobina apertura (A) 1,236
+

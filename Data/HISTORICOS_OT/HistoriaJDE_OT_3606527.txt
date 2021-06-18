@@ -1,0 +1,14 @@
+
+Planeador:   Hernando Alonso Castrillón T.
+Aprobador:    Gustavo de J. Muñoz Berrio
+Fecha de solicitud:       25/09/2017
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+ Inspección general del estado de la estación
+              Verificación del funcionamiento de la DCP y TX
+              Chequeo de cangilones o sistema de basculación
+              Bajada de datos
+              Emplazamiento
+              Verificación con calibrador
+              Bajada de datos 

@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA:NOVIEMBRE 15-2015
+EJECUTANTE: PEDRO ROBAYO
+
+
+
+Se sube al AG5 y se verifica  si el AA estaba funcionando correctamente y efectivamente estaba bien, pero la PT100 estaba muy pegada a la lamina, se retira un poco y se deja el AG en servicio.   

@@ -1,0 +1,60 @@
+PLANEADOR. OSCAR RESTREPO ALVAREZ
+PROGRAMADOR:YOFRED BERNARDO RODRIGUEZ VAHOS
+
+
+ABRIL 02 DE 2014
+
+
+
+ESTA OT INCLUYE :
+
+
+EM: Cojinete inferior
+Desmontar cojinete inferior
+Sacar el aceite de la cuba
+Montar andamio para cojinete
+Desmontar Trafo de Corrientes de Eje
+Desmontar tubería de aireación
+Retirar la tapa superior del cojinete inferior-dejándola suspendida del rotor
+Retirar tuberías de refrigeración y aceite
+Soltar y descender tapa Inferior hasta el acople
+Desmontar los dos serpentines de refrigeración;
+Desmontar retenedor de la tapa y suspenderlo en el rotor
+Desmontar mitades de tapa inferior y sacarlas del recinto
+Desmontar Tapas zapatas
+Desmontar las zapatas
+Desmontar Pivotes de calibración
+Fin
+Montar cojinete inferior:
+Montar andamio para cojinete
+Montar pivotes de calibración
+Montar zapatas del cojinete inferior 
+Montar las dos mitades de la tapa inferior
+Montar retenedor de la tapa
+Montar los dos serpentines de refrigeración en la tapa inferior
+Realizar prueba hidrostática al serpentín
+Montar la tapa inferior del cojinete
+Calibrar segmentos guía
+Montar tapa zapatas
+Montar la tapa superior del cojinete
+Depositar aceite al nivel normal
+Montar tubería de aireación, refrigeración y la de aceite
+Retirar andamio para acople después de verificar estanqueidad
+Fin
+Medir resistencia de aislamientos guías antes del desarme
+Medir resistencia de aislamientos guías antes del arme
+EL: Verificar instrumentación CJI
+Desconectar y desmontar RTD´s segmentos guías
+Desmontar Termómetros metal guía inferior, aceite y metal chumacera
+Desconectar y Desmontar sensores de zapata de frenado y vibraciones 
+Desmontar sensores de nivel de aceite
+Limpieza de la instrumentación
+Verificación instrumentación con equipos patrones
+Montaje RTD´s segmentos guías
+Montar instrumentos de presión y flujo
+Conexión RTD's segmentos guías
+Montaje del Trafo de Corrientes de Eje
+Montaje termómetros
+Instalar y Conectar sensores de zapata de frenado y vibraciones 
+Realizar curva característica sensores de vibraciones
+

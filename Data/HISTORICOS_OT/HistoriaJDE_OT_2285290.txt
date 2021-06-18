@@ -1,0 +1,12 @@
+INFORMA TURNO No.2   DE OPERACIÓN
+
+LA UNIDAD 1 DE PORCE 2 PRESENTA PARO DE EMERGENCIA  POR DISPARO RELÉ SOBRETENSIÓN (59) SMORB2.
+EL EVENTO SE PRESENTA A LAS 11:26 DEL DIA 29 DE ABRIL DE 2013.
+CAUSA DESVIACION DE 79 MW, SE LE DA RESET AL RELE SMORB2 EN SUBESTACION PORCE TABLON, SE LE DAN CONDICIONES A LA UNIDAD Y SE SINCRONIZA CON UNA POTENCIA DE 135 MW.
+
+INFORMA: JORGE GONZALEZ.
+
+29/04/2013
+Se reviza y se encontro Relé SMORB2 con disparos activos, se resetea y estos disparos son borrados, pero se observa que estando la unidad fuera de servico se presentan nuevamente los disparos, el Relé se falla continuamente, se coordina conel personal de protecciones y se deshabilitan los disparos por esta protección, se gira y se sincroniza nuevamente la unidad, entrando en operación normal. Pendiente cambiar Rele.
+
+Informa: Jorge Rodríguez

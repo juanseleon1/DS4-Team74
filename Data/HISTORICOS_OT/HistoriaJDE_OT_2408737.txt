@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION COJINETE GUIA INFERIOR CENTRAL PORCE 2.
+
+se revisan sensores de vibración, el sensor CIPL se encontró en 8.15VDC y el CIPR se encontró en 12.09 VDC. 
+
+Se realizo verificación de alarma y disparo según formato de inyección de señales, que se encuentra en la siguiente ruta: \\Wperezg5\MTTO UNIDADES GPEPORCE\MTTOPII2013 y limpieza de cada una de las RTD asociadas a cojinete.
+Se realizo inyección de señales de temperatura
+  GUIA       EMPUJE PATRÓN ACTE  SEG 3 SEG 6  SEG 9  SEG 12  SEG 3 SEG 640° 40,0 22,0 40,0 40,0 40,0 40,0 40,060° 60,0 42,0 60,0 60,0 60,0 60,0 60,080° 80,0 62,0 80,0 80,0 80,0 80,0 80,0ALARMA 55,0 75,0 75,0 75,0 75,0 93,0 93,0DISPARO 60,0 80,0 80,0 80,0 80,0 98,0 98,0

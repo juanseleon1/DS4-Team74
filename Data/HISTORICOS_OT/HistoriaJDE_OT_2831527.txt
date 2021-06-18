@@ -1,0 +1,115 @@
+2015/07/29 JHONATAN USME
+Se realizó un inventario de elementos disponibles para la modernización del puente grúa vevey.
+
+2016/07/05 JUAN DAVID GARCIA - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG, PASO 60, 
+Se reanudan las actividades de modernización del puente grúa, se continua con el cableado de control. 
+
+2016-08-09 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: ELONDOOC OT: 2831527, PASO:80          
+Se continuó con el montaje del puente grúa, 
+2016-08-10 REALIZÓ: OSCAR GIRALDO - GIOVANNY DIAZ - JUAN JOSE LOPEZ (PRACTICANTE),  PROGRAMO: SOLIVARE OT: 2831527, PASO:81          
+Se continua con el cableado de elementos del puente grúa vevey
+2016-08-11 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:82          
+Se realizó una adecuación en el control del puente grúa vevey, queda pendiente realizar verificación de cableado total y realizar pruebas de carga del programa al PLC.
+2016-08-12 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: ELONDOOC OT: 2831527, PASO:83          
+Se inicio con la verificación del cableado del puente grúa VEVEY, 
+2016-08-16 REALIZÓ: (OSCAR ALIRIO GIRALDO),  PROGRAMO: RARBOLG OT: 2831527, PASO:87
+Se continua con las pruebas del puente grúa VEVEY
+2016-08-17 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: ELONDOOC OT: 2831527, PASO:88          
+Se realiza seguimiento a cableado de control y potencia para verificación de planos y tablas de cableado en el puente Grúa VEVEY. 
+2016-08-18 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: ELONDOOC OT: 2831527, PASO:89          
+Se inicia con el levantamiento de las tablas de descableado para el puente grúa VEVEY
+2016-08-19 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: ELONDOOC OT: 2831527, PASO:90          
+Se continua con el levantamiento de las tablas de descableado para el puente grúa VEVEY
+2016-08-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:91          
+Se continua con el levantamiento de las tablas de descableado para el puente grúa VEVEY
+2016-08-23 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:92          
+Se continua con el levantamiento de la información del puente grúa VEVEY
+2016-08-25 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:93          
+Se continuo con el levantamiento de la información del puente grúa vevey
+2016-08-26 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:94          
+Se continuo con el levantamiento de la información del puente grúa vevey
+2016-08-27 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:95          
+Se paso el PLC del puente grúa Badony para el puente grúa VEVEY
+2016-08-28 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:96          
+Se continuo con el levantamiento de la información del puente grúa VEVEY
+2016-08-29 REALIZÓ:  OSCAR GIRALDO - JUAN JOSE LOPEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 2831527, PASO:97          
+Se continuo con el levantamiento de la información del puente grúa VEVEY
+2016-08-30 REALIZÓ:  OSCAR GIRALDO - JUAN JOSE LOPEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 2831527, PASO:98          
+Se continuo realiza verificación de cableado según tabla de cableado en el puente grúa VEVEY
+
+2017-03-21 REALIZÓ: JUAN DAVID GARCIA - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 2831527, PASO:99-100          Se realizó verificación del cableado del puente grúa y se realizó pruebas de comunicación entre el PLC y los variadores de frecuencia, queda pendiente continuar con las pruebas
+2017-03-24 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 2831527, PASO:101          Se realizó revisión de la comunicación y pruebas con cada uno de los 4 variadores del tablero y un motor, respondió normalmente.
+2017-03-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 2831527, PASO:102-103          Se realizó pruebas de comunicación al puente grúa Vevey, se conectó un motor en bornera de salida de potencia y desde el control remoto se realizó la manipulación de las perillas correspondiente para probar el funcionamiento en cada velocidad, se encontró en funcionamiento normal. 
+2017-03-29 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:104          Se continuó con las pruebas del puente grúa Vevey, se realizó verificación de cableado
+2017-03-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 2831527, PASO:104          Se continuó con las pruebas del puente grúa Vevey, se realizó verificación de cableado
+2017-03-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:105          Se continuó con la revisión del cableado del puente grúa Vevey
+2017-04-03 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: SOLIVARE OT: 2831527, PASO:106          Se continuó con la verificación del cableado del puente grúa vevey
+
+2017-04-06 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:108          Se continuó con la verificación del cableado del puente grúa vevey
+2017-04-07 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:109          Se continuó con la verificación del cableado del puente grúa vevey
+2017-04-10 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:110-110,1          Se realizó conexiones electricas en el puente grúa, con el fin de realizar pruebas para mover los motores instalados en el puente grúa, se inicia con la adecuación de cableado y se retiran de borneras los cables del control actual.
+2017-04-11 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:111-111,1          Se realizó conexiones electricas en el puente grúa, con el fin de realizar pruebas para mover los motores instalados en el puente grúa, se inicia con la adecuación de cableado y se retiran de borneras los cables del control actual.
+2017-04-12 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:112          Se realizó pruebas con el control nuevo (Variadores de frecuencia), conectados provisionalmente a los motores del gancho principal, gancho auxiliar
+2017-05-10 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: SOLIVARE OT: 2831527, PASO:119          Instalación iluminación Puente grúa
+2017-05-10 REALIZÓ: OSCAR ALIRIO GIRALDO,  PROGRAMO: SOLIVARE OT: 2831527, PASO:120          Instalación iluminación Puente grúa
+2017-05-15 REALIZÓ: JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 2831527, PASO:          Se realizó montaje de iluminación en puente grúa vevey
+2017-05-17 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:          Se continuó con el montaje de la iluminación en el puente grúa vevey
+2017-05-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:132          Se continuó con el montaje del alumbrado en el puente grúa vevey
+2017-05-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:133          Se continuó con el montaje de iluminación en el puente grúa vevey
+2017-06-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:134          Se continuó con el montaje de iluminación en el puente grúa vevey
+2017-08-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - OSCAR VELEZ (MTTO MECANICO),  PROGRAMO: RARBOLG OT: 2831527, PASO:149-149,1          Se realizó instalación de una acometida para realizar una prueba con personal de variadores SA el 2017/08/15 y se realizó toma de medidas y se inició con la fabricación de la base para el nuevo tablero
+2017-08-16 REALIZÓ: OSCAR ALIRIO GIRALDO - OSCAR VELEZ (MTTO MECANICO),  PROGRAMO: RARBOLG OT: 2831527, PASO:150-150,1          Se continuó con la elaboración de la base para el tablero nuevo del puente grúa vevey
+2017-09-09 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:168          Se continuó con el cambio de cableado en los sensores del puente grúa vevey
+2017-09-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:169          Se continuó con el cambio del cableado de los sensores del puente grúa vevey
+2017-09-12 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:170          Se continuo con el cambio de cableado de los sensores en el puente grúa vevey
+2017-09-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:171          Se inicio con la adecuación de las borneras de paso en el puente grúa vevey, las cuales reciben en los dos extremos del cable plano las señales ce control y potencia.
+2017-09-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:172          Se continuó con el cambio de las borneras en las cajas de paso del puente grúa vevey
+2017-09-14 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 2831527, PASO:172.1          Se continuó con el cambio de las borneras en las cajas de paso del puente grúa vevey
+2017-09-15 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:173          Se continuó con el cambio de las borneras en las cajas de paso del puente grúa vevey
+2017-09-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:174          Se continuó con el cambio de las borneras en las cajas de paso del puente grúa vevey
+2017-09-21 REALIZÓ: JUAN DAVID GARCIA - BRANDON VELASQUEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 2831527, PASO:175          Se inicio el montaje de 2 cables planos de 12 Hilos cada uno para comunicar las cajas de paso entre el puente y el carro del puente grúa vevey
+2017-09-22 REALIZÓ: OSCAR ALIRIO GIRALDO - BRANDON VELASQUEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 2831527, PASO:176          Se continuo con el montaje de 2 cables planos de 12 Hilos cada uno para comunicar las cajas de paso entre el puente y el carro del puente grúa vevey
+2017-09-25 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:177          Se continuo con el montaje de 2 cables planos de 12 Hilos cada uno para comunicar las cajas de paso entre el puente y el carro del puente grúa vevey
+2017-09-26 REALIZÓ: OSCAR ALIRIO GIRALDO - BRANDON VELASQUEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 2831527, PASO:178          Se continuó con la adecuación de cableado para el puente grúa vevey
+2017-09-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:179          Cambiar cableado de puente grúa vevey
+2017-09-29 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:180          Se continuó con el cableado del puente grúa vevey
+2017-09-30 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:181          Se continuó con el cableado del puente grúa vevey
+2017-10-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:182          Se continuó con el cableado del puente grúa vevey
+2017-10-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:183          Se realizó adecuación de cableado en el puente grúa vevey
+2017-10-19 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:188          Se inició con el montaje de la baliza en el puente grúa vevey
+2017-10-23 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:189          Se realizó el cambio de cable de potencia en el puente grúa vevey, se instaló un cable extra flexible y se dejó disponible para la modernización de control.
+2017-10-25 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:190          Se realizó descableado de tableros viejos
+2017-10-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:191          Se realizó adecuación de bases para el tablero nuevo
+2017-10-27 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:192          Se realizó el montaje del tablero nuevo para el puente grúa vevey
+2017-10-28 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 2831527, PASO:193          Se realizó adecuación de sensores en el puente grúa vevey, se cambiaron los finales de carrera por sensores de proximidad
+2017-10-29 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 2831527, PASO:194          Se realizó adecuación de sensores en el puente grúa vevey, se cambiaron los finales de carrera por sensores de proximidad
+2017-10-30 REALIZÓ: OSCAR ALIRIO GIRALDO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:195          Se realizó la conexión de los motores del puente grúa vevey al control nuevo.
+2017-10-31 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:196          Se continuó con la adecuación de los motores del puente grúa vevey
+2017-11-01 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:197          Se realizó la adecuación de cableado de sensores Inductivos del puente grúa vevey
+2017-11-01 REALIZÓ: JHONATAN ANDRES USME - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:197.1          Se realizó el montaje de un cable UTP para el encoder del puente grúa vevey
+2017-11-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:198          Se realizó el conexionado en el tablero de control nuevo del puente grúa vevey
+2017-11-02 REALIZÓ: JHONATAN ANDRES USME - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:198.1          Se realizó adecuación de las señales de los sensores del carro, en la caja de paso 2 del puente grúa vevey
+2017-11-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:199          Se continuó con el conexionado en el tablero de control nuevo del puente grúa vevey
+2017-11-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:199.1          Se continuó con la adecuación de las señales de los sensores del carro, en la caja de paso 2 del puente grúa vevey
+2017-11-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:200          Se continuó con la adecuación de cableado para el puente grúa vevey
+2017-11-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:201          Se continuó con la adecuación de cableado para el puente grúa vevey
+2017-11-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:202          Se realizó el retiro de cableado de control viejo, se saco del puente grúa vevey
+2017-11-07 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:203          Se realizó adecuación de resistencias de frenado en el puente grúa vevey
+2017-11-08 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:204          Se continuó con la adecuación de las resistencias de frenado del puente grúa vevey
+2017-11-09 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:205          Se inició con el montaje de la unidad regenerativa del puente grúa vevey
+2017-11-10 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:206          Se continuo con la el montaje y la conexión de la unidad regenerativa del puente grúa vevey
+2017-11-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:206.1          Se inició con el montaje de la peineta de acople entre los puentes grúa Badoni y vevey
+2017-11-10 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:206.2          Se continuó con el montaje de la unidad regenerativa y cableado del puente grúa vevey
+2017-11-11 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:207          Se realizó adecuación de cableado en el puente grúa vevey
+2017-11-12 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:208          Se realizó adecuación de cableado en el puente grúa vevey
+2017-11-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:209          Se realizó adecuación de cableado en el puente grúa vevey
+2017-11-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:210          Se realizó orden y limpieza general al puente grúa vevey
+2017-11-15 REALIZÓ: JUAN DAVID GARCIA - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 2831527, PASO:211          Se realizó adecuación de encoder y cableado de unidad regenerativa
+2017-11-18 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 2831527, PASO:213          Se realizó orden y aseo general de elementos del puente grúa vevey
+2017-11-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:214          Se organizó herramienta y materiales del puente grúa vevey y Badoni
+2018-01-29 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: FDIAZ OT: 2831527, PASO:252          Se realizó aseo general al puente grúa ya que se continuará con las mejoras necesarias para la modernización.
+2018-03-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 2831527, PASO:256          Se inició con el cambio de cableado del encoder del puente grúa Vevey.
+2018-03-15 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 2831527, PASO:257          Se realizó revisión y ajuste del sensor óptico del puente grúa vevey, quedando a la altura necesaria para extraer rotor.
+2018-03-16 REALIZÓ: JUAN DAVID GARCIA -LEONEL ALZATE,  PROGRAMO: RARBOLG OT: 2831527, PASO:258          Se realizó adecuación de encoder en compañía de Leonel Álzate del grupo de mantenimiento mecánico.
+2018/04/18 RUBEN ARBOLEDA
+Se cietta esta OT. se da por terminada la modernización, se adjunta informe de variadores e informe general.

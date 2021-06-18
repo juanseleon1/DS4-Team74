@@ -1,0 +1,46 @@
+- FECHA : LUNES SEPTIEMBRE 07 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - JEISON ORTEGA
+- ASOCIADO A LA OT : 2805753
+- ASUNTO : HACER MANTTO MP
+
+MANTENIMIENTO ELECTRICO GENERAL  MOTOBOMBAS CENTRAL PLAYAS
+Datos de placa:         P = 18.7 KW         V =  440 V      I = 28.4 A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor:sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 687 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 473.4 v 
+       ST = 474.3 v                                                                  
+       RT = 473.4 v
+
+       Corriente de arranque:  
+Fase R = 134.6 amp.
+       Corriente de marcha:  
+Fase R = 24.7 amp.
+Fase S =  25.0 amp. 
+Fase T =  24.8 amp.
+                                                                              
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal:nó 
+        Ruido anormal: nó
+
+3. Calibración térmico control: 0.75       Calibración térmico de potencia : 63 A
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = N.A
+
+6. Observaciones: Medida de aislamiento tomada con el megger MI 3121H , se aplicaron 500 v , sin la acometida.
+                                   * Presión que registra en manómetro de salida de agua hacia el sistema : 60 psi. 
+                                   * La bomba queda como principal
+                                   * Nota :todo el control se encuentra deshabilitado por modernización del sistema completo del aire 
+                                     acondicionado.
+                                   * Aislamiento de la acometida con respecto a tierra : 739 Moh

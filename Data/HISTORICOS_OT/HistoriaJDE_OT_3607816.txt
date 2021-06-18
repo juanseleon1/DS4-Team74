@@ -1,0 +1,5 @@
+MP ANUAL, EQUIPOS:
+
+Se desmonta el Rodete Pelton M-845 marca Hitachi con 104290.89 horas de servicio y se monta el Rodete M-847 marca Hitachi con 58788 horas de servicio revisando visualmente esta última y encontrando en todos los cangilones: erosión, desgaste en la arista media y en la escotadura y cavitación en las puntas.
+Se realizaron además pruebas con líquidos penetrantes, partículas magnéticas, ultra sonido y radiografía industrial por parte de ASTECO
+ (ver informe archivado en el servidor \\epm-dc05).

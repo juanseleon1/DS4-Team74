@@ -1,0 +1,178 @@
+
+MAYO 02/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JONATHAN DUQUE
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+WILSON CANO 
+PEDRO ROBAYO
+
+SE SUBE AL AG14 Y SE INICIA CON EL TENDIDO DEL CABLE RIGIDO DE 41 METRO CADA PUNTA DESDE LA BASE DEL GENERADOR HASTA 36 METROS 
+
+SE COLOCAN EL MAIN SWICH
+
+SE COLOCA EL CONTACTOR 24K1
+
+SE COLOCAN TODOS LOS BARRAJES Y SE DEJA LISTO PARA HACER LA CONECCION DE LOS CABLES 
+
+
+
+MAYO 26/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JONATHAN DUQUE
+DANY SANTAMARIA
+WILSON CANO 
+PEDRO ROBAYO
+
+SE COLOCAN LOS 12 CABLES SUDTERRANEOS ENTRE EL MAIN SWICH Y LA CASETA DE TRANSFOMACION 
+
+SE LES COLOCA LAS TERMINALES A LOS 12 CABLES  Y SE CONECTAN EN EL MAIN SWICH 
+
+
+
+MAYO 28/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+
+
+SE SUBE AL AEROGENERADOR PARA HAECRLE UNA LIMPIEZA Y COLOCAR SOPORTE PARA DEJAR LISTO PARA EL TENDIDO DE LOS CABLES FLEXIBLES HACIA EL CONTACTOR 17K2
+
+
+MAYO 30/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+WILSON CANO
+JONATHAN DUQUE
+DANY SANTAMARIA
+JOAN GOMEZ
+
+SE COLOCA BASE EN LA YAW PARA RECIBIR LOS CABLES FLEXIBLES QUE VAN HACIA 36 METROS
+SE COLOCAN 3 LINEAS DE 9 QUE SON DE 32 METROS CADA UNA. 
+
+
+MAYO 31/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+WILSON CANO
+JONATHAN DUQUE
+DANY SANTAMARIA
+JOAN GOMEZ
+
+SE ACABA DE COLOCAR LOS 6 CABLES FLEXIBLES RESTANTES QUE VAN DESDE EL CONTACTOR 17K2 HACIA EL CONRTACTOR 24K1
+
+
+JULIO 08/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+WILSON CANO
+DANY SANTAMARIA
+
+SE INICIA EL ARMADO DEL BARRAJE DEL GENERADOR.
+
+
+
+AGOSTO 02/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+JOAN GOMEZ Y HENRY GIRALDO
+
+Se conectan los cables de alimentación del trafo de servicios auxiliares y se hace una limpieza al tablero 
+
+
+
+AGOSTO 03/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO Y ALVARITO PUSHAINA
+
+Se sube al AG14 y se hace el desmontaje de los dos frenos principales para cambiarlos y dejar el aerogenerador en posición para ingresar al cubo 
+
+
+
+SEPTIEMBRE 10/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO Y HENRY GIRALDO
+
+Se energiza el aerogenerador por medio de un cable conectado desde el AG13, se corrige una conexión en los cables de control que van para la góndola, se borra el Safety Chain y se realizan pruebas para tratar de establecer comunicación entre el controlador inferior y el superior.
+
+
+OCTUBRE 22/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+
+
+El 14 de Octubre se instalaron dos de los trafos reparados en Cali en AG12 y AG14, el día de hoy se conectan en el Trafo los cables que llegan del tablero de potencia.
+
+
+OCTUBRE 24/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+
+
+Se sube al aerogenerador y se coloca el acople y se continua con el aseo, en la parte interior se conectan las barras flexibles de la salida de los tiristores, y se mira el nivel de aceite del transformador de potencia encontrándose normal.
+
+
+
+
+NOVIEMBRE 02/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+ALVARITO PUSHAINA
+CARLOS VALDELAMAR
+
+Se retoman labores de puesta en servicio del aerogenerador: el día de hoy se identifican y conectan las medidas de temperatura del G1, G2, Rodamiento delantero y trasero, también se coloca y conecta anemómetro (se coloca soporte pintado).
+
+
+
+
+NOVIEMBRE 03/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+HENRY GIRALDO
+
+Se retoman labores de puesta en servicio del aerogenerador: el día de hoy se organiza el cableado de las PT100 que se habían identificado el día de ayer, además se conectó la señal de Termistor, también se colocó el hibrido entre anemómetro y veleta para indicación de dirección de viento.
+
+
+
+
+NOVIEMBRE 05/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ELIECER PUSHAINA
+HENRY GIRALDO
+
+Se terminan los trabajos de puesta en servicio del aerogenerador: hoy se coloca la tapa del cubo y se drenan los frenos principales, se realizan pruebas de giro a 100, 300 y 500 rpm, respondiendo adecuadamente la apertura de los Tip's y el programa de paro, se deja lista para realizar pruebas de generación el día de mañana.
+
+
+NOVIEMBRE 06/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+HENRY GIRALDO
+CARLOS VALDELAMAR
+
+Se realizan pruebas de generación, al momento de entrar a generar la estación de transformación se dispara, se revisan los circuitos de potencia y todo se encuentra bien, se da otro arranque y se grafican las corrientes y potencia, de nuevo se presenta la falla, se observa que la potencia llega a -36Kw las corriente L1=44,9A; L2=25.94A; L3=67.04A; se decide intercambiar el relé de protección de la estación de transformación con el AG15, se realiza otra prueba, en esta oportunidad la estación no se dispara y se presenta paro por Grid Error y en otro intento sale por corrientes asimétricas, se continuaran las pruebas el día de mañana ya que los vientos se encuentran por encima de lo recomendado para realizar estas pruebas de generación.
+
+
+
+NOVIEMBRE 07/2018 OT: 3717205  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+PEDRO ROBAYO
+HENRY GIRALDO
+CARLOS VALDELAMAR
+
+Se retira el banco de tiristores del AG10 y se realiza prueba, el aerogenerador entra en servicio adecuadamente, por alta presión se cambian los filtros de las bombas de la caja multiplicadora.

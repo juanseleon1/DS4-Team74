@@ -1,0 +1,13 @@
+fecha: 06/07/2017 ot: 3416036 mtto: eléctrico
+ejecutó: OLGA VIANA - JAIRO TORRES
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTOR EXTRACTOR DE POLVO DE FRENADO perteneciente  al sistema de generador (S2). Según IDM: GCP2E0017. No se encuentran DAÑOS NI averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencia LA RESPECTIVA PLANILLA DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+el mtto se realiza por oportunidad con planta en 0 mva.
+registro de datos:
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S480R19R6.0R2,6 500S - T480S18S7.1S2,0 500T - R481T20.1T7.9T2.5 500
+
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: VERIFICAR  EL CORRECTO FUNCIONAMIENTO 
+
+ realizaR mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTOR EXTRACTOR DE POLVO DE FRENADO perteneciente  al sistema de generador (S2). Según IDM: GCP2E0017.

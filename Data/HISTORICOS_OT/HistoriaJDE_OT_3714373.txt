@@ -1,0 +1,5 @@
+2018/04/19 RUBEN ARBOLEDA
+Se crea ésta OT para registrar el informe de actividades realizadas por personal de Johnson Controls
+
+2018-06-26 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3714373, PASO:1          
+Se realizó acompañamiento y apoyo a operación en el proceso de puesta en servicios de los Chiller's, Se apoyó para llenar las tuberías de I y II etapa y para dar servicio a los chiller, Se presentó falla en el arranque del chiller 1 (No respondía), se evidenció falla en salida de una tarjeta del Chiller, el personal de Johnson Controls realizará la revisión.

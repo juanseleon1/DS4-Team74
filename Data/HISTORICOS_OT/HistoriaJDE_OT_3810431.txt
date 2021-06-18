@@ -1,0 +1,4 @@
+
+FEBRERO 12/2019 OT: 3810431  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Con información recopilada del Diag+ se observa incremento de fallas en los módulos 7,9 y 7,10 con falla 0DF1 (falla en la transmisión de datos en la entrada de los módulos) corrigen las puntas de los conectores los cables del Loop entre el módulo 7,9 y 7,10 también entre 7,10 y 7,11; se colocó conector nuevo en la señal del punto 1 del módulo 7,10 también se cambia el conector del punto 1 del módulo 7,9; se deja en servicio el aerogenerador y en observación.

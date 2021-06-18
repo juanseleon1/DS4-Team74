@@ -1,0 +1,5 @@
+2015/12/28 RUBEN ARBOLEDA
+El montaje de las motobombas es la continuación de la OT: 2808773, el grupo de manteniemiento mecanico realizó la OT: 2971695 para el cambio de motobomba,
+
+2016/01/05 JUAN DAVID GARCIA - OSCAR GIRALDO, PROGRAMO: RARBOLG
+Se realizó las conexiones electricas de la motobomba y la puesta en servicio con señales de indicación y arranque desde la estación de operación, por parte del grupo de mantenimeint mecánico se realizó la medición de vibracions y ajuste de la cantidad de aceite para lubricación del sello, se dejó en condiciones normales de funcionamiento. 

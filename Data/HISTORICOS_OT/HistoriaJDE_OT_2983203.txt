@@ -1,0 +1,10 @@
+2016/01/14 SEBASTIAN HINCAPIE - EDWIN A. (PRACTICANTE) - PROGRAMO: RARBOLG OT: 2983203
+Se realizó medida de voltaje de la bateria: 13.45VDC, medida de densidad: 
+Celda  Densidad
+1 1250
+2 1300
+3 1300
+4 1250
+5 1300
+6 1300
+Se realizó limpieza general y se dejó en condiciones normales.

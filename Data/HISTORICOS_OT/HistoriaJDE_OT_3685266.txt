@@ -1,0 +1,11 @@
+2018/02/12 _ CARLOS ENRIQUE MONCADA. OT N° 3685266.
+
+Se realiza mantenimiento de rutina a la Válvula 4 vías de la Unidad 3. Se calibró el dispositivo que activa el microsuiche de retrolavado quedando este en posición normal tanto en el sistema 1 como en el sistema 2.
+
+El subsistema queda habilitado.
+
+Realizó: Jeniffer García, Neiro Fabian Pérez.
+
+2018/02/05 _ CARLOS ENRIQUE MONCADA. OT N° 3685266.
+
+Se crea OT realizar mtto a la valvula 4 vias U3. 

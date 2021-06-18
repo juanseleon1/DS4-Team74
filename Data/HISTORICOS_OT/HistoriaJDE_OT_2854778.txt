@@ -1,0 +1,7 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+PROGRAMADOR: JOSE MONTOYA
+02/09/2015
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS

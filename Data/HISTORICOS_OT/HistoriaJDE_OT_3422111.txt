@@ -1,0 +1,2 @@
+2017-03-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3422111, PASO:1          
+Se realizó revisión y mantenimiento al banco de baterías 2 S/A de casa de maquinas, se encontró en condiciones normales de Densidad y temperatura, se realizó medida de Voltaje Antes de mantenimiento: 131,5VDC, después de mantenimiento 131,5 VDC, No se realizó adición de agua destilada, se dejó en condiciones normales.

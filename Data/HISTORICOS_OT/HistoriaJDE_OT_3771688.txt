@@ -1,0 +1,21 @@
+03/10/2018
+ALEJANDRO VERGARA
+
+Revisar instrumento flujo agua cojinete superior por problemas de señal en estación de operación presenta oscilaciones constantes de medida 
+
+FECHA: MIERCOLES 4 DE OCTUBRE 2018
+EJECUTO: WILFER H
+OT: 3771688
+
+SE REALIZA LIMPIEZA, DESMONTE DE TRANSDUCTOR PROFIBUS Y AJUSTES EN SUS CONEXIONES. 
+REALIZAR MONITOREO.  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LUNES 08 DE OCTUBRE 
+EJECUTO: WILFER H
+OT: 3771688
+SE DESMONTA EL TRANSDUCTOR ELECTRÓNICO, SE LE REALIZA LIMPIEZA. 
+NOTA: POR EL MOMENTO NO SE HAN GENERADO ALARMAS ASOCIADAS A DICHO TRANSDUCTOR.     
+NOTA: REALIZAR MONITOREO.  
+
+ 
+  

@@ -1,0 +1,14 @@
+
+FECHA: MAYO 30 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+
+Debido al problema que tienen los tiristores, de los cuales hay 2 malos, se buscan entre los elementos que se tienen descartados en el cuarto de tornillería y se encuentran 2 originales en un disipador y en la oficina había otro igual, se procedió a armar el banco con estos 4 tiristores encontrados y dos de los nuevos, se colocaron en la maquina pero el problema de Grid error continuo.
+
+
+FECHA: MAYO 31 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+Nuevamente se realizan trabajos en el banco de tiristores, en esta oportunidad se decide organizar los tiristores de otra forma, se colocaron en la parte de arriba, en cada fase, los tiristores nuevos y en la parte de abajo los viejos, esto se hizo ya que son de referencia distinta y para garantizar un balance en los semiciclos de trabajo de ellos, se entro la maquina y quedo trabajando bien. 

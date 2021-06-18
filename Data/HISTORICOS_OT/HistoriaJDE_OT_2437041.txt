@@ -1,0 +1,8 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2013-12-11
+OT PARA REALIZAR ACTIVIDADES DE MONTAJE DE INSTRUMENTOS PARA LA MEDICIÓN DE CAUDAL POR PARTE DEL AREA DE HIDROMETRÍA
+
+PROGRAMADOR:FRANCIS LONDOÑO, 2013-12-11
+
+Se realiza montaje de sensores de medición de caudal en la unidad 1. Estos sensores son gestionados por hidrómetria. Queda sistema midiendo caudal promedio en el display local. Este equipo está en pruebas y según su desempeño se instalará otros en las unidades restantes.
+
+Acompaño montaje: Carlos Guinger.

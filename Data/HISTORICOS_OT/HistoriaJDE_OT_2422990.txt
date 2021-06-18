@@ -1,0 +1,16 @@
+2013/11/22
+
+Referente a la Unidad 3 de porce 2.
+
+Favor revisar Bombas 1 y 2 del cojinete guia superior, las cuales presentan falla ocacionando el paro de la unidad.
+
+Informan: Equipo Operacion Turno 1.
+
+
+Referente a la Unidad 3 de Porce 2.                                                                                   
+
+Referente a la unidad 3 de porce 2. El dia 22 de noviembre del 2013 el programa de generacion de porce 2 se encontraba en "0" MWh, en el periodo 18 se realizo un reespacho de 210 MWh. la unidad 3 entro a las 17:20 y salio la unidad a las 17:26 por falla de bomba del cojinete superior, se restablece y se entra la unidad a las 17:50 y se sale la unidad a las 17:55 por el mismo problema de falla de bomba del cojinete superior se llama personal da mantenimiento el cual revisó los sensores de presion del cojinete superior: 
+
+Se realizó ajuste del sensor de presión SP4 del cojinete superior, ya que el contacto del sensor no cambiaba,  disparaba la unidad por falla en el subsistema.
+Informo:  Ing.  Anderson García V.
+Realizó:  Alirio Hernández, waimer Díaz, Anderson García V.

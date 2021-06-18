@@ -1,0 +1,8 @@
+MANTENIMIENTO INSTRUMENTACION GRUPO RADIADORES UNIDADES DE GENERACION 3 A 6 GUADALUPE3
+
+10/DICIEMBRE/2013
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realizó mantenimiento a los instrumentos del grupo radiadores, RTD (verificando visualmente el estado y realizando limpieza) y los instrumentos de flujo asociados y las RTD de los radiadores. Se aprovecho y se inspeccionaron los sensores de humo del sistema contra incendio del generador.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Francisco Gonzalez - Fredy Duarte

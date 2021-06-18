@@ -1,0 +1,6 @@
+OT: 3755786 
+FECHA: 14/08/2018 SOLICITADO POR: Francisco Cordoba - Camilo Cadavid - Operación G4
+DESCRIPCIÓN: Se presenta baja presion en el sistema de refrigeracion de la unidad # 2  (1.4 Bar). Se selecciona como principal para la unidad G42 la bomba de reserva # 2.
+SE DESMONTA LA BOMBA Y SE REALIZA LIMPIEZA A LA GRANADA DE SUCCION. SE PONEN EN FUNCIONAMIENTO Y SE VERIFICA LA PRESION DE TRABAJO QUEDANDO EN 2.5BAR. 
+
+INFORMO: CARLOS OSPINA

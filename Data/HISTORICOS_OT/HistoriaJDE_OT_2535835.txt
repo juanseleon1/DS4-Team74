@@ -1,0 +1,4 @@
+2014/08/01 GIOVANNY DIAZ - YEISON ORTEGA
+Se realizó limpieza general al tablero de servicios auxiliares DC de S/E, se encontro algunos aisladores en mal estado, se recomienda el cambio de éstos. 
+
+Planeó: Sergio Olivares - Ruben Arboleda

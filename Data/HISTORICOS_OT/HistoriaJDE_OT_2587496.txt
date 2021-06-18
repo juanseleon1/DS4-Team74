@@ -1,0 +1,7 @@
+FECHA: 25/08/2014 PLANEADOR: JGUINGUER PROGRAMADOR: JGUINGUER
+
+Se realiza verificacion de los presostatos de la lubricacion forzada  y se encontraron descalibrados esta situacion impedia el       arrnaque de las bombas del sistema. los nuevos valores en que fueron calibrados son 26 bar.
+
+ Nota:  se esta en la planeacion del cambio de estos instrumentos ya que cumplieron con su vida util.
+
+Realizo: Frank Cordoba - Fabian Perez - Eladio Piedrahita

@@ -1,0 +1,7 @@
+
+FECHA: DICIEMBRE 02 DE 2013
+
+RESPONSABLE: HENRY GIRALDO
+
+
+Se recupera presion de agua al sistema de refrigeracion.

@@ -1,0 +1,12 @@
+2016/07/21 CARLOS SANCHEZ.
+
+SE GENERA ESTA OT PARA REALIZAR LABORES DE MANTENIMIETNO EQUIPOS ELECTRONICOS EN TUC 1 AL 12.
+
+
+26/07/2016
+
+Se realiza verificacion del control en los tableros TUC 1 al 11 se verifica el conexionado de control y comunicaciones encontrandose falla en la IHM del TUC 11 la cual se verifica pero debe ser cambiada , ademas el TUC 7, 8 y 9 poseen problemas de conexion con la red ethernet. pendiente continuar    
+
+Ralizad por Wtobonl
+
+terminada cerrar

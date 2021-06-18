@@ -1,0 +1,9 @@
+2016/06/09
+SOLICITANTE: CARLOS HDO. SALAZAR
+REVISAR SEÑAL DE ESTADO DEL VENTILADOR EN ESCADA YA QUE SE ESTÁ REFLEJANDO ES LA POSICIÓN DEL INTERRUPTOR DE ALIMENTACIÓN DEL GABINETE Y NO EL EQUIPO.
+
+2016/07/08 RUBEN ARBOLEDA, 
+Se reporgama la OT para el mes de Septiembre de 2016, ya que el personal se encuentra ocupado en la modernización del puente grúa, y no se cuenta con personal para esta actividad. 
+
+2016-09-12 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3140601, PASO:1          
+Se realizó adecuación de señales del ventilador S8 en la estación de operación, dado que estaba llegando la señal de posición del interruptor principal, se realizó ajuste en el cableado y se realizó el montaje de un relé para repetir la señal de arranque del motor, KM1, se realizó pruebas y se dejó en condiciones normales, se realizó actualización de planos a mano alzada.

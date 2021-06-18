@@ -1,0 +1,6 @@
+MAYO 29 DE 2018     OT NÚMERO 3837805    PROGRAMÓ: JGUINGUL     EJECUTARON: ALEXANDER VILLA - ANDRES YEPES
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+
+Temperaturas de: Núcleo Estator Equipo 80°C 100°C 120°CTemperatura 1 79.3 99.12 119.11Temperatura 2 79.14 99.34 119.32Temperatura 3 79.03 99.12 119.11Valor programado Alarma:94.5°CValor programado Disparo:100.5°CComentarios:Sin novedadesTemperaturas de: Devanado EstatorEquipo 80°C 100°C 120°CFase R 78.49 98.59 118.57Fase S 78.71 98.69 118.68Fase T 78.71 98.80 118.79Valor programado Alarma:94.5°CValor programado Disparo:97°CComentarios:Sin novedades
+

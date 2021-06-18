@@ -1,0 +1,26 @@
+2017/05/25 RAFAEL SEGOVIA CARO
+SECAMBIA CABLE DE PUESTA A TIERRA 4/0 THHW DE LOS DPS, EL CUAL SE ENCONTRABA EN MAL ESTADO.
+2017/05/23 RAFAEL SEGOVIA CARO
+SE CONTINUA CON LA CORRECCION DE FUGAS DE ACEITE DEL TRANSFORMADOR EN EL RELE BUCHOLZ, PARA ELLO SE LE APLICA TERFLON LIQUIDO Y SE CORRIGE LA MISMA. TAMBIEN SE CORRIGE FUGA EN UNO DE LOS MANHOLES.
+2017/05/11 MARITZA BACCA
+Ambos empaques de los manholes ya están cambiados.
+Anoche se detectó una gran fuga en la instrumentación del transformador que no permitía hacer el llenado de aceite de forma confiable, por lo cual inicialmente se tomó la decisión de dejar el transformador con nitrógeno para no añadir más humedad.
+Se informó a instrumentación para que haga los ajustes pertinentes. Por el momento, quienes han trabajado en dichos ajustes son las personas del grupo eléctrico por la gran carga de OTs que tiene el grupo de instrumentación. Pero ya se ha dejado informado al ingeniero Edward de que saque un ratico de hoy (jueves) al sábado para que Diexer y/o Fernando hagan todos los ajustes que faltan y la corrección de fugas.
+En la tarde Carlos Palacio hizo la sugerencia de que mejor que usar Nitrógeno, se usara aire seco, y efectivamente, es más ahorrativo.
+Esta noche se dejará el nitrógeno y el día de mañana se pondrá el aire seco. Después de inyectar el aire seco se hará el lavado.
+Queda pendiente la instalacion flexible que se pedirá al almacén.
+
+2017/05/09 CARLOS FELIPE CARO
+REPORTE DE ACTIVIDADES DEL FRENTE ELÉCTRICO - TRANSFORMADOR PRINCIPAL U2
+Las actividades se suspendieron en la mañana por lluvias.
+Actividades realizadas:
+-Se bajó el nivel de aceite al transformador principal de la unidad 2.
+-Se hizo cambio a un solo empaque del transformador y se instaló.
+Actividades por realizar:
+-Cambiar el relé de Bucholdtz del transformador principal de la unidad 2.
+-Realizar el cambio de los empaques restantes del transformador principal de la unidad 2.
+-Cambiar el conductor guía a tierra del DPS del transformador principal de la unidad 2
+
+
+2017/05/08 RAFAEL SEGOVIA CARO
+ESTA OT ES PARA CORREGIR FUGA DE ACEITE DEL TRANSFORMADOR PRINCIPAL U2.

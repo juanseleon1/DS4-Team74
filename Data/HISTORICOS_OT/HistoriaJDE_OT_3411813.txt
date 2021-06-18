@@ -1,0 +1,7 @@
+02/03/2017
+Unidad condensadora 4
+Presenta problemas de arranque, se procede arrancar el compresor, entra y se sale al instante. Se verifica el control, se encuentra en buen estado y funcionamiento correcto. se deduce que por protecciones internas no arranca el equipo.
+***********************************************************************************************************************************
+ESTA OT ES ATENDIDA POR LA EMPRESA CONTRATISTA CSL S.A.S
+POR ALTA TEMPERATURA EN EL CONDENSADOR SE DISPARA EL CHILLER, SE APAGAN LAS UMAS Y SE ARRANCA CHILLER SOSTENIENDOSE EN SU FUNCIONAMIENTO, SE ARRANCAN UMAS UNA A UNA PARA AUMENTAR LA CARGA Y SE NORMALIZA EL SISTEMA.
+INFORMA: OSCAR PARRA

@@ -1,0 +1,2 @@
+2017-05-19 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3477120, PASO:1         
+Se realizó mantenimiento preventivo a las baterías de la clara, se realizó medida de densidad, voltaje y temperatura, se encontró en valores nominales: voltaje: 2,29 por celda, voltaje total: 138,7VDC, Densidad: 1225, temperatura: 22°C, se realizó limpieza y aseo general al recinto de las baterías, se dejó en condiciones normales.

@@ -1,0 +1,10 @@
+
+Se realizan las actividades:
+
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+
+Los paramentaros de calibración quedan dentro de los rangos normales de operación.
+
+Luis Eduardo Arcila

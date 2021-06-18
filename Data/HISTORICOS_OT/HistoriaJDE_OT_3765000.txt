@@ -1,0 +1,15 @@
+Se crea ot para el registro de tiempos y actividades en la adecuacion mecanica de la tuberia de entrada de aire al tanque acumulador de la unidad 1 dela central de Troneras
+
+
+
+Programador: Camilo Montagut - 20/09/2018
+
+Se cierra ot sin ejecutar debido a que al momento de realizar la actividad en la tubería del tanque acumulador se verificó que no existe válvulas de corte para independizar el sistema de la unidad 1 con la 2, es decir que se necesitan que las dos unidades estén paradas para realizar el trabajo.
+
+Se registra esta información y queda en planeación conseguir válvulas cheque y de bola para independizar los sistemas de las dos unidades.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+

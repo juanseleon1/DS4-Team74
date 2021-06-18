@@ -1,0 +1,6 @@
+
+FECHA: NOVIEMBRE 22 DE 2013
+
+EJECUTO: PEDRO-DIOMER-ELIECER 
+
+se cambian los frenos de yaw del AG9

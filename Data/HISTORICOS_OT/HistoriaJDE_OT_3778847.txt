@@ -1,0 +1,15 @@
+MP ANUAL, EQUIPOS.
+2738 INTERRUPTOR DE CAMPO U1
+2739 INTERRUPTOR DE CAMPO U2
+2740 INTERRUPTOR DE CAMPO U3
+2741 INTERRUPTOR DE CAMPO U4
+2742 INTERRUPTOR DE CAMPO U5
+2743 INTERRUPTOR DE CAMPO U6
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+NOVIEMBRE 22 DE 2018
+Se realizó mantenimiento preventivo anual eléctrico al interruptor de campo, verificacion de todo el mecanismo, piezas móviles, lubricación de los resortes, revisión del cableado, se hace revisión de los contactos de posición del interruptor y movimientos de apertura y cierre de modo manual evidenciando su correcto funcionamiento.
+William Lopera

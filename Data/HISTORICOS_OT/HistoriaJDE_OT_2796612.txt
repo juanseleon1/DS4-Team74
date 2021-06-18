@@ -1,0 +1,11 @@
+17 DE JUNIO DE 2015 IVAN DARIO ZAPATA GOMEZ
+EN LA UNIDAD 4 DE GUADALUPE 3 EN EL COJINETE SUPERIOR, LA RTD N.6 TEMPERATURA METAL NO MUESTRA SEÑAL DE TEMPERATURA.  SE DESCONECTO EL DISPARO Y QUEDA PENDIENTE PARA REVISION Y REPARACION.
+
+09/AGOSTO/2015
+Se verifico la señal de salida de la RTD desde el transmisor hasta el control de unidad, ademas se inyecta el transmisor para descartar una falla de comunicacion de este. Se encontro mal contacto en la bornera de paso de la caja de conexion de las RTD´s. 
+Se reapreta, se le colocan punteras para mejor conexion.
+
+Se verifa la señal en la pantalla de control y despues de varios de seguimiento a la señal de temperatura, se decide volver a habilitar la alarma y el disparo, para proteger el cojinete.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

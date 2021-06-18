@@ -1,0 +1,42 @@
+FECHA: MARTES 28/03/2017
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: CAMILO LOREZ, FABIO HERRERA
+ASOCIADO A LA OT: 3422159
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA DE REGISTROS DE LAS MEDIDAS DE LAS ZAPATAS
+
+
+NOTA: LA MEDIDA MINIMA PERMITIDA ES DE 10 mm.
+
+
+No de Zapata Medidas en milímetros
+
+Zapata No 1 _________19.5____________
+
+Zapata No 2 _________19.5____________
+
+Zapata No 3 _________19.4____________
+
+Zapata No 4 _________19.6____________
+
+Zapata No 5 _________19.6____________
+
+Zapata No 6 _________19.6____________
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________ 
+__________________________________________________________________________________ __________________________________________________________________________________ 
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO:  GCPLM0002

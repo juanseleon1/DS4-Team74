@@ -1,0 +1,14 @@
+
+Diciembre 03/2018
+
+Planta Diesel SAux Subestacion Playas.
+
+Se da arranque localmente para verificacion semanal y toma de variables; inicia en 488 voltios y empieza paulatinamente a
+incrementarse hasta llegar a 528 voltios L-L, acasionando su parada por falla.
+
+
+NDPT 29 DICIEMBRE DE 2018: EL PROBLEMA DE LA PLANA DIESEL TRATADO EN ESTA OT FUE RESULTO SATISFACTORIAMENTE EN OTRA OT.
+
+
+
+   

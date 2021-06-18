@@ -1,0 +1,11 @@
+
+2018/01/03 _ CARLOS ENRIQUE MONCADA. OT N° 3666448.
+Se programa esta OT para atención falla de la planta telefonica de Zona A del campamento la Primavera Porce 3.
+
+2018/01/03 _ CARLOS ENRIQUE MONCADA. OT N° 3666448.
+Durante el fin de la semana 52 se quemaron 12 puertos en la tarjeta DPN (LIP1) tarjeta digital de la planta de teléfonos de A1 en primavera.
+Se verifica la tarjeta,  se cambia por una de respaldo, esta es programada desde Medellín por el personal de soporte. Se realizan pruebas de comunicación quedando el servicio reestablecido. 
+
+Realizó: Neiro Fabian Pérez.
+
+

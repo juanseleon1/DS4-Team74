@@ -1,0 +1,16 @@
+MP ANUAL EQUIPOS:
+
+- 2287 BARRAJE U1
+- 2288 BARRAJE U2
+- 2289 BARRAJE U3
+- 2290 BARRAJE U4
+- 2291 BARRAJE U5
+- 2292 BARRAJE U6
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+JULIO 17 DE 2018.
+Se realizó mantenimiento preventivo anual segun instructivo GCG3E0001. Se revisan el estado de los aisladores de apoyo, juntas de dilatacion, estado de ajuste de las conexiones. se revisan los CT's verificando estado de porcelanas, cableado y conexiones, se limpian los pararrayos y sus alrededores. Se revisan los PT´s, los fusibles, conexiones, se revisan los puntos de conexion en la salida del generador, se hace manteimiento al ducto de barras que sale al banco de transformadores de potencia, si ninguna novedad. 
+

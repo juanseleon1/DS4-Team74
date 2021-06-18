@@ -1,0 +1,11 @@
+2014/06/13. CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA REALIZAR EL CAMBIO DEL TRANSDUCTOR DE FRECUENCIA AL TABLERO DE CONTROL  TRV.
+
+
+15/06/2014
+
+Se realiza cambio y ajuste del transductor de frecuencia en la unidad, ademas se ajustan los lazos de PICKUP 
+
+TERMINADA CERRAR
+
+Realizado por Wtobonl

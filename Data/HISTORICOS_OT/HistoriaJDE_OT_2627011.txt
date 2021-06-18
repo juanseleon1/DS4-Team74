@@ -1,0 +1,10 @@
+NOVIEMBRE 11/2014 PROGRAMO: DANIEL PALACIOS EJECUTO: OLGA VIANA
+Se realiza mantenimiento segun instructivo, se hacen medidas de resistencia de aislamiento a los motores, se deja el sistemas en condiciones de operación.
+. En el instructivo en el punto 9.2 (se debe cambiar por) en el parrafo de:
+ ABRIR INTERRUPTORES DEL TABLERO BARRA B.
+ Q11
+ Q02  POR Q12
+ Q04 POR Q14
+ Q05 POR Q15
+
+XE: VERIFICAR, INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCT DE LA UNIDAD

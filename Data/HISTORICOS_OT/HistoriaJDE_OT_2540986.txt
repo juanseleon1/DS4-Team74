@@ -1,0 +1,15 @@
+XE: MONITOREAR LA CONDICION DE TEMPERATURA, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+2014/08/19 EDWAR LONDOÑO - JHONATAN USME - OT: 2540986
+Se aplico procedimeinto de mantenimiento trimestral debido a que este equipo estaba parado, se realizó medida de los siguientes valores: 
+Voltaje: 
+RS:464  
+ST: 464
+TR: 463
+Corriente de cuncionamieto: 
+R:48.6
+S: 49.6
+T: 47.1
+Aislamiento Motor: 103MOhm
+Se realizó liempieza general al sitio, se encontro bastante suciedad en el piso. 
+Se encontro en condiciones normales de funcionamiento. 

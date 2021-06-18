@@ -1,0 +1,10 @@
+MEDIDA DE VIBRACIONES (RUTAS DE INSPECCIÓN)  UNIDAD ___  CENTRAL PLAYAS  SEGÚN PROCEDIMIENTO N° GANTM0002.
+
+Nota: El informe se en cuentra en el servidor U3; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+  03 Area Playas
+    02 Central Playas OW7100
+       03 Unidad Generadora U3 ow 7046
+          01 Vibraciones mecanicas
+                RUTA PLY U3 

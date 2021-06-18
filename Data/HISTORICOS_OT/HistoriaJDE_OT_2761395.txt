@@ -1,0 +1,7 @@
+
+FECHA: ABRIL 29 DE 2015 OT: 2761395  
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se corrige conexión de temperatura sumidero caja multiplicadora, queda pendiente mejorar la conexión.

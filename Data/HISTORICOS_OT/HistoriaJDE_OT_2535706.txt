@@ -1,0 +1,13 @@
+22 MAYO 2014
+Se elabora OT. Referente al Paro Rapido 86R que se presento el 22 de mayo de 2014 a las 15:50 por falla en los pickups de medicion de velocidad de la Unidad 1 y que causo desviacion del programa de generacion de 107 MW en el periodo 17, que estaba programado para 600 MW  regulando.
+Solicitud realizada por: Turno 1 de operacion.
+
+
+23/05/2014
+
+La causa de la salida forzada en la unidad 1 fue por falla en el sistema de aceite del cojinete combinado debido a discrepancia en la válvula de salida aceite intercambiadores, además se realiza ajuste de las medidas en los PICKUP y se realizan pruebas de los lazos de control, queda la unidad operativa.
+
+Terminada cerrar
+
+Realizado por Wtobonl
+

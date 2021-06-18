@@ -1,0 +1,11 @@
+25/06/2018
+OT creada para la instalacion de cable de comunicaciones utp entre os relay k02, k03, k08 y el swich de tele medida  en la S/E tablon 
+
+Néstor Fabián Ochoa.
+
+27/06/2018
+se instalan 3 cables de datos, entre los contadores k02, k03 y k08 y el swiche de comunicaciones de telemedida a solicitud de Luis Fernando Correa de USTO. 
+los cables se dejan presentados, para que posteriormente el personal de USTO haga las pruebas de conectividad. 
+trabajo realizado por 
+Julio parra 
+Eladio piedrahita

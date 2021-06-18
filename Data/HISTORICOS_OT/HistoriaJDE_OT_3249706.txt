@@ -1,0 +1,39 @@
+SOLICITANTE:Edgar Barrera.
+FECHA:Septiembre 16 de 2016
+
+El día viernes 16 de septiembre a las 22:16 se presenta disparo en la unidad N°3 por fallas mecánicas: “ Regulador de velocidad fuera de orden”  y “ Falla regulador de velocidad” . En la revisión se detecta que no hay la señal normal de supervisión “ Watch Dog” .
+
+PLANEADOR:JOHNSON GOMEZ
+EJECUTANTES:JOHNSON- JUAN CARLOS GRANADOS-MAURICI QUIJANO
+
+
+INFORME:
+Se apaga, se vuelve a prender y se le da reset al regulador electrónico pero sigue con las mismas fallas.
+Se realiza cambio de la fuente de 24VDC y se realiza cambio de la tarjeta ppal. 2050, de las tres (3) tarjetas 2050 que hay de repuesto solo una funciona dejando cargar el programa después de innumerables intentos, también se cambia la tarjeta VAI60 porque al prender el regulador se presentaban señales erróneas en la indicación de varias salidas análogas. Se cambia tarjeta VAO20 para descartar problemas de señales, pero sin ningún resultado positivo, por lo que se deja la tarjeta que venía funcionando.
+Después de estos cambios se logra tener el regulador electrónico en condiciones normales y se arranca la unidad sincronizándose al sistema, pero al cerrar interruptor en modo local-manual la maquina sola se carga a 40 MW y no permite bajar de esta carga y en control remoto se carga sola a 70MW. 
+En estas condiciones la unidad no permite hacer AGC y se deja en 40MW, pendiente de encontrar el problema de este comportamiento.
+Se realizaron ajustes de la velocidad desde el transductor 3846 (potenciómetro S) hasta posicionar la velocidad que estaba en el 97% (+o - 498rpm - leída en el Scada) al valor de frecuencia de 60 HZ leído directamente de los voltajes de la máquina. 
+La tarjeta 2050 presenta fallas de pérdida del watch dog que ocasiona salidas de la unidad, por lo que se requiere resetear la tarjeta y apagar el regulador, esto ocasiona que se borre el programa algunas veces y al cargarlo de nuevo se presentan muchas fallas del proceso.
+Durante estos disparos se requirió calibrar varias veces la aguja N°3, hasta que se le cambio la servo válvula moog y también se calibró la servo válvula del deflector que ocasionaba disparo por Fallas medidas primarias.
+Realizando el ajuste de la velocidad se logra que la consigna de potencia se igual a la potencia real entregada por la máquina, ya que se estaba presentado discrepancias de 10 MW en la consigna por encima de la potencia real.
+Continua presentando disparos por Falla regulador de velocidad, lo que indica que se detiene el programa.
+La máquina sigue en observación su comportamiento operativo.SOLICITANTE:Edgar Barrera.
+FECHA:Septiembre 16 de 2016
+
+El día viernes 16 de septiembre a las 22:16 se presenta disparo en la unidad N°3 por fallas mecánicas: “ Regulador de velocidad fuera de orden”  y “ Falla regulador de velocidad” . En la revisión se detecta que no hay la señal normal de supervisión “ Watch Dog” .
+
+PLANEADOR:JOHNSON GOMEZ
+EJECUTANTES:JOHNSON- JUAN CARLOS GRANADOS-MAURICI QUIJANO
+
+
+INFORME:
+Se apaga, se vuelve a prender y se le da reset al regulador electrónico pero sigue con las mismas fallas.
+Se realiza cambio de la fuente de 24VDC y se realiza cambio de la tarjeta ppal. 2050, de las tres (3) tarjetas 2050 que hay de repuesto solo una funciona dejando cargar el programa después de innumerables intentos, también se cambia la tarjeta VAI60 porque al prender el regulador se presentaban señales erróneas en la indicación de varias salidas análogas. Se cambia tarjeta VAO20 para descartar problemas de señales, pero sin ningún resultado positivo, por lo que se deja la tarjeta que venía funcionando.
+Después de estos cambios se logra tener el regulador electrónico en condiciones normales y se arranca la unidad sincronizándose al sistema, pero al cerrar interruptor en modo local-manual la maquina sola se carga a 40 MW y no permite bajar de esta carga y en control remoto se carga sola a 70MW. 
+En estas condiciones la unidad no permite hacer AGC y se deja en 40MW, pendiente de encontrar el problema de este comportamiento.
+Se realizaron ajustes de la velocidad desde el transductor 3846 (potenciómetro S) hasta posicionar la velocidad que estaba en el 97% (+o - 498rpm - leída en el Scada) al valor de frecuencia de 60 HZ leído directamente de los voltajes de la máquina. 
+La tarjeta 2050 presenta fallas de pérdida del watch dog que ocasiona salidas de la unidad, por lo que se requiere resetear la tarjeta y apagar el regulador, esto ocasiona que se borre el programa algunas veces y al cargarlo de nuevo se presentan muchas fallas del proceso.
+Durante estos disparos se requirió calibrar varias veces la aguja N°3, hasta que se le cambio la servo válvula moog y también se calibró la servo válvula del deflector que ocasionaba disparo por Fallas medidas primarias.
+Realizando el ajuste de la velocidad se logra que la consigna de potencia se igual a la potencia real entregada por la máquina, ya que se estaba presentado discrepancias de 10 MW en la consigna por encima de la potencia real.
+Continua presentando disparos por Falla regulador de velocidad, lo que indica que se detiene el programa.
+La máquina sigue en observación su comportamiento operativo.

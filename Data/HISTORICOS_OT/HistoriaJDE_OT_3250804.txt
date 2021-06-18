@@ -1,0 +1,16 @@
+SEPTIEMBRE 14/2016
+
+Verificar Ajustes Transferencias Servicios Auxiliares en la unidad.
+
+
+
+
+18/09/2016
+
+Se realizan pruebas de verificación en los relés SIPROTEC de los servicios auxiliares de unidad , estas pruebas y verificaciones consistían en la verificación de los ajustes en los interruptores Q1 y Q2, los cuales se encontraron en los valores de mínima tensión de 400 V y 300 V operando esta transferencia en el valor de mínima tensión de 400 V verificada esta medida mediante simulación con la maleta trifásica en diferentes pruebas o rampas.
+Además de la verificación se ajustan los tiempos de transferencia bombas en el TCCC y TCCS de las unidades para evitar la falla y paro rapido por transferencia de servicios auxiliares, este tiempo se modifca de 3 segundos a 10 segundas evitando paro de la unidad por transferencia de servicios auxiliares dando tiempo a la transferencia del TSAU para normalizar . ademas se ajustan los termicos de las valvulas en el TAS las cales estaban mas ajustadas y se fallaban en cada transferencia.
+
+ESTO SE DEBE REALIZAR EN TODOS LOS PROCESOS TCCC Y TCCS DE TODAS LAS UNIDADES. se debe solicitar pruebas para verificar los tiempos en el proceso TCV de las cuatro unidades.
+
+Realizado por Wtobonl
+terminada cerrar 

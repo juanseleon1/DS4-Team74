@@ -1,0 +1,41 @@
+
+ESTANDO LA UNIDAD SINCRONIZADA Y CARGADA CON 135 MW Y 19 MVAR SE DA PARO PARCIAL 2, SEGUIDO DE UN PARO DE EMERGENCIA Y PARO RÁPIDO. (APARENTEMENTE ESTO FUE DEBIDO A UNA REGULACIÓN EN EL SISTEMA)
+SE PRESENTARON LAS SIGUIENTES ALARMAS: 
+- FALLA AVR1 Y AVR2
+- OPERACIÓN SOBRECORRIENTE INSTANTÁNEA RECTIFICADOR
+
+FECHA: MAYO 08 - 2017.
+SOLICITANTE: TURNO 1.
+
+08/05/2017
+Se realiza verificación de eventos y ajustes en la unidad y equipos como regulador de tensión y regulador de velocidad, en el momento de la falla ocurre un evento de tensión en la red reportado por el centro control Medellín, la unidad 2 opera inicialmente por sobre corriente instantánea pero a la vez se da paro rápido y de emergencia por este evento, no se pudo determinar o analizar todas las causas de este evento ya que en el sistema SCADA se encontraron todas las variables de la unidad inhibidas o bloqueadas razón por la cual el sistema no grabo los eventos, se da instrucciones a los operadores de turno Oswaldo y Alex sobre el manejo de este sistema y evitar bloquear los datos.
+El comportamiento de la unidad fue normal y solo queda realizar pruebas en los limitadores de esta unidad cuando sea posible solicitar pruebas en este para verificar ajustes. Información que se comparte con el ingeniero Oscar Adrián Duque
+
+Realizado por Wtobonl
+
+09/05/2017
+Debido al disparo ocurrido el día anterior por sobrecorriente de excitación instantánea se tomaron las siguientes medidas para mejorar la protección del banco de tiristores:
+1. Se baja el limitador de corriente de excitación de 185% a 160% (1158 amp).
+2. Se prueba este limitador a valores reducidos observándose su correcta activación.
+3. Se habilita el disparo por sobre temperatura del banco de tiristores #1 a 90 grados centígrados usando la misma serie del disparo por falla fusibles del banco.
+4. Se hacen pruebas de disparo por sobre temperatura trabajando correctamente.
+5. Se verifica el ajuste de disparo por sobrecorriente de excitación instantánea, opera a 1800 amp DC.
+6. OT #3475939
+7. Queda pendiente hacer pruebas de escalones en la frontera del limitador para verificar si la acción del limitador es instantánea y en caso q no lo sea se debe verificar la coordinación entre la sobrecarga permitida y el disparo de corriente instantánea
+Realizado por Wtobonl
+
+
+10/05/2017
+
+Sale de servicio la unidad # 2 con 135 MW y -2 MVAR por paro parcial # 2, seguido de paro de emergencia 1 y 2 y paro rápido sale alarma, falta de flujo de aire rectificador # 1 , se revisa y se encuentra guarda motor del ventilador # 1 disparado. Se le informa al ingeniero encargado Federico Álvarez, Se solicitan Redespacho periodos 7,8,9 y 10. 
+
+Informó Turno 3 de operación.
+
+
+10/05/2017
+
+Se realiza verificacion de los eventos y disparos de esta unidad, se encuentra que la causa del paro fue por perdida de flujo devido a una falla electrica del ventilador el cual acciono el disparo termico y a la vez dispara los fusibles de alimentacion, esto al parecer por falla en aislamientos electrico del motor, el personal electrico realizar el cambio del ventilador y se realizan pruebas con el sistema , quedando la unidad operativa de nuevo.  
+
+Realizado por Wtobonl.
+
+terminada Cerrar 

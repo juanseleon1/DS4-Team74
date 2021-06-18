@@ -1,0 +1,6 @@
+
+Se realizo el pedido de materiales, para corregir el elumbrado en casa de máquinas. la mano de obra fue reportada en la OT: 2450875, la cual fu la OT de generacion automática, ésta no se canceló ya que el sistema no lo permite, por asignación de materiales. 
+
+Realizó pedido: 
+
+Ruben Arboleda

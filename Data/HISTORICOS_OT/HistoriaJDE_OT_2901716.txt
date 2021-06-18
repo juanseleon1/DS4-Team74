@@ -1,0 +1,8 @@
+
+FECHA: OCTUBRE 12 DE 2015  OT: 2901716
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Después de normalizar los circuitos de 110KV quedo fallada la maquina por disparo del Mcb 102F3, se procede a normalizarlo y dejar el AG en servicio.

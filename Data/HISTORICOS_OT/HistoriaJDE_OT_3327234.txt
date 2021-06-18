@@ -1,0 +1,24 @@
+
+
+ 07/06/2017. SERGIO OLIVARES D. EJECUTORES: JUAN DAVID FLOREZ C. -EDWAR LONDOÑO O
+          JHONATAN USME. 
+
+
+ Equipo Marca: EQUIPRAC (CARRIER)
+
+ Localizado en la terraza para enfriar  la sala de operacion.
+
+
+ CONDENSADORA: (COMPRESOR)
+                   
+ CORRIENTE:    35.3 --   34.2   --  37.6 AMP
+ VOLTAJE:         205  --   202     --  201  VOLT.
+
+            VENTILADOR N°1 
+ CORRIENTE.    2.2  AMP.
+ VOLTAJE:        203  VOL.  
+
+            VENTILADOR N°2  
+ CORRIENTE.    2.1  AMP.
+ VOLTAJE:        204  VOL.
+ --------------------------------------------   

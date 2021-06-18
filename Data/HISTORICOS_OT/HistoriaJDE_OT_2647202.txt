@@ -1,0 +1,11 @@
+27/11/2014 MARLON TORO
+FALLA VARIADOR VALVULA CONO MIRAFLORES, SE PRESENTA ALARMA FRECUENTE SE DESCONOSE EL MOTIVO 
+
+11/FEBRERO/2015
+Referente a la válvula de cono de Miraflores
+Inicialmente la válvula no estaba respondiendo remotamente a consignas de apertura o cierre desde el CCCG. Se revisó el variador de velocidad y todo el tablero de control, se encontró un relé de supervisión 480 Vac fallado, el cual impedía el movimiento de la válvula y ocasionaba "Falla variador". 
+Se calibra este relé y se evidencia falla interna del mismo. 
+Se deja por fuera el relé y la supervisión de 480 Vac se habilita por el variador. Se realizan pruebas de apertura y cierre remoto y la válvula respondió correctamente. Se entrega el control y la operación al CCCG.    
+                                                                                                                                                            
+Programador: Oscar Arango
+Ejecuto: Fernando Lopera - Francisco Gonzalez 

@@ -1,0 +1,10 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 29/11/2018
+Tipo de mantenimiento:  Proactivo
+Acciones de mantenimiento: 
+
+                Inspección general del estado de la estación
+                Desmonte de la taraba
+      Desmonte de cable de taraba
+      Toma de medidas para montar cable y poleas para realizar aforos con ADCP.

@@ -1,0 +1,11 @@
+PLANEADOR: BIANEY BRAVO VALENCIA MAYO 01/2015
+DESMONTAR  INSTRUMENTACION EXCITACION
+
+09/MAYO/2015
+MANTENIMIENTO MAYOR - OVERHALL ELECTRONICO
+
+Se realizo la desconexion y el desmontaje del sensor de Velocidad KPH y los sensores Pickup, ubicados en la cupula superior de la excitación.
+
+
+Ejecuto: Grupo de electronica
+

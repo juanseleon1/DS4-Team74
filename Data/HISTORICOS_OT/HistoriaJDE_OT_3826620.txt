@@ -1,0 +1,4 @@
+
+ABRIL 07/2019  OT: 3826620  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presentan paros por falla comunicación, con la herramienta Diag+ se aprecia que la falla que más se incrementa es en el módulo 7,5 en la entrada, se realiza corrección en los cables del Loop de todos los módulos del 7,1 al 7,5; se deja en servicio el aerogenerador.

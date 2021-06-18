@@ -1,0 +1,12 @@
+Para terminar con el montaje del compresor de aire interruptores nuevo (II etapa), se requiere de la compra de un relé de protección de sobrecarga, marca Siemens, ya que el contactor instalado es de la misma marca. 
+Adjunto cotización enviada por la empresa Frecuencia y Velocidad. 
+Las características son: 
+Rango: 12.5 a 50 Amperios, para protección de motores clase 20, montaje sobre contactor, circuito principal con conexión por tornillo, circuito auxiliar con conexión por tornillo, rearme Manual/automático, 3RB2046-2UB0
+
+MARZO 31 - 2014 
+ESTA A LA ESPERA DE COMPRA DE MATERIALES. - RUBEN ARBOLEDA
+
+Junio 26 de 2014PUESTA EN SERVICIO
+Se realizó la adeuación de borneras de potencia y el montaje de relé termico de potencia, se realizó arranque, prueba y calibracion de relé termico, se dejó en operación normal. 
+
+Realizó: Oscar Giraldo - Wilder Herrera

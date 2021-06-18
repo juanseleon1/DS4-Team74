@@ -1,0 +1,6 @@
+
+18/09/2018
+
+Reporta: Jhon Jairo correa
+
+Revisar comunicacion del SCADA por falsa señal de  posición de interruptor de maquina 1 en local 

@@ -1,0 +1,8 @@
+OCTUBRE 06 2014. RAMIRO A TORRES.
+
+EN EL PROCESO DE PARO LA MAQUINA NO DESCONECTA SERVICIOS AUXILIARES. ABORTA LA SECUENCIA EN EL PASO 10, (VELOCIDAD < 50%, VALVULA ESFERICA CERRADA).
+
+
+Se realizaron arranques y paros en modo remoto llegando al paso 4 siempre y no lo completaba, se optó por aumentar el tiempo a 1 minuto en dicha secuencia, se procedió a arrancarla remotamente hasta energizada y realizo todos los pasos, hasta energizada, se revisó este tiempo en las otras máquinas y se les coloco el mismo tiempo en este paso.
+
+Esta modificación se contó con la colaboración de operación y el Ing. Juan Carlos Granados. 

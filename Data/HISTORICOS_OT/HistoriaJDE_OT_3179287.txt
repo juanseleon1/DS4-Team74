@@ -1,0 +1,3 @@
+Reporte: Raul Mauricio Alvarez Alvarez
+Fecha: 18 de Julio de 2016
+Síntoma: Tablero de instrumentación TDC2 sin enlace remoto desde el edificio

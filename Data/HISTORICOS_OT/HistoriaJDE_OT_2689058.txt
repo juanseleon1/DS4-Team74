@@ -1,0 +1,8 @@
+2016/01/25 CARLOS ENRIQUE MONCADA
+ESTA OT SE CANCELA YA QUE SE REEVALUARA EL MP AUTOMATICO.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero de controladores PLC
+
+Realizar mantenimiento a tablero de controladores de las casetas 1, 2 y caseta principal de los vigilantes, verificar señales de las compuerta de descarga de fondo.realizar backup de programa

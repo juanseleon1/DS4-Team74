@@ -1,0 +1,14 @@
+
+
+SOLICITANTE: EQUIPO OPERACION                      FECHA: MARZO 09/2015
+
+
+SE DA PARO RAPIDO LA UNIDAD G41 POR ALTA TEMPERATURA EN EL COJINETE GUIA SUPERIOR.
+-SE ENCONTRO VALVULA PRINCIPAL DEL SISTEMA DE REFRIGERACION EN POSICION  NO NORMAL.
+-EL INDICADOR DE TEMPERATURA Y EL CONTROL, PRESENTAN UN RANGO EN SU PUNTO DE ALARMA Y DISPARO (55°C Y 60°C) DIFERENTE A LAS OTRAS DOS UNIDADES (60°C Y 65°C) RESPECTIVAMENTE.
+
+MARZO 10 DE 2015
+
+Referente al termómetro de temperatura cojinete guía superior G41, se realiza la verificación con equipo patrón y se encontró un desfase de 6 °C, se pudo observar que el instrumento se está quedando pegado y en el momento no hay repuesto  por lo tanto no es confiable y se desconecta el contacto que da disparo a la unidad y se habilita por RTD metal cojinete 1 y metal cojinete 3 en la estación de ingeniería.
+
+William Lopera.

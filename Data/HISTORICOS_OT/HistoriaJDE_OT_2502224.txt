@@ -1,0 +1,4 @@
+XM: VERIFICAR, LAVAR Y AJUSTAR EL COJINETE INFERIOR DE LA UNIDAD
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2014-05-15
+Se realiza según procedimiento. Se verifica su nivel el cual se encontró en el instrumento digital en +4.77 mm y en el instrumento análogo en -1. Se realiza limpieza general y no se encuentra ninguna novedad.

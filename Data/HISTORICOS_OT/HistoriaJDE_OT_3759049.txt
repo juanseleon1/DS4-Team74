@@ -1,0 +1,47 @@
+FECHA: LUNES 08/10/2018
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: RICAURTE LOPEZ, RODOLFO GARCES.
+ASOCIADO A LA OT: 3759049
+ASUNTO: EJECUTAR MANTENIMIENTO PRGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DE TEMPERATURA, HOROMETRO Y PRESION DE FLUJO MOTOBOMBAS DE AGUA DE CONDENSACION 
+
+
+Motobombas de agua de condensacion # __2___
+
+horometro: ________________________
+
+vibraciones cojinete ventilador 1VP(mm/s): _____0.1______
+
+vibraciones cojinete ventilador 2HP(mm/s): _____0.9______
+
+vibraciones cojinete de acople 3VP(mm/s): ______1.1_____
+
+vibraciones cojinete de acople 4HP(mm/s): ______0.9_____
+
+vibraciones bomba acople 5VP (mm/s): ____0.9______
+
+vibraciones bomba acople 6HP (mm/s): ____1.2______
+
+vibraciones bomba descarga 7VP (mm/s): _____0.7_______
+
+vibraciones bomba descarga 8HP(mm/s): ______0.7______
+
+temperatura motora: (°C): ___59_____
+
+temperatura bomba: (°C): ____46_____
+
+Presión de trabajo: (Kg/cm): _____3.4_______
+
+RPM:  __________
+
+Observaciones: al equipo se le toman las medidas de vibracinoes, encontrandolas en los niveles de operacion, no presenta                   ruidos anormales y se le realiza limpieza general, a demas se verifica apriete de la tornilleria.
+                  El equipo se entrega a personal de operacion en condiciones perativas.
+

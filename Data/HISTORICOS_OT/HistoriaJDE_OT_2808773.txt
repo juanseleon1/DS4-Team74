@@ -1,0 +1,12 @@
+2015/07/06 RUBEN ARBOLEDA
+En la OT: 2653323 se realizó el montaje de 4 motobombas en casa de maquinas guatapé, en esta OT se planea el montaje de dos motobombas (1 por etapa), cada una de 100HP. 
+
+2015/08/02 - 03 JUAN DAVID GARCIA - OSCAR GIRALDO - GIOVANNY DIAZ 
+Arranque en Remoto - SCADA
+Motobomba CW1, CW2, CW3, CW6, CW7, CW8
+Se realizó la adecuación del arranque en Remoto (SCADA) para motobombas nuevas, esto implica que NO arrancará en automatico
+con la unidad correspondiente (señal de Conectar Servicios Auxiliares), en caso de requerirse el arranque se debe hacer manualmente desde el tablero provisional cerca al CCM1, en espera de programación de despliegue en el SCADA por parte de Cesar Tulio Jimenez.
+Lo anterior con el fin de tener un arranque independiente a la unidad para cada motobomba.
+
+2015/11/05 RUBEN ARBOLEDA - GIOVANNY DIAZ
+Se realizá cierre de OT y queda pendiente la instalación de la bomba y el motor por parte del grupo de mantenimeinto mecanico

@@ -1,0 +1,7 @@
+FECHA: 03/01/2014  SOLICITANTE: MARTHA PARRA, WALTER BENA
+
+Sale la unidad G43 de sincronismo quedando energizada. No mostro ningún paro, únicas alarmas: Baja presión circulación aire interruptor y baja presión interruptor generador. 
+
+REFERENTE A LA UNIDAD 3  GUADALUPE 4: SE SALE DE SINCRONISMO, QUEDANDO LA UNIDAD ENERGIZADA DEBIDO A QUE EN EL TABLERO DE CONTROL DE LA EXCITACION SE QUEMO EL RELÉ K41. ESTE RELÉ SE ENCARGA DE CONFIRMAR QUE EL INTERRUPOTOR DE CAMPO ESTE CERRADO Y LLEVA VARIAS SEÑALES  A LAS PROTECCIONES. AL TRATAR DE SINCRONIZAR LA UNIDAD EL COCIDO QUE LLEVA EL PULSO DEL SINCRONIZADOR PARA CERRAR EL INTERRUPTOR DE MAQUINA ESTABA ABIERTO. SE CAMBIA ESTE RELE Y QUEDA LA UNIDAD SINCRONIZADA.
+ 
+INFORMARON: JUAN CAICEDO, ALIRIO HERNANDEZ, JOSE MONTOYA, MARLON CARMONA, DIEGO QUICENO Y ESTEBAN VASQUEZ.                                                                                                                                                                                                                                                                                                                                                       

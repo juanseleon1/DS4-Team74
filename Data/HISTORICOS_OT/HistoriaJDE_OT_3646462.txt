@@ -1,0 +1,7 @@
+
+2017/11/15 _ CARLOS ENRIQUE MONCADA. OT N° 3646462.
+Referente a los servicios Auxiliares 480 V:
+En el momento de quedarse sin tensión la barra 1, solo hizo transferencia el interruptor TDP1, el resto no; se revisan los PLC encontrandolos apagados. Se procede a cerrar los interruptores FS11 de las celdas N03, N04, N05, N06 y N08; se normalizan las celdas N04 y N05. 
+Los PLC de las celdas N03, N06 y N08 no prenden. Se revisan las fuentes de alimentación de estos encontradolas falladas por corto circuito.
+Se procede con el cambio de las fuentes de los PLC de las celdas N03, N06 y N08, se borran fallas y se ponen en RUN quedando los PLC habilitados y en servicio.
+Informó: Carlos Moncada

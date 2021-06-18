@@ -1,0 +1,5 @@
+MANTENIMIENTO GENERAL REGULADOR ELECTRONICO CENTRAL PORCE 2.
+
+Se realizo mantenimiento y limpeza
+La maquina en el momento de normalizar para girarla presenta falla en el regulador, se conecta el portátil y se encontramos activación de perno fusible, se puentea  y se normaliza la unidad.
+

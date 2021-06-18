@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: YOANIS RODRIGUEZ.
+Se realiza inspección, mantenimiento y limpieza al sistema de escobillas y anillos rozantes de la unidad, para esto se retiran las tapas laterales y superior del recinto, las escobillas y porta escobillas, se hace medición de resistencia de aislamiento en los anillos antes y después de lavado (Antes: 15.1/15.1 M. Después: 4/4.48 G), se toman medidas de la longitud de las escobillas y se llenan registros. No se cambian escobilla.
+Trabajo realizado por: Yoanis Rodriguez, Ronal Arango, Olga Viana. 
+
+XE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

@@ -1,0 +1,7 @@
+SEMESTRAL ELECTROMECANICO/H4000 TIPO2
+COMPROBACION FUNCIONAL AEROGENERADOR
+
+
+ACTIVIDAD:
+
+Se verifica el correcto funcionamiento del sistema.

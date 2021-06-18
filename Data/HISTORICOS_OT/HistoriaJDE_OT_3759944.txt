@@ -1,0 +1,10 @@
+
+Fecha: Agosto 29 /2018
+Solictante: Turno 2 Operacion
+
+
+Falla Recepcion de datos en Relé disparos transferidos 2, Generando disparo 86P2 durante proceso de excitacion de la unidad.
+Se encuentra Falla Modulo optico del Relé disparos Transferidos 2.
+
+Se cambia modulo óptico de comunicacion del rele de disparos transferidos 2 de Subestación.
+Ejecutó: Jhon Fredy Muñoz 

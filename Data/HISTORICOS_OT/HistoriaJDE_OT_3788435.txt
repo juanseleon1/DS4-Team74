@@ -1,0 +1,12 @@
+25 noviembre 2018 GUILLERMO LEON ECHEVERRY 09:00 AM
+
+ EN EL MOMENTO DE LA UNIDAD CONECTAR LA EXCITACIÓN EN EL  PASO 6 ; NO FUE POSIBLE CERRAR INTERRUPTOR DE EXCITACIÓN DE FORMA REMOTA , NI LOCAL;  POR FALLA EN CONTROL CIO, SE PIDEN REDESPACHOS DE LOS PERIODOS 12 Y 13 AUTORIZADOS POR EL INGENIERO SANTIAGO RAMÍREZ. INFORMA TURNO 2.
+
+
+25/11/2018
+
+Se realiza verificacion del sistema se encuentra falla en el modulo CIO2, el cual se encuentra fallado y bloqueado. se realiza cambio de este modulo y de nuevo configuracion del mismo, el sistema queda normalizado y disponible. se realizan pruebas de lazos de comunicacion y verificacion para luego realizar arranque controlado de la unidad y toma de excitacion. el sistema queda normalizado y operativo, la unidad queda sincronizada . 
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR 

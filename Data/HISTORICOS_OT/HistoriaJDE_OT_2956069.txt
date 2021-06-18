@@ -1,0 +1,8 @@
+
+4/12/2015
+Se abre protección principal del regulador electrónico de velocidad por corto en el sistema de refrigeración, ocasionando salida de la unidad.
+Se deja abierto protección del intercambiador y se normaliza el principal para darle arranque a la unidad.
+Learcilas
+6/12/2015
+Se desconectan ventiladores y se normaliza minibreaker de la refrigeración  y se solicita cotización de dos ventiladores para su respectivo cambio. 
+El regulador queda trabajando unicamente con la ventilación del intercambiador. 

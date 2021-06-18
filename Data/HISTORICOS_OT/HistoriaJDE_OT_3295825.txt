@@ -1,0 +1,19 @@
+FECHA:29/10/2016
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRRI
+DESCRIPCION: SALIDA FORZADA DE LA UNIDAD POR FALLA DE COMINICACION EN LA RIO 11.
+
+Referente a la Unidad G31:
+Se procedió a forzar las señales desde la estación de ingeniería en módulo 4 RIO 11, la señal que estaba ocasionando el disparo es PARO DE EMERGENCIA MANUAL.
+Informó: Ing. Oscar Arango
+              Tec. Juan Caicedo
+
+Se debe reapretar todos los bornes de la comunicacion Profibus DP en la RIO-011, pues por oscilacion en la red salieron todas las alarmas en ocasiono disparo de la unidad.
+
+Planeador: Oscar Arango
+
+06/11/2016
+
+SE REAPRETARON BORNES EN LA RIO11 SE VERIFICAN CONEXIONES DEL CABLEADO Y TODO QUEDA EN CONDICIONES NORMALES
+
+REALIZO: GRUPO DE ELECTRONICA
+

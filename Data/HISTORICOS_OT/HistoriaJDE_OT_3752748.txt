@@ -1,0 +1,14 @@
+Los servicios auxiliares de la unidad 3 de Guadalupe 3 no estan realizando la conmutacion.
+
+
+AGOSTO 08 DE 2018
+
+PLANEADOR:CESAR GIRALDO
+
+
+PROGRAMADOR:WILLIAM LOPERA
+
+AGOSTO 27 DE 2018
+Referente a la trasferencia servicios auxiliares 440 Vac de unidad 3, se atendió la OT: 3752748 se revisa el funcionamiento de la transferencia, encontrando que el interruptor Q01 en algunas ocasiones queda en posición intermedia, lo que hace que bloque la transferencia, se cambia la unidad motorizada del interruptor Q01, se hace pruebas de transferencia operando en condiciones normales, que en observación para cuando la unidad sincronice y verificar si queda trabajando normal.
+Realizó: Grupo eléctrico.
+Informó: William Lopera.

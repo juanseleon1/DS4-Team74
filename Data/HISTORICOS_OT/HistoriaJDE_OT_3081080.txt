@@ -1,0 +1,21 @@
+ABRIL 7 DE 2016
+
+DESCRIPCIÓN: Se evidencia que para dar ajustes finales de configuración al variador de velocidad nuevo, del motor del gancho princiapal, es necesario realizar prueba de carga con 20%, 50% 70% y 100% del peso nominal, ya que al intentar configurar con el peso del rotor (230 ton), no fue posible.
+
+ATENCIÓN:
+
+Se decide armar plataforma diseñada por INTEGRAL, durante el montaje de la planta porce 2, para realizar prueba de carga. Para tal fin se requiere:
+- Transladar piezas de la plataforma de la presa Porce 2 hasta CM P2.
+- Armar plataforma
+- Reconstruir parte de la plataforma, pues se evidenció que esta fue usada para realizar pruebas en otros puentes gruas de la empresa.
+- Transladar pesos disponibles en la región para realizar prueba de carga.
+- Alquilar pesos, para completar peso de 250 ton.
+
+COMENTARIOS DE LA EJECUCIÓN:
+
+La estructura fue reconstruida en su totalidad.
+Se alquilaron 150 toneladas en laminas de acero de diferentes espesores (Proveedor: Ferrocortes S.A.), el resto del peso fue dispuesto con las losas desmontables del piso principal de Porce 2 y stopslogs de la descarga de CM Poce 2. 
+Las pruebas de carga en los porcentajes de carga requeridos para configurar el variador de velocidad nuevo fueron exitosas. El variador nuevo quedó configurado de tal manera que no se observó deslizamiento de carga mayor a 1 mm con las 250 toneladas. 
+El informe detallado de la este trabajo quedó almacenado en el servidor de la unidad operaciones porce, en la siguiente dirección: \\epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO 
+
+Informó: Santiago Ramírez

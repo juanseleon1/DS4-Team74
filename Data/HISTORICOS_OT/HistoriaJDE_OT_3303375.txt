@@ -1,0 +1,10 @@
+
+NOVIEMBRE 03/2016
+
+U2_PL.
+El controlador de Redundancia no responde al cambio de seleccion de SICAM (AK).
+Se encuentra trabajando con  la SICAM 2 y al pasar selector de redundancia (llave) a la SICAM 1 empieza a cargar pero al devolver la llave a posicion Automatico inmediatamente se devuelve a la SICAM 2.  
+
+EJECUTANTE O PROGRAMADOR: GABRIEL URIBE
+FECHA:DICIEMBRE 12 DE 2016
+SE REALIZA VISITA POR PARTE DEL PERSONAL DE SIEMENS Y EN COMPAÑIA DE JOHNSON GOMEZ REALIZAN VERIFICACION Y REPARACION DEL SISTEMA DE REDUNDANCIA DE DICHO CONTROLADOR,QUEDANDO LA REDUNDANCIA DE AMBOS CONTROLADORES SIN PROBLEMAS. 

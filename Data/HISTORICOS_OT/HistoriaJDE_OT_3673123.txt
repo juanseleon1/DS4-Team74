@@ -1,0 +1,8 @@
+SOLICITANTE: OPERACIÓN TURNO 3 AR  FECHA: 17/01/2018
+
+Pérdida de señales de temperatura de cojinete de turbina y aire radiadores, al revisar se encuentra en gabinete TRU1GE1LD01 - Módulo PL810 aparentemente quemado, presenta señal luminosa de alimentación apagada y olor a quemado. Requiere correctivo.
+
+SE HACE UNA REVISION Y SE ENCUENTRA EL MODULO  PL810 QUEMADO, SE REEMPLAZA DICHO MODULO Y SE NORMALIZAN TODAS LAS SEÑALES DE TEMPERATURA.
+
+
+REALIZO: GRUPO DE ELECTRONICA

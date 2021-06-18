@@ -1,0 +1,17 @@
+
+Fecha: 06/11/2018
+
+Descripción: Se presenta alteración en la medida de potencia activa de G4 U2 (10 MW para una consigna de 35 MW), medida menor indicada en el regulador de velocidad y en las estaciones de operación con respecto a la medida en el PECA300, que muestra la medida correcta.
+
+Informó: Turno 2 (Camilo Cadavid - Javier Córdoba)
+
+Fecha: 06/11/2018
+
+Se reapreta borne B144 del Regulador electronico, para dar solucion temporal al problema, queda pendiente; realizar por oportunidad,cambio de borneras de este racK.
+
+
+Fecha: 19/11/2018
+
+Se cambia bornera de 12 puestos, incluye los bornes del B135 al B146, se conectan nuevamente la señal de retroalimentacion de posion valvula proporcional(B138) y la señal del transductor de potencia (B144 Y B145), se energiza la unidad y se verifica que no exista discrepancia en la medida de potencia Activa.
+
+Programo: Luis Adrian Cardona.

@@ -1,0 +1,5 @@
+Solicitante-Planeador: Jeison Julian Suarez Rios
+Aprobador: Daniel Eduardo Toscano Patiño
+Fecha de solicitud: 01 de Octubre de 2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: Realizar lectura de instrumentacion, realizar recorridos e inspeccion por los diferentes componentes de la presa. 

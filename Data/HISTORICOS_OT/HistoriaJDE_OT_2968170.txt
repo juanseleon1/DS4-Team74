@@ -1,0 +1,7 @@
+FECHA: 30/12/2016
+FALLA MODULO HUB REGULADOR DE TENSION
+
+Desde la puesta en servicio del regulador de tension se dejo conectado como modulo de comunicacion un HUB, el cual por ser un elemento pasivo de comunicacion puede permitir colisiones y bloqueo en la comunicacion entre la pantalla y los controladores del regulador de tension. Se procede a cambiar este por un suiche de comunicacion y con esto optimizar la comunicacion y eliminar el bloqueo de la pantalla con el regulador de tension. 
+
+Programador: Oscar Arango
+Ejecutante: Francisco Gonzalez

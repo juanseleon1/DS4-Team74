@@ -1,0 +1,8 @@
+SOLICITANTE: Anexo - FECHA: Viernes, Dic. 12 del 2014.
+EN +TCBR1-TABLERO DE CONTROL BOMBAS ACEITE REGULADOR TURBINA U1- SE ENCUENTRA SELECCIONADA LA MOTOBOMBA N°1 COMO PRIORITARIA Y NO ESTA RESPONDIENDO A AUTOMATISMO DE FUNCIONAMIENTO. AL SISTEMA LO ESTA RESPALDANDO LA MOTOBOMBA N°2. FAVOR ATENDER.
+
+02/ENERO/2015
+Se revisa en la estacion de ingenieria los permisivos para el arranque de la bomba en automatico y se ajusta el parametro de nivel patron de aceite del tanque sumidero para tener un rango mas amplio y permitir el arranque de la bomba. Ademas se realiza mantenimiento preventivo y calibracion al presostato mecanico/manual, ubicado en el tablero de la estacion hidraulica, el cual entrega la señal definitiva para el arranque de la bomba en Automatico.
+
+Ejecuto: Francisco Gonzalez
+Programador: Oscar Arango

@@ -1,0 +1,31 @@
+SEPTIEMBRE 23 DE 2015
+EL LIDER LUIS VIRGUILIO ARIAS ENCUENTRA IMPULSOR DE DICHA BOMBA. SE PROCEDE A SOLICITAR AL A08.
+PENDIENTE INFORME DE LO ENCONTRADO EN DICHA BOMBA LUEGO DEL MANTENIMIENTO DEL 15 AL 19 DE SEPTIEMBRE ( MECANICO)
+pOR LA PARTE ELECTRICA SE PROCEDE A MARCAR Y DESCONECTAR LAS BOMBA PARA REVISIÓN.
+INFORMA: GORTIZG
+
+
+SOLICITANTE:
+
+REVISAR BOMBA VP-1 POZO DE INFILTRACIONES CENTRAL LA HERRADURA.
+
+ESTA MOSTRANDO FALLA Y ALARMA SEGUIDO POR LO QUE SE DEDUCE QUE SE ESTA PRESENTANDO UNA PEGA EN EL ARRANQUE DEL 
+
+MOTOR.
+
+SE REVISARON LAS CORRIENTES DE ARRANQUE Y SE COMPROBO QUE ESTA LLEGANDO A MAS DE 9 AMPERIOS SABIENDO QUE EN SU 
+
+NOMINAL ES DE 6 AMPERIOS.
+
+ES INDISPENSABLE SU REVISIÓN YA QUE ES EL RESPALDO DE LAS UNIDADES Y SE RECUERDA QUE ESTA BOMBA ESTA RECIEN 
+
+REPARADA.
+
+SOLICITÓ : FERNANDO PEREIRA.
+
+JULIO 30/2015 PROGRAMO Y EJECUTO: JGUINGUL
+
+Falla bomba VP-1 pozo de infiltraciones OT 2818086 se Desconecta disparo alto nivel pozo de infiltración para evitar salida de H1 por manipulación de los flotadores en tablero TPG1 bornera X18  borne 12,  se gira   la bomba VP-1, se toman los valores de corriente y tensión.R-S: 482V , R-T: 481V, S-T: 482V       R: 10.5 A, S: 11 A, T: 11.2 A Se observa vibración anormal de los soportes que guían la bomba y aumento de la corriente del motor lo cual ocasiona disparo del térmico, en condiciones normales de trabajo los valores de corriente son alrededor de 6 Amperios, se desmota la bomba y se hace girar en vacío por unos minutos se toman  valores de corriente. R: 5.2 A -  S: 5.3 A  - T: 5:4 A, se puede deducir que el motor está en buenas condiciones, se sugiere realizar una inspección al sistema mecánico para descartar posibles fallas, adicionalmente se realizan pruebas a la bomba VP-2 simulando arranque y paro desde los flotadores a lo cual es sistema responde de forma normal, Se normaliza nuevamente el disparo.
+
+
+

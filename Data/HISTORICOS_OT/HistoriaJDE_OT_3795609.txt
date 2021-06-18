@@ -1,0 +1,8 @@
+2018/12/12 FARLEY GIOVANNY DIAZ
+Se crea OT para realizar el cambio de los relés de protección.
+
+2018-12-12 REALIZÓ: OSCAR ALIRIO GIRALDO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3795609, PASO:1          
+Se inició con el cambio de los relées de protección de las bombas de la estación la Clara.
+
+2018-12-13 REALIZÓ: OSCAR ALIRIO GIRALDO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3795609, PASO:2          
+Se continua con la instalación de los relés de protección en el bombeo la clara.

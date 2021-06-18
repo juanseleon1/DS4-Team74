@@ -1,0 +1,9 @@
+INSPECCION INSTRUMENTACION COJINETE SUPERIOR UNIDAD GENERACION GUADALUPE 4.
+
+JUNIO 11 DE 2014.
+Se realizó inspección, mantenimiento y verificación puntos de alarma y disparo de temperatura de aceite y metal del cojinete hacia las protecciones de la maquina según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\Wperezg5\MTTO UNIDADES GPEPORCE\2014\TRIMESTRALES G4-2014
+y se realizó limpieza a las RTD del cojinete.
+
+
+ COJINETE SUP. °C COJINETE EMPUJE °CPATRONES °C METAL 1 METAL 3 METAL 1 METAL 34040,1 40,2 40,2 40,26060,1 60,2 60,2 60,28080,1 80,2 80,2 80,2ALARMA55,0 55,0 70 70DISPARO60 60 75 75

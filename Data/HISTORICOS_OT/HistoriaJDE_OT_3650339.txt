@@ -1,0 +1,14 @@
+FECHA: 24 NOVIEMBRE 2017
+
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCIÓN: LA PROTECCION TERMICA DE LOS VENTILADORES DEL TRAFO SE ESTA DISPARANDO CONSTANTEMENTE.
+
+POR FAVOR ATENDER ESTA SOLICITUD.
+
+GRACIAS.
+
+
+DICIEMBRE 7 DE 2017
+Se revisa la proteccion termica de los ventiladores, se verifica corrientes de arranque y de trabajo de los motores encontrandose en la nominal con respecto a dactos de placa, que es de 2.3 amperios, se ajusta el termico a 2.8 y queda en monitoreo si se vuelve a disparar la proteccion termica.
+William Lopera

@@ -1,0 +1,8 @@
+XM: CHEQUEAR Y VERIFICAR FUNCIONAMIENTO DISTRIBUIDOR TURBINA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 25/11/2014 - CONSIGNACIÓN @C098557
+
+Se realiza según procedimiento. Se realiza verificación de la holgura de los alabes con respecto a los blindajes superiores e inferiores, en la cual debe pasar mínimo una galga de 0.20 mm, obteniendo la medida en K1 (“ a”  en el formato) la mayor de 0.28 mm y la menor de 0.10 mm. Igualmente se obtienen en L1 (“ b”  en el formato) la mayor de 0.32 mm y la menor de 0.10 mm. Estas medidas se anexan al informe y se escanean. El calibre de la galga es definido en el protocolo y avalado por el supervisor de IMPSA. Igualmente se encuentra en los alabes móviles N° 3, 4, 7, 12 y 19, rayones en el linner y material acumulado el cual se pule con pulidora y disco de zirconio. 
+Se calza con shim de 0.10 mm el patín N° 2 del anillo del distribuidor.
+Se encuentra una pequeña fuga de agua por la válvula manual del by pass aguas abajo.
+Esta información con sus medidas, queda registrada en el informe el cual se escanea. Igualmente al inicio  y al terminar de hacer la reparación, se realiza limpieza general a todo el recinto de la turbina ya que presenta unos pocos regueros de aceite sobre la cubierta superior y sobre los laves móviles. Se escanean y registran las medidas finales de la holgura entre los patines y el anillo del distribuidor las cuales son escaneadas y guardadas.

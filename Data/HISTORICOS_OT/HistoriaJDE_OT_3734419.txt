@@ -1,0 +1,14 @@
+08/06/2018 - 8:46 am.
+
+Unidad Generadora G33 presenta ocasionalmente transferencia fallida al momento de entrar o salir la Unidad de Sincronismo, por lo que se ha requerido resetear alarmas o dejar trabajando la Unidad con los Servicios Auxiliares de la Casamaquinas de G3.
+
+Se solicita diagnosticar y mantener Interruptores del TPU3 G3 Servicios Auxiliares A.C.
+Activo Nro. 263588.
+
+Informa: Turnos de Operación - Turno 2 y 3 - 
+Realiza : Mauricio Caicedo - Wilson Arango.
+
+Se revisa los contactos auxiliares de los interruptores Q1 y Q2, se realizan mantenimiento garantizando su correcto funcionamiento, se realizan pruebas de transferencia simulando el sincronismo de la unidad las cuales responden correctamente sin ninguna anomalia.
+
+Realizo: William Lopera-Carlos Andres Forero
+Informo: Carlos Andres Forero 

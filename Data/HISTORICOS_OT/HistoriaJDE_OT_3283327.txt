@@ -1,0 +1,8 @@
+PREVENTIVO MECANICO FRENOS GENERADOR GUADALUPE
+
+
+Programador: Camilo Montagut - 2016/11/01
+
+Se limpia la grasa del recinto de los frenos y se registra que las zapatas tienen na medida de 12 mm
+
+Ejecuta: equipo manteninimiento mecánico GIII

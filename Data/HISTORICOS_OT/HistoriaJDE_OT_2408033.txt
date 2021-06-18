@@ -1,0 +1,9 @@
+XL: INSPECCIONAR Y LIMPIAR CONTROLADOR UNIDAD TCU DE LA UNIDAD
+
+
+05/11/2013
+
+
+Se realizó mantenimiento según instructivo. Además de la verificación de la aplicación y el mantenimiento en los relés SIPROTEC de protecciones como en la TM e IHM de este sistema.
+
+Realizado por Walter Tobon

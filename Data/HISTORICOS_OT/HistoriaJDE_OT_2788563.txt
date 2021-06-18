@@ -1,0 +1,13 @@
+SOLICITANTE:MARTA PARRA- Fecha: Junio 05/06/2015
+Se presento alarma "Perdida medida frecuencia por TP´S". favor revisar.
+
+Fecha: Junio 07/06/2015
+REFERENTE  A LA UNIDAD 1 REGULADOR DE TENSION: 
+Inicialmente se presenta falla en la targeta de medición de frecuencia por TPs, lo cual ocasionaba que la unidad no realizara la regulacion primaria de frecuencia puesto que se encontraba trabajando por pickup's. Se solicita redespacho de la unidad los periodos 10, 11 y 12 para trabajar en dicho problema. Se cambio la targeta TRF-2. 
+Se realizarón puebas y se entrega la unidad sincronizada a las 11:52 am para explotación comercial.
+Se evidencio en la CPU1 del regualador RTX que la targeta de salidas analogicas estaba mala. Se trajo una CPU del laboratorio y se reemplazo la targeta fallada. 
+Se realizarón pruebas de transferencia de CPU principal  a respaldo y todo funcionó normal. El regulador de tension queda trabajando con las dos CPU's disponibles. 
+
+N° de OT: 2788563
+Informó: Andres Arenas, Marlon Carmona
+Programador: Oscar Arango

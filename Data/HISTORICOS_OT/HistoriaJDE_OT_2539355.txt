@@ -1,0 +1,18 @@
+DIEXER CARO 2014/05/29
+SE CREA ORDEN DE TRABAJO PARA LA COMPRA DE ELECTROVALVULAS DEL CONTROLADOR NEUMATICO DE LOS FILTROS DE GRAVEDAD 
+
+ELECTROVALVULA  BURKERT 00454057
+VOLTAJE 110-120 VAC/DC
+PMAX: 145 PSIG
+2.2 WATT 
+NBR D 1/4
+04706 5/32
+
+<https://www.nriparts.com/valves/solenoid-valves/burkert/00454057-0470-g-532-nbr-pneumatic-22w-145psi-120v-acdc-18-in-solenoid-valve/>
+
+DIEXER CARO 2014/06/15 SE INICIA LA COMPRA POR REABASTECIMIENTO DEL ELEMENTO 70630
+Buen día don willian por favor nos colaboras con el reabastecimiento del codigo en mencion 
+70630         VALVULA SOLENOIDE     ELECTRIC,2VIAS,NPT1/8PG,110VAC            
+Cantidad solicitada 10 Unidades para mantenimiento 
+Muchas gracias por su gestion 
+Cordialmente          

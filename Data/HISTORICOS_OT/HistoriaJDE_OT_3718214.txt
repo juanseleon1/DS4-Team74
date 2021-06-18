@@ -1,0 +1,46 @@
+31/05/2018
+Mantenimiento Correctivo Especial, incluye:
+- Cambio de Sellos en Servomotor.
+- Cambio del Sensor de nivel en el tanque acumulador.
+
+Jefe de Trabajo
+YOFRED RODRÍGUEZ
+
+Programadores
+JUAN CAICEDO
+ESTEBAN HURTADO
+SERGIO RAMÍREZ
+UAIMER DÍAZ
+JOSÉ MONTOYA
+LUIS ADRIAN CARDONA
+
+1. ANALISIS DE LOS ANTECEDENTE DE SERVOMOTOR DE DISTRIBUIDOR DE LA UNIDAD 3: 
+
+·Servomotor de distribuidor G43: 
+En 2017 el equipo de mantenimiento evidencia  que el servomotor presenta fuga de aceite no constante  por el lado de acople donde están ubicados el sello y el rascador del mismo esta  situación se evidencia básicamente cuando la unidad está parada por periodos largos, se realiza un control temporal a un posible derrame de aceite  instalando un recipiente en la parte inferior del recinto del servomotor, analizando la construcción del servo según plano se concluye que no hay una falla parcial del sello y el rascador sino que la fuga obedece a perdida de medidas de los mismos por desgaste natural  y se  decide entonces programar en paralelo al cambio de sellos de mantenimiento de la válvula de admisión de la unidad 2, el cambio de los empaques de los sellos del servo de la unidad 3 lo que implicaba un vaciado de tubería.  
+
+
+2. TRABAJOS REALIZADOS UNIDAD 3: 
+Se realiza el procedimiento para el cambio de los sellos, luego de los bloqueos de unidad 
+
+
+6.1 se desmonta el servomotor de su sitio.
+
+
+
+
+6.2 Se traslada servomotor a sala de montajes
+
+
+
+
+
+6.3 Se realiza desarme de servomotor
+
+
+
+
+6.4 De igual manera se realiza inspección visual y control dimensional a la parte interna del servomotor donde se evidencia desgaste y rayas en la zona de desplazamiento del embolo, esta falla se programará para reparación en un próximo desarme pues la reparación debe de ser a través del proceso de rectificado y metalizado lo que implica un servicio de reparación contratado y puede tardar 10 días.
+
+
+6.5 Se realiza el procedimiento de cambio de sellos y armado del servomotor para posteriormente realizar pruebas hidrostáticas.

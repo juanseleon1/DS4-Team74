@@ -1,0 +1,10 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2018-09-18
+
+OT PARA CORREGIR FUGAS EN BUJES SUPERIORES E INFERIORES DEL DISTRIBUIDOR DE LA UNIDAD 1 DE PORCE 2.
+SUPERIORES: 02, 03, 10, 16, 18, 19, 21, 22 Y 23
+INFERIORES: 07, 08, 15 Y 23
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2018-09-20
+Se desmontan los bujes superiores Nos. 18, 19, 21, 22 y 23. Al buje No. 18 se le maquina ranura 7mm que no tenía, al buje No. 19 se le reconstruye la ranura de 5mm que se encontró cavitada y corroída, a los demás bujes 20, 21 y 22 se le realiza lavado y se cambian sellos de labio y o’ rings de 5mm y 7mm.
+Se desmontan los bujes inferiores Nos. 7,8, 14, 15 y 23. El buje No. 14 se montan nuevo y con empaque de labio y o’ rings, los otros bujes se desmontan, se lavan y se les cambian empaques de labio y o’ rings
+No se pudieron intervenir los bujes superiores Nos. 02, 03, 10 y 16 y en los inferiores se intervino uno adicional.

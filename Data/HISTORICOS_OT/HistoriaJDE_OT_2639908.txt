@@ -1,0 +1,13 @@
+
+FECHA: NOVIEMBRE 14 DE 2014
+
+EJECUTANTE: GERMÁN ECHAVARRÍA Y HENRY GIRALDO
+
+Se presenta falla en el LOOP y en el RFC nos muestra falla periférico 7,9 se procedió a cambiar este modulo pero la falla continua, se cambian también los módulos 7,8 y 7,10 pero la falla continua, por presentarse amenaza de tormenta se suspenden estos trabajos y se deja para mañana continuar con la búsqueda de la falla. 
+
+
+FECHA: NOVIEMBRE 15 DE 2014
+
+EJECUTANTE: GERMÁN ECHAVARRÍA Y HENRY GIRALDO
+
+Se retoman los trabajos para solucionar la falla del LOOP, se presenta en el momento de abrir frenos y girar un poco en ese instante se falla por 7,9 y se normaliza inmediatamente el RFC, el día de hoy se decide apagar completamente el control y abrir la estación de transformación, después de reponer la potencia y el control se realiza una nueva prueba y el aerogenerador no vuelve a mostrar la falla, se deja en funcionamiento.

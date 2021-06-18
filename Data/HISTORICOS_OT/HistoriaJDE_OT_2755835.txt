@@ -1,0 +1,9 @@
+FECHA: 2015-05-03 PROGRMADOR: WILMER DAVID MENDEZ CARO
+
+EJECUANTATES: 1997 / 591910 / 516799 / 10980
+
+DESCRICION DEL EVENTO:
+
+Se intervino el sistema de refrigeración del tanque sumidero del regulador hidráulico, el aceite de este se encontraba a muy alta temperatura (54ºC) y muy baja viscosidad, por este motivo las bombas no eran capaz de levantar presión en el tanque gobernador, aportaba más temperatura al sistema, esta unidad tiene deshabilitado el sistema de refrigeración, pues este, había presentado falla en el intercambiador, paso de agua al tanque sumidero, por lo anterior fue necesario desmontar el intercambiador de tanque sumidero de la unidad 3, para habilitar y poner en servicio el sistema de refrigeración del tanque sumidero de la unidad 1,  para bajar la temperatura del aceite de esta unidad, a su rango de operación normal.  
+
+Esta pendiente cotizar y comprar intercambiadores nuevos.

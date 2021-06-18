@@ -1,0 +1,10 @@
+FECHA: 12/11/2014 PROGRAMDOR: JGUINGUER 
+
+ESTA OT FUE NECESARIA GENERARLA POR QUE PARA EL MP AUTOMATICO DE LA UNIDAD NO SALIO.
+NOTA: PENDIENTE HABLAR CON JORGE ARRUBLA  PARA SEA CREADA PARA EL PROXIMO MP
+
+Se realiza mantenimiento al regulador  de velocidad y a los transductores y sensores asociados al este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero .Se realizó la verificación de los Pickups en la rueda dentada
+
+PROGAMO: JAIRO GUINGUER
+REALIZO: FRANK CORDOBA - DAVID ATEHORTUA

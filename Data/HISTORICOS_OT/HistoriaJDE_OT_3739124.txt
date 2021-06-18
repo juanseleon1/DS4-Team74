@@ -1,0 +1,20 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud:22/06/2018
+Tipo de mantenimiento1:  Correctivo)
+Acciones de mantenimiento: (Ver lista)
+
+
+
+Realizar las siguientes acciones de mantenimiento correctivo:
+ Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+ Reparación sistema de sensores y protectores
+ Reparación sistema de datalogger
+ Reparación sistema de transmisión
+ Reparación sistema de potencia 
+ Reparación infraestructura civil o mecánica de la estación
+INSTALAR TRANSDUCTOR DE FIBRA EN SUBESTACION Y CAMARA DE VALVULAS,PARA HABILITAR MEDIDA DE CAUDAL , Y PARA HABILITAR MEDIDA DE PVM EN TERRAZA SUBESTACION INSTALAR CABLE ETHERNET DESDE LA TERRAZA HASTA EL CUARTO DE COMUNICACIONES.
+12 octubre
+se habla con cesar Arroyabe, El quedo de enviarnos la ultima informacion que se tiene de fibras opticas disponibles desde camara de valvulas a subestacion.               
+
+

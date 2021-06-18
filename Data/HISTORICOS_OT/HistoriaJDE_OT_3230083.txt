@@ -1,0 +1,15 @@
+09/01/2016
+
+SOLICITANTE: RAMIRO A TORRES.
+
+PRESENTE LA ALARMA "SISTEMA REFRIGERACION COJINETE GENERADOR FALLA" EN LA ESTACION DE OPERACION. EN EL CONTROL DE LAS BOMBAS QUEDO LA BOMBA 2 TRABAJANDO EN MANUAL. NO PASA A AUTOMATICO. 
+
+2016-09-02 REALIZÓ: RUBEN ARBOLEDA - EDWAR LONDOÑO,  PROGRAMO: RARBOLG OT: 3230083, PASO:1         
+Se realizó revisión del sistema de refrigeración del cojinete superior en la unidad 7, presentaba falla en su funcionamiento ya que al pasar la pantalla del control de las bombas a automático no arrancaba, se realizó revisión general, no se encontró alarmas pendientes, se procedió a poner las dos bombas en arranque (Start), se pasó el control a posición automático y luego se pasó a la pantalla de condiciones, se le dio reset y arrancó normalmente, se dejó la bomba 2 seleccionada como principal y en servicio.09/01/2016
+
+SOLICITANTE: RAMIRO A TORRES.
+
+PRESENTE LA ALARMA "SISTEMA REFRIGERACION COJINETE GENERADOR FALLA" EN LA ESTACION DE OPERACION. EN EL CONTROL DE LAS BOMBAS QUEDO LA BOMBA 2 TRABAJANDO EN MANUAL. NO PASA A AUTOMATICO. 
+
+2016-09-02 REALIZÓ: RUBEN ARBOLEDA - EDWAR LONDOÑO,  PROGRAMO: RARBOLG OT: 3230083, PASO:1         
+Se realizó revisión del sistema de refrigeración del cojinete superior en la unidad 7, presentaba falla en su funcionamiento ya que al pasar la pantalla del control de las bombas a automático no arrancaba, se realizó revisión general, no se encontró alarmas pendientes, se procedió a poner las dos bombas en arranque (Start), se pasó el control a posición automático y luego se pasó a la pantalla de condiciones, se le dio reset y arrancó normalmente, se dejó la bomba 2 seleccionada como principal y en servicio.

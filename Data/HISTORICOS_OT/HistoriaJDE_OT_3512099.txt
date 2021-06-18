@@ -1,0 +1,24 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+
+21/06/2017. SERGIO OLIVARES D.--  EJECUTANTES: JUAN DAVID GARCIA G., OSCAR GIRALDO G., 
+            EDWAR LONDOÑO O. JHONATAN USME Q.
+
+ Se realizo limpieza y medidas asi:
+
+1. ANTES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 100  k  
+ ROTOR                       = 110  k
+ BARRAJE                    =  120 k
+
+2. DESPUES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 75  M
+ ROTOR                       = 78.7 M
+ BARRAJE                    =  2.24 G
+
+3. RESISTENCIA OHMICA =  101 m
+4. INDUCTANCIA              = 56.24  mH
+5. CAPACITANCIA             = 113.2  µF
+
+
+

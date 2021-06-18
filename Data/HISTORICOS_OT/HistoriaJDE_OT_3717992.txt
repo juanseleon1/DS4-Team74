@@ -1,0 +1,21 @@
+
+2018/06/05 _ CARLOS ENRIQUE MONCADA. OT N° 3717992.
+PLANEADOR LUIS FEDERICO ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación al cableado, todo se encuentra dentro de los parámetros normales y operativos.
+Médidas Vibraciones/ Acelerometros:
+
+ACC LGB 0°: 10.46 V.
+ACC LGB 90°: 10.57 V.
+ACC TGB 0°: 10.74 V.
+ACC TGB 90°: 11.08 V.
+CUBIERTA TURBO: 0° > 10.78V.
+CUBIERTA TURBO: 90° > 11.30V.
+ACC LGB AXIAL: 10.34V.
+ACC UGB 0°: 10.89V.
+ACC UGB 90°: 10.61V.
+
+Realizo: Eladio Piedrahita, Jeniffer García.
+
+
+
+XL-VERIFICAR Y LIMPIAR EN EL MONITOREO PCSV-PCSD, LA INSTRUMENTACIÓN DEL SISTEMA DE VIBRACIONES Y DESCARGAS PARCIALES. U4 P3.

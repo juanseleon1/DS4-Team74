@@ -1,0 +1,43 @@
+Planeador: José Alirio Hoyos Torres.
+Aprovador: Camilo Cardona.
+Fecha: 29/11/2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento preventivo a realizar:
+ Recorrido por los componentes de la presa:
+ Cresta
+ Talud aguas arriba
+ Talud aguas abajo
+ Estribos
+ Vertedero
+ Tapón antiguo vertedero
+ Zonas bajas (refuerzos) de la 1 hasta la 11
+
+ Realizar lecturas de la instrumentación:
+ Piezómetros
+ Pozos de observación
+ Vertederos de aforo
+ Puntos de control superficiial
+ Extensómetros
+ Acelerógrafos
+ Descargar la información en la base de datos de seguridad de presasPlaneador: José Alirio Hoyos Torres.
+Aprovador: Camilo Cardona.
+Fecha: 29/11/2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento preventivo a realizar:
+ Recorrido por los componentes de la presa:
+ Cresta
+ Talud aguas arriba
+ Talud aguas abajo
+ Estribos
+ Vertedero
+ Tapón antiguo vertedero
+ Zonas bajas (refuerzos) de la 1 hasta la 11
+
+ Realizar lecturas de la instrumentación:
+ Piezómetros
+ Pozos de observación
+ Vertederos de aforo
+ Puntos de control superficiial
+ Extensómetros
+ Acelerógrafos
+ Descargar la información en la base de datos de seguridad de presas

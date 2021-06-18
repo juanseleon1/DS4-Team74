@@ -1,0 +1,6 @@
+FECHA: OCTUBRE 20 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y JOHN JADER ORREGO
+SOLICITANTE: HENRY GIRALDO
+
+Se inspecciona falla en voltaje de 400Vac, en días anteriores se había descartado el problema en la Bottom Box, quedando pendiente la Top Box, hoy se revisaron los circuitos y se encontró la falla en el módulo arrancador de uno de los motores de la yaw, se realiza el cambio y se deja en servicio el aerogenerador

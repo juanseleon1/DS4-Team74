@@ -1,0 +1,39 @@
+2014/08/21: RUBEN ARBOLEDA
+Se realizará el cambio del sistema de arranque de potencia de la motobomba, con el montaje de un arracador suave AltiStart48, el sistema actual es un aranque directo por contacto. 
+
+2014/08/28
+Se pone en estado 35, debido a que el personal se encuentra: 
+Correctivo alumbrado torres de captación. 
+Revision de cables BICC
+Capacitación al personal de brigada en manejo de equipo desfibrilador portatil
+
+2014/09/01 - RUBEN ARBOLEDA
+Se continua con la ejecución de la OT. 
+
+
+2015/02/19 GIOVANNY DIAZ OT: 2585566
+Se evidencio punto caliente en las fases de la peineta de salida: 
+
+Peineta de Salida
+FASE R 138,2°C
+FASE S 106,2°C
+FASE T 92,6°C
+
+Peineta de Entrada: 
+FASE R 83,5°C 
+FASE S 78,7°C 
+FASE T 88,0°C 
+
+Se realizo inicialmente limpieza, pero el fallo persistio, se paso para la fase S, para lo cual se realizo el cambio de peineta en el cubiculo, por una de mayor espesor, siendo efectivo el cambio: 
+
+Peineta de Salida: 
+FASE R = 34.2°C
+FASE S = 33.4°C
+FASE T = 32.7°C
+
+Peineta de Entrada
+FASE R = 38.6°C
+FASE S = 38.4°C
+FASE T = 54.1°C
+
+Se evidencia un delta de temperatura, se recomienda reparar en la proxima parada disponible. 

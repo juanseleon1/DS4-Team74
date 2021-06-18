@@ -1,0 +1,17 @@
+08/10/2017. 14:47.
+
+se identifican algunos visuales en el Regulador de Velocidad RVX300 TRU1, con medidas anamalascomo son:
+En el instrumentos de Posiciòn del distribuidor marca 54% cuando la Unidad esta al 93,1% segùn pantalla de control de la Unidad, en la Pantalla (IHM) del Regulador de Velocidad se puede detectar que en la pestaña de Pantalla Principal no esta simulando los valores en: Posiciòn %, Frecuencia, Potencia activa, Limite de apertura y Referencia.
+
+En las CPU1 se encontraron led 1,2, y 3 encendidos, led de normal encendido.
+
+En la CPU2 se encontraron led 1,2,3 y 48 encendidos, led de normal encendido.
+
+se solicita normalizar.
+
+Informa Wilson Arango Bedoya - Operador Troneras
+
+SE HACE UNA REVISION DEL CONTROL DEL REGULADOR, SE DESCARGA EL PROGRAMA Y SE ACTUALIZA LA IHM DEL REGULADOR QUEDANDO EN CONDICIONES NORMALES.
+
+
+REALIZO: GRUPO DE ELECTRONICA.

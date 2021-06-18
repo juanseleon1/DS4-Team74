@@ -1,0 +1,8 @@
+2015-11-21. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR PORQUE  NO HAY SEÑAL DE LAS VARIABLES CORRESPONDIENTES EN RELÉ DE SOBRECORRIENTE PR3. EN EL SACO SALE ALARMA FALLA INTERNA RELÉ SOBRECORRIENTE.
+
+EL PR3 APARECE ENCENDIDO PERO NO HAY MEDIDAS.
+
+2015/11/22 GIOVANNY DIAZ - RUBEN ARBOLEDA OT: 2942944
+Se realizó verificación de la falla, se encontró que el equipo estaba en una lectura fija, por lo tanto se programó para que mostrará una lectura en grupo, se dejo en condiciones normales. 

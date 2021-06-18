@@ -1,0 +1,7 @@
+2017/09/22 RUBEN ARBOLEDA
+Ot creada para realizar una revisión general y una inspección termografica al arrancador del chiller 2.
+
+2017-09-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - BRANDON VELASQUEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3604095, PASO:1          
+Se realizó mantenimiento al arrancador del chiller 2, se realizó inspección en informe termográfico, no se evidenció fallas. 
+Se anexa el informe y la planilla a la OT.
+

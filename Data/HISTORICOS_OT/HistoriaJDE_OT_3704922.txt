@@ -1,0 +1,41 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018/06/14 RUBEN ARBOLEDA OT: 3704922
+Esta OT la ejecutó el personal de la cuadrilla movil, Se realizó mantenimiento mayor a la Unidad 7, el informe queda en: 
+\\epm-file\2000\2630 A Guatape\2032_MANTENIMIENTO UOZO\CENTRAL GUATAPÉ\CONVERSION\UNIDAD 7\Mantenimiento mayor abril 2018
+
+EJECUTO: MECANICOS Y ELECTRICISTAS DE LA CUADRILLA MOVIL.
+INFORMO: EDWIN DAVID LOPERA CORREA.
+
+OBJETIVO: Realizar mantenimiento preventivo en el barraje de salida del generador de la unidad 7.
+
+Actividades Realizadas.
+
+ limpieza al barraje de salida.
+ limpieza a los aisladores del barraje de salida, Interrupotor de Maquina.
+ verificación de torque en las diferentes uniones del barraje.
+ Mantenimiento interruptor de maquina. (limpieza, lubricación martes mecánicas)
+ Mantenimiento tablero de control del interrupotor de máquina.
+ Mantenieminto preventivo al Seccionador.
+
+Pruebas de Resistencia de Aislamiento Al barraje de Salida.
+
+PRUEBA DE AISLAMIENTO DESDE EL SECCIONADOR HASTA EL TRANSFORMADOR.
+
+FASE R: 10.58 GIGA OHMIOS
+FASE S: 10.63 GIGA OHMIOS
+FASE T: 23.1  GIGA OHMIOS
+
+PRUEBA DE AISLAMIANTO DESDE EL INTERRUPOTOR HASTA EL SECCIONADOR.
+
+FASE R: 18.13 GIGA OHMIOS
+FASE S: 17.13 GIGA OHMIOS
+FASE T: 14.71 GIGA OHMIOS
+
+PRUEBA DE AISLAMIANTO DESDE EL INTERRUPOTOR HASTA EL SECCIONADOR.
+
+FASE R: 6.85 GIGA OHMIOS   
+FASE S: 3.97 GIGA OHMIOS
+FASE T: 3.56 GIGA OHMIOS.
+................................................................................................................................................................................................................................................

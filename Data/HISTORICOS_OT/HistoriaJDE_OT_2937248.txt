@@ -1,0 +1,5 @@
+15/11/2015
+ALEJANDRO VERGARA
+Unidad 7 tablero control generador (panel alarmas SACO) una parte del módulo se encuentra en falla, revisar.
+2015/11/15 EJECUTANTE: RUBEN ARBOLEDA, PROGRAMADOR: RARBOLG
+Se realizó revision, se encontró modulo 1 fallado, se instala un modulo del banco 4 ya que la fuente para el saco del banco esta quemada, ambos se enviar a reparación. 

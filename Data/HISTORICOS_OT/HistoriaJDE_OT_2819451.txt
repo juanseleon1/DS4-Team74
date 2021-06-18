@@ -1,0 +1,7 @@
+En la OT: 2807990
+Queda pendiente revisar la señal que va al computador de estación, no solo de este relé sino tambien de los demás bancos, debido a falta de llegada de la señal, se evidencio conexiones erroneas en la caja de integración detras de los tableros del computador de estación.
+
+
+2016/08/21,RUBEN ARBOLEDA - EJECUTADA POR MOTAJES
+Despues de la falla en los cables de potencia de la central guatapé, para la puesta en servicio de las unidades se realizó pruebas de todas las señales y cambio de algunos relés, esta OT la ejecutó Juan Carlos Ortíz con el personal destinado para la revision de todas las señales de casa de maquinas, ésta OT se cierra sin costos.
+

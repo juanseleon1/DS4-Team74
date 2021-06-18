@@ -1,0 +1,6 @@
+29 NOVIEMBRE 2016 GUILLERMO LEON ECHEVERRY
+
+SE DA PARO RAPIDO 86R DE LA UNIDAD CON 175 MW, SE PARA LA BOMBA AC, OCASIONANDO ALTA TEMPERATURA EN EL ACEITE DE LA CUBA.
+Se resetea comando de parar bomba 1 desde el PAS hasta el controlador para lograr que realizara la transferencia de las bombas.
+Informa: John Jairo Gónzalez
+

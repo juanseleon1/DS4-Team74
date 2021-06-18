@@ -1,0 +1,5 @@
+Planeador: Faustino Giraldo
+Aprobador:Gustavo Muñoz
+Fecha de solicitud: 17-04-2018
+Tipo de mantenimiento: Preventivo PREDICTIVO
+Acciones de mantenimiento: (Ver lista)Realizar mtto,se bajan datos, se realiza limpieza de la estacion, se cambia bateria.

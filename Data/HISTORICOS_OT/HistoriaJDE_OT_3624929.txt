@@ -1,0 +1,13 @@
+Al momento de arranque de la bomba 1 o bomba 2 del sistema hidrauluco se siente un ruido anormal y muy fuerte, este es ocasional aproximadamente 3 ruidos/hora.
+solicitante turno 1(Marta Parra-Carlos Torres).  
+
+
+Ot: 3624929 - Revisar bombas estación hidráulica - Programador: Camilo Montagut - 28/12/2017
+
+Se cierra la ot como finalizada ya que se ejecuta con la ot: 3631272
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+ 

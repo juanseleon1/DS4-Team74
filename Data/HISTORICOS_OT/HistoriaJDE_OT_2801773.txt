@@ -1,0 +1,12 @@
+
+
+24/JUNIO/2015
+
+Se reporta el falla de la Unidad 5 de la Central Guatapé desde las 6:40 am del miércoles 24 de junio de 2015, por falla en el funcionamiento del sincronismo de esta Unidad y como consecuencia no permite cerrar el interruptor de maquina dejándola indisponible.
+Para atender esta falla se verifica el funcionamiento del sincronizador, con el fin de establecer que este enviando la orden de cierre hacia el interruptor, esta orden se cumple.
+Se verifica el funcionamiento del relé de cierre, comprobando que está llegando un voltaje de 125 V DC a la bobina. Funcionamiento correcto.
+Se verifica que la bobina de cierre no esté abierta o quemada. Su resistencia óhmica es de 44 Ohm. Funcionamiento correcto.
+Se inicia la sincronización y la rechaza, se procede a dar reset al sincronismo dos veces y se cumple la orden de cierre del interruptor de máquina de esta Unidad.
+La Unidad 5 queda disponible y en condiciones operativas normales.
+
+

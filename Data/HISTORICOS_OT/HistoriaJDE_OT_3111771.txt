@@ -1,0 +1,20 @@
+2016-05-11. JUAN C DUARTE MUÑOZ.
+
+CORREGIR NIVEL AGUA ELECTROLITO EN LAS BATERIAS 27 Y 58 QUE SE OBERVAN EN VISOR CON NIVEL MINIMO. ADICIONALMENTE, SE DEBE LIMPIAR SALA DE BATERIAS POR SULFATACIÓN EN EL PISO.
+
+2016/05/14 ANGEL ADONIS CADAVID OCHOA
+SE DIRECCIONA OT AL EQUIPO ELECTRICISTA.
+
+2016/05/14 ANGEL ADONIS CADAVID OCHOA
+FUE NECESARIO CREAR OT 3111771 YA QUE LA OT 3107392 EN EL PROCESO DE ASIGNACION QUEDO CANCELADA POR EL SISTEMA.
+
+2016/05/11 FERNANDO RUIZ - JUAN JOSE LOPEZ (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó mantenimeinto general, limpieza y recuperación de nivel, se dejó en condiciones normales, se adicionaro alrededor de 50 litros de agua destilada a todas las baterias.
+
+2016/05/27 ANGEL ADONIS CADAVID OCHOA
+NO SE CIERRA OT, SE DBE REGISTRAR CUANTA AGUA SE ADICIONÓ A LAS CELDAS 27 Y 50, ADEMAS SE DEBE CORREGIR SI LQ CAUSA DEL BAJO NIVEL ES POR  FUGA DE FLUIDO, YE QUE DE SER POR ESTA CAUSA SE DEBE CAMBIAR LAS CELDAS FALLADAS.
+
+2016/07/02 RUBEN ARBOLEDA
+No se evidencia causa aperente de fuga de fluido, es posible que el nivel se halla bajado por trabajo normal de la bateria y éstas esten defectuosas, 
+
+Verificando el sistema de información se evidenció que estas baterías no les están generando OT's desde 2014/01/29 , se realiza un correo con solicitud a Cesar Hoyos para indagar sobre el asunto.

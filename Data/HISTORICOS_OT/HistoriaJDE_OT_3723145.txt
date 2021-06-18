@@ -1,0 +1,6 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 10-05-2018
+Tipo de mantenimiento: Aforos.
+Acciones de mantenimiento: 
+Realización de aforos del caudal de verimiento del embalse para realizar curva de calibración.

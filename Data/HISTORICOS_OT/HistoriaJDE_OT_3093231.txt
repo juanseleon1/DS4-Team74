@@ -1,0 +1,9 @@
+28-04-16 CESAR AUGUSTO HOYOS HENAO.
+Se presenta falla en la pantalla tactil del PLC, por lo que no permite la operacion del control de la motobombas. Se requiere cambio de este PLC por uno nuevo. 
+Se conseguirá un PLC adicional de repuesto en caso tal de que falle alguna de las unidades 5-6-7 y 8. Para minimizar los tiempos de una indisponibilidad en caso tal de que se dañe algun PLC. Se esta a la espera del proceso de compra.
+
+2016/06/07 GIOVANNY DIAZ - FRANK VILLA - RUBEN ARBOLEDA
+Se realizó cambio del PLC por uno de version XL7, fue necesario limar la puerta para instalarlo ya que el nuevo es de mayor tamaño, se realizó instalación del software y se probó, la pantalla del nuevo tiene una mayor resolución por lo tanto fu necesario ajustar el tamaño de la letra y los graficos, en cuanto a la comunicación se dejó con el ID 253, por conexión USB, igual a la configuración del anterior.
+Se realizó pruebas de disparo de interruptores y señales de alarmas, se dejó en condiciones normales. 
+
+

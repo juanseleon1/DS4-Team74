@@ -1,0 +1,13 @@
+PLANEADOR:CESAR AUGUSTO GIRALDO RESTREPO
+PROGRAMADOR: WILLIAM LOPERA
+FECHA: 13/08/2018
+
+ASUNTO : REALIZAR MANTENIMIENTO PREVENTIVO AL MOTOR, CAMBIO DE RODAMIENTOS Y MEJORAR EL AISLAMIENTO QUE ESTA MUY BAJO AL MOTOR.
+
+
+AGOSTO 18 DE 2018.
+Se desmonto el motor de la compuerta radial número 1 para realizar mantenimiento, cambio de rodamientos, pintura y merojora de aislamiento en el devanado estatorico.
+Antes del mantenimiento estaba con un aislamiento de 30.1 M con 500 Vdc.
+Despues del mantenimiento 135 M con 500 Vdc.
+Se vuelve a montar, se hacen pruebas de apertura y cierre para verificar corrientes de trabajo quedando operativa la compuerta.
+William Lopera.

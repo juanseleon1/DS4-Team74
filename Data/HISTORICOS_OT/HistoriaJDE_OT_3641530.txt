@@ -1,0 +1,7 @@
+Fecha: Noviembre 22/2017Programo: Daniel Palacios O.Ejecuto: Ronal Arango, Yoanis Rodríguez y Ángel Sánchez.
+Planeador: Luis Federico Alvarez Alvarez
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de frenos. Se realiza limpieza y verificación de conexiones al motor del colector, se le toman registros de aislamiento del motor y se llena planilla.
+Trabajo ejecutado por: Ronal Arango, Yoanis Rodríguez y Ángel Sánchez.
+
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

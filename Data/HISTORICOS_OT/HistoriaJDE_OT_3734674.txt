@@ -1,0 +1,8 @@
+SOLICITANTE: CENTRO DE CONTROL GIV - AR. FECHA: 09/06/2018
+
+Las dos unidades disponibles, G41 y G43 presentan falta de condiciones de arranque por "VÁLVULA ESFÉRICA ADMISIÓN NO LISTA". 
+
+PROGRAMADOR JOSE MONTOYA
+RFERENTE A OT 3734040:
+Se revisan las protecciones y se observa disparo externo por el relé SEL en el tablero +LA11 (camara valvulas) se realiza reset y normaliza el paro rápido de las 2 Unidades 1 y 3.  Se gira Unidad 1, se sincroniza y se entrega a las 18:24 al control conjunto, se gira la Unidad 3.  A las 20:45, se entrega a Medellín.
+Ejecutó: Personal de mantenimiento.

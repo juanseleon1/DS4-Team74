@@ -1,0 +1,17 @@
+SABADO 22 DE AGOSTO
+
+El día de hoy en la madrugada se presenta fuga de agua en el maguito aguas arriba de la válvula de admisión de la unidad N° 4, la cual verifique con el equipo de técnicos mecánicos confirmando que esta se presenta de la mitad de la brida hacia abajo en ambos lados, siendo más abundante y en forma de pluma en la tornillería de la parte inferior. Es importante tener en cuenta que esta fuga se presenta por las tuercas y las roscas de los tornillos que ajustan dicho manguito con la válvula esférica.
+
+De otra parte, se comienza con el aforo de dicha fuga para el control de la misma, la cual presenta los siguientes datos:
+
+FECHA HORA UNIDAD LITROS/MINUTO22-08-2015 9:00 AM GIRANDO 222-08-2015 4:00 PM GIRANDO 2.2
+INFORMÓ: RENATO MONTOYA
+
+
+ATENCIÓN CORRECTIVA:
+
+Se opta en primera instancia por realizar el sellado mediante la inyección de una masilla a base de teflón. La inyección de la masilla se realizó a en cada uno de los 52 pernos del manguito aguas arriba mediante la instalación de unas arandelas especialmente diseñadas para tal fin, por tal motivo fue necesario cambiar todos los pernos. La estrategia de reparación fue diseñada y desarrollada por la unidad operaciones porce (epm) y el proveedor SEALCO. El informe detallado de esta reparación se encuentra en el servidor de la unidad operaciónes porce en la siguiente dirección: \\epm-dc07\2000\03. MANTENIMIENTO\01. INFORMES DE MANTENIMIENTO
+
+La fuga logro ser contenida en su totalidad el 31 de Marzo de 2016. 
+
+Informó: Santiago Ramírez

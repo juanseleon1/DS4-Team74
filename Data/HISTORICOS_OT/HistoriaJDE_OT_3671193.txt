@@ -1,0 +1,21 @@
+2018/01/14 CESAR HOYOS - JAIME RAMIREZ - RUBEN ARBOLEDA
+se realizaron las pruebas de movimiento de agujas en vacio y todas respondieron  sin ninguna novedad ,  luego  se iniciaron pruebas con el caracol presurizado y la aguja numero 4 no responde a ninguna orden de apertura  ni en manual  tampoco desde el computador ,  se hace el cambio por otra valvula moog  y sigue la misma condicion , se verifico con otra valvula moog recien calibrada en banco y tampoco responde.
+
+se decide abrir el recinrto de turbina , para tratar de observar cual es la causa de este problema, pensando que al inyector le este entrandioa agua por alguna cavitacion en su cuerpo , pero al retirar los tapones de las camaras de aceite se observa poca salida de agua. 
+
+se decide hacer otra prueba metiendole aire por la camara de apertura  para verificar su recorrido  de forma manual  y descartar cualquier causa mecanica que este obstruyendo el movimiento , pero para hecer esta prueba se necesita que el caracol este sin agua , pero no pudimos lograr estanqueidad en los sellos de la valvula esferica entoces abortamos esta prueba  y decidimos cerrar el recinto porque se corria muchos riesgos estar alli con el acracol en esas condiciones .
+
+miercoles 24 de enero de 2018 
+
+se monto un inyector reparado en la posicion 4 de la unidad 3, ya que despues de muchas pruebas se evidencia que la falla esta en la parte interior trasera del mismo , po lo que no es posible repararlo en sitio y se toma la desicion de cambiarllo 
+
+este trabajo lo coordina jaime ramirez y lo realiza 
+
+marzo 29 de 2018 
+ot terminada y cerrada 
+andres ramirez 
+
+yesid sanchez , fabio herrera, norman urrea , emilio pamplona , ruben lopez , edwar foronda y juan david flores .
+
+jaime a ramirez 
+

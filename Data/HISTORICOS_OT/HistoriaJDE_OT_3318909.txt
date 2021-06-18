@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica de un ventilador perteneciente al transformador del banco 3 fase R de la central de Guadalupe III
+
+
+
+Programador: Camilo Montagut - 30/11/2016
+
+Se realiza la adecuación de un sistema de sujeción del nuevo motor del ventilador del trafo con una plantilla en acero y pernada en la guarda de antimonio del mismo ventilador. Queda pendiente realizar la nueva adecuación mecánica cuando arreglen el motor antiguo que se encuentra en mal estado.
+
+Ejecuta: equipo mantenimiento mecánico UOG

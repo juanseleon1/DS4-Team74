@@ -1,0 +1,14 @@
+
+FECHA: MAYO 02 DE 2014
+
+RESPONSABLE:  CLAUDIA ESLAVA, PEDRO ROBAYO, DIOMER DIAZ Y HENRY GIRALDO
+
+Dado que la presión de los Tip ya se había estabilizado se dio orden de arranque al AG, en el momento de entrar se dio paro por corriente tiristor L1 - L2 - L3, se inspecciona y se encuentra todo normal, se intercambia el modulo WP4060 con el AG3 pero no se presenta ningún problema en esta última máquina, se procede a verificar el modulo 151A3 y su respectiva alimentación y se encuentran los Mcb 153F1 y el 182F2 malos, se cambian (código 63859) y la falla desaparece, se procede a dar un nuevo giro y en el momento de aproximarse a entrar en operación sale corrientes asimétricas, se ve una alarma en el relé 19B1 (diferencial de corriente) y se cambia por uno nuevo (código 71105) se calibra y se deja en servicio. Se da nuevamente orden de giro y se da paro por corrientes asimétricas, se un valor de corriente muy bajo en la fase 3, se decide cambiar el transformador de corriente de esta fase pero el problema continua. La presión de los Tip se encuentra variable no se sostiene.
+
+
+
+FECHA: MAYO 05 DE 2014
+
+RESPONSABLE:  CLAUDIA ESLAVA Y HENRY GIRALDO
+
+Se inspecciona el modulo 7,16 debido a la intermitencia de la presión de los Tip´s, se observa que se apaga el modulo al igual que las bombas de refrigeración de la caja multiplicadora, se mide el voltaje de las fuentes y se encuentra la fuente 103A1 con variación en el voltaje de salida, se encontraba en 31 Vdc y variando, se calibra la tensión en 24 Vdc y la intermitencia deja de ocurrir, la presión en los Tip´s queda trabajando adecuadamente.

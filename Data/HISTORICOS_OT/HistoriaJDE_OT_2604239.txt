@@ -1,0 +1,7 @@
+SEP 23/2014 OT: 2604239 PROGRAMÓ: Javier Giraldo EJECUTÓ: Saúl Correa.
+El ventilador del transformador de reserva marca ASEA serie N° 5706 125 que esta reemplazando al marca Pauwels por falla, se cambia por el ventilador del transformador de reserva marca ASEA serie N° 5706 121; al cual se le cambian los rodamientos por estar malos, al probarlo funciona normalmente.
+
+
+ SEPTIEMBRE 19 DEL 2014
+
+Revisar el ventilador del transformador de potencia fase T de la unidad 3 de Gyuadalupe III, presenta ruido en sus rodamientos.

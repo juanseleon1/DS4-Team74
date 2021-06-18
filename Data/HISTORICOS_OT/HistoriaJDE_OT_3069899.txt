@@ -1,0 +1,7 @@
+2016/04/08 JUAN DAVID GRANADA - ADONIS CADAVID: 
+En el banco 2 de la central Guatapé se debe instalar el relé de protección SEL387E que fue desmontado y enviado al fabricante a proceso de garantía. Este equipo lo tenemos actualmente en S/E Colombia, es necesario programarlo nuevamente y realizarle  pruebas de laboratorio y desmontar el desmontar el SEL387E que actualmente se encuentra en el tablero de protección del banco y posteriormente entregarlo al personal de subestaciones y líneas.
+El equipo SEL551 del Banco 2 de la central Guatapé se encuentra con el display fallado, razón por la cual sugerimos desmontarlo y enviarlo por garantía al fabricante. Para ello gestionaremos con la dirección Pequeñas Centrales el suministro en calidad de préstamo de un equipo de esta referencia, equipo que deberá ser instalado mientras SEL corrige el problema del equipo.
+Recomendamos normalizar los circuitos de corrientes que en este momento se encuentran cortocircuitadas para la diferencial de barras y el 50BF entre otros del banco 2 en S/E Guatapé 220kV.
+
+2016/04/11 GIOVANNY DIAZ - SEBASTIAN HINCAPIE, PROGRAMO: CHOYOSH, 
+Se realizó el levantamiento de información y cambio de relé SEL387, se dejó en condiciones normales. 

@@ -1,0 +1,9 @@
+MANTENIMIENTO ANUAL CALEFACCION GENERADOR
+OCTUBRE 09 AL 11 DEL 2018
+Se realiza mantenimiento preventivo según instructivo GCG3E0002. Se revisaron las resistencias de calefacción, midiendo continuidad entre ellas, se midió el valor óhmico de cada una de ellas, se realizó limpieza con dieléctrico, se revisó el gabinete de control, conexiones y demás elementos, se tomaron medidas de corrientes y voltajes verificando su correcto funcionamiento.
+
+VOLTAJEFASE VOLTIOSR - S445S - T445T - R449 
+CTE. DE TRABAJOFASE AMPERIOSR6.3S5.3T6.3
+RESISTENCIA OHMICAFASE OHMIOSR - S80.6S - T80.6T - R80.6
+Programo: Carlos Andres Forero
+Ejecutaron: Sergio Areiza-Daniel Arango

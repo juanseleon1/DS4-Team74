@@ -1,0 +1,8 @@
+2017/03/09
+El Control del Equipo se está conmutando a Control Local Manual.
+Se despliega en panel de alarmas del equipo "53 PT Failure Detector Alarm"
+2017/03/09 ANGEL ADONIS CADAVID OCHOA
+OT PASA A PROGRAMACION SE DIRECCIONA A EQUIPO ELECTRONICO
+EJECUTANTE:  LUIS EDUARDO ARCILA
+FECHA:2017/03/13
+Se realiza seguimiento y hasta el momento no presenta ninguna variación

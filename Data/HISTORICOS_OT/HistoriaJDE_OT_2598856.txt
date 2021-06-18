@@ -1,0 +1,6 @@
+
+FECHA: SEPTIEMBRE 09 DE 2014
+
+RESPONSABLE: GERMAN ECHAVARRIA
+
+Se retira el LPC ya que no prendía, se le corrige conector a la fuente y se limpia la tarjeta de memoria, se deja en funcionamiento en subestación, debido a que el A/C de la Bottom Box se encuentra deficiente.

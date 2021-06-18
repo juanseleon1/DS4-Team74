@@ -1,0 +1,16 @@
+ANUAL ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+
+30-10-2017
+PROGRAMADOR JOSE MONTOYA
+30/010/2017
+SE DESMONTAN LOS SENSORES DE POSICION DEL DISTRIBUIDOR
+01/11/2017
+SE REALIZA VERIFICACION DE LOS PRESOSTATOS CON EL PESO MUERTO
+01/11/2017
+INSTALACION  SENSORES ALABES DEL DISTRIBUIDOR
+CUATRIMESTRAL
+Se realizó mantenimiento al tablero de control del regulador hidráulico Y pantalla de visualización, se encontró todo normal.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+Se realiza verificación y ajuste de la tarjeta AMP2
+Se hace verificación de posición de distribuidor.
+

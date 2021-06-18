@@ -1,0 +1,51 @@
+2018/02/01
+SALE DE SERVICIO LA UNIDAD 3, POR PARO RAPIDO 86R, POR POSICION SERVOMOTOR DEL DISTRIBUIDOR NO ALCANZADA CON 127 MW Y -15 MVAR
+
+
+informa: John J. Gonzalez - Esneider Rivera - Fabian Gomez - Walter Tobon
+
+
+02/02/2018
+
+Se realiza verificacion de los lazos de control y de la valvula proporcional, no se encuentra falla , se traslada nota al personal mecánico para verificar esfuerzos o fallas en el distribuidor como pegas mecáncias. por parte del grupo electrónico se instala el conmutador para graficar la posición de la válvula proporcional y los transductores de presión en las cámaras del servomotor.se informa al ingeniero Santiago Ramirez 
+
+Nota realizada por Wtobonl
+
+********************************************************************************************
+SE INSTALARON TRANSDUCTORES DE PRESION PARA VERIFICAR EN TIEMPO REAL EL COMPORTAMIENTO DE LOS SERVOMOTORES, SE TOMABAN DATOS DOS VECES AL DIA POR ESPACIO DE 3 MINUTOS Y VERIFICANDO LAS MEDIDAS CADA 5 SEGUNDOS NO EVIDENCIANDO FALLA ALGUNA, SE TIENE CONTEMPLADO EL CAMBIO DE LOS PATINES RADIALES Y AXIALES DEL ANILLO DISTRIBUIDOR, AL IGUAL QUE LA REVISION DE LOS BUJES INFERIORES.
+
+INFORMA: OSCAR PARRA
+
+
+06/02/2018
+
+Referente a la Unidad 3 Regulador de Velocidad (TRV):
+Se realiza verificación de los lazos de posición del distribuidor  mediante el  computador instalado  se evidencia grafica de comportamiento del distribuidor en la pasión del 73% donde se detiene y la válvula proporcional actúa pero no responde el sistema, se informa al grupo mecánico para tomar acciones, el ingeniero Santiago realizara verificación y acciones para esta falla la cual ya es recurrente.
+
+Realizada por Wtobonl SE TRASLADA OT AL GRUPO MECANICO PARA SU ANALISIS Y CAUSA RAIZ 
+
+
+20/03/2018
+
+Referente a la Unidad 3: Sale de servicio nuevamente la Unidad, por Paro Rápido 86R, por posición servomotor del distribuidor no alcanzada con 142 MW y - 2.8 MVAR. 
+Informa: Operación: Turno 3: Fernando Roldán - Camilo Montoya.
+
+21/03/2018
+
+Referente a la Unidad 3: Sale de servicio nuevamente la Unidad, por Paro Rápido 86R, por posición servomotor del distribuidor no alcanzada con 127 MW y - 2.0 MVAR. 
+Informa: Operación: Turno 3: Fernando Roldán - Camilo Montoya.
+29/05/2018
+
+Referente a la Unidad 3: Sale de servicio nuevamente la Unidad, por Paro Rápido 86R, por posición servomotor del distribuidor no alcanzada con 124 MW y - 4.0 MVAR. 
+Informa: Operación: Turno 1: John Jairo Gonzalez V - Fabian Gomez.
+
+29/05/2018
+
+Referente a la Unidad 3 Sale la unidad por encontrarse en la posición distribuidor de 65% en el momento la planta se encontraba cambiando de generación y esta unidad realizaba regulación primaria.
+
+Realiza Walter Tobón 
+
+30/05/2018
+SE ESTA A LA ESPERA DE PROGRAMAR UNIDAD PARA EL CAMBIO DE LOS PATINES AXIALES Y RADIALES DEL ANILLO DISTRIBUIDOR
+
+INFORMA: OSCAR PARRA

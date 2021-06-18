@@ -1,0 +1,10 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+22-02-2017
+PROGRAMADOR JOSE MONTOYA
+Se realiza limpieza y se revisan sensores de vibración, se dejan calibrados así: CSPL 9.99 VDC, el CSPR 7.97VDC y AXIAL 8.87. 
+Nivel de aceite cojinete superior se encontró en 471 El nivel patrón es 474mm.
+según el formato interno que el grupo electrónico está manejando y se realizó limpieza e inspección visual a las RTD del cojinete.
+Se inyectan las siguientes señales
+  COJ GUIA SUP °C COJ EMPUJE °C (RTD) TIG BORNES             1-2-3 (RTD) TIG BORNES        37-38-39 (RTD) TIG BORNES     13-14-15 (RTD) TIG BORNES       25-26-27  PATRÓN °C ACTE1 SEG 6   SEG 3 SEG 9  40 39.9 40,0   40.1 40.1  60 59.9 59.9   60,0 60,0  80 80.6 80.3   80.2 80.2  ALARMA  70.6 70.3   70.2 70.2 DISPARO  80.6 80.3   80.2 80.2 
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

@@ -1,0 +1,15 @@
+SEPTIEMBRE 14/2016   UBALDO ACEVEDO OSORIO 
+PRESENTA ALARMAS DE BAJO VOLTAJE DE ENTRADA Y TIERRA NEGATIVO, LO QUE OCASIONA LA SALIDA CONSTANTE DE LA ALARMA TIERRA BATERIAS SISTEMA 125 DC EN GENERALES DE PRIMERA ETAPA.
+
+2016-09-15 REALIZÓ: RUBEN ARBOLEDA - EDWAR LONDOÑO,  PROGRAMO: RARBOLG OT: 3244957, PASO:         
+Se realizó seguimiento a la tierra, pero no ha sido posible identificarla, se cuenta con el equipo para medir fallas a tierra, aunque no mostró falla en ningún circuito, queda pendiente continuar
+
+2016-10-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA - SERGIO OLIVARES,  PROGRAMO: RARBOLG OT: 3244957, PASO:2          
+Se realizó identificación de las señales de caída de tensión en DC, falla a tierra, se identificó falla en el cable que va desde la bornera B50 X2 Borne 8 hasta la miniRTU, este cable quedó desconectado, adicionalmente se desconectó la fuente de la nimiRTU ya que presentaba fallas en el sistema de DC y el problema se tiene focalizado en un breaker de alimentación de las señales hacia la RTU principal, que pasa por el cubículo del interruptor de la unidad 2 bornera X3, borne 7 y puente con borne 23, queda pendiente continuar con la revisión.SEPTIEMBRE 14/2016   UBALDO ACEVEDO OSORIO 
+PRESENTA ALARMAS DE BAJO VOLTAJE DE ENTRADA Y TIERRA NEGATIVO, LO QUE OCASIONA LA SALIDA CONSTANTE DE LA ALARMA TIERRA BATERIAS SISTEMA 125 DC EN GENERALES DE PRIMERA ETAPA.
+
+2016-09-15 REALIZÓ: RUBEN ARBOLEDA - EDWAR LONDOÑO,  PROGRAMO: RARBOLG OT: 3244957, PASO:         
+Se realizó seguimiento a la tierra, pero no ha sido posible identificarla, se cuenta con el equipo para medir fallas a tierra, aunque no mostró falla en ningún circuito, queda pendiente continuar
+
+2016-10-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA - SERGIO OLIVARES,  PROGRAMO: RARBOLG OT: 3244957, PASO:2          
+Se realizó identificación de las señales de caída de tensión en DC, falla a tierra, se identificó falla en el cable que va desde la bornera B50 X2 Borne 8 hasta la miniRTU, este cable quedó desconectado, adicionalmente se desconectó la fuente de la nimiRTU ya que presentaba fallas en el sistema de DC y el problema se tiene focalizado en un breaker de alimentación de las señales hacia la RTU principal, que pasa por el cubículo del interruptor de la unidad 2 bornera X3, borne 7 y puente con borne 23, queda pendiente continuar con la revisión.

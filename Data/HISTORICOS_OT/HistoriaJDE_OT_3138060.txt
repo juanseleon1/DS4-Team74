@@ -1,0 +1,10 @@
+XL: REVISAR, MEDIR, LIMPIAR E INSPECIONAR LA COMINICACIONES Y FIBRA OPTICA DE LA VALVULA DE CONO DE MIRAFLORES.
+
+05/07/2016 el mantenimiento de esta OT se realizara en el mes de Agosto debido a falta de personal para realizar un empalme que se debe de hacer a la fibra optica, estamos a la espera de la confirmacion y disponibilidad del equipo para la realizacion de dicho trabajo.
+
+12/12/2016
+MANTENIMIENTO FIBRA OPTICA
+
+Se realizo el mantenimiento preventivo al enlace de fibra optica y se rehabilito el lazo de respaldo, con la realizacion del empalme de la fibra con apoyo del personal de Union Electrica, quienes realizaron el emplame y las pruebas de funcionamiento.
+Ejecuto: Gonzalo Ardila
+Planeador: Oscar Arango

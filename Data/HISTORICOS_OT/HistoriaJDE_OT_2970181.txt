@@ -1,0 +1,9 @@
+22/12/2015
+ALEJANDRO VERGARA
+La motobomba CW3 no arranca en remoto en la estacion de operación
+
+2015/12/28 ANGEL ADONIS CADAVID OCHOA
+SE ASIGNA ORDEN DE TRABAJO AL EQUIPO ELECTRICISTA
+
+2015/12/31 JUAN GARCIA - JHONATAN USME, ot: 2970181
+Se realizó verificación del arranque en remoto, se evidenció cable sulfatado en borne que va desde el relé del computador de unidad en el tablero del regulador de velocidad, se cortó y se colocó una terminal. se dejó en condiciones normales

@@ -1,0 +1,7 @@
+MANTENIMIENTO GENERAL AL CONTROL Y MOTORES.
+
+JULIO 4 DE 2015.
+
+Se realiza mantenimiento general al tablero de control, se realiza pruebas elctricas a motores y limpieza general.
+Realizó: Fernando Correa - Mateo Pérez.
+Programó: William Lopera.

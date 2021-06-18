@@ -1,0 +1,10 @@
+25/10/2018 OT 3778027 Victor Zuleta / Luis Eduardo Arcila
+Se realizan pruebas de funcionamiento a módulos reparados en RPM
+· DSCS140
+· PG2050
+· RAC260
+Con resultados positivos 
+
+
+
+

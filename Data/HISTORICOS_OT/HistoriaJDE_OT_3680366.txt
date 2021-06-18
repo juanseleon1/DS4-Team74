@@ -1,0 +1,10 @@
+01/02/2018
+Referente al TRV Unidad N°1: Se presenta alarma por alta temperatura en el tanque sumidero (44 °C); por lo que se toma la decisión de arrancar en forma manual la bomba N°3 de refrigeración. Se realiza seguimiento por 2 horas a este sistema y se evidencia que la presión de los acumuladores irregularmente baja demasiado rápido, ocasionando que la bomba arranque de forma continua; descarga hasta 148 bar en 5 minutos y carga hasta 156 bar en 1 minuto. Se recomienda revisión inmediata de este fenómeno, ya que la bomba de refrigeración debe permanecer en funcionamiento hasta normalizar la temperatura en 34 °C.        
+ Ejecuta, analiza e informa: turno 3, Fernando Roldan - Juan forero - Mauricio Ruiz
+
+
+02/02/2018
+
+Se realiza verificacion del programa en la TUH, la indicacion de temperatura que posee este sistema son dos RTD´s de las cualeas se relizara verificacion de los puntos de alarma, disparo y arranque de la bomba de refrigeracion. 
+
+Realizado por Walter Tobon

@@ -1,0 +1,30 @@
+PLANEADOR. SANDRA CARMONA
+
+PROGRAMADOR: WILLIAM LOPERA
+
+ENERO 23 DE 2017
+
+FECHA: 23/01/2016
+sOLICITADA POR: ORLANDO A. CORREA SANTAMARIA
+
+EN EL BANCO DE TRANSFORMADORES DE TRONERAS FASE S, HAY FUGA DE ACEITE POR EL BUJE DEL NEUTRO, SE INCREMENTA EL GOTEO CUANDO LA PLANTA ESTÁ A MÁXIMA CARGA Y EL DÍA ESTÁ CALUROSO.
+
+ABRIL 8 DE 2017
+ESTA OT. SE ATENDERA CUANDO SE PUEDA INTERVENIR EL BANCO PARA BAJARLE NIVEL DE ACEITE Y TRATAR DE CORREGIR LA FUGA DE A CEITE EN EL BUJE DE ALTA.  WILLIAM LOPERA
+
+17/09/2017
+MANTENIMIENTO CORRECTIVO.
+Se realizaron las siguientes actividades para corregir la fuga:
+
+1. Se cerro la válvula del tanque conservador que esta antes del relé Buchholz.
+2. Se saca aproximadamente un balde de aceite a la cuba del transformador para bajar el nivel y poder intervenir el buje.
+3. Se solto la terminal del buje que une al barraje del neutro.
+4. Se amarro el buje con cuerda.
+      5.   Se cambian los empaques del buje por nuevos.
+      6.   Se aplica recina epoxica LOCTITE, en el tornillo que sujeta la terminal del neutro, ya que presenta fisura.
+
+Despues de ejecutados los trabajos, se normaliza el transformador y se deja en observacion por parte del grupo de operacion.
+
+Ejecuto: Luis Correa-Mateo Perez
+Programo: Carlos Andres Forero
+Planeo: Cesar Giraldo

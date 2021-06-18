@@ -1,0 +1,14 @@
+Tarea: 
+Realizar prueba de tranferencia automática en Distribución Principal 2 (DP2). 
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2519996
+Se realizó revisión de tranferencia automatica abriendo beraker en DP2 Celda 10 con marca MCB4 
+
+Se registró los tiempos de: 
+Tranferencia hacia respaldo (TSA3): 1 segundo
+Tranferencia hacia principal (TSA2): 1 minuto
+
+Se encontró en funcionamiento normal.
+
+Duración: 0.5 Horas
+

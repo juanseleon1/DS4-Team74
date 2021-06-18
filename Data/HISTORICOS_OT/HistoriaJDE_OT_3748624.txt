@@ -1,0 +1,33 @@
+MP ANUAL, EQUIPOS:
+2309 COJINETE SUPERIOR U1 G3
+2310 COJINETE SUPERIOR U2 G3
+2311 COJINETE SUPERIOR U3 G3
+2312 COJINETE SUPERIOR U4 G3
+2313 COJINETE SUPERIOR U5 G3
+2314 COJINETE SUPERIOR U6 G3
+
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+
+PLANEADOR:CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR:BERNARDO E. BEDOYA B.
+
+MANTENIMIENTO ELECTRONICO PREVENTIVO ANUAL.
+09/08/2018
+SE REALIZO MANTENIMIENTO SEGÚN ORDEN DE TRABAJO, NO SE ENCONTRÓ NOVEDADES.
+
+Se desconecta y se retiran los flujometro de salida de agua del intercambiador N° 1 y el intercambiador N° 2 y se les realiza limpieza.
+Se realiza nuevamente el montaje y conexionado del flujometro de salida de agua del intercambiador N° 1 y el intercambiador N° 2.
+Se desconectan y se retiran las RTDs de temperatura de entrada y salida de agua del intercambiador N°1 y el intercambiador N°2.
+Se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, del cojinete superior y luego se realiza el montaje y conexión de todas las RTD.
+
+
+El nivel de aceite se encontró en 126.8 mm el nivel patrón es 132 mm. El nivel se deja en el punto de referencia mecánica.
+
+
+VIBRACIONES: CSL:9.06 VDC
+ CSP:8.63 VDC 
+ AXIAL: 8.75VDC
+
+REALIZO: GRUPO ELECTRÓNICO.

@@ -1,0 +1,6 @@
+2018/08/08 _ CARLOS ENRIQUE MONCADA. OT N° 3747955 .
+Se ingresa al PLC del puente grua 1 y se descarga software para actulizar y desbloquear el puente grua, se realizan pruebas de movimientos, dejándolo habilitado para la operación.
+Realizó: Carlos Moncada, Ivan Ramirez, Jeniffer García
+
+2018/07/24 _ CARLOS ENRIQUE MONCADA. OT N° 3747955.
+Se crea OT para revisión y desbloqueo del puente grua 1 de P3.

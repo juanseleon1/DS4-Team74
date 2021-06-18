@@ -1,0 +1,20 @@
+ANUAL ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+13-06-2017
+PROGRAMO JOSE MONTOYA
+14/07/2017
+SE VERIFICAN CON EL PESO MUERTO LOS PRESOSTATOS DEL REGULADOR HIDRAULICO
+19/07/2017
+SE REALIZA CABLEADO PARA CONEXIÓN ELECTRICA VALVULA 304
+20/07/2017
+CONTINUACION INSTALACION  ELECTRICA VALVULA 304
+21-07-2017
+SE ENTREGA LA UNIDAD PARA GENERACION
+CUATRIMESTRAL
+Se corrigió fuga de aceite en transductor de presión
+Se  realizó mantenimiento al tablero de control del regulador hidráulico Y pantalla de visualización, se encontró todo normal.
+
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador.
+Se realiza verificación y ajuste de la tarjeta AMP2
+Se hace verificación de posición de distribuidor
+
+CALIBRACIÓN LAZOS  MEDIDAS DE CORRIENTE %  APER  DIST % APER25% 50% 75% 100%OBSERMED TABmA RVXmARVXmA RVXmARVX DISTRIB 8.03 24.8% 11.98 50% 15.89 75% 20mA 100%

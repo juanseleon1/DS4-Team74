@@ -1,0 +1,19 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2016-12-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3313481, PASO:1          
+Se realizó mantenimiento al motor de motobomba araa1 CORRIENTE: R:45, S:45,3, T:45, VOLTAJES RS:448,5, ST:447,7, TR:446,5,TEMPERATURA MAXIMA DE MOTOR 56,2°C, Se encontró en condiciones normales, se anexa la planilla a la OT.
+
+DIAGNOSTICO La temperatura de la peineta de entrada se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 34.7°C, lo cual implica una
+deficiencia en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2016/12/27 RUBEN ARBOLEDA
+Por cierre contable del año no se hace la OT correctiva, se deja para hacerse en enero de 2017.XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2016-12-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3313481, PASO:1          
+Se realizó mantenimiento al motor de motobomba araa1 CORRIENTE: R:45, S:45,3, T:45, VOLTAJES RS:448,5, ST:447,7, TR:446,5,TEMPERATURA MAXIMA DE MOTOR 56,2°C, Se encontró en condiciones normales, se anexa la planilla a la OT.
+
+DIAGNOSTICO La temperatura de la peineta de entrada se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 34.7°C, lo cual implica una
+deficiencia en su operación, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+2016/12/27 RUBEN ARBOLEDA
+Por cierre contable del año no se hace la OT correctiva, se deja para hacerse en enero de 2017.

@@ -1,0 +1,14 @@
+FECHA: MAYO 10 DE 2015
+
+DESCRIPCION DEL EVENTO
+El dia martes 10 Mayo sale de sincronismo la unidad 3 sacando para rapido, por FALLA VALVULA PROPORCIONAL. al graficar el movimiento de la valvula se noto una subida intempestiva en su operacion en el momento de la salida,  La unidad queda con condiciones de arranque, adicionalmente se le dio orden de arranque hasta operacion exitacion operando en normalidad. 
+
+11/05/2016
+Unidad 3 Porce 3 , ante la salida forzada del día 10 de mayo a las 22:00~ se realiza verificación en el sistema SCADA del evento y las gráficas de posición válvula proporcional, posición distribuidor y consigna de potencia, se observa que la unidad durante el día realiza tres eventos ( 9:14 am , 12:31 am y 10:00 pm) ~donde se observa que el distribuidor se pega y la consigna de la válvula proporcional queda fija esperando la acción del distribuidor , el ultimo evento en la regulación causa disparo de la unidad pero todos los eventos se observa la posición del distribuidor entre el 68 y 70 %. se verifican los lazos de posición del distribuidor y de la válvula proporcional los cuales se encuentran normalizados según programa:
+posición distribuidor 0.02 cierre 99.89 apertura 
+posición válvula proporcional 10.35 mAmp cierre 13.54 mAmp apertura~ acciones de la válvula en modo mantenimiento 
+además de monitoreo en los periodos de regulación del día 11-05-2016 en lo cual la unidad no presenta falla, se consulta con el personal mecánico para que este evaluó los esfuerzo que realiza el distribuidor en esta zona 68 y 70 %.
+La causa de la salida forzada fue pega mecánica en el distribuidor 
+
+Realizado por Wtobonl 
+terminada por parte electronica Cerrar

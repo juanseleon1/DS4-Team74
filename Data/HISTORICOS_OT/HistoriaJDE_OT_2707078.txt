@@ -1,0 +1,6 @@
+
+FECHA: FEBRERO 27 DE 2015
+
+RESPONSABLE: HENRY GIRALDO
+
+Se presenta falla por Feedback Switch G1 Top y no borra, fue necesario despegar manualmente el contactor 17K2, se aprovecha y se cambia la fuente 103A1 para descartar la falla por perdida de presión en los Tip´s, esta fuente alimenta las válvulas de este sistema, se deja en servicio y en observación.

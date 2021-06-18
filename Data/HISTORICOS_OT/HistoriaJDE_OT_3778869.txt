@@ -1,0 +1,18 @@
+MANTENIMIENTO ELECTRONICO CUATRIMIESTRAL 
+FECHA: 28/11/2018
+OT: 3778869
+
+
+PLANEADORA:SANDRA CARMONA
+
+PROGRAMADOR: BERNARDO  BEDOYA
+
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración, así se encontraron: AXL 7.97, CIPL 8.86, CIPR 8.61, se realizan ajustes, quedan calibrados así: AXL 8.39 VDC.
+ 
+Nivel de aceite se encontró en 495 mm, el nivel patrón es 500mm. 
+
+SE INYECTAN LAS SEÑALES
+
+  COJ INFERIOR °CPATRÓN °C METAL1 METAL 34039,940,36060,8 60,38080,4 80,3ALARMA 65,0 65,0DISPARO 70,0 70,0
+
+REALIZÓ: GRUPO ELECTRÓNICO

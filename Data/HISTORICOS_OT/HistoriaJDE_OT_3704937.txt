@@ -1,0 +1,15 @@
+
+2018/03/31 _ CARLOS ENRIQUE MONCADA. OT N° 3704937.
+
+SE EJECUTA MANTENIMIENTO A LOS TABLEROS TAT 7, 8, 9 y 10, Alumbrado Exterior Pórtico y vía Container 13.2 Kv.
+SE VERIFICA EL PLC QUE ESTE EN RUN, IHM. SE COMPRUEBA FUNCIONAMIENTO DEL SISTEMA, SE VERIFICAN MEDIDAS DE TEMPERATURA.
+
+EL SUBSISTEMA QUEDA EN CONDICIONES PARA LA OPERACION.
+
+Realizo:  Jesús Eladio Piedrahita, Julio Cesar Parra.
+
+----------------------
+
+2018/03/02 _ CARLOS ENRIQUE MONCADA. OT N° 3704937.
+
+Se crea OT para realizar Mantenimiento a los Tableros TAT 7, 8, 9 y 10, Alumbrado Exterior Pórtico y vía Container 13.2 Kv.

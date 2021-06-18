@@ -1,0 +1,15 @@
+FECHA: MAYO 23/2018PROGRAMO: DANIEL PALACIOSEJECUTO: CIVALCO LTDA.
+Se realiza limpieza y revisión de cableado.
+Se realizan pruebas de alarma y disparos y se encuentra todo en buen estado.
+Los dispositivos de detección, alarma y control del sistema contra-incendio de la unidad P33, se encuentra en condiciones óptimas de funcionalidad. Los cilindros de CO2 para protección de la unidad 3 superan el peso de 250 lbs, por lo cual están dentro de lo requerido. El contratista llena registros de mantenimiento: Inspección y prueba semestral al sistema contra incendio de la unidad 3, mantenimiento semestral de paneles de detección temprana de humo, Mantenimiento semestral de bancos de cilindros contenedores de dióxido de carbono (CO2), mantenimiento semestral de baterias de los gabinetes de control del sistema contra incendio (PCIZ).
+Trabajo ejecutado por: Contratista CIVALCO LTDA
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD
+
+FECHA: 23/05/2018
+PROGRAMADOR: DANIEL PALACIO
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

@@ -1,0 +1,11 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+  AGOSTO04/2016.  SERGIO OLIVARES D. 
+
+            CORRIENTES AC: R =  105 S =110   T =102               VOLTAJES VAC: RS= 445   ST=448   RT=445
+
+            Se encuentran  las temperaturas normal en el motor; el breaker de alimentacion a la entrada se tienen  las siguientes      temperaturas  R=61.2° C  S= 85.8 °C  T= 65.8°C, la fase S presenta alta temperatura, pero para cambiar el breaker se  necesita sacar el CCM5, parar media planta, queda pendiente para su cambio. Las temperaturas en el arrancador suave son  normales. Queda el el registro de la termografia en notas de equipo 1.
+  
+            
+            Ejecutores; Giovanny Díaz y Jhonatan Usme
+

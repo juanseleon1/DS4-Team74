@@ -1,0 +1,7 @@
+2015/12/12 JORGE GARZON - GIOVANNY DIAZ - RUBEN ARBOLEDA - PROGRAMO: RARBOLG OT:  2962575
+En la estación de operación salio alarma de incendio en el ccm3, se procedio a revisar se dio paro el ventilador S1, se encontró falla por sobrecalentamiento en la fase S a la entrada del arrancador suave, se evidención perdida de aislamiento, se verificó ajuste de los tornillos y se encontró que la fase S estaba muy suelta, se ajusto y se le dio arranque, luego se realizó inpeccion termografica y se enontró con temperaturas entre los 48 y 53 Grados, se deja así para realizar el cambio del cable de potencia el día de mañana. 
+
+2015/12/13 FERNANDO RUIZ - SEBASTIAN HINCAPIE PROGRAMO: FDIAZ OT: 2962575
+Se realizó el cambio de acometida de la fase S del ventilador S1, adicionalmente se realizó el cambio en la fase T del ventilador S2 que estaba en mal estado. 
+
+Se realizó prueba y se dejó en servicio normal. 

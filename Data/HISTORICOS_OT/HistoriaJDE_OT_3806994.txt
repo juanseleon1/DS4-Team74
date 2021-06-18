@@ -1,0 +1,16 @@
+
+07/02/2019 Víctor Zuleta / Luis Eduardo Arcila
+
+Se realizan las actividades:
+
+
+·Se prueba bloque del comando del deflector.
+ Calibración de agujas
+·Calibración al deflector.
+·Se cambiaron todos los micro filtros de las servo válvulas
+ se cambian condensadores de arranque de los dos ventiladores del intercambiador de aire. 
+·Limpieza de intercambiador de aire.
+·Limpieza general al tablero del regulador.
+·Se calibraron transductores de posición de los comandos de agujas y deflector.
+
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

@@ -1,0 +1,15 @@
+SOLICITANTE: OPERACIÓN TURNO 3FECHA: 21/09/2016
+
+Disparo de unidades Guadalupe 3 por nivel muy bajo
+
+21/09/2016
+Hora: 19:20                                                                                          
+Salen con paro rápido las seis unidades de Guadalupe 3 por muy bajo nivel en la bocatoma. El nivel llego a la cota 1678.80 ocasionando el disparo de las unidades.
+Hora: 19:21                                                                                          
+Salen las tres unidades de Guadalupe 4, por mando paro de emergencia debido a la salida forzada de la planta de Guadalupe 3.
+El evento ocasionó desviación en el programa de generación de 285 Mw/h., según información del CCG (Carlos G. Betancur). 
+Se generó solicitud de trabajo No. 3252106...
+
+SE HACE REVISION DE LA LOGICA DE CONTROL, SE AJUSTAN ESTOS DISPAROS, PARA QUE NO SE AFECTE LA FRECUENCIA, Y SE HAGAN DE FORMA ESCALONADA, ADEMAS DE REVISAR LOS NIVELES PARA APROVECHAR Y OPTIMIZAR AL MAXIMO EL AGUA...
+
+JUAN A. CAICEDO

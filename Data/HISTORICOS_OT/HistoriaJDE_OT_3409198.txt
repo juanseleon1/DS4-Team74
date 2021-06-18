@@ -1,0 +1,33 @@
+02/28/2017
+SOLICITANTE: RAMIRO A TORRES.
+
+SALE ALARMA DE VIBRACION RADIAL EN LA MOTOBOMBA CW7, HASTA 8.68 MM/SEG.
+2017/02/28 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba CW7 y se obtienen los siguientes resultados:  
+Sistema de medición (RMS)
+1 Horizontal X: 4 mm/seg
+1 Horizontal Y: 7.8 mm/seg
+2 Horizontal X: 1.78 mm/seg
+2 Horizontal Y: 2.98 mm/seg
+2 Axial V: 0.71 mm/seg
+Trabajo realizado por Fabio Herrera y Yesid Sánchez
+
+NOVIEMBRE 21 DE 2017 
+OT CERRADA 
+ANDRES RAMIREZ 02/28/2017
+SOLICITANTE: RAMIRO A TORRES.
+
+SALE ALARMA DE VIBRACION RADIAL EN LA MOTOBOMBA CW7, HASTA 8.68 MM/SEG.
+2017/02/28 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba CW7 y se obtienen los siguientes resultados:  
+Sistema de medición (RMS)
+1 Horizontal X: 4 mm/seg
+1 Horizontal Y: 7.8 mm/seg
+2 Horizontal X: 1.78 mm/seg
+2 Horizontal Y: 2.98 mm/seg
+2 Axial V: 0.71 mm/seg
+Trabajo realizado por Fabio Herrera y Yesid Sánchez
+
+NOVIEMBRE 21 DE 2017 
+OT CERRADA 
+ANDRES RAMIREZ 

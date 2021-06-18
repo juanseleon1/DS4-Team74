@@ -1,0 +1,10 @@
+
+2015-09-17. GUSTAVO MORALES
+Verificar las medidas de los segmentos carga y guía ya que es constante las alarmas de dichos elementos así: temp 1 coj emp gen 88.17°C. Temp 2 coj emp gen 86.34°C. temp3 coj emp gen 90.94°C. temp4 coj emp gen 86.20°C.
+Igualmente esta alarmado el aceite coj gen 1 con 72.14°c; pero es independiente la carga.
+
+2015/09/19 DIEGO BEDOYA
+Se realiza el lavado del intercambiador de calor del cojinete superior U6, la revisión de las cargas de los cojinetes de empuje, no se realizaron; debido a que para medir estas cargas es necesario un paro de unidad extenso.   
+
+
+

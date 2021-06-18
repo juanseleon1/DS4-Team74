@@ -1,0 +1,8 @@
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL MOTOR BOMBA # 2 RECIRCULACION ACEITE COJINETE UNIDAD 2 GUADALUPE 3.
+
+
+MARZO 14 DE 2018
+Se realizó mantenimiento electrico cuatrimestral al tablero de control, pruebas electricas de resistencia de aislmiento y verificación de voltajes y corrientes, sin ninguna novedad.
+
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASEGR - S445,2R29R7,3R10,9S - T443S27,5S6,4S10,9T - R446,8T28,7T6,6T10,9
+Programó: William Lopera.

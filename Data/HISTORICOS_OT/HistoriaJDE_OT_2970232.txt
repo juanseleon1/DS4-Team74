@@ -1,0 +1,20 @@
+PLANEADOR.OSCAR RESTREPO ALVAREZ
+22/12/2015
+
+SE PLANEAN LOS TRABAJOS PARA ENCONTRAR Y CORREGIR LA CAUSA, POR LA CUAL NO ENTRA EN AUTOMÁTICO LA PLANTA.
+
+
+PROGRAMADOR: WILLIAM LOPERA
+
+
+SOLICITANTE: OPERACIÓN G3 /TURNO 2
+
+FECHA: 22/12/2015
+
+LA PLANTA DIESEL NO ENTRA AUTOMATICAMENTE ANTE LA FALLA DE TENSIÓN EN LA BARRA DE 13.2 KV DE SERVICIOS AUXILIARES.
+
+NOTA: Esta OT. Se atendera cuando halla disponibilidad de probar los servicios auxiliares de la planta.
+
+AGOSTO 26 DE 2016.
+Debido a que cuando se abría el circuito principal 51-03 se iban los servicios auxiliares de la planta y la de emergencia no estaba entrando en modo automático, se revisa el sistema de control y se pudo notar que el interruptor Q01 no se estaba abriendo cuando había ausencia de tensión, por motivo que en las salidas digitales del relé K11 en los bornes del común y la salida D1 estaban puenteados por un hilo del mismo cable común lo que le indicaba engañando al PLC que había tensión en el alimentador del Q01, se corrige, se hacen pruebas de apertura del 51-03 y entra la planta de emergencia en modo automático, se normaliza el sistema y queda todo en condiciones normales.
+Informó: William Lopera.

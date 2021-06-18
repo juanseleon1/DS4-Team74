@@ -1,0 +1,9 @@
+
+MARZO 05/2014. Revisar el instrumento que supervisa la Valvula distribuidora, (Variometro).
+
+MARZO 06/2014.
+
+Se revisa y se cambia el  variometro de la válvula distribuidora por presentar inconsistencia en los voltajes de referencia en la medida  en el regulador de velocidad  en los bornes B67 Y B 68, se encontró defectuoso y contaminado de óxido, se realiza la calibración al nuevo instrumento quedando al 0% en 1.83Vcc y en posición abierta al 100% en 5.57Vcc, también se realiza los ajustes de voltaje a la tarjeta AMP2 para la posición del distribuidor quedando al 0% -8.03Vcc y al 100% +8.04, se le hicieron mandos directos, se verifico las medidas al  0%, 25%, 50%, 75% y 100%, respondiendo normal. Queda en observación para cuando este la unidad sincronizada a plena  carga.
+
+Realizo: Grupo electrónico.
+Informo: William Lopera

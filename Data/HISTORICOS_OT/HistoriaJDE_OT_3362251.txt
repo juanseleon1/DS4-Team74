@@ -1,0 +1,8 @@
+FECHA: 07/03/2017 OT # 3362251 PROGRAMO R JIMENEZ, EJECUTO OLGA VIANA
+SE REALIZA MANTENIMIENTO PREVENTIVO ELECTRICO SEGÚN INSTRUCTIVO, AL TABLERO DE CONTROL Y DE POTENCIA DEL CCM# 4, LIMPIEZA DE LAS BARRAJES DE POTENCIA, SE ENCUENTRA EN MAL ESTADO LOS INTERRUPTORES DE POTENCIA DE LAS BARRAS # 1 y 2, PENDIENTE EL CAMBIO, REPONE RELE DE BAJO VOLTAJE SEPAM 1000, POR PLOBLEMAS DE CONFIGUARCION.
+
+
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual del estado de las tapas, puertas y cerraduras, bornes de potencia, terminales, borneras, peinetas, conexiones de potencia y revisar el estado de los cables.Realizar limpieza general y aspirar las celdas de interruptores, transformador y seccionador.

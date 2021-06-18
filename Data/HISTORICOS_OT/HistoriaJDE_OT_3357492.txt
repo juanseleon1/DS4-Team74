@@ -1,0 +1,20 @@
+ENERO3 DE 2017
+
+REALIZAR CAMBIO DEL BANCO DE BATERIAS DE UPS DE TRONERAS.
+
+ENERO 3 DE 2017
+Se efectuó el cambio del banco de baterías de la UPS que sumistra y respalda la alimentación al sistema de control de las unidades de TRONERAS por diferentes problemas que se observaron, este se cambió por un banco que fue prestado por la central PORCE III. 
+
+Teniendo en cuenta este evento, se procedió a la compra de un banco nuevo con el distribuidor ENERGIA INTEGRAL ANDINA (baterías de 12V-100A/H) para ser instalado en dicha central. El día de ayer martes 03 de enero de 2017 fue instalado el nuevo banco realizando las siguientes actividades:
+
+ØSe realizó la respectiva consignación local de la planta y todos los respectivos bloqueos para realizar el trabajo con todas las normas de seguridad en coordinación con operación.
+ØSe tomaron medidas de voltaje en cada una de las baterías y en el banco como tal, para conocer el estado antes de su conexión a la UPS. 
+ØSe desconectó el banco existente y se conecta el nuevo banco, para la conexión de este se debieron hacer puentes nuevos ya que con los que vino eran muy cortos.
+ØSe conectó a la UPS y se normalizo todos los bloqueo, para verificar como respondía el equipo.
+ØSe realizó monitoreo por dos horas teniendo en cuenta la corriente, el voltaje y las temperaturas de las baterías y todo el equipo en conjunto (UPS).
+ØSe normalizo los monitores de visualización y de control en sala de operación.
+
+Después de verificar el buen funcionamiento del banco y la UPS, se deja en carga de igualación y se entrega a operación para que continúen con el debido monitoreo.
+Estos son los datos tomados del antes y después de la conexión:
+
+FECHA : 03/01/2017EQUIPO: BANCO DE BATERIAS TRONERASANTES DE CONECTAR DESPUES DE CONECTARCELDAS  VOLTAJE  CELDAS  VOLTAJE1 12.9 1 13.42 13 2 13.63 12.7 3 13.14 13 4 13.55 12.7 5 13.36 12.9 6 13.57 12.8 7 13.48 13 8 13.59 12.8 9 13.310 12.9 10 13.411 12.9 11 13.412 12.9 12 13.413 13 13 13.514 12.9 14 13.415 13.1 15 13.716 12.8 16 13.417 12.9 17 13.418 12.8 18 13.3V. BANCO232.3V. BANCO241.6I. BANCO 2.2 AUPSDATOS L1-L2 L1-L3 L2-L3V. ENTRADA 204 V. 200 V. 199 V.V. SALIDA207 V. 206 V. 206 V.I. ENTRADA R: 7.7 A. S: 7.7 A. T: 7.8 A.I. SALIDAR: 4.8 A. S: 5.2 A. T: 4.3 A.V. BATERIAS237 Vdc.

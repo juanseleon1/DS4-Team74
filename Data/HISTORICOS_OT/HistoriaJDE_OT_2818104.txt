@@ -1,0 +1,12 @@
+13/07/2015.  MAURICIO RUIZ.
+
+SE PRESENTA ALARMA DE MANTENIMIENTO POR HORAS DE OPERACION
+
+18/07/2015
+
+Se está gestionando compra de repuestos para mto de 8000 horas.
+
+Horas de servicio actual: 20190
+Horas de servicio de contador proximo manteniento: 22065 (se reprogramó para borrar la alarma pero está pendiente ejecutar el mto).
+
+Informó: Santiago Ramírez

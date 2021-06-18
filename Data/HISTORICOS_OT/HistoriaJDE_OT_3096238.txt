@@ -1,0 +1,12 @@
+01 DE AMAYO DE 2016
+Referente a la unidad # 2
+Se da paro rápido por fallas agrupadas DIGIPIP (regulador de velocidad), ruptura perno fusible. Se revisa la unidad y no se encuentra ningún perno roto, se dan condiciones y se lanza nuevamente el programa de sincronización. 
+Se carga la unidad con 135 MW
+
+02/05/2016
+Se realiza verificación de los disparos enviados por el regulador de velocidad lazos de control y de posición, además se verifica en el programa de la Unidad, solo se encuentra en las fallas consolidadas un evento por perno fusibles, se realiza verificación con el grupo mecánico y electrónico se justan los sensores de los alabes 10,11,1,4 y 6 se realiza filtro en el programa y queda en observación la unidad , Realizado Ing. Santiago y Walter Tobon
+queda puenteada esta señal de disparo alabes moviles hasta que los mecanico solucionen el problema de  vibracion en las bieletas de los alabes las cuales crean falsos movimientos y por ende disparos falsos
+Realizado por Wtobonl
+TERMINADA CERRAR
+
+

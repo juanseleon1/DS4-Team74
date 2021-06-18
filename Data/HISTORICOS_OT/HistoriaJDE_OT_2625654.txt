@@ -1,0 +1,31 @@
+
+
+GENERADOR ASINCRONICO
+No cierra el interruptor de 3.3 KV del generador asincrónico en su secuencia de arranque. Presenta paro de emergencia por sobrevelocidad al no cierre del interruptor cuando llega a la velocidad de 1200 RPM.
+
+2014/10/27
+
+Se realizó revisión en el control de cierre del interruptor del generador asíncrono encontrándose el relé de disparo y bloque 86 energizado, razón por la cual no permitía el cierre del interruptor al llegar a 1200RPM. Se debe acondicionar el control del PLC de manera tal que no permita el arranque del generador cuando se encuentre el relé 86 energizado.
+En una primera revisión se identificó que los contactos del rele 86 solo son para las condiciones de cierre y apertura del interruptor no se identificó contactos del relé 86 que lleguen  alguna D.I del PLC, se deberá cablear y programar.
+Adonis Cadavid, Victor Zuleta, César  Hoyos.
+2014/12/10 CÉASR HOYOS, VICTOR ZULETA
+Se lleva una señal de los contactos auxiliares del paro de emergencia general  “ S0”  ubicado en la celda W1 hasta la bobina  del relé de disparo y bloqueo 86E de manera tal que cuando se de pulso al paro de emergencia energiza el relé. Se utilizan dos contactos auxiliares del relé 86 uno para la entrada digital válvula bloqueada y el otro a una entrada de reserva para su programación; lo anterior para garantizar que cuando se energice el relé 86E no permita dar arranque al generador asíncrono evento que  ya ocurrió en días pasados parándolo por sobrevelocidad.
+Se realizan  las siguientes pruebas con operación a saber:
+üSe activa el relé de disparo y bloqueo 86E.
+üSe da orden de arranque remoto al generador y este no responde, aparece en las alarmas en operación válvula bloqueada.
+üSe da reset al relé de disparo y bloqueo 86E y se da nuevamente orden de arranque.
+üEl generador realiza la secuencia de arranque hasta cerrar interruptor.
+üFin satisfactorio de las pruebas.
+Con el trabajo realizado se pretende que cuando se energice el relé de disparo y bloqueo 86E no arranque el generador asincróno hasta que no se restablezcan las condiciones iniciales o la solución ante una falla eléctrica. Quedan los planos actualizados con las reformas que se ejecutaron.
+Queda pendiente la conexión y programación del otro contacto del relé 86E para que realice la misma función que se hizo con el cableado generando mayor seguridad en el sistema. Pendiente por realizar César Tulio Jimenez.
+2014/12/10 CÉASR HOYOS, VICTOR ZULETA, JHONSON GÓMEZ.
+Se adicionó señal del relé 86E a la entrada I22.4 en el FB20 del PlC, se corrigió en planos físicos lo que faltaba del programa que se descargó en la carpeta física del archivo 316.1. Se descargó programa y quedó guardado en el programa en la ruta D\STEP5 NEW\GASI14.
+Se realizaron pruebas en conjunto con operación verificando los cambios realizados, dando como satisfactorio los resultados.
+Se actualiza procedimiento de operación del programa S5.
+
+
+
+
+
+
+

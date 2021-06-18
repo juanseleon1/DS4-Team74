@@ -1,0 +1,4 @@
+SEP 4/2014 OT: 2589805 PROGRAMÓ: Javier Giraldo EJECUTÓ: Felipe Jaramillo.
+Se retiran cables de puestas a tierra de los equipos retirados en la modernización de Salto 1, ubicados en el exterior de la sub estación en la llegada de los circuitos de 115 KV de Guadalupe III.
+
+EN EL LADO EXTERIOR DE LA MALLA DEL PATIO, POR EL LADO DE LAS LINEAS QUE SUBEN DE GUADALUPE 3, HAY 15 COLAS DE COBRE PERTENECIENTES A UNAS TIERRAS SIN CONEXION DE ALGUNOS EQUIPOS QUE FUERON RETIRADOS. SE REQUEIRE RETIRARLAS O RECONECTARLAS PUESTO QUE SE LAS PUEDEN ROBAR.

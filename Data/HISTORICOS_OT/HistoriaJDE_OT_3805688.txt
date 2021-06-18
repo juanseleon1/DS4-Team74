@@ -1,0 +1,7 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 28-enero-2019
+Tipo de mantenimiento: Preventivo
+cambio de sensor de radiacion y de humedad y temperatura 
+
+descarga de datos .

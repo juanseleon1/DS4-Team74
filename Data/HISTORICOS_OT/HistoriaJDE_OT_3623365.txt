@@ -1,0 +1,9 @@
+MANTENIMIENTO GENERAL TABLERO CONTROL UNIDAD CENTRAL PORCE 2.
+
+FECHA: 30-09-2017 OT: 3623365, MTTO ELECTRICO   PROGRAMÓ: CRISTIAN GÓMEZ EJECUTÓ: JAIRO TORRES - DAVISON PEREZ
+SE REALIZÓ EL MANTENIMIENTO DE ACUERDO AL INSTRUCTIVO GCP2E0009. SE REVISAN TABLEROS DE CONTROL DE UNIDAD, GABINETE Y TRAFO 13.2/ 480, GABINETE Y TRAFO DE EXCITACIÓN, TIRISTORES E INTERRUPTOR DE CAMPO Y PRE EXCITACIÓN. SE HACE LIMPIEZA DE FILTROS SISTEMA DE FLUJO DE AIRE. MANTENIMIENTO GENERAL ELECTRICO A LOS TABLEROS, REVISIÓN DE CABLEADO Y REAPRETE DE TORNILLERIA. SE LIMPIAN VENTILADORES, SE REVISAN SENSORES DE FLUJO DE AIRE. NO SE ENCUANTRAN ANOMALIAS. 
+
+* 29-09-2017 Se inicia mantenimiento eléctrico al controlador unidad, los bancos de tiristores (1 y 2), Ventiladores, filtros, interruptor de campo y tableros auxiliares. Se limpian los bancos de tiristores y se realiza mantenimiento y limpieza sobre los ventiladores, filtros, rejillas del interruptor de campo. No se encuentran fallas ni componentes defectuosos.
+* 30-09-2017 Finaliza manteamiento a los bancos de tiristores, interruptor de campo, ventiladores y celdas auxiliares.  Durante el mantenimiento se observó poca presencia de aceite (Proveniente del RH) en los componentes de los bancos. Esto obedece a un sellado del ducto de cables por donde se filtraba el vapor de aceite hacia los equipos. Adicionalmente se cambian los empaques de neopreno que sellan la entrada de aire proveniente de los ventiladores tipo tambor [Parte superior de los bancos]
+Se realiza mantenimiento a los Trafos secos de Excitación y servicios auxiliares U3. No se encuentran fallas ni componentes defectuosos.
+* Se realiza reparación del mecanismo de accionamiento del interruptor de 630A (Reconstrucción en resina epóxica) correspondiente a los servicios auxiliares de la Unidad

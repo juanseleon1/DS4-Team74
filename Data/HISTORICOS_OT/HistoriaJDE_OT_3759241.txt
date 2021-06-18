@@ -1,0 +1,7 @@
+XL: REVISAR Y LIMPIAR REGULADOR DE TENSIÓN.
+
+20-09-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+PROGRAMADOR: JOSÉ MONTOYA.
+Se realizó limpieza, inspección visual y se revisaron las borneras de control de los diferentes tableros del regulador de tensión. Se realizó mantenimiento a los filtros de aire de cada tablero.
+Se revisó el estado de los sensores de vibración.

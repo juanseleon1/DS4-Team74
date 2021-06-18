@@ -1,0 +1,14 @@
+Se canceló porque está hecha en la OT: 3488463.
+
+Planeador:                           Hernando Alonso Castrillón T.
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              22/05/2017
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación de sistema de transmisión
+              Verificación del nivel de mira vs. sensor

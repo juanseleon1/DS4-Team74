@@ -1,0 +1,86 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-04 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704921, PASO:1          
+Se realizó acople de puentes grúa para extracción de rotor de la Unidad 7
+
+2018-04-04 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704921, PASO:2          
+Se apoyo al personal de mantenimiento mecánico para acoplas vigas del puente grúa para extraer rotor de la Unidad 7
+
+2018-04-04 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704921, PASO:3          
+Se realizó apoyo al personal de mantenimiento mecánico para acoplar viga de los dos puentes grúa a dispositivo para extracción de rotor. (enganchar Rotor)
+
+2018-04-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:4          
+Se realizó movimiento del rotor de la Unidad 7 en apoyo con el personal de mantenimiento mecánico, tareas realizadas: 
+Levantar el Rotor, se hicieron pruebas y se instaló soportes en los gatos de frenado para amortiguar el rotor en caso de un deslizamiento mecánico. 
+Señalizar y restringir el acceso a personas que no hacen parte de la actividad. 
+Trasladar el rotor; desde la unidad 7 hasta la sala de montajes
+Anclar Rotor a dispositivo en sala de montajes
+Desenganchar rotor de la viga de acople
+Desacoplar viga de ambos puentes grúa
+Desacoplar pines y modo tándem de los puentes grúa
+
+2018-04-05 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704921, PASO:5          
+Se realizó montaje de plataformas angulares al andamio del rotor y se instaló el acceso a la parte superior del rotor (puente).
+
+2018-04-05 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704921, PASO:6          
+Se realizó pruebas de caída de tensión en AC con rotor de la Unidad 7 sucio, se aplicó 70 Voltios, promedio por cada polo: 5 Voltios. 
+
+2018-04-05 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3704921, PASO:7          
+Se realizó pruebas de caída de tensión en DC con rotor de la Unidad 7 sucio, 14 Voltios con soldador, 1 voltio en promedio por cada polo, corriente 150 amperios. 
+
+2018-04-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3704921, PASO:8          
+Se realizó desmontaje de aislamientos de las uniones polares de: 
+Unión Polo 1-2: Inferior
+Unión Polo 2-3: Superior
+Con el fin de enviar a fabricar para el cambio de aislamientos de todo el rotor. 
+Se encontró muy deterioradas principalmente las de la unión inferior.
+
+2018-04-09 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:9         
+ Se realizó pruebas de caída de tensión en AC y DC a los polos del rotor de la Unidad 7, adicionalmente se despintó puntualmente las bobinas de los polos 1 y 2 para realizar caída de tensión AC y DC por espira, ya que éstos polos presentan desprendimiento de papel,
+
+2018-04-10 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:10         
+Se realizó una revisión general al rotor de la Unidad 7 y se realizó un registro fotográfico de éstos polos, en general se identificó que el papel está muy largo en las bobinas, se recomienda recortas éstos papeles y pintar con aerosol para aislamientos.
+
+2018-04-14 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:          
+Se desconectó el rotor después de ponerlo a calentar la noche anterior, se realizó medida de aislamiento con resultado de 4.64 G, se dejó desconectado en el día.
+Antes de finalizar la jornada laboral se realizó la conexión nuevamente con uno de los soldadores (150 A), el otro soldador presento una falla.
+
+
+2018-04-16 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:11         
+ Se realizó desconexión del rotor y medida de aislamiento con resultado: 
+6,25Gohm, se deja desconectado en el día. 
+
+2018-04-17 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:12          
+Se retiraron los aislamientos de las uniones polares del rotor de la Unidad 7 con el fin de realizar mantenimiento y cambio de éstos aislamientos, debido a que las uniones polares quedan desconectadas, no se puede poner a calentar el rotor en las noches
+
+2018-04-19 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3704921, PASO:13         
+Se realizó la limpieza de las uniones polares del rotor de la unidad 7, con el fin de montar aislamientos y proceder con el armado, para esto se limpió cada una de las laminillas de las terminales.
+
+2018-04-20 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704921, PASO:14          
+Se realizó limpieza y pintura de los aislamientos para las uniones de los polos del Rotor de la Unidad 7, para montarlos.
+
+2018-04-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704921, PASO:15          
+Se realizó el proceso de armado de las uniones polares del rotor de la Unidad 7.
+
+2018-04-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704921, PASO:16          
+Se conectó el soldador y se dejó calentando el Rotor de la Unidad 7, aislamiento antes de calentar 1.8GOhm
+
+2018-04-21 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704921, PASO:17          
+Se desconecto el soldador y se midió aislamiento con un valor de 3.8 GOhm
+
+2018-04-21 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704921, PASO:18          
+Se realizó verificación del torque de todas las uniones polares así: 
+Torque entre terminal inferior (Laminillas) y Soporte: 100 Lb/ft
+Torque de tornillo de sujeción terminal inferior: 107 Lb/ft
+El apriete de la terminal superior no tiene torque se ajustó a fuerza. 
+Se pinaron todas las chapetas de los tornillos y todos los tornillos quedaron con Loctite Traba roscas
+Se realizó pintura de las terminales superiores e inferiores con barniz en aerosol
+Se realizó cambio de las baquelitas de soporte del barraje pasante del ventilador, se presentó dificulta con éstas baquelitas para el proceso de armado, fue necesario rectificar la rosca con machuelos. 
+
+
+2018-05-21 REALIZÓ: FERNANDO ANTONIO RUIZ - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704921, PASO:21          
+Se realizó medida de aislamiento al rotor de la Unidad 7, para verificar su estado, se retiraron las escobillas se medió de la siguiente manera: 
+Inyección voltaje 500 VDC por anillo superior - Aislamiento = 6.07 M con voltaje  en prueba de 514 VAC
+Inyección voltaje 500 VDC por anillo inferior  - Aislamiento =  6.37 M con voltaje  en prueba de 504 VAC
+Temperatura promedio = 25.5°C ( se tomaron 4 medidas y se promediaron )

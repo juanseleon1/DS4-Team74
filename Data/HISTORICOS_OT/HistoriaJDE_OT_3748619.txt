@@ -1,0 +1,23 @@
+MP ANUAL, EQUIPOS:
+
+2281 BANCO TRANSFORMADOR 1 C/M G3
+2282 BANCO TRANSFORMADOR 2 C/M G3
+2283 BANCO TRANSFORMADOR 3 C/M G3
+2284 BANCO TRANSFORMADOR 4 C/M G3
+2285 BANCO TRANSFORMADOR 5 C/M G3
+2286 BANCO TRANSFORMADOR 6 C/M 
+
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+
+PLANEADOR:CESAR AUGUSTO GIRALDO.
+
+PROGRAMADOR:BERNARDO BEDOYA
+
+MANTENIMIENTO ELECTRONICO PREVENTIVO ANUAL
+10/08/2018
+
+Se realizó limpieza externa al tablero del sistema contra-incendio del transformador.
+se realizó inspección visual, limpieza y verificación a los sensores de temperatura fase R-S-T y las caratulas de los termómetros. también se realizó limpieza a los termo pozos de los termómetros.
+Se realizó limpieza a las RIO asociadas a los trafos. Se reapretaron bornes del tablero de control de los trafos y se verificaron las alarmas y disparos inyectando temperatura con el baño térmico a cada uno de los instrumentos de temperatura del transformador, también se realizó una prueba de imagen térmica a los termómetros de los devanados y respondieron correctamente. 
+
+REALIZO: GRUPO ELECTRÓNICO.

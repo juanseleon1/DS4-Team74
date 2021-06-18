@@ -1,0 +1,3 @@
+FEBRERO 10/2019 OT: 3810429  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta falla por comunicación, usando el Diag+ se observa falla en 4,0 0DC16, se realiza la inspección en la Top Box y se encuentra desconectada la alimentación del módulo convertidor de fibra óptica (el módulo estaba colgando y el movimiento causo la falla) se conecta de nuevo el conector y se amarra el módulo, se deja en servicio el aerogenerador.

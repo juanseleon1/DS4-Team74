@@ -1,0 +1,16 @@
+FECHA: JUNIO 02 DE 2016 OT 3133646
+
+EJECUTANTE: HGIRALRI
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por baja presión en los Tip's y falla en los sensores de la corona de la yaw, se observa en la Bottom Box disparado el Breake 20F2, se repone y se da Reset y las presiones y las posiciones de los sensores de la corona responden adecuadamente, se escucha ruido en el motor de la yaw que está al lado de la caja multiplicadora, se ensaya un nuevo giro y se siente pegado, se deshabilita este motor y se deja en servicio el aerogenerador con 2 motores de giro de yaw.
+
+
+
+FECHA: JUNIO 15 DE 2016 OT 3133646
+
+EJECUTANTE: HGIRALRI Y PROBAYO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se encuentra disparado el minibreker20F2 del AG6  este corresponde a la alimentación 440 V y se encuentra un módulo de la parte de potencia de la yaw fallado se hace el cambio y se deja el AG en servicio con los tres motores de la yaw en funcionamiento.

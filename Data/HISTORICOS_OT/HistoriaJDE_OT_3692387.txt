@@ -1,0 +1,12 @@
+MANTENIMIENTO PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III
+
+PLANEADOR:GABRIEL TAMAYO
+
+PROGRAMADOR: WILLIAM LOPERA
+
+MARZO 14 DE 2018
+Se realizó el mantenimiento según instructivo GCG3E0009.
+Se realizaron pruebas de resistencia de aislamiento a los anillos Rozantes.
+
+Voltaje Aplicado Voltaje Recibido Valor resistenciaAntes 500 500 819 MDespués 500 502 2.4 G
+Ver registros en el archivo de Guadalupe III, No se cambió ninguna escobilla.

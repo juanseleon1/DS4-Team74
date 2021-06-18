@@ -1,0 +1,9 @@
+PLANEADOR: BIANEY BRAVO VALENCIA JULIO 09/2015
+
+PRUEBAS CID Y RING TEST 
+
+SEPTIEMBRE 26 DE 2015.
+
+Se realizaron las pruebas de Ring tes y del CID al nucleo estator, se hizo la prueba del CID al estator despues del cambio devanado dando buenos resultados, las pruebas se encuentran en la carpeta de pruebas del mantenimiento mayor G31.
+
+William Lopera

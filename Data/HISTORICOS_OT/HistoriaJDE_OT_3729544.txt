@@ -1,0 +1,7 @@
+JULIO 18  DE 2018     OT NÚMERO: 3729544     PROGRAMÓ: JGUINGUL     EJECUTARON: ANDRÉS YEPES Y ALEXANDER VILLA
+SE INYECTÓ SEÑAL DE TEMPERATURA, SE VERIFICÓ ALARMA Y DISPARO, SE REALIZÓ AJUSTE, TODO SE ENCUENTRA EN NORMAL FUNCIONAMIENTO.
+
+Temperaturas de: Núcleo Estator Equipo 20°C 40°C 60°C 80°C 100°C 120°CTemperatura 1 18.75 38.74 58.72 78.71 98.80 118.68Temperatura 2 18.86 38.84 58.83 79.96 98.91 118.89Temperatura 3 18.75 38.74 58.62 78.71 98.69 118.68Valor programado Alarma:92°CValor programado Disparo:97°CComentarios:Sin novedadesTemperaturas de: Devanado EstatorEquipo 20°C 40°C 60°C 80°C 100°C 120°CFase R 18.21 37.88 58.19 78.17 98.16 118.14Fase S 18.32 38.31 58.29 78.39 99.26 118.36Fase T 18.43 38.42 58.40 78.49 98.48 118.46Valor programado Alarma:92°CValor programado Disparo:97°CComentarios:Sin novedades 
+
+
+

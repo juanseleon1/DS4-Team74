@@ -1,0 +1,9 @@
+20/08/2017
+Abad De Jesus Ramirez Giraldo.
+Transformador TSA2 servicios auxiliares tiene un ventilador fallado con vibracion y ruido anormal, se le informo a 
+Sergio Olivares.
+
+22/08/2017. SERGIO OLIVARES D. 3573149. - EJECUTORES: EDWAR LONDOÑO O. - JHONATAN USME Q.
+Se encontro el blower del lado izquierdo de la salida de 480 VAC, reventado del acople del motor. Los mecánicos  
+realizaron la reparación del blower realizando un nuevo acople; se realizo cambio de balineras a los cuatro motores de los ventiladores y se dejo en servicio normal.Los ventiladores quedaron en automático, arrancando en 60°C y  
+parando en 50°C.

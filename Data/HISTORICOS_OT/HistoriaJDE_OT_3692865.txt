@@ -1,0 +1,15 @@
+DOMINGO 26 FEBRERO/2018
+
+UNIDAD 2 TCU (PAS RESPALDO) 
+SE ENCUENTRA FALLA EN EL CONTROL DE UNIDAD  PAS U2  RESPALDO, SE CORROMPE EL SISTEMA OPERATIVO FUE NECESARIO FORMATEAR E INSTALAR EL SISTEMA CON UN BACKUP, LA UNIDAD QUEDA OPERATIVA Y CON LOS DOS PAS SINCRONIZADOS Y OPERATIVOS
+REALIZO: WALTER TOBON
+INFORMO. TURNO 1 DE OPERACION
+
+26/02/2018
+Unidad 2 PAS respaldo, se instala un nuevo PAS para este sistema, se configura de nuevo la aplicación de comunicaciones y queda con la redundancia activa en el protocolo IEC104. Pendiente realizar pruebas con este sistema.
+
+Realizado por Wtobonl
+
+terminada cerrar 
+
+

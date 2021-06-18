@@ -1,0 +1,21 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica del servomotor de la válvula esférica de la unidad 3 de Guadalupe 4
+
+
+
+Programador: Camilo Montagut - 17/07/2018
+
+Se realiza la adecuación mecánica del servo de la válvula esférica teniendo en cuenta el antecedente de que este mismo no cerraba completamente al momento de darle paro a la unidad y por tal motivo se presentaban fugas en la válvula de admisión que directamente impactaban en el distribuidor de la misma unidad.
+
+La decuación mecánica relacionós siguientes tareas ejecutadas:
+
+- Desmonte, limpieza e inspección de todas las piezas y equipos
+- Control dimensional y corrección mecánica en la camisa y el pistón
+- Cambio de empaques de labios (chesterton)
+- Adecuación mecánica en la tapa superior
+- Reparación de la brida principal
+
+Hasta el momento no se han presentados inconvenientes al momento de cierre de la válvula esférica sin embargo se continuará realizando control en la misma
+
+Ejecuta: equipo mantenimiento mecánico UOG
+
+

@@ -1,0 +1,4 @@
+FECHA: OCTUBRE 21/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: FREDY ECHEVERRI.
+Se realiza mantenimiento a los tableros de control y a los tableros de protecciones de la U3/P3, segun procedimiento de la OT, se cambian dos bombillas en los tableros.
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

@@ -1,0 +1,2 @@
+2018/09/27 RUBEN ARBOLEDA
+OT creada para realizar pruebas eléctricas al estator de la Unidad 3, para realizar desarme de barraje de salida y neutro, medida de IP, resistencia ohmica y armado de barrajes.

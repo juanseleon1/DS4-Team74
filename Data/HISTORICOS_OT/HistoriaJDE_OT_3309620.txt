@@ -1,0 +1,15 @@
+2016/11/10 RUBEN ARBOLEDA
+A solicitud del grupo de mantenimiento mecanico se deb desconectar la motobomba CW10, con el fin de hacer una intervension por parte de éste grupo. 
+
+2016-11-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3309620, PASO:1          
+realizó desconexión de elementos eléctricos de la motobomba CW10 a solicitud del grupo de mantenimiento mecánico, queda pendiente conectar.
+
+2016-12-03 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3309620, PASO:2          
+Se realizó conexión de elementos eléctricos de la motobomba CW10 a solicitud del grupo de mantenimiento mecánico. Se dejó en condiciones normales2016/11/10 RUBEN ARBOLEDA
+A solicitud del grupo de mantenimiento mecanico se deb desconectar la motobomba CW10, con el fin de hacer una intervension por parte de éste grupo. 
+
+2016-11-10 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3309620, PASO:1          
+realizó desconexión de elementos eléctricos de la motobomba CW10 a solicitud del grupo de mantenimiento mecánico, queda pendiente conectar.
+
+2016-12-03 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3309620, PASO:2          
+Se realizó conexión de elementos eléctricos de la motobomba CW10 a solicitud del grupo de mantenimiento mecánico. Se dejó en condiciones normales

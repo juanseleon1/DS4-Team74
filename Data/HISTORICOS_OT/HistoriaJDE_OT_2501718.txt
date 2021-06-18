@@ -1,0 +1,5 @@
+
+XM: VERIFICAR, LAVAR Y AJUSTAR EL COJINETE INFERIOR DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 13/05/2014 CONSIGNACIÓN @C0098560 - OT: 2501718
+Se realiza según procedimiento. Se verifica su nivel el cual se encontró en el instrumento digital en +1 mm y en el instrumento análogo en 0. Se verifica el nivel en la tapa superior de la cuba del cojinete combinado el cual se encontró en +11 mm. Este nivel es el que fue dejado por los fabricantes de TOSHIBA. Se encuentran pedazos de empaque en el filtro del subsistema N° 1 el cual se presume que es donde asienta la lenteja de la válvula motorizada de entrada al filtro. Queda pendiente su cambio cuando se consiga dicha válvula o se compre el empaque de esta. Es importante tener en cuenta que se debe colocar a trabajar este subsistema ya que si se pone a trabajar el subsistema N° 2 puede perder flujo porque al cerrar esta válvula motorizada no sella el paso de aceite.

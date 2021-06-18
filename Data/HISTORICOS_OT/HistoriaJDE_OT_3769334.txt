@@ -1,0 +1,16 @@
+MP ANUAL, EQUIPOS:
+2490 ESTACION HIDRAULICA U4 G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: O2/10/18
+
+se realiza una verificación con calibrador de presión Fluke a los transmisores de presión del circuito hidráulico.
+Se verificaron los lazos de control de los inyectores N°1 N°2, N°3 Y N°4, se realizan movimientos de apertura al 100%, al 75%, al 50% y al 25% y respondieron correctamente.
+
+
+PROGRAMADOR: LUIS CARDONA
+
+

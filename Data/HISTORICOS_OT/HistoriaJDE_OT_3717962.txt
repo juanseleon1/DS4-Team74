@@ -1,0 +1,9 @@
+2018/06/03 _ CARLOS ENRIQUE MONCADA. OT N° 3717962.
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación al cableado y tablero de instrumentación, todo se encuentra dentro de los parámetros normales y operativos. 
+Se encuentra desconectado el cable P4 que comunica la IHM; igualmente desconectado la fibra optica del HPLC- 04.
+
+Realizo: Julio Cesar Parra, Neiro Fabian Pérez.
+
+
+XL: LIMPIAR Y VERIFICAR EL CONTROL LUBRICACION TCBA FORZADA DE LA UNIDAD 4 P3.

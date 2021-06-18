@@ -1,0 +1,2 @@
+2016-11-03 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3297276, PASO:1          
+Se realizó mantenimiento al extractor E6 con los siguientes resultados: CORRIENTE: R:1, S:1, T:1,1, VOLTAJES RS:459, ST:461, TR:459,AISLAMIENTO DE MOTOR: 851 M Se realizó limpieza general al motor.

@@ -1,0 +1,6 @@
+FECHA: OCTUBRE 21 DE 2016
+
+EJECUTANTE: HENRY GIRALDO 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla en el LPC del AG9, se revisa y se encuentra recalentamiento en uno de los puntos de conexión del conector de la fuente, se le retira el conector al LPC del AG10 que se encuentra en subestación, se realiza la prueba, pero continua el problema, se coloca una de las fuentes nuevas y se deja en servicio el LPC.

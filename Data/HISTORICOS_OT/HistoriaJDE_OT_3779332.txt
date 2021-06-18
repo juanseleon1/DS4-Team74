@@ -1,0 +1,29 @@
+2018/11/26 _ CARLOS ENRIQUE MONCADA. OT N° 3779332.
+
+XL: VERIFICAR Y LIMPIAR CONTROL TRANSFORMADOR POTENCIA FASE S BCO2 P3.
+
+INFORME MTTO BIENAL BANCO DE TRANSFORMADORES No 2 NOVIEMBRE 2018
+Referente al Banco de Transformadores de Potencia No 2 de Porce 3:
+A las 17:18 Se entrega en operación en banco de transformadores No 2, después de realizar el mtto bienal.              
+Trabajos realizados:
+ Inspección eléctrica y mantenimiento preventivo bienal del banco de transformadores de potencia, transformadores secos de excitación de Porce 33 y Porce 34 y de auxiliares TA-02, fases R, S y T.
+ Lavado de aisladores poliméricos en las torres No 1, 7 y 8 de 500 kv. (Cuadrillas de mtto líneas de TyD).
+ Lavado de terminales poliméricas exteriores a 500KV fases R, S T y cable de reserva. (Cuadrillas de distribución Centro, con canasta de línea viva).
+ Pruebas de disparos transferidos DDT del banco de trafos, GIS interior y terminales exteriores en SF6. A las 14:10 Se inicia consignación C0161455, disparados transferidos S/E 500 kV, desde el Banco 2 de Casa de Máquinas.
+ Mantenimiento semestral eléctrico, electrónico.
+ Metrología del banco.
+ Inspección de la calidad del gas SF6 en terminales exteriores a 500KV y de las GIS interiores de transformador lado de alta. (Cuadrillas de mtto subestaciones de TyD).
+ En buje de alta de transformador fase R, realizar seguimiento por pequeña fuga de aceite en la brida del pasatapa.
+ Consignación No @147761, OT 3774281.                                                                                   Informó: 
+Jefe De Trabajo: Luis Federico Álvarez A.
+Líderes Y Tecnólogos: Daniel Palacios, Néstor Ochoa, Carlos Moncada, Walter Tobón, Cristian Gómez, Richard Jiménez.
+
+2018/11/26 _ CARLOS SÁNCHEZ.
+BAJO ESTA OT SE REALIZA EL MANTENIMIENTO BIENAL AL EQUIPO TENIENDO EN CUENTA EL PROCEDIMIENTO GCP3L0016. 
+-SE REALIZA VERIFICACIÓN DEL CABLEADO Y CONEXIONADO DEL TABLERO DE CONTROL
+-SE VERIFICA LA MEDIDA DE TEMPERATURA EN LA FUENTE TE-014 ENCONTRÁNDOSE EN 119.1 OHMIOS
+-SE REALIZA VERIFICACIÓN DEL CABLEADO EN GENERAL DE LAS RTD´S, FLUJOMETROS, (CONECTORES) Y SE VERIFICA QUE NO EXISTAN FUGAS EN TUBERÍAS E INSTRUMENTOS
+-LA PARTE ELÉCTRICA DE LAS VÁLVULAS MOTORIZADAS SOLO SE REALIZA VERIFICACIÓN VISUAL YA QUE EN MANTENIMIENTOS ANTERIORES SE REALIZA SELLO A LAS TAPAS PARA IMPEDIR FILTRACIONES DE AGUA.
+-LA VALVULA VX007 SE ENCUENTRA FALLADA, SE PROCEDE A ABRIRLA PARA VERIFICAR LOS MICROSUICHES Y APARENTEMENTE SE ENCUENTRAN PEGADOS YA QUE AL ACCIONARLOS INMEDIATAMENTE CONFIRMA LA APERTURA Y PERMITE BORRAR LA FALLA, SE REALIZAN VARIAS PRUEBAS DE APERTURA Y CIERRE PARA VERIFICAR SU FUNCIONAMIENTO EL CUAL ES SATISFACTORIO.
+-SE REMPLAZA EL CONVERSOR DE LA IHM POR UNA FUENTE DE COMPUTADOR DE 12 VOLTIOS YA QUE EL DE LAIHM SE ENCONTRO FALLADO. EL EQUIPO QUEDA OPERANDO EN CONDICIONES NORMALES.
+

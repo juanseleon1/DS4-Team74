@@ -1,0 +1,4 @@
+MANTENIMIENTO PREVENTIVO MECANICO REGULADOR HIDRAULICO GUADALUPE 3
+
+Se cambio actuador hidráulico ED 25 al inyector 4 por problemas en el cierre.
+Una vez montado el nuevo actuador se realizaron pruebas de apertura y cierre observando normalidad en los movimientos

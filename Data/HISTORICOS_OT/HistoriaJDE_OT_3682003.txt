@@ -1,0 +1,23 @@
+FECHA: 03/02/2018 OT # 3682003 PROGRAMO R JIMENEZ, EJECUTO OSCAR MONTOYA
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+Se corrige falla de aislamiento de cable cenectado al tablero TD-02, este cable presenta fatiga y en combinacion con gotera se presenta la anomalia, se hace reaislamiento del cable, se mete de nuevo la carga al TD-02 y funciona correctamente
+
+Sabado 03 Febrero 2018 
+
+
+Reporte del evento:
+
+
+Referente a los CHILLER:
+
+Se observa fogonazo y chispas en la caverna de los chiller ocasionando apertura en el interruptor ,el interruptor Q11 que alimenta el  (TD-02) y Q2 del TD-02. se hace inspección y revisión en tableros y bombas de los chiller evidenciando humo y olor a cortocircuito. se encontró breaker del paro automático N°2 del banco de condensadores disparado.
+Se bajan las cargas conectadas en el TD - 02 para intentar aislar la falla. para normalizar el TD-02 Se meten interruptores de una a una hasta quedar  normalizadas las cargas en su totalidad sin haber indicios de la falla.
+Informo: Turno 1 de operación.
+
+
+Correccion de la falla: 
+Referente al tablero TA- 02:
+Se corrige falla de aislamiento de cable cenectado al tablero TD-02, este cable presenta fatiga y en combinacion con gotera se presenta la anomalia, se hace reaislamiento del cable, se mete de nuevo la carga al TD-02 y funciona correctamente.
+Realizo: Equipo Eléctrico. y Jorge Peñaranda
+Informa: Richard Jiménez.

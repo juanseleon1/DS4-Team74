@@ -1,0 +1,11 @@
+
+EJECUTÓ:CESAR TULIO / LUIS EDUARDO ARCILA
+FECHA:2017/10/11 OT:3623176
+Sale en el despliegue de alarmas todas las señales asociadas a los bancos de transformadores.
+Se revisa y se encuentra modem DSTC452  y módulo remoto de entradas digitales DSDI451 en falla 
+Se cambia el modem por uno de repuesto y se cambia fusible al módulo remoto 
+Queda bajo observación el funcionamiento de este equipo.
+
+
+
+

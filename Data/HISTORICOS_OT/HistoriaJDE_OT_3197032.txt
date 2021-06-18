@@ -1,0 +1,52 @@
+
+
+ 02/08/2016. SERGIO OLIVARES D.
+
+ Se dispara el breaker principal.
+ Se midio aislamiento entre el breaker principal de alimentación y el cubiculo de control, obteniendose:
+
+ Fase R: 1.28 M
+ Fase S: 0.66 M
+      Fase T: 0.67 M
+
+ Se observa que el asilamiento en las fase S y T, esta muy bajo, aproximadamente debe ser de 1.5 M.
+ Cualquier sobretension que se presente,saca de servicio el breaker alimentador.
+
+ Se midio aislamiento entre el cubiculo de control y el motor incluido, obteniendose.
+
+ Fase R: 4.47 M
+ Fase S: 5.47 M
+      Fase T: 5.10 M
+
+ Estado del motor y las líneas: normal.
+
+
+
+
+
+
+
+ 02/08/2016. SERGIO OLIVARES D.
+
+ Se dispara el breaker principal.
+ Se midio aislamiento entre el breaker principal de alimentación y el cubiculo de control, obteniendose:
+
+ Fase R: 1.28 M
+ Fase S: 0.66 M
+      Fase T: 0.67 M
+
+ Se observa que el asilamiento en las fase S y T, esta muy bajo, aproximadamente debe ser de 1.5 M.
+ Cualquier sobretension que se presente,saca de servicio el breaker alimentador.
+
+ Se midio aislamiento entre el cubiculo de control y el motor incluido, obteniendose.
+
+ Fase R: 4.47 M
+ Fase S: 5.47 M
+      Fase T: 5.10 M
+
+ Estado del motor y las líneas: normal.
+
+
+
+
+

@@ -1,0 +1,22 @@
+2014/01/31 ANGEL ADONIS CADAVID - MAURICIO QUIJANO 
+OT CREADA PARA REVISAR PUNTO CALIENTE EN CCM1 REPORTADO POR EL OPERADOR JORGE GARZON.
+
+2015/02/14 GIOVANNY DIAZ - CESAR HOYOS - RUBEN ARBOLEDA
+Se realizo el cambio de interruptores, con el fin de identificar si la falla es en el acople da la barra o en el interruotor, se instalo en la barra 2, el interruptor de la barra 1. 
+
+Se deja en prueba de funcionamiento
+
+2015/02/16 MANTENIMEINTO CORRECTIVO - GRUPO MANTENIMEINTO ELECTRICO OT: 2687951
+Se realiza mantenimiento correctivo al (Q1) el cual se encontro con mucha sulfatación en los
+contactos de potencia. La temperatura en la fase R en la entrada del BREAKER (Q1) queda en el nivel 1 de los
+parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 10°C, las temperaturas en las fase S y T rebajan considerablemente mejorando su operación.
+
+TEMPERATURAS ANTES 
+FASE R = 150'9°C
+FASE T = 107.9°C
+FASE S = 130.3°C
+
+TEMPERATURAS DESPUES DEL CORRECTIVO
+FASE R = 57.8°C
+FASE S = 56.3°C
+FASE T = 47.7°C

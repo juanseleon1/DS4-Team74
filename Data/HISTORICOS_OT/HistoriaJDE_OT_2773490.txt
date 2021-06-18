@@ -1,0 +1,12 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+04/06/2015.
+MANTENIMIENTO PREVENTIVO SEMESTRAL ELECTRONICO
+
+Se realizo mantenimiento según instructivo, no se encontró novedades, se inyectaron  con el calibrador de procesos los transmisores de temperatura Aceite 1, segmento  Guía 1 y segmento Guía  3  y se verificaron sus puntos de alarma y disparo y respondieron correctamente.
+El nivel de aceite se encontró en 219.5 mm su nivel patrón es de 220 mm. En la referencia mecánica se encontró en su valor normal.
+
+VIBRACIONES.
+CTL:20.43 VDC Se ajustó y quedo en 8.99 VDC
+CTP:9.35VDC
+

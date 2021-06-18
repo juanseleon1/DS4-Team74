@@ -1,0 +1,9 @@
+
+
+2018/04/29 OT:3731142  Victor Zuleta / Luis Eduardo Arcila
+Se realizan pruebas de activación de alarma de sobrepresión en transformadores del banco 4.
+Se realiza prueba de activación de estaciones manuales activando los solenoides de nitrógeno y de CO2.
+
+2018/04/30 OT:3731142 Oscar Giraldo/ Juan David Garcia / Luis Eduardo Arcila
+Se realizan pruebas de activación de solenoides de nitrógeno y CO2 desde los sensores de humo y temperatura con resultados de funcionamiento normales.
+Se normaliza el sistema y se deja operativa.

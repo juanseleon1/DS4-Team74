@@ -1,0 +1,10 @@
+2017/01/13. 
+SE GENERA ESTA OT PARA REVISAR FALLA EN LA MEDIDA DE NIVEL DE LA PRESA PORCE 3 
+
+15/01/2017
+
+se realiza verificacion de la medida nivel presa, se encuentra porblemas en la indicacion del sensor o sonda y se realiza verificacion de los lazos, se encuentra falla en la medida del transductor Y1 se cmabia este elemento y se ajustan las indicaciones local en el panel y remota en el sistema SCADA.
+
+Realizado por Wtobonl
+
+terminada cerrar 

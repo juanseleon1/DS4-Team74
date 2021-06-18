@@ -1,0 +1,21 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 07/04/2017
+
+MANTENIMIENTO PREVENTIVO A TRANSFORMADOR, VERIFICAR FUNCIONAMIENTOS DE ELEMENTOS ELECTROMECANICOS Y MODIFICACIONES
+
+NOTA: ELABORAR PERMISO DE TRABAJO POR RIESGO DE ALTURAS
+
+MAYO 22 DE 2017.
+
+En el transformador de reserva se le realizarón las siguientes modificaciones y su respectivo mantenimiento:
+1 Se cambió el tablero de control por un tablero en acero inoxidable y con mas espacio donde se armó en por un lado el control de para los bancos de 3 a 6 y se colocó un grupo de borneras para conectar cuando se reauiera para los bancos 1 y 2.
+2 Se cambió el cableado de desde la instrumentación del transformador hasta el tablero de control.
+3 Se realizó mantenimiento general por el lado de baja y alta tension.
+4 Verificación de la instrumentación y protecciones del transformador.
+5 Se le adicionó 2 canecas de aceite dielectrico al tanque sumidero para recuperar nivel.
+
+NOTA: Estos trabajos se realizan previos al cambio de transformadores del banco G34.
+
+William Lopera
+ 

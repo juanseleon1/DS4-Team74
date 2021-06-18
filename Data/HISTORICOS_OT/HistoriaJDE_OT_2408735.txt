@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION COJINETE SUPERIOR CENTRAL PORCE 2.
+
+Se revisan sensores de vibración, el CSPL se encuentra en 13,12VDC  y el CSPR se encuentra en 8.16 VDC .
+CSPL se ajusto a 9.43 VDC
+
+Se realizo inspección, verificación puntos de alarma y disparo según formato de inyección de señales, que se encuentra en la siguiente ruta: \\Wperezg5\MTTO UNIDADES GPEPORCE\MTTOPII2013 y se realizo limpieza a las RTD del cojinete.
+Se realizo inyección de señales de temperatura
+PATRÓN ACTE  SEG 3 SEG 6  SEG 9  SEG 12 40° 44,0 40,0 42,0 40,0 40,060° 62,0 61,0 62,0 60,0 60,080° 48,0 80,0 83,0 80,0 80,0ALARMA 55,0 70,0 70,0 70,0 70,0DISPARO 60,0 75,0 75,0 75,0 75,0

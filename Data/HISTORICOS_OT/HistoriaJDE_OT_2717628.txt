@@ -1,0 +1,38 @@
+INFORME:
+INFORME ENVIADO POR EL INGENIERO JOHAN RAMIREZ ANTE LA SOLICITUD TRANSMITIDA. FECHA 27 DE MARZO DE 2015
+
+Buen día Edgar,
+ 
+Debido a los ultimos eventos que se han presentado en el circuito de 44 KV Dabeiba en la subestación Chorodo, donde las fallas monofasicas sacan la generación de la Vuelta y La Herradura, le solicitamos que por favor evaluen la posibilidad de bajar el ajuste de la protección de sobrecorriente de neutro del circuito 604-41.
+ 
+El día de ayer y despues de analizar el pick up de esta protección en las centrales, se subio un poco este valor y actualmente tienen los siguientes ajustes:
+ 
+LA HERRADURA
+ 
+51N
+Pick up = 125 A primarios
+dial = 0,1
+Curva = IEC Inversa
+ 
+ 
+LA VUELTA
+ 
+51N
+Pick up = 62 A primarios
+dial = 0,1
+Curva = IEC Inversa
+ 
+Por su atención y colaboración, gracias.
+ 
+Saludos,
+ 
+JOHAN MANUEL RAMÍREZ AGUDELO
+
+INFORMA: GORTIZG
+SE PROCEDE A SU CIERRE YA QUE LA ACTIVIDAD NO ES REALIZADA POR PERSONAL DE LA DPCG.
+
+
+
+SOLICITANTE: REVISAR COORDINACIÓN DE PROTECCIONES DE LOS RELE M-3311 DEL TRASFO DE POTENCIA DE LA HERRADURA CON RESPECTO AL RELÉ DE LA SUBESTACIÓN CHORODÓ YA QUE SE ESTÁ DISPARANDO PRIMERO EN LA HERRADURA POR 51N(SOBRECORRIENTE TEMPORIZADA EN EL NEUTRO) Y DEBERÍA SER AL CONTRARIO.
+
+SOLICITÓ: ARTURO BETANCUR

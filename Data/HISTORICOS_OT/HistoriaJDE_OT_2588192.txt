@@ -1,0 +1,11 @@
+2014/08/26 - CESAR HOYOS - OSCAR GIRALDO - RUBEN ARBOLEDA
+Se evidenció un punto caliente en la caja de distribución del transformador 2 del circuito de alumbrado y tomas, se extrajo una barra en la cual se evidenció el paso de la corriente mediante un tornillo de ajuste y no por la barra, adicionalmente se encontró ottros tornillos sueltos. 
+
+Se realizó ajuste correspondiente y se dejó en funcionamiento normal, pendiente realizar una inspección termografica para garantizar la buena conexión. 
+
+2014/08/27 GIOVANNY DIAZ - YEISON ORTEGA 
+Se realizó inspección termografica a las cajas de alumbrado y toma con el fin de verificar posibles puntos calientes, se identifico algunos bornes flojos y se realizó ajuste correspondiente, aunque no presentaban punto caliente se ajusto debido a que la carga actual del tablero es muy baja, en caso de requerir cargas altas existe probabilidad de presentar punto caliente. 
+
+
+
+

@@ -1,0 +1,4 @@
+11/02/16 CESRA AUGUSTO HOYOS HENAO.
+Se realizó prueba de tiempos  de apertura - cierre y resistencia de cocntactos con los siguientes resultados.
+Fecha:11/02/2016Fasa R Fasa S Fasa TTiempo cierre (ms) 152,2 152,2 152,8Tiempo apertura (ms) 80,4 77,8 80Resistencia estática () 131 139 158I bobina cierre (A) 1,251I bobina apertura (A) 1,251
+Se compara las medidas con los datos de pruebas anteriores y están similares 

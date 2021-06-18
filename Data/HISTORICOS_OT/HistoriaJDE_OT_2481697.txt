@@ -1,0 +1,20 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+
+DATOS MEDIDOS: 
+
+1. ANTES DE LIMPIEZA
+ROTOR + BARRAJE 170 K
+ROTOR  287 K
+BARRAJE 16,6 M
+ 
+2. DESPUES DE LIMPIEZA 
+ROTOR + BARRAJE 17,4 M
+ROTOR  365 M
+BARRAJE 18,3 M
+Se realizo proceso de petrolizar las barras de acople hacia el rotor (en la parte interna del recinto), con lo que se consiguio mejorar el aislamiento del rotor.
+REALIZÓ: MARIO RESTREPO - EDWAR LONDOÑO - JHONATAN USME
+PLANEO: RUBEN ARBOLEDA
+
+
+

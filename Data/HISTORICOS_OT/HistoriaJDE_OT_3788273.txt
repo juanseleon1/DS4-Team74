@@ -1,0 +1,9 @@
+24 de noviembre 2018
+Falla de comunicaciones 
+verificar los sensores ubicados en la torre del teleferico por perdida de señales. 
+
+Se realiza mantenimiento preventivo a los sensores, se realiza limpieza con dielectrico y limpiador de contactos, por presentar alto grado de suciedad (grasa).
+Despues de los trabajos realizados se verifica la alarma por comunicaciones y no esta presente, queda el equipo en condiciones para su correcto funcionamiento. 
+
+Ejecutaron: Luis Correa-Jorge Echeverri
+Programo: Carlos Andres Forero

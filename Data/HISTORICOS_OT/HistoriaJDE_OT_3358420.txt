@@ -1,0 +1,11 @@
+
+2017/09/28 _ CARLOS ENRIQUE MONCADA. OT N° 3358420.
+Referente a la UPS N° 2 se revisa encontrando sus extractores dañados. Se procede con el montaje y adaptación de 2 Cooler para extraer calor de la UPS los cuales funcionan bien.
+La UPS 2 queda en servicio y funcionando bien.
+
+REALIZO: NEIRO FABIAN PEREZ, DAVID ATEHORTUA.
+
+
+--------
+27/10/2016
+Se presenta falla ups #2, se le da reset y no responde.

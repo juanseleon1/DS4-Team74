@@ -1,0 +1,38 @@
+2017/10/12 RUBEN ARBOLEDA
+Se realizará una mejora en la modernización del control del puente grúa y pruebas de carga
+
+2017-10-18 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:3
+Se realizó movimiento del puente grúa Badoni hacia el control nuevo, se realizó pruebas de funcionamiento y se dejó en condiciones normales
+
+2017-10-19 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:4
+Se inició con la adecuación de cableado en el puente grúa Badoni, con el fin de organizarlos
+
+2017-11-15 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3624389, PASO:5
+Se realizó adecuación de unidad regenerativa en el puente grúa Badoni
+
+2017-11-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:6
+Se realizó pruebas de funcionamiento al control y pruebas de peso al puente grúa Badoni
+
+2017-11-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:7
+Se realizó pruebas de funcionamiento al control y pruebas de peso al puente grúa Badoni
+
+2017-11-21 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:7
+Se inició a retirar las conexiones provisionales y elementos del puente grúa Badoni
+
+2017-11-22 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:8
+Se empezó a retirar elementos del puente grúa Badoni, cableado de control y potencia del sistema anterior.
+
+2018-01-02 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3624389, PASO:19          Con el fin de realizar el ingreso y descargue de los transformadores nuevos para la central Guatapé, se realiza una revisión del funcionamiento general del puente grúa Badoni, antes de mover 2 transformadores en casa de maquinas. 
+2018-01-31 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3624389, PASO:20          Se realizó adecuación de cableado en puente grúa Badoni, ya que éste puente grúa aun se encuentra en mejora de modernización
+2018-02-07 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3624389, PASO:21          Se realizó revisión de soldador mecánico en el taller automotriz, con el fin de realizar adecuaciones del puente grúa pendientes de la modernización; éste presenta falla en su operación, se recomienda contratar un servicio para reparación y mantenimiento general.
+2018-02-07 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3624389, PASO:21.1          Se continuó con la adecuación de cableado en el puente grúa I.
+2018-02-08 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3624389, PASO:22          Se continuó con la adecuación del cableado de control en el puente grúa Badoni
+"2018-03-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:29          Se realizó revisión de alimentación de los puentes grúa, se realizó la medida de asilamiento desde el interruptor de servicios auxiliares hacia el interruptor ubicado en la parte superior de la caseta de operación, ambos extremos, valores registrados: 
+Fase R: 431MOhm
+Fase S: 732MOhm
+Fase T: 672MOhm
+Posteriormente se realizó adecuación de cableado de control y potencia, se retiró el cableado viejo y se adecua cableado nuevo."
+2018-03-06 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3624389, PASO:30          Se realizó el cambio de cableado del encoder del puente grúa Badoni, queda pendiente realizar conexionado en tablero y conectores del encoder.
+2018-03-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3624389, PASO:33          Se realizó el cambio de cableado del encoder del puente grúa Badoni.
+2018-03-15 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3624389, PASO:34          Se realizó revisión y ajuste del sensor óptico del puente grúa Badoni, quedando a la altura necesaria para extraer rotor.
+2018-03-20 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - FERNANDO CASTRILLON (OPERADOR),  PROGRAMO: RARBOLG OT: 3624389, PASO:36-36,1          Se realizó calibración de Sensor óptico en el puente grúa Badoni, quedando a 30 centímetros entre el sensor y la parte superior del gancho principal, se recomienda hacer ajuste a la parte superior del gancho principal.

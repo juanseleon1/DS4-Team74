@@ -1,0 +1,9 @@
+12 DE DICIEMBRE DE 2017 IVAN DARO ZAPATA GOMEZ
+REVISAR LA VALVULA DISTRIBUIDORA.  POR MOVIMIENTO CONSTANTE DE LA VALVULA DISTRIBUIDORA SE ABRE Y SE CIERRA LA VALVULA DE ALIVIO CONSTANTEMENTE.
+19-12-2017
+programo jose montoya
+se ajusta la targeta AMP2 y se saco del control conjunto para observacion, al dia siguente que vuelve a colocar en control conjunto y quedo trabajando bien
+
+02-01-2018
+se realiza verificacion de lazo de control del regulador de velocidad, se verifica medidas de retroalimentacion del sistema, tanto de la posicion de la valvula proporcional, como del distribuidor, se encuentra estabilidad en todas las medidas y en general correcto funcionamiento del sistema.
+responsable: Luis Adrian Cardona, Bernardo Bedoya, Esteban Vasquez.

@@ -1,0 +1,8 @@
+2016/01/15 JUAN DAVID GARCÍA - OSCAR GIRALDO, PROGRAMO: RARBOLG
+Se realiza la adecuación de control y potencia en el control viejo del puente grúa, trabajando mediante contactores, con el fin de realizar acople de los dos puesnte grúas para extracción de rotor de la unidad 3, 
+
+2016/01/17 JUAN DAVID GARCIA - SEBASTIAN HINCAPIE - CESAR HOYOS, PROGRAMO: RARBOLG
+Se realizó pruebas de acople y funcionamiento se dejó en condiciones normales, disponible y a la espera de la aprobación para el mantenenimeinto de la Unidad 3. 
+
+2016/01/31 ANGEL ADONIS CADAVID OCHOA
+SE CIEERA OT, DENTRO DEL PLAN DE MODERNIZACION DE LOS PUENTE GRUA SE TENIA CONTEMPLADO PARA UNA EMERGENCIA SE PUDIERA REGRESAR AL CONTROL VIEJO PARA LA EXTRACCION DE ROTOR, ESTA ACTIVIDAD SE REALIZA DE ACUERDO A LOS PLANEADO, LA OT SE CIERRA EL RETORNO AL CONTROL NUEVO SE COSTERA EN LA ACTIVIDAD DE MODERNIZACION.

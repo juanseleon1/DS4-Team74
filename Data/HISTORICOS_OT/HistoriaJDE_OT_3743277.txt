@@ -1,0 +1,9 @@
+JULIO 19/2018  OT: 3743277 PROGRAMO: JGUINGUL  EJECUTO: ANDRES YEPES
+ Se verifica RTD la cual se encuentra en buen estado 
+·Se verifica alarma y disparo 
+·Acompañamiento del personal mecánico en el retiro e instalación del cojinete
+·Se inyecta señal de temperatura con el bloque seco y se arroja los siguientes datos:
+Temperaturas de: Cojinete Turbina 2 U2Patrón 0 70 100 120Equipo0 67.2 95.2 114.5Valor programado Alarma:75°CValor programado Disparo:90°CComentarios:Tiempo de muestra 10 min. 
+
+
+VERIFICAR RTD Y REALIZAR INYECCION HACIA EL MEDIDOR PARA VERIFICAR DISAPARO.

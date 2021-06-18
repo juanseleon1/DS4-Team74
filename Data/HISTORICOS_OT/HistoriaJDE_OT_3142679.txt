@@ -1,0 +1,24 @@
+2016/06/1
+
+Realizar labores de mejora y verificacion en el sello de la turbina en la unidad 2 
+
+
+2016/06/05
+
+Se inicia con la desinstalación y verificación de la instrumentación retirada , además se comienza con la logística par integrar dos RTD´s en el control y la modificación en el sensor de desgaste del sello 
+
+Realizado por Wtobonl
+
+
+2016/06/10
+
+Se inicia con la adecuación y verificación de las nuevas RTD´s, edemas se inicia con la modificación en el control del PLC y la IHM de este proceso. Estamos en la espera de instalar las nuevas RTD´s en el sello antes de ser instalada en el sitio por los mecánicos.
+
+Realizado por Wtobonl
+
+terminada cerrar
+
+
+
+
+

@@ -1,0 +1,6 @@
+SE INSTALARA FUENTE Y FILTRO CON EL FIN DE IMPLEMANTAR LA FUNSION DE PROTECCION ANSI 64S
+JGUINGUER 
+
+JUNIO 28 DE 2019 OT:3844346 PROGRAMO: JGUINGUER  EJECUTARON: ALEXANDER VILLA Y ANDRES YEPES
+Se  instalo  y se  puso  en funcionamiento el nuevo sistema de inyección de baja frecuencia para complementar la protección de falla a tierra estator al 100% (ANSI 64G) en las unidades 1 y 2 de la central Sonsón I. El sistema mencionado permite detectar fallas a tierra hasta con máquina parada, tanto en el los devanados del estator del generador, como en el devanado de baja del trafo de potencia y/o en el devanado de alta del trafo de excitación.
+ 

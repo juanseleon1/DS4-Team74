@@ -1,0 +1,7 @@
+2013/01/21
+PLANEADOR: SANTIAGO RAMÍREZ
+PROGRAMADOR: YOFRED BERNARDO RODRIGUEZ  VAHOS
+
+REALIZAR EL MONTAJE DEL SISTEMA EXTRACTOR DE LODOS EN EL FOSO DE REFRIGERACION DE GUADALUPE 4
+
+NOTA: debido al cambio de estructura de EPM sin fronteras, se cerró la OT 2222913 y se abrió la OT 2417425 para dar continuidad al trabajo de montaje.

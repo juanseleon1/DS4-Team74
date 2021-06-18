@@ -1,0 +1,6 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-21 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE) - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704916, PASO:2          
+Se realizó el traslado del Rotor de la Unidad 7 desde la sala de montajes hacia el estator de la Unidad 7. 
+las labores del movimiento hacia la sala de montajes fueron registradas en la OT 3704921

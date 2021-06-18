@@ -1,0 +1,24 @@
+- FECHA : VIERNES SEPTIEMBRE 08 DE 2017
+- PROGRAMÓ : WILFER HINCAPIÉ
+- REALIZÓ : JEISON ORTEGA - DANILO GARCÍA 
+- ASOCIADO A LA OT : 3595915
+- ASUNTO : REPARAR Y PROBAR BOMBA 
+           * LA MOTOBOMBA PRESENTÓ FALLA DE AISLAMIENTO Y QUEDÓ FUERA DE SERVICIO PORQUE LE ENTRÓ AGUA Y MOJÓ 
+             EL CONTACTOR QUE TRAE EL MOTOR EN LA PARTE INTERNA
+           * LA AISLÓ Y SE TUVO QUE DESARMAR LA PARTE SUPERIOR PARA RETIRAR EL CONTACTOR Y DEJARLA CON SOLO LA 
+             PROTECCIÓN DESDE EL TABLERO DE CONTROL BOMBAS 
+           * SE HACE MANTTO Y SE RECONECTA PARA PROBARLA Y OPERA NORMAL.
+           * NOTA : ESTE MOTOR SE LLEVÓ A GUATAPÉ PARA SECARLO CON EL HORNO DONDE SE SECAN LOS POLOS 
+
+
+2017-09-12 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3595915, PASO:2          
+Se realizó desarme de la motobomba 1, drenaje pozo compuerta de playas se realizó medida de aislamiento con 500VDC resultado: 1,8MOh posteriormente se puso a calentar.
+
+2017-09-13 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3595915, PASO:3          
+Se realizó revisión y armado de la motobomba 1, drenaje pozo compuerta de playas se realizó medida de aislamiento con 500VDC resultado: 1,9MOhm, se dejó nuevamente en calentamiento.
+
+2017-09-14 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3595915, PASO:4          
+Se realizó medida de aislamiento para la motobomba 1, drenaje pozo compuerta de playas con 500VDC resultado: 1,9MOhm, se recomienda dejar calentando por más tiempo.
+
+2017-09-19 REALIZÓ: JHONATAN ANDRES USME - BRANDON VELASQUEZ,  PROGRAMO: RARBOLG OT: 3595915, PASO:5          
+Se realizó armado de motobomba 1 drenaje pozo compuerta de playas se realizó medida de aislamiento con 500VDC resultado: 58MOhm. Se adecuó y se solicitó transorte para playas y entregar Mario Gonzalez.

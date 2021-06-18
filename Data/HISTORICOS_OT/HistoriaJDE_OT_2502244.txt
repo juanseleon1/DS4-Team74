@@ -1,0 +1,4 @@
+XM: VERIFICAR, LAVAR Y AJUSTAR COJINETE TURBINA DE LA UNIDAD
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2014-05-15
+Se verifica el nivel del aceite el cual se encontró en 453 mm. Su nivel patrón con máquina parada es de 455 mm. Se deja así ya que está muy cerca a su nivel patrón. Previo a la toma de nivel se realiza prueba de recirculación de aceite estabilización de sistema. 

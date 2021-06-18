@@ -1,0 +1,33 @@
+- FECHA : DOMINGO 01 DE MARZO DE 2015
+- REALIZÓ : FRANCISCO QUINTERO - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 2689051
+- ASUNTO : HACER MANTTO MP
+
+
+*1.  MTTO CONTROLES :
+  1.1 MTTO INTERRUPTOR          SI :  X                 NO :                  1.3 MTTO CONTACTORES :    SÍ : X            N:
+  1.2 REVISIÓN CABLEADO :      SI :  X                 NO :                  1.4 REVISIÓN CONEXIONES Y TORNILLERÍA : SI :  X       NO :
+  
+
+* 2. MTTO MOTOR:
+  2.1 AISLAMIENTO CON RESPECTO A TIERRA ( debe dar un valor alto tendiendo a infinito :  647 Moh
+
+ 2.2 VALORES DE VOLTAJE Y CORRIENTE ( comparar con los datos de placa )
+
+          VOLTAJE                                            CTE ARRANQUE                    CTE DE FUNCIONAMIENTO
+    * FASES     VOLTIOS                              FASES     AMP.                         FASES        AMP.
+           RS               472                                  R - S - T    6.8                                 R               1.1   
+           ST               470                                                                                            S               1.3
+           TR               471                                                                                            T                1.1
+
+* 2.3   TEMP. EXCESIVA CARCAZA :      SÍ :        NO : X                    TEMP. EXCESIVA COJINETES:  SI :            NO : X
+            VIBRACIÓN ANORMAL :  SÍ :             NO :  X                            RUIDO ANORMAL :  SÍ                      NO : X
+
+* 3. CALIBRACIÓN TÉRMICO CONTROL . 1A           CALIBRACIÓN TÉRMICO POTENCIA : 63 A
+
+* 4. FUNCIONAMIENTO CONTROL NORMAL : SÍ
+
+* 5. HORÓMETRO : N.A
+
+* 6. OBSERVACIONES : 1. El control está funcionando normal.
+                                              2. Los datos de placa no se toman porque no son legibles.

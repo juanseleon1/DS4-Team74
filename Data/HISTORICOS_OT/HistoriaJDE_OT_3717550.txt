@@ -1,0 +1,6 @@
+2018/06/25 FARLEY GIOVANNY DIAZ 
+
+Inspección y medidas generales de las motobombas de refrigeración para los generadores de Guatape.
+
+2018/06/20 SEBASTIAN HINCAPIE - JUAN DAVID GARCIA, PROGRAMO: FDIAZ, OT: 3717550
+Se realizó mantenimiento al motor de motobomba cw5 refrig reserv gt    CORRIENTE: R:116,9, S:113,4, T:110,5, VOLTAJES RS:446,7, ST:445,1, TR:444,7,TEMPERATURA MAXIMA DE MOTOR 74,3°C

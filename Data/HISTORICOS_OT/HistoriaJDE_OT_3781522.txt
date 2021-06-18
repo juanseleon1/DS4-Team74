@@ -1,0 +1,13 @@
+2018/11/19 OT N°: 3781522 PROGRAMO:  R JIMENEZ EJECUTO: YOANIS RODRIGUEZ
+ SE REALIZA EL MANTENIMIENTO PREVENTIVO A LA UPS MODULAR, SE LIMPIAN CADA UNO DE LOS MODULOS DE LA UPS, Y TODO EL SISTEMA,
+SE HACE REVISION , MEDIADAS DE VOLTAJES Y LIMPIEZA DEL BANCO DE BATERIAS, PENDIENTE DE REALIZAR LA PRUEBA DE AUTONOMIA DEL BANCO.
+
+Se realiza mantenimiento a:
+
+La UPS 6 de DESCARGA DE FONDO: Realizar inspeccion y limpieza de ups y modulos de potencia, inspeccionar operacion de ventiladores e instrumentos de medida.
+
+Tablero de distribucion TUPS-07: Realizar inspeccion y limpieza del tablero de distribucion, verificar auxiliares de tablero, equipos de medida y puestas a tierra.
+
+Banco de baterias de UPS 6: Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, baterias calientes, soplado de baterias o fugas de electrolito.
+
+

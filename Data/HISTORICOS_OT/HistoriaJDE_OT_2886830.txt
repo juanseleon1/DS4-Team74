@@ -1,0 +1,5 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: SEPTIEMBRE 22-2015
+EJECUTANTE: ALVARITO ELIECER Y PROBAYO
+
+Se  baja el banco de tiristores de AG9 y se coloca en el AG2 por descartar problema que hay sobre un alarma  de error de tiristores L2  

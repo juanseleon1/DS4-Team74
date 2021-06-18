@@ -1,0 +1,15 @@
+JULIO 19/2016  SOLICITANTE:CESAR GIRALDO
+
+EL RELE DE BAJA TENSION, ESTA POR FUERA DE SERVICIO. FAVOR CAMBIAR Y AJUSTAR.
+--------------------------------------------
+Falla Interruptor Principal U3 PII  
+fecha: 2016-08-05 ot: 3201201 mtto: eléctrico
+ejecutó: davison perez - jhonatan arango - olga viana
+
+Se realiza cambio de interruptor (Previamente, el equipo de electricistas había recuperado un interruptor 480V, el cual se encontraba disponible como reserva.). Se ajustan los parámetros de la tarjeta de Disparo. Se realizan pruebas de cierre, apertura y transferencia (Satisfactorias).   El equipo fallado se retira para revisión, mantenimiento y corrección de posibles fallas. 
+
+Una vez solucionada la falla del interruptor; como la unidad se encontraba redespachada -Hasta el periodo 10-, se solicita permiso para  sincronizar y repartir carga. La unidad queda OK generando  90MW hasta el final del periodo de redespacho.
+
+INFORMÓ: CRISTIAN ANDRÉS GOMEZ H
+
+--------------------------------------------------

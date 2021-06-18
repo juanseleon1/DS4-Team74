@@ -1,0 +1,30 @@
+Se crea ot para el registro de tiempos y actividades en actividades mecánicas a realizar en la válvula esférica UG42.
+
+
+1. OBJETIVO
+Presentar los resultados y avances del cambio de sellos de mantenimiento de la válvula de admisión de la unidad 2 y cambio de sellos al servomotor de distribuidor de la unidad 3 de Guadalupe IV.
+
+2. ALCANCE
+En este informe se presentan los avances de trabajos realizados correspondientes al vaciado de la tubería de presión de GIV para el cambio de sellos de mantenimiento de la válvula de admisión de la unidad 2 y el servomotor distribuidor de unidad 3.
+
+3. ANÁLISIS DE LOS ANTECEDENTES UNIDAD 2: 
+
+·Válvula de admisión unidad 2:
+La válvula de admisión de G42 fue sometida a mantenimiento en agosto de 2015 pero a finales de 2016 debido a una mala condición de la válvula de tres vías que sirve para operar el sello de mantenimiento se presenta la siguiente falla:
+Para realizar esta aplicación es necesario cambiar de estado, manualmente por medio de una palanca y una válvula de tres vías la posición del sello, esta válvula tiene instalada una platina de censado y un sensor inductivo el cual se encarga de dar una señal cuando se realiza el cambio de posición al control del estado y es condición para el arranque de la máquina. 
+Resulta que esta válvula posee un tope para la posición tanto de aplicación como desaplicación del sello, en cierto momento ese tope mecánico perdió la ubicación  y al aplicar el sello normalmente como se venía haciendo , la platina de censado al no tener el tope se pasó del punto de lectura y quedo en posición “ cero”  dando una señal errónea de la posición del sello; a la hora de arrancar nuevamente la maquina el sistema de control mostró que habían condiciones de arranque y se dio giro a la unidad estando los sellos de mantenimiento aplicados, lo cual ocasiono deformación de los sellos y perdida del área de sellado, por lo cual se produce el paso de agua. 
+Teniendo esta situación de sellado en malas condiciones se genera la necesidad de realizar el cambio de los sellos de mantenimiento, para lo cual se requiere hacer el vaciado de la tubería de conducción, donde se programan como tareas adicionales y 
+
+
+paralelas realizar la inspección del caracol para ver el estado de los alabes móvil y fijos del distribuidor y hacer la inspección de rodete.
+
+4. TRABAJOS REALIZADOS U2:
+4.1 Inicialmente se realiza el vaciado de la tubería de presión de GIV según procedimiento
+4.1 Se realiza el desmonte de la valvula de admisión
+4.2 se realiza el cambio de sellos aguas arriba y aguas abajo
+4.3 se realizan pruebas locales de funcionamiento
+4.4 Se realiza el armado de la válvula de admisión
+4.5 Se realizan pruebas finales de funcionamiento e Hidrostáticas
+4.6 Se realiza el vaciado de la tubería de presión
+4.7 Se hace el montaje de la válvula de admissión es sitio
+4.8 se Realizan pruebas locales de funcionamiento y entrega del sistema a operación.

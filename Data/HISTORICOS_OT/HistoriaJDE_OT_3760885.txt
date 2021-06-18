@@ -1,0 +1,8 @@
+2018/09/07 _ CARLOS ENRIQUE MONCADA. OT N° 3760885.
+Se revisa transmisor de presión aguas arriba de la válvula esféfica de la unidad 2, se encuentra un desfase de 7 bar aproximados  en la igualación de presiones. Se procede a calibrar y programar un nuevo transmisor, se procede a su montaje realizando pruebas quedando este con la medida de igualación de presiones en estado optimo.
+Realizo: Iván Darío Cano, Jeniffer García, Nestor Ochoa, Carlos Moncada
+Informó: Carlos Moncada.
+
+
+2018/09/01 CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA REVISAR EL TRANSMISOR DE PRESION AGUAS ARRIBA VALVULA DE ADMISION

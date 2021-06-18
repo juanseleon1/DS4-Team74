@@ -1,0 +1,19 @@
+JULIO 06 2014
+
+Evento
+
+7:42 Durante el arranque de la unidad 4, en giro mecanico se da paro rapido 86R por falla en el sistema de lubricacion del Cojinete sperior TCCS. 
+
+Los eventos del scada muestran alarma de "Muy bajo flujo de aceite" desde las 7:40 hasta que finalmente se falla el sisntema de aceite a ls 7:42 con el paro de la bomba 2. El subsistema 1 arranca con la bomba 1 pero sale alarma "Muy bajo flujo de aceite" hasta que se falla y se para la unidad con 86R.
+
+Acciones
+
+Se revisa el sistema TCCS de la unidad 4 operando localmente en modo automatico las bombas para hacer transferencias entre subsistemsa ppal y de repaldo. Se observa coportamiento normal en las transferencias sin que se falle ninguno. En IHM de TCCS se consulta el trending observando comportamiento erratico de la medida del flujometro FIT02 (flujo salida intercambiador aceite coj superior) alcanzando valores indeterminados, en el momento en que la unidad esta en proceso de arranque, siendo esta la causa del paro rapido. Despues de probar transferencia entre subsistemas se da giro mecanico a la unidad para dejar en observacion el intrumento sin que se presente nuevamente el paro rapido. El sistema nomraliza sin ser intervenido.
+
+Informa: Sandra Carmona - Gabriel Naranjo.
+
+La causa del paro rapido es falla en el FIT02. Este instrumento es un flujometro massico marca ABB referencia FCM2000. La inforamcion tecnica puede encontrarse en le servidor bajo el nombre D184B111U02.
+
+De acuerdo al fabricante, la presencia de burbujas puede ocacionar lecturas erroneas, particulamrnete en la medida de densidad. Recomienda que el intrumento no sea instalado en el punto mas alto del sistema hidraulico. La mjoer parte para intalarlo es en la seccion mas baja de la tuberia, como en la parte inferior de una seccion en U. 
+
+El flujometro no debe instalarse cerca a campos electromagneticos fuertes como motores, bombas, transformadores, etc.

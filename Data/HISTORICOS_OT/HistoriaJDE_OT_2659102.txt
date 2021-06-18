@@ -1,0 +1,10 @@
+
+
+SOLICITA: EQUIPO OPERACIÓN TURNO 2                   FECHA: 2014/12/16
+
+FAVOR REVISAR CONSIGNA DE PORCENTAJE DE LA POSICIÓN DEL DISTRIBUIDOR.
+CONSIGNA EN 100% Y NO DEJA SUBIR POTENCIA HASTA 75MW, SE QUEDA EN 70MW.
+15 DE DICIEMBRE 2014
+Se cambia tarjeta AMP 2 , y se calibran lazos de control para la posición del distribuidor . Solicitud de trabajo nro. 2659102.
+Realizó : Andrés Arenas , William Lopera  , Carlos David Montoya
+Informó : Carlos David Montoya E.

@@ -1,0 +1,9 @@
+PLANEADOR:
+CE: RUTA DESARROLLO 
+MANTENIMIENTO SEMESTRAL ELECTRICO: TOMAR MUESTRAS DE ACEITE - TRANSFORMADORES
+ESTA MUESTRA ES PARA REALIZAR LAS PRUEBAS CROMATOGRÁFICAS DEL ACEITE DE LOS TRANSFORMADORES.
+
+2015/07/29 EDWAR LONDOÑO- SEBASTIAN HINCAPIE - FERNANDO RUIZ
+Se realizó lavado de jeringa y toma de muestra de aceite para análisis cromatografico, se envió el 2015/07/30 para el laboratorio coordinado con el señor: JAEN GEOVANNY RAMIREZ RUIZ en SUBESTACIONES Y LINEAS T&D
+
+Se presentó inconveniente a la hora de extraer la muestra de aceite, ya que ésta muestra se saca por goteo desde el tapón inferior en la horas de la mañana se realizó el trámite para desenergizar el circuito y se hizo el intento para abrir el tapón pero no fue posible debido a que estaba muy pegado o con la rosca trabada, en horas de la tarde se utilizó llave de tubo y llave expansiva (47milimetros) para abrir el tapón, finalmente se realizó el proceso de extracción de muestra y se dejó en condiciones normales.

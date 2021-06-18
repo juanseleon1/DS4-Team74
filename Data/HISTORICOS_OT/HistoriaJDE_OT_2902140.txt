@@ -1,0 +1,8 @@
+PREVENTIVO MECANICO FRENOS GENERADOR GUADALUPE
+
+
+Programador: Camilo Montagut - 28/10/2015
+
+Se limpia la grasa del recinto de los frenos y se registra que las zapatas número 1, 2 y 3 tienen una medida de 15 mm y la zapata número 4 tiene una medida de 14 mm
+
+Ejecuta: equipo mantenimiento mecánico GIII

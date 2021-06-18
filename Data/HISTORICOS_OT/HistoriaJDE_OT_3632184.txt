@@ -1,0 +1,12 @@
+2017/10/24. JUAN C DUARTE MUÑOZ.
+
+CORREGIR ALARMA TEMPERATURA 2 ACEITE COJINETE TURBINA. LA UNIDAD SALE DE SINCRONISMO POR DISPARO CON 75°C. ES POSIBLE QUE LA TUBERIA SE ENCUENTRE OBSTRUIDA.
+ LA UNDAD ESTABA EN AGC.
+2017/10/25 DIEGO BEDOYA
+Se realiza el desmontaje de la tubería de entrada y salida de agua hacia el cojinete de turbina de la Unidad N°2, se encuentra la tubería muy obstruida por pantano, se procede a lavar y se monta nuevamente mejorando el flujo y disminuyendo la temperatura en este cojinete así:
+ antes de lavar tubería después de lavar tuberíaTemperatura metal 1 72,1 °C 58,6 °CTemperatura metal 2 76,1 °C 63,7 °CTemperatura aceite C.T 1 74,9 °C 62,7 °CTemperatura aceite C.T 2 76,1 °C 62,8 °CAgua 29,4 °C 28,5 °C Las medidas fueron tomadas con la Unidad copada (70 MW) antes y despúes
+El trabajo fue realizado por Jaime Jaramillo, Andres Alzate y Atanasio Jaramillo
+
+NOVIEMBRE 19 DE 2017 
+OT CERRAD 
+ANDRES RAMIREZ 

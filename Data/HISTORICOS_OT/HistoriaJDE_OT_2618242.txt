@@ -1,0 +1,5 @@
+12/10/2014 CESAR AUGUSTO GIRALDO
+
+SE DA PARO RAPIDO LA UNIDAD 4 POR FALLA EN LA RED PROFIBUS DEL TAST, SACANDO DE SERVICIO LA INSTRUMENTACION Y APAGANDO LAS BOMBAS. MANIOBRA INVOLUNTARIA DE MTTO AL CAMBIAR TARJETA EN CALIENTE
+
+Referente al TAST de la Unidad N°4: Se encontro modulo conversor profibus del instrumento CT01, perteneciente a la temperatura N°1 del sello de turbina. Se configura y se realizan pruebas. Queda funcionando el Sistema. Realizo: Grupo electronico - Electrico - Operación Turno 2,

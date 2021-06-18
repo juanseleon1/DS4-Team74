@@ -1,0 +1,15 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XI: VERIFICAR INTRUMENTACION
+
+Verificar funcionamiento de los flotadores de los niveles de agua del pozo de filtraciones, verificar tableros de control y PLC del CCM4. Realizar modificación de progrma en plc según criterio mecánicos para el arranque de las bombas vpi1-2, realizar backup
+
+
+08/08/2016
+
+Se realiza verificacion de los flotadores en el pozo de bombas, se encuentra con problemas el flotador de nivel minimo el cual se cambia por una nueva flota, ademas se encuentra la flota de nivel alto o nivel 7 mala, este sistema se encuntra en proceso de modernizacion para ello se instala una sonda piezo resistiva de 6 metros columnba de agua, pendiente continuar con la migracion del programa.  se realizan puebas con el programa anterior y la bombas responden bien queda operativo el sistema.
+
+Realizado por Wtobonl
+
+terminada cerrar
+

@@ -1,0 +1,14 @@
+INSPECCION INSTRUMENTACION COJINETE SUPERIOR UNIDAD GENERACION GUADALUPE 4
+
+Se realiza limpieza e inspección visual al visor del sensor de nivel y se revisan sensores de vibración, se encontraron en CSPL: 9.07VDC, CSPR 9.26 VDC y el AXIAL: 8.84VDC.
+
+Nivel de aceite cojinete superior se encontró en 733 mm, el nivel patrón es 725mm, 
+
+Se inyectan las siguientes señales
+
+  COJ GUIA SUPERIOR °C COJ EMPUJE °CPATRÓN °C METAL 2 ACTE   METAL 2 METAL 440 40.2 40.1   40.1 40.160 60.2 60.1   60.1 60.180 80.2 80.1   80.1 80.1ALARMA  55.0 55.0   75.1 70.0DISPARO  60 60   80.0 75.0
+
+
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta \\wperezg5\MTTO UNIDADES GPEPORCE\2014\TRIMESTRALES G4 y se realizó limpieza a las RTD del cojinete.
+

@@ -1,0 +1,4 @@
+2015/01/22 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE OT: 2653980
+La temperatura de los cables del cubículo se encuentran en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 19.6°C, lo cual implica una deficiencia mayor, se recomienda reparar inmediatamente. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+Se creo ot correctiva: 2686398

@@ -1,0 +1,14 @@
+MARZO 12 DE 2014
+
+REFERENTE  AL COJINETE SUPERIOR UNIDAD G42: Durante el proceso de arranque (18:32 ),   la unidad presentó alarma por nivel bajo cojinete superior , bajando hasta 1000 mm , siendo 1020 mm el punto de alarma y 970 mm el punto de disparo. Al sincronizar la unidad la medida  estabilizó  en 1007 mm y así  operó por espacio de 1 hora y 20 minutos . En el proceso de paro normal por operación , se dio paro de emergencia por  muy bajo nivel de aceite cojinete superior ; al revisar  se encontró derrame de aceite por brida en ducto de lubricación forzada, afectando todo el recinto del generador , su nivel quedó en 46 mm. Se informó al ingeniero Carlos David.
+Se generó OT Nro.  2489314
+Informó : Operación  GIV Turno 3
+
+MARZO 13 DE 2014
+
+SE PROGRAMAN LAS SIGUIENTES ACTIVIDADES
+
+- LIMPIEZA ACEITE RECINTO DEL GENERADOR
+- PRUEBAS ELECTRICAS ROTOR Y ESTATOR
+- INSPECCION ROTOR Y ESTATOR
+- REPERACION BRIDA LUBRICACION FORZADA Y RECUPERACION ACEITE COJINETE SUPERIOR

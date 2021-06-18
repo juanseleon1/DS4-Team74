@@ -1,0 +1,13 @@
+MP:
+3325DISTRIBUIDOR TURBINA U1 G43326DISTRIBUIDOR TURBINA U2 G43327 DISTRIBUIDOR TURBINA U3 G4
+
+
+Programador: Camilo Montagut - 14/11/2018
+
+Se realiza limpieza general con hidrolavadora en toda la superficie externa del distribuidor, situación a la que previamente se retiraron todos los sensores de los pernofusibles. Se realiza limpieza de la grasa presente en los graseros y se renueva la grasa dispuesta en los patines del distribuidor y en la biela de cada álabe.
+
+Además se realiza inspección en el interior del caracol debido a la ruptura recurrente del pernofusible del álabe 18, procedimiento que se realizó con todos los procedimientos de seguridad.
+
+La inspección reveló obstrucción en los álabes fijos 18-19 por una lámina de acero inoxidable (1/8”  de espesor). Se retira la lámina deformada y se realizan movimientos manuales del álabe desde el piso del cojinete de turbina verificando su correcto funcionamiento.
+
+Ejecuta: equipo mantenimiento mecánico UOG

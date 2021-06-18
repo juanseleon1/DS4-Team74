@@ -1,0 +1,9 @@
+2016/10/12 RUBEN ARBOLEDA
+Se requiere realizar correción de señal de estado del interruptor y verificar el accionamiento desde el mando electrico
+
+2016-10-12 REALIZÓ: OSCAR ALIRIO GIRALDO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3277659, PASO:1
+Se realizó la revisión de la señalización en el seccionador de la unidad 6, se encontró una baquelita que mantiene los contactos ajustados reventada, se fabrico una con una lamina de 2 milímetros de fibra de vidrio, se realizaron pruebas y se dejó en condiciones normales.2016/10/12 RUBEN ARBOLEDA
+Se requiere realizar correción de señal de estado del interruptor y verificar el accionamiento desde el mando electrico
+
+2016-10-12 REALIZÓ: OSCAR ALIRIO GIRALDO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3277659, PASO:1
+Se realizó la revisión de la señalización en el seccionador de la unidad 6, se encontró una baquelita que mantiene los contactos ajustados reventada, se fabrico una con una lamina de 2 milímetros de fibra de vidrio, se realizaron pruebas y se dejó en condiciones normales.

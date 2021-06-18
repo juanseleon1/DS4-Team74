@@ -1,0 +1,8 @@
+Planeador:                           Hernando Alonso Castrillón T.
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              12/12/2017
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+              Verificación del nivel de mira vs. Sensor
+              Aforo Líquido

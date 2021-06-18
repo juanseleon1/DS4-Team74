@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA:NOVIEMBRE 12-2016
+EJECUTANTE: GERMAN Y PROBAYO
+
+
+
+Como el LPC del AG5 esta malo se desconecta el cable de red del AG1 y se le cambia la direccion IP del AG5 para cambiarla como AG1 para mirar porque estaba saliendo por sobrecoriente y se deja en servicio 

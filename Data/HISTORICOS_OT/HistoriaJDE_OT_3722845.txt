@@ -1,0 +1,8 @@
+JUNIO 6 DE 2018  OT:3722845 PROGRAMADOR : JGUINGUER  EJECUTO: ANDRES YEPES
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS Y ACTIVACIÓN DE ALARMA Y DISPARO 
+MEDICIÓN DE RESISTENCIA ÓHMICA DE LAS RTD`S EN TEMPERATURA AMBIENTE.
+
+Temperaturas de: Cojinete de generador Equipo 0°C 85°C 90°C Temp Am Valor ohmSensor S44 0.4 85.4 90.3 38.2 119.2Valor programado Alarma:87°CValor programado Disparo:92°CComentarios:Sin novedades   
+
+
+

@@ -1,0 +1,15 @@
+Solicitante-Planeador: Manuel José Giraldo Giraldo
+Aprobador: Carlos Andres Andrade Gómez
+Fecha de solicitud: 13-09-2019
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento: 
+
+                Inspección general del estado de la estación
+                Descarga y verificación de datos de la estación
+                Análisis de datos de estado del datalogger y transmisor
+                Actualización de programa de la estación
+                Verificación de sistema de transmisión
+                Diagnosticar modo de falla
+                Causa inmediata y causa básica en la estación
+                Reparación sistema de potencia 
+                

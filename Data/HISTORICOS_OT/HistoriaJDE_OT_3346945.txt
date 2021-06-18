@@ -1,0 +1,5 @@
+Solicitante-Planeador: Jeison Julian Suarez Rios
+Aprobador: Carlos Andres Andrade
+Fecha de solicitud: 2016/11/09
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: Cambio preventivo de la batería

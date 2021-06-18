@@ -1,0 +1,11 @@
+PREVENTIVO ELECTRICISTA BLOQUEOS UNIDAD GENERACION GUADALUPE 3
+
+16/JUNIO/2016
+Se realizan los Bloqueos y desbloqueos para ejecutar satisfactoriamente las actividades del mantenimiento Preventivo cuatrimestral, segun el PIM de la Unidad generadora U4 de Guadalupe 3
+
+OT PADRE: 03137956
+CONSIGNACIÓN: @ C0122448
+Se anexan informes eléctricos, electrónicos y mecánicos en la carpeta dentro del servidor.
+Ruta: \\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\Informes Mantto Gpe 3\Informes U4 Gpe 3\INFORME U4 G3 2016-06-16
+
+Planeador y Jefe del Trabajo: Oscar Arango

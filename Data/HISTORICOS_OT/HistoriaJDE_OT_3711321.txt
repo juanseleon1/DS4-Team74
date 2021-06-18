@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711321
+
+BAE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD
+
+FECHA: ABRIL 25/2018EJECUTA: CONTRATISTA CIVALCO.
+
+Se realiza por parte del contratista CIVALCO inspección y pruebas al sistema contra incendio de la unidad 1, se llenan formatos con datos obtenidos. Se  hace mantenimiento a los paneles de detección de humo, se llenan formato con los datos obtenidos.Se hace mantenimiento a las baterias de los gabinetes de control del sistema contra incendio (PCIZ), se llena formato con datos obtenidos.
+Esta orden de trabaja la realiza el contratista CIVALCO.

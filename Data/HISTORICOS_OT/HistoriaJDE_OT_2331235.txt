@@ -1,0 +1,13 @@
+JULIO 07/2013
+
+REVISAR LA FALLA GRUPO BOMBA COMPRESORES DE LA ESTACION HIDRAULICA DE LA UNIDAD G42.
+
+INFORMA 
+
+ANDRES ALVAREZ.
+
+FECHA: 01/08/2013     OT#2331235 PROGRAMADOR: JRODRIGL EJECUTA: MARLON CARMONA - DAVID ATEHORTUA
+
+Se cambian presostatos de indicación de presión de los compresores, estos se encontraron descalibrados y no se lograron ajustar a la presión de trabajo de los compresores.
+
+Informa: Jorge Rodríguez

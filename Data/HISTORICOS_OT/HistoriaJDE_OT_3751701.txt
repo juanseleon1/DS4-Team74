@@ -1,0 +1,13 @@
+SOLICITANTE: OPERACIÓN TURNO 3/ARFECHA: 04/08/2018
+
+El seccionador de línea de la unidad G36 en S/E Salto 1, no responde a mandos eléctricos remotos ni locales; para su operación (cierre o apertura), fue necesario hacerlo local y mecánicamente.
+
+
+PLANEADOR:OSCAR RETSREPO
+
+PROGRAMADOR: WILLIAM LOPERA
+
+AGOSTO 05 DE 2018.
+
+Agosto 5 de 2018
+Despues de realizar varios intentos de darle orden de cierre al seccionador de linea, el el operador de la subestación el Salto revisa el panel de alarmas, se resetea y responde a la orden de cierre, quedando normal su funcionamiento.

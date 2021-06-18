@@ -1,0 +1,4 @@
+ HACER LEVANTAMIENTO DEL TABLERO DE CONTROL Y DE POTENCIA DEL TABLERO.
+
+ENERO 19/2015 OT: 2668760 PROGRAMÓ: R JIMENEZ, EJECUTO G ECHEVEERI
+Se hace levantamiento del plano del tablero, se realiza cambio de fusibles por minibreaker en el control, y potencia se hace arreglos al cableado de potencia y control

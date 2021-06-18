@@ -1,0 +1,28 @@
+01/02/2018
+LA UNIDAD 1 PRESENTA FALLAS CONSTANTES EN EL AVR 1 , SE FALLA Y RECONOCE CONSTANTEMENTE . FAVOR REVIZAR 
+
+REALIZA VICIENTE Y WALTER NOE
+
+
+04/02/2018
+
+Se realiza verificacion de las señales en el AVR 1 de la unidad, se encuentra falla en el trasnductor de corriente excitacion UV31 se cambia y ajusta, ademas se encuentra desface de medida en el transductor UV30 de tension excitacion, este no fue posible ajustar el AVR1 queda bloqueado para reemplazar este transductor por uno nuevo y ajuastar los lazos. se falla este AVR con la señal de fusibles para evitar que este opere.
+
+Realizado por Wtobonl 
+
+
+23/02/2018
+
+Se realiza verificacion de los lazos de control en el regulador de tension AVR1 , y se encuntran los lazos de control con problemas por el Transductor UV30 tension de excitacion , se realizan pruebas con la unidad en giro mecancio para ajustar el AVR 1 siguiendo el procedimiento de ansaldo energizando el AVR 2 y ajustando el AVR1, luego en modo manual ajustar a un valor de 13800 el AVR 1.
+
+la unidad queda operativa y con el AVR1 disponible, los ajustes realizado 
+
+Ve_Scl 4328
+Ie_Scl  526
+Vm_Scl 6340
+Im_Scl  9075
+Vm_min 93.7
+
+Realizado por Wtobonl 
+
+TERMINADA CERRAR 

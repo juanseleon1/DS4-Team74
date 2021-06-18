@@ -1,0 +1,18 @@
+11 DE JULIO DEL 2018
+MANTENIMIENTO PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR:CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo según instructivo GCG3E009. Se retiran las escobillas de los porta escobillas, se realiza prueba de aislamiento antes de la limpieza, se lava toda la excitación con dieléctrico, se miden las escobillas, después de la limpieza se mide de nuevo aislamiento.
+Estos son los resultados del antes y el después de la limpieza.
+
+ANTES                                                      DESPUÉS
+Anillo superior: 1.44 G 505VDC         Anillo superior: 2.27 G 504VDC
+Anillo inferior:   1.37 G 504VDC         Anillo inferior:   2.39 G 504VDC
+
+Se cambian las siguientes escobillas, ya que no tenía la medida para el criterio de aceptación:
+Anillos Rosantes
+2
+
+Ejecutaron: Luis Correa-Tatiana Almario
+Programo: Carlos Andres Forero

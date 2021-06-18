@@ -1,0 +1,28 @@
+MP ANUAL, EQUIPOS:
+2315 COJINETE INFERIOR U1 G3
+2316 COJINETE INFERIOR U2 G3
+2317 COJINETE INFERIOR U3 G3
+2318 COJINETE INFERIOR U4 G3
+2319 COJINETE INFERIOR U5 G3
+2320 COJINETE INFERIOR U6 G3
+
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+09/08/2018
+
+Se desconecta y se retira el flujometro de salida de agua del cojinete inferior. y se le realiza limpieza.
+se realiza nuevamente el montaje y conexionado del flujometro de salida de agua del cojinete inferior.
+Se desconectan y se retiran las RTDs de temperatura de entrada y salida de agua del cojinete.
+
+Se realiza una verificación con el baño térmico a todas las RTDs de temperatura de entrada y salida de agua, del cojinete y luego se realiza el montaje y conexión de cada uno de estos instrumentos de temperatura.
+El nivel de aceite se encontró en 221 mm el nivel patrón es de 223 mm. El nivel se deja en el punto de referencia mecánica.
+
+VIBRACIONES:CIL:8.27 VDC
+                          CIP:8.57 VDC
+                         KPH:8.08 VDC
+
+REALIZO: GRUPO DE ELECTRONICA

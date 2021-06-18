@@ -1,0 +1,15 @@
+05/02/2018
+
+Se presenta falla en la excitación principal, sale falla "protección sobrecarga excitación" lo cual genera un paro parcial 2.
+
+
+05/02/2018
+
+Se realiza verificación de los lazos de control en el regulador de tension AVR2, y se encuntran los lazos de control bien, se verifican los eventos del sistema y alarmas, se encuentra que la falla de las salidas fueron:
+
+7:41 a.m: falla excitación protección de sobre carga.
+7:57 a.m: falla corriente retardada maxima convertidor.
+
+Estas fallas se presumen fueron causa de oscilaciones en el transductor de corriente excitación el cual esta pendiente por oportunidad descargar y probar.
+
+Realizado por Adonis Cadavid y Walter Tobón.

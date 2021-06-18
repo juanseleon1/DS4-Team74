@@ -1,0 +1,13 @@
+19/05/2015 GUILLERMO LEON  ECHEVERRY
+
+SE GENERA ESTA OT PARA LOS MANTENIMIENTOS ELECTRÓNICOS CORRESPONDIENTES AL MANTENIMIENTO MAYOR DE LA UNIDAD 2
+
+31/05/20105 WALTER TOBON
+
+El controlador de unidad principal se reinstalan los programas y queda este en prueba sin la redundancia activada, si este equipo falla se debe desconectar el cable de red y conectar el cable de red del controlador de respaldo, además de informar oportunamente sobre alguna anomalía en este equipo.
+
+En el TRE sistema de refrigeración banco tiristores 2, se instala válvula motorizada, queda esta en manual para poder realizar calibración de la apertura y cierre, por el momento podrán abrir y cerrar esta válvula manualmente en las secuencias de paro y arranque hasta poder realizar la calibración del recorrido.
+
+En la TUH y sistema TCF (frenos) se  instala modificación de control para la activación de los frenos, esta modificación es para evitar un evento similar al de la unidad 4, consiste en una señal de confirmación adicional de las tarjetas taquimétricas en la TUH además de las señales actuales del TRV y el TCU ( control de unidad) se realizan pruebas con la unidad.
+
+En el control del TRE ( excitación) se ajusta la indicación de temperatura rotor según las modificaciones enviadas por TOSHIBA y ABB con relación a la resistencia del rotor, se realizan pruebas y queda en observación esta indicación.

@@ -1,0 +1,7 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2016-09-12 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222545, PASO:1          
+Se realizó mantenimiento preventivo al ventilador S4, no fue posible realizar medida de corriente debido a que está parado por vibraciones, se realizó limpieza general y medida de aislamiento con el siguiente datos: <500KOhm, Se evidenció  que hay una humedad cercana, no se recomienda realizar arranque hasta que esa humedad se desvíe, y se ponga a calentar el motor para mejorar el aislamiento, se realizó OT correctiva: 3242300 dirigida al grupo de mantenimiento mecánico.XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2016-09-12 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3222545, PASO:1          
+Se realizó mantenimiento preventivo al ventilador S4, no fue posible realizar medida de corriente debido a que está parado por vibraciones, se realizó limpieza general y medida de aislamiento con el siguiente datos: <500KOhm, Se evidenció  que hay una humedad cercana, no se recomienda realizar arranque hasta que esa humedad se desvíe, y se ponga a calentar el motor para mejorar el aislamiento, se realizó OT correctiva: 3242300 dirigida al grupo de mantenimiento mecánico.

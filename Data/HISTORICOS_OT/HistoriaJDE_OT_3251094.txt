@@ -1,0 +1,83 @@
+PRUEBAS ELECTRICAS PREDICTIVAS.
+
+DESARME BARRAJES ESTATOR Y NEUTRO.
+INSPECCION VISUAL ESTATOR SUCIO.
+PRUEBA FACTOR DE POTENCIA ESTATOR SUCIO.
+PRUEBA FACTOR DE POTENCIA ESTATOR LIMPIO.
+MEDIDA RESISTENCIA OHMICA DEVANADOS POR FASE.
+MEDIDA INDICE DE POLARIZACION POR FASE.
+
+JUAN CARLOS GRANADOS.
+
+
+2016-09-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3251094, PASO:1          
+Se realizó el desarme de barraje de salida y barraje de neutro y la preparación de equipos para realizar pruebas electricas al estator
+
+2016-09-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3251094, PASO:1          
+Se acompañamiento en las pruebas electricas al estator sucio, al señor Edwin Lopera
+
+2016-09-23 REALIZÓ:  SEBASTIAN HINCAPIE - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:2          
+Se realizó medida de IP al estator sucio, con los siguientes datos:Fase/Fases a tierra Lectura 1 Min. Lectura 10 Min. Índice de Polarización Ip=10 Min./1 Min. DARX / YZ 2,98 G 16,18 G 5,43 1,86Y / XZ 2,97 G 16,36 G 5,54 1,84Z / XY 2,99 G 15,07 G 5,06 1,84
+
+2016-09-23 REALIZÓ:  SEBASTIAN HINCAPIE - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:2          
+Se realizó medida de resistencia óhmica al estator con los siguientes resultados: Neutro - Fase Resistencia ÓhmicaX1-U 7,297 mX2-U 7,182 mY1-V 7,283 mY2-V 7,235 mZ1-W 7,295 mZ2-W 7,227 m
+
+2016-09-25 REALIZÓ: ORLANDO ZULETA - JUAN DAVID GARCIA - JUAN DAVID FLOREZ,  PROGRAMO: RARBOLG OT: 3251094, PASO:3-3,1          
+Se inicio con la prueba de MAPEO del estator.
+
+2016-09-26 REALIZÓ: ORLANDO ZULETA - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:4          
+Se terminó el mapeo del estator
+
+2016-09-27 REALIZÓ:  OSCAR GIRALDO - JUAN DAVID GARCIA - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3251094, PASO:5          
+
+Se realizó armado de bobinas para la pruebas de EL CID, se hizo 4 bobinas de 5 espiras cada una y una espira de sombra, 
+
+2016-09-28 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3251094, PASO:6          
+Se realizó limpieza de los efectos corona encontrados, se limaron y se dejaron en condiciones normales
+
+2016-09-28 REALIZÓ:   JHONATAN USME - EDWAR LONDOÑO,  PROGRAMO: RARBOLG OT: 3251094, PASO:7          
+Se realizó IP al estator limpio y después de realizar prueba EL CID y pruebas electricas al estator.
+
+2016-10-10 REALIZÓ: ANDRES ZAPATA - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:8 - 8,1          
+Realizar IP Unidad 6 y armado de barraje de salida y de neutro.PRUEBAS ELECTRICAS PREDICTIVAS.
+
+DESARME BARRAJES ESTATOR Y NEUTRO.
+INSPECCION VISUAL ESTATOR SUCIO.
+PRUEBA FACTOR DE POTENCIA ESTATOR SUCIO.
+PRUEBA FACTOR DE POTENCIA ESTATOR LIMPIO.
+MEDIDA RESISTENCIA OHMICA DEVANADOS POR FASE.
+MEDIDA INDICE DE POLARIZACION POR FASE.
+
+JUAN CARLOS GRANADOS.
+
+
+2016-09-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3251094, PASO:1          
+Se realizó el desarme de barraje de salida y barraje de neutro y la preparación de equipos para realizar pruebas electricas al estator
+
+2016-09-22 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3251094, PASO:1          
+Se acompañamiento en las pruebas electricas al estator sucio, al señor Edwin Lopera
+
+2016-09-23 REALIZÓ:  SEBASTIAN HINCAPIE - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:2          
+Se realizó medida de IP al estator sucio, con los siguientes datos:Fase/Fases a tierra Lectura 1 Min. Lectura 10 Min. Índice de Polarización Ip=10 Min./1 Min. DARX / YZ 2,98 G 16,18 G 5,43 1,86Y / XZ 2,97 G 16,36 G 5,54 1,84Z / XY 2,99 G 15,07 G 5,06 1,84
+
+2016-09-23 REALIZÓ:  SEBASTIAN HINCAPIE - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:2          
+Se realizó medida de resistencia óhmica al estator con los siguientes resultados: Neutro - Fase Resistencia ÓhmicaX1-U 7,297 mX2-U 7,182 mY1-V 7,283 mY2-V 7,235 mZ1-W 7,295 mZ2-W 7,227 m
+
+2016-09-25 REALIZÓ: ORLANDO ZULETA - JUAN DAVID GARCIA - JUAN DAVID FLOREZ,  PROGRAMO: RARBOLG OT: 3251094, PASO:3-3,1          
+Se inicio con la prueba de MAPEO del estator.
+
+2016-09-26 REALIZÓ: ORLANDO ZULETA - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:4          
+Se terminó el mapeo del estator
+
+2016-09-27 REALIZÓ:  OSCAR GIRALDO - JUAN DAVID GARCIA - SEBASTIAN HINCAPIE,  PROGRAMO: RARBOLG OT: 3251094, PASO:5          
+
+Se realizó armado de bobinas para la pruebas de EL CID, se hizo 4 bobinas de 5 espiras cada una y una espira de sombra, 
+
+2016-09-28 REALIZÓ: JUAN DAVID GARCÍA - OSCAR GIRALDO,  PROGRAMO: RARBOLG OT: 3251094, PASO:6          
+Se realizó limpieza de los efectos corona encontrados, se limaron y se dejaron en condiciones normales
+
+2016-09-28 REALIZÓ:   JHONATAN USME - EDWAR LONDOÑO,  PROGRAMO: RARBOLG OT: 3251094, PASO:7          
+Se realizó IP al estator limpio y después de realizar prueba EL CID y pruebas electricas al estator.
+
+2016-10-10 REALIZÓ: ANDRES ZAPATA - JUAN DAVID GARCIA,  PROGRAMO: RARBOLG OT: 3251094, PASO:8 - 8,1          
+Realizar IP Unidad 6 y armado de barraje de salida y de neutro.

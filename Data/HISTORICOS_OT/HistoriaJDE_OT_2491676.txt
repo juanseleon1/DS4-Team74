@@ -1,0 +1,6 @@
+
+FECHA: FEBRERO 28 DE 2013
+
+EJECUTO: PEDRO 
+
+Se verifica los contactos de la bobina del relé TK4 que corresponde alta temperatura de devanado de baja tensión del trafo de potencia y se coloca el relé dando un disparó alas 16:04 a 16:08 trafo se le da un reset al disparo quedando normal y con relé puesto nuevamente

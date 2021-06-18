@@ -1,0 +1,26 @@
+2018/12/03 RUBEN DARIO ARBOLEDA 
+Se crea OT para realizar protocolo de pruebas de disparos eléctricos y mecánicos Unidad 2.
+
+2018/12/04 REALIZÓ: USME QUICENO JHONATAN ANDRES - FARLEY GIOVANNY DIAZ 
+Se realizó medida de tiempos de apertura y cierre del interruptor de potencia de la Unidad 2 con los siguientes resultados:
+
+Tiempos de Aperturas del interruptor.
+
+Tiempos de apertura A1 65ms
+Tiempos de apertura B1 62ms
+Tiempos de apertura C1 66ms
+
+
+Tiempos de Cierre del interruptor.
+
+Tiempos de cierre A1 160ms
+Tiempos de cierre B1 162.8ms
+Tiempos de cierre C1 161ms
+
+
+Resistencia de contactos interruptor.
+
+A1 22u
+B1 94u
+C1 44u
+

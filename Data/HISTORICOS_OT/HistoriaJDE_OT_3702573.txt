@@ -1,0 +1,13 @@
+21/03/2018 
+
+Se genera la presente OT por presentarse falla la aplicacion de la IHM dejandola fuera de servicio.
+
+
+INFORMA: TURNO 1 DE OPERACION.
+
+
+19/03/2018
+
+Se realiza verifiacion del sistema operativo en la IHM del TRE y se encuentra falla en los archivos temporales y la memoria RAM, se realiza actualizacion y depuracion del sistema, ademas de mantenimiento al hardwaret  del equipo. se normaliza esta IHM y el sistema queda en observacion.
+
+Realizado por Wtobonl

@@ -1,0 +1,14 @@
+17 DE aGOSTO DE 2015 IVAN DARIO ZAPATA GOMEZ
+EL REGULADOR DE TENSION DE LA UNIDAD G36 PRESENTO PROBLEMAS Y POVOCO PARO PARCIAL A LA UNIDAD.  EN EL PROCESO DE ARRANQUE EL INTERRUPTOR DE CAMPO ABRE Y CIERRA CONSTANTEMENTE.
+
+Agosto 17 de 2015
+Se encontró un dañó en los porta-escobillas de la excitación, 5 de ellos estaban con pérdida de material por corto en el cuadrante guía de la escobilla, los anillos rozantes también se afectaron, la superficie de contacto se erosionó con el fenómeno eléctrico, las arandelas aisladoras estaban con marcas de calentamiento y el recinto como tal estaba muy contaminado.
+Se realizaron los siguientes trabajos:
+ Recuperación de los cinco porta-escobillas en el taller.
+ Cambio de arandelas de G11 y bujes
+ Lavado de la excitación
+ Armado y ajuste de las piezas
+ Se mide la resistencia de aislamiento en los anillos rozantes: anillo superior 3.06 Giga-ohmios y anillo inferior 3.85 Giga-ohmios. 
+ Se cambian seis tensores de escobillas.
+
+Programó: William Lopera.

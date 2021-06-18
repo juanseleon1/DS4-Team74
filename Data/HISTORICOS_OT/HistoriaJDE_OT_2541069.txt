@@ -1,0 +1,19 @@
+DATOS MEDIDOS
+ FECHA 05/08/2014
+ UMA 6
+ OT 2541069
+CORRIENTES
+ R 8,6
+ S 7,9
+ T 8
+VOLTAJES
+ RS 458
+ ST 459
+ TR 458
+ REALIZO GIOVANNY DIAZ - YEISON ORTEGA
+DATOS DE PLACA
+ I 11,6
+ V 440
+ P 7,5 HP
+OBSERVACIONES
+Solo tiene una Banda y presenta falla ne el funcionamiento del control en automático a causa del termostato. 

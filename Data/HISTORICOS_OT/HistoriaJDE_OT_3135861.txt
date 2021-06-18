@@ -1,0 +1,8 @@
+2016/06/04 - 2016/06/14 GRUPO MANTENIMIENTO ELECTRICO OT: 3135861
+Se realizó destape y revision general de los barrajes, se encontró 2 soportes de barrajes malos, se realizó el cambio y se dejó en condicione normales. 
+
+2016/06/14 - SERGIO OLIVARES
+Medida de aislamiento: 
+R = 3.91 G
+S = 1.27 G
+T = 1.29 G

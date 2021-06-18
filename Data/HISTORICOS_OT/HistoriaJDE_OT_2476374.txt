@@ -1,0 +1,7 @@
+
+FECHA: FEBRERO 21 DE 2014 
+
+RESPONSABLE:  HENRY GIRALDO Y ELIECER PUSHAINA
+
+
+Por presentarse falla de corrientes asimétricas se inspeccionan los condensadores y se encuentran solo dos trabajando bien los otros 4 estaban desbalanceados, se ubicaron los dos buenos en las posiciones 1 y 2 y se colocaron 4 de Disproel pero de los pequeños, al momento de energizar para hacer prueba se fallo uno de los pequeños y quemo 2 fusibles, se cambiaron y se coloco otro condensador, se realizo nuevamente la prueba y quedo bien, solo quedo falla de aislamiento en el condensador 3.

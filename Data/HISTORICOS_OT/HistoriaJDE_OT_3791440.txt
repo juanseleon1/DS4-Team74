@@ -1,0 +1,43 @@
+FECHA: 11/12/2018
+PROGRAMO: 591910
+EJECUTO: 1997 / 856994.
+OT: 379 14 34
+ACTIVIDAD: MANTENIMIENTO PREVENTIVO
+
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO: 167__________________
+
+PRESION DE ACEITE (PSI): 101 kpa __________________
+
+TIEMPO DE TRABAJO (min): 20 minutos__________________
+
+TEMPERATURA DE ACEITE (°C): 55°C __________________
+
+TEMPERATURA AGUA (°C):  __________________
+
+VOLTAJE DE SALIDA: 480 v __________________
+
+CICLOS POR MINUTO: 60 Hz __________________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones: presenta bones sulfatados en unade las baterias.__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

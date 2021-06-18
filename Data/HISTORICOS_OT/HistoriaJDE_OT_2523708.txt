@@ -1,0 +1,13 @@
+FECHA: 2014/05/07   -  SOLICITANTE: JAIME A. ARDILA G.
+
+ESTA O.T SE HACE PARA RETIRAR DEL ALMACEN LOS ELEMTOS PARA LA INSTALACION DE LA RED PROFIBUS DE LA U3.
+
+LOS SIGUIENTES ELEMENTOS SE RETIRARON SE REINTEGRAN CUANDO LLEGUEN LOS QUE ESTÁN EN GARANTÍA.
+
+Código                 Descripción                                        Cantidad
+
+111728                Sensor de nivel                                 1 UN
+
+111717                Suiche presión diferencial              1 UN
+
+111731                Transmisor presión                          1 UN

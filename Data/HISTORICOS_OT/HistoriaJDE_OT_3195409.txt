@@ -1,0 +1,27 @@
+
+
+ 01/08/2016. SERGIO OLIVARES D. ot: 
+ Se hizo termografía al breaker de entrada y se encontro alta temperatura en la fase S.
+
+FASE R 62,7°C 
+            FASE S 83,2°C 
+            FASE T 66,8°C.
+
+ Para cambiar el breaker se debe sacar de servicio el CCM5, se tiene disponible.
+
+2016/08/27 RUBEN ARBOLEDA
+Se realizó inspeccion termografica, se encontró con temperaturas alrededor de los 60°, se dejó la puerta abierta, no se hace necesario realizar el cambio del breaker.
+adicionalemnte en días anteriores se realizó un ajuste a la proteccion termica del breaker, se lleva al valor maximo.
+
+ 01/08/2016. SERGIO OLIVARES D. ot: 
+ Se hizo termografía al breaker de entrada y se encontro alta temperatura en la fase S.
+
+FASE R 62,7°C 
+            FASE S 83,2°C 
+            FASE T 66,8°C.
+
+ Para cambiar el breaker se debe sacar de servicio el CCM5, se tiene disponible.
+
+2016/08/27 RUBEN ARBOLEDA
+Se realizó inspeccion termografica, se encontró con temperaturas alrededor de los 60°, se dejó la puerta abierta, no se hace necesario realizar el cambio del breaker.
+adicionalemnte en días anteriores se realizó un ajuste a la proteccion termica del breaker, se lleva al valor maximo.

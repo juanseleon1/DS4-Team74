@@ -1,0 +1,21 @@
+PLANEADOR: SANTIAGO RAMÍREZ, 2016-12-08
+SE GENERA OT PARA CAMBIO DE VALVULA DE INTERMITENCIA DEL REGULADOR HIDRÁULICO DE LA UNIDAD 2, LA CUAL PRESENTA FUGA DE ACEITE Y HACE QUE LA BOMBA PRIORITARIA INYECTE PRESIÓN CACA 1 MINUTO APROXIMADAMENTE.
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2016-12-08
+Se informó por parte de operación sobre el el incremento de la temperatura del aceite en el tanque sumidero de la unidad, por lo cual se observa fuga de fluido por la válvula de intermeitencia.
+De dicha válvula se encuentra una en existencia en el almacén, se procede al cambio y la vávula no deja ajustar su calibración, por lo que se procece a montar de nuevo la que tenía y se le cambia la empaquetadura.
+Las bombas quedan parando a 62Bar y arrancando a la presión de 60bar, cada 1´15´´ durante 4´´ aproximadamente.
+
+Trabajo realizado por: Deivi Baena, Carlos Guinguer y Jorge Gonzalez.
+
+Diciembre 14 de 2016
+
+ Se observa que en las 3 unidades hay fuga de aceite por las válvulas de intermitencia en el momento que termina de inyectar presión  las bombas. Se debe planear reparación de las válvulas desmontadas anteriormente, probarlas y en caso de que queden operativas,  reemplazar las que estan operando. En caso de no poder reparar las válvulas desmontadas, se deberá proceder a comprar nuevas  de repuesto. 
+
+ Los tiempos actuales de inyección de presión por acción de las válvulas de intermitencia de las 3 unidades son:
+
+ P23: 4.38 segundos cada 2 min con 45 segundos
+ P22: 4.4 segundos cada 1 min con 15 segundos
+ P21: 5.86 segundos cada 1 min con 45 segundos
+
+ Informa: Santiago Ramírez

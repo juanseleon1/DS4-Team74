@@ -1,0 +1,12 @@
+sistema de AGUA CRUDA C/M PII - SISTEMA AIRE ACONDICIONADO C/M  
+fecha: 2015-03-26 ot:2674897  mtto: eléctrico
+ejecutó:JHONATAN ARANGO -  RONAL ARANGO
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL (CCM 5 - p4) E INTERRUPTOR Y BORNES  DE POTENCIA, terminales, cableado Y MOTORES de AGUA CRUDA C/M P2 (S2), PERTENECIENTES AL SISTEMA DE AIRE ACONDICIONADO C/M. Según IDM: GCP2E0017. No se encuentran averías ni fallas en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación.
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

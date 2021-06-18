@@ -1,0 +1,7 @@
+
+2018/06/22 _ CARLOS ENRIQUE MONCADA. OT N° 3795542.
+Se cambia detector de humo fotoelectrico, perteneciente al BOX COULVERT de Porce III debido a porcentajes de compensacion de suciedad por encima del 99%.
+Realizo: Grupo CIVALCO
+2018/12/16 _ CARLOS ENRIQUE MONCADA. OT N° 3795542.
+
+OT creada para INSTALAR DETECTOR DE HUMO BOX CULVERT PLAZOLETA. PORCE 3.

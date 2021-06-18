@@ -1,0 +1,19 @@
+2016/01/23 ADONIS CADAVID
+Grupo de mantenimineto electrico:
+Realizar limpieza general al transformador de excitación, 
+Realizar pruebas de: Resistencia Óhmica, Aislamiento en alta y baja tensión, 
+Verificar ajuste de tornillería y conexiones electricas.
+
+2016/02/01 JHONATAN USME - EDWIN A - PLANEO: RARBOLG
+Se realizó medida de variables electricas así: 
+Aislamiento por el lado de alta: 847 MOhm Con 2.5Kv, equipo Metrel Pequeño
+Aislamiento por el lado de baja: 1.04 MOhm Con 500v, equipo Metrel Pequeño
+Medida de Resistencia Ohmica: 
+Alta RS: 5.543Ohm
+Alta ST: 8.404Ohm
+Alta TR: 5.531Ohm
+
+
+Baja RS: 1.757mOhm
+Baja ST: 1.606mOhm
+Baja TR: 1.678mOhm

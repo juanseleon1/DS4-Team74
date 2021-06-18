@@ -1,0 +1,15 @@
+
+2018/04/09 OT:3709682 Victor Zuleta / Luis Eduardo Arcila
+Limpieza de intercambiador de aire.
+Limpieza general al tablero del regulador.
+Se calibraron transductores de posición de los comandos de agujas y deflector.
+
+2018/04/25 OT:3709682 Victor Zuleta / Luis Eduardo Arcila
+Se cambiaron las dos unidades taquimétricas de la unidad 7  29N1 y 29N2 por unos de marca RED LION
+Se programan de acuerdo a la señal
+Montaje y puesta en servicio
+Se inyecta señales para verificar la activación de sus relés.
+
+
+
+

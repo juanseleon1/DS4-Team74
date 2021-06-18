@@ -1,0 +1,27 @@
+FECHA: 2018-11-28 OT PADRE 3779281 MTTO: ELÉCTRICO
+PROGRAMÓ: DANIEL PALACIOS
+EJECUTÓ: DARIO PUERTA
+SE REALIZA ACOMPAÑAMIENTO AL PERSONAL DE SUBESTACIONES Y LINEAS REFERENTE A LOS TRABAJOS DE INSPECCION Y PRUEBAS EN LAS GIS INTERIOR Y DPS DE LOS BANCOS DE TRANSFORMADORES DE POTENCIA N°2, INTERRUPTORES DE MÁQUINA U1 A U4, SE MIDE LA DENSIDAD Y CALIDAD DEL GAS SF6 EN LA GIS DEL TRANSFORMADORES, BUJES DE ALTA 500KV. 
+
+NOTA: LAS TERMINALES EXTRIORES SE INSPECCIONAN, Y SE REALIZAN PRUEBAS DE CALIDAD DE GAS ES ESTAS POR LA TOMA DE MEDIDA DE PRESION DE UN INSTRUMENTO DE PRESIÓN. SE ESPERA EL INFORME QUE EMITIRÁ EL PERSONAL DE SUBESTACIONES Y LÍNEAS PARA ANEXARLO A LA OT.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: 
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y PRUEBAS EN LA GIS INTERIOR Y EXTERIOR DEL BANCO DE TRANSFORMADORES DE POTENCIA No 2 DE PORCE III, SE MEDIRA LA DENSIDAD Y CALIDAD DEL GAS SF6 EN LA GIS DEL TRANSFORMADORES, BUJES DE ALTA 500 KV Y TERMINALES EXTERIORES A 500 KV.TRABAJO REALIZADO POR TECNICOS DE SUBESTACIONES Y LINEAS, EN COMPAÑIA DE PERSONAL ELECTRICISTA DE LA UNIDAD OPERACIONES PORCE.
+
+INFORME MTTO BIENAL BANCO DE TRANSFORMADORES No 2 NOVIEMBRE 2018
+Referente al Banco de Transformadores de Potencia No 2 de Porce 3:
+A las 17:18 Se entrega en operación en banco de transformadores No 2, después de realizar el mtto bienal.              
+Trabajos realizados:
+ Inspección eléctrica y mantenimiento preventivo bienal del banco de transformadores de potencia, transformadores secos de excitación de Porce 33 y Porce 34 y de auxiliares TA-02, fases R, S y T.
+ Lavado de aisladores poliméricos en las torres No 1, 7 y 8 de 500 kv. (Cuadrillas de mtto líneas de TyD).
+ Lavado de terminales poliméricas exteriores a 500KV fases R, S T y cable de reserva. (Cuadrillas de distribución Centro, con canasta de línea viva).
+ Pruebas de disparos transferidos DDT del banco de trafos, GIS interior y terminales exteriores en SF6. A las 14:10 Se inicia consignación C0161455, disparados transferidos S/E 500 kV, desde el Banco 2 de Casa de Máquinas.
+ Mantenimiento semestral eléctrico, electrónico.
+ Metrología del banco.
+ Inspección de la calidad del gas SF6 en terminales exteriores a 500KV y de las GIS interiores de transformador lado de alta. (Cuadrillas de mtto subestaciones de TyD).
+ En buje de alta de transformador fase R, realizar seguimiento por pequeña fuga de aceite en la brida del pasatapa.
+ Consignación No @147761, OT 3774281.                                                                                   Informó: 
+Jefe De Trabajo: Luis Federico Álvarez A.
+Líderes Y Tecnólogos: Daniel Palacios, Néstor Ochoa, Carlos Moncada, Walter Tobón, Cristian Gómez, Richard Jiménez.

@@ -1,0 +1,17 @@
+- FECHA : FEBRERO 28 DE 2014
+- REALIZÓ : FRANCISCO QUINTERO - ANDRES ZAPATA
+- ASOCIADO A LA OT : 2480597
+- ASUNTO : LA COORDINADORA DE CASINOS SOLICITA SE REVISE AIRE N° 1 MAYORÍA QUE NO ARRANCA.
+                        don mario el aire acondicionado no se encontraba prendiendo el compresor por tener la linea del común abierta en la terminal del compresor, esta terminal en el compresor se daño debido a un recalentamiento en el borne lo cual toco soldar con estaño el cable directamente a la terminal del compresor 
+
+se le tomaron todos los datos de funcionamiento :
+
+megaohmios:14.5M  
+
+corriente de arranque:62 A
+corriente de marcha:22 A
+voltaje:239 V
+presion por baja: 55 PSI
+-- 
+ANDRES ZAPATA 
+

@@ -1,0 +1,6 @@
+FECHA: SEPTIEMBRE 15 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla en medida de temperatura del rodamiento trasero, se inspecciona en las conexiones de esta señal y se encuentra suelto el cable de la terminal que entra en la bornera 73 de la caja de conexiones de temperatura que está ubicada al costado del generador, se corrige la conexión y se deja en servicio el aerogenerador.

@@ -1,0 +1,20 @@
+2018/09/19 _ CARLOS ENRIQUE MONCADA. OT N° 3767075.
+Se realizaron las siguientes actividades de comunicaciones:
+El sábado se repararon las líneas telefónicas:
+Almacén PIII la linea 8610 presentaba corto y fusibles quemados en los dos extremos.
+Se repara la línea telefónica 9778 del bloque 07 estaba en corto.
+Se repara línea del bloque 08 estaba abierta y el aparato tiene el teclado bloqueado, se procede a cambiarlo y normalizar el servicio.
+Se repara línea del bloque 10 la cual estaba abierta y aparato sin repique, se repara el repique quedando el aparato operativo.
+Se repara línea 8721 de la portería de la presa de PIII, estaba abierta y se cambia aparato ya que el que había tenía unas teclas que no marcaban.
+Se realiza limpieza y mantenimiento al ODF de la portería el limón el cual se encontraba con muchos bichos dentro de él.
+
+El Domingo se realiza  las siguientes actividades de comunicaciones:
+Limpieza, mantenimiento a la planta telefónica de A1, se retiran cable de unas antenas que se habían bajado y se dejaron dichos cable colgando y daban muy mal aspecto, se retiran varios UTP que ya no estaban en funcionamiento, se realiza limpieza a los ODF de este sitio.
+
+Realizo:Neiro Fabian Pérez
+Informó: Carlos Moncada.
+
+
+2018/09/15 _ CARLOS ENRIQUE MONCADA. OT N° 3767075.
+
+Se crea OT para el mantenimiento de las lineas telefonicas del campamento, almacen y porterias de Porce 3.

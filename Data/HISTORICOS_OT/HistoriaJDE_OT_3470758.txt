@@ -1,0 +1,12 @@
+FECHA: MAYO 1 DE 2017.
+SOLICITANTES: JOHN JAIRO MENESES, FABIAN GIRALDO, ROBIN TAMAYO.
+FAVOR REVISAR ALTERACION DE LA POTENCIA (MW) DE LA UNIDAD 2 DE GUADALUPE 4 ESTA MOSTRANDO UNA DIFERENCIA DE MAS DE 1O MW ENTRE LO QUE MUESTRA EL INSTRUMENTO EN EL REGULADOR DE VELOCIDAD, EL DISPLAY DEL CONTROL Y EL INSTRUMENTO DE DE POTENCIA PECA 300, SIENDO EL REAL EL DE ESTE ULTIMO.MUCHAS GRACIAS.
+
+ATT: ROBIN TAMAYO.
+
+02-05-2017
+se revisa targeta AMP2 del regulador de velocidd, se cambian potenciometros TP3 y TP5 se realiza ajusta fino a la posicion de la valvula distribuidora y distrubuidor.
+03-05-2017
+reporta oscilacion de la valvula distribuidora y esto hace que se abra la valvula de alivio, se cambia la targeta AMP2 y se calibran los lazos de control 
+ejecuto mgrupo de mantenimiento 
+programo jose montoya

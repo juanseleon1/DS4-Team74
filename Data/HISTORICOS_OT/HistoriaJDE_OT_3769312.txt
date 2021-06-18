@@ -1,0 +1,16 @@
+MP ANUAL, EQUIPOS:
+
+2281 BANCO TRANSFORMADOR 1 C/M G3
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+FECHA: 03/10/2018 
+
+se realizó limpieza externa al tablero del sistema contra-incendio del transformador.
+se realizó inspección visual, limpieza y verificación a los sensores de temperatura fase R-S-T y las caratulas de los termómetros. también se realizó limpieza a los termo pozos de los termómetros.
+se realizó limpieza a las RIO asociadas a los trafos.
+se reapretaron bornes del tablero de control de los trafos y se verificaron las alarmas y disparos inyectando temperatura con el baño térmico a cada uno de los instrumentos de temperatura del transformador, también se realizó una prueba de imagen térmica a los termómetros de los devanados y respondieron correctamente. 
+
+PROGRAMADOR: LUIS CARDONA

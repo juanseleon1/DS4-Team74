@@ -1,0 +1,7 @@
+FECHA: MARZO 20 DE 2014
+
+Equipo: Regulador Electonica de Velocidad
+
+Descripcion: Se presento bajada de potencia activa en la unidad 1, pasando de 66 Mw a 5 Mw, se procedio a darle nuevamente comando    a subir a 66Mw de forma remota y local y no respondio a la orden. En este evento el regulador no presento ningun tipo de    alarma al igual que el sistemas de eventos de la unidad.
+
+Informo: Turno 1

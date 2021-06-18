@@ -1,0 +1,12 @@
+2018/10/03 _ CARLOS ENRIQUE MONCADA. OT N° 3771740.
+Se realiza el traslado de los equipos de computo ubicados en la sala de operación para la oficina contigua y para la sala de reuniones y oficina de los supervisores ubicados en el piso 1 como tambien un PC para el piso 3 oficina de los eléctricos.
+En la parte electrica se realizan adecuaciones de los toma corrientes de la red regulada.
+se realizan las respectivas conexiones desde  SW de red corporativa quedando habilitados todos los PCs.
+En la parte telefonica se realizan los respectivos traslados de tonos asignados a cada puesto.
+Realizo: Iván Darío Cano, Jeniffer García, Milton Vargas, Ronal Arango.
+Informó: Carlos Moncada.
+
+
+2018/10/03 _ CARLOS ENRIQUE MONCADA. OT N° 3771740.
+
+Se crea OT para el montaje de cableado estructurado y traslado dePCs en Casa maquinas porce 3.

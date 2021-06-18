@@ -1,0 +1,10 @@
+Falla medida de flujo salida aceite en el TLCT . la unidad no confirma arranque del sistema la medida permanece fuera de rango en 9564 l/s
+
+
+
+06/05/2014
+Se realiza verifiacion del flujometro CF002 de la turbina, se encuentra la medida fija y con error de medida toroide, ademas de saturacion indicacion se realiza reset y programacion de este flujometro el cual continua con la falla, se cambia cabezal del flujometro y se programa de nuevo. queda funcionando bien y confirmando el arranque del sistema. indicando +/- 350 l/s 
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR

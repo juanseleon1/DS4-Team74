@@ -1,0 +1,11 @@
+07/12/2017
+LA UNIDAD PRESENTA FALLA EN LA COMUNICACION DEL COJINETE COMBINADO CON EL CONTROL DE UNIDAD, QUEDANDO SIN CONDICIONES PARA EL ARRANQUE
+
+
+07/12/2017
+
+Se realiza verificacion de los programas de comunicacion OPC, se enceuntra falla en el espacion del disco duro por reportes de fallas en comunicacion, se libera espacion fisico y se normaliza comunicacion con el proceso.
+
+Realizado por Wtobonl
+
+termimada Cerrar 

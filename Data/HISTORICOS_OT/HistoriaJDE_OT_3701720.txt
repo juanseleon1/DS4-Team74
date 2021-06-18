@@ -1,0 +1,16 @@
+2018/03/19 _ CARLOS ENRIQUE MONCADA. OT N° 3701720.
+
+Referente al daño de la Fibra Óptica entre S/E Tablón y Casa Maquinas Porce 2:
+
+Se realizó consignación local para los circuitos de la presa P2: R 5342, R 5305 y alimentador 2 de casa máquinas.
+
+Con la asesoría técnica de la empresa ROR Ingeniería se ubica y recupera la fibra óptica tipo ADSS entre las torres 3 y 4 ubicándola con sus respectivos amarres y fusionando en una nueva caja de empalme los 48 hilos los cuales se certifican, quedando habilitados los servicios de sincronismo de las 3 unidades y las teleprotecciones de Porce 2.
+
+Realizó: Grupo Electrónico, Grupo Eléctrico, turno 2.
+
+Informó: Carlos Moncada.
+--------------------
+
+2018/03/18 _ CARLOS ENRIQUE MONCADA. OT N° 3701720.
+
+Se crea OT para la reparación y reubicación de la fibra Óptica  entre S/E Tablón y casa maquinas Porce 2.

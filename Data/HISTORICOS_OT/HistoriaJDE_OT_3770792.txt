@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica de las rejas coladeras de la captación Guadalupe III.
+
+
+Programador: Camilo Montagut - 31/10/2018
+
+Se realiza la adecuación mecánica de en las rejas coladeras que comprendió la corrección de una serie de baches y deformaciones que se encontraban en las rejas coladeras impidiendo la operación normal del rastrillo. 
+
+Además se realiza el cambio de piezas mecánicas en el sistema de tracción del mismo rastrillo (poleas del cable tractor).
+
+Finalmente se verifica que el rastrillo opere correctamente al realizar pruebas en toda la superficie de las rejas coladeras.
+
+Ejecuta: equipo de mantenimeinto mecánico UOG

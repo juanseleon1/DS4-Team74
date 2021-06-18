@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: CIVALCO.
+Se realiza por parte del contratista CIVALCO inspección y pruebas al sistema contra incendio de la unidad 1, se llenan formatos con datos obtenidos. Se hace mantenimiento a los paneles de detección de humo, se llenan formato con los datos obtenidos. Se hace mantenimiento a las baterías de los gabinetes de control del sistema contra incendio (PCIZ), se llena formato con datos obtenidos.
+Esta orden de trabaja la realiza el contratista CIVALCO.
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

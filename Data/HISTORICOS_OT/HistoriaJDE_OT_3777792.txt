@@ -1,0 +1,11 @@
+SOLICITADA POR: ORLANDO CORREA SANTAMARIA
+FECHA: 24/10/2018
+
+SE DIERON PARO DE EMERGENCIA LAS DOS UNIDADES DE LA PLANTA TRONERAS POR FALLA CANAL EN EL RELÉ PP Y FALLA EN EL RELÉ SEL 2505 DE LA LINEA SALTO - TRONERAS 115 Kv.
+
+Se dieron paro de emergencia las unidades 1 y 2 de Troneras con 20 Mw cada una, esto debido a falla canal en el relé PP (311L) y falla en el relé 2505 en el tablero RB1 de la línea Salto - Troneras 115 Kv. Se informa al Ing. Cesar Giraldo, se elabora solicitud # 3777792, este evento genera desviación al programa de generación de +- 160 Mw. se hace necesario bajar carga en GPE III.
+
+OCTUBRE 24 DE 2018
+En conclusión la pérdida de alimentación del equipo de protección SEL 311L de la línea El Salto 1-Troneras ocasionó que se fallara el canal de comunicación (87CHFAIL), condición que género un disparo transferido al equipo de protección SEL 311L  de la línea Troneras-El Salto a 115kV debido a que la línea de transmisión se quedó sin protección diferencial durante el corte de alimentación.
+ 
+Con respecto al registro de eventos de los equipos de protección eléctrica de las unidades de generación 1 y 2, se evidencia que su salida obedeció a la orden de disparo externo que recibió como consecuencia de la salida de las líneas de transmisión.

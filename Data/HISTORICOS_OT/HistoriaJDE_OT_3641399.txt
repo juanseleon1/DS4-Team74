@@ -1,0 +1,6 @@
+Fecha: Noviembre 15/2017Programo: Daniel Palacios O.Ejecuto: Edwar Ardila (Ingeniero Supervisor) Civalco
+Prueba de funcionalidad de equipos exitosa, los equipos reportan eventos de forma exitosa y el panel de control cumple con lógica de programación y funcionamiento de manera idónea. Se realiza prueba de autonomía a baterías y se llena planilla, se pesan los 24 cilindros de CO2 y se llena planilla.
+Esta orden de trabaja la realiza el personal del contratista CIVALCO.
+
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD

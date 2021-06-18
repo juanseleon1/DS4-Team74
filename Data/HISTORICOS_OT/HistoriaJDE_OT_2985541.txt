@@ -1,0 +1,2 @@
+2015/12/30 - 2016/03/01 GRUPO DE MANTENIMIENTO ELECTRICO OT: 2985541
+Se identificó una falla en el control del puente grúa de la clara en la OT: 2963376, se realizó revision y se evidenció falla en una de las pistas de una terjeta de control, Victor Zuleta realizó la reparación, se realizó pruebas y se dejó en condiciones normales. 

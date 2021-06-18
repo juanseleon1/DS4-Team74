@@ -1,0 +1,20 @@
+MP ANUAL EQUIPOS:
+-2372 EXCITACIÓN PRINCIPAL U3 G3
+-2373 EXCITACIÓN PRINCIPAL U4 G3
+-2374 EXCITACIÓN PRINCIPAL U5 G3
+-2375 EXCITACIÓN PRINCIPAL U6 G3   
+
+
+SEPTIEMBRE 28 DE 2018
+
+PLANEADOR: OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR: WILLIAM LOPERA
+
+OCTUBRE 5 DE 2018
+Se realiza mantenimiento preventivo anual electrico se retiran las escobillas de los porta escobillas, se realiza prueba de aislamiento antes de la limpieza, se desmonta la cúpula y se calibra la sobre velocidad electrica, se lava toda la excitación con dieléctrico, se miden las escobillas, después de la limpieza se toma nuevamente la maedida de aislamiento y se monta la cúpula de nuevo. Se cambiaron las escobillas número 16 y 18 de la excitación principal.
+Estos son los resultados del antes y el después de la limpieza.
+ANTES                                                  DESPUÉS
+Anillo superior: 2.84 M 500VDC         Anillo superior: 3.09 G 503VD
+Anillo inferior:   2.64 M 499VDC         Anillo inferior:   3.47 G 502VD
+William Lopera.

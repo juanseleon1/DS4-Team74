@@ -1,0 +1,9 @@
+MP ANUAL EQUIPOS:
+- 2289 BARRAJE U3
+
+Se desacoplan las barras de salida del estator para pruebas eléctricas, se realiza mantenimiento de acuerdo al instructivo anual, se verifica estados de los CT’ S y se hace limpieza, luego de realizar el respectivo mantenimiento se vuelve a normalizar en barraje verificando conexiones para evitar puntos calientes. 
+
+Programo: Carlos Andres Forero
+Ejecuto: Daniel Arango-Jorge Echeverry
+
+

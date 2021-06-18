@@ -1,0 +1,12 @@
+LUNES 31 DE JULIO 2017 GUILLERMO LEON ECHEVERRY
+
+SE GENERA ESTA OT POR PARO RAPIDO 68R OCASIONADO POR LA COMPUERTA DE DESCARAGA. EN EL MOMENTO DE HACER LA MANIOBRA DE FORMA LOCAL PARA LA RECUPERACION DE LA COMPUERTA, ESTA ENVÍA UN PARO RAPIDO A TCV Y PROTECCIONES. LA UNIDAD SE ENCONTRABA CARGADA CON 175 MW
+
+
+31/07/2017
+
+Después del paro de la unidad se realiza verificación de eventos y fallas, se encuentra que durante la operación de recuperación de la compuerta en la unidad 3 fue forzado el relé K16, esta señal es la confirmación de compuerta abierta para la válvula esférica razón por la cual el disparo 86R  fue proveniente de la válvula esférica cuando pierde la posición de la compuerta.
+Realizado por WTOBONL
+PLANEADOR: LUIS FEDERICO ALVAREZ A.
+TERMINADA CERRAR 
+

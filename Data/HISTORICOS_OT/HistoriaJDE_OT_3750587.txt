@@ -1,0 +1,21 @@
+FECHA: 01/08/2018 SOLICITADO POR: Natalia Urrea - Camilo Cadavid - Operación G4
+DESCRIPCIÓN: Se realiza maniobra de cierre del interruptor de 13.2kv R53-10 en Guadalupe IV con el fin de alimentar los servicios auxiliares de la central Guadalupe III debido a la consignación del trafo de 5MVA en Salto III, se dió mando de cierre desde mímico 13.2kv sala de operación Guadalupe IV el cual responde correctamente.
+
+Durante las maniobras de cierre del interruptor de este circuiro, se evidencia que el motor de carga de resorte entra en operación continua por un periodo de 3 minutos aproximadamente, este deja de operar lentamente y se siente en el ambiente un fuerte olor a quemado proveniente de la celda H15.
+Se le informa el inconveniente a la ingeniera Sandra Carmona, se verifica en sitio y se encuentra abierto el minibreaker FM de corriente continua en el tablero de control de la celda H15 que corresponde al circuito R53-10 de Guadalupe IV.
+
+01/08/2018
+
+Se verifica en planos (FOLDER R53-13.2 SD-T1: Subestacion Guadalupe IV - R53 Sistema de Distribucion 13.2kV Transfomador 1) Que  el minibreaker FM que aparentemente estaba abierto no tiene relacion con el evento. Segun planos este minibreaker alimenta a 125Vdc el rele SEL 551C de sobrecorriente y el contacto auxiliar envia un permisivo de Orden de Cierre desde Mimico. Se descarta que este elemento tenga relacion con el olor detectado en la celda. 
+
+Queda en duda si los planos estan actulizados ya que estando este minibreaker abierto el rele estaba energizado y el interruptor recibio mando de apertura y cierre de forma remota desde Sala de Operacion.
+
+Se solicta al personal de T&D (que hicieron  presencia en la subestacion 44KV GIV) hacer el cambio del interruptor de la celda de reserva por el interruptor con sospecha de falla para asi garantizar el respaldo de S.Aux de GIII en todo momento. Adicionalmente se les solicita revisar l posible causa de la falla del interruptor de la celda +HA15 circutio R53-10.
+
+Se hace el cambio del interruptor de reserva y queda disponible la celda +HA15 circuito R53-10 disponible y en condiciones operativas. Se espera el informe del peronal de T&D sobre la condicion del interruptor con sospecha de falla.
+
+Informa: Sandra Carmona
+
+22/08/2018
+
+Se esta a la espera de informacion por parte de T&D sobre el repuesto para ejecutar el correctivo del interruptor.

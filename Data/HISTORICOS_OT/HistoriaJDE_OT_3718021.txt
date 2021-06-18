@@ -1,0 +1,16 @@
+2018/05/23 _ CARLOS ENRIQUE MONCADA. OT N° 3718021.
+Se realiza mantenimiento general, limpieza y verificación cableado e instreumentación, se toma voltaje en las fuentes encontrandolas en sus rangos operativos. Se verifican sensores de apertura, cierre y recuperación, estos funcionan de manera normal.
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+
+XL: VERIFICAR Y LIMPIAR EL CONTROL DE LA DESCARGA +TCD DE LA UNIDAD
+
+
+FECHA: 23/05/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

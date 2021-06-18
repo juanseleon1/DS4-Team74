@@ -1,0 +1,9 @@
+SOLICITANTE: William Lopera
+Revisar el control que no da condiciones de arranque, fuente de 24Vdcc en corto.
+
+
+ABRIL 20 DE 2015
+
+Por descarga electrica se dañaron dos fuentes con salida a 24 Vcc, se colocaron en corto, se cambian por nuevas, se le hace pruebas al control y queda funcionando normal.
+
+William Lopera.

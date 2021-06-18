@@ -1,0 +1,10 @@
+
+2018/09/25 DIEGO BEDOYA
+Se realiza la revisión del nivel de aceite del cojinete superior, haciendo una comparación entre el valor que muestra el prosonic y fisicamente con flexómetro y se encuentra de la siguiente manera:
+
+Nivel de aceite en prosonic: 84 mm
+Nivel de aceite con flexómetro: 80 mm
+el trabajo fue realizado por Andres Alzate y León Parra
+
+Se realiza el lavado del intercambiador de calor del cojinete superior, se deja limpio y chequeado con el agua de servicio.
+el trabajo fue realizado por: Antonio Molina, Juan Dvid flórez y Jorge Duque.

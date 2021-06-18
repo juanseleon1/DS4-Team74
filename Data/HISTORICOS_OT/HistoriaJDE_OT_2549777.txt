@@ -1,0 +1,18 @@
+
+14-Junio-2014
+Sale en el despliegue de alarmas una serie de eventos de la unidad 7 el cual es provocado por falla en el controlador, al inspeccionarlo, se encuentra fallado en el rack inferior todas sus tarjetas; y holos a quemado al rededor de la fuente.
+Se procede al cambio de la fuente DSSR122 pero al energizar la CPU se queda en estado 88.
+
+Cesar Tulio Jimenez
+
+16-Junio-2014
+Se retiran las tarjetas para realizar mantenimiento.
+Se encuentran falladas las tarjetas DSBC172 y la DSSB140 se cambian por unas nuevas quedando el controlador trabajando en condiciones normales.
+
+Cesar Tulio Jimenez
+Luis Eduardo Arcila
+
+
+
+
+

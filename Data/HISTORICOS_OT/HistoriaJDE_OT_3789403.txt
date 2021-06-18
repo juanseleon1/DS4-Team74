@@ -1,0 +1,23 @@
+PLANEADOR: FEDERICO ALVAREZ
+PROGRAMADOR: OSCAR PARRA
+FECHA: 26-11-2018
+OT PADRE: 3779281
+CONSIGNACIÓN: @
+
+BAM: INSPECCIONAR Y VERIFICAR ESTATOR DEL GENERADOR DE LA UNIDAD
+*****************************************************************************************************************************************************************************************
+SE REALIZA LIMPIEZA GENERAL, SE RETIRAN TAPAS DE INSPECCIÓN PARA SU RESPECTIVO CHEQUEO ENCONTRÁNDOSE EN ESTADO NORMAL, SE RETIRA TAPA DE INSPECCIÓN JUNTA DE UNO DE LOS TERCIOS DE ESTATOR ENCONTRÁNDOSE EN ESTADO NORMAL, SE REALIZA INSPECCIÓN VISUAL A LOS RADIADORES Y NO SE EVIDENCIA FUGA ALGUNA EN ELLOS, SE REALIZA LIMPIEZA DE LOS MISMOS Y SE MEJORA EL ESTADO DE LAS LAMINILLAS DE AIREACIÓN CON PEINE METÁLICO. SE REALIZA PINTURA CON GLIPTAL DIELÉCTRICO A CIERTOS PUNTOS EN EL ESTATOR PARTE TRASERA POR NOTARSE UN POCO AMARILLENTOS O FALTOS DE PINTURA.
+
+EJECUTO: CARLOS USUGA, FERNANDO DELGADO
+INFORME MTTO BIENAL UNIDAD 4 PORCE 3 29 NOV 2018
+Referente a la Unidad N° 4: Mantenimiento terminado el día 29 a las 23:00 Se entrega para operación la unidad N°4 , después del mantenimiento bienal. Se realizaron los siguientes trabajos:
+ Inspección eléctrica del generador (cabezas de bobinas, polos, uniones interpolares y rotor en general).
+ Inspección mecánica del generador (estator, rotor, se realizó la lubricación de cuñas en el rotor.
+ Inspección mecánica de la turbina. Se reemplazaron los patines superior axial y un patín radial, inspección de holguras de los alabes móviles en el distribuidor y cámara espiral.
+ Inspección metrológica a la unidad.
+ Pruebas eléctricas al generador: rotor y estator (Ing. Carlos Palacio y Cesar Tovar).
+ Pruebas de disparos de la unidad: Paros Rápidos 86R, Paros de Emergencia 86E1 y 86E2.
+ Se realizó mantenimiento preventivo semestral eléctrico, mecánico y electrónico.
+ Medidas de resistencia de aislamiento en rotor: Antes: 321 K/322VDC y después del mtto: 98.4 M/513VDC.
+ Consignación No @147761, OT 3779281.
+Jefe de Trabajo: Luis Federico Álvarez.                                                                                         Trabajos Eléctricos y Pruebas: Daniel Palacios - Cristian Gómez.                                                 Trabajos Electrónicos: Carlos Sánchez - Néstor Ochoa.                                                                Trabajos Mecánicos: Oscar Parra y Renato Montoya.

@@ -1,0 +1,38 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA PARA EL REGISTRO HOROMETRO , CAMBIO DE ACEITE Y FILTROS COMPRESORES SERVICIOS GENERALES
+
+
+HOROMETRO: __________________
+
+PRESION DE ARRANQUE: __________________
+
+PRESION DE PARO: __________________
+
+TIEMPO DE TRABAJO: __________________
+
+TIEMPO DE REPOSO: __________________
+ 
+TEMPERATURA CARCAZA MOTOR: __________________
+
+TEMPERATURA CARCAZA UNIDAD:__________________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:__________________
+
+ULTIMA FECHA DE CAMBIO DE FILTROS.__________________
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0018

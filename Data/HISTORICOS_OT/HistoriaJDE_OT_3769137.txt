@@ -1,0 +1,10 @@
+26/09/2018
+VALVULA DE GUARDA BY-PASS EN VALVULA DE ADMISION UNIDAD G36 BLOQUEADA POR PEGA MECANICA Y EN POSICION CERRADA POR TANTO ESTA FUERA DE SERVICIO
+CARLOS TORRES - GERARDO PEREZ 
+
+
+Programador: Camilo Montagut - 31/10/2018
+
+Se realiza la adecuación mecánica de en el by-pass de la UG36 que comprendió el cambio de la válvula principal del sistema por otra válvula reparada. Al momento de desmontar la válvula principal se encontró que el acople del vástago con la compuerta se encontraba deterioradado impidiendo que cumpliera su función, además se encontró una fisura considerable en el vástago de la misma válvula.
+
+Ejecuta: equipo de mantenimeinto mecánico UOG

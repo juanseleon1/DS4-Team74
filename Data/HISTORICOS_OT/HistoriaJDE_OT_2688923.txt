@@ -1,0 +1,13 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+18/FEBRERO/2015
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza limpieza e inspección visual al sensor de nivel y se revisan sensores de vibración, se dejan calibrados así: CSPL 9.95 VDC, CSPR 9.35 VDC y el AXIAL se encontró en 9.48 VDC. 
+Nivel de aceite cojinete superior se encontró en 460.3mm, el nivel patrón es 530mm. No se le adiciono aceite.
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la maquina según el formato interno que el grupo electrónico está manejando, que se encuentra en la siguiente ruta \\Wperezg5\MTTO UNIDADES GPEPORCE\2015\CUATRIMESTRALES G3 <file:///\\Wperezg5\MTTO UNIDADES GPEPORCE\2015\CUATRIMESTRALES G3>. 
+Se realizó limpieza e inspección visual a las RTD del cojinete.
+
+ COJ GUIA SUP °CPATRÓN °C ACTE1 SEG 640 40,1 40,460 60,1 60,380 80,1 80,1ALARMA 70,0 70,0DISPARO 80,0 80,0
+Programador: OSCAR ARANGO
+Ejecuto: FRANCISCO GONZALEZ - MARLON CARMONA - FREDY DUARTE

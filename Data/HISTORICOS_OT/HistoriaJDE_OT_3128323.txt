@@ -1,0 +1,14 @@
+JHON MARIO PEREZ MAYO 29/16
+
+REVISAR LA UNIDAD TAQUIMETRICA EN ESTA UNIDAD. LA MAQUINA PRESENTA PARO POR SOBREVELOCIDAD EN DOS OPORTUNIDADES CON FALLA MECANICA. SE OBSERVA LA VELOCIDAD EN 560 RPM.
+
+2016/05/29 ANGEL ADONIS CADAVID OCHOA
+SE DIRECCIONA OT AL EQUIPO ELECTRONICO.  
+
+
+2016/05/30
+
+Por oscilaciones en la velocidad ocasionando varias  salidas de maquina por sobrevelocidad, se cambia tarjeta VAI60 del regulador electrónico de velocidad de la U8, quedando en condiciones normales de operación.
+
+Sergio Olivares
+Learcilas

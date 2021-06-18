@@ -1,0 +1,5 @@
+
+2016-11-08 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3289040,         
+Se realizó adecuación de cableado del CCM5, para instalar sistema de reset automático ante falla en tensión de 480VAC, queda pendiente realizar la compra de un PLC LOGO de Siemens y continuar con el montaje, se montó la compra del PLC en la OT: 3360238
+2016-11-08 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3289040,         
+Se realizó adecuación de cableado del CCM5, para instalar sistema de reset automático ante falla en tensión de 480VAC, queda pendiente realizar la compra de un PLC LOGO de Siemens y continuar con el montaje, se montó la compra del PLC en la OT: 3360238

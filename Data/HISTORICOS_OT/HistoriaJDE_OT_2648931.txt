@@ -1,0 +1,15 @@
+2014-12-10 EDWAR LONDOÑO - SEBASTIAN HINCAPIE
+Se realizó revisión y medidas electricas, se tomó los siguientes registros: 
+
+UMA 7
+OT 2648931
+CORRIENTES
+R 3
+S 3
+T 3
+VOLTAJES
+RS 463
+ST 463
+TR 460
+
+No cuenta con Guarda de Poleas

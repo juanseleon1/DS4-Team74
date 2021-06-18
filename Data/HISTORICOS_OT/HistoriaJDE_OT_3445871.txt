@@ -1,0 +1,9 @@
+SOLICITANTE:
+
+Se presentan problemas de comunicaciones falla interbus en el Aerogenerador 11 del parque eolico Jepirachi. Se requiere verificacion de funcionamiento. 
+Reporta German Echavarria
+
+
+
+Programador: Henry GiraldoFecha: Abril 04/2017Ejecutante: German Echavarria
+Se realiza inspeccion del controlador superior (top Box), se encuentra variacion en el voltaje de la fuente, se realiza el cambio de la fuente por una que se deja en observacion. Queda en servicio el aerogenerador.

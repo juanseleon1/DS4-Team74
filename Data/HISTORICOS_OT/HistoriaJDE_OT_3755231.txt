@@ -1,0 +1,13 @@
+2018/08/15 RUBEN ARBOLEDA
+Se crea OT para realizar planos del sistema de refrigeración del cojinete superior de la unidad 5
+
+2018-08-15 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3755231, PASO:1          
+Se realizó identificación de las señales para elaboración de planos de las motobombas de refrigeración del cojinete superior de la unidad 5.
+
+2018-08-16 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3755231, PASO:2          
+Se continuó con identificación de las señales para elaboración de planos de las motobombas de refrigeración del cojinete superior de la unidad 5.
+
+2018-08-17 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3755231, PASO:3          
+Se continuo con identificación de las señales para elaboración de planos de las motobombas de refrigeración del cojinete superior de la unidad 5.
+
+Los planos quedaron en la carpeta de los planos de la unidad

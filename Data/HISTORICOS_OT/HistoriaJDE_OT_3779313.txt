@@ -1,0 +1,12 @@
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779313.
+Se realiza mantenimiento general, limpieza y verificación al cableado, todo se encuentra dentro de los parámetros normales y operativos.
+
+El subsistema queda en condiciones para la operación comercial.
+
+                                                     MEDIDAS A LOS SENSORES DE VIBRACION DE LOS COJINETES UNIDAD 2 P3              COJINETE SUPERIOR                COJINETE COMBINADO                 COJINETE TURBINA       DESCRIPCION     MEDIDA            DESCRIPCION    MEDIDA           DESCRIPCION     MEDIDAACC UGB 090 (PCU) 12.11 mA ACC LGB 090 (PCU) 11.90 mA ACC TGB 090 (PCU) 11.70 mAACC UGB 000 (PCU) 12.5 mA ACC LGB 000 (PCU) 12.44 mA  ACC TGB 000 (PCU) 13.2 mA  ACC AXIAL LGB 090 (PCU) 11.58 mA
+Realizó: Richard Londoño, Iván Darío Cano.
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779313.
+OT programada para el mantenimiento VIBRACIONES U2 P3.
+
+XL-VERIFICAR Y LIMPIAR EN EL MONITOREO PCSV-PCSD, LA INSTRUMENTACIÓN DEL SISTEMA DE VIBRACIONES Y DESCARGAS PARCIALES.

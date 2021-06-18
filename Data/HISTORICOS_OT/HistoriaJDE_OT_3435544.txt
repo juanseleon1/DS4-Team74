@@ -1,0 +1,9 @@
+La Unidad aborta secuencia de arranque en modo remoto.
+Avanza sólo hasta la apertura de By-Pass y se aborta por tiempo expirado.
+El evento se presentó 2 veces el día 2017/03/25 a las 18 horas.
+
+
+REALIZO: CESAR T. JIMENEZ
+FECHA:   15/05/2017
+
+SE REVISARON LOS TIEMPOS DE EJECUSION DE CADA PASO DE ARRANQUE DE MAQUINA, SE CORRIGUIO EL DE APERTURA VALVULA ESFERICA, A 4 MINUTOS. QUEDA ARRANCANDO NORMAL.

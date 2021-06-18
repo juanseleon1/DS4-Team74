@@ -1,0 +1,16 @@
+FECHA: OCTUBRE 08 2014 12:02
+PLANEADOR: SANDRA CARMONA
+
+EVENTO
+
+El dia miercoles 8 de octubre la unidad 2 preseta paro parcial 2. Se desconoce la causa del paro, ya que el scada no arroja inforamcion suficiente.
+
+ANALISIS
+
+
+09/10/2014
+
+Se realizan pruebas en el banco de tiristores 1 de la unidad 2, se verifican los lazos de comunicacion y las fuentes que alimentan esta banco de tiristores, ademas se ajustan los datos de temperatura rotor enviados por ABB, no se encontro problema alguno para la falla mensionada, ambos bancos de tiristotres funcionan bien ante las pruebas realizadas.
+
+Realizado por Wtobonl
+

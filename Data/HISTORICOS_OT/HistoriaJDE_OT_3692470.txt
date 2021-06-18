@@ -1,0 +1,9 @@
+XI: VERIFICAR, MEDIR, COMPROBAR  PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR: LUIS CARDONA
+Se realizó mantenimiento según orden de trabajo, se verifico el nivel de aceite y se encontró en 218 mm, el nivel patrón es de 220 mm, no se le recupero aceite, el nivel se dejó en el punto de referencia mecánica.
+vibraciones: CTL: 8.83 vdc, CTP: 9.16 vdc
+Con el calibrador de procesos se inyectaron los transmisores de temperatura que están programados dentro del plan de mantenimiento de unidades con el fin de verificar su correcto funcionamiento y sus puntos de alarmas y disparos. 

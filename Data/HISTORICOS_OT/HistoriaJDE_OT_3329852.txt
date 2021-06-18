@@ -1,0 +1,12 @@
+MANTENIMIENTO PREVENTIVO AL TRANSFORMADOR DE LOS SERVICIOS AUXILIARES 480 VAC
+
+NOVIEMBRE 10 DE 2016
+Se realizaron las siguientes actividades:
+
+-Se inspeccionan las conexiones de lado de alta y de baja, verificando que no hubiese puntos calientes ni sulfatación. 
+
+-Se realizó mantenimiento general y desconexión, para realizar pruebas de aislamiento IP. Los resultados obtenidos en todo el transcurso de la prueba desde el minuto hasta los diez y el mismo índice de polaridad, son óptimos para las condiciones de servicio.
+
+En la siguiente ruta del servidor queda la información, de los registros fotográficos y los resultados de las pruebas realizadas: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\IP Tra>
+
+PROGRAMÓ: Carlos Forero.

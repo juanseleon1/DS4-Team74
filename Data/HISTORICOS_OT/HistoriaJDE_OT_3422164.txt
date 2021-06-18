@@ -1,0 +1,18 @@
+
+2017/05/11_ CARLOS ENRIQUE MONCADA. OT N° 3422164.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION EN EL TABLERO DE CONTROL DE  UNIDAD 1.
+
+Se reapreta tornilleria de los tableros de control turbina (TCT), protecciones, regulador de tensión, control y potencia, regulador de velocidad, tableros de control bombas, valvulas esfericas, sello de operación turbina. 
+
+EL SUBSISTEMA QUEDA EN CONDICIONES PARA LA OPERACION.
+
+REALIZO: JENIFFER GARCIA - DAVID ATEHORTUA.
+--------------------
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AL:MANTENIMIENTO Y LIMPIEZA
+
+Plan bornera en tableros de control, unidad 1
+
+Reapretar tornilleria de los tableros de control turbina (TCT), protecciones, regulador de voltaje control y potencia, regulador de velocidad, tableros de control bombas, valvulas esfericas, sello de operación turbina. Esto incluye reles de control.

@@ -1,0 +1,15 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+2014/10/23  OSCAR GIRALDO - JHONATAN USME - FABIO HERRERA
+Se realizó limpieza geeral al recinto de anillos, y se realizó medida de aislamiento así: 
+ANTES DE LIMPIEZA
+ROTOR + BARRAJE 110 K
+ROTOR  84 K
+BARRAJE 73 K
+
+2. DESPUES DE LIMPIEZA
+ROTOR + BARRAJE 4.5 M
+ROTOR  4.53 M
+BARRAJE 1.53 G
+
+Nota: No se realizó cambio de escobillas, la medida minima registrada fue de 28.2 milimetros. 

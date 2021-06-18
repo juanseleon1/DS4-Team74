@@ -1,0 +1,17 @@
+2014/06/01. CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA REALIZAR MANTENIMIENTO ANUAL ELECTRONICO GENERAL  AL SISTEMA
+
+
+04/06/2014
+
+durante este dia se realizan la actividad de verificacion de  los instrumentos retirados, se verificaran con los equipos patrones despues de realizar limpieza y ajuste de estos, el sensor de desgaste del sello fue necesario reemplazar se encontro con problemas.
+
+Realizado por Wtobonl
+
+
+
+06/06/2014
+
+Se realiza verificación de la instrumentación   profibus  en el cojinete  turbina, se realiza backup de la aplicación y se encuentra en el sensor de flujo aceite de la turbina  la RTD mala, este evento fue anterior al paro de la unidad y fue bloqueada para evitar fallas o errores de la medida, continua bloqueada esta indicación dentro del toroide.
+
+Realizado por Wtobonl

@@ -1,0 +1,20 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FECHA: ABRIL 01-2014
+
+
+OT´S DEL CUATRIMESTRAL QUE SE EJECUTA DENTRO DEL CAMBIO DE POLOS DE LA UNIDAD
+
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+09-05-2014
+SE REALIZA TRIMESTRAL
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL -8,94 VDC y 
+CTPR -8,86VDC   - KPH: -3,55VDC, se ajusto a -7,56VDC
+Nivel cojinete de turbina se encontró en  64-mm se le adiciono aceite, el patrón es referenciado con la varilla.
+Se inyectan las señales
+  COJ TURBINA °C PATRÓN °C METAL 2 METAL 2 ACTE 4 ACTE 640 40,2 40,2 39,6 4060 60,2 60,0 60,2 6080 80,2 80,0 80,1 80,1ALARMA  80,0 85,0 75 80DISPARO  85,0 90,0 80 85
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\wperezg5\MTTO UNIDADES GPEPORCE\2014\TRIMESTRALES G4 
+JOSE MONTOYA

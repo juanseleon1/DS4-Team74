@@ -1,0 +1,40 @@
+SABADO 3 DE MARZO DE 2018
+
+DESPUES DE NORMALIZADA LA TRANSFERENCIA DE 480V EN CAMARA DE VALVULAS Y VERIFICAR CORRECTO FUNCIONAMIENTO SE DEJA EN OBSERVAR PARA EVIDENCIAR SI SE REPITEN LAS SEÑALES EN SCADA DE AUSENCIA DE TENSION.
+
+OPERACION REPORTA QUE ALARMAS SIGUEN SALIENDO PERO DEJAN RESETEAR.
+
+SE PROGRAMA LA REVISION A LA COMUNICACION DE CAMARA DE VALVULAS CON CENTRO DE CONTROL PARA SER ATENDIDA CON ESTA OT.
+
+INFORMA: SANDRA CARMONA
+
+JUEVES 15 DE MARZO DE 2018.
+SOLICITANTES: ROBIN TAMAYO; JOHN OCHOA.
+REVISAR LAS COMUNICACIONES ENTRE CAMARA DE VALVULAS G4 Y CONTROL G4 YA QUE SE ESTAN PRESENTANDO  REITERADAMENTE ALARMAS POR FALLAS DE ALIMENTACION AC Y DC. MUCHAS GRACIAS.
+
+11-03-2018
+SE REVISAN LAS COMUNICACIONES Y SE INYECTA LA FIBRA OPTICA DESDE EL TRANSIVER HASTA EL ODF DE CAMARA VALVULA, SE OBSERVA QUE LA SEÑAL LLEGA MUY ATENUADA, SE LIMPIAN LAS FIBRAS TANTO EN CAMARA VALVULA COMO EN EL ODF Y TRANSIVER DE GUADALUPE Y SE OBSERVA QUE LA SEÑAL QUEDA BIEN.
+GONZALO ARDILA, CARLOS GIORDANELLI, ZORAIDA MONSALVE, LUIS CARDONA, JOSE MONTOYA.
+
+15-03-2018
+INFORMAN QUE LAS SEÑALES DE CAMARA VALVULA SIGUEN PRESENTANDO OSCILACION.
+
+Jueves 12 de Abril del 2018.
+Referente a Cámara de Válvulas Guadalupe IV: Se realiza verificación del lazo de comunicación entre PLC sistemas comunes y de cámara de válvulas G IV; se detecta atenuación en uno de los hilos de fibra óptica (TX). Se procede a cambiar este por otro hilo disponible desde cámara de válvulas G IV hasta PLC de sistemas comunes, posteriormente se revisa funcionamiento de lazo de comunicación y se verifica por medio de maniobras en cámara de válvulas G IV; obteniendo un correcto funcionamiento. Queda en observación por si continúan presentándose las alarmas en cámara de válvulas G IV.
+
+Informo: Bernardo Bedoya; Gonzalo Ardila; Adrián Cardona; Oscar Arango; Carlos Giordanelli
+
+21-04-2018 informe diario
+Siguen apareciendo con frecuencia las alarmas prioridad 1 "G4CMVALMARCERR_A G4CM", "G4CMABIERTA_E G4CM"  VÁLVULA MARIPOSA G4 CERRADA y las demás de prioridad 2 asociadas a estas.
+
+02-05-2018
+Se cierra OT 3695860, la cual estaba ejecutandose en paralelo dando atencion al mismo evento, se decide dar continuidad a la atencion a traves de esta OT, debido a que fue la que se creo por el grupo de operacion.
+informo: Luis Adrian Cardona, Jose Montoya
+
+16-06-2018
+se verifico funcionamiento de falla 480 vac, se encontró señal forzada en programa de PLC Gefanuc, se desforzó y se verifico su correcto funcionamiento
+17-06-2018
+aprovechado el vaciado de la tubería GIV el 16/06/18, se desconectó el canal de fibra óptica por el que se realiza la comunicación con cámara de válvulas en tablero de sistemas comunes, esto con el fin de descartar el punto desde el cual se continúan activando dichas alarmas, después de la desconexión, se continuaron presentando las alarmas de forma esporádica, con lo que se evidencio que el problema se estaba generando localmente en el controlador de sistemas comunes, por lo que se procede realizar modificaciones en el programa del plc, a los bloques de comunicación relacionados con cámara de válvulas, se ajustan tiempos de respuesta en el lazo de comunicaron y se descarga nuevamente programa de controlador. se verifica el buen funcionamiento de la comunicación, y queda en observación el comportamiento de la misma.
+informo: Luis adrián Cardona, juan Caicedo.
+fecha 03/07/2018
+Después de estar en observación durante 15 días, y no presentarse nuevamente las alarmas que se estaban atendiendo con la Ot: 37000969, se cierra dicha Ot, y se informa que el problema se da por solucionado

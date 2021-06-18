@@ -1,0 +1,5 @@
+2015/09/16 SERGIO OLIVARES - RUBEN ARBOLEDA
+Se realiza OT para montaje de alumbrado navedeño en las diferentes instalaciones de la central Guatapé
+
+2015/11/10 - FERNANDO RUIZ - SEBASTIAN HINCAPIE - JHONATAN USME - EDWIN ARANGO (PRACTICANTE) PROGRAMADOR: RARBOLG
+Se inicia con la revision de cableado y manguera disponible para el montaje de alumbrado navideño, el tiempo de edwin Arango no se registra ya que no cuenta con código JDE.

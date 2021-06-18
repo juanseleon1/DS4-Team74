@@ -1,0 +1,12 @@
+11/09/2018  Juan Camilo Montoya Fonnegra
+
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL PALACIOS, RICHARD JIMENEZ R.
+
+Referente a la Pila 4 Presa Porce III: Se genera la presente OT por presentar falla el cargador de baterias del control de este sistema; al parecer por problemas en las baterias.
+Pendiente revisar.
+Informa: Operaciòn - Turno 3.
+
+Se cambian baterías y el cargador queda operando correctamente.
+
+Realiza; Carlos Moncada

@@ -1,0 +1,29 @@
+06/03/2017
+
+FALLA EN EL CONTROLADOR CCI3  DEL REGULADOR, CONSTANTEMENTE SE FALLA Y SALE ESTE EVENTO POR FALLA EN TENSION DE FUENTE. FAVOR VERIFIACAR
+
+INFORMA TURNO 1 OPERACION 
+
+
+15/03/2017
+
+Se realiza verficacion del sistema y  se enceuntra falla en la CCI3 se realizara la verificacion de esta y  el cambio de  por oportunidad.
+
+Realizado por Wtobonl
+
+
+16/03/2017
+
+Se realiza verficacion del sistema y  se enceuntra falla en la CCI3 se realiza la verificacion de esta y  el cambio, la unidad queda normalizada y operativa .
+
+Realizado por Wtobonl
+
+
+terminada cerrar
+
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

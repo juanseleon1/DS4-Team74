@@ -1,0 +1,15 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica de las dos válvulas (mecánica e hidráulica) del by pass de la unidad 6
+
+Ot: 3580006 - Adecuación mecánica by pass - Programador: Camilo Montagut - 02/10/2017
+
+Se realiza la adecuación mecánica del by pass perteneciente a la válvula esférica de launidad 6. Se registra las actividades correspondientes a la tarea:
+
+- Desmonte de piezas móviles y fijas. Se realiza limpieza exhaustiva con el fin de remover inclusiones que puedan provocar pega mecánica en el fuincionamiento del equipo
+- Restauración del asiento del by pass
+- Cambio de empaquetadura del by pass
+- Pintura y acabado final
+- Limpieza interna de los 2 juegos de filtros de la válvula
+
+Al entrar la unidad no se presentan fugas de agua y queda pendiente en verificar la efectividad del sello del by pass
+
+Ejecuta: equipo mantenimiento UOG

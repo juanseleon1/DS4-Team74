@@ -1,0 +1,13 @@
+PREVENTIVO ELECTRICO INTERRUPTOR CAMPO GENERADOR GUADALUPE III
+
+DICIEMBRE 2  DE 2015
+Se realiza mantenimiento general segun instructivo GCG3E0012. Después del mantenimiento preventivo cuatrimestral en evidencia que el regulador de tensión no excitaba hasta el voltaje nominal llegando solo hasta 3Kv, se realizan las siguientes acciones para descartar el problema:
+- Se realiza la medida de aislamiento en el rotor desde los anillos rozantes, en los interpolos de la excitación principal, rotor de la excitatriz, porta escobillas, también se desconecta el barraje de salida del generador hacia el transformador de potencia.
+- Con asesoría del ingeniero Oscar Duque de la UO Porce se realiza seguimiento del lazo de control de los tiristores en el regulador, después de realizar mediciones en los pulsos de los tiristores y control del interruptor de campo se evidencia mal contacto en los auxiliares del interruptor de campo impidiendo la excitación de la unidad.
+Se procede a realizar el mantenimiento correctivo a este contacto y se normalizan las señales del interruptor de campo.
+- Se aprovecha y se revisa el banco de tiristores de respaldo encontrándose el tiristor de la fase R fallado, se cambia y se normaliza.
+- Se realizan pruebas de excitación con los dos canales evidenciando un comportamiento normal.
+Se entrega la unidad para operación comercial. 
+Informó: Bianey Bravo, Oscar Adrián Duque, esteban Vásquez, Oscar Arango, William Lopera, Uaimer Díaz..
+Prgramó: William Lopera
+.

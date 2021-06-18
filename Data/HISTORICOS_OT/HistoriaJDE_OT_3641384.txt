@@ -1,0 +1,7 @@
+Fecha: Noviembre 15/2017Programo: Daniel Palacios O.Ejecuto: Frank Córdoba y Jairo torres.
+
+Se realiza limpieza al transformador de alta impedancia con limpiador dieléctrico, se revisan conexiones, se aspira y limpia el cubículo del transformador, se realiza inspección y limpieza a la resistencia de descarga, se revisa el buen estado de la puesta a tierra. Todos los componentes se hallan es buen estado.
+Trabajo Ejecutado por: Frank Córdoba y Jairo torres.
+
+
+XE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD

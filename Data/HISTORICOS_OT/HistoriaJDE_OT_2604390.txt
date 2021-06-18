@@ -1,0 +1,2 @@
+09/09/2014 DIONIS MAURICIO ZAPATA VALENCIA 
+Se reailza O.T para revisar parametros de la logica de funcionamiento, y cambiar conjunto de ventiladores banco de tiristores.

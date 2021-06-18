@@ -1,0 +1,19 @@
+MARTES 24 DE NOVIEMBRE DE 2015
+
+PLANEADOR: SANTIAGO RAMIREZ
+PROGRAMADOR: JUAN GILBERTO TOBON
+
+DESCRIPCCIÓN: Revisar acople eje-rodete ya que a la fecha la turbina se encuentra operando sin punta de rodete, la cual protege los pernos del acople. En caso de encontrar platinas pinadoras reventadas, reponerlas y normalizar.
+
+CONSIGNACIÓN: 127554
+OT: 2945446
+HORÓMETRO DE LA UNIDAD: 75111 
+
+
+COMENTARIOS DE EJECUCIÓN: Se encuantran 2 platinas pinadoras de las tuercas de los pernos. Se instalan plantinas nuevas. Se normaliza la unidad y se opera hasta operación energizada, lo cual se ejecutó sin inconvenientes. Se declara disponible la unidad a las 13:15.
+
+Se deberá programar inspección máximo en 2 meses (aproximadamente el 27 de enero de 2016) en caso de no haber instalado aún la punta de rodete nueva.
+
+Ejecutó: Equipo de operación y mantenimiento UOPO.
+
+Informó: Santiago Ramírez.

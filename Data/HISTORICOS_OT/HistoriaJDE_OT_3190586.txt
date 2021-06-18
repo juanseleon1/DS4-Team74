@@ -1,0 +1,5 @@
+FEcha : 27-07-2016
+
+Reporta : William Archila Perez
+
+Comentario : Realizar Mantenimiento Correctivo Predictivo, No registra LLuvia, pero la estacion transmite perfectamente.

@@ -1,0 +1,12 @@
+Planeador: Carlos Torres 
+Aprobador: Gustavo Muñoz
+Fecha de solicitud: 19/09/2016
+Tipo de mantenimiento: Preventivo 
+Acciones de mantenimiento: 
+ Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación de sistema de transmisión
+ Calibración de pluviómetro
+ Verificación del emplazamiento de la estación

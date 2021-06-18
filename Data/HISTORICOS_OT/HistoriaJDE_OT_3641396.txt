@@ -1,0 +1,7 @@
+Fecha: Noviembre 29/2017Programo: Daniel Palacios O.Ejecuto: Ing. Héctor Gómez, Frank Cordoba y Jhonatan Arango.
+Se realiza limpieza y revisión de cableado.
+Se realizan pruebas de alarma y disparos y se encuentra todo en buen estado.
+Sistema normalizado sin alarmas ni disparos.
+Pendiente falla Ground Fault loop, se coordinará con Civalco para reparación
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD

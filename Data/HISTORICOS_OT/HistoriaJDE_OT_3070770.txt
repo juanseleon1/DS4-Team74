@@ -1,0 +1,20 @@
+
+
+SE CREA ESTA OT PARA PARA ATENDER EVENTOS Y PRUEBAS ELECTRICAS EN EL SISTEMA DE CONTROL DEL TELEFERICO.
+
+WILLIAM LOPERA.
+
+DICIEMBRE 27 DE 2016
+Se cierra esta OT, y se continua con los trabajos correctivos en el mes de Enero 2017 cuando se termine de cambiar los cables del teleferico y se puedan energizar los equipos para la verificación funcionamiento del control.
+William Lopera
+
+MARZO 9 DE 2016
+ Se cambio dos reles en la planta Diesel que se encontraron quemados, y no permitian encender la planta de emergencia. 
+ Se encontrò un ventilador del convertidor numero 1 fallado, el motor esta aterrizado, no se tiene repuesto y esta en proceso de reparaciòn.   
+
+William Lopera
+
+MAYO 22 DE 2016.
+Salio la falla de comunicacion relè, se revisa y se identfico el problema en la cabina 2, en este momentos se esta atendiendo.
+
+William Lopera

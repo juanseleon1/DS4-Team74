@@ -1,0 +1,8 @@
+SOLICITANTE: OPERACIÓN TURNO 3 AR.FECHA: 18/05/2018
+
+En la secuencia de arranque de las unidades se viene presentando interrupción en el paso # 12 del sincronismo por falta de igualación de voltaje, siendo necesario colocar el sincronizador en modo de operación “ Local-Manual” y subir voltaje del generador manualmente, desde la perilla respectiva. Requiere revisión.
+
+13/09/2018
+Durante el mantenimiento semestral de la unidad se configuro el parametro de "Referencia de minima tension", con el fin de permitir al regulador de tension bajar el voltaje necesario para igualar tension con el sincronizador. se realizaron pruebas de sincronizacion y la unidad respondio bien.
+Queda en observacion si se vuelve a presentar alguna anomalia.
+Planeador: Oscar Arango

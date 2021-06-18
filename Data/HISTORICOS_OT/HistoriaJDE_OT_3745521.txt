@@ -1,0 +1,9 @@
+2018/07/13 GIOVANNY DIAZ
+En la OT: 3717548 se encontró punto caliente en la peineta de salida de la gaveta con el siguiente diagnostico: 
+Segun los parámetros establecidos en la tabla de clasificación de fallas eléctricas LOS CRITERIOS NETA, la temperatura de la peineta de Salida se encuentra en el nivel 4, donde Delta T° = 96.3°C, lo cual indica que presenta una deficiencia mayor en su funcionamiento, se debe realizar el correctivo, mejorando las conexiones y el contacto. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación
+
+2018-07-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3745521, PASO:1          
+Se realizó la corrección de punto caliente en la motobomba CW9. 
+
+2018-07-16 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3745521, PASO:2          
+Se realizó inspección termografica a la motobomba CW9 para verificar el mantenimiento correctivo, se encontró en condiciones normales, se presentó problemas con el equipo portátil no fue posible iniciarlo para realizar el informe termográfico

@@ -1,0 +1,28 @@
+Sale la unidad # 1 por paro rápido.
+Se presenta fallas agrupadas unidad, alarmas agrupadas enfriamiento operación sello del eje, presión diferencial bomba LA1 y AL2 baja.
+Se revisa la unidad y se encuentran las 2 bombas del sello deleje falladas, se da reset y se borran alarmas presentes. Al parar la unidad se presentan problemas en el cojinete de turbina, el sensor de nivel aceite cuba tiene problemas de medida y no concuerda con la medida real. Se corrige y se da condiciones de arranque.
+
+18/08/2017
+
+Se realiza verificación de los presóstatos IQ1 e IQ2, además se verifica la parametrización de estos canales en el PLC después del Backup realizado la semana pasada, se encuentra que este sistema posee unos parámetros distintos en estos canales y se ajustan ambos presóstatos en -1 y 9 BAR se realizan pruebas con la unidad y se normaliza la bornera BN3-74.
+
+NOTA: se debe configurar el ultimo backup bueno para el PLC en esta unidad, el programa actual no corresponde a los ajustes de la unidad.
+
+Realiza por Wtobonl 
+
+terminada cerrar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

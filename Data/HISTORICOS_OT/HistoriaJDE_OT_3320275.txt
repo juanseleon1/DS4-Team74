@@ -1,0 +1,14 @@
+Planeador:                           Juan David Montoya G
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              21/11/2016
+Tipo de mantenimiento:    Preventivo 
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación de sistema de transmisión
+              Verificación del nivel de mira vs. sensor
+ Realización de aforo
+ Verificación del emplazamiento de la estación
+              

@@ -1,0 +1,4 @@
+MARZO 7 DE 2019  OT:3814432 PROGRAMADOR : JBECERF  EJECUTO: ALEXANDER VILLA
+INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS, ACTIVACIÓN DE ALARMA Y DISPARO.
+
+Temperaturas de: Cojinete Lado Excitación Equipo 30C 60°C 90°C 120°CS45 (Radial) 30.7 60.8 90.5 120.6Valor programado Alarma:75°CValor programado Disparo:80°CComentarios:Sin novedades

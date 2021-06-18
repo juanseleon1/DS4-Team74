@@ -1,0 +1,4 @@
+2015/10/22 FERNANDO RUIZ - SEBASTIAN HINCAPIE EDWIN ARANGO (PRACTICANTE)
+Se realizo la adecuación de alarma sonora (Sirena) se instaló en la parte inferior dado que donde estaba el sonido incomodaba a las secretarias que se encuentran laborando en subestación. 
+
+Se realizó pruebas de funcionamiento y se dejó en condiciones normales. 

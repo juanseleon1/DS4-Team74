@@ -1,0 +1,13 @@
+desde el 04/09/2015 esta fuera de servicio el trafo N° 2 de 750 KVA por presenraar alarma disparo falla interna en rele de proteccion, lo que ocasionaba que constantemente se abriera y cerrara el interruptor del trafo por 13.2 Kv. Se retira el rele de proteccion y controlde este interruptor.
+
+OCTUBRE 17 DE 2015
+
+Se han estado haciendo gestiones con el area de protecciones y en EPM no se cuenta con repuestos de este tipo de rele.
+
+Esteban Vasquez realizo contacto con ABB Colombia para que nos den soporte, segun indica a finales de octubre estaran en la planta.
+
+asi mismo se realizo gestion con la CHEC, la cual cuenta con repuestos de estos reles.  
+
+NOVIEMBRE 22 DE 2015.
+Se normaliza operación relé REF543 de control y protección, se encontró tarjeta  BIO2 fallada, se cambió por tarjeta del relé prestado por la Chec. Se realizó pruebas de aislamiento al transformador, limpieza y cambio de silica. Se realizaron pruebas de operación del interruptor local y remoto.
+Se realizo transferencia automática y opero normal. Realizo: Grupo mantenimiento eléctrico y electrónica UOG. Informa: Bianey Bravo Valencia

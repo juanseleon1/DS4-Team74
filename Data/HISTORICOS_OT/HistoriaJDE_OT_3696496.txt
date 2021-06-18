@@ -1,0 +1,5 @@
+2018/03/06 RUBEN ARBOLEDA OT: 3696496
+Se presenta falla de la sirena de II etapa.
+
+2018-03-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3696496, PASO:1          
+Se realizó cambio de Alarma sonora en II etapa, se instaló una nueva.

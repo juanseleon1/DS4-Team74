@@ -1,0 +1,11 @@
+
+
+22/Enero/2015
+La señal U6-8.187 sale repetitivamente en la estación de operación sin causa aparente, re revisa y se encuentra la tarjeta DSDI110A con problemas
+en el canal 27, causando la oscilación de la señal selección bomba lubricación forzada.
+Se cambia la tarjeta DSDI110A quedando el controlador trabajando en condiciones normales.
+LEARCILAS
+
+
+
+

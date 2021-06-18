@@ -1,0 +1,28 @@
+PLANEADOR: Santiago Ramírez
+PROGRAMADOR: Renato Montoya
+
+DESCRIPCIÓN:
+
+En noviembre de 2015 se evidenció fuga excesiva de aceite por el empaque de la tapa del vástago del cilindro hidráulico de la compuerta de descarga. Para controlar la fuga fue necesario instalar un dispositivo de bloqueo a la compuerta para reducir la presión en el cilindro hidráulico.
+
+Se planeó el cambio de los empaques de las tapas de cilindros hidráulicos para Junio de 2016, de tal forma que se sincronicen este trabajo con los mantenimientos anuales de las unidades y otros trabajos. Adicionalmente, debido a la fuga de aceite evidenciada en el cilindro de la unidad 2, también se planeó cambiar los empaques de las tapas de los vástagos de los cilindros de las otras compuertas, ya que se optimizaría el tiempo de disponibilidad de la planta, esto debido a que para cambiar dichos empaques se debe vaciar el túnel de descarga hasta la cota 313msnm (nivel de piso de galería de compuertas).
+
+Cronograma: Se adjunta cronograma planeado.
+
+Fecha planeada de inicio: 1 de Junio de 2016, 7:00
+Fecha planeada de terminación: 6 de Junio de 2016. 23:59.
+Estos empaques ya habían sido cambiados en el cilindro hidráulico de la unidad 4 en el mantenimiento de las compuertas realizado en junio de 2015. Sin embargo se decide cambiarlos nuevamente ya que en ese momento se instalaron empaques fabricados por un proveedor local (Internacional de empaques). Para esta ocasión se cuentan con empaques fabricados en materiales de mayor resistencia mecánica y química, fabricados por Chesterton a través de un representante local (Ferretería Pedro Sánchez). En la compuerta de la unidad 1,2 3 es la primera vez que se cambian estos empaques. Todos estos empaques presentaban fuga, siendo crítica la fuga del cilindro de la unidad 2, el cual motivó el reemplazo de estos empaques en todas las unidades de manera preventiva.
+
+Se planeo el vaciado del tunel de descarga sólo hasta la cota 314msnm, es decir 2 metros por debajo del piso de la galeria de compuertas dentro de casa de máquinas. De este modo, se pueden destapar los blidajes de las compuertas y bloquearlas por medio de pasadores, usandolos como apoyo en la conexión del último vastago de carga con el servomotor. Una vez bloqueada la compuerta, se puede desmontar el cilindro hidráulico para repararlo. Cuando se normalicen todas las compuertas, se procede al llenado del tunel de descarga.
+
+Desarrollo:
+Miércoles 1 de Junio:
+7:00. Paran las unidades de generación e inician los bloqueos de los bancos de transformadores.
+8:00. Comienza instalación de stops logs: Se inicia instalción de stops logs con el dispositivo para izaje de los stops logs y una grua de 30 ton. Se evidenció que el dispositivo no se desenganchaba automáticamente cuando descargaba el stop log, por tal motivo se instlaron con los ganchos de la grua y 2 buzos profesionales (buceo y dragados de urabà) desengancharon los stop logs. Para retirarlos el dispositivo si funciona, pues engancha automáticamente.
+8:30. Comienza bombeo con las bombas del foso seco hacia el río.
+10:30. Comienza bombeo con bomba auxiliar instalada en el s3, succionando desde la toma de agua cruda del sistema de refrigeraciòn.
+15:00. Se apagan bombas de agua cruda del aire acondicionado por evidencia de cavitación por disminuciòn en la presión de succión. estaba en 1,27 bar. (normal: 1.75 bar)
+16:00. Se terminan de instalar los stops logs con la ayuda de los buzos.
+17:00. Se alcanzó la cota 315msn (1,19 bar de presiòn aguas abajo de las compuertas). Se inició destape del manhole de la unidad 3.
+17:30. Se bloquea la compuerta 3 y se desacopla el servomotor y se destapa el manhole de la unidad 2.
+

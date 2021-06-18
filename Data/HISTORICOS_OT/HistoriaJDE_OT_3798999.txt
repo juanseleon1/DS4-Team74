@@ -1,0 +1,13 @@
+
+22/01/2019 Dionis / Luis Eduardo
+
+Se realizan las actividades:
+
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+4. Limpieza de intercambiador de aire.
+5. Limpieza general al tablero del regulador.
+6. Se calibraron transductores de posición de los comandos de agujas y deflector.
+
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

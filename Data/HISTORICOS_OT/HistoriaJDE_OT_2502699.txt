@@ -1,0 +1,13 @@
+XE: MEDIR, VERIFICAR Y LIMPIAR EQUIPO HIDRAULICO +TUH DE LA UNIDAD
+
+-------------------------------------
+
+FECHA: 2014-06-03
+
+EJECUTÓ: DARIO PUERTA - JAIRO TORRES
+
+Se realiza mantenimiento al equipo hidráulico correspondiente al sistema regulador de velocidad U3. Se revisan tableros eléctricos, acometidas y conexiones (TUH de la turbina). Se meguean motores de las motobombas y se chequean válvulas motorizadas, no se encuentran anormalidades. Los valores de Vol, Ies y Res se diligencian en las respectivas planillas y normaliza el sistema dejándolo en condiciones normales de funcionamiento. IDM: GCP3E0019
+
+INFORMÓ: CRISTIAN GOMEZ
+
+-----------------------------------------

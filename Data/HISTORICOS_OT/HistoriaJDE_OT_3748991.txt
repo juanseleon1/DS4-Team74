@@ -1,0 +1,27 @@
+MP ANUAL, EQUIPOS:
+407070 REGULADOR VELOCIDAD TRVC U1 G3
+407071 REGULADOR VELOCIDAD TRVC U2 G3
+407072 REGULADOR VELOCIDAD TRVC U3 G3
+407073 REGULADOR VELOCIDAD TRVC U4 G3
+407074 REGULADOR VELOCIDAD TRVC U5 G3
+407075 REGULADOR VELOCIDAD TRVC U6 G3
+
+09/08/2018
+OT 3748991
+
+MANTENIMIENTO ANUAL INSTRUMENTACION COJINETE SUPERIOR  GUADALUPE 3
+
+PLANEADOR: CESAR AUGUSTO GIRALDO
+
+PROGRAMADOR: BERNARDO  E. BEDOYA B.
+MANTENIMIENTO ELECTRONICO  PREVENTIVO ANUAL.
+
+Se verificaron los lazos de control de los inyectores N°1, N°2, N°3 y N°4, se realizan movimientos de apertura al 100%, al 75%, al 50% y al 25%, y se verificaron las corrientes de salida para cada uno de los actuadores y su comportamiento fue bueno.
+también se verifico la posición del deflector y de la válvula distribuidora dándole mandos directos desde el regulador y respondieron correctamente.
+
+También se realiza verificación de los transductores asociados al regulador de velocidad.
+
+Se realiza inspección y limpieza al tablero, borneras y cableado asociados al regulador de velocidad
+
+
+REALIZO: GRUPO DE ELECTRONICA

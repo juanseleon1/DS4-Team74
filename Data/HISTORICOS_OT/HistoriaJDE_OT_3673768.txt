@@ -1,0 +1,13 @@
+ENERO 2018
+REALIZARVERIFICACION  METROLÓGICA A TERMOMETRO METAL COJINETE GUIA TURBINA PAJARITO.
+
+FEBRERO 01/2018 PROGRAMO: JGUINGUER  EJECUTO:0ANDRES YEPES
+COJINETE GUIA RADIAL 1
+PATRON           METAL 
+60ºC                    60.3ºC                  
+65ºC                    65.6ºC                  
+75ºC                    76.6ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75C
+No se reporta tiempo ya que es para seguimiento metrologico
+

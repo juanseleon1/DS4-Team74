@@ -1,0 +1,17 @@
+30/06/2016
+
+Realizar mantenimiento de los equipos e instrumentación de la compuerta TCDF
+
+30/06/2016
+
+Se realiza verificación de la instrumentación y control del sistema TCDF , se verifican los instrumentos y los lazos profibus, limpieza de equipos y verificación de las solenoides, además se verifica el programa de la IHM y el PLC.
+Queda pendiente la verificación de los lazos de posición de las compuertas de guarda y de servicio cuando el equipo mecánico los disponga y poder verificar las señales de posición de estos equipos.
+
+Realizado por Wtobonl 
+
+Terminada cerrar
+
+
+cerrada despues de la falla mecanica en la compuerta  nota por Wtobonl
+
+

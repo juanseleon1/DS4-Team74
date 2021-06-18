@@ -1,0 +1,12 @@
+2018/09/09
+FALLA REGULADOR AVR1 FALLA PULSOS HACIA CONVERTIDORES , PERDIDA DE MEDIDA POSICION SETPOINT AVR1, PROTECCION SOBRECORRIENTE FASE R TRAFO EXCITACIÓN 
+INFORMA : CARLOS GUINGUER- URIEL CASTRILLOÓN - ADRIAN NARVAEZ
+
+2018/09/11 - 00:40 
+Sale la unidad por paro de emergencia con 135 MW salen las alarmas - Anomalía pulso hacia convertidores, protección sobre-corriente fase R trafo de excitación, perdida de medición posición set point AVR 1, paro de emergencia 86 E1 / 86E2, falla sincronizador automático y falla interruptor de grupo 52 T.  se verifica la unidad y no se encuentran anomalías, se da reset y se le dan condiciones de arranque.
+Se le informa al Ing. Jorge Rodriguez
+Informa: grupo de operación  turno 2  
+
+2018/09/11 - 01:38 
+Sale la unidad por paro de emergencia con 135 MW, se presentan las mismas alarmas del evento de las 00:40. Se le informa al ingeniero Jorge Rodriguez, autoriza pedir redespachos del periodo 5 al 12. 
+Informa: grupo de operación  turno 2  

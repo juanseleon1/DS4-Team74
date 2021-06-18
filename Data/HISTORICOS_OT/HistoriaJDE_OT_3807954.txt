@@ -1,0 +1,15 @@
+OT estaciones de nivel.
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 04-FEBRERO-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Cambio de desecante de gabinetes
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor
+Verificación del emplazamiento de la estación
+Prueba de calidad.

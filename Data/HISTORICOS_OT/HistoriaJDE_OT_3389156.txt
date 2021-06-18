@@ -1,0 +1,10 @@
+Planeador: Carlos Torres
+Aprobador: Carlos Andrade
+Fecha de solicitud:07 feb 2017
+Tipo de mantenimiento: (MONTAJE) 
+Realizar las siguientes acciones de mantenimiento :
+ Instalar obras civiles
+              Instalar equipos electrónicos
+              Verificar funcionamiento y garantizar datos en base de datos.
+nota: por vandalismo se posterga instacion radar en nuevo sitio.
+se logra la instalcion del radar, y se instala equipo medidor de caudal en camara de valvulas

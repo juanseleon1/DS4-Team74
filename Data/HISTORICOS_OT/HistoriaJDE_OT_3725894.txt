@@ -1,0 +1,4 @@
+
+MAYO 18 DE 2018 OT: 3725894  PROGRAMÓ: HGIRALRI EJECUTÓ: ELIECER PUSHAINA Y HENRY GIRALDO
+
+Se presenta falla por Stop Yaw Error, se verifica el movimiento de la yaw y no se presenta variación en la indicación del sensor 0°, se realiza el cambio de este sensor, durante este trabajo de daña el conector del sensor 90°, queda pendiente colocar conector nuevo pero hembra. Se deja en servicio el aerogenerador con la Yaw en manual.

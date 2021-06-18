@@ -1,0 +1,10 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AL:MANTENIMIENTO Y LIMPIEZA
+
+Plan bornera en tableros de control, unidades 1, 2, 3
+
+Reapretar tornilleria de los tableros de control turbina (TCT), protecciones, regulador de voltaje control y potencia, regulador de velocidad, tableros de control bombas, valvulas esfericas, sello de operación turbina. Esto incluye reles de control.
+
+2018/12/26 CARLOS SANCHEZ.
+BAJO ESTA OT SE REALIZA MANTENIMIENTO ANUAL AL EQUIPO TENIENDO EN CUENTA LO DESCRITO EN EL INSTRUCTIVO GCP2L0006, ADEMAS DE LIMPIEZA GENERAL AL TABLERO DE CONTROL, AJUSTE Y VERIFICACION DE CABLEADO Y CONEXIONADO. EL EQUIPO QUEDA OPERANDO ADECUADA MENTE.

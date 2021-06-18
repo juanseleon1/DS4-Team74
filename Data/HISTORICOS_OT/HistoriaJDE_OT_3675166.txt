@@ -1,0 +1,18 @@
+
+17 DE ENERO DE 2018 LUIS ADRIAN CARDONA LOPEZ
+
+Revisar tarjetas AMP2 disponibles para el regulador electronico, realizar los ajustes y la calibracion de señales, en el banco de trabajo del laboratorio GIV.
+PLANEADOR: ESTEBAN VASQUEZ
+PROGRAMADOR: LUIS ADRIAN CARDONA
+
+DEL 22 AL 26 DE ENERO DE 2018
+
+Se habilita banco de regulador electronico que se encuentra como repuesto en el laboratorio (banco configurado para GIII), se adecuan señales para ralizar los chequeos de la tarjeta AMP2, que utiliza el regulador electronico de GIV. Se realiza el levantamiento de componentes de tarjetas, tanto de un impreso original, como del impreso que fue diseñado por personal de la central, en base a esto, se procede a verificar y reparar tarjetas disponibles, se cambian varias resistencias, potenciometros, se rectifican soldaduras y se adecuan algunos puentes, posteriormente  se realizan verificaciones y ajustes en banco del laboratorio GIV obteniendo buenos resultados en dos de las tres tarjetas intervenidas, en la tercera tarjeta, se tuvo que corregir muchas pistas en mal estado y queda pendiente por un integrado LM324N (IC13), sin embargo mostro buen funcionamiento, esta pendiente de ensayar en maquina. 
+NOTA: se monto en la unidad G42 el 26/01/2018 tarjeta original reparada , la cual presento un correcto funcionamiento, tambien se realizaron chequeos con una de las tarjetas que fue diseñada en la central,obteniendo buenos resultados, esta tarjeta quedo disponible como repuesto, se marco y se guardo en laboratorio de GIV.
+EJECUTO: grupo electronico
+
+29 DE ENERO DE 2018
+
+Se reviso tarjeta AMP2 que estaba montada en la unidad G42 hasta el pasado 26/01/2018, esta tarjeta presentaba alteraciones en el funcionamiento cuando se presentaban vibraciones. Se rectifican soldaduras y se adecuan puentes, segun tarjetas reparadas anteriormente. Se hace verificacion y ajuste en banco de regulador electronico del laboratorio GIV. la tarjeta queda probada y en espera de ser ensayada en maquina.
+NOTA: esta tarjeta es una de las diseñadas en la central. 
+EJECUTO: grupo electronico

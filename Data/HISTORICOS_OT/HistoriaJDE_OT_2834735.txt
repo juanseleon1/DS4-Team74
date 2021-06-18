@@ -1,0 +1,7 @@
+
+FECHA: AGOSTO 01 DE 2015  OT: 2834735
+
+EJECUTANTE: PSOLANO Y HGIRLRI 
+SOLICITANTE: HENRY GIRALDO
+
+Después de cambiar los frenos se presentó problemas para arrancar el aerogenerador, se presentaba la falla de sobre velocidad y Safety Chain al momento de llegar a sincronizar a 1800 RPM, se intercambiaron las fuentes en la top box pero continuo el problema, se cambió el módulo 153A2 en la Bottom Box para descartar problemas en una de las señales de los tiristores, se dio arranque a -40 grados y la maquina entro, pero debido a que uno de los tip´s quedo mal cerrado fue necesario darle paro manual, nuevamente se presenta el problema de la sobre velocidad, se espera un tiempo y se realiza otra prueba de frente al viento pero sale la falla nuevamente. Aproximadamente a las 18:20 horas se realiza otra prueba a -40 grados y la maquina entra bien, se la va corrigiendo ubicación hasta quedar normalizada, la velocidad del viento al entrar se encontraba en 10 m/s aproximadamente.

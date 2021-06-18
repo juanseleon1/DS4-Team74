@@ -1,0 +1,27 @@
+PLANEADOR: SANTIAGO RAMIREZ
+PROGRAMADOR: RENATO MONTOYA
+FECHA: 03/09/2018
+OT PADRE: 3760833
+CONSIGNACIÓN: @159926
+
+Objetivo: Reducir la fricción en el anillo del distribuidor para aumentar la capacidad de respuesta del sistema distribuidor en la apertura de máximo esfuerzo (60a70%) de apertura.
+
+Metodología: 
+1. Desmontar los patines axiales y radiales, los cuales se encuentran instalados sobre la cubierta superior de los alabes. 
+2. Realizar limpieza y pulido de todas las superficies.
+3. Instalar los patines sobre la cubierta y aplicarle traba roscas a los tornillos de ensamble y sujeción de los patines.  
+4. Aplicar sobre los patines y sobre el anillo o pista deslizante, lubricante seco a base de molibdeno y grafito. CRC lubricante de grafito molibdeno.
+5. Ensamblar todas las partes mecánicas desmontadas para el cambio de los patines, incluyendo la instrumentación y la parte eléctrica.
+
+Att: Santiago Ramírez.
+
+BITACORA:
+
+SEPTIEMBRE 3:
+
+SEPTIEMBRE 4:
+
+SEPTIEMBRE 5:
+
+SEPTIEMBRE 6:
+

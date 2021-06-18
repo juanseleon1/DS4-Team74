@@ -1,0 +1,15 @@
+fecha:28/01/2018 ot: 3666149 PROGRAMÓ: R JIMENEZejecutó: JAIRO TORRES - OLGA M VIANA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas  pertenecientes al sistema CCM # 4 POZO DE INFILTRACIONES  IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación, LAS MOTORES DE LAS BOMBAS VTA 1 Y VPI 1 ESTA FUERA DE SERVICIO POR MATTO MECANICO
+VTA # 2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASEG VDCR - S466R443R144R2.87 505S - T475S432S137S2.71 505T - R468T378T143T2.34 505
+registro VPI # 2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE M VDCR - S480R92.2R10.6R7.1 505S - T480S94.8S 9.2S7.19 505T - R477T92.5T9.3T7.25 505
+
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual del estado de las tapas, puertas y cerraduras, bornes de potencia, terminales, borneras, peinetas, conexiones de potencia y revisar el estado de los cables.Realizar limpieza general y aspirar las celdas de interruptores, transformador y seccionador.

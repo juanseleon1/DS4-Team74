@@ -1,0 +1,12 @@
+2017/12/30 RUBAN ARBOLEDA, 
+EN LA EJECUCION DE LA OT:3641183, SE ENCONTRÓ LO SIGUIENTE:
+
+DIAGNOSTICO: 
+La temperatura de la peineta de Salida se encuentra en el nivel 3 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 19.4°C, lo cual indica que presenta una deficiencia en su funcionamiento, se recomienda reparar en la proxima parada, se debe realizar un correctivo revizando las conexiones y mejorando el contacto de la peineta. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+
+Se crea esta OT para su corrección.
+
+2018-01-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3665022, PASO:1          
+Se realizó mantenimiento correctivo a la motobomba CW4 ya que presentaba punto calienteDIAGNOSTICO: Se realiza limpieza y ajuste en los componentes de la peineta de salida como correctivo a la temperatura que se encontraba en el nivel 3 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, con un Delta T° = 19.4°C, se evidencia una mejoría en la temperatura bajando el Delta a temperaturas normales de funcionamiento.
+
+Se anexa el informe a la OT.

@@ -1,0 +1,26 @@
+REVISAR RTD 2A DEL TAST
+FECHA PLANEACION MANTENIMIENTO: 07 Marzo 2017
+PLANEADOR: RENATO MONTOYA
+
+PROGRAMADOR: WALTER TOBON
+
+07 Marzo 2017
+
+Sale de sincronismo la unidad Nº2 por paro rapido alta temperatura de la RTD 2A,del sello del eje, con 175 MW, verificando el evento esta RTD se desconecta y se continua haciendo pruebas de la misma.
+ 
+Informo: JOHN JAIRO GONZALEZ VALENCIA
+         OSBALDO LOPERA - JORGE PEÑARANDA - GUILERMO ECHEVARRY
+         
+         
+
+
+
+04/03/2017
+
+Referente al TAST Unidad N°2: Se deja desconectada la RTD 2A en la bornera marcada como reserva en los bornes: 7,8 y 9. En la revisión de está se encuentra la señal abierta. esta RTD queda deshabilitada hasta un proximo mantenimiento del sello y poder evaluar fisicamente la RTD instalada en el sello de la turbina. el sistema queda con tres indicaciones de temperatura.
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+
+

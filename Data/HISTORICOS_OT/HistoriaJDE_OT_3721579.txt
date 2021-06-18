@@ -1,0 +1,11 @@
+07/05/2018 OT 3721579 Luis Eduardo Arcila
+Falla fuente SWSM 220A220 del anunciador de alarmas SACO del banco 2
+Se envían a RPM para su respectiva reparación.
+
+
+
+
+
+
+
+

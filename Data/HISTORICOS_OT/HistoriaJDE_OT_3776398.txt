@@ -1,0 +1,84 @@
+2018/10/19 RUBEN ARBOLEDA
+Se crea OT para realizar las siguietnes actividades del mantenimiento mayor de la Unidad 1: 
+Extraccion de rotor
+Pruebas electricas al rotor sucio
+Cambio de Aislamientos
+Pruebas al rotor Limpio
+Insertar Rotor
+
+2018-10-19 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776398, PASO:1
+Se realizó apoyo al personal de mantenimiento mecánico para la extracción del rotor de la Unidad 1.
+
+2018-10-19 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3776398, PASO:1,1
+Se realizó prueba de caída de tensión AC y DC a los polos del rotor de la Unidad 1.
+
+2018-10-21 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3776398, PASO:2
+Se retiran las cintas de fibra de vidrio en las uniones de los polos de la unidad 1
+
+2018-10-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3776398, PASO:3
+Se realizó adecuación de soldadores para el calentamiento del rotor de la Unidad 1, antes de conectarlos se midió aislamiento con valor de <500KOhm, y tensión: 45Voltios. 
+
+2018-10-29 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3776398, PASO:4
+Se realizó medida de aislamiento de seguimiento al rotor de la Unidad 1 con resultado de 42MOhm, se dejó calentando nuevamente.
+
+2018-10-31 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776398, PASO:
+Se realizó medida de aislamiento al rotor de la Unidad 1 a manera de seguimiento, se encontró el 1,723 GOhm, se continua calentando
+
+2018-12-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3776398, PASO:
+se conectada cable en el transformador TSA3, para realizar prueba del ring test en el estator de la U1
+
+2018-12-08 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3776398, PASO:
+se conectaron cables en el interruptor de pruebas de ring test unidad 1, se acompaña mientras se ejecutan las pruebas
+
+2018-12-12 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3776398, PASO:
+se aíslan las uniones del rotor de la unidad 1 con cinta de fibra de vidrio. 
+
+2018-12-23 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3776398, PASO:8
+Se realizó medida de aislamiento al rotor de la Unidad 1 a manera de seguimiento, se 328 MOhm, se continua calentando.
+
+2018-12-28 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776398, PASO:9
+Se realizó medida de aislamiento al rotor de la Unidad 1, a medida de seguimiento, se encontró en 625 MOhm con temperatura de 45°C. 
+Se considera que es un aislamiento bajo para entrar en servicio, se empieza a retirar las cintas de fibra de vidrio y a medir aislamiento así: 
+Unión 1-2: Aislamiento: 707MOhm, temperatura: 45°C
+Unión 2-3: Aislamiento: 782MOhm, temperatura: 45°C
+Unión 3-4: Aislamiento: 883MOhm, temperatura: 45°C
+Unión 4-5: Aislamiento: 837MOhm, temperatura: 45°C
+Unión 5-6: Aislamiento: 876MOhm, temperatura: 45°C
+Unión 6-7: Aislamiento: 913MOhm, temperatura: 45°C
+Unión 7-8: Aislamiento: 997MOhm, temperatura: 45°C
+Unión 8-9: Aislamiento: 1,043 GOhm, temperatura: 45°C
+Unión 9-10: Aislamiento: 1,122 GOhm, temperatura: 45°C
+Unión 10-11: Aislamiento: 1,193 GOhm, temperatura: 45°C
+Unión 11-12: Aislamiento: 1,291 GOhm, temperatura: 45°C
+Unión 12-13: Aislamiento: 1,338 GOhm, temperatura: 45°C
+Unión 13-14: Aislamiento: 1,489 GOhm, temperatura: 45°C
+Unión 14-barra: Aislamiento: 1,511 GOhm, temperatura: 45°C
+Unión 1-barra: Aislamiento: 1,529 GOhm, temperatura: 45°C"
+
+2019-01-02 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776398, PASO:10
+Se realizó medida al toror de la unidad 1 con los siguientes resultados: 
+Se realizó el retiro de la cinta de mica de las uniones polares, se realizó una medida de aislamiento y al rotor solo con los siguientes resultados: 
+6,9GOhm, temperatura 38°C
+posteriormente se pinto las uniones polares con glyptar en aerosol
+nuevamente se hizo una medida de aislamiento con los siguientes resiltados:"
+
+2019-01-03 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3776398, PASO:11
+Se continuó con la instalación de las cintas de fibra de vidrio en el rotor de la Unidad 1.
+
+2019-01-05 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3776398, PASO:12
+Se finalizó con el encintado de las terminales del rotor de la unida 1, se aplicó cinta de fibra de vidrio, posteriormente se aplicó resina.
+
+2019-01-06 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3776398, PASO:13
+Se realizó medida de aislamiento al rotor de la Unidad 1 antes de iniciar labores con valor de 3.47GOhm, temperatura: 38°C, se inició con la adecuación de terminales de entrada y salida (Polo 1 y 14), 
+
+2019-01-07 REALIZÓ: JHONATAN ANDRES USME - DUVAN RUA (CUADRILLA MOVIL),  PROGRAMO: RARBOLG OT: 3776398, PASO:14
+Se realizó apoyo al personal de mantenimiento mecánico para el translado del rotor de la Unidad 1.
+
+2019-02-02 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3776398, PASO:15
+Se realizó el desarme del andamio para mantenimiento de rotores, éste se adecuó en la bodega de los Polos.
+
+Octubre de 2018 - Enero 2019 OT: 3774159
+La información del mantenimiento quedó registrada en la ruta: 
+\\epm-file\2000\2630 A Guatape\2032_MANTENIMIENTO UOZO\CENTRAL GUATAPÉ\CONVERSION\UNIDAD 1\MANTENIMIENTO MAYOR OCTUBRE 2018 U1
+
+

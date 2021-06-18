@@ -1,0 +1,7 @@
+ENERO 22/2019 OT: 3802779 PROGRAMO: JULIAN BECERRA EJECUTO: ALEXANDER VILLA
+
+SE REALIZA INSPECCION Y VERIFICACION DE LAS RTD USANDO EL BLOQUE SECO WIKA ARROJADON LOS SIGUIENTES DATOS Y NOVEDADES.
+
+Temp. Cojinete Guía axial RA2 lado exc.Patrón 40ºC 80ºC 120ºCinstrumento 39.1ºC 79.3ºC 119.1ºC 65ºC Alarma 75ºC DisparoNota: No se visualiza la alarma en la pantalla SACO 16D1 ABB
+
+  Cojinete Guía Radial Generador lado exc.Patrón 40ºC 80ºC 120ºCinstrumento 40.3ºC 79.5ºC 119.3ºCºC AlarmaºC DisparoNota: No se visualiza la alarma en la pantalla SACO 16D1 ABB

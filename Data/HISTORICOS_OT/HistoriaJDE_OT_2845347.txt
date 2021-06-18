@@ -1,0 +1,24 @@
+
+FECHA: AGOSTO 13 DE 2015  OT: 2845347
+
+EJECUTANTE: HGIRALRI 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla por bajo nivel aceite caja multiplicadora, el sensor de nivel se encuentra puenteado, se revisa el cable y la llegada a la caja de conexión al igual que el tablero nuevo de módulos pero no se encontró ninguna anomalía, se coloca nuevamente el sensor de forma normal, se deja en observación.
+
+
+FECHA: AGOSTO 14 DE 2015  OT: 2845347
+
+EJECUTANTE: HGIRALRI 
+SOLICITANTE: HENRY GIRALDO
+
+
+Debido a que la falla de bajo nivel vuelve a salir se revisa y se deja un sensor externo puenteado. Se deja en observación.
+
+
+FECHA: AGOSTO 18 DE 2015  OT: 2845347
+
+EJECUTANTE: HGIRALRI 
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta nuevamente salidas por nivel de la caja, se observa falla cuando la yaw gira por un tiempo prolongado, se desarma el conector y se encuentran dos hilos del cable un poco pelados se le coloca cinta y se deja nuevamente de forma externa.

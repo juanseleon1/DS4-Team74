@@ -1,0 +1,5 @@
+2018/06/24 RUBEN ARBOLEDA
+La válvula By Pass de la Unidad 4 no responde, se crea OT para su revisión.
+
+2018-06-24 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3738940, PASO:1          
+Se realizó la revisión de la valvula By Pass de la Unidad 4, se encontró bobina quemada en la electroválvula, se realizó el cambio y se dejó en condiciones normales.

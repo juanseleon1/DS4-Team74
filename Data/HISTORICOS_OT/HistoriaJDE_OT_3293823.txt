@@ -1,0 +1,17 @@
+26/10/2016
+Favor revizar la IHM del TCCC U1 se apaga y no funciona 
+
+
+27/10/2016
+Se retira repuesto del Almacen para iniciar con la configuración y backup del equipo o IHM para reemplazar la IHM existente. 
+
+Realizado por Wtobonl
+
+05/11/2016
+
+Se instala la IHM en el cojinete combinado de la unidad 1, queda provicional para verificar su comportamiento y de continuar bien se espera instalar definitiva esta IHM  y retirar la actual.
+
+REALIZADO POR WTOBONL
+
+
+

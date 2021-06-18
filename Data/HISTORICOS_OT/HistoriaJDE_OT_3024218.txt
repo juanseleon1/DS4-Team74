@@ -1,0 +1,27 @@
+2016/04/06 - 08 OSCAR GIRALDO - JUAN JOSE LOPEZ, PROGRAMO: RARBOLG
+Se realizó limpieza general y medida de aislamiento
+
+1. ANTES DE LIMPIEZA
+ROTOR + BARRAJE 0 k
+ROTOR  0 k
+BARRAJE 96 k
+
+2. DESPUES DE LIMPIEZA
+ROTOR + BARRAJE 8,5 M
+ROTOR  8,8 M
+BARRAJE 122 M
+
+RESISTENCIA OHMICA 97,8 m
+INDUCTANCIA 52,7
+CAPACITANCIA 352
+
+OBSERVACIONES: Se petrolizo los anillos y la parte superior del rotor, las medidas continuaron muy bajitas, se aislaron los anillos del Rotor y se realizpo las medidas por separado, anillo superior: 12G anillo inferior medidas oscilantes y muy bajas, se procedio a realizar revision, se encontró una fisura en un buje del anillo inferior, se realizó limpieza general con liquido dielectrico, posteriormente se realizó pintura con glyptal, se realizó medidas y se dejó en 6,23 G el anillo inferior, se continuó con el mantenimiento se normalizó los anillos y se dejó en condiciones noramles. 
+
+2016/04/06 - 08 OSCAR GIRALDO - JUAN JOSE LOPEZ, PROGRAMO: RARBOLG
+Se realizó limpieza general y medida de escobillas
+
+LOCALIZACIÓN            1 2 3 4 5 6 7
+ANILLO A        30,0 35,5 35,3 43,0 31,0 34,2 34,0
+SUPERIOR B        34,0 25,5 31,0 38,0 26,0 45,0 35,3
+ANILLO A        45,0 30,3 45,8 45,8 45,2 38,0 46,0
+INFERIOR B        39,0 44,8 26,5 21,6 25,3 44,8 37,5

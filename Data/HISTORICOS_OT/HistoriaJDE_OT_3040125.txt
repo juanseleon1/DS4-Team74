@@ -1,0 +1,17 @@
+MARZO 07/2016
+UBALDO ACEVEDO OSORIO
+EL COMPRESOR NO ARRANCA EN AUTOMATICO NI EN MANUAL. 
+
+2016/03/15 PROGRAMO MAURICIO QUIJANO
+SE REVISA LA SECUENCIA DE ARRANQUE DEL COMPRESOR 3, SE ENCUENTRA CON ALTO NIVEL DE ACEITE, SE EXTRAE EL ACEITE SE CAMBIA POR ACEITE NUEVO, SE NORMALIZA EL SUICHE DE NIVEL Y SE DA ARRANQUE EN AUTOMATICO Y EN REMOTO. EL COMPRESOR PRENDE PERO PRESENTA DISPARO DE LAS VALVULAS DE SOBREPRESION. SE INFORMA DEL PROBLEMA A DIEGO BEDOYA QUIEN REVISA Y SE VA A ENCARGAR DE REALIZARLE EL MANTENIMIENTO.
+
+2016/06/16 DIEGO BEDOYA
+Se revisa el compresor de interruptores Nº 3 en compañia del ingeniero Miguel Valest de almacenes JJ. En el momento de la revisiòn, el equipo no arranca ni en manual ni en automatico.  Se revisa el suiche para bajo nivel de aceite: esta bien, el presostato: esta bien, nivel de aceite esta bien. las válvulas de seguridad de la 1ª y 2ª etapa se encuentran intercambiadas; por eso se generaba disparo cuando el compresor estaba en funcionamiento.
+el equipo se pone en funcionamiento y trabaja normalmente.
+
+
+octubre 02 de 2016
+
+ot cerrada 
+
+andres ramirez   

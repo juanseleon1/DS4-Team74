@@ -1,0 +1,43 @@
+- FECHA : SÁBADO OCTUBRE 06 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO
+- ASOCIADO A LA OT : 3769835
+- ASUNTO : HACER MANTTO MP
+
+- DATOS DE´PLACA 
+  * Potencia : 5 HP
+  * Voltaje : 460 v
+  * Corriente : 56.5 a
+
+1. Mantenimiento controles 
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 70 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  473 v
+       ST =  476 v                                                                 
+       RT =  478 v
+       Corriente de arranque:  
+Fase R = 45 a
+       Corriente de marcha:  
+Fase R = 6.5 a
+Fase S = 6.7 a  
+Fase T = 6.6 a                                                                                
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 1    Calibración termico potencia : 8a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 823.1
+
+6. Observaciones: se presenta discrepancia en el control ...se selecciona C2 y arranca C1 ...se debe revisar programación
+                                   del controlador.

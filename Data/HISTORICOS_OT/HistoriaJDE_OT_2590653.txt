@@ -1,0 +1,13 @@
+Favor revizar nivel del embalse de la presa porce 3
+
+
+30/09/2014
+
+Se realiza verificacion del nivel en la presa porce 3 Por corto realizado en la UPS N°6 de la presa se encuentra fallada  la sonda de nivel total del embalse. Se cambia la sonda en aduccion, ademas se bloquean los controladores de RITTMEYER y SIEMENS por causa del corto circuito.                                 
+
+Nota: Se recuerda que el controlador de la UPS N°6 no solo es para indicacion y alimentacion de la UPS sino que esta envia las medidas de nivel del embalse para la unidades y el centro de control de Medellin. Queda normalizada la comunicaciion y fue necesario ajustar de nuevo los niveles, queda en observacion
+
+
+Realizador por Wtobonl
+
+terminada cerrar 

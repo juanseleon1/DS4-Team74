@@ -1,0 +1,10 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+21-03.2018
+PLANEADOR:SANDRA CARMONA
+PROGRAMADOR: JOSÉ MONTOYA
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL 8.59VDC y CTPR 8.63VDC  el  - KPH: 20.13VDC.
+Nivel de aceite se encontró en 60mm el nivel patrón es 60mm
+SE INYECTAN LAS SEÑALES
+  COJ TURBINA °CPATRÓN °C METAL 2 METAL 5 ACTE 4 ACTE 640 40.2 40.2 40.3 40.460 60.2 60.2 60.3 60.480 80.1 80.2 80.2 80.1ALARMA  80.175.2 80.280.1DISPARO  85.1 80.2 85.1 85.5Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2018\TRIMESTRALES G4.

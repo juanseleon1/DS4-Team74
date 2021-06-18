@@ -1,0 +1,21 @@
+
+FECHA: SEPTIEMBRE 06 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+
+Debido a que el AG14 se encuentra detenido con falla 4,0 0C16, se procedió a verificar y corregir las fibras ópticas en los dos extremos, controlador superior e inferior, pero la falla continuaba, se realizo el cambio del modulo de fibra óptica en la top box pero no hubo solución a la falla se realizaron otras pruebas pero la falla no se logro solucionar, queda pendiente para continuar con nuevos procedimientos.
+
+
+FECHA: SEPTIEMBRE 08 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+Se corrige la fibra óptica de transmisión del controlador superior, quedo débil pero borra la falla de 4,0 0C16, es necesario colocar un modulo de fibra óptica de los nuevos en la bottom box para que reciba la señal del controlador superior, luego de esto queda pendiente la falla PF 4,1 mañana se solucionara esta falla.
+
+
+FECHA: SEPTIEMBRE 09 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+El día de hoy se cambio el fusible del modulo 105A2 ya que mostraba en el RFC alarma en 4.1, se normaliza el sistema y se deja en servicio.

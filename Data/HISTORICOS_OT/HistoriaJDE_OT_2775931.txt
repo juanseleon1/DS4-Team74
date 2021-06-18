@@ -1,0 +1,4 @@
+2015/05/25 FERNANDO RUIZ - YEISON ORTEGA
+Se recibe reporte de fallas en el edificio mayoría, se realizó identificación de un corto circuito y se corrigió. 
+
+Se adecuó sistemas electricos para elaboracion de examenes médicos para el personal vinculado.

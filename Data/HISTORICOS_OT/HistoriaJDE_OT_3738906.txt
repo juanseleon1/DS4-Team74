@@ -1,0 +1,8 @@
+2018/06/12 RUBEN ARBOLEDA
+Se crea esta OT para pegar avisos de señalizacion en las celdas del banco 4 con los transformadores nuevos de potencia.
+
+2018-06-12 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3738906, PASO:1          
+Se realizó adecuación de avisos de señalización en el banco 4.
+
+2018-06-13 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3738906, PASO:2         
+ Se realizó adecuación de avisos de señalización en el banco 4.

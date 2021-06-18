@@ -1,0 +1,26 @@
+07/03/2017. SERGIO OLIVARES D.   -- REALIZO: FERNANDO CASTRILLON Y EDWAR LONDOÑO O.T:3143277
+Se colocan dos resistencias que estaban quemadas.Se probo la calefacción en control manual, cuyas medidas fueron:
+            VOLTAJES - VAC              CORRIENTES - AMP 
+  R S = 461                                          R = 25.6  
+  ST  = 461                                          S = 24
+  RT  = 461                                          T = 24
+ 
+VOLTAJE TRANSFORMADOR CONTROL : 460 / 127  VAC.
+ESTADO DEL CONTACTOR DE CONTROL : NORMAL 
+NO SE PROBO EN CONTROL AUTOMATICO.
+
+11/06/16  ABAD DE JESUS RAMIREZ GIRALDO
+
+AL CONECTAR LA CALEFACCION DEL GENERADOR UNIDAD 7 SE OBSERVAN UNAS RESISTENCIAS QUE NO FUNCIONAN,FAVOR REVISAR.
+
+2016/06/12 ANGEL ADONIS CADAVID OCHOA
+SE DIRECCIONA OT AL EQUIPO ELECTRICISTA
+
+2016/08/29 RUBEN ARBOLEDA
+Se deja pendiente la OT para realizarse en un paro de unidad, se va reprogramado hasta tener la oportunidad.
+
+2016-10-15 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3143277, PASO:1-2          
+Se realizó revisión de la calefacción de la unidad 7, aprovechando el paro de  la unidad a causa de la indisponibilidad de la II etapa por cambio de inyector 3 en la Unidad 6, se evidenció falla en 2 resistencias, se consultó en almacén la existencia de ellas pero no las hay, queda pendiente enviar a fabricar, encargado: Sergio Olivares, se deja la OT en estado 35, en espera de compra.
+
+2017/01/12 RUBEN ARBOLEDA
+Ya se cuenta con las resistencias, queda pendiente un paro de unidad para realizar el montaje.

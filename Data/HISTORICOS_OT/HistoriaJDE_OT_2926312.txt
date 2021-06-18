@@ -1,0 +1,8 @@
+05-11-2015//Gabriel Uribe.
+Se encuentra swiche bloqueado, se cambia puerto de cable UTP para el swiche de respaldo, se da inicio a la secuencia de arranque y opera adecuadamente.
+
+no se ingresa tiempo ya que se ingreso en otra ot
+
+
+
+

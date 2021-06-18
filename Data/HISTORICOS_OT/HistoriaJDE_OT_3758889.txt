@@ -1,0 +1,13 @@
+XE: REVISAR Y LIMPIAR EQUIPOS EXCITACIÓN PRINCIPAL
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+SEPTIEMBRE 13 DE 2018.
+Se realizó el mantenimiento electrico semestral según el instructivo GCTRE0004.
+Se realizó mantenimiento general, verificación de microswiches, fusibles y tiristores, encontrando en la gaveta puent 1 fase C un tiristor en corto, se cambia por otro de repuesto. Se hace inspección, ajuste y limpieza a todo el banco de tiristores y al interruptor de campo. Se revisan todas las conexiones y se realizaron ajustes en los bornes de control y potencia.
+Realizó: Luis Fernando Correa - Juan david Pelaez.
+Programó: William Lopera.

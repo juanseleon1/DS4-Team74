@@ -1,0 +1,7 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: ABRIL 22_2015
+EJECUTANTE: HENRY GIRALDO RIOS
+
+
+
+Se sube al AG6 y se le coloca un carton al sensor PCH para evitar disparo de la máquina por posible falsa alarma de vibración.

@@ -1,0 +1,10 @@
+
+FECHA: MAYO 31 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Se carga en el disco duro del LPC del AG6 el espejo de datos que se tiene guardado de esta maquina, se revisa y queda bien, mañana se colocara en el AG.
+
+
+
+

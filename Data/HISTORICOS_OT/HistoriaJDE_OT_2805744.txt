@@ -1,0 +1,5 @@
+XL: INSPECCION Y VERIFICACIÓN DE LAS DESCARGAS PARCIALES 
+
+Dionis M. Zapata V.       02/10/2015
+
+Se cargan parametros para poder realizar descargas paciales, por este motivo se incrementa el tiempo de ejecucion y se da explicacion, al funcionario Gabriel Jaime Uribe. 

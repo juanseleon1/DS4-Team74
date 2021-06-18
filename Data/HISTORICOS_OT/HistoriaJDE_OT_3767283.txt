@@ -1,0 +1,12 @@
+Planeador:                           Hernando Alonso Castrillón T.
+Aprobador:                          Carlos Andrés Andrade
+Fecha de solicitud:              19/09/2018
+Tipo de mantenimiento:    Preventivo 
+
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de transmisión
+REVISION NIVEL
+AUMENTAR EN 1 MT LA MEDIDA DEL SHAFT

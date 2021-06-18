@@ -1,0 +1,8 @@
+Se crea ot para el registro de tiempos y actividades en el proceso de fabricación y adecuación de un gabinete para la disposición de los gatos hidráulicos para levante del malacate
+
+
+Programador: Camilo Montagut - 28/04/2016
+
+Se realiza la adecaución de un gabinete para guardar los gatos y la bomba manual usados cuando hay un descarrilamiento de la cabina del malacate
+
+Ejecuta: equipo mantenimineto mecánico GIII

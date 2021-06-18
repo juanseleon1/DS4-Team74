@@ -1,0 +1,2 @@
+2015/06/19 DIEGO BEDOYA
+Se realiza el pedido de filtros mahle para cambiar a los 4 comandos de agujas y el comando del deflector; ya que estos se encontarban alarmados.

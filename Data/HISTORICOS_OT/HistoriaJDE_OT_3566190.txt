@@ -1,0 +1,8 @@
+2017/08/12 RUBEN ARBOLEDA
+Se crea esta OT para realizar labores de orde, aseo y limpieza general al portal, se requiere de sacar cables, retirar cajas provisionales, alumbrados y demás elementos utilizados en el portal para atención del siniestro en guatapé, además de los elementos provisinales para realizar disposición de cable de potencia y labores con los mexicanos. 
+
+2017-08-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3566190, PASO:1          
+Se realizó orden y aseo general a la zona del portal, se retiraron lámparas e instalaciones provisionales que se utilizaron para la empresa PRYSMIAN en el cambio de los cables de potencia de la central Guatape (Después del siniestro)
+
+2017-08-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3566190, PASO:2          
+Se continuó con el orden y aseo general al portal, se retiraron acometidas de los postes y cajas de breaker provisionales.

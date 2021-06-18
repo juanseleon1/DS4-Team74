@@ -1,0 +1,16 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica de las compuertas de la descarga de agua de las 2 unidades de la central de Troneras
+
+
+Programador: Camilo Montagut - 31/10/2018
+
+Comienza el proceso para la adecuación de las compuertas planas en la descarga de la unidades de la central de Troneras registrandose las siguientes actividades:
+
+- Adecuación de los sistemas para pretensionado y rodadura de las compuertas.
+- Prueba del sistema de enganche de las compuertas.
+- Adecuación mecánica en el acceso (tapón) de las compuertas de la unidad 1.
+- Remoción del antiguo sistema para pretensionado en las compuertas de las dos unidades.
+- Limpieza en el marco y en el asiento de las compuertas de las dos unidades.
+
+Quedan actividades pendientes las cuáles se planearan para ejecutarlas en los siguientes meses.
+
+Ejecuta: equipo de mantenimeinto mecánico UOG

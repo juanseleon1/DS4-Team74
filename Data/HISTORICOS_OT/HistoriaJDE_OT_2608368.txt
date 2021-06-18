@@ -1,0 +1,7 @@
+SOLICITANTE: Anexo. - FECHA: Sep. 28 del 2014.
+EL  REGULADOR  DE  TENSIÓN  PRINCIPAL  DE  LA  U1  DE  TRONERAS,  SE  ENCUENTRA  EN  FALLA.  MENSAJE  HACE  REFERENCIA  AL  CANAL  UNO.  EN  SERVICIO  EL  REGULADOR  DOS  COMO  RESPALDO TRAS  CONMUTACIÓN  POR  FALLA  EN  EL  UNO  EL  QUE   ESTABA  SELECCIONADO  COMO  PPAL.  FAVOR  ATENDER.
+
+Martes 30/Septiembre/2014
+Se presentó bloqueo de la CPU1 de la U1 de TRONERAS, conmutando a la CPU2 (respaldo) Aprovechando la baja generación de la cadena, se programa la revisión de la CPU1. Se realizó inspección visual, se conecta con el programa de REIVAX, se realiza bakup de los parámetros y se reinició la CPU1. Se realizan pruebas y todo queda normal y trabajando como principal la CPU1.
+
+Informó: William Pérez, Uaimer Díaz y Oscar Arango.

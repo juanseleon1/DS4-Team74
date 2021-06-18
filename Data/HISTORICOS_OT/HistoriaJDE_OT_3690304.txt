@@ -1,0 +1,11 @@
+
+ FEBRERO 20 DE 2018 HORA: 20:06
+ SALE DE SINCRONISMO LA UNIDADN°1 POR PARO DE EMERGENCIA 86E1 Y 86E2 SE SOLICITA REDESPACHO DEL PERIODO 23 Y 24 DE LA UNIDAD N°1 Y SE INFORMA AL JEFE ENCARGADO.
+SE OBSERBA FALLA DEL PLC.
+INFORMA: TURNO 2 JORGE GONZALEZ CARLOS GUINGUER Y OSBALDO LOPERA.
+
+
+REFERENTE AL PARO 86E1 Y 86E2DE LA UNIDADN°1. Se evidencia memoria de la CPU del PLC del control de Unidad en falla.Se resetea el PLC y se normaliza la falla.Se buscan condiciones a la unidad y se energiza, observando variables criticas de temperatura estables y comportamiento del control normal.
+Se sincroniza la unidad a las 21:19 con una potencia de 135 MW y se canceló el periodo del 24.
+Se deja la unidad en observacion y queda pendiente de análisis causa raíz. Este evento causó una desviación de 167MW
+INFORMO: Jorge Rodriguez, Crlos Sanchez, Cristian Gomezy Santiago Rodrigues. Turno 2. Jorge Gonzalez, Carlos Guinguer y Osbaldo Lopera.

@@ -1,0 +1,9 @@
+MANTENIMIENTO ELECTRONICO REGULADOR TENSION Y EXCITACION PRINCIPAL GUADALUPE 4.
+
+Nota:Esta OT: Se le adiciona mas tiempo por motivo que al Regulador de tension se le hace mantenimiento y no esta contemplado en la misma.
+
+19 DE NOVIEMBRE DE 2014.
+
+Se realizó limpieza, inspección visual y reapriete a las borneras de control de los diferentes tableros del  regulador de tensión, enfocándose en el control (canales). Se realizó mantenimiento a los bancos de tiristores, ventiladores y equipos de comunicación.
+
+INFORMÓ: WILLIAM LOPERA

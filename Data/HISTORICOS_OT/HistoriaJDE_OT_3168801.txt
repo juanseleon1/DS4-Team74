@@ -1,0 +1,58 @@
+FALLA TCDF FUGA 
+
+
+06/07/2016
+
+Se realiza la verificación de los equipos profibus de la estación hidráulica del TCDF, se encuentran que a pesar de la magnitud de agua que ingresa estos equipos siendo de un IP alto están en buen estado, se inicia la conexión provisional para estos equipos verificarlos con una LINKIN provisional.
+
+Adema se realiza la verificación de los sensores de posición angular de la compuerta radial del TCDF, se encuentran en buen estado, se procede a interrumpir el cableado de estos sensores hacia el tablero siniestrado TCDF para colocar una indicación remota para maniobras locales del personal mecánico el cual intentara parar la fuga.
+
+
+Realizado por Wtobonl
+
+06/07/2016
+
+Se realiza la instalación de una estación profibus provisional para la verificación y visualización de los instrumentos profibus de la estación hidráulica en el TCDF, además de instalar cableado provisional para estas medidas y las indicaciones de posición de la compuerta radial, la cual el personal mecánico moverá para disminuir la fuga.
+
+Realizado por Wtobonl
+
+07/07/2016
+
+Se realizan pruebas con el equipo mecánico de todas la medidas provisionales instaladas de la compuerta TCDF las cuales son provisionales para los movimientos a realizar, se ajustan las indicaciones de posición de la compuerta radial TCDF con un transductor lineal 4 a 20 mAmp y poder verificar la medida de posición a medida que esta se mueve de manera local con el control provisional instalado por el grupo eléctrico de la central.
+
+
+Realizado por Wtobonl
+
+15/07/2016
+
+Después de controlada la fuga por el personal mecánico en las compuertas del TCDF se inicia con la inspección de los elementos dañados y el retiro de los equipos en los sistemas de control de 480 Vac, 220Vac, TUP07 y caudal ecológico estos equipos como PLC, Fuentes, Relés, IHM y demás equipos electrónicos están en mal estado con humedad y algunos mojados.
+Los equipos del tablero TCDF control de compuerta desaparecieron con el tablero a consecuencia del chorro continuo en esta tablero el cual desmembró todas sus partes al pasar de los días, solo se recupera el RACK del PLC y una IHM ambos inundados por el agua.
+
+Realizado por Wtobonl
+
+
+18/07/2016
+
+Se inicia con el secado del cableado y borneras en el tablero TUPS07 el cual sufrió al parecer de solo humedad, además se trata de secar los bornes del tablero del caudal ecológico los cuales están llenos de agua y humedad, además se verifican los instrumentos de la estación hidráulica del caudal la cual se encontraba sumergida, los instrumentos se secan y verifican pero presentan problemas, el personal eléctrico retirara los motores para realizar labores de secado y verificar si se pueden rescatar su medida de aislamiento.
+
+Realizado por Wtobonl
+
+
+19/07/2016
+
+Se ingresan los elementos rescatados en los sistemas de control de 480 Vac, 220Vac, TUP07 y caudal ecológico estos se llevan al cuarto caliente y después de dos días se realizan labores de limpieza y verificación de humedad. 
+En la inspección realizada se detectan todos con humedad y corrosión que impregnan los circuitos impresos y contactos, solo se rescata el control tipo TM del proceso TUPS.
+
+
+Realizado por Wtobonl
+
+
+27/07/2016
+
+Se inicia labores de ingeniería y control para poder rescatar de manera local la acción del caudal ecológico debido a que los equipos de control se dan por perdida total después de tratar de rescatarlos y las labores de inspección y mantenimiento,  los sensores de posición de la válvula están por verificar y los instrumentos de presión e integrar estos en un control provisional local o integrado en los controladores de la mini central para poder abrir y cerrar el caudal de manera local y evitar sanciones por falta del caudal ecológico. Se inicia con la ingeniería y logística para esta acción de recuperar parcial o temporal el control del caudal ecológico.
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR 
+
+

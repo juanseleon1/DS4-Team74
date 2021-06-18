@@ -1,0 +1,6 @@
+
+22/Marzo/2015
+Se realizan pruebas de transferencia de los interrupteres probocandole falla en la alimentación, 
+se encuentra PLC trabajando en condiciones normales. 
+
+Learcilas

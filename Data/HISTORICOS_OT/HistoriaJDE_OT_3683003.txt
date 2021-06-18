@@ -1,0 +1,22 @@
+
+FALLA CONTROLADOR UNIDAD 4
+
+06/02/2018 Cesar Tulio / Luis Eduardo Arcila
+
+
+Se revisa el controlador encontrando falla 88 en la CPU.
+se realiza mantenimiento y chequeo a la tarjeta sin resultados positivos.
+Se pide cotización para la compra de una tarjeta DSPC172 
+
+FECHA:  12/02/2017
+REALIZO: CESAR T. JIMENEZ
+
+SE HACEN CAMBIO DE TARJETERIA, DSPC-172, LLEGA A P1, PERO PASADOS UNOS MINUTOS SE COLOCA EN 88.
+
+21/03/2018 Luis Eduardo Arcila
+Se cierra OT sin solución por falta de recursos.
+Queda pendiente la autorización de la compra de tarjetas de repuesto por parte del jefe John Jairo Mejía
+
+
+
+

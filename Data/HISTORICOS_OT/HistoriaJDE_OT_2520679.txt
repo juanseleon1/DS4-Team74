@@ -1,0 +1,11 @@
+2014/05/05 CARLOS SANHCHEZ.
+SE GENERA ESTA OT PARA REALIZAR LA INSTALACIONDEL RELE SELL PARA LAS PROTECCIONES EN LA LINEA
+
+
+
+
+12/08/2014
+
+se realian instalacion de los reles y pruebas en el control de los reles de protecciones con la comunicacion de los reles SEL. ademas se prueba y modifican los disparos por medio del PLC. 
+
+Realizado por WtobonL

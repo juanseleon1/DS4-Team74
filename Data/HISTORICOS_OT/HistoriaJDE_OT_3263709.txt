@@ -1,0 +1,11 @@
+Planeador: Carlos Torres 
+Aprobador: CARLOS ANDRADE
+Fecha de solicitud: 30/09/2016
+Tipo de mantenimiento: Preventivo 
+Acciones de mantenimiento: 
+ Inspección general del estado de la estación
+ Limpieza de estación
+              Descarga y verificación de datos de la estación
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación de sistema de transmisión
+ Verificación del emplazamiento de la estación

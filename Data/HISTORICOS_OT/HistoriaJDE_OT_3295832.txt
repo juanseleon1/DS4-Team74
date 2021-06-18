@@ -1,0 +1,6 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: OCTUBRE 27-2016
+EJECUTANTE: ELIECER PUSHAINA 
+
+
+Se presenta bloqueo de la yaw, se revisa y se encuentra tensionada la guaya que va amarrada a los cables de potencia y accionando el Switch, se desbloquea y se dejan los cables totalmente des entorchados, se coloca en 0 el twist, se deja en servicio el aerogenerador.

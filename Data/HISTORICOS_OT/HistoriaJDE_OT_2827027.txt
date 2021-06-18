@@ -1,0 +1,14 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+11/08/2015. SERGIO OLIVARES D.
+ 1. Medidas Antes de limpieza:
+     Rotor + Barraje = 53  k.
+     Rotor                =  53  k.
+     Barraje             =  56   k.
+
+            1. Medidas después de limpieza:
+     Rotor + Barraje = 2.15   M.
+     Rotor                =  47.3   M.
+     Barraje             =   341   M.
+
+    Se dejo todo normal.

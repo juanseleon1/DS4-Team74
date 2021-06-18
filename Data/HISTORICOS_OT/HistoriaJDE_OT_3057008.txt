@@ -1,0 +1,6 @@
+
+FECHA: MARZO 25 DE 2016 OT 3057008
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Después de normalizar la maquina por falla por comunicaciones, se queda fallada por Main Switch abierto, se inspecciona ese interruptor y se encuentra el micro Switch de posición pegado, se despega y se deja en servicio el aerogenerador.

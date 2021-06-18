@@ -1,0 +1,7 @@
+
+
+Programador: Camilo Montagut - 05/11/2015
+
+Se cierra la ot sin registro de tiempo ya que las actividades se ejecutaron y se registraron en la ot: 2623152
+
+Ejecuta: equipo manteniemiento mecánico GIII

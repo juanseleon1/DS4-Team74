@@ -1,0 +1,16 @@
+
+2017/03/17 _ CARLOS ENRIQUE MONCADA. OT N° 3426975.
+Referente a la unidad # 1. 
+
+Se realizan pruebas en el regulador de velocidad, se cambian tarjetas de entradas y salidas análogas y digitales, se ajustan los siguientes parametros:
+
+El estatismo permanente RV-Bp1 estaba en 0.1 y quedo en 0.05.
+RV-Bt1=estaba en 0.5 y quedo en 0.3.
+RV-td1=estaba en 6 y quedo en 3.
+RV-Tn=estaba en 0.5 y quedo en 0.8.
+
+Se hacen escalones de frecuencia, observandose un buen comportamiento en la regulación primaria de frecuencia, se realizan en varias ocasiones subiendo y bajando la frecuencia. 
+
+Se entrega la unidad para explotación comercial quedando esta en observación.
+
+Trabajo realizado por: Mario Augusto Gomez , Oswaldo Alzate, Jorge Rodríguez y equipo mantenimiento Electrónico UOP. 

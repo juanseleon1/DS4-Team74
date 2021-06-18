@@ -1,0 +1,15 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+ENERO 30 DE 2018
+
+mantenimiento cuatrimestral preventivo electronico
+fecha: 15/o2/2018
+
+-se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan ajustados así: cipl 9.40vdc y el cipr 8.69vdc.
+-Se realiza mantenimiento de cada una de las RTD asociadas al cojinete
+- nivel de aceite se encontró en:  270mm, después de ajuste quedo en 281mm, el nivel patrón es 290mm. 
+programo: luis adrian cardona

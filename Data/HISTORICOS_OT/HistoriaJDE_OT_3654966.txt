@@ -1,0 +1,10 @@
+Planeador:642009
+Aprobador:355694
+Fecha de solicitud: Juan david Montoya G
+Tipo de mantenimiento: Preventivo
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Limpieza de estación
+ Verificación de sistema de potencia y puesta a tierra
+ Verificación del nivel de mira vs. sensor
+ Realización de aforo

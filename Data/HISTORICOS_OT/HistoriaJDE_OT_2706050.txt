@@ -1,0 +1,44 @@
+- FECHA : MARTES FEBRERO 24 DE 2015
+- REALIZÓ : FRANCISCO QUINTERO - ANDRÉS ZAPATA
+- ASOCIADO A LA OT : 2706050
+- ASUNTO HACER MANTTO MP
+
+- DATOS DE PLACA 
+  * POTENCIA : 60 HP
+  * VOLTAJE : 460 V
+  * CORRIENTE : 81 A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí        
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 2.55 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  467 v
+       ST =  469 v                                                                 
+       RT =  470 v
+       Corriente de arranque:  
+Fase R = 181 a
+       Corriente de marcha:  
+Fase R =  80 a 
+Fase S =  76 a
+Fase T =   78 a                                                                              
+2.3. Temperatura excesiva carcaza: nó
+      Temperatura excesiva cojinetes: nó
+      Vibración anormal: nó
+      Ruido anormal: nó
+
+3. Calibración térmico control:   3.2 a                            Calibración térmico control: 63 a
+
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 2643
+
+6. Observaciones: 1. La corriente  en vacio es de 36 amp.
+                                    2. Presión mínima arranque compresor : 5.53 bares 
+                                    3. Presión máxima parada compresor : 7.0 bares 

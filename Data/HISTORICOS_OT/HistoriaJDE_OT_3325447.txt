@@ -1,0 +1,10 @@
+FECHA: 25/11/2016
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+DESCRIPCION: SE PRESENTO SALIDA FORZADA DE LA UNIDAD 4 DE GUADALUPE 3 POR PERDIDA DE POSICION DEL DEFLECTOR.
+
+POR FAVOR ATENDER ESTA SOLICITUD
+
+25 DE NOVIEMBRE DE 2016
+Referente a la falla grave del regulador de velocidad, se revisan las señales de posición del deflector y válvula deflectora, encontrándose que cuando se le daba orden de giro a la unidad, el deflector se iba al 100%, lo que ocasionaba paro rápido por falla grave en el regulador de velocidad, después de revisar se encontró la electroválvula TR10 pegada lo que ocasionaba la apertura al 100% y perdida de posición del deflector, se cambia la TR10 por una usada, se calibran los lazos de control en el regulador de velocidad, se gira la unidad, luego se lleva hasta sincronizada y queda trabajando en condiciones normales.
+Realizo: equipo de mantenimiento  
+Informo: William Lopera.

@@ -1,0 +1,44 @@
+FECHA: DOMINGO 03/07/2016
+PROGRAMO: YOVANNY RIVERA
+EJECUTO: DARIO ATEHORTUA, JEISON ORTEGA 
+ASOCIADO A LA OT: 3112918
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO _107.8 H_________________
+
+PRESION DE ACEITE (PSI) _______84___________
+
+TIEMPO DE TRABAJO (min) _______15___________
+
+TEMPERATURA DE ACEITE (°C) __________________
+
+TEMPERATURA AGUA (°C) ________78__________
+
+VOLTAJE DE SALIDA _______500 V___________
+
+CICLOS POR MINUTO ________60 HZ__________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones:_PROGRAMAR REPARACION DE FUGA EN EL VISOR DE ACEITE. _PROGRAMAR LAVADO DE 
+RADIADOR
+NIVEL DE TANQUE DE RESERVA ESTA EN 84 CM ________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

@@ -1,0 +1,15 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION DE LA CENTRAL NIQUIA.
+
+Nota 1: La unidad generadora esta en condiciones normales de funcionamiento.
+
+Nota: El informe se en cuentra en el servidor U1; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+01 Area Area metropolitana y otras 
+02 Plantas EADE
+04 Central Niquia NQ ow 4349
+02 unidad generación U1 ow 4332
+01 vibeaciones macanicas 
+Ruta de vibraciones U1.
+
+Ademas  el informe esta en el OW

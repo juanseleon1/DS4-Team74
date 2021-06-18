@@ -1,0 +1,6 @@
+FECHA: 26/09/2017    SOLICITADO POR: Natalia Urrea - Operación G4
+OT: 3608865
+DESCRIPCIÓN: La motobomba de refrigeración de la unidad 1 de Guadalupe 4 presenta ruido anormal. Se deja operando en modo automático la bomba de reserva N°2.
+ La bomba N° 1 queda con los siguientes bloqueos: Paro de emergencia desde pulsador tablero de control de la bomba y cierre de válvula de corte de la bomba principal.
+POR PRESENTAR RUIDO ANORMAL SE CONSIGNA MOTO-BOMBA Y SE REALIZA INSPECCIÓN EN EL MOTOR. SE ENCUENTRA SELLO DE LA CUBA RODAMIENTO LADO VENTILADOR CON SUCIEDAD Y DESGASTE, SE RETIRA SELLO Y SE REPARA, Y SE REALIZA LIMPIEZA GENERAL. SE NORMALIZA Y SE VERIFICA SU CORRECTO FUNCIONAMIENTO. SE ENTREGA A OPERACIÓN.
+INFORMO: CARLOS OSPINA

@@ -1,0 +1,21 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 06-05-2019
+Tipo de mantenimiento: Preventivo)
+Acciones de mantenimiento: 
+
+
+               Inspección general del estado de la estación
+                Limpieza de estación
+                Cambio de desecante de gabinetes
+                Descarga y verificación de datos de la estación
+                Análisis de datos de estado del datalogger y transmisor
+                Actualización de programa de la estación
+                Actualización de sistema operativo del datalogger
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+                Calibración de pluviómetro
+                Verificación del emplazamiento de la estación
+                
+
+                

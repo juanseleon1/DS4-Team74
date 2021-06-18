@@ -1,0 +1,14 @@
+26/06/2018 - 6:27.
+
+Despues de la corrección de la UPS de la casa de maquinas de Guadalupe III, se identifico fallado el control de la Valvula de Refrigeración de Cojinetes Rotor K de la Unidad 4., siendo necesario abrirla en forma manual y mecanica para darle condiciones.
+
+Se solicita revisión y mantenimiento correctivo al control de esta valvula.
+
+Informa y realiza: Turno 3 - Mauricio Caicedo - Wilson Arango.
+
+
+28/06/2018
+
+SA HACE UNA REVISION DE LA VALVULA Y SE ENCUENTRA INTERNAMENTE UN FUSIBLE QUEMADO, SE REEMPLAZA DICHO FUSIBLE Y SE NORMALIZA EL CONTROL.
+
+REALIZO: GRUPO DE ELECTRONICA 

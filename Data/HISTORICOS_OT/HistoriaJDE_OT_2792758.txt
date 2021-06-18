@@ -1,0 +1,11 @@
+
+JUNIO 12 DEL 2015 / JEOVANNY CORREA G
+
+Calibrar los instrumentos de medida de temperatura de los transformadores de G3, los cuales están muy desfasados con la señal de temperatura de la estación de operación.
+
+09/SEPTIEMBRE/2015
+Se verificaron los transductores instalados en los trafos de potencia, estos transductores de -20 a 120°c/4-20mA presentan problemas en la señal de salida hacia el control, por esta razon se viene realizando el cambio de estos transductores y se esta conectando la señal directamente a la RIO, por medio de un modulo de RTD. esto con el fin de corregir el desface que se nos presenta en la medida del termometro vs la señal de temperatura en la RIO.
+
+Ejecuto: Zoraida Monsalve
+Programador: Oscar Arango
+ 

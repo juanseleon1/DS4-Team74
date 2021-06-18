@@ -1,0 +1,5 @@
+13/06/16 OSCAR GIRALDO- CÉSAR HOYOS
+Se realizarán pruebas de tiempos y resistencia de contactos.
+Se realizó prueba de tiempos  de apertura - cierre y resistencia de cocntactos con los siguientes resultados.
+Fecha:13/06/16Fasa R Fasa S Fasa TTiempo cierre (ms) 124,8 125,8 125,6Tiempo apertura (ms) 50,4 51,4 51,6Resistencia estática () 41 41 35I bobina cierre (A) 1,131I bobina apertura (A) 1,114
+Se compara las medidas con los datos de pruebas anteriores y están similares 

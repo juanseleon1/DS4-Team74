@@ -1,0 +1,7 @@
+revisar trasnmisor de flujo caudal turbinado, ya que se está presentando oscilación en la medida.
+
+14/07/2017.
+se reasliza revisión de la trayectoria 3 encontrandose un sensor malo, se debe planear la visita del personal rittmeyer para cambio del sensor.
+por ahora se deshabilita esta trayectoria dejando la medida estable. 
+
+nestor fabian ochoa. 

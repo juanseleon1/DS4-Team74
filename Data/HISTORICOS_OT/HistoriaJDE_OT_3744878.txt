@@ -1,0 +1,37 @@
+2018/07/12
+SOLICITANTE: RAMIRO A TORRES.
+
+AL MOMENTO DE ENGANCHAR LA MAQUINA PARA HACER AGC, NO RESPONDE Y ADEMAS EN REMOTO NO RECIBE CONSIGNA DE SUBIR POTENCIA ACTIVA.
+
+2018/07/12
+ 
+Se pide la unidad periodo 10, para su respectiva revisión.
+Se cambia la tarjeta VAO20 del regulador de velocidad y se energiza de nuevo sin resultados favorables.
+Se cambia el valor del KP a 2 en el programa del regulador de velocidad para evitar oscilacion del deflector.
+No recibe la orden de cargar Mw desde la estación de operación, solo al ponerla en modo frecuencia en local manual se deja cargar la unidad.
+Al pasarla a remoto se baja a 0 Mw.
+Se entrega la unidad con 70 Mw y en modo frecuencia.
+Se pide la unidad de nuevo para el periodo 14.
+Se cambia tarjeta DSDI110A del controlador de unidad y el rele RVP de control.
+También se revisa el transductor de potencia encontrándolo en condiciones normales. 
+Se entrega a centro de control y se sincroniza la unidad respondiendo normalmente a la orden de carga dejándola en 70 Mw en control potencia.
+OT:3744878
+Mauricio Quijano
+Juan Carlos Granados
+Víctor Zuleta
+Luis Eduardo Arcila 
+
+2018-07-14 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3744878, PASO:5          
+Con respecto a la unidad 8 se realizaron los siguientes trabajos.
+1. Ajuste y limpieza de la rueda dentada. Dicha rueda se encontraba mal posicionada con respecto a los sensores, presentaba un cabeceo y un gap diferente en ambos sensores. Quedaron a 1.02 mm.
+2. Cambio de sensor de velocidad el cual lleva la señal al regulador de velocidad. El sensor presentaba un golpe por el roce con la rueda dentada; dicho roce aumentaba con la máquina a bajas velocidades.
+3. Cambio de microfiltros de los 4 inyectores y deflector, cambio de la válvula moog del inyector del inyector 3 y 4. 
+4. Se realizó recorrido de apertura y cierre de los 4 inyectores y el deflector. Se ajustaron los transductores los cuales estaban descalibrados.
+5. Se ajustaron parámetros en el regulador de velocidad,  variable PW404 en el deflector, los parámetros que tenía no coincidían con el programa original y con el resto de máquinas.
+6. Se verificó los comandos de subir y bajar potencia en las entradas al regulador de velocidad, observando que dichos comandos en local y remoto llegaran.
+7. Se realizó arranque de la máquina en los siguientes porcentajes de velocidad:
+10%: 137 Hz (Pulsos de medida del sensor de velocidad)
+30%: 392 Hz (Pulsos de medida del sensor de velocidad)
+50%: 644 Hz (Pulsos de medida del sensor de velocidad)
+80%: 1030 Hz (Pulsos de medida del sensor de velocidad)
+100%: 1285 Hz (Pulsos de medida del sensor de velocidad)

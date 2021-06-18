@@ -1,0 +1,12 @@
+MP ANUAL EQUIPOS:
+
+- 2287 BARRAJE U1
+- 2288 BARRAJE U2
+- 2289 BARRAJE U3
+- 2290 BARRAJE U4
+- 2291 BARRAJE U5
+- 2292 BARRAJE U6
+
+SEPTIEMBRE 26 DE 2017
+Se desacoplan las barras de salida del estator para pruebas eléctricas, se realiza mantenimiento de acuerdo al instructivo, se retira la bandeja porta cables y los CT’ s, se montan unos nuevos CT’ s marca ABB, se le realizan pruebas de funcionamiento, se instala nuevamente la bandeja porta cables con su respectivo cableado de control. Después de realizar el cambio de los CT’ s se cierra nuevamente e barraje de salida.
+William Lopera.

@@ -1,0 +1,18 @@
+2018/07/16 RUBEN ARBOLEDA
+Se crea OT para realizar desarme y armado de la exitación de la Unidad 6 con el fin de despejar la parte superior para realizar el montaje de los sensores de vibración.
+
+2018-07-17 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3746157, PASO:1          
+Se realizó el desarme del recinto de anillos de la Unidad 6 para el montaje de los sensores de vibración, se realizó medida de aislamiento con los siguientes resultados: 
+Rotor + Barraje: <500K
+Rotor: <500K
+Barraje: <500K
+el nivel de tensión en el barraje no subió de 3VDC
+
+2018-08-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3746157, PASO:2          
+Se realizó limpieza general a las tapas de las campanas de la Unidad 6 y a los cables de excitación de ésta Unidad.
+
+2018-08-09 REALIZÓ: FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3746157, PASO:3          
+Se realizó limpieza general de cables de excitación y bandejas portacables de excitación del recinto de anillos de la Unidad 6, se dejó en condiciones normales.
+
+2018-08-28 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3746157, PASO:4          
+Se continuó con el armado de la excitación en la Unidad 6, se realizó el cambio del porta escobillas, se realizó la instalación de los cables de excitación y se instaló escobilla de corrientes por el rotor. 

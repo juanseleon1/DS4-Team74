@@ -1,0 +1,16 @@
+
+
+AGOSTO 23 /2016
+
+
+Revisar CPU1 del regulador de Velocidad U2, se ha fallado en varias ocasiones conmutandose a la CPU2 y dejando el regulador sin respaldo.
+
+Esta falla no registra ninguna alarma ni en controlador de unidad ni en Scada.
+
+
+
+3219295 
+
+
+
+Datos de la Solicitud . Se a creado una Solicitud que requiere aprobacion. Usted es el encargado de diligenciar que esta sea aprobada. Descripción  : Revisar CPU1 regulador Velocid Tipo             : WO Prioridad      : 3     <> Edo. del Eq.  :      <> . . Datos del Equipo . Equipo      : 395266  Descripción : REGULADOR VELOCIDAD U2 PL 

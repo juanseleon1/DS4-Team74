@@ -1,0 +1,14 @@
+19/04/2017.
+Genero Falla Grave sacando Unidad de Operaciòn, se solicita diagnostico y normalizaciòn.
+
+Informa Operaciòn Guadalupe 3.
+
+20/04/2017
+Revisar el transductor para la medicion de frecuencia, ubicado en el tablero del Regulador de velocidad Reivax. Se debe llevar la maquina a Energizada y con el osciloscopio analizar la señal de salida del equipo.
+
+Planeador: Oscar Arango
+
+SE HACE UNA REVISION DE TODO EL LAZO DE CONTROL, SE REAPRETAN BORNERAS DE PASO, SE REVISA EL ESTADO DE LOS PT"S, TAMBIEN SE REVISAN LOS SENSORES PICK-UP, SE DA GIRO A LA UNIDAD Y SE SINCRONIZA Y RESPONDIO CORRECTAMENTE.
+
+
+REALIZO: GRUPO DE ELECTRONICA

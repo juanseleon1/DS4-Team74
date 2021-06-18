@@ -1,0 +1,4 @@
+Fecha: 2016/07/25
+Síntoma: Falla de alimentación eléctrica VAC
+Diagnóstico preliminar: Problemas en el tablero de alimentación desde mini central debido a fuga e inundacion de los sistemas.  
+Reportó: Raúl Mauricio Álvarez Álvarez

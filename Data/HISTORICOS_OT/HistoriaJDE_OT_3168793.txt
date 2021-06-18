@@ -1,0 +1,5 @@
+07/07/2016
+SE CONSIGNA LA UNIDAD PARA INSPECCION DE RUIDO ELECTRICO EN BARRAJE DE SALIDA DEL GENERADOR FASE T.
+INFORMA: BIANEY BRAVO
+Jorge Alirio Hernandez 07/07/2016 OT 3168793
+ Luego de realizar los bloqueos de unidad se procede a realizar inspeccion visual y se observa falla de aislamiento en el buje de salida de barras fase T , se observa un fisura en el aislamiento y presencia de polvillo blanco (ozono) , se procede a colocar tierras en barras y se desconecta la barra de salida , se procede a limpiar tanto la barra como el buje de salida y se pinta nuevamente con pintura aislante , se instala nuevamente y se sincroniza la unidad , la cual queda con ruido anormal y se observa un pequeño arco electrico entre la barra y el buje , se bloquea nuevamente la unidad y se coloca un refuerzo de aislamiento de G10 de un milimetro , se encamizo la parte que mostraba la falla con este aislamiento..se energiza nuevamente la unidad y se verifica que queda en funcionamiento normal.

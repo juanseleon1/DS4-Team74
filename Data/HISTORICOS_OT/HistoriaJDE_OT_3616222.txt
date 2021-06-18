@@ -1,0 +1,15 @@
+03/09/2017
+
+realizar mantenimiento anual segun instructivos
+
+
+
+
+05/10/2017
+Se realiza limpieza y verificación de la IHM y el PLC., se encuentra lámpara interna tablero mala.
+Se realiza verificaron del lazo en el sensor de posición del distribuidor se lubrica el recorrido de este sensor y se ajusta mecanismo del brazo. 
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRAR
+  

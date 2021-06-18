@@ -1,0 +1,19 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+---------------------------------------
+fecha: OCTUBRE 13-2014 ot:2565282  mtto: eléctrico
+ejecutó: CAMILO CARDONA - DAVISON PEREZ
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE refrigeración CCM U2, circuito de circulación agua tratada (S3). Según IDM: GCP2E0017. No se encuentran averías ni fallas en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+BOMBA 1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S460R498,9R50R10,45 500S - T460S494S48S11,05 500T - R463T496T49T11,07 500
+BOMBA2 
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S469R643R49R7,28 500S - T468S647S49S7,92 500T - R468T640T50T8,43 500
+el mtto se realiza por oportunidad con planta en 0 mva.
+informa: cristian a gómez h
+--------------------------

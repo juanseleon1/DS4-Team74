@@ -1,0 +1,10 @@
+
+ DICIEMBRE 21 DEL 2015 / JEOVANNY CORREA
+La junta inflable de operación de la unidad G43 con la lógica invertida
+
+08/01/2016
+REFERENTE ESTACION DE INGENIERIA G4 - JUNTA INFLABLE DE OPERACION
+Se cambio logica de visualizacion en las pantallas de operacion y centro de control, con los estados de la junta inflable de Operacion, puesto que tenia la logica invertida cunado aplicaba/desaplicaba, mostrando un color erroneo en los permisivos de la secuencia de arranue y paro automatico.
+Se realizan pruebas despues de descargar los cambios en el controlador y se evidencia una correcta visualizacion de los estados.
+Ejecuta: Juan Caicedo - Oscar Arango - Fredy Duarte
+Programador: Oscar Arango

@@ -1,0 +1,16 @@
+18/07/2017. 10:30
+
+En recorrido por Planta se detectan algunas anormalidades en el sistema de Puesta a Tierra de la Planta (SPT, haciendo vulnerable las protecciones del Sistema de Potencia como el de Control, se pudo evidenciar lo siguiente:
+
+1. Conductores del SPT sueltos sin coneccion.
+2. Conductores deL SPT con posile aislamiento por efectos de la suciedad o aceites.
+3. Conductores con alta sulfataciòn.
+
+Informa: turno 3 de Operaciòn.
+
+WILSON ARANGO BEDOYA
+Tecnologo Operador
+
+JULIO 26 DE 2017.
+Se revisaron algunas de las puestas a tierra de la casa maquinas de troneras, encontrando varias terminales sueltas, se limpian y se corrigen garantizando buen punto de contacto.
+William Lopera.

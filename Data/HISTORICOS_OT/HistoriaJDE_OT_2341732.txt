@@ -1,0 +1,6 @@
+
+ JULIO 22 DEL 2013 / GIOVANNY CORREA G
+
+ Reprogramar el tiempo de arranque de los filtros de Guadalupe III, estos estan arrancando cada 6 horas por 3 minutos de trabajo y ese ciclo tan distanciado hace que los filtros en tiempo de lluvias se obstruyan, provocando el bajo nivel del foso de refrigeracion.
+
+Nota: En la planta de Guadalupe IV estos filtros siempre estan trabajando desde que se encuentre una unidad girando.

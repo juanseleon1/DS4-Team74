@@ -1,0 +1,6 @@
+2018/02/04 RUBEN ARBOLEDA
+Siendo las 10:58 sale del sistema la Unidad 4 con falla Medidas Regulador, se borra la alarma se sincroniza a las 11:02 y sale nuevamente a las 11:02, 
+
+2018/02/04 JAIME RAMIREZ - VICTOR ZULETA - RUBEN ARBOLEDA
+Se realiza calibración de tranductor de posción del servomotor de deflectores, se ajusta a: 4.15mA en posicion de cierre y 20.14 en posición de Apertura, para esto fue necesario realizar ajuste de la leva (accionamiento mecánico). en el tanque del regulador hidraulico. 
+Entra la unidad a las 12:30

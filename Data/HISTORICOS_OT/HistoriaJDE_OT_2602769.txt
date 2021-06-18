@@ -1,0 +1,3 @@
+2014/09/17 GIOVANNY DIAZ - JUAN DAVID GARCIA - OSCAR GIRALDO - RUBEN ARBOLEDA
+Se realizó cambio de fuente a la pantalla (IHM) la cual estaba presentando falla en el inicio de Windows. 
+Se presentaba un reinició automático muy inmediato, para lo cual se realizo medida de voltaje de salida de la fuente de 120VAC/24VDC,  y se identificó una oscilacion de voltaje, se instaló una fuente que estaba en el puente grúa, disponible para la modernización. 

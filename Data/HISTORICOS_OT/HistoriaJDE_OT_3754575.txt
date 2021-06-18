@@ -1,0 +1,4 @@
+
+AGOSTO 13/2018 OT: 3754575  PROGRAMÓ: HGIRALRI EJECUTÓ:  ALVARITO Y ELIECER PUSHAINA
+
+Se presenta paro por comunicaciones, al reponer la falla se presenta paro por Breake Not Open Analog, se cambian los dos frenos de generador. 

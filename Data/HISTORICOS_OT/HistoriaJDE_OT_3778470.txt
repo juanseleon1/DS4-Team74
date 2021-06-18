@@ -1,0 +1,6 @@
+
+ 25 DE OCTUBRE 2018 
+Referente al paro de la unidad #1.
+Se presenta paro de emergencia, falla mayor DIGIPID 1500, en el momento del paro se estaba realizando el desconexionado de los equipos que se habían conectado para realizar pruebas y ajustes del regulador de velocidad para AGC.
+La unidad se sincroniza a las 16:33.
+Informa:  Jorge Rodríguez.

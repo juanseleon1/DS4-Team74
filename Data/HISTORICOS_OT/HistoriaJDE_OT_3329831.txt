@@ -1,0 +1,15 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 30-11-2016
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento
+
+
+Estaciones hidrometeorológicas
+
+                          
+Realizar las siguientes acciones de mantenimiento correctivo:  
+                Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+                Reparación sistema de sensores y protectores
+               Reparación sistema de transmisión
+           

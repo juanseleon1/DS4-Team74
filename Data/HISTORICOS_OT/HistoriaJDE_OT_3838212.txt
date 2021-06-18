@@ -1,0 +1,5 @@
+
+
+
+MAYO 17/2019  OT: 3838212  PROGRAMÓ: HGIRALRI EJECUTÓ: PEDRO ROBAYO Y CARLOS VALDELAMAR
+Debido a la alta temperatura en el generador y a una diferencia de corrientes en el generador se procede a realizar pruebas de aislamiento y resistencia en el generador, se encontró una diferencia en la resistencia de la fase L3 del G1, verificando físicamente se encuentra deteriorada a punto de desprenderse (al hacerle fuerza se desprendió del cable) la terminal de W2, se procede a realizar la corrección de este punto, para hacerlo fue necesario cortar una punta con la terminal (aproximadamente 10 cm) de uno de los cables del AG12, no teníamos cable para corregir la falla; se realizan de nuevo las pruebas dando bien las medidas, se deja en servicio el aerogenerador.

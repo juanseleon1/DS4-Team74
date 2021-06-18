@@ -1,0 +1,31 @@
+AI: REALIZAR METROLOGIA TERMOMETRO 1 DEVANADO DEL ESTATOR U3
+FECHA PLANEACION MANTENIMIENTO: 23/10/2018
+NUMERO DE CONSIGNACION: 147770
+
+N°OT: 3777207
+
+PLANEADOR: JORGE RODRIGUEZ
+
+PROGRAMADOR: NESTOR FABIAN OCHOA
+
+Nota:
+
+- Adjuntar en estos anexos todos los aspectos relevantes con esta orden de trabajo y los resultados obtenidos. El Informe debe quedar en los datos del equipo.
+- Planear el recurso humano y los materiales y poner en estado 40 la orden de trabajo
+- Imprimir los instructivos
+- Planear la logística necesaria para iniciar labores el martes 23 de octubre de 2018 a las 07:00am
+
+
+23/10/2018
+
+Se ubicaron los puntos de inyección de la RTD 7 FASE R (devanado estator) en el Tablero TIG, bornera TB3, bornes 11A, 11B y 11C. Se inyectaron valores de 80°C, 100°C y 125°C con el calibrador de procesos. Se compararon las lecturas en el instrumento a prueba contra el instrumento patrón. Se tomaron cinco lecturas en cada punto y se llenó el formato de registro de verificación que quedó almacenado en el servidor del área PORCE II. Se verificaron los puntos de alarma y disparo que están en °C y °C. Se analizaron los resultados y se rotuló el equipo según el procedimiento para ello.
+
+
+UEXPM = 0.021
+
+ERROR MÁXIMO =  -2.0 ºC
+
+
+Realizado por: NESTOR OCHOA
+
+

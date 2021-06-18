@@ -1,0 +1,2 @@
+2014/07/01 Gioavnny Diaz - Sebastian Hincapie
+Se realizó medida de sensores, y se encotro en funcionamiento normal. 

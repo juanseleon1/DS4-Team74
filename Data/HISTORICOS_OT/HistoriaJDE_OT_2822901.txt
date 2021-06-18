@@ -1,0 +1,35 @@
+FECHA :17/07/2015
+REALIZAR LA RECALIBRACION DEL COJINETE SUPERIOR DE LA UNIDAD 6 DE GUADALUPE TRES Y EL POSIBLE BALANCEO
+Referente a la unidad 6 de GIII:  Con la OT 222901, se atiende correctivo a esta unidad para atender Mtto correctivo sugerido por el ingeniero Pablo Gómez de la unidad de operación y Mtto para hacer nuevamente la calibración del cojinete Superior, puesto que es el diagnostico que se dio en Julio, esta unidad muestra en el espectro superior un movimiento orbital desordenado, lo que indica una posible falla originada por alineación.
+Luego de realizar los trabajos de desarme, calibración y armado, se realiza las medicines nuevamente con maquina en vacío, energizada y luego cargada a 45 MW, los resultados de estas vibraciones y las gráficas serán analizadas y luego informadas según recomiende el ingeniero Pablo Gómez.
+Los parámetros de temperaturas y vibraciones indican que la maquina está en condiciones óptimas de funcionamiento y se entrega para su explotación comercial. 
+
+INFORMACION ACERCA DEL CORRECTIVO UNIDAD 6 GUADALUPE 3
+
+El pasado 8 de Julio, el Ingeniero Pablo Andrés Gómez de la unidad de Operación Y mantenimiento realizó el diagnostico de las unidades de generación de Guatrón, haciendo el análisis del espectro de las vibraciones de la unidad 6 recomendó: la unidad requiere la calibración del cojinete superior, se detecta orbita de impacto y rebote de media frecuencia, debe programarse esta actividad dentro de los próximos 3 meses.
+GDP3-06OVERALL LEVEL SUBHARMONICS 1xRPM 2xRPMCSL 123.9 Microns 0.363 Microns 44.04 Microns 12.42 MicronsCSP 112.6 Microns 0.431 Microns 29.64 Microns 12.64 MicronsCIL 74.57 Microns 3.634 Microns 48.22 Microns 6.515 MicronsCIP 44.89 Microns 2.810 Microns 25.82 Microns 5.593 MicronsCTL 19.78 Microns 1.488 Microns 6.499 Microns 3.591 MicronsCTP 16.49 Microns 0.990 Microns 5.711 Microns 2.995 MicronsAXI 216.9 Microns 4.365 Microns 159.4 Microns 14.94 Microns
+Atendiendo esta propuesta se realiza la OT: 2822901 y El martes 21 ALAS 13:00 PM
+Sale la unidad 6 de Guadalupe 3 para realizar  calibración del cojinete superior.
+Con la consignación nacional  121582.
+Se realizan los trabajos de desarme de la excitatriz y el desmonte del cojinete superior para realizar nuevamente el centrado del eje con respecto a la ménsula y la calibración de los segmentos Guías 
+Se realizan las siguientes actividades
+-Medición y análisis  de vibraciones
+- intervención del cojinete superior 
+- Desarme de excitatriz
+- control dimensional inicial del centrado de la maquina 
+- Desarme del cojinete superior 
+- Limpieza de los segmentos, cuñas, tornillos, pisadores, porta-zapatas, tapa y cuba
+- Se realiza la corrección de los segmentos guías los cuales tenían el ángulo de ingreso de aceite ya      desgastado.
+- Se centra el eje con respecto a la ménsula 
+- se arma grupo de segmentos y se hace la calibración entre 0.12mm y 0.16 mm
+- Armado de elementos asociados al cojinete superior
+- Armado excitatriz
+
+
+
+Uno de los pendientes es realizar la corrección de la lectura del monitor en sala de operación en la cual no coinciden los valores de las vibraciones en el cojinete superior que registran los equipos portátiles.
+Luego de la primera fase de este correctivo, se le envía la información a Pablo Gómez , quien da la siguiente respuesta  por correo electrónico 
+
+“Agradezco el envío de la información, he estado revisando detalladamente los espectros y orbitas correspondientes a los diferentes puntos de control de la unidad G36, En general los resultados obtenidos después del reajuste del cojinete superior confirman el diagnóstico inicial de esta unidad, el aumento en las vibraciones es perfectamente normal, si se tiene en cuenta que la medida realizada mediante proximitors corresponde al desplazamiento total del rotor respecto a cada uno de los sensores instalados. En el control realizado antes del reajuste se observaban valores globales de vibración relativamente bajos, sin embargo las orbitas descritas por el eje en cada uno de los cojinetes eran muy erráticas, describiendo cambios de dirección abruptos que daban como resultado una órbita cargada de picos en forma de estrella, los cuales correspondían a impactos y rebotes de media frecuencia del eje contra los cojinetes, generando adicionalmente un espectro cargado de picos de diferentes frecuencias; la corrección realizada probablemente permitió un incremento en la holgura hasta valores más adecuados, esto ocasiona que el desplazamiento total del eje, aumentando el nivel de vibraciones pero también disminuye la severidad de los impactos, lo cual se puede ver claramente en las orbitas registradas para cada uno de los cojines y en las menores temperaturas de operación.
+
+Una revisión de los últimos espectros muestra que la unidad presenta un desbalanceo importante en el plano del cojinete superior, la próxima semana estaré visitando Porce III y pasaré por Guadalupe III para tomar un registro completo de vibraciones de la unidad para determinar el siguiente paso requerido para llevar la unidad a valores de vibración satisfactorios. “

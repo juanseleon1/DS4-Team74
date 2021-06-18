@@ -1,0 +1,7 @@
+SOLICITANTE: TURNO 3 OPERACIÓN FG-ARFECHA: 05/05/2018
+
+Pérdida de señales de presión y temperatura agua radiadores en unidad TR2. Se observa módulo Profibus PA PL 810 fallado en tablero TRU2GE1LD01. Requiere correctivo.
+
+FECHA: 05/05/2018
+Se realiza cambio del módulo Link Divice PL 810, puesto que el módulo que había disponible, se dañó y por esta razón se perdió la señal, este cambio se hizo sin necesidad de parar la unidad; se restablecen las temperaturas quedando en correcto funcionamiento. 
+Informó: Francisco González, Adrián Cardona y Carlos Giordanelli

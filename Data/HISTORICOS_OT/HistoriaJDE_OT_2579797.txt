@@ -1,0 +1,10 @@
+ESTA OT SE REALIZA PARA EJECUTAR LOS TRABAJOS DE COMPRA, ARMADO Y PUESTA EN SERVICIO DE LOS NUEVOS DRIVER DE LAS AGUJAS DE LOS REGULADORES DE VELOCIDAD DE LA CENTRAL DE GUADALUPE 3.
+
+1/NOVIEMBRE/2014
+Se realiza el levantamiento de informacion, se fabrican soportes para la disipacion de calor y se cablean los nuevos drivers de las Agujas, en el tablero del regulador de Velocidad. 
+Esto con el fin de brindar confiabilidad al sistema, puesto que tienen un nuevo diseño.
+
+2/NOVIEMBRE/2014
+Se termina la puesta en servicio de los nuevos driver de las agujas y se aprovecho para organizar el cableado de todo el tablero.
+
+REALIZO: Oscar Arango

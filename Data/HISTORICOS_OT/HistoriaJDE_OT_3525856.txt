@@ -1,0 +1,9 @@
+PREVENTIVO BANCO TRANSFORMADORES POTENCIA UNIDAD GENERACIÓN GUADALUPE 3.
+05/07/2017
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo segun instructivo GCG3E0010, se revisan posibles fugas en las tres fases (R-S-T), se reaprietan conexiones en el lado de alta y de baja, se revisan conexiones en los gabinetes de control (reles, interruptores, fusibles, resistencia de calefaccion), bujes, aisladores, estado de la silica. No se encuentran anomalias.
+
+Nota: se reapreta buje X2 fase R y buje H0 fase T, por presentar fugas de aceite.
+
+Ejecuto: Edgar Rodas-Edinson Hernandez
+Programo: Carlos Andres Forero 

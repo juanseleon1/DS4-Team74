@@ -1,0 +1,6 @@
+
+FECHA: FEBRERO 13 DE 2015
+
+RESPONSABLE: HENRY GIRALDO
+
+Se presenta falla en la medida de temperatura de entrada de agua al sistema de refrigeración, en días anteriores se había encontrado el conector de la entrada 1 del modulo 7.7 en malas condiciones y se había colocado de manera provisional, el día de hoy se realiza empalme del cable con un conector en buenas condiciones (usado) y se deja en funcionamiento con medida de temperatura real.

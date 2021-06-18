@@ -1,0 +1,11 @@
+2015-10-23 JUAN CARLOS DUARTE MUÑOZ
+
+VERIFICAR PORQUE NO RECIBE LA ORDEN DE ARRANQUE.
+
+2015/10/23 FERNANDO RUIZ - SEBASTIAN HINCAPIE
+Se realizó revision y medida de aislamiento, se evidenció falla a tierra, se realizó desconexion de la alimentacion principal y apertura de los puentes del devanado, se enocntró que un puente en la fase S estaba reventado, se opto por medir aislamiento en general por cada bobina y se evidencio falla en la bobina 1-6, se deja para enviar a reparar, queda pendiente desmontarlo con la colaboracion del grupo de mantenimiento mecanico.
+
+la OT para la reparación del Motor es: 3092942
+
+2016/06/17 EDWAR LONDOÑO - JUAN DAVID GARCÍA, PROGRAMO: RARBOLG, PASO 4
+Se realizó conexión y pruebas de arranque al ventilador S2, se dejó disponible electricamente para su operación.

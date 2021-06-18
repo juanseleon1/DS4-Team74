@@ -1,0 +1,13 @@
+Planeador: CARLOS M TORRES
+Aprobador: CARLOS A ANDRADE 
+Fecha de solicitud: 11 Diciembre 2017
+Tipo de mantenimiento: (Preventivo )
+Acciones de mantenimiento: (Ver lista)
+Estaciones hidrometeorológicas
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Limpieza de estación
+ Descarga y verificación de datos de la estación
+ Análisis de datos de estado del datalogger y transmisor
+ Revisión Sensores de la Estación 
+              Pruebas de calidad

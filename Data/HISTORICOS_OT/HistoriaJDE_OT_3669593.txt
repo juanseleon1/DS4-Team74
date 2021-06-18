@@ -1,0 +1,15 @@
+Fecha: 10/01/2018
+Descripción: Se presenta constante apertura de la válvula de alivio de G42, afectando la potencia de la unidad, se observa que el porcentaje de apertura del distribuidor no guarda la relación normal con respecto a los MW.
+Informó: Turno 2                Natalia Urrea - Javier Córdoba
+
+Fecha: 10/01/2018
+programo: Luis Adrian Cardona Lopez
+Se continua con la revision del lazo de control del regulador de velocidad, se requiere disponibilidad de otra tarjeta AMP2 para el regulador electronico, con el fin de descartar posibles problemas en la tarjeta actual, estamos  a la espera de tarjeta de repuesto.
+
+26/01/2018
+ SE HACE UNA REVISION DEL CONTROL Y EN DOS TARJETAS AMP2, SE REALIZA LA CALIBRACIÓN DE LA VÁLVULA DISTRIBUIDORA Y DE LA POSICIÓN DEL DISTRIBUIDOR DE G42, AMBAS TARJETAS DIERON CALIBRACIÓN, LUEGO SE VERIFICA  LA TARJETA AMP2 (LA QUE ESTABA TRABAJANDO EN ESTA MÁQUINA), Y  SE DETECTÓ QUE LAS VIBRACIONES AFECTABAN EL BUEN FUNCIONAMIENTO DE LA TARJETA,  PROVOCABAN UN ACCIONAMIENTO DE LA VÁLVULA Y DEL DISTRIBUIDOR, CUANDO NO DEBÍAN ACTUAR, SE TOMA LA DECISIÓN DE DEJAR TRABAJANDO UNA DE LAS TARJETAS QUE SE AJUSTÓ INICIALMENTE,  Y SE HA NOTADO  UN BUEN COMPORTAMIENTO DE LA MAQUINA, LA VÁLVULA DE ALIVIO NO SE HA ACTIVADO, COMO OCURRÍA CON LA OTRA TARJETA QUE SE BAJÓ, LA UNIDAD HA ESTADO TRABAJANDO EN MANDO CONJUNTO Y POR ENCIMA DE LOS 50 MW.
+
+
+
+REALIZO: GRUPO DE ELECTRONICA
+

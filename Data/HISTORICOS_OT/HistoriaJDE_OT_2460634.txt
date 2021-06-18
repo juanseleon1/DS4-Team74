@@ -1,0 +1,20 @@
+REALIZAR MANTENIMIENTO A TABLERO DE CONTROL DE LAS COMPUERTAS RITMEYER CASETA 1
+
+FECHA: 31-ENERO-2014 OT# 2460634, PROGRAMADOR: R JIMENEZ, EJECUTANTE:G ECHEVERRI
+Se realiza mantenimiento al tablero Rittmeyer, se hace limpieza y revision de la caseta en general.
+Seencuentra en condiciones normales de operacion
+
+SE LE REALIZAN PRUEVAS ELECTRICAS DE NIVEL DE AISLAMIENTO A LOS MOTORES DE LA ESTACION HIDRAULICA.
+
+Bomba N°1
+
+U1 =  694 M - 732 nA - 500 V
+V1 =  713 M - 715 nA --- 500 V
+W1 = 725 M - 703 nA - 500V    
+
+Bomba N°2
+
+U2 =  512 M - 993 nA - 500 V
+V2 =  527 M - 969 nA --- 500 V
+W2 = 541 M - 941 nA - 500V
+

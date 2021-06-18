@@ -1,0 +1,11 @@
+SOLICITANTE: OPERACIÓN TURNO 3FECHA: 02/11/2016
+
+Disparo etapa 2 cámara de válvulas G3 por falla alimentación 480 Kv. 
+
+Miércoles 01 de octubre
+
+Hora: 02:23 am       
+Se abre el transformador de 10Mva por el lado de 13,2 KV al presentarse fuerte explosión, al revisar se encuentra mucho humo y fuerte olor, además se observa que en la parte trasera de los gabinetes (acople) un fogonazo, se avisa al Centro de Control (Alex Restrepo, Andrés Pérez), se deja abierto este transformador por ambos lados, 13.2 Kv y 44 KV y por precaución se abren todos los circuitos rurales de 13.2KV para revisar todo el barraje. esta falla fue ocasionada por corto electrico al contacto con las barras por una rata.
+Este evento ocasiono que el circuito que alimenta Bocatoma G3 y el tablero de potencia de camara de Valvulas G3 se quedaran sin tension, lo cual produjo que la bomba de recuperacion de presion de la mariposa etapa 2 no arrancara y como consecuencia la mariposa 2 perdiera presion y se cerrara fisicamente, produciendo disparo a los generadores G33 - G34 -G35 - G36.                                                                                 
+
+Planeador: Oscar Arango

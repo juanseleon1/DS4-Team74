@@ -1,0 +1,8 @@
+REVISAR Y AJUSTAR ALARMAS Y DISPAROS.
+
+14/12/16 OT: 3336042 PLANEO: WGARCIAC EJECUTO: WGARCIAC
+SE REALIZÓ INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS AL COJINETE LADO GENERADOR 
+Temperatura Metal Cojinete GeneradorPatrón 20 °C 50 °C 100 °CEquipo 19,72 °C 50,34 °C 101,3 °CAlarma: 75 °C
+Disparo: 80 °C
+Temperatura Aceite Cojinete GeneradorPatrón 20 °C 50 °C 100 °CEquipo  19,50 °C 50,23 °C 101,16 °CAlarma: 65 °C
+Disparo: 70°C

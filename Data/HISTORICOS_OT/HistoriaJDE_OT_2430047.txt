@@ -1,0 +1,39 @@
+XE: MONITOREAR LA CONDICION DE TEMPERATURA, CORRIENTES Y VOLTAJES DE FUNCIONAMIENTO DE LAS MOTOBOMBAS DE CIRCULACION AGUA HELADA SISTEMA AIRE ACONDICIONADO C/M.
+
+DIAGNOSTICO: 
+
+La temperatura de los cables del cubículo se
+encuentran en el nivel 1 de los parámetros
+establecidos en la tabla de clasificación de fallas
+eléctricas según LOS CRITERIOS NETA, donde
+Delta T° = 9.2°C, lo cual implica una posible
+deficiencia en su operación, se recomienda
+reparar en la proxima parada. Las corrientes y
+voltajes medidos están dentro de los parámetros
+normales de operación.
+
+TEMPERATURA DE AISLAMIENTO 
+ESTIMADA 85.3°C,
+Éstá dentro de los parámetros normales
+de operación según su clasificación de
+aislamientos.
+
+
+DATOS MEDIDOS: 
+CORRIENTE OPERACION (AMPERIOS)
+R: 50
+S: 49.6
+T: 48.5
+
+VOLTAJE DE OPERACION: 
+RS: 445
+ST: 444
+TR: 443
+
+TEMPERATUIRA MAXIMA MOTOR: 
+65.3°C
+
+Se encontró suciedad en el motor, se hizo OT correctiva: 2466105
+
+Realizó: Giovanny Diaz - Victor Zuleta
+Planeó: Ruben Arboleda

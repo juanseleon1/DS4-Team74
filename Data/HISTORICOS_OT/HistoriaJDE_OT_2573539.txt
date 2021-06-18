@@ -1,0 +1,2 @@
+2014/08/20 MARIO RESTREPO - FERNANDO RUIZ - MANTENIMIENTO PREVENTIVO OT: 2573539
+Se realizó medición de voltaje, temperatura y densidad de liquido de baterias a cada una de las 60 celdas, se encontró en condiciones normales, se realizó control de nivel de agua con 1.5 litros de agua destilada. 

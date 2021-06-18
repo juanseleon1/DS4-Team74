@@ -1,0 +1,9 @@
+2015-01-08. JUAN CARLOS DUARTE MUÑOZ.
+
+Revizar la señal u1-6.67 temperatura rotor limite h1 con 90°c. la cual se presento al momento de cargar la unidad a 70 mw y 0 mvar. pero, se mantuvo aún con la unidad en 30 mw y 0 mvar. la temperatura se mantiene alta 78°c estando la unidad en agc (28 mw a 45 mw)en comparación con la unidad 2 que registra 64°c. las unidades 3 y 4 tienen 66°c con 70 mw 0 mvar.
+
+2015-01-08. ADONIS CADAVID-CESAR HOYOS
+
+Se realiza una revisión de la temperatura de rotor comparándola con la unidad 2, se mira de que depende esta señal ya que es calculada. Se cambia la resistencia R59 en la tarjeta 4006L4105AA entradas y salidas  del regulador de tensión de  la unidad 1 por la misma resistencia en la unidad 2. Cambia la temperatura de 40°C a 75°C en la unidad 1,  en la unidad 2 sigue igual 60°C. Se realizará seguimiento a dichas señales.
+2015-01-13. CESAR HOYOS.
+Se le informa al grupo electrónico para revisión del canal que da la señal de temperatura, debido a que los cambios realizados anteriormente no dieron los resultados esperados; continúan los cambios abruptos de temperatura. Se le informa a Luis Eduardo Arcila.

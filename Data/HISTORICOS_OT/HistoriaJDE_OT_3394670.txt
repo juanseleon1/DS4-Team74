@@ -1,0 +1,14 @@
+OT: 3394670 MTTO ELECTRICO  FECHA: 05-07-2017
+PROGRAMÓ: RICHARD JIMENEZ
+EJECUTÓ: OLGA M VIANA - JAIRO TORRES
+
+SE REALIZÓ EL MANTENIMIENTO DE  ACUERDO AL INSTRUCTIVO GCP2E0009. SE REVISAN TABLEROS DE CONTROL DE UNIDAD, GABINETE . SE HACE LIMPIEZA DE FILTROS SISTEMA DE FLUJO DE AIRE. MANTENIMIENTO GENERAL ELECTRICO A LOS TABLEROS, REVISIÓN DE CABLEADO Y REAPRETE DE TORNILLERIA. SE LIMPIAN VENTILADORES, NO SE ENCUANTRAN ANOMAL
+
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION Y APRIETE DE BORNERAS
+
+Procedimiento aplicable a todas las borneras del tablero de control turbina en las tres unidades de la central Porce.  Consiste en revisar, reapretar y/o cambiar borneras defectuosas, en caso de ser necesario;  con el proposito de disminuir eventos indeseados por causa de cables flojos en las unidades de generacion.  

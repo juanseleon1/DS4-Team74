@@ -1,0 +1,3 @@
+JHON MARIO PEREZ A. MARZO 23/2018
+
+Revisar sensores de temperatura motobomba CW7. se encunetran alarmados con valores muy altos las señales U6-6.14 Temp Ros Axial con 186 grados y la señal U6-6.15 Temp Rod radial con 143 grados. La motobomaba se encuentra en servicio en condiciones normales de temperatura y vibraciónes. 

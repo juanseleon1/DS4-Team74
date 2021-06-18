@@ -1,0 +1,8 @@
+Relizar cambio de cableado y elementos de RTD's por AD590
+
+
+Se realizó la instalación del cableado, solo queda pendiente realizar la conexión en los +DU, esta actividad se realiza con unidad parada y en mantenimiento especial. 
+
+Lideró: Mauricio Quijano
+Realizó: Ivan Suarez - Fernando Ruiz
+Planeó: Ruben Arboleda

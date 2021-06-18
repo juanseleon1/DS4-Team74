@@ -1,0 +1,15 @@
+OCTUBRE 27/2013
+
+REVISAR EL SISTEMA DE REFRIGERACION DE LA UNIDAD N°2, YA QUE EN EL MOMENTO DE ARRANQUE EN AUTOMATICO NO RECIBE LA SEÑAL PARA LOS DOS SUBSISTEMAS. LA REFRIGERACION EN ESTE MOMENTO SE ESTA TRABAJANDO EN MANUAL.
+
+INFORMA
+
+TURNO 3 DE OPERACION.
+
+19\02\2014
+
+Se realiza verificacion de la secuencia en la unidad y el centro control motores 2, se encuentra que la secuencia envia el comando pero el PLC GFANUC no ejecuta , se ingresa en la rutina del CCM2 y se da un reset en el programa ya que el bit de arranque se esta bloqueando. pendiente continuar en observacion se normaliza y realizan pruebas con la secuencia de arranque.
+
+Realizado por Wtobonl
+
+terminada cerrar

@@ -1,0 +1,8 @@
+10/03/2016 - 8:55
+Se verifican alarmas del Cojinete Superior G32 y se procede a verificar fisicamente por oportunidad y se encuentra fisicamente el nivel en e Patron, solicitamos borrar aarmas de pantalla: (Coj Sup Nivel Aceite muy Bajo y Coj Sup Nivel Aceite Bajo), se encuentra con un nivel de 276 y e patron es de 275.
+
+WILSON ARANGO - ELKIN SANTAMARIA. 
+
+SE REVISA EL INSTRUMENTO DE NIVEL Y SE ENCUENTRA EN BUEN FUNCIONAMIENTO, LUEGO SE VERIFICA LA MEDIDA DE REFERENCIA Y ESTA SE ENCUENTRA BIEN, LUEGO SE NORMALIZA LA UNIDAD Y LAS ALARMAS DESAPARECEN.
+
+REALIZO: GRUPO DE ELECTRONICA

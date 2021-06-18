@@ -1,0 +1,29 @@
+21/07/2017
+
+SE ENCUENTRA FALLADA LA MEDIDA DE TEMPERATURA DEVANADO ALTA Y TEMPERATURA ACEITE, ESTAS INDICACIONES SON DEL TRANSFORMADOR FASE T BANCO 1. 
+
+INFORMA TURNO 1 OPERACION 
+
+
+21/07/2017
+
+Se realiza verificacion del instrumento de temperatura TM1 correspondiente al devando de alta y la temperatura del aceite, este equipo se encuentra fallado por la fuente de alimentacion, se remplaza por uno nuevo y se configuran los parametros de este equipo, se realiza pruebas de verificacion en su medida con el generador de señales en los valores de 20 °C hasta 100 °C. queda pendiente la conexion de medida remota y disparo de este equipo esperando la directriz del Ing. encargado Federico alvarez el cual le informa a operacion que este transformador quedara con sin estos disparos. 
+
+se espera la orden del ingeniero encargado para realizar la conexion de los disparo y medida remota de este transformador,
+
+Al parar la central se aprovecho para conectar las peinetas de los disparos, y quedan operando normal, al siguiente día se le hizo seguimiento a las temperaturas, comparandolas con las del instrumento anterior, en las planillas de registro y son muy similares.
+Informa Federico Alvarez.
+
+
+
+Realizado por Wtobonl
+
+22/07/2017
+
+con las unidades 1 y 2 detenidas se normaliza y verifica el transducotr de temperatura  TM1, queda normalizados los disparos y la medida remota.
+
+
+Realizado por Wtobonl
+
+
+TERMINADA CERRAR

@@ -1,0 +1,8 @@
+MP:
+3348LUBRICACION FORZADA  U1 G43349LUBRICACION FORZADA  U2 G43350LUBRICACION FORZADA  U3 G4
+
+Programador: Camilo Montagut - 27/11/2017
+
+Se realiza limpieza de los filtros de la lubricación forzada. Al desmontarlos y examinarlos no se encontró obstrucción alguna. Se verifica ausencia de fugas de aceite al operar el equipo.
+
+Ejecuta: equipo mantenimiento mecánico UOG

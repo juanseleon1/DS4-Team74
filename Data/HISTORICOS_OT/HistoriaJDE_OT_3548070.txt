@@ -1,0 +1,24 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: WALTER TOBON
+FECHA: 2017/07/23
+OT PADRE:  3543298
+CONSIGNACIÓN: @146017
+
+22/07/2017
+
+Se realiza OT para los trabajos y adecuacion de pruebas en los servo motores del distribuidor de la unidad, a solicitud del grupo mecanico
+
+
+23/07/2017
+
+Se realiza  adecuacion de señales en los servomotores de la unidad, ademas se ajustan y verifican dos transductores de presion de 0 a 200 Bar para realizar las pruebas 
+
+Realizado por Wtobonl
+
+29/07/2017
+
+Se realiza  pruebas con el distribuidor y la presion de los servo motores es constante, se espera concepto del personal mecanico para este evento y evaluar el comportamitemiento de los servo motores. el equipo queda instalado a la espera del personal mecanico evalue los datos.
+
+Realizado por Wtobonl
+
+TERMINADA CERRAR

@@ -1,0 +1,14 @@
+MANTENIMIENTO PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III
+
+
+PLANEADOR:GERMÁN BETANCUR
+
+PROGRAMADOR:WILLIAM LOPERA.
+
+ABRIL 12 DE 2018.
+Se realizó mantenimiento general eléctrico cuatrimestral a todo el sistema de la excitación según instructivo GCG3E0009.
+Se cambiaron las siguientes escobillas de la excitación principal: Grupo 2 la 3, del grupo 7 a 3 y del grupo 8 la 3, de los anillos rozantes se cambiaron la 13, 15 y 21, que se encontraban en su desgaste mínimo requerido. 
+Resultado de aislamiento final con anillos acoplados al rotor.
+
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO MANILLO GSUPERIOR489SUPERIOR2.54INFERIOR548INFERIOR 2.81
+Programó: William Lopera

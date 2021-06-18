@@ -1,0 +1,13 @@
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABEZAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+SEPTIEMBRE 13 DE 2018.
+Se realizó el mantenimiento electrico semestral según el instructivo GCTRE0003.
+Se revisó y se hizo ispección visual todas las cabezas de bobina y los polos del rotor, se observan ciertas anomalías en los polos # 11, 13, 14 y 18 con desprendimiento de papel nomex en la parte superior, se deja marcado para llevar control si continua con el desprendimiento. En las cabezas de bobina estator todo se encuentra en condicciones normales.
+Realizó: Mario Morales - Sergio Areiza.
+Programó: William Lopera

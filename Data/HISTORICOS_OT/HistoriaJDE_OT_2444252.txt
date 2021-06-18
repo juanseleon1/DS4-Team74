@@ -1,0 +1,8 @@
+Favor revizar la fuente G03 del TUH en la unidad 2 esta saca alarma de falla fuente
+
+
+25/12/2013
+
+Se realiza verificacion de la fuente G03 de 24 Vdc y se encuentra fallada, se realiza verificacion de conexion y del hardware de esta fuente como tarjetas y elementos ademas de verificacion de las pistas de conexion de estas tarjetas, se normaliza esta fuente y queda en prueba, ademas se retira repuesto del almacen en caso de que falle de nuevo y sea necesario cambiarla.
+
+Realizado por Wtobonl

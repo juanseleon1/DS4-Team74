@@ -1,0 +1,3 @@
+2017-09-21 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3594914, PASO:1          
+Se realizó mantenimiento al motor de motobomba 2 hidráulico la clara    CORRIENTE: R:10, S:9,5, T:9,3, VOLTAJES RS:229, ST:228, TR:227,AISLAMIENTO DE MOTOR: 55,6 M 
+Se anexa la planilla en la OT.

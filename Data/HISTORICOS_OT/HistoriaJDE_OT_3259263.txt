@@ -1,0 +1,12 @@
+FECHA:27/09/2016
+
+SOLICITANTE:GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCION: POR FALLAS EN EL SISTEMA HIDRAULICO SE PRESENTA UN INCREMENTO DEL NIVEL DE ACEITE DEL TANQUE ACUMULADOR.  
+
+
+Programador: Camilo Montagut - 05/10/2016
+
+Se cierra la ot ya que se ejecuta con la ot número: 3257862
+
+Ejecuta: equipo mantenimiento mecánico UOG

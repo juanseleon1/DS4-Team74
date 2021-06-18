@@ -1,0 +1,13 @@
+20/08/2017 GUILLERMO LEON ECHEVERRY VELEZ
+
+SE GENERA ESTA OT PARA SOLICITAR PRUEBAS DE UNIDAD 3 POR FALLA EN SECUENCIA DE PARO, APERTURA INTERRUPTOR
+
+
+20/08/2017
+
+Se realizan pruebas con en la secuencia de paro normal de la unidad, esta en el paso dos se falla y no abre desde la secuencia, se realizan pruebas de la secuencia y se ajustan los umbrales de consigna de 10 Mvar a 5 MVAR como consigna, la falla se debe a la desviacion de medida en los reles SIPROTEC los cuales se desfasan en medida de indicacion hasta 2 MVAR y 3 MW. se realizan pruebas y la unidad queda operativa, se deja como consigna operativa mantener activo el control por reactiva en el regulador de tension.
+Realizado por WTOBONL
+
+TERMINADA CERRAR
+
+

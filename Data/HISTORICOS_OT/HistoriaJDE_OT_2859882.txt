@@ -1,0 +1,11 @@
+31 DE AGOSTO DE 2015 IVAN DARIO ZAPATA GOMEZ
+FAVOR REVISAR Y REPARAR FUGA DE AGUA QUE SE PRESENTA POR EL INYECTOR 4 DE LA UNIDAD 6 DE GUADALUPE 3.
+
+
+Programador: Camilo Montagut - 14/09/2015
+
+Se repara la fuga de agua presente en el inyector con el cambio del sello chesterton y la camisa ubicadas en el cuerpo exterior del servomotor del inyector. Se presentan inconvenientes en el desmonte del cuerpo del servo ya que el vástago del resorte se encontraba con herrumbe y por tal motivo el vástago cogió "grano". 
+
+Al final se realizan pruebas y queda pendeinte la verificación y apriete de la tornillería por la presencia de pequeñas fugas de aceite.
+
+Ejecuta: equipo mantenimiento mecánico GIII

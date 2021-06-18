@@ -1,0 +1,24 @@
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779483.
+
+Se realiza mantenimiento general, limpieza y verificación al cableado y borneras, todo se encuentra dentro de los parámetros normales y operativos.
+Se verifican voltajes así:
+61: IN: 118.8 Vac
+      OUT: 24 Vdc
+DO:1: 24 Vdc
+DO:2: 24 Vdc
+Panel de operaación: 23.80 Vdc
+D2.0: 24 Vdc
+D2.1: 24 Vdc
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizó: Richard Londoño, Jeniffer García
+
+
+
+
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779483.
+OT programada para el mantenimiento TCSR U2 P3.
+
+
+XL: CHEQUEAR, VERIFICAR Y LIMPIAR CONTROL REFRIGERACION +TCSR DE LA UNIDAD

@@ -1,0 +1,18 @@
+OCTUBRE 05 DE 2016
+
+PLANEADOR.ESTEBAN VÁSQUEZ
+
+PROGRAMADOR: JOSÉ MONTOYA
+
+
+FECHA 04 OCTUBRE 2016  SOLICITANTE: GUSTAVO QUINTANA
+Se presenta paro de emergencia a la unidad 1 de Guadalupe 4, causada por falla en el rele K-41 del regulador de tension.  Se solicita realizar el respectivo analisis de las posibles causas de la salida de la unidad; ya que en el log de eventos no es claro.
+
+·Martes 04 de Octubre
+15:33 - 16:24
+Sale la unidad 1 de Guadalupe 4 con 67 MW y 3 MVAR, por paro de emergencia debido a falla del regulador de tensión por acción del relé K-41, se informa al Ing. Esteban Vásquez
+ Se procedió a desmontar el relé k-41, se verificó su estado encontrándose normal, se procedió a conectar nuevamente dando condiciones la unidad. Se sincronizó quedando todo normal.
+Este evento no ocasiona desvío al programa de generación.
+OT: 3268980.
+
+ 

@@ -1,0 +1,21 @@
+2018/01/18 RUBEN ARBOLEDA
+Se crea OT para realizar la implementación de la metodología 5S en la bodega de los polos.
+
+2019/08/12 FARLEY GIOVANNY DIAZ
+2019-02-06 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE), PROGRAMO: RARBOLG OT: 3805484          Se continuó con la implementación de la 5S en la bodega de los Polos
+2019-02-07 REALIZÓ: JHONATAN ANDRES USME - OMAR SANCHEZ (OPERADOR), PROGRAMO: RARBOLG OT: 3805484          Se realizó el recorte de cable de cobre en la bodega de los polos.
+2019-02-08 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME - OMAR SANCHEZ (OPERADOR), PROGRAMO: RARBOLG OT: 3805484          Se continuó recortando cable de cobre en la bodega de los polos para aprovechamiento
+2019-02-12 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO, PROGRAMO: RARBOLG OT: 3805484          Aplicación de metodología 5S, para la bodega de los polos.
+2019-02-20 REALIZÓ: FERNANDO ANTONIO RUIZ - JUAN ESTEBAN CASTRILLON (PRACTICANTE), PROGRAMO: RARBOLG OT: 3805484          Se continuo con el orden y aseo de la bodega de los polos aplicando la metodología de 5S.
+2019-02-22 REALIZÓ: JHONATAN ANDRES USME - FERNANDO ANTONIO RUIZ, PROGRAMO: RARBOLG OT: 3805484          Se realizó el picado de cable que se extrajo de la bodega de los polos de la metodología 5S, queda pendiente continuar picando.
+2019-02-25 REALIZÓ: JHONATAN ANDRES USME - FERNANDO ANTONIO RUIZ, PROGRAMO: RARBOLG OT: 3805484          Se continuó con la adecuación de elementos en la bodega de los polos.
+2019-02-28 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME - OSCAR ALIRIO GIRALDO, PROGRAMO: RARBOLG OT: 3805484          Se realizó adecuación de elementos, orden y aseo en la bodega de los polos aplicando la metodología 5S.
+2019-03-01 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME, PROGRAMO: RARBOLG OT: 3805484          Se continuó con la adecuación de elementos en la bodega de los polos aplicando la metodología 5S, se está realizando la instalación de sello cortafuegos en algunas zonas para evitar el ingreso de los murciélagos.
+2019-03-02 REALIZÓ: JUAN DAVID GARCIA - ANTONIO MOLINA (MECANICO), PROGRAMO: RARBOLG OT: 3805484          Se finalizó con la adecuación de la bodega de los polos aplicando la metodología 5S, se realizó la aplicación de sellos cortafuegos en algunas zonas para evitar el ingreso de murciélagos.
+2019-03-03 REALIZÓ: JUAN DAVID GARCIA - ANTONIO MOLINA (MECANICO), PROGRAMO: RARBOLG OT: 3805484          Se inició con la Clasificación de los elementos del cuarto de recuperación en la implementación de 5S.
+2019-03-07 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ, PROGRAMO: RARBOLG OT: 3805484          Se continuó con la Clasificación de los elementos del cuarto de recuperación en la implementación de 5S.
+2019-03-09 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ, PROGRAMO: RARBOLG OT: 3805484          Se continuó con la Clasificación de los elementos del cuarto de recuperación en la implementación de 5S.
+2019-03-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ, PROGRAMO: RARBOLG OT: 3805484          Se continuó con la Clasificación de los elementos del cuarto de recuperación en la implementación de 5S.
+2019-03-11 REALIZÓ: FERNANDO ANTONIO RUIZ - FERNANDO CASTRILLON (OPERADOR), PROGRAMO: RARBOLG OT: 3805484          Se continuó con la Clasificación de los elementos del cuarto de recuperación en la implementación de 5S.
+2019-03-13 REALIZÓ: JHONATAN ANDRES USME - JEISON ALBERTO ORTEGA, PROGRAMO: RARBOLG OT: 3805484          Se realizó el picado de cable de aluminio que se extrajo de las bodegas durante la implementación de las 5S en la bodega de los polos, en el cuarto de recuperación y en la bodega de los mecánicos.
+2019-03-30 REALIZÓ: JEISON ALBERTO ORTEGA - JUAN ESTEBAN CASTRILLON (PRACTICANTE), PROGRAMO: RARBOLG OT: 3805484          Se realizó adecuación eléctrica para los equipos de corte de los transformadores del banco 1, al lado de la bodega de los polos, se adecuaron 3 extensiones, 1 para compresor, 1 para equipo de plasma y otra para la

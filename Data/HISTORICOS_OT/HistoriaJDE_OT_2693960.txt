@@ -1,0 +1,14 @@
+2015-02-08 Sale continuamente, (en promedio minuto y medio), enn generales de primera etapa. Se monitorenan las bombas de los reguladores de velocidad llegandose a la conclusion de que no es esta la causa. este incidente empezo a las 6:45 am.
+Ramiro Torres.
+
+2015/02/09 GIOVANNY DIAZ
+Se inicia con el seguimiento de la falla, se evidencia que no es franca, se instalo el equipo para deteccion de fallas a tierra, este equipo presenta anomalia en su funcionamiento. 
+
+2015/02/11 GIOVANNY DIAZ
+
+Se continua con prueba del equipo para deteccion de falla a tierra, persiste la anomalia en su funcionamiento. 
+
+19-04-16 GIOVANNY DIAZ-JUAN JOSE GOMEZ
+Del tablero C.E cables a 230Kv bancos 1 y 2 quedan abiertas las borneras 6-7-8 solucionando el problema de tierra negativo del  tablero de control de banco 2.
+
+

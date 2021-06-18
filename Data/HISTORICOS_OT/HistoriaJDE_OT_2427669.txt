@@ -1,0 +1,5 @@
+Realizar pruebas de funcionamiento del generador, verificando la activación de las protecciones y disparos.
+
+Se realizan pruebas de funcionamiento de las protecciones del generador, se hacen disparos activando el relé de paro de emergencia y paro rapidos, funcionando todo normal y se verifica la activación de la secuencia de paro de la unidad, se hace seguimiento en la IHM de la planta.
+
+Informa : Jorge Rodríguez

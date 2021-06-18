@@ -1,0 +1,30 @@
+MIERCOLES 31 ENERO /2018
+
+REFERENTE AL TCF U3: Al momento del paro de la uniadad esta no aplica frenos, al revisar la IHM se encuentra bloqueada la aplicación, y muy caliente, se desconecto la tension de alimentacion, se aplica frenos en forma manual, se dejo la IHM sin tension hasta que bajara la temperatura, se conecta y se carga de nuevo la aplicacion, para que la unidad diera condiciones de arranque, se comprobo operatividad de la IHM y unidad en condiciones, se deja la puerta abierta del TCF U3, pendiente revisar Cooler o hacer cambio de IHM.
+
+ATIENDE EL EVENTO: Jorge Peñaranda - Alex Calle
+
+NOTA: esta falla ya habia sucedido a las 15:00 se anexa nota del turno
+
+Referente al TCF Unidad N3: Se encuentra bloqueada la aplicación, al revisar la IHM se evidencia que el ventilador del procesador no está funcionando. Se desmonta y se le hace mantenimiento. Se instala nueva mente y la IHN queda trabajando de forma normal y normaliza la comunicación de este sistema.   
+
+
+31/01/2018
+
+Referente al TCF Unidad N3: Se encuentra bloqueada la aplicación, al revisar la IHM se evidencia que el ventilador del procesador no está funcionando. Se desmonta y se le hace mantenimiento. Se instala nueva mente y la IHN queda trabajando de forma normal y normaliza la comunicación de este sistema.                                                    Ejecuto: Iván Cano - Eladio Piedrahita - Guillermo Echeverry - John Jairo González 
+
+02/02/2018
+
+IHM  TCF Unidad N3  Se encuentra bloqueada la aplicación, al revisar la IHM se evidencia   falla en el windows y los sistemas operativos se cambia la board y el sistema queda en observacion  y normaliza la comunicación de este sistema.  
+                                                  Ejecuto: Iván Cano - Eladio Piedrahita 
+
+Informa Wtobonl
+
+
+
+
+
+
+
+
+

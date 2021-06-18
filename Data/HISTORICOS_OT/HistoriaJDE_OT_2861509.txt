@@ -1,0 +1,8 @@
+2015-09-01. JUAN CARLOS DUARTE MUÑOZ.
+
+CORREGIR EL PORCENTAJE DE APERTURA DE LA AGUJA 4 LA CUAL CON 10 MW TIENE UNA DIFERENCIA DEL 8% CON RESPETO A LAS DEMÁS AGUJAS. OCASIONANDO LA ALARMA AGUJAS FALLA INDICACIÓN. INFORMADO MANTENIMIENTO.
+
+2015-09-01.
+Se cambia micro filtro al comando de aguja y se calibra la válvula moog quedando en condiciones normales de operación.
+Alejandro Castro 
+Luis Eduardo Arcila 

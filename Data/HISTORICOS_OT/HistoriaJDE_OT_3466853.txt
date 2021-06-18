@@ -1,0 +1,17 @@
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios 
+EJECUTO: Francisco Quintero.
+FECHA: mayo 3/2017
+PROGRAMO: Daniel Palacios 
+EJECUTO: Francisco Quintero.
+CONSIGNACIÓN: @135887
+PLANEADOR: RMONTOYG
+OT PADRE: 3466843
+
+Durante el mantenimiento se abre el neutro para hacer las pruebas eléctricas a la unidad, después de ellas se cierra, se verifica, se le hace limpieza todo según el procedimiento.
+
+XE: VERIFICAR Y LIMPIAR NEUTRO TIERRA GENERADOR DE LA UNIDAD
+
+Se realiza limpieza y revisión del interruptor y gabinetes anexos según procedimiento, se toma lectura del contador de aperturas y cierres.
+
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD

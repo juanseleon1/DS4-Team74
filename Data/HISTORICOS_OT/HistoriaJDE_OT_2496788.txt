@@ -1,0 +1,7 @@
+
+FECHA: MARZO 26 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Se cambia el filtro de la bomba 1 de la caja multiplicadora, debido a que se estaba presentando alarma de filtro obstruido.

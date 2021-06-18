@@ -1,0 +1,4 @@
+2015/06/09 MARIO RESTREPO - SEBASTIAN HINCAPIE OT:2782487
+EQUIPO: UMA 1 CORRIENTE: R:8,5, S:8,2, T:7,9, VOLTAJES RS:447, ST:444, TR:447, 
+Se realizó limpieza general al motor. 
+Se dejó en condiciones normales. 

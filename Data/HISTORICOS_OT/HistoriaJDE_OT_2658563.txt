@@ -1,0 +1,4 @@
+2015/03/08 GUILLERMO CORDOBA - SEBASTIAN HICNAPIE
+Se realizo revision y mantenimeinto general al sistema de aire acondicionado de S/E, tanto al primer como al segundo piso, esta pendiente realizar ocmpra de refrigenrante en la OT: 2599010, para realizar recarga en el aire del primer piso. 
+
+Se dejo en condiciones normales de funcionameinto el del segundo piso.

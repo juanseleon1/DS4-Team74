@@ -1,0 +1,24 @@
+
+
+
+Ot: 3363032 - Inspección válvula de cono - Programador: Camilo Montagut - 02/02/2017
+
+Se realizó la inspección de la válvula de cono que comprendió con los siguientes pasos:
+
+- Drenaje del tunel vertical de la presa de Miraflores.
+- Inspección de los equipos electromecánicos en el recinto de la compuerta.
+- Cierre de la compuerta de emergencia.
+- Drenaje del pozo de aquietamiento. Adecuación de los drenajes que se encontraban obcstruidos y limpieza del tanque.
+- Drenaje del tunel horizontal entre las compuertas de emergencia y la válvula de cono.
+- Adecuación de elementos de seguridad para el acceso a la válvula.
+- Inspección de la válvula. Esta actividad fue realizada a cargo de los ingenieros Bladimir Suarez, Carlos Arias y Jose David Vera en conjunto con la empresa contratista Endicontrol.
+
+Finalmente se retorna a la funcionalidad de la bomba llenando el vertical. Se cambio del fusible para bloqueo mecánico de la compuerta de emergencia.
+
+Los resultados finales quedan a cargo de los ingenieros responsables de la actividad de la inspección de la válvula de cono.
+
+para mayor información sobre la bitacóra y el registro gráfico remitirse al siguiente link:
+
+\\epm-dc05\2000\2680AGuadalupe\MANTENIMIENTO\7-Miraflores\01 Mantenimientos\2016-01-12Inspecciónválvulachorrohueco
+
+Ejecuta: equipo mantenimiento UOG

@@ -1,0 +1,16 @@
+SOLICITANTE:
+FAVOR REVISAR EL SISTEMA DE POTENCIA HIDRAULICA YA QUE EL TANQUE DEL REGULADOR DE VELOCIDAD DE LA CENTRAL, ESTA PERDIENDO PRESION, LO QUE ORIGINA QUE EL DISTRUBUIDOR DE MAQUINA SE ESTE ABRIENDO Y CON ESTO NO DANDO CONDICIONES DE ARRANQUE. REPORTO: RENAN SEPULVEDA.
+
+ENE 12/2018 OT:3670443 PROGRAMADOR: VQUINTAS EJECUTO: D MUÑOZ
+
+RIOGRANDE 1: 
+·Se hace inspección del sistema hidráulico del RV y se encuentra que el servomotor no estaba cerrando más que al 13% aproximadamente, esto debido a que se encontró filtro 63F en posición intermedia, se posiciona nuevamente permitiendo que servo cierre a 0%. Se hacen pruebas de apertura y cierre garantizando el funcionamiento normal.
+
+·Se hace pruebas de presurización y despresurización entrando a operación las bombas automáticamente. 
+
+·Se encuentra IHM de operación local des-configurada (SCADA local), se carga backup y se inicializa nuevamente, queda sistema OK
+
+·Se hace depuración de eventos y alarmas en la base de datos de la IHM local (touch panel) permitiendo un funcionamiento más rápido de la aplicación SICAM 230.
+
+
+Se entrega la unidad a operación (CCPC) con una generación de 10MW.

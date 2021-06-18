@@ -1,0 +1,17 @@
+MANTENIMIENTO PREVENTIVO MECANICO REGULADOR HIDRAULICO GUADALUPE 3
+
+
+
+Progamador: Camilo Montagut - 23/02/2017
+
+Se realiza inspección de las tuberías del regulador hidráulico y no se encuentran fugas de aceite. Se realiza desmonte y limpieza de los filtros de aceite del regulador.
+
+Se corrige fuga de aceite en uno de los acoples (aislados) de la tubería de la lubricación forzada. Se realiza apriete de toda la tornillería y se realiza limpieza final.
+
+Al realizar prueba de levante del rotor con la lubricación forzada se registran los siguientes datos:
+
+Bomba #1 lubricación forzada: 0.03 mm
+Bomba #2 lubricación forzada: 0.025 mm
+Bomba #1 + #2 lubricación forzada: 0.04 mm                      
+
+Ejecuta: equipo mantenimiento mecánico OUG

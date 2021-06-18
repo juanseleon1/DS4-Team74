@@ -1,0 +1,18 @@
+06/03/2017
+
+FALLA EN LA COMUNICACION DEL SISTEMA DE REFIGERACION, FALLA EN TODOS LOS INSTRUMENTOS DEL SISTEMA
+
+
+07/03/2017
+
+Se realiza verficacion del sistema y de la red profibus de los instrumentos de este sistema, se analiza el espectro de la red profibus y se discrimina cada instrumento, se encuentra la falla de este sistema en el instrumentos TIT08, este queda aislado para evaluar su comportamiento y posterior cambio de ser necesario.
+
+Realizado por Wtobonl
+
+TERMINADA 
+
+27/11/2017 
+
+CERRADA CON CICLO COMPLETO
+
+Realizado por Wtobonl

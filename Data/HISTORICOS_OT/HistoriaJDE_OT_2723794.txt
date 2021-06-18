@@ -1,0 +1,7 @@
+23-03-2015
+
+Se cambia relé 71QTGHX correspondiente a la señal U5-8.18 Nivel Aceite Cojinete de Turbina, 
+por presentar problemas en el contacto que lleva la señal a la estación de operación.
+Se crea OT: 2723794
+
+Learcilas

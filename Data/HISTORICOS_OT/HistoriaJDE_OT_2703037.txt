@@ -1,0 +1,11 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+05/03/2015
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL  -9,33 VDC y CTPR    -8,48 VDC   - KPH: -11,67VDC se ajusta -7,29VDC
+
+Se inyectan las señales
+  COJ TURBINA °CPATRÓN °C METAL 1 ACTE 3 ACTE 740 40,2 40.1 N/A 60 60,3 60.1  N/A 80 80,2 80.1 N/A  ALARMA 80,180,1 N/A  DISPARO  85,1 85,0  N/A 
+
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\wperezg5\MTTO UNIDADES GPEPORCE\2015\TRIMESTRALES G4 
+JOSE MONTOYA

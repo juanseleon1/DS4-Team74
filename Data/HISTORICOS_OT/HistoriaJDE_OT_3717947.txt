@@ -1,0 +1,6 @@
+FECHA: MAYO 30/2018PROGRAMO: DANIEL PALACIOS O.EJECUTO: HECTOR DARIO PUERTA.
+PLANEADOR LUIS FEDERICO ALVAREZ A.
+Se realiza inspección, mantenimiento y limpieza a los tableros +PCG, +TCIG, en el recinto se revisan y limpian las resistencias calefactoras, se les mide su resistencia óhmica y se llenan registros con los valores. R-S= 59.7 OHMIOS, S-T=59.8 OHMIOS, T-R=59.9 OHMIOS.
+Trabajo ejecutado por: Héctor Darío Puerta, Jonathan Arango, Maicol González, Julián Camilo Giraldo
+
+XE: VERIFICAR Y LIMPIAR  CALEFACCION GENERADOR DE LA UNIDAD

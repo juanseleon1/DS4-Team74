@@ -1,0 +1,5 @@
+TAREA: 
+Realizar la revision del barraje de salida de la Unidad Numero 5, durante el mantenimiento correctivo de cambio de Polo Numero 11, a causa de vibracion en la Unidad.
+
+2015/01/06 JUAN DAVID GARCIA - OSCAR GIRALDO (RUBEN ARBOLEDA) OT: 2668776
+Se realizò adecuacion de andamio y escalera, se realizo el destape de los barrajes de salida y el ajuste de torque de cada uno de los tornillos de union del barraje a un torque de 110 libras/pie, adicionalmente se realizo inspeccion visual a los bujes pasamuros y una correccion en una tierra superior de la parte interna en la tapa de los bujes pasamuros, no se enocntro anomalias adicionales. 

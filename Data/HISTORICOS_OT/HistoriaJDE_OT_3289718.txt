@@ -1,0 +1,4 @@
+2017-05-08 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3289718, PASO:1          
+Se realizó medida de voltaje y limpieza general al banco de baterías de Cámara de válvulas, no se evidenció fallas, se encontró mucha suciedad, se limpió y se dejó en condiciones normales: 
+Voltaje Promedio: 2,2Vdc
+No se adicionó agua ya que éstas baterías son secas

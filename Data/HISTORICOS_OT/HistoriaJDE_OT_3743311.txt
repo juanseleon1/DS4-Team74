@@ -1,0 +1,23 @@
+2018/06/27 RUBEN ARBOLEDA
+OT creada para realizar adecuación de cableado adecuación de platinas de los sensores aguas arriba y aguas abajo del carro y para realizar adecuación y verificar marcación de cableado de control y potencia.
+
+2018-06-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3743311, PASO:1          
+Se inició con la adecuación de laminas finales de carrera aguas arriba y aguas abajo en el puente grúa Vevey, para evitar que el carro se pegue en las lámparas.
+
+2018-06-28 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743311, PASO:2         
+ Se continuó con la adecuación de platinas en el puente grúa vevey para los finales de carrera del carro.
+
+2018-07-03 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3743311, PASO:3          
+Se finalizó con la adecuación de platinas en lis limites de carrera aguas arriba y aguas abajo del puente grúa vevey para evitar que el carro se golpee en el muro, se realizó pruebas y se dejó en condiciones normales.
+
+2018-07-04 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3743311, PASO:4          
+Se realizó verificación de cableado en el puente grúa vevey, con el fin de validar la información con los planos y corregirlos si es necesario.
+
+2018-07-05 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3743311, PASO:5          
+Se continuó con la revisión de cableado en el puente grúa vevey.
+
+2018-07-10 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3743311, PASO:6          
+Se continuó con la revisión de cableado en el puente grúa vevey.
+
+2018-07-13 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3743311, PASO:7          
+Se continuó con la revisión de cableado en el puente grúa vevey.

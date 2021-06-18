@@ -1,0 +1,5 @@
+FECHA: 23/08/2018   SOLICITADO POR:  Mario Zapata - Operación TR1
+DESCRIPCIÓN: Al momento de subir carga, se presenta ruptura perno fusible # 18 de la unidad N°1 de Troneras. Se revisa en sitio encontrando que es real.
+
+23/08/2018
+Por ruptura se cambia el perno - fusible perteneciente al alabe numero A18 por repuesto existente

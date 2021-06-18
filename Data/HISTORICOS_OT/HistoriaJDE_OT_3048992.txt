@@ -1,0 +1,51 @@
+2016/03/15; FAVOR VERIFICAR MOTOR BOMBA FEED WATER 1002, VIBRACIONES Y TEMPERATURAS COJINETES PARA INFORMAR SOBRE CAUSA DISPARO U1.
+ADEMAS SE DEBE VERIFICAR EL ESTADO DEL CHEQUE DE LA TUBERIA IP EL CUAL SE QUEDA ABIERTO Y LA BOMBA QUEDA GIRANDO ESTANDO APAGAGA.
+ROBINSON HINCAPIE
+
+INFORME  EVENTOS DE GENERACION 
+TERMOELECTRICA LA SIERRA 
+14 DE MAZO DE 2016
+
+La central se encontraba generando comercialmente configuración 14.  Durante el  periodo 2 se presenta disparo de la unidad 1 estando en 128 MW combustible Gas, 108 unidad 2   y la unidad 3 en 131 MW.
+
+EVENTO: TRIP UNIDAD 1 
+PERIODO:   2
+
+EVENTO 1:
+Sé observa que el nivel del domo IP del recuperador 1 comienza a bajar, se verifica en pantalla que la bomba feed wáter estuviera en funcionamiento. 
+Al parecer un evento en la feed wáter 1002 la saco de servicio y entro automáticamente la 1001, el domo alcanzo nivel de disparo y no se alcanzó a reponer nivel,  esta bomba, se produce un customer  Trip 
+
+Se extrae el trip log del Markv de la unidad.
+Unidad 1
+26:11.2 1 Q 128 GENERATOR COMMON COLD GAS TEMP HIGH26:12.9 0 Q 128 GENERATOR COMMON COLD GAS TEMP HIGH28:53.0 1 Q 85 CUSTOMER TRIP28:53.7 1 Q 372 GENERATOR NEGATIVE MVARS HIGH28:53.7 0 Q 379 MASTER PROTECTIVE START CHECK ETR FAULT
+
+
+
+
+
+
+EVENTO 1:
+Se presenta a la 1:58  alarma de bajo nivel del domo IP. Y tratando de recuperar no se repone y se presenta CUSTOMER TRIP.
+
+ACCIÓN INMEDIATA:
+Se  informa al CCG, Hector Patiño y se  solicita redespacho de generación cambiado de configuración de 14 a la 8.
+Se redespacha periodos 4 en 145
+Periodo 5 en 145
+Periodo 6 en 145
+Periodo 7 en 375. 
+
+ACCIÓN TOMADA:
+Se llama a CCG, Hector Patiño se le informa del evento.
+Se envía a los compañeros de campo para que verifiquen las condiciones de la feed wáter, en campo y en CCM, se encontró que la bomba en funcionamiento es la 1001 y que la 1002 continua rodando, al parecer uno de los cheques se quedó abierto.
+En el CCM no se encontró alarmado el multilin.
+
+ 
+Se llama al ingeniero encargado de la Central, Felipe Sánchez, y al compañero Carlos García.
+
+Las unidades quedan, para alinearlas de nuevo. 
+
+Guardado en:
+\\Lperezga3\formatos de operación\FORMATOS E INFORMES DE OPERACION TERMOSIERRA\FORMATOS DE OPERACIONFORMATOS E INFORMES DE OPERACION TERMOSIERRA\Informes de generaciones y disparos\Informe disparos 2016\marzo.
+
+JORGE GRAJALES OSPINA.
+OPERACION.

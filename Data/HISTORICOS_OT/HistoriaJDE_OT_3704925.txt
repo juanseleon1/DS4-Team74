@@ -1,0 +1,11 @@
+2018/03/29 RUBEN ARBOLEDA
+Se crea OT para registrar actividades, matreriales y tiempos laborados durante el mantenimiento mayor de la Unidad 7, OT padre: 3687419
+
+2018-04-18 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704925, PASO:1          
+Se Inició con mantenimiento preventivo a las motobombas del regulador de velocidad de la Unidad 7, se realizó revisión general de los contactores, limpieza y ajuste de bornes de control y potencia. 
+2018-04-19 REALIZÓ: JUAN DAVID GARCIA - MATEO PEREZ (GUADALUPE),  PROGRAMO: RARBOLG OT: 3704925, PASO:2          
+Se finalizó con el mantenimiento preventivo a las motobombas del Regulador hidráulico de la Unidad 8, se realizó pruebas de funcionamiento con los siguientes resultados: 
+Motobomba 1 regulador hidráulico u7    CORRIENTE: R:9,5, S:7,8, T:8,7, VOLTAJES RS:456, ST:454, TR:454,AISLAMIENTO DE MOTOR: 657M 
+Motobomba 2 regulador hidráulico u7    CORRIENTE: R:9,4, S:9,5, T:10, VOLTAJES RS:456, ST:454, TR:454,AISLAMIENTO DE MOTOR: 3,66 G 
+Se realizó revisión y limpieza de todas las borneras en el regulador, se encontró mucha suciedad y algunas flojas, se ajustaron y se dejaron en condiciones normales, 
+En el regulador queda pendiente realizar revisión de las electroválvulas para ésta actividad se realizará en compañía con el personal de mantenimiento mecánico. 

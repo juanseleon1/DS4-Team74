@@ -1,0 +1,16 @@
+Favor revizar la IHM del TCCS U2 se apaga y no funciona la aplicacion OPC 
+
+
+01/11/2013
+
+Se realiza verificacion de la IHM de este sistema se encuentra con problemas la fuente de alimentacion para la tarjeta board, fue necesario realizar el cambio de esta IHM y configurar de nuevo el sistema con la aplicacion OPC y las tarjetas de comunicacion .
+
+se normaliza y realiza pruebas de cominicacion y operacion de este sistema
+
+Realizado por Wtobonl
+
+terminada cerrar
+
+SE CIERRA OT POR CIERRE DE FIN DE AÑO 2013.
+SE DEBE ABRIR NUEVA OT EN EL 2014.
+OSCAR DUQUE

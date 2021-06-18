@@ -1,0 +1,9 @@
+SOLICITANTES: Ramiro Cordoba - Mario Hache. - FECHA: Miercoles, Dic. 17 del 2014.
+EL  SIS.  DE  CONTROL  NO  ESTA  REGISTRANDO  VALOR  DE  VDC  DEL  TRANSFORMADOR  DE  EXCITACION  DE  G31. (TRANSDUCTOR).  FAVOR  CORREGIR.       
+
+05/ENERO/2015
+Despues de realizar un seguimiento a la señal desde la excitacion, pasando por la bornera de paso ubicada en el recinto del generador, se encuentran las borneras -X01 134-135 abiertas en el tablero de control del regulador de tension. 
+Se procede a cerrar estas borneras y se realizan pruebas inyectando una señal de voltaje de VDC con el Sberker desde la excitacion, comprobando la correcta visualizacion en la pantalla de control de la unidad y en la sala de operacion.
+
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+Programador: Oscar Arango

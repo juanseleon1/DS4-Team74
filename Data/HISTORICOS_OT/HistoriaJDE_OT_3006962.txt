@@ -1,0 +1,12 @@
+6 de Febrero de 2016. 8:48 AM. Turno 3.
+Elkin Santa Maria - Wilson Arango.
+
+Se encuentra con falla de descalibración el instrumento de Temperatura del Devanado de Alta y Aceite en la Fase R del Banco 1 de la Unidad 1 de guadalupe 3, solicitamos verificación, diagnostico y corrección.
+
+Atentamente,
+WILSON ARANGO 
+TECNOLOGO OPERADOR.
+
+08-02-20156
+programador: jose montoya
+se realiza reset al instrumento qualitrol y queda trabajando bien

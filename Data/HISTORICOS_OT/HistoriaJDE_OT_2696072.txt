@@ -1,0 +1,57 @@
+- FECHA : JUEVES FEBRERO 12 DE 2015
+- REALIZÓ : PERSONAL DE MANTTO PLANTA 
+            ELECTRICISTAS :
+            * ANDRÉS ZAPATA
+            * WILFER HINCAPIÉ
+            MECÁNICOS 
+            * JHON DARÍO ATEHORTÚA
+            * ANTONIO MOLINA
+- ASOCIADO A LA OT : 2696072
+- ASUNTO : HACER MANTTO MP BIMESTRAL 
+           NOTA : SE HACE ESTA OT PARA COMPLETAR LAS TRES OT´S ATUTOMÁTICAS BIMENSUALES Y DONDE LA B2 NO SE GENERÓ
+           DESDE EL SISTEMA.
+ - FECHA : JUEVES FEBRERO 12 DE 2015
+- REALIZÓ : WILFER HINCAPIÉ - ANDRÉS ZAPATA
+- ASOCIADO A LA OT : 2666177
+- ASUNTO : HACER MANTTO MP
+
+Datos de placa:         P = 60 HP    V = 460vac    I = 70 A
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 916 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 476.6 v
+       ST = 477.4 v                                                                  
+       RT = 478.5 v 
+       Corriente de arranque:  
+Fase R = 305 a
+       Corriente de marcha:  
+Fase R = 55.5 a
+Fase S = 52.8 a  
+Fase T =  53.2 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 60 a                       Calibración térmico potencia : 60 a
+
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 1671.44
+
+6. Observaciones: el térmico de control está asociado al térmico de potencia
+    El QAC6 : es un térmico de control general para el control de las  3 bombas ( 4 amp. )
+    Se realizó medida de aislamiento desde la acometida , equipo utilizado megger MI 3121 H
+    Tiempo de evacuación : 9.15 minutos ; queda operando normal.
+    Se realizó cambio piloto de señalización " bomba marcha " . Tiempo de evacuación : 14.17 minutos .
+
+
+

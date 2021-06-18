@@ -1,0 +1,13 @@
+SEP 10 /2018 PROGRAMO: JGUINGUER  EJECUTO:ALEXANDER VILLA
+Se realiza verificación de las RTD’ s del cojinete lado turbina por medio del bloque seco, se deja por cada punto de verificación 10 minutos.
+
+Temperaturas de: Cojinete Lado TurbinaEquipo 80°C 100°CGuía Radial RA1 78.4 98.3Empuje Radial RA1 79.3 99.1Guía Radial Turbina 80.1 99.6Axial Turbina 78.5 98.8Valor programado Alarma:75°CValor programado Disparo:80°CComentarios:Sin novedades
+FEBRERO 01/2018 PROGRAMO: JGUINGUER  EJECUTO:ANDRES YEPES
+COJINETE GUIA RADIAL 1
+PATRON           METAL 
+60ºC                    60.3ºC                  
+65ºC                    65.6ºC                  
+75ºC                    76.6ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75C
+No se reporta tiempo ya que es para seguimiento metrológico

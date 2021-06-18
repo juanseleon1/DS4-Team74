@@ -1,0 +1,6 @@
+2015/07/09 RUBEN ARBOLEDA
+REALIZAR ADECUACION DE SEÑAL DE DISPARO INTERRUPTOR AL +CU
+
+2015/07/09 OSCAR GIRALDO - JUAN DAVID GARCÍA
+Se realizó adecuación de señal de apertura de interruptor por medio de los sensores de las puertas, teniendo en cuneta un contacto del relé GBD/C
+Se realizó prueba de funcionamiento y se dejó en condiciones normales.

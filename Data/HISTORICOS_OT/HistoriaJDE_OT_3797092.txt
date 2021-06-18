@@ -1,0 +1,11 @@
+DICIEMBRE 25 2018. 
+LUIS FERNANDO CASTRILLON. 
+AL DAR LA VUELTA DE INSPECCION SE ENCUENTRA LA IHM EN BLANCO. SE HABIA PRESENTADO EVENTOS: BOMBA 2 FUERA DE SERVICIO, Y LUEGO BOMBA DOS EN SERVICO, AL REVISAR ESTABA NORMAL.
+HORA 23:14 DEL 24 DE DICIEMBRE.
+SEÑAL U8-8.29
+
+2018-12-24 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3797092, PASO:1          
+Se realizó apoyo al personal de mantenimiento electrónico en la revisión de la pantalla IHM del sistema de refrigeración cojinete superior Unidad 8
+
+2018-12-26 REALIZÓ: JHONATAN ANDRES USME - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3797092, PASO:2          
+Se continuó con la revisión de la IHM del sistema de refrigeración cojinete superior Unidad 8, la pantalla no muestra nada, pero está funcionando, se cuenta con 2 repuestos pero estos no están funcionales el personal de mantenimiento electrónico enviará las pantallas a reparación.

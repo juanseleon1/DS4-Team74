@@ -1,0 +1,19 @@
+2017/02/22 GIOVANNY DIAZ
+Se realiza el montaje de un breaker y un supervisor de tensión para el reseteo automático ante una falla de 480VAC en el CCM, se realiza la programación del PLC LOGO y queda con la siguiente confirguración: 
+Motobomba CW6 arranca a los 10 Segundos
+Motobomba CW7 arranca a los 20 Segundos
+Motobomba CW8 arranca a los 30 Segundos
+
+NOTA: En caso de que una falla dure más de cierto tiempo, no arrancará la motobomba automáticamente, es necesario darle arranque desde la estación de operación o ponerla en manual y arrancarla, a continuación el registro de los temporizadores de falla:
+Motobomba CW6 a los 20 Segundos
+Motobomba CW7 a los 30 Segundos
+Motobomba CW8 a los 40 Segundos2017/02/22 GIOVANNY DIAZ
+Se realiza el montaje de un breaker y un supervisor de tensión para el reseteo automático ante una falla de 480VAC en el CCM, se realiza la programación del PLC LOGO y queda con la siguiente confirguración: 
+Motobomba CW6 arranca a los 10 Segundos
+Motobomba CW7 arranca a los 20 Segundos
+Motobomba CW8 arranca a los 30 Segundos
+
+NOTA: En caso de que una falla dure más de cierto tiempo, no arrancará la motobomba automáticamente, es necesario darle arranque desde la estación de operación o ponerla en manual y arrancarla, a continuación el registro de los temporizadores de falla:
+Motobomba CW6 a los 20 Segundos
+Motobomba CW7 a los 30 Segundos
+Motobomba CW8 a los 40 Segundos

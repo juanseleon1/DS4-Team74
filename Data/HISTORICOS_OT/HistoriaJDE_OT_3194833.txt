@@ -1,0 +1,6 @@
+FECHA: JULIO 31 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO ROBAYO
+SOLICITANTE: HENRY GIRALDO
+
+Debido a varios paros por falla en el Loop de comunicaciones, se revisan los voltajes de las fuentes y se encuentran en valores adecuados de operación, la fuente 102A2 es de las nuevas y en semanas anteriores ya se habían cambiado los módulos 7,0 y 4,0, se revisan las conexiones de estos y no se encuentra nada extraño, se da un arranque y a los 15 minutos se presenta nuevamente la falla, se observa en el RFC fallado el módulo 7,10; se enfoca la inspección de la falla en los módulos de la estación hidráulica, se encuentra la falla en el cable del Loop que va del módulo 7,11 al 7,12; se revisa y se encuentra mal contacto en uno de los cables, se realiza la corrección y se deja en servicio el aerogenerador.

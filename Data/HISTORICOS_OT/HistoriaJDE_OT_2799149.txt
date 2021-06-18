@@ -1,0 +1,7 @@
+
+FECHA: JUNIO 19 DE 2015 OT: 2799149
+
+EJECUTANTE: ELIECER PUSHAINA
+SOLICITANTE: HENRY GIRALDO
+
+El día de ayer después de reponer el aerogenerador, tras la apertura de la línea 742, quedo fallado el control al quedarse sin alimentación el módulo de fibra óptica, el día de hoy se repone la alimentación de este módulo y se deja en servicio el aerogenerador.

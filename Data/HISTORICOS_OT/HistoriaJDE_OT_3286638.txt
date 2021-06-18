@@ -1,0 +1,10 @@
+Instalción del Software para el historiador de eventos de las unidades generadoras de la central de P2
+
+
+20/10/2016
+
+Se realizan pruebas de verificación de la base de datos después de la migración del programa Citect a la versión 7.5 y el programa de históricos Vijeo Historian, se realizan pruebas de eventos con las 3 unidades para probar la sincronización de eventos con el sistema.
+
+Realizado por Wtobonl
+
+terminada cerrar

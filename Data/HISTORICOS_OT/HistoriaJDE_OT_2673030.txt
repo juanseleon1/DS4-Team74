@@ -1,0 +1,6 @@
+2015/01/08 GUILLERMO CORDOBA - JHONATAN USME - RUBEN ARBOLEDA
+En coordicacion con el grupo de Operacion de turno, se encontro fallo en el motor del chiller 1, este fallo provoco disparo de interruptor en DP1. 
+
+2015/01/09 GUILLERMO CORDOBA - JHONATAN USME - VICTOR ZULETA - RUBEN LOPEZ - RODRIGO SALAZAR
+Se realizo el cambio del motor, desde el chiller 3 hacia el chiller 1, el motor del chiller 1 queda pendiente para enviar a reparar, se realizo medida de aislamiento, se encontro bobinado a tierra, adicionalmente se encontro el eje del motor pegado, se arranco el sistema completo (Chiller 1 y motobombas asociadas). 
+

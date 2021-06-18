@@ -1,0 +1,26 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: CARLOS FORERO
+FECHA : 30/01/2018
+
+REALIZAR LEVANTAMIENTO Y VERIFICAR DEL CORRECTO FUNCIONAMIENTO DE LOS CONTACTORES  DEL POLIPASTO, PUENTE GRUA 2.
+
+ADJUNTO, PLANOS PARA VERIFICAR.
+
+LA DISCIPLINA MECANICA, VERIFICARA EL CORRECTO FUNCIONAMIENTO DE LOS ELEMETOS MECANICOS 
+ TAMBOR DEL CABLE
+ REDUCTOR DE ELEVACION
+ RUEDAS 
+ CABLE
+
+JUNIO 5 DE 2018
+Se instala el relé temporizador que estaba pendiente para culminar los trabajos y ahustes del motor poli pasto del puente grúa # 2, queda en habilitado en condiciones operativas.
+William Lopera.
+
+ABRIL 2 DE 2018
+En los trabajos electricos que se han adelantado son los siguentes:
+
+ Montaje del motor poli pasto reaparado.
+ Revisión del control del poli pasto y cambio del puente rectificador del freno motor poi pasto.
+ Instalación y puesta en servico de un variador de frecuencia marca Yaskawa.
+ Pruebas al motor poli pasto con carga para el ajuste fino del variador de frecuencia.
+Programador: William Lopera.

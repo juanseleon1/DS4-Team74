@@ -1,0 +1,24 @@
+SOLICITANTE:OPERACIÓN TURNO 3FECHA: 21/09/2016
+
+REVISAR COJINETE POR CALENTAMIENTO GRADUAL PROGRESIVO QUE SOBREPASA EL NIVEL DE ALARMA EN LOS CUATRO SEGMENTOS DE METAL.
+
+Miércoles 21 de septiembre 
+
+Referente a la unidad G32: Por presentarse calentamiento progresivo en segmentos del cojinete de turbina unidad N°2, se pide redespacho de la unidad con el fin de realizar inspección. En revisión realizada se observa aceite emulsionado y nivel alto.                                                               
+Nota: al momento de sincronizar nuevamente la unidad, se presentaron dificultades debido a que los frenos se quedaron aplicados, esta situación obligó el retiro de la conexión eléctrica de la electroválvula de frenado para poder dar condiciones a la unidad.    
+                                                          
+Informa: Francisco González - Elkin Santamaría.
+
+Hora: 04:15                                                                                          
+Referente a la unidad N°2 Guadalupe 3:
+Se indispuso la unidad por presentar temperaturas altas en los segmentos del cojinete de turbina. Se desarmó la tapa superior del cojinete y se realizan los siguientes trabajos:
+Se cambiaron 120 litros de aceite Heavy Medium, puesto que se encontró emulsionado y sin propiedades lubricantes. Se corrigió y se aplicó silicona al acople de las universales entre la tubería de refrigeración y el serpentín. Se realizaron pruebas de estanqueidad al serpentín por tres horas observando todo normal y sin fugas. Se calibraron las vibraciones, pues se encontraban descalibradas. Se lleva el nivel de aceite a 180mm, el cual es el patrón referenciado con la varilla.
+
+Se sincroniza la unidad y se entrega para explotación comercial al centro de control. Se deja en observación, por parte del grupo de operación, las temperaturas de los segmentos del cojinete de turbina.
+Este trabajo se atiende con la OT N° 3252105.
+
+Ejecutó: Equipo de operación
+              Equipo mecánico
+              Equipo electrónico
+
+Informa: Oscar Arango   

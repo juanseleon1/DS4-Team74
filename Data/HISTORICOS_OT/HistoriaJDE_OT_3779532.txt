@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 29/2018PROGRAMO: DANIEL PALACIOS EJECUTO: YOANIS RODRIGUEZ
+
+Se inspecciona, se limpieza y se hace mantenimiento al tablero eléctrico +TCCSM, a las acometidas de las motobombas y a los motores, a estos se les hace chequeo de la medida de resistencia de aislamiento y se llenan formatos.
+Trabajo ejecutado por: Yoanis Rodriguez, Julio Parra y Jorge Parra.
+
+XE: INSPECCIONAR Y LIMPIAR CIRCULACION ACEITE TLCS DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

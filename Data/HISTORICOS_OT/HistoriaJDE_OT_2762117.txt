@@ -1,0 +1,4 @@
+19-03-2015 
+
+Se pierden las señales de temperaturas del Banco 3.
+Se revisa y se encuentra el modem DSTC 452 con problemas, se cambia, quedando es sistema en condiciones normales.

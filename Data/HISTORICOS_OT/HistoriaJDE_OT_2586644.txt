@@ -1,0 +1,9 @@
+2014/08/24 ADONIS CADAVID
+SE PRESENTA OSCILACION DE LA SEÑAL DE VELOCIDAD CON UNIDAD SINCRONIZADA
+
+2014/08/25 - CESAR HOYOS
+Se realizó limpieza general a la rueda dentada y a los 2 sensores, se hizo ajuste de distancia del sensor que lleva la señal de velocidad al regulador electrónico a 1.02 milimetros, y el que lelva la señal a YAKET esta a una distancia de 0.87 milimetros.
+
+Se evidenció que a causa de la suciedad la señal de velocidad estaba oscilando en la estación de operación.
+
+Se dejó todo en condiciones normales. 

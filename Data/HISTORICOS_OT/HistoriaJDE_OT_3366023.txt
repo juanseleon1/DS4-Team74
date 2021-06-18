@@ -1,0 +1,18 @@
+
+PLANEADOR: YOFRED RODRÍGUEZ
+
+PROGRAMADOR: CAMILO MONTAGUT
+
+
+FECHA: 13/01/2017   SOLICITANTE: FRANCISCO CORDOBA
+
+DESCRIPCION: CON MAQUINA PARADA, PESE A QUE SELLOS DE OPERACION APARECEN APLICADOS (54 BAR), SE OBSERVA QUE LA PRESION EN EL CARACOL PERMANECE IGUAL A LA PRESION AGUAS ARRIBA DE LA VALVULA. 
+
+
+Programador: Camilo Montagut - 13/03/2017
+
+Aprovechando que la central se encuentra parada se realizan pruebas para verificar la estanqueidad de los sellos de la válvula esférica (sellos aguas arriba - mantenimiento y sellos aguas abajo - operación).
+
+Se realizan diferentes maniobras y finalmente se verifica que los dos sellos se encuentran en mal estado permitiendo el paso de agua, sin embargo hasta ahora no se tiene perdida del recurso hídrico ya que los sellos de los inyectores funcionan correctamente.
+
+Ejecuta: equipo mantenimiento mecánico UOG

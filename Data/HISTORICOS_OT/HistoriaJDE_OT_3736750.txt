@@ -1,0 +1,7 @@
+LUNES 18 DE JUNIO DE 2018
+Hora: 23:33
+
+Se presenta descarga CO2 de los dos cilindros, se verifica y se encuentra la alarma (TIC 3 interruptor de campo - interruptor de presión unidad 3 - ZONE 3) se revisa y se encuentra que el detector D 30 esta alarmado. Se verifica el manómetro de los cilindros y muestra 0 PSI. se le da reset al switch de presión y al tablero de control de zona sistema de excitación. 
+Revisando este evento se encuentra que la parte estructural de este sistema CO2, el cual soporta la tubería de conducción. Le hacen falta elementos de soporte, por lo cual se encuentra desfasado y obstruye para abrir tablero del interruptor de campo. Queda pendiente cambio de cilindros y reparar dicho soporte. 
+Informa: grupo de operación 
+Jorge González - Carlos Guinguer - Arley Baena. 

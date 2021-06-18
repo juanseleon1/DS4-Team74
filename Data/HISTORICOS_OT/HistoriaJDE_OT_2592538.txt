@@ -1,0 +1,22 @@
+SEPTIEMBRE 3-2014
+
+ALARMA_TIERRA ROTOR
+
+ MEDIR LONGITUD
+ MEGGER
+ LAVAR ANILLOS
+
+LOS DATOS DEBEN SER ASENTADOS EN REGISTRO, HACER PERMISO DE TRABAJO Y CONSIGNACION LOCAL DE LA MAQUINA
+
+------------------------------------------- 
+
+fecha: septiembre 09-2014 ot: 2592538 mtto: eléctrico
+ejecutó: DAVISON PEREZ - JHONATAN ARANGO
+Se realiza MEDIDA DE AISLAMIENTO Y LONGITUD DE ESCOBILLAS perteneciente  al sistema de EXCITACIÓN (anillos rozantes). Según IDM: GCP2E0004.  se realiza un lavado y limpieza con dielectric, Se TOMAN VALORES  ResIS Y LONGITUD; y SE diligencia LA RESPECTIVA PLANILLA DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+ANTES DE LIMPIARAISLAMIENTO / TIERRAANILLO M VDCSUPERIOR2,62 400INFERIOR2,62 400
+DESPUES DE LIMPIARAISLAMIENTO / TIERRAANILLO M VDCSUPERIOR4,56 499INFERIOR4,52 499
+No SE requiere cambiar ninguna ESCOBILLAS.        
+el mtto se realiza por oportunidad con planta en 0 mva.
+informa: cristian andres gómez h
+-------------------------------------------
+

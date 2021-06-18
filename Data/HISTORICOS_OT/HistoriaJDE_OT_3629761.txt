@@ -1,0 +1,6 @@
+2017/10/19 RUBEN ARBOLEDA
+Se realiza OT para mantenimeinto preventivo al ventilador S10, de manera simultanea con el ventilador S6
+
+2017-10-19 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3629761, PASO:1          
+Se realizó mantenimiento al motor de ventilador s10    CORRIENTE: R:53,2, S:55,8, T:50,4, VOLTAJES RS:477, ST:457, TR:473,TEMPERATURA MAXIMA DE MOTOR 58,8°C 
+Se adjunta el informe a la OT

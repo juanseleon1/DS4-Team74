@@ -1,0 +1,5 @@
+2018/09/19 RUBEN ARBOLEDA
+En la unidad 3 se presenta chispas en el recinto de anillos OT: 3767233, se crea esta OT realizar medida de las escobillas y verificar su desgaste.
+
+2018-09-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3767265, PASO:1          
+Se realizó medida de las escobillas en el recinto de anillos de la Unidad 3, después de la puesta en servicio por falla registrada en la OT: 3767233, no se evidenció desgaste pronunciado en las escobillas.

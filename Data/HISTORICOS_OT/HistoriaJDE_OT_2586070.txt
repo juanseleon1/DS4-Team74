@@ -1,0 +1,5 @@
+2014/08/24 FERNANDO CASTRILLON 
+SE ESTA PRESENTANDO REPETITIVAMENTE ALARMA DE FALLA A TIERRA, EN EL GABINETE NODO 1 SUPERVISION GENERAL UBICADA EN LA CASETA DE OPERACION.
+
+2014/08/25 CESAR HOYOS
+Se realizó revisión al loop 2 del nodo 1, deshabilitando el voltaje de la señal en varios tramos. Se detectó que las tapas de las cajas de paso de los sensores de humo donde ingresa el cableado para conectarse con el instrumento no cuenta con ningún de tipo de aislamiento, razón por la cual se aterrizan los cables que conectan al sensor ocasionando la falla a tierra. Se identifico uno de los sensores de la bóveda de cable con este problema, se aísla el cable y se normaliza el sistema.

@@ -1,0 +1,4 @@
+CE: LIMPIEZA Y REVISION CONTR CAMPO 44 kv
+
+2015/11/10 OT: 2922759 - REALIZÓ: JHONATAN USME - EDWIN ARANGO (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó revision y mantenimiento general al grupo de electrovalvulas, se dejó en condiciones normales, El tiempo de Edwin Arango no se registro ya que no cuenta con codigo de JDE E1

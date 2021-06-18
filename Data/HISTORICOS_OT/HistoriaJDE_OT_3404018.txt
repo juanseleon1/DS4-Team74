@@ -1,0 +1,24 @@
+2017-02-22 JUAN C DUARTE MUÑOZ.
+
+REVIZAR EL SACO (PANEL DE ALARMAS) QUE ESTA PRESENTANDO FALLA. Y, NO DA PRUEBA DE LAMPARÁS.
+
+2017-02-22 LUIS EDUARDO ARCILA
+se encuentra en falla la fuente SWSM 220A220 y el modulo de alarmas, se retiran y se envian a RPM para su reparacion.
+
+
+2017-04-18 LUIS EDUARDO ARCILA
+
+Se instala fuente SWSM 220A220 en la unidad 6 correspondiente al módulos de alarmas SACO del generador, quedando en condiciones normales de operación.
+
+2017-02-22 JUAN C DUARTE MUÑOZ.
+
+REVIZAR EL SACO (PANEL DE ALARMAS) QUE ESTA PRESENTANDO FALLA. Y, NO DA PRUEBA DE LAMPARÁS.
+
+2017-02-22 LUIS EDUARDO ARCILA
+se encuentra en falla la fuente SWSM 220A220 y el modulo de alarmas, se retiran y se envian a RPM para su reparacion.
+
+
+2017-04-18 LUIS EDUARDO ARCILA
+
+Se instala fuente SWSM 220A220 en la unidad 6 correspondiente al módulos de alarmas SACO del generador, quedando en condiciones normales de operación.
+

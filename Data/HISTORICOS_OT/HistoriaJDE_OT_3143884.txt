@@ -1,0 +1,50 @@
+JUNIO 12/2016. SERGIO OLIVARES D. OT: 3008122
+Se realizo limpieza general. Se cambiaron 4 escobillas. 
+Se evidencia una pequeña fractura en uno de los aisladores que soportan la barra (+) de los anillos rosantes.
+
+2016/06/13 ANGEL ADONIS CADAVID OCHOA
+ SE REQUIERE REVISAR EL AISLADOR FRACTURADO SE GENERA OT PARA TENER PRESENTE Y REPARARLO EN OTRO MANTENIMIENTO.
+
+2016/10/16- REALIZO: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE - EDWAR LONDOÑO - JHONATAN USME- OT: 3143884
+
+Se realizó la reparación de un buje en el recinto de anillos de la unidad 6, adicionalmente se realizó limpieza general a todo el recinto, se midio aislamiento con los siguientes resultados: 
+ANTES DE LIMPIAR: 
+ROTOR Y BARRAJE: <500 K
+ROTOR: <500 K
+BARRAJE<500 K
+DESPUES DE LIMPIAR:
+ROTOR Y BARRAJE: 108,3 M
+ROTOR: 100 M
+BARRAJE: 2,54 G
+este mantenimiento se realizó de manera correctiva ya que se realizó limpieza a causa de la reparación de un buje del anillo superior, el buje se pintó y se dejó en condiciones normales.
+
+Tambien se realizó medida de las escobillas con los siguientes datos: 
+
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 45,3
+A.S. 2A: 39,4
+A.S. 3A: 33,5
+A.S. 4A: 39,2
+A.S. 5A: 45,8
+A.S. 6A: 25,6
+A.S. 7A: 24,8
+A.S. 1B: 36,2
+A.S. 2B: 34,2
+A.S. 3B: 44,8
+A.S. 4B: 24
+A.S. 5B: 39,6
+A.S. 6B: 45,9
+A.S. 7B: 27
+A.I. 1A: 23
+A.I. 2A: 32,6
+A.I. 3A: 43,7
+A.I. 4A: 39,4
+A.I. 5A: 31
+A.I. 6A: 33,1
+A.I. 1B: 35,4
+A.I. 2B: 44,2
+A.I. 3B: 21
+A.I. 4B: 22
+A.I. 5B: 41
+A.I. 6B: 42,2
+OBSERVACIONES: Se realizó el cambio de 3 escobillas, este mantenimiento se realizó de manera correctiva ya que se realizó limpieza a causa de la reparación de un buje del anillo superior, el buje se pintó y se dejó en condiciones normales.

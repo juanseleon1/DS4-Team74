@@ -1,0 +1,5 @@
+Solicitante-Planeador: Jeison Julian Suarez Rios
+Aprobador: Carlos Andres Andrade
+Fecha de solicitud: 20/09/2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: Verificación y adecuación de infraestructura civil de los piezometros de tubo abierto para realizar la instalación de la tubería que conduce los cables del piezómetro a las cajas de empalme. 

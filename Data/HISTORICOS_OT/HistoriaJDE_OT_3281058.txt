@@ -1,0 +1,67 @@
+
+SE REQUIERE REALIZAR PRUEBAS DE ESTANQUEIDAD EN LAS TUBERIAS DE SUPRESIONDE CO2 DE LOS GENERADORES Y LOS TABLEROS CRITICOS.
+
+17-10-2016
+PROGRAMADOR JOSE MONTOYA
+el personal de interfire realiza pruebas de estanqueidad de las tuberias de los sistemas de supresion de Guadalupe 3 como son los generadores y los tableros criticos, 
+
+
+  DURACION DE LA PRUEBA
+
+La prueba tuvo una duración mínima de 30 minutos, durante ese periodo se revisara (Inspección visual) la estructura para detectar posibles fugas.
+
+ DETECCION DE FUGAS
+
+Para la detección de fugas se usó espuma de afeitar (fluido compacto) en todas las juntas del sistema de tuberías y la inspección fue visual y directa para identificar las fugas.
+
+ PROCEDIMIENTO
+
+
+El punto de partida de la prueba debe ser la pieza más distante a la etapa de descarga, no solo con el fin de garantizar la hermeticidad de la totalidad del sistema, sino con el objetivo de retirar la menor cantidad posible de piezas que a su vez aumentan el riesgo de desacople y por ende fugas en el sistema.
+
+INSPECCIONAR INFRAESTRUCTURA
+
+
+Se verifico ausencia de personal cerca del recinto, con el fin de evitar posibles accidentes.
+
+
+
+VERIFICACIÓN DE LA OBSTRUCCIÓN DE LA TUBERIA
+
+Antes de iniciar la prueba de hermeticidad, se realizó la limpieza y la verificación de que la tubería no contuviera partículas sólidas que causaran obstrucción, esto se realiza con la boquilla abierta utilizando gas inerte (Nitrógeno).
+
+
+
+ INSPECCION Y ACONDICIONAMIENTO
+
+a) Se verifico ausencia de alarmas en el panel local Kidde Aries.
+
+b) Se retiraron los cabezales eléctricos de descarga rápida y lenta tanto del banco principal de la descarga inicial como de respaldo.
+
+                           
+
+c) Se retiró odorizador y se instaló tapón en su posición con el fin de evitar averías del mismo durante la prueba.
+
+   d) Se adecuo cilindro de nitrógeno en una de las posiciones de las mangueras flexibles, con el fin de presurizar el sistema.
+VERIFICACIÓN DE LA OBSTRUCCIÓN DE LA TUBERIA
+
+Antes de iniciar la prueba de hermeticidad, se realizó la limpieza y la verificación de que la tubería no contuviera partículas sólidas que causaran obstrucción, esto se realiza con la boquilla abierta utilizando gas inerte (Nitrógeno).
+ACCIONAMIENTO SWITCH DE PRESION.
+
+a) Se procedió abrir la válvula de corte ubicada en la línea de sensado del último gabinete crítico.
+b) Se inyecto presión gradualmente desde 25 psi hasta la presión de activación del switch.
+c)  Se verifica el accionamiento del switch en el panel local Kidde Aries.
+d) Se desmonto switch de presión y en su posición se instala tapo con el fin de continuar con la prueba.
+HERMETICIDAD TUBERIA.
+
+a) Se procedió a cerrar la válvula de corte ubicada en la línea de sensado instalada en el último gabinete crítico.
+
+b) Se procede a incrementar gradualmente la presión hasta que se alcance una presión manométrica de al menos la mitad de la presión de prueba (100 PSI); en ese momento se realiza una verificación preliminar (Inspección visual) a todas las piezas y juntas de la red. A partir de entonces, se continua incrementando gradualmente la presión hasta la presión de prueba (200 PSI), manteniendo la presión el tiempo suficiente para equilibrar los esfuerzos en el sistema de tubería (Tiempo mencionado anteriormente).
+
+c) Luego de identificar posibles fugas y dar soluciones a las mismas, se despresuriza de forma gradual.
+
+
+ejecuto Duvan Calderon y Edgar Naranjo
+
+el informe completo se guarda en la direccion
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\6-Mntto SCI

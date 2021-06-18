@@ -1,0 +1,5 @@
+2018/05/29 RUBEN ARBOLEDA
+Se crea OT para realizar desconexión y conexión de la valvula motorizada para que el personal de mantenimiento mecánico realiza una revisión.
+
+2018-05-29 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3730993, PASO:1          
+Se realizó la desconexión de la valvula motorizada de la Unidad 4, para que el personal de mantemniemiento mecánico realice la corrección de un goteo de agua, una vez finalizado la corrección se realiza la conexión y las pruebas de funcionamiento, se dejó en condiciones normales

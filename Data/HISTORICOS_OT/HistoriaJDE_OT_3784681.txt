@@ -1,0 +1,17 @@
+15/11/2018
+FALLA CARGADOR# 2
+
+El cargador de baterías #2 presenta falla tierra y se apaga, se arranca de nuevo, pero no se sostiene en servicio, es necesario instalar un puente provisional en los bornes 3 y 4 del pulsador S 5, esto con el fin de mantener la carga de las baterías y el suministro de la fuente de control.
+
+Se le informa al Ingeniero Jorge Rodriguez.
+Informa: Grupo de operación - Arley Baena.
+
+16/11/2018
+
+Se revisa falla en el cargador # 2, se encontró la fuente A20 mala, la cual la entrada de alimentación es de 130 Vac y la salida de 24 Vdc. Se retira la fuente para repararla y se deja puente provisional en el pulsador S5 - bornes 3 y 4, para mantener la carga en las baterías.
+# de OT: 3784681
+Realiza: G. Eléctrico - G. electrónico - G. de operación  
+
+Informa: Arley Baena 
+2018/11/16 CARLOS SANCHEZ.
+SE CAMBIA LA TARJETA A 20 CON CODIGO 66970 POR PRESENTAR FALLAS EN SU FUNCIONAMIENTO (CORTO CIRCUITO) Y SE RETIRA EL PUENTE INSTALADO ANTERIORMENTE. EL EQUIPO SE ENTREGA OPERANDO NORMAL.

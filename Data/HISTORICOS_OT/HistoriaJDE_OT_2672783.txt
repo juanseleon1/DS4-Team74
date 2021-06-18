@@ -1,0 +1,6 @@
+
+FECHA: ENERO 08 DE 2015
+
+EJECUTANTE: HENRY GIRALDO Y ELISAUL FUENTES
+
+Se le adiciona agua al sistema de refrigeración, se encontró en 1,2 bar; se le saco el aire y quedó en 0.3 bar, se le recuperó agua a 1.5 bar ya que este radiador esta limitado a esta presión.

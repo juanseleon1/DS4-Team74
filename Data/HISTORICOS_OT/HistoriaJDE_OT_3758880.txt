@@ -1,0 +1,14 @@
+XI: VERIFICAR, MEDIR, COMPROBAR INSTRUMENTACION COJINETE INFERIOR GENERADOR TRONERAS
+
+
+20-09-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+PROGRAMADOR: JOSÉ MONTOYA.
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL 9.59VDC y el CIPR 8.65VDC, se cambió borneras de vibraciones.
+ 
+Nivel de aceite se encontró en 1596mm, el nivel patrón es 1600mm. 
+
+SE INYECTAN LAS SEÑALES
+  COJ GUIA INF °C CABLE RTD 2442 2438 2440PATRÓN °C ACTE 2 SEG 2 SEG 440 41,6 39,4 39,960 59,8 59,7 59,680 80,0 80,0 80,0ALARMA 70,0 70,0 70,0DISPARO  80,0 80,0 80,0
+Se inyecto señal con el calibrador de procesos para comprobar alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2018\SEMESTRALES TRONERAS

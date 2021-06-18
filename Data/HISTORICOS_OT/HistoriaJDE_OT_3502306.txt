@@ -1,0 +1,38 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: CARLOS FORERO
+FECHA : 19/06/2017
+
+REALIZAR CORRECTIVO AL MOTOR POR BAJO AISLAMIENTO.
+
+TOMAR DATOS DE LAS PLACAS DE LOS MOTORES Y HACER PRUEBAS ELECTRICAS.
+NOTA: ELABORAR PERMISO DE TRABAJO POR RIESGO DE ALTURAS.
+
+
+DATOS DE RESISTENCIA DE AISLAMIENTO DE LOS MOTORES.
+
+MOT/DESPLA/ PRINCIPAL MOT/GANCHO 65 TONRESIS/AISLAMIEN/ K RESIS/AISLAMIEN/ MR520R543S315S555T280T580
+MOT/DESPL/ CARRO/65 T MOT/DESP/POLI PASTO MOT/POLI PASTO/10 TONRESIS/AISLAMIEN/ M RESIS/AISLAMIEN/ M RESIS/AISLAMIEN/ GR670R1.19R2.40S678S1.02S2.45T672T1.17T2.55
+NOTA: Se deben evaluar los resultados obtenidos en las pruebas de aislamiento realizadas, al motor de desplazamiento horizontal (motor desplazamiento principal), ya que no cumple con la norma ANSI/IEEE43-1974, item 9.3 pagina 14, que dice: Rm= Kv+1. Estos resultados indican, que se debe realizar mantenimiento preventivo a este equipo. 
+  
+Realizó: Mateo Perez - Sergio Areiza.
+Programó: Carlos Andres Forero.
+
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: CARLOS FORERO
+FECHA : 01/02/2018
+
+Se realiza mantenimiento correctivo al motor de desplazamiento principal por presentar bajo aislamiento, realizando las siguientes actividades:
+ se desarmo el motor
+ se realizo lavado del estator y el rotor con dielectico
+ se lubrican los rodamientos 
+ se aplica pintura aislante (glyptal)
+ se arma de nuevo
+
+Despues del mantenimiento realizado se hacen pruebas de aislamiento con una inyeccion de 500VDC, arrojando los siguientes datos:
+
+MOT/DESPLA/ PRINCIPAL VOLTAJE INYECTADORESIS/AISLAMIEN/ M 500 VDCR267R500S270S500T247T500
+Nota: se hacen pruebas de desplazamiento en velocidad uno y velicodad dos, donde el motor responde sin ningun problema, consumiendo una corriente por fase de 11.2 A y un voltaje de 450 VAC. Se entrega el equipo a operacion sin ninguna anomalia. 
+
+Realizó: Jorge Echeverri - Sergio Areiza.
+Programó: Carlos Andres Forero.
+

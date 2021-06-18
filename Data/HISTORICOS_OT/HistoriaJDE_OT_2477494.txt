@@ -1,0 +1,7 @@
+
+FECHA: FEBRERO 23 DE 2014 
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+
+Siendo las 22:55 se presenta disparo por temperatura en el trafo, la temperatura del devanado de baja solo llegó de 60 a 62 aproximadamente, se realizo el procedimiento de mover las agujas del medidor para normalizar el disparo, pero de nuevo se dio disparo al circuito, se retiro el relé KT4 en el tablero del circuito de la subestación, ya que seguía energizado, se cerro el circuito a las 23:24 y se inicia el procedimiento para entrar en servicio los aerogeneradores, el relé KT4 queda retirado ya que continua con la energizacion de la bobina.

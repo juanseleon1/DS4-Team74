@@ -1,0 +1,26 @@
+SEPT 22/2016    OT: 3117239     PROGRAMADOR: VQUINTAS     EJECUTO: J MORALES
+
+SE HIZO EL CAMBIO DE ACEITE SAE 15W40 POR NUEVO Y SE CAMBIARON LOS FILTROS DE ACEITE Y DE COMBUSTIBLE, SE HIZO LIMPIEZA GENERAL AL EQUIPO Y QUEDA EN BUENAS CONDICIONES PARA SU FUNCIONAMIENTO.
+
+SE PIDIÓ AL ALMACEN A01 EL ACEITE SAE 15W40 CANECA DE 5 GL Y 2 CUARTOS MAS PARA HACER EL CAMBIO DE TODO EL ACEITE (LOS CODIGOS DE ALMACEN PARA EL  ACEITE SAE 15W40 EN CANECAS DE 5 GALONES ES 32501 Y CUARTOS 37405) SON . :
+
+
+DESCRIPCIÓN PARA CADA UNA DE LAS LÍNEAS DE LA OR 1403861:
+
+LINEA 1: Filtro de Aceite para Planta Diésel.
+· No 2654407
+· Diámetro exterior: 93 milímetros.
+· Altura: 177 milímetros.
+· Rosca (G): ¾ - 16 UNF
+
+LINEA 2: Filtro de Combustible para Planta Diésel.
+· No 26560143
+· Diámetro exterior: 80 milímetros.
+· Diámetro interior: 22.9 milímetros.
+· Altura: 154 milímetros.
+
+LINEA 3: Filtro de Combustible para Planta Diésel.
+· No 26560145
+· Diámetro exterior: 80 milímetros.
+· Diámetro interior: 22.9 milímetros.
+· Altura: 118 milímetros.

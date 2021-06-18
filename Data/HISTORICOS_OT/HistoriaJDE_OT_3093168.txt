@@ -1,0 +1,14 @@
+2016/04/28 JUAN CARLOS TORO - RUBEN ARBOLEDA
+Se realizó retiro de la bornera X10.2, correspondiente a la llegada con el positivo para disparos por cables BICC en el tablero +KA4, correspondiente al banco 4, éste cable se retiró en compañía de Juan Carlos Toro con el fin de realizar un análisis en laboratorio.
+
+Por el lado derecho de la bornera estaban dos cables: un hilo negro interno y un cable negro de un multiconductor con ficho 747. 
+Por el lado izquierdo estaba un cable negro con ficho 1101
+
+Se retiro de la siguiente manera: 
+            Bornera
+  X10.2
+Cable  1101 -||||||||||||- Cable Negro interno.
+   Cable Negro cable 747, estaba reventado.
+
+Se cortó el cable 1101 y el cable negro interno, los cuales fueron pegados de la bornera
+El cable negro del 747 se cortó a unos 10 centimetros y tambien fue llevado a laboratorio, 

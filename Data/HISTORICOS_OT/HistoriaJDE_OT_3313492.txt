@@ -1,0 +1,43 @@
+- FECHA : LUNES NOVIEMBRE 28 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - DUBÁN HINCAPIÉ 
+- ASOCIADO A LA OT : 3313492
+- ASUNTO : HACER MANTTO MP
+
+
+MANTENIMIENTO ELECTRICO GENERAL  MOTOBOMBAS CENTRAL PLAYAS
+Datos de placa:         P = 24 HP         V =  440 V        I =  31 A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí 
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 2.7 Goh 
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  471.3 v
+       ST =   472.5 v                                                                
+       RT =   473.4 v
+       Corriente de arranque:  
+Fase R = 151.9 a
+       Corriente de marcha:  
+Fase R = 27.5 a
+Fase S =  26.1 a 
+Fase T =   26.7 a                                                                              
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 0.75 a     Calibración térmico de potencia : 63 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = N/A
+
+6. Observaciones: Medida de aislamiento tomada con Megger MIT 420 , se aplicaron 500 Vdc  sin la acometida 
+    * La bomba queda para operar como principal y en estado normal
+    * Aislamiento de la acometida con respecto a tierra : 1.26 Goh

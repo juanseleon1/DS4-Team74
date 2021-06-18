@@ -1,0 +1,2 @@
+2018-10-30 REALIZÓ: EDWAR ALEXANDER LONDOÑO - CESAR TULIO JIMENEZ - RUBEN ARBOLEDA,  PROGRAMO: RARBOLG OT: 3780274, PASO:1          
+Se realizó revisión de la valvula By Pass de la unidad 4, se encontró falla en la bobina 20BP, se realizó el cambio por la bobina de la Unidad 1, adicionalmente se realizo el cambio del relé de salida del computador de Unidad. 

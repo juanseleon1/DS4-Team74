@@ -1,0 +1,7 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016-11-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3222393, PASO:1          
+Se realizó mantenimiento al ventilador S8, ya que éste estaba parado, la OT había salido para el S9, se realizó toma de medidas electricas con los siguientes resultados: CORRIENTE: R:41,7, S:44, T:42,7, VOLTAJES RS:447, ST:448,3, TR:445,9,AISLAMIENTO DE MOTOR: 20,7 M Se realizó limpieza general al motor.TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016-11-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3222393, PASO:1          
+Se realizó mantenimiento al ventilador S8, ya que éste estaba parado, la OT había salido para el S9, se realizó toma de medidas electricas con los siguientes resultados: CORRIENTE: R:41,7, S:44, T:42,7, VOLTAJES RS:447, ST:448,3, TR:445,9,AISLAMIENTO DE MOTOR: 20,7 M Se realizó limpieza general al motor.

@@ -1,0 +1,10 @@
+2015-07-16. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR PORQUE LA VÀLVULA NO ESTA CERRANDO EN LOS PROCESOS DE PARO DE UNIDAD DESDE O.S Y/O TABLERO +TT8.1.
+
+2015/08/28 GIOVANNY DIAZ
+SE REALIZÓ REVISION GENERAL, SE ENOCNTRO FALLA EN LA BOBINA DE CIERRE, SE CAMBIO POR LA BOBINA DE APERTURA Y SE ENVIO A COTIZAR LA FABRICACIÓN DE BOBINAS. 
+
+2016/05/24 GIOVANNY DIAZ - FERNANDO RUIZ 
+Se realizó montaje y adecuación de conexiones (terminales) para la bobina de apertura de la valvula, se dejó en condiciones normales, 
+Para el montaje de la bobina fue necesario lijarla en la parte externa e interna ya que no entraba en el actuador. 

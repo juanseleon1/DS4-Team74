@@ -1,0 +1,9 @@
+MP ANUAL: - 3543 NEUTRO TIERRA U2 TR 
+19/09/2017
+MANTENIMIENTO PREVENTIVO ANUAL
+Se realizó el mantenimiento según el instructivo anual. Se revisó el barraje del neutro, se revisan y se reapretan conexiones, transformador, resistencias de disipación, CT´s  y se realizó limpieza en toda la barra en general.
+
+Nota: en la revision de los CT´s, se halla con recalentamiento el de la fase R. Se cambia por uno nuevo que se encontraba de reserva en el almacen, con igual relacion de transformacion y la misma clase. Quedara en observacion por parte del grupo de operacion. 
+
+Ejecuto: Jonh Mario Morales.
+Programo: Carlos Andres Forero.

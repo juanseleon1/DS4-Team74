@@ -1,0 +1,22 @@
+FECHA: 08/05/2017
+
+DESCRIPCIÓN: EN EL TABLERO DE CONTROL DEL SISTEMA CONTRAINCENDIO SE HA ESTADO PRESENTANDO ALARMA CONSTANTE DE 2 SENSORES DE HUMO PERO NO ES REAL,  SEGÚN PERSONAL TÉCNICO QUE REALIZA MANTENIMIENTO A ESTE SISTEMA ES PROBABLE QUE ESTEN EN FALLA Y DEBEN SER CAMBIADOS; PERO POR SEGURIDAD NO SE HA HECHO ESTA ACTIVIDAD YA QUE ESTAN INSTALADOS EN TABLEROS DE POTENCIA QUE SE ENCUENTRAN ENERGIZADOS.
+LOS SENSORES SON LOS SIGUIENTES:
+SENSOR # 89 TABLERO DE SERVICIOS ESENCIALES.
+SENSOR # 42 CUBICULO PT_DS HAC3
+
+SE REQUIERE REVISIÓN Y/O CAMBIO DE LOS SENSORES ANTES MENCIONADOS.
+
+SOLICITADO POR: NATALIA URREA
+
+10/05/2017
+
+El cambio de los sensores se realizará por oportunidad cuando la planta esta parada, debido a que se necesitan los barrajes desenergizados.
+
+Esteban Vásquez Maldonado.
+
+11/05/2017
+se realiza mantenimiento del sensor 89 y ademas se realiza mantenimiento a los demas sensores de servicios esenciales.
+el sensor 42 de la celda HAC3 fue necesario cambiarlo.
+ejecuto: personal de interfire
+programo : jose montoya

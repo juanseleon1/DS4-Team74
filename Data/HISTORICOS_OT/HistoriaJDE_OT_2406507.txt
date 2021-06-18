@@ -1,0 +1,5 @@
+NOV 1/2013 OT: 2406507 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+Fue cambiado el variador fallado por uno nuevo.
+
+SOLICITANTE: Anderson Garcia Fecha Noviembre 1/2013.
+La Válvula no opera en mando automatico.

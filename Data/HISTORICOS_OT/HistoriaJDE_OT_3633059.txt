@@ -1,0 +1,13 @@
+
+MANTENIMIENTO ANUAL
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+31-10-2017
+PROGRAMADOR JOSE MONTOYA
+ANUAL G41
+03/11/2017
+SE BAJA EL RACK Y SE REALIZA MANTENIMINETO A TODAS LAS TARJETAS Y SE VUELVE A INSTALAR
+CUATRIMESTRAL
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al sensor de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores de posición del distribuidor.
+Se realiza verificación de los mandos de apertura del distribuidor.
+volt distribuidor abierta 8.01vdc cerrada: -8.00vdc

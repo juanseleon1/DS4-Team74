@@ -1,0 +1,6 @@
+OT CREADA PARA REALIZAR EL REMPLAZO DE LAS LÁMPARAS DE ILUMINACIÓN DEL TALLER. 
+
+Se cambio la lasmparas que tenían balasto a 220VAC por Balasto a 120VAC, los balastos anteriores ya no se contaba con reabastecimiento en almacén. 
+
+Realizó: Grupo Mantenimeinto Electrico. 
+Planeo: Ruben Arboleda

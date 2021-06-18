@@ -1,0 +1,20 @@
+15/01/2018
+
+LA INDICACION DE TEMPERATURA DEL SISTEMA 1 EN EL CCM1 PRESENTA OSCILACION DE MEDIDA EN AL TEMPERATURA TIT6 SALIDA AGUA REFRIGERACION.
+
+TURNO 2 OSWALDO LOPERA/CARLOS GUINGUER
+
+
+15/01/2018
+
+Se realiza inspección de la RTD TIT6, se encontro problemas con la compensacion, se realiza ajuste de esta señal y queda en observacion , la indicacion queda en 28°C
+
+Realizado por neiro fabian perez
+Informa  Wtobonl 
+
+TERMINADA CERRAR 
+
+
+
+
+

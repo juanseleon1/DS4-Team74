@@ -1,0 +1,20 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CE UNIDAD 1 R1
+
+SEP 25/2017 PLANEADOR: JGUINGUER EJECUTO: AVILLA
+LOS RESULTADOS ENCONTRADOS COMPARANDO EL PATRON CON EL INSTRUMENTO SE ENCONTRÓ:
+PATRÓN              METAL 1       METAL 2          ACEITE
+0°c                                     0.56°c      0.69°c                  0.23°c
+20°c 20.69°c 20.26°c 19.50°c
+40°c                                   40.67°c             40.18°c 39.49°c
+60°c   60.66°c 60.18°c              59.58°c
+80°c       80.75°c 80.18°c                79.46°c
+100°c 100.56° 100.23°c 99.55°c
+ALARMA TEMPERATURA ACCIONO EN 75°C
+DISPARO TEMPERATURA ACCIONO EN 80°C
+
+
+                 
+
+
+

@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en la toma de muestras de aceite hidráulico perteneciente a los equipos de la central de Guadalupe III
+
+
+Programador: Camilo Montagut - 20/12/2016
+
+Según procedimiento semestral se realiza el muestro de aceites hidráulicos pertenecientes a los cojinetes y estaciones hidráulicas de la central de guadalupe III. Las muestras se envían a EATIC.
+
+La recepción, recopilación y registro de resultados quedan a cargo del ingeniero Gabriel Tamayo  
+
+Nota: tener en cuenta que se debe realizar una ot ruta nativa para el próximo muestreo de aceites cumpliendo con el plan de gestión de activos de la organización
+
+Ejecuta: equipo mantenimiento mecánico UOG

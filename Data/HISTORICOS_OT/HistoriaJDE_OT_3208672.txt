@@ -1,0 +1,12 @@
+2016-09-04 REALIZÓ:    GIOVANNY DIAZ - SEBASTIAN HINCAPIE,  PROGRAMO: SOLIVARE OT: 3208672, PASO:1          
+Se realizó reparación de alumbrado en Edificio Subestación, queda pendiente continuar.
+
+2016-10-04 REALIZÓ: JORGE TAMAYO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3208672, PASO:2 - 2,1          
+Se continuo con la reparación del alumbrado en subestación, se adecuaron las lampras interiores, se cambiaron tubos y balastos, queda pendiente continuar.
+
+2016-10-05 REALIZÓ: JORGE TAMAYO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3208672, PASO:3-3,1          
+Se continuo con la reparación del alumbrado en subestación
+
+2016-10-06 REALIZÓ: JORGE TAMAYO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3208672, PASO:4-4,1          
+Se realizó la reparación del alumbrado externo en subestación, se instalaron bombillos de 160W a 220VAC, se evidenció que la mayoría de las lámparas presentan humedad del agua lluvia, se le aplicó silicona para evitar la humedad
+Se termina la OT.

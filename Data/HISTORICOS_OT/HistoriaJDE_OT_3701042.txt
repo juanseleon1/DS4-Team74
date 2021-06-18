@@ -1,0 +1,13 @@
+
+2018/03/15 _ CARLOS ENRIQUE MONCADA. OT N° 3701042.
+
+Se realiza el cambio de el banco de baterias de la UPS 1 de la sala de comunicaciones de Zona C en Porce 3.
+
+Se hacen pruebas de cargabilidad y autonomia en la UPS registrando buen comportamiento.
+La UPS queda trabajando de manera normal.
+
+Realizo: Grupo Electrico, Grupo Electronico
+
+----------------------
+2018/03/15 _ CARLOS ENRIQUE MONCADA. OT N° 3701042.
+Se crea OT para el cambio de el banco de baterias de la UPS 1 de la sala de comunicaciones de Zona C en Porce 3.

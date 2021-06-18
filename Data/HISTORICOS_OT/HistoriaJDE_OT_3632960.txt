@@ -1,0 +1,10 @@
+10/25/2017 RAMIRO A TORRES
+
+LA SEÑAL U2-6.67 "TEMPERATURA ROTOR" ESTA DESFASADA/PERDIDA. 
+
+
+10/31/2017 Cesar Tulio / Luis Eduardo Arcila
+
+En el regulador de tensión se programa de nuevo los parámetros que calculan la temperatura rotor; si resultados positivos
+Se cambia tarjeta de entradas análogas en el controlador de unidad; sin resultados positivos.
+Queda pendiente el cambio de tarjeta Transducer del Regulador de tensión en la próxima parada de maquina.

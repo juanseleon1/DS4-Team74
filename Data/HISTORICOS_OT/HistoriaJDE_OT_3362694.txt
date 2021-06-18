@@ -1,0 +1,7 @@
+CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+2017-01-17 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3362694, PASO:1         
+ Mantenimiento preventivo Unidad 3, válvula de admisión, se realizó limpieza general a las bobinas de las electroválvulas, se cambio terminal hembra en la electroválvula 20SVO ya que estaba defectuosa, se realizó medida de los sensores, se encontró sensor 33MLVO fallado, se cambio y también el relé relacionado, se dejó en condiciones normales.CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+2017-01-17 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3362694, PASO:1         
+ Mantenimiento preventivo Unidad 3, válvula de admisión, se realizó limpieza general a las bobinas de las electroválvulas, se cambio terminal hembra en la electroválvula 20SVO ya que estaba defectuosa, se realizó medida de los sensores, se encontró sensor 33MLVO fallado, se cambio y también el relé relacionado, se dejó en condiciones normales.

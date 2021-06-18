@@ -1,0 +1,9 @@
+fecha DE TERMINACIÓN: 2017/05/11 ot: 3466754 PROGRAMÓ: CRISTIAN A GÓMEZejecutó: DARIO PUERTA - CAMILO CARDONA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE la estacion  hidraulica Según IDM: GCP2E0017. SE LIMPIA EL TABLERO, SE REAPRETA TORNILLERIA Y SE APLICA LIMPIACONTACTOS. No se encuentran averías en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación
+
+PLANILLA DE REGISTROS:  
+\\Epm-dc07\2000\11. INFORMACIÓN PORCE II\03. MANTENIMIENTO\Informes U1 Porce 2\INFORME U1 P2 2017-05-11\ELÉCTRICO
+
+
+
+MANTENIMIENTO GENERAL REGULADOR HIDRAULICO CENTRAL PORCE 2.

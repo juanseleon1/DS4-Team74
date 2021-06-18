@@ -1,0 +1,13 @@
+MANTENIMIENTO INSTRUMENTACION COJINETE SUPERIOR UNIDADES 3 A 6 GUADALUPE 3
+
+06-04-2016
+PROGRAMO JOSE MONTOYA
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 127.4 mm el nivel patrón es de 132mm.Se agregaron 6 litros 
+
+VIBRACIONES: CSPL: DESCONECTADO
+                           CSPR:9.69VDC SE AJUSTO A 9.22VDC
+                            AXL:10VDC SE AJUSTO A 9.02VDC
+Se inyectan las siguientes señales
+  COJ GUIA SUP °C COJ EMPUJE °C (RTD) TIG BORNES 1-2-3 (RTD) TIG BORNES 37-38-39 (RTD) TIG BORNES 13-14-15 (RTD) TIG BORNES 25-26-27PATRÓN °C ACTE 1 SEG 6   SEG 3 SEG 940 40.2 40.1   40.2 40.460 60.2 60.2   60.2 60.280 80.2 80.1   80.1 80,0ALARMA  70.2 70.1   70,0 70.1DISPARO  80.2 80.1   80.1 80,0La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\CUATRIMESTRALES G3

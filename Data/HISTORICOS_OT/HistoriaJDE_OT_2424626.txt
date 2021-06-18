@@ -1,0 +1,15 @@
+NOVIEMBRE 25/2013
+
+Instalar multiplicador de señal analogico, el cual llevara la señal hacia el PLC de control y se programara en el despliegue del foso de drenajes esta medida analoga para comodidad del operador. cabe anotar que esta medida no llega al sistema de control de la planta, solo se visualiza localmente en el tablero de las bombas de infiltracion.
+Se programara un canal en la +RIO y se escalizara con los diferentes niveles de alarmas y disparos para mejor control por parte del operador.
+
+INFORMA: Uaimer Diaz - Oscar Arango
+EJECUTO:  Francisco Monsalve - Fredy Duarte
+
+26/DICIEMBRE/2013
+Se realizo la instalacion del conversor multiplicador de señal de 4-20mA y se realizo el despliegue en la pantalla de unidad.
+Se realizaron pruebas para comprobar que coincidieran la medida local en el foso y la medida en el control.
+Cabe anotar que esta medida no estaba programada en el control, fue una mejora para que el operador tuviera un visualizacion y alarmas de niveles por alto y bajo.
+
+INFORMA: Uaimer Diaz - Oscar Arango
+EJECUTO:  Francisco Monsalve - Fredy Duarte

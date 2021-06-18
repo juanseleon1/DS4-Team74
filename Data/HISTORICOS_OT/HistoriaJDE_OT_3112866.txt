@@ -1,0 +1,10 @@
+16-05-16 CESAR AUGUSTO HOYOS HEANO.
+Se requiere cambiar el módulo DIMM del trasformador de la fase T de  banco 3. Este módulo fue necesario desmontarlo e instalarlo en la fase S de banco 2. 
+01/06/16 CÉSAR AUGUSTO HOYOS HENAO.
+A la espera de compra de elemento
+
+Se cambia el módulo DIMM quedando el sistema en condiciones normales de operación. 
+Learcilas
+
+
+

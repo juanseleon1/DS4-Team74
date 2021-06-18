@@ -1,0 +1,7 @@
+SOLICITANTE: ELKIN SANTAMARIA - VICTOR LONDOÑO- Fecha: Marzo 23/2015
+EN LA IHM SE OBSERVA "ERROR COMUNICACION" Y EN LOS MONITORES S8 Y S9 DE SALA OPERACION G3 APARECE  "REG. TEN.  ALARMA EXCITACION",  REGULADOR TENSION  GUADALUPE 32.
+
+REFERENTE PANTALLA SALA DE OPERACION
+Desde la estacion de ingenieria se descarga el aplicativo a las dos pantallas de la sala de operacion, puesto que al realizar unos cambios en algunos despliegues las pantallas habian quedado en version error. Se inicia nuevamente el aplicativo y todo queda normal.
+
+Programador: Oscar Arango

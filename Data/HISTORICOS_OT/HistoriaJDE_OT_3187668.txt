@@ -1,0 +1,4 @@
+Fecha: 2016/07/25
+Síntoma: Falla de sensores sísmicos por descarga eléctrica
+Diagnóstico preliminar: Sensores en falla por descarga eléctrica.  
+Reportó: Raúl Mauricio Álvarez Álvarez

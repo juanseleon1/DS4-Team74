@@ -1,0 +1,5 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3.
+
+NOTA: Se reviso la conexion de todas las RTD"S del cojinete de turbina y se aprobecho para cambiar las borneras de tres niveles por bornera de resorte  en la caja de paso que recibe las señales de temperatura de este mismo cojinete, este cambio se hizo con el fin de garantizar un mejor contacto  y evitar oscilaciones en la medida.
+
+Realizo: FRANCISCO GONZALEZ.

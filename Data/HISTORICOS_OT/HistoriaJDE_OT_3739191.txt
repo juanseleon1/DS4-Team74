@@ -1,0 +1,12 @@
+Planeador:642009
+Aprobador:355694
+Fecha de solicitud: 25 de junio de 2018
+Tipo de mantenimiento: Preventivo
+Realizar las siguientes acciones de mantenimiento preventivo:
+ Inspección general del estado de la estación
+ Limpieza de estación
+      Cambio de desecante de gabinete
+ Descarga y verificación de datos de la estación
+ Análisis de datos de estado del datalogger 
+ Verificación de sistema de potencia y puesta a tierra
+ Realización de aforo

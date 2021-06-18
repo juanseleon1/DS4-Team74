@@ -1,0 +1,11 @@
+
+2016-10-05 REALIZÓ: JORGE TAMAYO - SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3269388, PASO:1          
+Se realizó el movimiento del cable de 13,2KV desde el transformador de excitación de la unidad 7 hasta el transformador de excitación de la unidad 6
+
+2016-10-05 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3269388, PASO:2          
+Se realizó la conexión del cable de 13,2KV en el transformador de excitación de la unidad 6, se realizó del regulador de tensión y luego se desconecto el cable y se normalizó el barraje del transformador de excitación.
+2016-10-05 REALIZÓ: JORGE TAMAYO - SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3269388, PASO:1          
+Se realizó el movimiento del cable de 13,2KV desde el transformador de excitación de la unidad 7 hasta el transformador de excitación de la unidad 6
+
+2016-10-05 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3269388, PASO:2          
+Se realizó la conexión del cable de 13,2KV en el transformador de excitación de la unidad 6, se realizó del regulador de tensión y luego se desconecto el cable y se normalizó el barraje del transformador de excitación.

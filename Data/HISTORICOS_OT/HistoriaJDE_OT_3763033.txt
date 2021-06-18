@@ -1,0 +1,22 @@
+
+2018/09/05 OT 3713839  Victor Zuleta / Mauricio Quijano / Luis Eduardo Arcila / Juan David Garcia /Jhonatan Usme
+
+
+PRUEBAS DISPAROS CO2 BANCO 3
+CELDA 7 TRANSFORMADOR FASE R BANCO 3
+Se someten a temperatura el sensor Térmico 059, y se genera humo en el detector de humo 058, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 también actúan las válvulas solenoides.
+Se somete a temperatura el sensor Térmico 055, y se genera humo en el detector de humo 052, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 también actúan las válvulas solenoides.
+Se somete a temperatura el sensor Térmico 049, y se genera humo en el detector de humo 056, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 también actúan las válvulas solenoides.
+CELDA 8 TRANSFORMADOR FASE S BANCO 3
+Se somete a temperatura el sensor Térmico 077, y se genera humo en el detector de humo 084, se generan las dos alarmas y no se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 este si se da el disparo.
+Se somete a temperatura el sensor Térmico 079, y se genera humo en el detector de humo 082, se generan las dos alarmas y no se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 este si se da el disparo.
+Se somete a temperatura el sensor Térmico 075, y se genera humo en el detector de humo 080, se generan las dos alarmas y no se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 este si se da el disparo.
+CELDA 9 TRANSFORMADOR FASE T BANCO 3
+Se somete a temperatura el sensor Térmico 009, y se genera humo en el detector de humo 008, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 también actúan las válvulas solenoides.
+Se somete a temperatura el sensor Térmico 003, y se genera humo en el detector de humo 012, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 también actúan las válvulas solenoides.
+Se somete a temperatura el sensor Térmico 001, y se genera humo en el detector de humo 010, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 también actúan las válvulas solenoides.
+
+En cada ingreso a la celda de los transformadores, se encuentra una estación manual, se realizó pruebas de cada una de ellas (Banco 3 Fase R, S y T) observándose que se da disparo de las válvulas solenoides del banco principal de CO2 y del banco de respaldo.
+En las U5 y U6 se realizó la prueba de las estaciones manuales que se encuentran en cada ingreso del recinto del generador. Se verifico una a una las estaciones manuales garantizando que se da el disparo de las válvulas solenoides del banco principal y luego se verifico el disparo del banco de respaldo.
+NOTA: Se deja el selector del banco principal y respaldo en la posición de respaldo, garantizando que se dan los disparos.
+

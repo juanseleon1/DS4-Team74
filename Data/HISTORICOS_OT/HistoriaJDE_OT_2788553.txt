@@ -1,0 +1,4 @@
+2015/06/07 RUBEN ARBOLEDA - GIOVANNY DIAZ OT: 2788553
+Al momento de arrancar o parar el ventilador S6 en eventos aparece S10, y al momento de arracar el S10 aparece S6 S7. 
+Adicionalemnte al momento de arrancar el S10 con S6 prendido, se para el S6, es necesario rearrancarlo. 
+

@@ -1,0 +1,14 @@
+Planeador: Juan Alejo Osorio Montoya
+Aprobador: Daniel Toscano
+Fecha de creación: 22/05/2017
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa; 
+ Cresta 
+ Talud aguas arriba
+ Talud aguas abajo 
+ Estribos 
+ Vertedero 
+ Compuertas (vertedero o descarga de fondo) 
+ Galerías
+ Taludes y zonas depósito

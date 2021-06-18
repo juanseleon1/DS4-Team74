@@ -1,0 +1,10 @@
+2014/09/09 REPORTO: JUAN CARLOS DUARTE
+
+Buen dia, Favor revisar el comportamiento del prosonic del cojinete de turbina vs. nivel verdadero en el cojinete turbina de la unidad 8, ya que esta presentando fuertes oscilaciones en su nivel,acompañado de perdida de aceite, el dia de hoy oscilo entre 0.141 y 0.190 mm y se adicionaron 80 lts de aceite estando en 70 MW, cabe anotar que a este cojinete se le adiciona constantemente aceite.
+Gracias.
+
+2014/09/18 JORGE GIRALDO
+VERIFICAR MEDIDA REAL CON LA INDICADA,CONEXIONADO,PARAMETROS.
+
+2014/10/19 PROGRAMO MAURICIO QUIJANO
+SE REALIZA SEGUIMIENTO AL NIVEL DEL ACEITE COJINETE DE TURBINA UNIDAD 8, PERO ESTE NO VOLVIO A OSCILAR NI SE LE HA VUELTO ADICIONAR ACEITE.

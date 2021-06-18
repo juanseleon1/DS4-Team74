@@ -1,0 +1,13 @@
+2015/06/05
+
+REVISAR PARO PARCIAL 2 UNIDAD 3 DE PORCE 2 
+Sale alarma limite voltaje /frecuencia activada en el regulador de tension esto debido a baja tensión en barra SAU3
+
+Informa : turno #3 de Operación 
+
+sale por paro parcial 2 . Sale alarma limite voltaje/frecuencia activada en el regulador de tensión , esto debido a baja tension en barra SAU3. Lo que ocasiona disparo en el interruptor del CCM3 (Sstema de refrigeración ) desde el SAU3 Celda N13 Interruptor Q3 , además se fallaron las bombas de los cojinetes combinado y superior , fue necesario arrancar estos sistemas en modo manual ya que no respondieron al comando automático .                Se le informa al Ing Santiago Ramirez                                                                                 Se realiza OT# 2787626 este evento genero una desviacion de aprox 25Mw en el periodo 20
+
+
+Referente a la unidad #3 : estando cargada con 132 Mw pierde la carga se verifica y se encontro que la válvula esferica se cerró intempestivamente, no presento ninguna alarma en la IHM de la unidad y no genero ningun paro , solo se abrió el interruptor de máquina , se procede a generarle un paro normal ya que el regulador de velocidad continuó en funcionamiento. Para normalizar la válvula esferica fue necesario realizar la secuencuia en forma manual en el tablero TCV.                           Se le da condiciones a la unidad y se le realizan pruebas de apertura y cierre de la válvula esférica , se le da un giro mecánico a la unidad y se lleva hasta energizada      Se le informo al Ing Santiago Ramirez                                                                                 Este evento genero una desviación de aprox 70 Mw para el período 22 y 22Mw para el período 23                                                                                                                          Informa : Turno #3 de operación Porce 2 
+
+SABADO 06/06/2015 00:28: Nuevamente la unidad # 3 con 131 Mw pierde la carga por cierre intempestivo de la valvula esferica , Se le informó al Ing santiago Ramirez , el cual decidió dejar la unidad indisponible hasta verificar el sistema de control y las secuencias de apertura y cierre de la valvula esferica en el PLC de la unidad                                                           Informa : Turno #3 de operación Porce 2 

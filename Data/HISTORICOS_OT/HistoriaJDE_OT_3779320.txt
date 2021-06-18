@@ -1,0 +1,10 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DAVISON PEREZ.
+
+Se realiza mantenimiento, limpieza e inspección a los tableros eléctricos, acometidas, motores del sistema de refrigeración de agua cruda y agua tratada. Se realiza medición de aislamiento a los motores (4) y se llenan planillas. Se cambia iluminación en las celdas +N1, +N2, +N3 y +N4. Los equipos se encuentran en condiciones normales.
+
+Trabajo ejecutado por: Davison Perez y Ronal Arango.
+
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

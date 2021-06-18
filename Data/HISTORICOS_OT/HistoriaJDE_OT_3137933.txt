@@ -1,0 +1,16 @@
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+JUNIO 15 DE 2016
+
+MANTENIMIENTO INSTRUMENTACION COJINETE INFERIOR UNIDADES 3 GUADALUPE 3
+
+PROGRAMO UAIMER DIAZ- JOSE MONTOYA
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 274.7mm el nivel patrón es de 290 mm.Se agregaron 7 litros, el nivel queda en 286.
+VIBRACIONES:CIPL:9.06VDC 
+                          CIPR:8.65VDC
+                                 KPH:8.25VDC   
+Se inyectan las siguientes señales
+  COJ GUIA INF °C (RTD) TIG BORNES  (RTD) TIG BORNES  PATRÓN °C ACTE 2 SEG 10  40 41,0 41,0  60 61,0 61,0  80 81,0 81,0  ALARMA  70.1 70.1 DISPARO  80.1 80.1  La información queda consignada en 
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3

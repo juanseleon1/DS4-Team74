@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades que relacionan el paro de la cadena UOG que fue solicitado principalmente para realizar pruebas en las compuertas de la torre de captación de Troneras. 
+
+Estas pruebas se realizaron con la finalidad de verificar la acplicación de los nuevos sellos suministrado por la empresa Hydro Tech.
+
+
+Programador: Camilo Montagut - 28/12/2017
+
+Se realiza las pruebas de cierre de las compuertas planas en la captación de Troneras con los nuevos sellos suministrados por la empresa Hydro Tech. Se tiene en cuenta lubricar los empaques con manteca antes de realizar el cierre y así prevenir un daño de estos con el asiento.
+
+El informe final queda a cargo del ingeniero Gabriel Tamayo Ruiz
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,8 @@
+08/01/2018 SE OBSERVA FUGA DE AGUA EN EL ACCIONAMIENTO DE CIERRE VALVULAS DE CUATRO VÍAS VÁLVULA ESFERICA UNIDAD DOS G3.
+INFORMA: TURNO 1
+
+08/01/2018
+Se corrige fuga de agua en la valvula de 4 vias con el cambio de 2 resortes en el bloque de cierre.
+Nota: se evidencia pase de agua entre las camaras del servomotor al mantener pase de agua constante el drenaje de la camara de apertura en posicion de cierre.
+PROGRAMÓ: SERGIO RAMIREZ
+EJECUTÓ: GOMEZ RODRIGUEZ ANDRES ANTONIO - MORALES QUINTANA RUBEN DARIO

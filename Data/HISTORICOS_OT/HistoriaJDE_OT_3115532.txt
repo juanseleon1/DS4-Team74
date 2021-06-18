@@ -1,0 +1,40 @@
+- FECHA : MIÉRCOLES JUNIO 08 DE 2016
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : MARIO RESTREPO - FRANCISCO QUINTERO
+- ASOCIADO A LA OT : 3115532
+- ASUNTO : HACER MANTTO MP 
+                       * NOTA : LOS DATOS TOMADOS QUEDAN REGISTRADOS EN LA PLANILLA PARA CONTROL DE CALIDAD
+
+Datos de placa:         P = 29Kw    V = 440vac    I = 41,2A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 732 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  480 v
+       ST =  480 v                                                                 
+       RT =  479 v
+       Corriente de arranque:  
+Fase R = 304 a
+       Corriente de marcha:  
+Fase R = 50.2 a
+Fase S =  51.7 a 
+Fase T =  52.1 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 4 AMP.               Calibración térmico potencia : 60 AMP.
+
+4. Funcionamiento control normal: 
+
+5. Horómetro = N.A
+
+6. Observaciones:Observaciones:el equipo utilizado para medir aislamiento fue el MEGGUER MIT 420 con 500VDC durante 30 segundos

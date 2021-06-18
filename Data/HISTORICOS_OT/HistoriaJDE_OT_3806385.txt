@@ -1,0 +1,4 @@
+
+ENERO 25/2019 OT: 3806385  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Desde la noche anterior se presentó una falla en el controlador superior, al revisar el día de hoy en el RFC se encuentra falla en periférico del módulo 4.1; se inspecciona físicamente y se encuentra abierto el fusible del módulo en mención, se corrige y se deja en servicio el aerogenerador.

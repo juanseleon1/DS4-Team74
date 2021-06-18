@@ -1,0 +1,23 @@
+15/10/16
+DESPUES DE ABRIR EL SECCIONADOR DE LA UNIDAD 8 POR REQUERIMIENTO DEL ING CESAR HOYOS, EL SECCIONADOR DE LA UNIDAD 8 SE QUEDO EN POSICION FALLA, FAVOR REVISAR.
+
+2016-10-15 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3280981, PASO:1          
+Se realizó revisión general del estado de la señalización que llega al SCADA, se realizó revisión de los contactos del seccionador, se realizó limpieza y se dejaron en buen estado, para esto fue necesario abrirl el banco 4, adicionalmente se encontró que la entrada al computador de la unidad 8 está llegando el pulso pero no activa la entrada 8.92, el piloto no enciente en la dirección 173, borne 30, queda pendeite realizar revisión o cambio de la señal por parte del grupo de mantenimiento electrónico. Adicionalmente se realizó reparación de la iluminación y calefacción del recinto de interruptor y seccionador ya que no estaba en servicio, tambien se reparó la iluminación de los tableros de control, se dejó en condiciones normales de funcionamiento.
+
+2016/10/15 RUBEN ARBOLEDA, 
+SE REDIRECCIONA LA OT PARA EL GRUPO DE MANTENIMIENTO ELECTRONICO PARA CONTINUAR CON EL TRABAJO.
+
+2016/10/15 CESAR TULIO JIMENEZ JIMENEZ.
+
+ESTA SEÑAL SE ENCONTRABA BLOQUEADA AL CIERRE, PORQUE SE ENCONTRABA EN POSICION FALLA, PARA PODER VER EL INTERRUPTOR CERRADO EN EL SISTEMA.15/10/16
+DESPUES DE ABRIR EL SECCIONADOR DE LA UNIDAD 8 POR REQUERIMIENTO DEL ING CESAR HOYOS, EL SECCIONADOR DE LA UNIDAD 8 SE QUEDO EN POSICION FALLA, FAVOR REVISAR.
+
+2016-10-15 REALIZÓ: FARLEY GIOVANNY DIAZ - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3280981, PASO:1          
+Se realizó revisión general del estado de la señalización que llega al SCADA, se realizó revisión de los contactos del seccionador, se realizó limpieza y se dejaron en buen estado, para esto fue necesario abrirl el banco 4, adicionalmente se encontró que la entrada al computador de la unidad 8 está llegando el pulso pero no activa la entrada 8.92, el piloto no enciente en la dirección 173, borne 30, queda pendeite realizar revisión o cambio de la señal por parte del grupo de mantenimiento electrónico. Adicionalmente se realizó reparación de la iluminación y calefacción del recinto de interruptor y seccionador ya que no estaba en servicio, tambien se reparó la iluminación de los tableros de control, se dejó en condiciones normales de funcionamiento.
+
+2016/10/15 RUBEN ARBOLEDA, 
+SE REDIRECCIONA LA OT PARA EL GRUPO DE MANTENIMIENTO ELECTRONICO PARA CONTINUAR CON EL TRABAJO.
+
+2016/10/15 CESAR TULIO JIMENEZ JIMENEZ.
+
+ESTA SEÑAL SE ENCONTRABA BLOQUEADA AL CIERRE, PORQUE SE ENCONTRABA EN POSICION FALLA, PARA PODER VER EL INTERRUPTOR CERRADO EN EL SISTEMA.

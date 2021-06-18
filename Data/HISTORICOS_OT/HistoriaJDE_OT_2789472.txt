@@ -1,0 +1,2 @@
+2015/06/18 FERNANDO RUIZ - SEBASTIAN HINCAPIE, PROGRAMO: RARBOLG
+Se realizó revision general, medida de sensores inductivos de la valvula, se encontró en condiciones normales.

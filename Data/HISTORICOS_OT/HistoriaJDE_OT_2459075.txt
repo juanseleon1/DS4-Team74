@@ -1,0 +1,12 @@
+2014/05/01 Realizó: Nestor Ramirez - Ivan Suarez
+
+XE:  BUSQUEDA FALLAS DE LAS MOTOBOMBAS DE RESPALDO AGUA CONDENSADA ACAA2 Y AGUA CRUDA ACRAA2 DEL AIRE ACONDICONADO DE CASA MAQUINAS GUATAPE.
+
+Se realizó revision visual de cableado de gaveta y se realizó arranque de ésta motobomba. 
+
+Se encontró en operacion normal. 
+
+No se realizó toma de valores de voltaje ya que el empalme de esta motobomba es con cinta, no facilita su toma de valores. 
+
+
+Planeó: Ruben Arboleda

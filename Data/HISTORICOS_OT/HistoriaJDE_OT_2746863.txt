@@ -1,0 +1,9 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE DEL TERMOMETRO METAL CE R1
+
+ENERO 22/2015 OT: 2746863 PLANEO: WGARCIAC
+ PATRON                             PANTALLA                                DYSPLY     TREETEH
+0°c 0.84 0.8460°c 60 60.58120°c 120 121.82
+Alarma: 80.00°c                                                           Alarma: 106.04°c
+Disparo: 95.61°c                                                          Disparo: 127.82°c 
+NOTA: OT PARA SEGUIMIENTO METROLOGICO

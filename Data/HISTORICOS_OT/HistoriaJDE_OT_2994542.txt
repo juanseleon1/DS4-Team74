@@ -1,0 +1,9 @@
+2016/04/20 
+
+Grupo de mantenimiento electrónico: 
+Se Realiza un back up del software del computador.
+Limpieza de tarjetas.
+Se verifica voltajes de fuentes y funcionamiento en general.
+se realiza pruebas de entradas y salidas en el computador generandolas desde cada elemento.
+
+learcilas

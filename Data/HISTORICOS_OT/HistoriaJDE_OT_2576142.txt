@@ -1,0 +1,6 @@
+
+FECHA:  AGOSTO 02 DE  2014
+
+EJECUTO:    PEDRO ROBAYO
+
+Se abre el circuito 742 cuestecitas Jepirachi  alas 22:36 y sus tres interruptores se abrieron  se restablece alas 22:55 pero alas 22:57 vuelve y se abre pero en esta ocasión no se abrieron los interruptores se da re cierre a las 23:03  a las 23;25 vuelve y se abre el circuito se restablece alas 23:32  y se inicia con el reset a todos los AG quedando en servicio  los 14 AG

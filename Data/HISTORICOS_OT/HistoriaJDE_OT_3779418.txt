@@ -1,0 +1,34 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO.
+
+Después de realizar todas las medidas de seguridad se realiza verificación y limpieza al tablero TA02, se revisan y limpian las celdas de los transformadores monofásicos secos, se realizan pruebas de resistencia de aislamiento obteniendo los siguientes resultados:
+FASE R
+Resistencia de aislamiento:
+H1=96.1 G (515 VDC)
+H2=281 G.(515 VDC)
+Resistencia óhmica:
+H2= 513,8 m (10 miliamperios)
+H1=533.3 m (10 miliamperios)
+
+FASE S
+Resistencia de aislamiento:
+H1=128.3 G.(515 VDC9
+H2= 350 G (515 VDC)
+Resistencia óhmica:
+H1=496.1 m (10 miliamperios)
+H2=502.6 m (10 miliamperios)
+
+FASE T
+Resistencia de aislamiento:
+H1=783 G.(514 VDC)
+H2=27.4 G (515 VDC)
+Resistencia óhmica:
+H1=522.3 m (10 miliamperios)
+H2=484.4 m (10 miliamperios)
+
+Se conectan nuevamente los transformadores a sus barras, se verifica torque de las conexiones, se realiza mantenimiento al interruptor de 480 V, se realiza mantenimiento al interruptor de puesta a tierra, se revisa buen estado de tornillería y conexiones.
+Trabajo ejecutado por: Jhon jader Orrego, Frank Manuel y Camilo Cardona.
+
+XE: INSPECCIÓN Y LIMPIEZA TRANSFORMADOR SER AUX TA01-02 DE LAS UNIDADES
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

@@ -1,0 +1,195 @@
+
+ABRIL 19/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANIEL MUÑOZ
+JOAN GOMEZ
+CARLOS GUTIERREZ
+WILSON CANO 
+PEDRO ROBAYO
+
+Se tienden los 12 cables de potencia subterráneos entre tablero de potencia y caseta de transformación, se conectan del lado del Main Switch, también se corta el cable de 25 hilos y el de 5 hilos y se dejan en la base del aerogenerador.
+
+
+ABRIL 20/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ELIECER PUSHAINA
+JOAN GOMEZ
+CARLOS GUTIERREZ
+
+Se organizan los cables de potencia en la estación de transformación y se conectan en el Trafo.
+
+
+
+ABRIL 21/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANIEL MUÑOZ
+JOAN GOMEZ
+CARLOS GUTIERREZ
+
+Se cortan y se conectan los 6 cables, 3 de No. 2 y 3 No.6, que salen de la parte baja del Main Switch, al portafusibles 19F4 y al DPS en la parte trasera del tablero, se alimenta la maquina por el transformador auxiliar.
+
+
+ABRIL 22/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANIEL MUÑOZ
+JOAN GOMEZ
+CARLOS GUTIERREZ
+HENRY GIRALDO
+
+Se instalan los cables de 25 y 5 hilos y se conectan en ambos extremos, queda energizada la Top Box, se coloca manualmente la yaw a -90°
+
+
+
+
+
+
+
+
+ABRIL 23/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANIEL MUÑOZ
+JOAN GOMEZ
+CARLOS GUTIERREZ
+HENRY GIRALDO
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+
+Se instalan los 9 cables rígidos de potencia al interior de la torre.
+
+
+ABRIL 24/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANIEL MUÑOZ
+JOAN GOMEZ
+CARLOS GUTIERREZ
+HENRY GIRALDO
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+
+Se instalan los 9 cables flexibles de potencia entre Top Box y empalme de en sección de 36 metros.
+
+
+ABRIL 25/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+WILSON CANO
+DANY SANAMARIA
+DANIEL MUÑOZ
+JOAN GOMEZ
+
+Se empalman los cables rígidos y flexibles en la plataforma de 36 metros.
+Se conectan los cables rígidos en el contactor del Bypass.
+
+
+
+MAYO 09/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+WILSON CANO
+DANY SANAMARIA
+JOAN GOMEZ
+CARLOS GUTIERREZ
+
+Preparar elementos para armar contactor nuevo (17K2) cables de conexión entre tablero y generador.
+Empezar a conectar cables y barras de potencia en los tableros de la Bottom Box.
+
+
+
+
+
+
+
+MAYO 17/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+DANIEL MUÑOZ
+JOAN GOMEZ
+CARLOS GUTIERREZ
+
+Se terminan de realizar las conexiones faltantes en el tablero de potencia de la Bottom Box: Barra L3 tiristores, tierras Trafo, empalmes y conexiones en los condensadores.
+
+
+MAYO 18/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Se coloca un anemómetro y veleta nuevos, fue necesario cambiar el soporte ya que se encontraba muy deteriorado, se colocan 3 fusibles nuevos en el circuito del G2, se asegura la tapa del tablero de conexiones del generador.
+
+
+MAYO 20/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+CARLOS VALDELAMAR
+HENRY GIRALDO
+
+Se realizan pruebas de comunicación entre controladores, pero no se ha podido dejar en Run el RFC.
+
+
+MAYO 22/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+DANIEL MUÑOZ
+ELIECER PUSHAINA
+
+Se cambian los retenedores y pastas a los frenos de la yaw.
+
+
+MAYO 31/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+GERMAN ECHAVARRIA
+HENRY GIRALDO
+
+Se organizan las conexiones en los conectores de los convertidores de fibra óptica y se deja el aerogenerador en RUN.
+
+
+
+
+
+
+
+JUNIO 12/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+GERMAN ECHAVARRIA
+CLAUDIA ESLAVA
+WILSON CANO
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+PEDRO ROBAYO
+DANY SANTAMARIA
+JONATHAN DUQUE
+
+Se desciende hacia la punta del tip para cambiar la guaya, pero al momento de sacar el pasador toco jalar un poco la guaya y nos dimos cuenta que el tip se cerraba por lo cual no era el problema de la guaya.
+
+Se hace el aseo general y se le colocan las correas en los cables que bajan al tambor.
+
+
+
+JUNIO 13/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+ELIECER PUSHAINA
+JONATHAN DUQUE
+
+Se hace el cambio de un retenedor que hacía falta en un cilindro que opera el tip, Se drena el sistema de los tip y el sistema de los frenos.
+
+
+JUNIO 14/2018 OT: 3716901  PROGRAMÓ: HGIRALRI
+
+EJECUTÓ: 
+ALVARITO PUSHAINA
+HENRY GIRALDO
+
+Después de 20 minutos, aproximadamente, de entrar en servicio el aerogenerador se falla por sobre corriente en la bomba del agua, se procede a revisar y se encuentra la bomba pegada, se procede a realizar el cambio del conjunto completo (bomba, motor y tanque) se realizan pruebas y se deja en servicio el aerogenerador.
+

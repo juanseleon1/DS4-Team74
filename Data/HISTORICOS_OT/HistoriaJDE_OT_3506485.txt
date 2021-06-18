@@ -1,0 +1,8 @@
+
+2017/06/06 DIEGO BEDOYA
+Se realiza el cambio de los 10 filtros MAHLE, debido a constantes alarmas de estos filtros.
+El trabajo fue realizado por Orlando Zuleta.
+
+NOVIEMBRE 21 DE 2017 
+OT CERRADA 
+ANDRES RAMIREZ 

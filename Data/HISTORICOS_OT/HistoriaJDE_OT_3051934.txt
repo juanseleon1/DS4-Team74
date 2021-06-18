@@ -1,0 +1,20 @@
+SOLICITANTE:PEDROROBAYO
+FECHA:MARZO 16-2016
+EJECUTANTE: ELIECER, ELISAUL Y PROBAYO
+
+
+
+MARZO 16 TIEMPO 2 HORAS 2 PERSONAS
+Se sube al AG11 y se toman medidas de aislamiento al generador dando los siguientes  valores fase L1 256 M ohmios fase L2 314 M ohmios Fase L3 304 M ohmios  se hace otro ensayo y vuelve a salir por corrientes asimetricas 
+
+
+MARZO 18 TIEMPO 6 HORAS 2 PERSONAS 
+
+
+Se baja contactor 24K1 del AG3 y se le hace mantenimiento, luego se sube al AG11y re hace el cambio por el 17K1 para descartar problemas sobre alarma de corrientes asimetricas y nuevamente se desconectan cables y se hace una prueba de aislamiento dando valores en dos cables con lectura de 4.5 MOHMIOS   y se hace una prueba  alas 19:27 pm Y sale nuevamente por corrientes asimetricas .
+
+
+MARZO 19 TIEMPO 6 HORAS 3 PERSONAS 
+
+
+Se sube al AG11 y se inicia con el desacople de las piezas para llegar al devanado y mirar que se puede observar y se encontro que estaba el devanado con bastrante grasa sobrante del rodamiento se limpia esa grasa y se deja pendiente para aprovechar el cambio de rodamiento delantero 

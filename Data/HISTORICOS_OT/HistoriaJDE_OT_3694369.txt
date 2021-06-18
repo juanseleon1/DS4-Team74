@@ -1,0 +1,17 @@
+
+PLANEADOR:CESAR GIRALDO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+Los siguiente informacion se requiere para la puesta en servicio del compresor #2.
+
+ Caracteristicas tecncias del equipo (potencia, voltaje , corrietes)
+ Informacion del equipo, contactar con sergio ramirez o Gabriel Tamayo.
+ elaborar plano de potencia y control que identifique las señale de falla, arranque y paro del compresor.
+ calibre y cantidad en metros, cable de potencia.
+ calibre y cantidad en metros, cable de control.
+ lista de materiales para sistema portacable y sistema de fijación.
+
+AGOSTO 18 DE 2018
+Se realiza las respectivas instalaciones electricas al compresor que quedará trabajando para los servicios auxiliares y los reguladores de las unidades de generación, se hizo la vericificación del sentido de giro, corrientes de arranque, de trabajo y revisión del correcto funcionamiento del compresor.
+Programó: William Lopera.

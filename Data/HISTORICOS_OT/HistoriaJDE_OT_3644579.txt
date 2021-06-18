@@ -1,0 +1,30 @@
+ESTA OT SE GENERA PARA EL CAMBIO DE CONTROL DE LAS BOMBAS DEL POZO DE DRENAJES (CCM4).
+
+
+21/11/2017
+
+Se inician las modificaciones en el sistema de control del tablero CCM4, se instala y adecua el RACK del PLC, se inicia la verifiacion de las señales segun protocolo de pruebas.
+
+Realizado por Wtobonl
+
+21/11/2017
+
+Se continua con las pruebas y ajustes en el sistema del CCM4, se configura e instala el nuevo programa , se inicia pruebas en manual con las bombas VPI2 y VTA2, devido a que las bombas VPI1 y VTA1 se encuentran con problemas mecanicos. las bombas se quedan en modo automatico trabajando con la medida de nivel por sonda en los siguientes valores.
+
+nivel 1   valor 1.7 metros  paro de bombas 
+nivel 2   valor 2.1 metros  arranque bomba VPI-2
+nivel 5   valor 3.8 metros  arranque bomba VTA-2
+
+
+
+Realizado por Wtobonl
+
+
+
+
+25/11/2017
+
+Control Foso de Infiltraciones CCM4: Se habilitan las bombas VPI 2 Y VTA 2 en modo automático con el control por nivel , además se cambian los flotadores de nivel 2 y nivel 3 , se espera que el personal mecánico instalen las bombas VPI 1 y VTA1 para poder continuar con las pruebas del nuevo control                                                                     
+                                                                                             
+
+Realizado por Wtobonl

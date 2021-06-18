@@ -1,0 +1,8 @@
+25/03/2016 - 22:52.
+Se presentó alarma por filtro obstruido y nivel alto del filtro 2, se verificó y se encontraron las duchas obstruidas pero el filtro sin movimiento a pesar de que el motor se encuentra en funcionamiento.
+
+Informa Elkin Santa Maria - Mauricio Caicedo - Wilson Arango .
+
+Nota: el piñon que transmite el movimiento al filtro se le cayó la cuña, por tal motivo el motor funcionaba pero no se movia.
+Se procedio a retirar el piñon y a montarle la cuña faltante.
+Se limpiaron las duchas quedando el filtro en normal funcionamiento

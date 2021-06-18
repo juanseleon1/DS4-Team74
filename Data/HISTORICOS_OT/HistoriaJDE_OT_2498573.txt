@@ -1,0 +1,12 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FECHA: ABRIL 01-2014
+
+
+OT´S DEL CUATRIMESTRAL QUE SE EJECUTA DENTRO DEL CAMBIO DE POLOS DE LA UNIDAD
+
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4
+09-05-2014
+SE REALIZA TRIMESTRAL
+Se realiza mantenimiento al tablero de control del regulador hidráulico, revisando el estado de los arrancadores suaves, el PLC, el correcto funcionamiento del aire acondicionado y la pantalla de visualización gráfica, todo esto sin novedades.
+Se realiza verificación y limpieza a los instrumentos de nivel y temperatura asociados al regulador, ubicados en el tanque sumidero y acumulador

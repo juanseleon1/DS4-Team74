@@ -1,0 +1,23 @@
+FECHA: Septiembre 27/2018PROGRAMO: Daniel PalaciosEJECUTO:John Jader Orrego, Frank Córdoba, Julián Camilo Giraldo
+
+Se realiza inspección visual y limpieza del barraje y cables secos y terminales de MT, se verifica el buen estado de las puestas a tierra, cableado, conexiones y componentes eléctricos, se verifica el buen funcionamiento de la calefacción y de los extractores de aire, se aspira y se hace limpieza a las bobinas del transformador, se aspira y se hace limpieza interna y externa al cubículo del transformador. Se realizan pruebas de aislamiento utilizando equipo de medida de aislamiento marca MEGGER, dando los siguientes resultados:
+
+BOBINA DE ALTA CON BOBINA DE BAJA (5107 VDC)
+2U - R = 10.94 G
+2V - S= 12.65 G.
+2W - T= 14.0 G.
+
+BOBINA DE BAJA CON TIERRA (5106 VDC)
+R= 12.98 G.
+S= 13.58 G.
+T= 12.01 G.
+
+BOBINA DE ALTA CON TIERRA (5106 VDC)
+R= 7.60 G
+S= 8.04 G.
+T= 8.48 G.
+Trabajo ejecutado por: John Jader Orrego, Frank Córdoba, Julián Camilo Giraldo
+
+FECHA:26 Y 27 DE SEPTIEMBRE DEL 2018 PLANEADOR:LUIS FEDERICO ALVAREZ ALVAREZ, PROGRAMADOR: DANIEL PALACIOS.
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y LIMPIEZA DEL TRANSFORMADOR DE POTENCIA, Y CELDA DE TRAFO, SE INSPECCIONAN VISUALMENTE LOS DEVANADOS, BORNES Y CONEXIONES,TERMINALES DE MEDIA TENSION Y SE LIMPIAN CON ALCOHOL INDUSTRIAL, TAMBIEN SE VERIFICAN EL BUEN FUNCIONAMIENTO DE LOS VENTILADORES INFERIORES Y SUPERIORES DE ENFRIAMIENTO, Y LAS BARRAS DE NEUTRO FASES Y CONEXION A TIERRA, SE DEBEN DESCONECTAR TODOS LOS DEVANADO Y REALIZAR LAS PRUEBAS ELECTRICAS DE RUTINA Y REGISTRAR LOS DATOS OBTENIDOS.

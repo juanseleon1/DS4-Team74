@@ -1,0 +1,5 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 10-05-2018
+Tipo de mantenimiento: Factores de conversión.
+Acciones de mantenimiento: Realizar lectura de mira en la estación y lectura de Shaft encoder cada diez minutos.

@@ -1,0 +1,13 @@
+27/06/2018
+Se crea ot para la instalñacion de los senores de posicion de la compuerta de descarga de fondo en la presa porce 2.
+
+Néstor Fabián Ochoa.
+
+02/08/2018.
+la ot se deja en estado 35, porque se está realizando una modificacion al sitema de levas de la compuerta. 
+para continuar con el montaje de los finales de carrera.
+
+21/12/2018
+se adelanta toda la logística para la instalación de los sensores, se consigen los materiales y se instalan borneras a la caja de empalme que se va a instalar en la descarga de fondo. 
+se cierra ot con tiempos correspondientes a los trabajos realizados para cerrar orden y se crea solicitud en maxímo para continuar el trabajo. 
+Nestor fabian ochoa.

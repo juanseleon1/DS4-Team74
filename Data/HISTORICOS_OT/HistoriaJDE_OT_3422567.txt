@@ -1,0 +1,9 @@
+FECHA: MARZO 14/2017PROGRAMO: DANIEL PALACIOSEJECUTO: JORGE MUÑOZ.
+Se realiza mantenimiento al cargador de baterias y baterias de la minicentral, se llenan formatos de toma de medidas a baterias.
+
+OT PADRE: 3419087
+PLANEADOR: RMONTOYG
+FECHA: 14/03/2017
+PROGRAMADOR: DANIEL PALACIOS
+
+REALIZAR MANTENIMIENTO ANUAL A LA MINI CENTRAL DE PORCE 3

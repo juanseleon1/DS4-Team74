@@ -1,0 +1,21 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento correctivo que comprende la adecuación y restablecimiento de la operación sin fuga alguna de la compuerta radial # 4 de la bocatoma
+
+
+
+ Programador: Camilo Montagut - 29/11/2016
+Se realiza la adecuación mecánica de un nuevo sistema de sellado en la compuerta radial. El resultado evidenció el buen trabajo interdisciplinar de los equipos mecánico, eléctrico y electrónico de la Unidad Operaciones Guadalupe.
+Para mayor información remitirse al siguiente link del servidor:
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\3-Mantto Mecánico\03-Guadalupe 3 Mecánico\11 BOCATOMA\2016-11-05 cambio empaque compuerta #4
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+Programador: Camilo Montagut - 11/08/2016
+Hasta el momento se han fabricado en el taller industrial de los Cedros los pisadores para la disposición del empaque en la compuerta radial. Se está en espera de la llegada del empaque tipo "F"
+Ejecuta: equipo mantenimiento mecánico UOG
+
+
+
+
+
+
+

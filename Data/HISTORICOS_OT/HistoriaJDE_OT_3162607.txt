@@ -1,0 +1,2 @@
+2016/12/20 RUBEN ARBOLEDA
+No se ejecutó por falta de recurso, se generó la otra OT automatica #: 3289718, se pretende ejecutar esta nueva OT, se cierra esta OT sin costos

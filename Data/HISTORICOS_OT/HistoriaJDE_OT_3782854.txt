@@ -1,0 +1,12 @@
+FECHA: 17/10/2018    SOLICITADO POR: Natalia Urrea- Geovanny Echeverri- Operación G3
+FALLA EN SISTEMA GENERAL DEL SISTEMA CONTRA INCENDIO G3
+se encuentra reporte de averia en el panel Notifier por falla en lazo de comunicaciones sistema general 
+Se realiza mantenimeinto al lazo y se realiza cambio del modulo # 054,  se restablece el sistema  
+
+SISTEMA CONTRA INCENDIO C/M G3:
+
+Se realiza prueba cuatrimestral a los dispositivos de los tableros críticos, estaciones manuales, detectores de humo, luces estroboscópicas, cabezales eléctricos, swith de flujo y módulos de control, se restablece el sistema y queda en funcionamiento normal. Nota: para evitar una falsa descarga se deja desconectado los cabezales principales de los tableros críticos unidades 1,2,3,4,5y6 y se dejan conectados los de reserva, en caso de emergencia se debe pasar el selector de principal a reserva.
+
+Edgar N , Duvan C. Interfire S.A.S "
+
+ 

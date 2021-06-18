@@ -1,0 +1,11 @@
+24/05/2016
+
+REFERENTE A LA UNIDAD # 1
+
+
+se da paro rápido con 135 MW a las 5:19 , por falla eléctrica en las dos bombas de refrigeración cojinete combinado.se da reset a la unidad y se sincroniza nuevamente a las 5:50, se carga con 135 MW. 
+
+fecha: 24/05/2016, OT # 3121807, PROGRAMO R JIMENEZ, OLGA VIANA
+SE REALIZA INSPECION DEL TABLERO Y EQUIPOS DE SUBSISTEMA ENCONTRADOSE EN CONDIONES NORMALES, SE REVISAN CONTACTORES, RELES Y GUARDAMOTORES Y SE HACEN PRUBAS A LOS MOTORES.
+
+ 

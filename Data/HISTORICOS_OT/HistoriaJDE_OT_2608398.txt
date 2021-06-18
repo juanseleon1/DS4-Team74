@@ -1,0 +1,7 @@
+FALLA INTERBUS.
+
+Se  hace cambio de los siguientes módulos:
+
+2 AI
+1 AO
+2 DI 

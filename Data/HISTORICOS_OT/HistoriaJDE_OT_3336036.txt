@@ -1,0 +1,13 @@
+AJUSTAR ALARMAS Y DISPAROS.
+REVISION GENERAL DE LAS RTD
+
+14/12/16 OT: 3336036 PLANEO: WGARCIAC EJECUTÓ: VILLA
+SE REALIZÓ INYECCIÓN DE SEÑAL DE TEMPERATURA CON EL CALIBRADOR DE PROCESOS AL COJINETE LADO TURBINA 
+Temperatura Metal Cojinete TurbinaPatrón 20 °C 50 °C 100 °CEquipo 19,72 °C 50,13 °C 101,16 °CAlarma: 75 °C
+Disparo: 80 °C
+Temperatura Aceite Cojinete TurbinaPatrón 20 °C 50 °C 100 °CEquipo 19,83 °C 50,45 °C 101,49 °CAlarma: 64 °C
+Disparo: 69°C
+Temperatura Metal Axial TurbinaPatrón 20 °C 50 °C 100 °CEquipo 20,58 °C 51,31 °C 102,3 °CAlarma: 75 °C
+Disparo: 80 °C
+Temperatura Metal Axial TurbinaPatrón 20 °C 50 °C 100 °CEquipo 20,69 °C 51,31 °C 102,35 °CAlarma: 75 °C
+Disparo: 80 °C

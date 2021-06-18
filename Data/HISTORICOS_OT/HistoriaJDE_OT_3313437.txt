@@ -1,0 +1,5 @@
+XE: REVISION Y MEDIR MOTOBOMBAS REGULADOR HIDRAULICO
+
+JORGE ALIRIO HERNADEZ QUINTERO 24/11/2016 OT 3313437
+
+Se hace mantto eléctrico y limpieza a la bomba 1 de la estación hidráulica, se le aplica limpia contactos, se revisa y reaprieta los bornes de alimentación, se hacen pruebas de arranque y funcionamiento y se toman los valores de corriente de arranque y corriente de régimen de trabajo, así como la caída de voltaje, también se realiza prueba aislamiento el motor, los datos están en la planilla registro de mantenimiento revisión general de motores.

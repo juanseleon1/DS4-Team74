@@ -1,0 +1,4 @@
+2018/04/09 OT:3709693 Luis Eduardo Arcila
+Mantenimiento general
+Limpieza de los tableros de tiristores y barraje, Torque a las borneras.
+

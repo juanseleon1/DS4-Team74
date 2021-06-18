@@ -1,0 +1,13 @@
+PLANEADOR: JTOBONC, 2017-12-11
+LAVAR INTERCAMBIADOR 2  Y FILTRO AUTOLIMPIANTE REFRIGERACIÓN UNIDAD 2.
+
+PROGRAMADOR:JTOBONC, 2017-12-11
+
+Referente al sistema de intercambiador de calor #1 de la unidad #1.
+Se realiza el lavado del filtro y de las placas del sistema, se normaliza y se hace entrega a operación.
+Horometro agua cruda refrigeración unidad #1 4757445.
+Horometro agua tratada refrigeración unidad # 1. 4808961
+Trabajo realizado por: Deiby Baena y Luis Morales.
+
+
+

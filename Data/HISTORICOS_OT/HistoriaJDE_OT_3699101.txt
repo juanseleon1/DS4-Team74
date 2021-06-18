@@ -1,0 +1,18 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3699101.
+Se realiza mantenimiento general, limpieza y verificación al tablero del regulador de Velocidad de la MINICENTRAL P3.
+Se verifica conexionado y todas las señales del equipo, se realizan pruebas observando comportamiento normal
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizo: Eladio Piedrahita, Neiro Fabian Pérez
+
+
+-----------------
+PLANEADOR: RMONTOYG
+PROGRAMADOR: CARLOS MONCADA
+FECHA: 14/03/2018
+CONSIGNACIÓN: @180304
+OT PADRE: 3698544
+
+REALIZAR MANTENIMIENTO SEMESTRAL AL REGULADOR DE VELOCIDAD MCH P3

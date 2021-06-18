@@ -1,0 +1,21 @@
+28 DE ENERO DE 2018 IVAN DARIO ZAPATA GOMEZ
+SE REALIZA ARRANQUE MANUAL A LA PLANTA DE EMERGENCIA DE LA CENTRAL TRONERAS Y SE OBSERVA QUE TRABAJA POR ESPACIO DE DOS MINUTOS Y SE APAGA; EN EL TERCER INTENTO YA NO PRENDE.
+INFORMA CARLOS TORRES
+
+PLANEADOR:OSCAR RESTREPO ALAVREZ
+
+PROGRAMADORES:JUAN CAICEDO/CAMILO MONTAGUT
+
+ENERO 28 DE 2018
+
+
+FEBRERO 07 DE 2018
+
+
+Se procede a realizar arranque a la planta Diesel para prueba periódica semanal y al momento de establecer el espacio para tomar valores se apaga; se procede a realizar otro intento, pero ya no responde. se le informa al centro de control y al ingeniero Oscar Restrepo sobre lo ocurrido.
+Se genera solicitud Nº3678022.
+Se atiende requerimiento planta diésel, se verifica alimentación DC, el estado de filtros, aire en el sistema y entrada de ACPM; encontrando obstruido el filtro de la entrada principal de ACPM y observando suciedad en el combustible, se procede a sopletear el PETER (filtro) de entrada, se normaliza el sistema y se realizan pruebas; Se le da arranque en vacío con espacio de 10 minutos, luego con carga por espacio de 30 minutos. 
+Se deja la planta en condiciones operativas.
+Nota: Se recomienda instalar un filtro entre salida tanque ACPM y planta Diesel.
+Atendieron: Juan Felipe Osorio, Alveiro Fernández, Robinson Arango, Jorge Echeverri, Gabriel Montaño, Carlos Torres.
+Informó: Carlos Torres.

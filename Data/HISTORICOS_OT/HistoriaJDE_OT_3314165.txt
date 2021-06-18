@@ -1,0 +1,8 @@
+PREVENTIVO ELECTRICO LUBRICACION FORZADA GENERADOR GUADALUPE III
+
+William Albeiro Lopera Correa
+
+Se realizó el mantenimiento general al tablero de control y motores
+Fueron realizadas las pruebas eléctricas a los motores.
+Ver registros en archivo de Guadalupe tres.
+Se hace OT porque no está en el MP automática.

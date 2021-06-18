@@ -1,0 +1,2 @@
+18/02/2015 
+Desde hace varios veces NO es posible rebajar porcentaje al generador Asincrónico en ambos modos de Control, ya que al dar el pulso o consigna a bajar éste se da una secuencia de paro incluyendo cierre de válvula.

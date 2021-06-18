@@ -1,0 +1,7 @@
+11/10/2018 
+Sale de sincronismo con 135 MW por falla del PLC
+
+
+11/10/2018
+se encuentra fallada la memoria y la CPU de la unidad, se apaga y se prende de nuevo el PLC pero este no borra la falla en la memoria, se cambia memoria RAM que se tenía de repuesto y se le carga el programa, se buscan condiciones de grupo listo y se arranca la unidad nuevamente, se gira observándose un buen comportamiento de todos los subsistemas de la máquina, se sincroniza a las 20:04 y se carga con 135 MW. Este evento genero una desviación de 61 MW. Queda una memoria RAM en un RACK provisional, con el programa de la unidad 1 por si falla nuevamente la memoria RAM que se instaló. 
+Realizan: Néstor Ochoa - Iván Ramírez - Jorge Rodriguez

@@ -1,0 +1,15 @@
+LA VALVULA QUE DA MANDO AL DISTRIBUIDOR DE LA UNIDAD Nro 2 G4 PRESENTA FUNCIONAMIENTO ANORMAL,OCACIONANDO MOVIMIENTO CONTINUO EN EL DISTRIBUIDOR Y OPERACION DE LA VALVULA DE ALIVIO.
+
+24/05/2017
+OSCILACION VALVULA DISTRIBUIDORA
+
+Cambiar el sensor de posicion de la valvula Distribuidora e instalar un nuevo soporte para dicho sensor. Se deben calibrar nuevamente los lazos de control del distribuidor y la valvula distribuidora.
+
+Oscar Arango
+
+25/05/2017
+se cambia sensor de posiscion de la valvula distribuidora que se encuentra deteriorado,en los bornes B67 y B68 queda registrando 1.8v para la posicion de cerrada y 3.7v para la pasocion abierta, luego se cambia targeta AMP2 y se calibra de nuevo la targeta,  queda ajustada en borne 142 y tierra -8.02 en la posicion cerrada y 9.1 en posicion abierta para valvula distribuidora.
+se calibra de nuevo la posicion del distribuidor en borne 143 queda con un valor de -8.01v posicion de cerrada y 7.98v posicion abierta.
+se gira la maquina y queda operando bien.
+ejecuto: grupo mantenimiento 
+informo : jose montoya

@@ -1,0 +1,5 @@
+
+JULIO 02 DE 2018 OT: 3741173  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+
+Se presenta falla corriente tiristor L2 al tratar de trabajar con el G2, se inspecciona el tablero de potencia superior, se observa la fase L2 del G2 suelta del porta fusible del contactor 18K2, se procede a cambiar los portafusibles y se conectan los cables adecuadamente, se coloca la platina original bajada del AG4. Se deja en servicio el aerogenerador.

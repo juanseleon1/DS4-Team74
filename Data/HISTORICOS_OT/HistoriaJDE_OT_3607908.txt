@@ -1,0 +1,2 @@
+2017-10-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - CARLOS SALAZAR (OPERADOR),  PROGRAMO: RARBOLG OT: 3607908, PASO:1          
+Se realizó mantenimiento al motor de motobomba 2 hidraulica discipad    CORRIENTE: R:13,8, S:13,2, T:13,5, VOLTAJES RS:204,9, ST:204,3, TR:204,7,TEMPERATURA MAXIMA DE MOTOR °C no se le realiza arranque desde el control por fall en el PLC

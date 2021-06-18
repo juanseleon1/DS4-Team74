@@ -1,0 +1,10 @@
+PLANEADOR,PROGRAMADOR:JTOBONC 2015-07-07
+
+REALIZAR MANTENIMIENTO MECANICO AL COMPRESOR 1 DE SERVICIOS GENERALES DE LAS 22000 HORAS
+
+NOTA:
+
+Se realiza mantenimiento al compresor de servicios generales #1 , al cual se le cambian filtros de aire , aceite y separador , se petroliza radiador y se revisa electroválvula , se realizan pruebas y se entrega a operación quedando en condiciones normales .                                                                                                     Realizó : Equipo de operación y mantenimiento      Informa: Carlos Guinguer 
+
+HOROMETRO TOTAL: 22675H
+HORAS DE TRABAJO: 9710H

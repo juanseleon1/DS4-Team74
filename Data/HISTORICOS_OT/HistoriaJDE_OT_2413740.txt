@@ -1,0 +1,10 @@
+XL: CHEQUEAR Y VERIFICAR CONTROL VALVULA DE ADMISION +TCV DE LA UNIDAD
+
+
+19/11/2013
+
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas. Se verifican las electro válvulas de aplicación del sello servicio y de mantenimiento.
+Se realiza verificación de los sensores de posición del sello, la válvula esférica y el BYPASS , además de la verificación de los manómetros e instrumentación de la válvula esférica .
+
+Realizado por Walter Tobon

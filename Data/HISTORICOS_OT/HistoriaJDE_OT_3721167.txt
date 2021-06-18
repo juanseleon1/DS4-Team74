@@ -1,0 +1,9 @@
+FECHA: 06/05/2018 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: En el tablero de control general del sistema contra-incendio se ha estado presentando alarma constante del sensor de humo (L01D094) ubicado en servicios auxiliares 208VAC tablero 1NJ3. Se verifica en sitio descartando que sea real.
+Según personal técnico se trata de una falla intermitente del detector de humo, por lo que se deja deshabilitado y queda pendiente para su mantenimiento por oportunidad.
+A pesar de que el sensor quedó deshabilitado, se tiene una alarma intermitente cuyo texto es “ avería Inicialización del sistema “ . 
+Es importante tener en cuenta que este tipo de alarmas que se generan constantemente entorpece la atención hacia el sistema perdiendo así la oportuna respuesta del operador ante un evento real.
+07-05-2018
+PROGRAMADOR JOSE MONTOYA
+EJECUTO PERSONAL DE INTERFIRE
+SE CAMBIA EL SENSOR QUE SE ENCONTRABA MALO, SE VERIFICA Y QUEDA TRABAJANDO CORRECTAMENTE. 

@@ -1,0 +1,15 @@
+06/09/2018
+MONTAJE SISTEMA DE RUPTURA PERNOFUSIBLE DISTRIBUIDOR UNIDAD 1
+
+Grupo Mecanico:
+Realizar el soporte y la adecuacion de los nuevos sensores de posicion para la deteccion del pernofusible reventado.
+
+Grupo Electronico:
+Conexion y puesta en servicio de los nuevos sensores inductivos de posicion y ajustar su visualizacion en el escada de la sala de operacion.
+
+
+Programador: Camilo Montagut - 27/12/2018
+
+La ot se da por terminada pero incompleta debido a que requiere más trabajo para finalizarla como completa. Se espera comenzar nuevamente el trabajo el próximo año gestionando la ot desde la plataforma MÁXIMO
+
+Ejecuta: equipo mantenimiento mecánico UOG

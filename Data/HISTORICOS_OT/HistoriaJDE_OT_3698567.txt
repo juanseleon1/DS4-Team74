@@ -1,0 +1,25 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3698567.
+Se realiza mantenimiento general, limpieza y verificación al tablero del regulador de Tensión de la MINICENTRAL P3.
+Se revisa el estado de eventos del Multilin Proteccion 660 y Transformador T60.
+se resetean eventos de los Reles.
+Se verifica la habilitación de protecciones:
+G60: 87G=off
+94=On, 86=On, 32/40=off, 21=off, 50/51=off, 46/49=off, 24/27/59=off, 78=off, 81=off.
+Se realiza limpieza del trablero T60 entrada DPS 1 a 5 = Estado MALO.
+Salidas: 87=off, 50/51=off, 86=On, 94=On, 50N/51N=off.
+T60 Multilin Display pixeles en corto circuito lado derecho, cables de red desconectados.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizo: Julio Cesar Parra, Iván Darío Cano, Eladio Piedrahita, Neiro Fabian Pérez
+
+
+PLANEADOR: RMONTOYG
+FECHA: 14-03-2018
+PROGRAMADOR: CARLOS ENRIQUE MONCADA
+OT PADRE: 3698544
+CONSIGNACION: @180304
+
+REALIZAR MANTENIMIENTO PREVENTIVO SEMESTRAL
+.

@@ -1,0 +1,23 @@
+14 Abril de 2014
+
+Referente a Falla banco 1 de tiristores unidad 2: 
+
+El domingo 13 de abril la unidad se encontraba generando y paro normalmente en el periodo 24. Los operadores reportaron alarmado el regulador de tensión.
+
+Al dia siguiente se observó alarma "Falla redundancia banco de tiristores 1". Se reseteo y se giró unidad para realizar pruebas. Antes de cerrar interruptor de campo se daba paro de emergencia 1 y 2. Se observó alarma en el regulador de tensión "Error: sobre corriente instantánea de campo; Razón posible: Corto circuito al lado AC o DC del convertidor; Reacción estándar: Disparo", la cual salió al probar los dos bancos de tiristores. Se verifica aislamiento en barras de excitación y bancos de tiristores, encontrando medidas normales (1.02 Mohm y 1.63 Mohm). Se extrae el banco 1 de tiristores hasta el modo test, se arranca la unidad y energiza correctamente; por lo que se comprueba falla en el banco 1 de tiristores, este se desmonta y se instala banco de repuesto nuevo el cual se deja extraído en modo test para posteriores pruebas antes de ponerlo en servicio. Se arranca de nuevo la unidad y se verifica que energiza correctamente por el canal 2 y el AVR 2. Se deja unidad en condiciones.
+
+Ejecuta: Equipo de operación y mantenimiento
+Informa: Walter Tobón, Daniel Palacio y Santiago Ramírez
+
+15 Abril de 2014:
+
+Se anexa registro gráfico.
+
+Pendiente: 
+
+- Revisión de baco fallado
+- Informe de histórico de eventos para posterior reclamo por garantía
+
+- Pruebas finales a banco nuevo de repuesto montado. Este banco se tenia como repuesto en el almacen (ver lista de materiales). Se anexa Reporte de chequeo de ABB.
+
+Att: Santiago Ramírez

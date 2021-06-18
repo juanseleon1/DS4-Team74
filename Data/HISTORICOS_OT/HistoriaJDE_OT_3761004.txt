@@ -1,0 +1,4 @@
+SEP 10/2018 PROGRAMO:JGUINGUER EJECUTO ALEXANDER VILLA
+Se realiza verificación de las RTD’ s del Estator Generador por medio del calibrador de procesos.
+
+Temperaturas de: Estator GeneradorEquipo 30°C 60°C 90°C 120°CDevanado Estator U1 30.8 60.8 90.6 120.7Devanado Estator U3 30.3 60.4 90.2 120.3Devanado Estator U5 30.7 60.6 90.5 120.7Núcleo Estator P1 30.5 60.5 90.5 120.7Núcleo Estator P2 30.4 60.5 90.3 120.7Núcleo Estator P3 30.3 60.5 90.5 120.6Entrada Aire Frio Generador 30.3 60.4 90.3 120.4Salida Aire Caliente Generador 30.3 60.4 90.4 120.4Valor programado Alarma:Estator: 100°C / Aire: 50°CValor programado Disparo:Estator: 110°C / Aire: 60°CComentarios:Sin novedades

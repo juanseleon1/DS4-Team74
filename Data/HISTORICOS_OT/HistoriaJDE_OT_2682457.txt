@@ -1,0 +1,8 @@
+favor revizar la comunicacion del regulador de velocidad, tiene fallada la comunicacion redundante.
+
+
+23/01/2014
+
+se reviza la comunicacion de redundancia entre CPU´s, se encuentra mala en su firmware se cambia y configura un nueva tarjeta 
+
+Realizado Wtobonl

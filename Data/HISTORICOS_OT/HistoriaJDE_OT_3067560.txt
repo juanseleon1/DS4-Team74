@@ -1,0 +1,13 @@
+ABRIL 06 DE 2016 . INFORMA BIANEY BRAVO VALENCIA
+
+En el  mantenimiento mayor realizado en el 2015 a la unidad G31, se detecto bajo aislamiento en los bujes pasamuros del barraje de salida del estator, se realizaron varias actividades que mejoraron el nivel de aislamiento de estos bujes, en el año 2016 se ha escuchado ruido anormal en el sector de los bujes pasamuros de esta unidad, posiblemente es un efecto corona que puede afectar el aislamiento, se programara el paro de la unidad para cambio de los bujes pasamuros de las fases R y S.
+
+
+ABRIL 21 DE 2016
+luego de realizado mantenimiento correctivo cambio transformadores de corriente pasamuros barraje salida del generador.
+Se realizó intercambio de los transformadores de corriente del lado de neutro hacia el lado salida del generador.  En el proceso de sincronización de la unidad se presentó disparo por perdida de excitación y falla regulador de velocidad. En el análisis realizado se determinó que había cambio de polaridad en las corrientes de fase.  Se procedió a identificar la polaridad en cada núcleo de los trasformadores de corriente, se encontró cambio de polaridad en el núcleo de medida de los transformadores de corriente instalados en las fases, se procedió a normalizar la polaridad en las fases y en los transformadores de corriente del lado de neutro.  Se sincroniza la unidad y presenta operación normal OT 3676, consignación: 13292.
+Otras labores realizadas:
+ Mantenimiento y cambio de rodamientos válvula ROTOR-K, también se cambió el control de esta válvula, de profibus a lógica cableada.
+ Cambio termómetros aceite y devanados transformador de potencia fase R.
+
+William Lopera

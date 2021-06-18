@@ -1,0 +1,9 @@
+XE: VERIFICAR Y REVISAR EL CONTROL, PREVENTIVO ELECTRICO FRENOS GENERADOR TRONERAS.
+
+16/03/2017
+MANTENIMIENTO PREVENTIVO SEMESTRAL
+Se realizó el mantenimiento según el instructivo GCTRE0006.
+Se revisaron las conexiones y se realiza limpieza a los sensores inductivos, se realizan pruebas para verificar su correcto funcionamiento, no se evidencian anomalías.
+
+Realizo: Hernan Correa
+Programo: Carlos Andres Forero

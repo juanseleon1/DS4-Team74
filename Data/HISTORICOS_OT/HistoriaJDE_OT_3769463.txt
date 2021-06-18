@@ -1,0 +1,25 @@
+Planeador: José Alirio Hoyos
+Aprobador: Juan Alejo Osorio
+Fecha de creación: 01/10/2018
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa: 
+ Cresta 
+ Talud aguas arriba
+ Talud aguas abajo 
+ Estribos 
+ Vertedero
+ Zonas bajas
+ Llenos de refuerzo
+ Tapon descarga antiguo vertedero 
+
+ Realizar lectura de la instrumentación:
+ Piezómetros
+ Pozo de observación 
+ Vertedero de aforo 
+ Medidor de asentamiento 
+ Acelerógrafos
+
+ Bajar registros de las lecturas automatizadas
+
+ Descargar la información en la base de datos y al software de seguridad de presas.

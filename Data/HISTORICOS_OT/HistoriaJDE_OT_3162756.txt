@@ -1,0 +1,9 @@
+Se crea esta ot para el ajuste y limpieza de los equipos de Guadalupe 3
+
+
+
+Ot: 3162756 - Ajuste y limpieza GIII - Programador: Camilo Montagut - 17/07/2016
+
+Se realiza el cambio de la válvula cheque en la tubería de aire que comunica la unidad 1 con la unidad 2. Este cambio se realiza para evitar posibles fugas e intercambios de aceite entre unidades
+
+Ejecuta: equipo mantenimeinto mecánico UOG

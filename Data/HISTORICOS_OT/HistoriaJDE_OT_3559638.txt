@@ -1,0 +1,8 @@
+2017/08/07 RUBEN ARBOLEDA
+En la ejecución de la OT: 3550468 se evidenció una alta temperatura en la fase R en la peineta de entrada, se hace OT esta OT para realizar la correción, 
+
+2017-08-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3559638, PASO:1         
+Se realizó mantenimiento correctivo a la motobomba ACRAA 1, ésta motobomba presentaba calentamiento en la fase T a la llegada de la gaveta, queda pendiente realizar seguimiento.
+
+2017-08-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3559638, PASO:2          
+Se realizó seguimiento termografica a la motobomba ACRAA1, se encontró en condiciones normales, se anexa el informe termografico a la OT.

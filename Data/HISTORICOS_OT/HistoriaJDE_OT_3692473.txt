@@ -1,0 +1,12 @@
+XM: VERIFICAR NIVEL Y FUGAS  PREVENTIVO COJINETE TURBINA UNIDAD GENERACION TRONERAS
+
+
+PLANEADOR:CARLOS GIORDANELLI
+
+PROGRAMADOR: SERGIO RAMÍREZ
+
+
+23/03/2018
+
+Se realiza según instructivo encontrando su nivel según visor normal y en el instrumento digital en 220.8mm, siendo su nivel patrón 220mm se considera normal.
+Se realiza engrase a las partes móviles del anillo distribuidor y alabes de la turbina.

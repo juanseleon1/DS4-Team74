@@ -1,0 +1,8 @@
+ENE 20/2015 OT: 2667255 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edisson Hernández.
+Se extrae muestra de aciete segun instructivo GAGPE0001, se envía al Laboratorio de Aceites de La Sub Estación Clombia para realizarle la prueba Cromatografica.
+
+
+PLANEADOR:
+XE: RUTA DESARROLLO 
+MANTENIMIENTO SEMESTRAL ELECTRICO: TOMAR MUESTRAS DE ACEITE - TRANSFORMADORES
+ESTA MUESTRA ES PARA REALIZAR LAS PRUEBAS CROMATOGRÁFICAS DEL ACEITE DE LOS TRANSFORMADORES DE POTENCIA CENTRAL GUADALUPE 4.

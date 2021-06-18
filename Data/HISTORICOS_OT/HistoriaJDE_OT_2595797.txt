@@ -1,0 +1,3 @@
+
+
+ Se cierra sin tiempos y sin pedido al almacèn, porque el tipo de documento no es el correspondiente.

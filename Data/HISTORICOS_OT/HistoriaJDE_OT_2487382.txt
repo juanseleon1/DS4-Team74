@@ -1,0 +1,4 @@
+MAR 19/2014 OT: 2487382 PROGARAMÓ: Javier Giraldo EJECUTÓ: Saúl Correa.
+Se realizó el mantenimiento según el instructivo GCTRE0008.
+
+XE: MEDIR LIMPIAR Y REVISAR NEUTRO GENERADOR

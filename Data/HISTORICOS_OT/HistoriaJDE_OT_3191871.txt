@@ -1,0 +1,38 @@
+2016-07-28. JUAN C DUARTE MUÑOZ.
+
+REVIZAR EN:
+
+  SILCO 5 LA ALARMA: "CURRENT FAULTS. 28 *EXCIT TRANSF OVER TEMP ALARM".
+
+ EN SACO ALARMA: ·"OPERACIÒN ALARMAS EXCITACIÒN".
+
+ EN O.S.:  "ALARMA 3 EXCITACIÒN" Y "ALARMA 1 EXCITACIÒN".
+
+2016/08/03 PROGRAMO MAURICIO QUIJANO - EJECUTO MAURICIO QUIJANO
+SE REVISA CONTROL DE TEMPERATURA DEL TRANSFORMADOR DE EXCITACION, SE AJUSTAN LAS BORNERAS EN EL CONTROL Y SE REVISAN LOS PARAMETROS, ESTOS ESTAN BIEN. QUEDA EN OBSERVACION, SI CONTINUA LA ALARMA HAY QUE REVISAR LAS CONEXIONES EN LAS BORNERAS DE LA PARTE INTERNA DEL TRANSFORMADOR. SE ENTREGA A OPERACION.
+
+2016/08/03 PROGRAMO MAURICIO QUIJANO - EJECUTO MAURICIO QUIJANO
+El día de hoy volvieron a salir las alarmas del transformador de excitación de la unidad 4, se revisa en el control de temperatura y se encuentra que uno de los sensores de temperatura RTD-PT100 presenta oscilaciones y llega hasta los 105°C, activando los reles del control de temperatura, y por tal motivo se presentan las dos alarmas. Los puntos de control están así: rele 1 - 100°C, rele 2 - 105°C y rele 3 - 110°C. Estos puntos de control se aumentaron hasta cuando se puedan intervenir los sensores y realizarles una verificación. Estos quedan así:  rele 1 - 110°C, rele 2 - 115°C y rele 3 - 120°C. Con este aumento de los puntos de control ya no se activan las alarmas. Edwar Londoño realiza termografía al transformador excitación unidad 4, las temperaturas de los 3 devanados se encuentran en 73 °C.
+
+
+
+
+2016-07-28. JUAN C DUARTE MUÑOZ.
+
+REVIZAR EN:
+
+  SILCO 5 LA ALARMA: "CURRENT FAULTS. 28 *EXCIT TRANSF OVER TEMP ALARM".
+
+ EN SACO ALARMA: ·"OPERACIÒN ALARMAS EXCITACIÒN".
+
+ EN O.S.:  "ALARMA 3 EXCITACIÒN" Y "ALARMA 1 EXCITACIÒN".
+
+2016/08/03 PROGRAMO MAURICIO QUIJANO - EJECUTO MAURICIO QUIJANO
+SE REVISA CONTROL DE TEMPERATURA DEL TRANSFORMADOR DE EXCITACION, SE AJUSTAN LAS BORNERAS EN EL CONTROL Y SE REVISAN LOS PARAMETROS, ESTOS ESTAN BIEN. QUEDA EN OBSERVACION, SI CONTINUA LA ALARMA HAY QUE REVISAR LAS CONEXIONES EN LAS BORNERAS DE LA PARTE INTERNA DEL TRANSFORMADOR. SE ENTREGA A OPERACION.
+
+2016/08/03 PROGRAMO MAURICIO QUIJANO - EJECUTO MAURICIO QUIJANO
+El día de hoy volvieron a salir las alarmas del transformador de excitación de la unidad 4, se revisa en el control de temperatura y se encuentra que uno de los sensores de temperatura RTD-PT100 presenta oscilaciones y llega hasta los 105°C, activando los reles del control de temperatura, y por tal motivo se presentan las dos alarmas. Los puntos de control están así: rele 1 - 100°C, rele 2 - 105°C y rele 3 - 110°C. Estos puntos de control se aumentaron hasta cuando se puedan intervenir los sensores y realizarles una verificación. Estos quedan así:  rele 1 - 110°C, rele 2 - 115°C y rele 3 - 120°C. Con este aumento de los puntos de control ya no se activan las alarmas. Edwar Londoño realiza termografía al transformador excitación unidad 4, las temperaturas de los 3 devanados se encuentran en 73 °C.
+
+
+
+

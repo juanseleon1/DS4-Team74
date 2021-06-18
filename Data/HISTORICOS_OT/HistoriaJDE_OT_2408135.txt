@@ -1,0 +1,9 @@
+
+XM: CHEQUEAR Y VERIFICAR FUNCIONAMIENTO DISTRIBUIDOR TURBINA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 04/11/2013 @C0087666 OT: 2408135
+
+Se realiza según procedimiento. Se realiza verificación de la holgura de los alabes con respecto a los blindajes superiores e inferiores, en la cual debe pasar mínimo una galga de 0.20 mm, obteniendo la medida en K1 ("a" en el formato) la mayor de 0.36 mm y la menor de 0.21 mm. Igualmente se obtienen en L1 ("b" en el formato) la mayor de 0.25 mm y la menor de 0.09 mm. Estas medidas se anexan al informe y se escanean. El calibre de la galga es definido en el protocolo y avalado por el supervisor de IMPSA. Al verificar la holgura del anillo del distribuidor con respecto a la cubierta superior de los alabes, se encuentra el patín axial N° 4 flojo; igualmente se encuentran los alabes móviles n° 4, 9, 10 y 12 con pequeños granos en la parte superior con respecto al linner, los cuales se pulen. Al galguear la parte superior de los alabes, se encuentra en los alabes N° 13, 14 y 16, medidas diferentes a los largo de la aleta superior del alabe, esto es porque anteriormente había generado grano sobre este y como no se puede bajar para su reparación queda con este inconveniente. Cabe anotar que lo importante de esto es que no está rozando con el linner superior. Esta información con sus medidas, queda registrada en el informe el cual se escanea. Se procede el día 06/11/2013 a realizar el desmontaje del anillo del distribuidor para corregir el patín que esta flojo y se genera la OT 2418070. Igualmente al inicio  y al terminar de hacer la reparación, se realiza limpieza general a todo el recinto de la turbina ya que presenta unos pocos regueros de aceite sobre la cubierta superior y sobre los laves móviles. Se escanean y registran las medidas finales de la holgura entre los patines y el anillo del distribuidor las cuales son escaneadas y guardadas.
+
+ 
+

@@ -1,0 +1,20 @@
+
+
+01/08/2016. SERGIO OLIVARES D.
+Se cambio el breaker 52Q2; Salida de voltaje del breaker era muy baja disparando las motobombas. los contactos del 
+breaker deben estar muy sulfatados aumentando la resistencia, y disminuyendo el voltaje de salida.
+
+Medidas después del cambio:
+
+Voltaje salida breaker del grupo N°2: RS= 445 ST= 442 RT=442 VAC.
+
+Corriente Grupo: R=10 S=10.1 T=10.1 AMP.
+
+Corriente motobomba trafo fase R: R=3.4 S=3.3 T=3.3 AMP
+
+Corriente motobomba trafo fase S: R=3.2 S=3.2 T=3.2 AMP
+
+Corriente motobomba trafo fase T: R=3.4 S=3.3 T=3.2 AMP.
+
+Se dejo todo normal.
+

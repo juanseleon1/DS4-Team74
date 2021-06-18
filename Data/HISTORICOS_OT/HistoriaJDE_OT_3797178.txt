@@ -1,0 +1,12 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 26/12/2018
+
+REALIZAR INSTALACION ELECTRICA EN PLANTA DE TRATAMIENTO DE AGUA POTABLE PARA LA CENTRAL GIII. 
+
+DICIEMBRE 26 DE 2018
+Se realiza una instalación provisional con cable encauchetado 4X8 para conectar equipos para la terminación de los tanques de agua que seran colocados en funcionamiento para Guadalupe III. Esta alimentación es a 208 voltios ac trifásica que esta conectada desde Guadalupe I.
+Programó: William Loera.
+
+
+

@@ -1,0 +1,6 @@
+SOLICITANTE: ALEX J. RESTREPO FECHA: DICIEMBRE 2/2014
+
+DESCRIPCION: PERDIDA DE COMUNICACIONES PARA CONTROL ENTRE GUADALUPE 3 Y CCCG.
+
+NOTA: Para este problema que se estaba presentando perdida de comunicacion del control desde G3 hasta el centro de control G4, se realizo el cambio de suiche principal de G3 por un suiche CISCO asi mismo cambio de todo el tendido de patch cord de fibra optica y modulos de fibra y ethernet, se realizan pruebas de funcionamiento quedando todo normalizado.
+ 

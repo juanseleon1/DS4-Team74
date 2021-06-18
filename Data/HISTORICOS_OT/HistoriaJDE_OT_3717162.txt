@@ -1,0 +1,3 @@
+
+2018/04/17 DIEGO BEDOYA
+Se inicia el desarme de la unidad para lavado de rotor y estator, dentro de este mantenimiento se va a instalar la felpa en los anillos de los laberintos para retener los vapores de aceites generados en el cojinete de generador, evitando que salgan y se adhieran a las escobillas 

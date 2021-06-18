@@ -1,0 +1,14 @@
+ SEP.17/2014. SERGIO OLIVARES D.
+ El cable de 15KV que alimenta el asincrònico, queda sobresaliente del carcamo, sobrando
+aproximadamente 1 metro de cada cable. Se recortara para poder tapar el carcamo y poder 
+dejar todo normal.
+Los conos los instalara el equipo de red sub-terranea zona sur, de la sub-estaciòn Envigado
+
+2014/09/20 ANGEL ADONIS CAAVID OCHOA
+ SE REALIZA LA DESCONEXION DE LOS BORNES DEL GENERADOR PARA REALIZAR PRUEBA DE AISLAMIENTO, AISLANDO PARARAYOS Y CONEXION DE TIERRA EN LA ESTRELLA, IGUALMENTE SE REALIZA PRUEBA DE AISLAMIENTO A 1000 VOLTIOS DE DC A LOS CABLES DE CONEXION ENTRE GENERADOR E INTERRUPTOR.
+AISLAMIENTOS:
+GENERADOR = 1.46 GIGA OHMIOS
+CABLES
+FASE R = 20 GIGA OHMIOS
+FASE S = 19.3 GIGA OHMIOS
+FASE T = 16.6 GIGA OHMIOS

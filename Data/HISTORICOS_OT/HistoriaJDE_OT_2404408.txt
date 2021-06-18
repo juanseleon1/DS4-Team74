@@ -1,0 +1,9 @@
+Realizar adecuacion de cajas para conectar disparos de CO2 de tranformadores 
+
+Queda habilitado el disparo del rele 86T, paro de  UMA y alarma disparo de CO ² (Panel de alarmas) en los 4 bancos,  cuando se genera descarga de CO² mediante la activación de la válvula de sobrepresión de cada uno de los transformadores.
+
+Para esto se realizó adecuación de borneras en cada una de las cajas de integración, cambio de cableado y pruebas de señalización y disparos en cada banco. 
+
+Realizó: Edwar Londoño - Juan David García - Oscar Giraldo
+Lideró: Cesar Hoyos
+

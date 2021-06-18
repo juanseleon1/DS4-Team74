@@ -1,0 +1,12 @@
+El procedimiento para el mantenimiento del regulador hidráulico es  aplicable en las ocho 
+(8), unidades de la central hidroeléctrica de Guatapé. Realizados por el equipo de mantenimiento mecánico.
+
+Incluye:
+a. realizar chequeos de las bombas.
+b. ajustar niveles de aceite.
+c. chequeos.
+d. calibración de las servo-válvulas moog.
+
+
+2015/08/19 DIEGO BEDOYA
+Se cambiaron los 5 microfiltros de las MOOG y se corrigió fuga de aire en la válvula 1038 del regulador, esta fuga se presentaba por el prensaestopa y ocasionaba que en la mirilla del tanque del regulador el nivel del aceite se incrementara; por lo que era necesario suministrar aire constantemente.   

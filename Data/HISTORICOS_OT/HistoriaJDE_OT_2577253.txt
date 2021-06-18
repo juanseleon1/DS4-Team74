@@ -1,0 +1,10 @@
+2014/08/11 CARLOS SANCHEZ
+SE GENERA ESTA OT PARA  CORREGIR LA COMUNICACION DEL REGULADOR DE TENSIÓN
+
+
+11\042014
+
+Se realiza cambio en el programa del PGP y modificacion de las direcciones en los controladores del TRE en la unidad,  se inician pruebas de simulacion con el controlador.
+
+
+Realizado Por Wtobonl

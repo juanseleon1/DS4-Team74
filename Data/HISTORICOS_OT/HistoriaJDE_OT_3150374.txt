@@ -1,0 +1,21 @@
+2016/06/13 RUBEN ARBOLEDA
+Se realiza la OT para mover el cable de 13.2Kv ubicado en el transofrmador de excitación de la unidad 4 hasta el tranformador de excitacion de la unidad 5, realizar desarme de barraje de transformador de excitacion de la unidad 5 y conectar el cable de 13.2, lo anterior para realizar una prueba de tension controlada en el banco 3 para la puesta en servicio, una vez realizada la prueba se normalizará el tranformador de exitación. 
+
+
+2016/06/13 JUAN GARCIA, OSCAR GIRALDO, JHONATAN USME, ANDRES ZAPATA, EDWAR LONDOÑO, GIOVANNY DIAZ, JUAN JOSE LOPEZ (PRACTICANTE), VICTOR ZULETA, PRAOGRAMO: RARBOLG, 
+Se realizó movimiento de cable de 13.2Kv, desde la maquina 4 hasta la unidad 5, se dejó instalado de manera provisional. 
+
+2016/06/13 JUAN GARCIA - ANDRES ZAPATA, PROGRAMO: RARBOLG
+Se realizó la desconexión del barraje de llegada al tranformador de excitación, y conexión de cable de 13.2Kv, para posteriormente realizar prueba de tensión controlada y luego normalizar el barraje del tranformador de exitación. 
+
+2016/06/15 EDWAR LONDOÑO, JUAN GARCIA, PROGRAMO: RARBOLG, PASO 3
+Se realizó desconexión de los cables de 12.3Kv, y se realizó armado del barraje del transformador de excitación, se deja la unidad disponible para generación, 
+
+Durante las pruebas de tensión controlada se evidenció disparo del interruptor del generado asincrónico en varias ocasiones, lo cual presentó retrasos para realizar la prueba.
+
+2016/06/20 ANGEL ADNIS CADAVID OCHOA
+SE GENERA OT PARA REVISAR DISPARO DURANTE LA PRUEBA DE TENSION REDUCIDA AL BANCO 3.
+EL INTERRUPTOR SE DISPARA CON CORRIENTES POR DEBAJO DEL AJUSTE DE LA PROTECCION. 
+
+23/06/16. CERSAR AUGUSTO HOYOS HENAO.
+Se realiza prueba de tensión controlada y cortocircuito en banco 4, se deja por varios minutos y el interruptor no presenta problemas. Se decide cerrar la OT.

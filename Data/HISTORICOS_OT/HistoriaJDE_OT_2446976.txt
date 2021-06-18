@@ -1,0 +1,9 @@
+02/02/2014
+PLANEADOR:GABRIEL TAMAYO RUIZ.                                                                                                                                                                                                  PROGRAMADOR:YOFRED BERNARDO RODRIGUEZ VAHOS.                                                                                                                              revisar y adicionar tapa de cuba movil al cojinete de turbina de la Unidad Gpe 43. , se debe de controlar fuga de aceite en la parte inferior de la cuba movil.
+
+
+
+Se estan  adicionanando 1.5 Litros de Aceite por 24 horas de generación en esta unidad.
+
+Informa: Yofred Rodriguez
+

@@ -1,0 +1,11 @@
+DIC 26/2014 OT: 2570828 PROGRAMÓ: Juan Caicedo EJECUTÓ: Fernando Lopera.
+El Ingeniero Fernando Vasquez, calibro dos tarejetas normalizando el funcionamiento del teleferico.
+
+JUL 28/2014 OT: 2570828 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Lopera.
+El teleférico dio paro de servicio por supervisión cable tractor código de falla  88-18, se realiza limpieza a los cabezotes de las cabinas para descartar que este fallo se diera por contaminación, esta actividad se realiza en compañía de los mecánicos, sin embargo la falla persiste y la tarjeta 75U se encuentra alarmada, las cabina solo se dejan operar en puentes generales, después de varias pruebas y descartando daños en el cable se realiza un puente entre pines 26d de tarjeta 75u y el pin 26z de la tarjeta 73u y las cabinas quedan operando en mando automático. El día 28/07/2014 se continua con las pruebas y se descarta falla en la tarjeta 73u, lo cual solo se puentea entre los pines 26d y 26z de la tarjeta 75u.
+
+Nota: en las horas de la tarde se realizan pruebas con Marlon Carmona en el sistema electrónico que recibe  la señal que supervisa el aislamiento de cable tractor y se encontró que uno de los relés de la tarjeta 75u no está cerrando el contacto, por lo tanto se requiere el cambio de la tarjeta.
+
+
+SOLICITANTE: Javier Giraldo Fecha: Julio 28/2014.
+Revisar el paro por la falla cable tractor.

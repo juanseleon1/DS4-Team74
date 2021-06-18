@@ -1,0 +1,15 @@
+2016-04-07 DIEGO BEDOYA
+Realizar el mantenimiento al ventilador S4, con el fin de dejarlo en optimas condiciones para realizar balanceo y dejarlo en funcionamiento normal.
+Los trabajos efectuados en el ventiladore S4 fueron:
+ Cambio de chumaceras
+ Cambio de soportes de caucho y mejora en los soportes metalicos que estan anclados al piso
+ Alineacion de poleas y cambio de bandas
+ Corrección de fugas en  los radiadores del ventilador S4
+ Se miden vibraciones en este ventilador S4 y están dentro de los parámetros de aceptación.
+ 
+ 
+ OCTUBRE 19 DE 2017 
+ 
+ OT CERRADA 
+ 
+ ANDRES RAMIREZ 

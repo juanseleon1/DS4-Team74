@@ -1,0 +1,9 @@
+11/03/2018 - 05:43.
+Unidad presenta alarma grave al momento de aumentar carga y recivir consigna de 30 MW se quedan cerradas los inyectores 1 y 3, al cambiar la prioridad se produce Falla Grave y sale la Unidad del sistema, se lleva a rearranque dandole condiciones a la Unidad y se procede a Sincronizar de nuevo hora de salida 00:07 y entra a las 00:13 del 11/03/2018.
+
+Realiza e informa Turno 3. John Meneses - Mauricio Caicedo - Wilson Arango.
+
+SE HACE UNA REVISION DE LOS LAZOS DE CONTROL DANDOLE MANDOS DIRECTOS DESDE EL REGULADOR DE VELOCIDAD, SE HACEN AJUSTES Y LA UNIDAD QUEDA EN CONDICIONES NORMALES DE TRABAJO.
+
+
+REALIZO: GRUPO DE ELECTRONICA.

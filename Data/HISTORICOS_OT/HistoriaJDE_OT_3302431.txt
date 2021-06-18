@@ -1,0 +1,23 @@
+PLANEADOR: José Alirio Hoyos
+APROVADOR: Camilo Cardona 
+FECHA DE CREACIÓN: 2016/11/01
+TIPO DE MANTENIMIENTO: Preventivo
+ACCIONES DEL MANTENIMIENTO PREVENTIVO A REALIZAR:
+ Recorrido por los componentes de la presa:
+ Cresta
+ Talud aguas abajo
+ Talud aguas arriba
+ vertedero
+ Refuerzo quebrada la falla
+ Refuerzo la Granja
+ Refuerzo culebritas
+ Talud descarga Playas
+
+ Realizar lectura de la instrumentación:
+ Piezómetros de tubo abierto
+ Piezómetros neumáticos
+ Piezómetros hidráulicos
+ Piezómetro de hilo vibratil
+ vertederos de aforo
+
+ Descargar la información en la base de datos de seguridad de presas.

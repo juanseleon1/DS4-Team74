@@ -1,0 +1,10 @@
+
+ JULIO 15 DEL 2015 - JEOVANNY CORREA G
+ La Unidad G33 no iguala presiones aguas abajo para abrir la válvula esférica.
+20/07/2015
+REFERENTE A LA IGUALACION DE PRESIONES VALVULA ESFERICA G33
+Se revisa fisicamente con un manometro analogo y efectivamente se comprueba que en la secuencia de arranque, despues de abrir el bypass la unidad no iguala presiones. Los valores son estos:
+Presion Aguas Arriba: 53 bar
+Presion Aguas Abajo: 48 bar
+Se habla con los mecanicos, pues el problema no es con la instrumentacion y ellos dicen que puede que una aguja tenga un pase de agua, lo cual impide que presurice el caracol y por esto no se alcance a igualar las presiones. Se decide desde el control permitir la apertura de la valvula esferica con esta diferencia de 5 bar. Se realizan los cambios en la estacion de ingenieria y se procede a cargarlo en el controlador.
+Programador: Oscar Arango

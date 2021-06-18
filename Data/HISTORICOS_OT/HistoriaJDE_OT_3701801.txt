@@ -1,0 +1,17 @@
+MARTES 20 MARZO/2018
+
+Referente a las IHM del TLCT, TAST de las Unidades 1,2,3,4: Se encuentra deshabilitada la opción para hacer el ajuste de los setting de las variables en caso de necesitarse ante un evento ocasional de aumento del rango de medición, poder ajustarlos para evitar salidas forzadas y desvios de las unidades. Pendiente revisar por parte de mantenimiento electrónico.
+
+Informa: Turno 1 de Operación. 
+
+
+20/03/2018
+
+Se realiza verificacion del despliegue en las IHM´s de las unidades 1, 2, 3y 4 del TAST. se encontro bloqueado el boton de modificar valor, se actualiza la aplicacion  y queda normalizado el proceso, se recuerda a operacion que para todos los procesos como el TLCT se debe seleccionar el proceso en modo local o local auto para poder modirficar los valores en estos procesos no se encontro problemas.
+
+REALIZADO POR WTOBONL  
+
+TERMINADA CERRAR                                                                   
+
+
+         

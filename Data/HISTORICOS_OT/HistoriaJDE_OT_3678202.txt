@@ -1,0 +1,14 @@
+29 DE ENERO DE 2018 IVAN DARIO ZAPATA GOMEZ
+EL TANQUE SUMIDERO DE LA ESTACION HIDRAULICA DE LA UNIDAD GENERADORA 2 DE GUADALUPE IV, PRESENTA NIVEL BAJO, ES NECESARIO RECUPERARLO.
+
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+PROGRAMADOR:CAMILO MONTAGUT
+
+ENERO 29 DE 2018
+
+Programador: Camilo Montagut - 15/03/2018
+
+Se agregan 20 litros de aceite tellus 68 al tanque sumidero de la estación hidráulica. Tener en cuenta que esta adición de aceite obedeció a calibración de nivel ya que luego del mantenimiento anual de la unidad se cambio todo el aceite hidráulico de este equipo.
+
+Ejecuta: equipo mantenimiento mecánico UOG

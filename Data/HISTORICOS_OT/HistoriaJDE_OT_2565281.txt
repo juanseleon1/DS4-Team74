@@ -1,0 +1,22 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+-----------------------------
+
+ sistema de refrigeración  U2 - agua cruda  
+fecha: OCTUBRE 13-2014 ot:2565281  mtto: eléctrico
+ejecutó: DAVISON PEREZ - CAMOLO CARDONA
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE refrigeración CCM U2, circuito de circulación agua CRUDA (S3). Según IDM: GCP2E0017. No se encuentran averías ni fallas en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+BOMBA 1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S468R455,1R19,7R4,68 500S - T470S481,2S19,5S4,48 500T - R467T489,5T18,6T4,83 500
+BOMBA 2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S466R668R48R4,91 500S - T462S678S46S5,32 500T - R466T680T53T5,43 500
+el mtto se realiza por oportunidad con planta en 0 mva.
+informa: cristian a gómez 
+
+-----------------------------

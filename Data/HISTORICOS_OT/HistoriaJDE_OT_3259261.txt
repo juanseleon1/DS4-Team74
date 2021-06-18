@@ -1,0 +1,3 @@
+26 de septiembre de 2016
+UNIDAD # 1 
+Se presenta falla en el regulador, el AVR # 1 presenta falla regulador A1, cada que se energiza la unidad se falla el AVR#1. 

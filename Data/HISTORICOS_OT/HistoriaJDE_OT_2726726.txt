@@ -1,0 +1,16 @@
+27 DE MARZO DE 2015 MARLON ALEXANDER TORO MONTOYA
+
+Realizar modificación en el control conjunto de las unidades de Guadalupe 3 y Guadalupe 4, para que no reciban cambios mayores a 50mw.
+
+06/05/2015
+Buen día:
+
+se hace el siguiente cambio en el control conjunto por potencia activa en G3, en las pantallas del centro de control…
+
+Por solicitud de los operadores se programa que cuando el operador ingrese la consigna de potencia activa, el control lo obligue a repetir la misma consiga en otro botón, si se equivoca e ingresa otra consigna diferente, le saldrá un aviso advirtiéndole que se equivocó en la consigna.
+
+JUAN A. CAICEDO HENAO
+
+
+
+

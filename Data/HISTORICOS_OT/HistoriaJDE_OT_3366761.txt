@@ -1,0 +1,15 @@
+2017/01/14 RUBEN ARBOLEDA
+En la OT: 3078041 se evidenció falla en la perilla  4S3 del tablero CTSA2 del transformador TSA2 la cual tiene 3 posiciones automático - OFF - manual - no opera hasta la    posición manual, lo cual no se puede hacer la prueba manualmente de los ventiladores, queda pendiente comprar.
+
+2017/07/06, RUBEN ARBOLEDA - GIOVANNY DIAZ
+Se realizó el trámite de compra ya la perilla se encuentra en oficina de Mtto electríco, está pendiente realizar el montaje. 
+
+2017-07-10 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3366761, PASO:1          
+Se realizó cambio de perilla de control ventiladores (Automático - 0 - manual) en el TSA2, se realizó pruebas de funcionamiento y se dejó en condiciones normales. 2017/01/14 RUBEN ARBOLEDA
+En la OT: 3078041 se evidenció falla en la perilla  4S3 del tablero CTSA2 del transformador TSA2 la cual tiene 3 posiciones automático - OFF - manual - no opera hasta la    posición manual, lo cual no se puede hacer la prueba manualmente de los ventiladores, queda pendiente comprar.
+
+2017/07/06, RUBEN ARBOLEDA - GIOVANNY DIAZ
+Se realizó el trámite de compra ya la perilla se encuentra en oficina de Mtto electríco, está pendiente realizar el montaje. 
+
+2017-07-10 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3366761, PASO:1          
+Se realizó cambio de perilla de control ventiladores (Automático - 0 - manual) en el TSA2, se realizó pruebas de funcionamiento y se dejó en condiciones normales. 

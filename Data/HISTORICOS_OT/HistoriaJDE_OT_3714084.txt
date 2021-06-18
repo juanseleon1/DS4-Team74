@@ -1,0 +1,16 @@
+FECHA: 18/04/2018 
+
+SOLICITADO POR: Natalia Urrea - Francisco Córdoba.  Operación G4
+
+DESCRIPCIÓN: El Regulador de Tensión G43 se está pasando constantemente a local, por lo cual no recibe consignas desde el CCCG.  Se resetea desde el control de regulador y normaliza.  Favor revisar ya que se ha presentado en varias ocasiones.
+
+Muchas gracias!
+
+FECHA: 19/04/2018 
+
+se revisa lazo de control regulador de tension, se desmonta y se verifica en laboratorio electronico el modulo de entredas y salidas digitales canal1, al cual llegan las señales de control para mando local y remoto, se monta nuevamente modulo en el regulador y se realiza descarga de programa a controladores y backup correspondiente al regulador de tension de la unidad G43; al momento de hacer pruebas se evidencia que el controlador 1 registra fallas, ocasionando que se pase a trabajar por el canal 2, queda pendiente  cambiar controlador 1, programarlo y realizar pruebas.
+
+EJECUTO: Esteban Vazques, Carlos Giordanelli, Jose Montoya, Adrian Cardona. 
+
+
+Esta OT se se ejecutara en MAXIMO con la OT 782720

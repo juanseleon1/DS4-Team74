@@ -1,0 +1,2 @@
+2018/10/29 RUBEN ARBOLEDA
+Se crea OT para realizar revisión y mantenimeitno general al transformador de excitación de la Unidad 1

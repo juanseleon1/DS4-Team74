@@ -1,0 +1,10 @@
+
+2018/02/05 DIEGO BEDOYA
+Realizar el cambio de filtros MAHLE en los 4 comandos de agujas de la unidad N°2; ya que se alarman constantemente.
+El trabajo fue realizado por Andres Alzate, Orlando Zuleta.
+
+
+
+marzo 29 de 2018 
+ot terminada y cerrada 
+andres ramirez 

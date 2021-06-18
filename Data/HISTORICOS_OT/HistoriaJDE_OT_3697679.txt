@@ -1,0 +1,6 @@
+03/03/2018 OT 3697679 Luis Eduardo Arcila
+Se prueban tarjetas  en el panel de alarmas de los transformadores Banco 3, reparadas en RPM para verificar su estado.
+Módulos SWPM 1A1 marca ABB con resultados negativos.
+Se envian de nuevo para su respectiva garantia.
+
+

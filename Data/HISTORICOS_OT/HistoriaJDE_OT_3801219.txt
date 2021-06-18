@@ -1,0 +1,9 @@
+
+2018/12/04 Victor Zuleta /Luis Eduardo Arcila / Juan David Garcia / Juan Esteban Castillon
+
+
+PRUEBAS DISPAROS CO2 UNIDAD 1
+
+Se someten a temperatura el sensores Térmicos y se genera humo en el sistema de aspiraciòn, se generan las dos alarmas y se da el disparo de las válvulas solenoides del banco principal y luego se pasa al banco de respaldo de CO2 actúando las válvulas solenoides.
+Se realiza prueba de descarga con las estaciones manuales, generando alarmas y disparos del banco principal y el banco de respaldo actúando las válvulas solenoides.
+

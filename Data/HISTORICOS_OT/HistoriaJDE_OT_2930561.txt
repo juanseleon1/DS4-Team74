@@ -1,0 +1,3 @@
+Reportado semana 44: Se determina desde oficina que la estación 271762 PP6 Caracoli hay una desconexión con el sensor de nivel (Shaft Encoder). Planeador Asignado. Faustino Giraldo.
+
+

@@ -1,0 +1,5 @@
+
+MARZO 18/2014.
+
+Se realiza la siguiente OT, para la instalacion de pulsadores y perillas para el tablero de control de la estación hidraulica, con el proposito de tener un respaldo en modo manual en caso que la HIM falle.
+

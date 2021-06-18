@@ -1,0 +1,15 @@
+
+2018/03/14 _ CARLOS ENRIQUE MONCADA. OT N° 3699110.
+Se revisan y verifican los microsuiches los cuales presentan trabajo normal y estado bueno y normal, se deja el cambio de los microsuiches por oportunidad.
+
+Realizo: Eladio Piedrahita, Nestor Ochoa.
+
+---------------
+
+PLANEADOR: RMONTOYG
+PROGRAMADOR: CARLOS ENRIQUE MONCADA
+FECHA: 14/03/2018
+CONSIGNACIÓN: @180304
+OT PADRE: 3698544
+
+CAMBIO DE MICROSUICHE DE POSICION DE LA VÁLVULA DE ADMISION.

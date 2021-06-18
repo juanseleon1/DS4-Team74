@@ -1,0 +1,21 @@
+
+
+Se crea ot el registro de tiempos e informes en la reparación de la bomba # 5 de refrigeración de generador de la central de Guadalupe III
+
+
+Camilo Montagut y Sergio Ramirez -22/03/2017
+
+Por solicitud de operación se realiza prueba de vibraciones en la motobomba 5 de refrigeración de radiadores por presentar vibracion excesiva. Se realiza el desmonte y reparación relacionado  lo sigueiente:
+
+- Cambio del cuerpo de impulsores por repuestos existentes.
+- Cambio de camisas a 2 de sus ejes. 
+- Cambio del eje lado motor por presentar desgaste a la altura del buje de la caja prensaestopa.
+- Cambio de buje de teflon de la caja prensaestopa por peresentar desgaste.
+- Se realiza limpiza y pintura de la tuberia perteneciente a la columna de la bomba
+- Limpieza del fitro de succion.
+
+Una vez instalada y puesta en servicio para la unidad se observa la presion en 24 psi y el amperaje del motor en 19 amperios.
+
+Nota: los bujes guias de caucho no se cambiaron por no tener repuestos, por esta razón se cambiaron las camisas de los ejes para adaptarlos al desgaste de los mismos bujes
+
+Ejecuta: equipo mantenimiento mecánico UOG

@@ -1,0 +1,7 @@
+
+08/09/2019 Víctor Zuleta / Luis Eduardo Arcila 
+Se realiza mantenimiento y limpieza general al controlador  del bobmbeo la Clara.
+
+
+24/06/2019
+SE CIERRA ESTA OT, SE REALIZARÁ CUANDO SALGA EN EL NUEVO SISTEMA DE INFORMACION "MAXIMO".

@@ -1,0 +1,42 @@
+Fecha: Abril 20 2014
+
+Evento:
+
+Desde el dia 19 de abril, durante los periodo de generacion 15 al 20, salen alarmas reiterativas indicando retiro y aplicacion de traba hidraulica en el reglador de velocidad de la unidad 4. No causa salida forzada ni paro de la unidad. Los operadores informan a traves del informe de gerencia del dia 20 de abril, esta inforamcion no aparece en bitacora.
+
+Informe operacion: "Estando la unidad 4 generando (165 MW) la traba hidraulica del distribuidor intenta constantemente aplicarse y desaplicarse. Durante el proceso de paro normal de esta unidad y luego de abrir interruptor de campo se da paro rapido 86 R. el distribuidor cierra correctamente y la traba hidraulica aplica sin problemas.Informá: turno 1"
+
+Acciones
+
+El dia 20 de abril, personal de operacion y  mtto hacen revision de la traba hidraulica, y bajo sospecha de que se tratara del mismo evento ocurrido el 7 de octubre de 2013 en a Unidad 3 (mismo comportamiento de la traba), se procede a retirar el sistema hidraulico de la traba y revisar el sello.
+
+Despues de retirado se evidencia rotura y desgaste del sello como consecuencia de la cristalizacion del material, posiblemente por altas temperaturas en el aceite.
+
+Ante la imposibilidad de cambiar el elemento fallado por falta del mismo se deja deshablitada la traba en posicion retirada para que la maquina pueda relaizar el proceso de arranque y paro sin problemas, ademas para que durante la generacion esta situacion no cause una salida forzada.
+
+Queda a la espera de adquirir el kit para reponerlo y habilitar nuevamente la traba.
+
+Observacion: la traba hidraulica de la unidad 3 todavia no se ha reparado, queda en estado pendiente hasta ser autorizado la compra del kit por caja menor. Numero de OT 2393581
+
+Informe en bitacora: "Referente a la unidad N° 4: La traba hidráulica queda bloqueada y deshabilitada ya que estaba presentando, en los eventos "Traba Hidráulica cerrojo". Se revisa y se observa que al desaplicarla comienza inmediatamente a aplicarse sola , se desmonta el servomotor  de la traba hidráulica y se encuentra el sello de labio totalmente destruido. Se bloquea el cerrojo que acopla con el embolo del servomotor del distribuidor mecánicamente y se deja sensando "traba desaplicada". Se prueba la unidad (arranque y paro) en dos ocasiones analizando si daba condiciones lo cual funciono bien. solamente sale la alarma " tiempo excedido traba hidráulica" en el momento del paro. Pendiente el cambio de los sellos del pistón los cuales se deben fabricar. Ejecuta Turno 2, Equipo mantenimiento mecánico y electrónico. Informó: Renato Montoya"
+
+Informa: Sandra Carmona
+
+Analisis
+
+Consultando en los historios de tendencias el comportamiento grafico de las variables retirar traba, aplicar traba, aranque regulador y paro regulador en la Unidad 4, se observa que desde el 12 de abril de 2014 las varialbles aplicar/retirar traba presentan un comportmiento oscilatorio muy frecuente durante todo el periodo de generacion de la unidad. En la generacion del 19 de abril (periodos 15 a 20) este comportamiento se volvio muchisimo mas frecuente e intenso, lo cual alerto a los operadores con la cadena de anuncios.
+
+Comparando este comportamiento con el ocurrdio a la Unidad 3, se observa que en esta ultima el comportamiento oscalatorio aplicar/retirar no se alcanzo a presentar en diferentes periodos de generacion ya que se intervino de inmediato la primera vez que ocurrio, en esta ocacion el primer evento fue muy intenso en comparacion con el primer evento de la unidad 4.
+
+El analisis hecho por Renato Montoya, indican que las altas temperaturas en el aceite han cristalizado el material del sello y al presentarse perdida de presion (debido a la fuga (?)) el sistema intenta recuperar la posicion de la traba ocacionando estas oscilaciones.
+
+La recomendacion es cambiar el material en los proximos kits a adquirir.
+
+Es importante tener en cuenta estos antecedentes en la unidad 1 y 2 ya que es altamente probable que se presente en estas unidades.
+
+Informa: Sandra Carmona
+
+___________________________________
+
+Por favor sientase en la libertad de docuemntar en esta OT todo lo que considere importante respecto de este evento: analisis, soluciones, causas, etc.
+

@@ -1,0 +1,10 @@
+FECHA: SEPTIEMBRE 9 Y 13 DE 2015  OT: 2872000
+
+EJECUTANTE: EFUENTESP, APUSHAIN, E PUSHAIN Y HGIRALRI 
+SOLICITANTE: HENRY GIRALDO
+
+Se recupera un galón de aceite hidráulico al AG1.
+Se le adiciona 1galon de aceite DTE24 ya que presentaba fallo por bajo nivel.
+
+Por presentarse bajo nivel aceite hidráulico, se inspecciona y se encuentra fallado un cilindro de accionamiento de tip, se realiza el cambio por uno que se tenía reparado en subestación.
+Queda en operación el aerogenerador.

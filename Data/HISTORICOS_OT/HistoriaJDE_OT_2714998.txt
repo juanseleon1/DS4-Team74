@@ -1,0 +1,8 @@
+
+2015-03-10
+
+Se pierde la señales en las estaciones de operacion correspondientes al Banco 4.
+ 
+Se revisa y se encuentra el conversor ADAM-4520 fallado, se realiza cambio del conversor, quedando las señales en condiciones normales.
+
+LEARCILAS

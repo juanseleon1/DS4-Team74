@@ -1,0 +1,11 @@
+Falla en el sistema del sello en la unidad 2 de Porce 2, las bombas se fallan por el diferencial de presion 
+
+
+24/06/2014
+
+se realiza verificacion del control de las bombas del sello de operacion en la unidad 2 de Porce 2, el sistema se falla por una discrepancia en la presion de aplicacion del sello mediante el calculo de diferencial, se encuentra problemas con el transductor de presion IQ2. se cambia y vericar el sistema.
+presostato instalado de  0-6 Bar se  escaliza y modifica en el programa UNITY logica de localizacionbloque 15
+
+Realizado por Wtobonl
+
+Terminado cerrar 

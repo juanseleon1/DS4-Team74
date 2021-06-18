@@ -1,0 +1,11 @@
+16/04/2016. 5:00a.m.
+
+Se pudo detectar que la Unidad 6 cuando sincroniza, no esta realizando la transferencia de los servicios Auxiliares AC a los de la Unidad.
+
+16/04/2016 INFORMA BIANEY BRAVO
+
+SE REALIZARA VERIFICACION POR PARTE DE LA ESPECIALIDAD ELECTRICA.
+
+ABRIL 26 DE 2016.
+Se revisa por oportunidad la transferencia y se encontró la unidad motorizada suelta, lo cual ocasionaba que los contactos auxiliares indicaran falsa alarma en la posición del interruptor, lo que estaba bloqueando la transferencia, se corrige el problema y queda pendiente que sincronice la unidad para verificar si realiza la transferencia.                                                                            Realizó: Grupo electrónico
+Informó: William Lopera  

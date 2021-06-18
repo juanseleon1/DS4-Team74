@@ -1,0 +1,11 @@
+
+ JULIO 30 DEL 2017 / JEOVANNY CORREA G
+
+En la secuencia de arranque de la unidad G41, se evidencia que están arrancando ambas bombas de lubricación forzada, la bomba que esta como respaldo arranca a los 5 segundos después del arranque de la bomba principal, generando una alta presión en la tubería. queda habilitada y trabajando como principal la bomba B, y se deja deshabilitada la bomba A.
+
+
+
+09/04/2018
+SE REVISA ELCONTRO, CABLEADO DE ESTE SISTEMA, SE DETECTAN PROBLEMAS DE CONTROL, SE CORRIGEN, Y QUEDA FUNCIONANDO CORRECTAMENTE, ES DE ANOTAR QUE ESTE TABLERO SERA CAMBIADO POR UNO MAS MODERNO...
+
+JUAN A. CAICEDO HENAO

@@ -1,0 +1,27 @@
+2018/03/06 MARITZA BACCA
+LOS FINALES DE CARRERA YA LLEGARON AL ALMACÉN DE DIRECTOS Y SE SOLICITÓ A ALEJANDRA QUE PROGRAME EL TRANSPORTE.
+
+
+2018/01/11 MARITZA BACCA
+
+SE ELABORA ÉSTA OT PARA ASOCIAR LA COMPRA DE LOS FINALES DE CARRERA CON LAS SIGUIENTES ESPECIFICACIONES
+
+INTERRUPTOR DE FINAL DE CARRERA PALANCA DE RODILLO CON RETORNO
+TIPO DE ACTUADOR: PALANCA DE RODILLO CON RETORNO DE RESORTE TERMOPLÁSTICO
+POLOS: 2
+CORRIENTE MÁXIMA AC: 10A
+TENSIÓN AC: 240V
+GRADO DE PROTECCION IP: IP65 O IP66
+Tipo y composición de contactos 1 NC + 1NA
+Resistencia a los choques: 50 gn (duración = 11 ms) de acuerdo con EN/IEC 60068-2-27
+Resistencia a las vibraciones: 25 gn (f = 10...500 Hz) de acuerdo con EN/IEC 60068-2-6
+
+
+
+SE COTIZARON CON EDEMCO:
+
+Alejandra Durango 
+Asesora Comercial 
+Eléctricas de Medellín Comercial S.A-EDEMCOCra 52 10-131 Tel.(574) 4446500  Ext. 238
+Medellín - Colombia E-mail: alejandra.durango@edemco.co <mailto:alejandra.durango@edemco.co> 
+Web: www.edemco.co <http://www.edemco.co/>

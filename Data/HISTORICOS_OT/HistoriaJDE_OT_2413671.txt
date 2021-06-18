@@ -1,0 +1,5 @@
+FECHA: Nov. 19/2013PROGRAMO: Daniel PalaciosEJECUTO: John Jader Orrego.
+Se realiza mantenimiento segun instructivo, se toman valores de variables electricas y se llenan registros.
+
+
+XE: REVISAR, LIMPIAR Y MEDIR REFRIFERACION GENERADOR DE LA UNIDAD

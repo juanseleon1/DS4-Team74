@@ -1,0 +1,12 @@
+23/06/2018. 18:45.
+
+Al cumplir proceso de arranque de Unidad G31 - By Pass queda abierto y al operar localmente el control cierra pero al volver a Automatico el control vuelve y abre, se solicita revisión y mantenimiento correctivo.
+
+Informa: Turnos 1 y 3. Martha Parra - Mario Morales - Mauricio Caicedo - Wilson Arango
+
+Realiza : Wilson Arango.
+
+25-06-2018
+programador jose montoya-uaimer dias
+el dia lunes 25 de junio de 2018 se aprovecha que estamos en cero generarcion y se le le da un arranque a la unidad hasta 
+girando y se observa que la unidad trabaja bien.

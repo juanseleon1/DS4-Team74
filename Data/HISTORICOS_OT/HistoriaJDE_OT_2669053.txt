@@ -1,0 +1,6 @@
+
+FECHA: ENERO 05 DE 2014
+
+EJECUTANTE: HENRY GIRALDO
+
+Fue necesario reponer el Mcb 103F4 que se disparó durante la apertura y cierre del circuito 742. Se deja en servicio el aerogenerador.

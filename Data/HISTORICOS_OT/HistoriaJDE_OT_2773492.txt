@@ -1,0 +1,4 @@
+JUN 4/2015 OT: 2773492 PROGRAMÓ: Javier Giraldo EJECUTÓ: Fernando Correa.
+Se realizó el mantenimiento según el instructivo GCTRE0003.
+
+XE: VERIFICAR Y REVISAR EL ESTATOR DE LA UNIDAD --------, LAS CABEZAS DE BOBINA, AMARRES Y DETECTORES DE TEMPERATURA.

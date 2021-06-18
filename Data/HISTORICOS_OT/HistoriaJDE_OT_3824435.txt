@@ -1,0 +1,41 @@
+2019/03/22 RUBEN ARBOLEDA
+Se crea OT para realizar implmentacion de 5S en la oficina de mantenimiento eléctrico, los elementos se llevarán para la bodega del asincrónico.
+
+2019-03-22 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3824435, PASO:1          
+Se inició con la implementación de las 5S en la oficina de mantenimiento eléctrico en casa de maquinas, Se empezó a sacar elementos para reubicarlos en el cuarto de recuperación del asincrónico. 
+
+2019-03-26 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3824435, PASO:2          
+Se continuó sacando elementos de la oficina de mantenimiento eléctrico, aplicando la metodología de las 5S.
+
+2019-03-27 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3824435, PASO:3          
+Se continuó sacando elementos de la oficina de mantenimiento eléctrico, aplicando la metodología de las 5S.
+
+2019-03-28 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3824435, PASO:4          
+Se continuó sacando elementos de la oficina de mantenimiento eléctrico, aplicando la metodología de las 5S.
+
+2019-03-29 REALIZÓ: JEISON ALBERTO ORTEGA - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3824435, PASO:5          
+Se continuó sacando elementos de la oficina de mantenimiento eléctrico, aplicando la metodología de las 5S.
+
+2019-03-30 REALIZÓ: JEISON ALBERTO ORTEGA - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3824435, PASO:6          
+Se continuó sacando elementos de la oficina de mantenimiento eléctrico, aplicando la metodología de las 5S.
+
+2019-03-31 REALIZÓ: JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3824435, PASO:7          
+Se realizó adecuación eléctrica en la cocineta a la entrada del asincrónico con el fin de independizar las alimentaciones para los equipos de gran consumo de energía. 
+
+2019-04-01 REALIZÓ: JEISON ALBERTO ORTEGA - OMAR SANCHEZ (OPERADOR),  PROGRAMO: RARBOLG OT: 3824435, PASO:8-8,1          
+Se continuó con la adecuación eléctrica para la cocineta a la entrada del asincrónico, se independizó las cargas y se dejó en operación normal. 
+
+2019-04-05 REALIZÓ: JUAN DAVID GARCIA - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3824435, PASO:9          
+Se aplica la metodología de las 5S en el cuarto de recuperación del asincrónico.
+
+2019-04-06 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3824435, PASO:10          
+Se organiza el cuarto de recuperación electricista ubicado en el área del asincrónico aplicando la metodología de las 5s.
+
+2019-04-10 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3824435, PASO:11          
+Se continuó con la implementación de las 5S en el asincrónico, se adecuaron elementos en las cómodas, queda pendiente continuar organizando y separando.
+
+2019-04-11 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3824435, PASO:12          
+Se continuó con el orden y aseo general en el cuarto de la caverna disipadora. 
+
+2019-04-14 REALIZÓ: OSCAR ALIRIO GIRALDO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3824435, PASO:13          
+Se continuó con la implementación de las 5S en el asincrónico, se están separando elementos.

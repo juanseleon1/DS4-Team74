@@ -1,0 +1,17 @@
+PLANEADOR:CESAR AUGUSTO GIRALDO RESTREPO
+PROGRAMADOR: WILLIAM LOPERA
+FECHA: 027/02/2018
+
+ASUNTO : MANTENIMIENTO PREVENTIVO Y CORRECTIVO
+
+ACTIVIDADES: 
+ LIMPIAR, APRETAR TORNILLERIA
+ IDENTIFICAR FUGAS
+ PRUEBAS DE AISLAMIENTO (IP, DA), RESISTENCIA OHMICA
+
+ABRIL 19 DE 2018.
+Por oportunidad se realiza mantenimiento general eléctrico, ajuste de tornillería, limpieza, pruebas de resistencia Óhmica en devanados y resistencia de aislamiento por el lado de alta y baja tensión, obteniendo buenos resultados, se normaliza y quedan los servicios auxiliares en condiciones normales.
+PRUEBA VOLTAJE APLICADO VOLTAJE RECIBIDO VALOR MEDIDOAta - Tierra 5000 V 5002 9.45 GBaja - Tierra 500 V 502 5.83 GAlta - Baja 500 V 502 10.3G
+PRUEBA RESISTENCIA (m) PRUEBA RESISTENCIA (mm)X1 - X2 2.4 H1 - H2 1.94X2 - X3 2.38 H2 - H3 1.97X1 - X3 2.4 H1 - H3 1.94
+Realizó: Luis Fernando Correa - Jorge Echeverri.
+Informó: William Lopera.

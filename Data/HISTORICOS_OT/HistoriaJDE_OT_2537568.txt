@@ -1,0 +1,5 @@
+Favor revisar el funcionamiento del By Pass de la válvula de admisión de la unidad 6 ya que no recibe orden de apertura en su proseso de arranque en remoto, ni en local manual. Al abrir la válvula de admisión después de verificar presiones equilibradas el By Pass si abre.
+Reporto: Carlos Andres Mejia 27/05/2014
+
+2014/05/28 GIOVANNY DIAZ
+Se realizó reision y se encontró un relé con falla, se intaló uno de reserva y quedó en funcionamiento normal.

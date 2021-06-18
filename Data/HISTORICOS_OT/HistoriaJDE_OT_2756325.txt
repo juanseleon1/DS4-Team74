@@ -1,0 +1,7 @@
+PRUEBAS ELECTRICAS Y MANTENIMIENTO GENERAL AL ROTOR DE LA UNIDAD.
+
+JULIO 7 DE 2015
+
+Se realizan cambio de aislamientos en las uniones polares, barraje, se soldan las terminales, se aplica resina en los aislamientos laterales de los trapecios, se la lava el rotor, se pinta y se le hacen pruebas electricas. Los resultados se  encuentran almacenados en la carpeta de pruebas en mantenimiento mayor G32 2015.
+
+Programó: William Lopera.

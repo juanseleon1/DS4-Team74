@@ -1,0 +1,13 @@
+Solicitante-Planeador: 856921
+Aprobador: 355694
+Fecha de solicitud: 
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia 
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor
+Realización de aforo
+cambio de dalogger de cr 10x a cr800

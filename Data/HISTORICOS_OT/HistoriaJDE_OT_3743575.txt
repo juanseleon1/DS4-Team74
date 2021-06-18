@@ -1,0 +1,5 @@
+2018/07/04 RUBEN ARBOLEDA
+Se requeire desconectar y conectar motobomba CW1 para que el personal de mantenimiento mecánico realice una revisión por vibraciones.
+
+2018-07-05 REALIZÓ: EDWAR ALEXANDER LONDOÑO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3743575, PASO:1          
+Se realizó desconexion y  conexión de la motobomba CW1 a solicitud del personal de mantenimiento mecánico.

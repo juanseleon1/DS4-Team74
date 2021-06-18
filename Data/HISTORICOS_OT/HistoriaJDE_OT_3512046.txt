@@ -1,0 +1,11 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+20-06-2017
+PROGRAMADOR JOSE MONTOYA
+Se realiza limpieza y se revisan sensores de vibración, se dejan calibrados así: CSPL 8.77 VDC, el CSPR 8.61VDC y AXIAL 9.56vdc
+Nivel de aceite cojinete superior se encontró en 275 El nivel patrón es 275mm.
+según el formato interno que el grupo electrónico está manejando y se realizó limpieza e inspección visual a las RTD del cojinete.
+Se inyectan las siguientes señales
+  COJ GUIA SUP °C COJ EMPUJE °C (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES  (RTD) TIG BORNES   PATRÓN °C ACTE 2 SEG 3 SEG 2 SEG 5 SEG 11  40 40,6 39,8 40,0 39,7 39,6  60 60,5 59,7 60,0 59,7 59,8  80 80,5 79,8 80,0 79,8 79,8  ALARMA  70,0 70,0 70,0 70,0 70,0  DISPARO  80,0 80,0 80,0 80,0 80,0  
+
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2017\CUATRIMESTRALES G3

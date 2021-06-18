@@ -1,0 +1,30 @@
+
+06/12/2015  DIONIS MAURICIO ZAPATA VALENCIA
+
+Se genera esta O.T para atender emergencia de anillo distribuidor pegado el dia 06/12/2015 a las 18:00Horas, con esta misma O.T se atendera pruebas a realizar el dia 08/12/2015 para dar veredicto final sobre la falla leve y grave que finalmente recaen sobre el regulador de velocidad. 
+
+09/12/2015 ING. EFRAIN VERGARA - WILMER DAVID MENDEZ CARO
+para la búsqueda de la causa raíz del problema previamente se realizaron pruebas, descartando el control electrónico y el sistema electrohidráulico, determinando que el problema podría ser causado por los patines guía, bieletas de acople anillo distribuidor o desgate en los sellos de alabes. 
+
+Los sellos de los alabes fueron descartados teniendo en cuenta que la unidad presentaba condiciones de igualación de presión normales para la operación.
+
+A continuación se relacionan las actividades realizadas para determinar y corregir el fenómeno de bloqueo de la turbina unidad 3PL para la regulación de potencia.
+
+ØVerificación de posición de bloqueo anillo distribuidor en potencia 55MW
+ØDesbloqueo mecánico con gato hidráulico al tiempo de cierre para determinar el tipo de esfuerzo y magnitud del fenómeno.
+ØDesmontaje de patines guía deslizantes superiores
+ØControl dimensional de holguras entre patín guía radial y anillo distribuidor
+ØControl dimensional, inspección y limpieza de bieletas de acople anillo distribuidor  
+ØLimpieza general con productos desengrantes
+ØAplicación de aceite lubricante grado iso 68
+ØMontaje y calibración de patines guía deslizantes superiores, la calibración se realizó con shinnes de 0.15mm y 0.25mm para garantizar el ingreso de aceite lubricante a través de los patines, además de eliminar bloqueo mecánico por contacto del patín.
+ØPruebas de funcionamiento en todos los rangos de potencia 0MW hasta 69MW, entregando la unidad al equipo de operación en óptimas condiciones para explotación comercial.
+
+
+Conclusión:
+
+Según lo evidenciado el fenómeno se presentó por el ajuste entre los patines guía deslizantes radiales y el anillo distribuidor, dicho atascamiento fue gradual en el tiempo ocasionado por el ajuste y los elementos en suspensión, humedad, sólidos y falta de lubricante.
+
+De manera preventiva se continuara haciendo inspección física, limpieza y aplicando aceite lubricante.
+
+Debemos tener en cuenta que los ciclos de trabajo del anillo distribuidor deben generar un desgaste del patín guía radial, fenómeno que será favorable en cierto grado para el proceso de regulación, de no presentarse el desgaste será necesario programar la unidad para desmontar el anillo distribuidor y realizar un mecanizado en los patines guía.

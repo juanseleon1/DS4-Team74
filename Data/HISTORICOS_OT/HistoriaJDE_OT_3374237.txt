@@ -1,0 +1,52 @@
+2017/01/22 LUIS FERNANDO CASTRILLON
+REVISAR CONTROL Y POTENCIA DEL EQUIPO. EL COMPRESOR PRESENTA PROBLEMAS EN EL MOMENTO DEL ARRANQUE AUTOMATICO, SE DEBE ARRANCAR EN MANUAL, EN EL MOMENTO DEL PARO A LAS 100 PSI, DESCONECTA EL COMPRESOR, PERO EL VENTILADOR QUEDA EN FUNCIONAMIENTO.
+SE PROCEDIO A RETIRAR LA ALIMENTACION Y VOLVERLA A COLOCAR PRESENTANDO ESTE UN RUIDO ANORMAL, Y NO ARRANCA. SE DEJA EL BREAKER DE POTENCIA ABIERTO.
+2017/01/23 DIEGO BEDOYA
+Se revisa el compresor Ingersoll Rand de los servicios generales, en la programación de este compresor está que después de realizar la carga a 100 PSI, queda funcionando en vacío durante 2 minutos.  Este compresor tiene problemas en la válvula 5 Sv y en la válvula de mínima presión. Estas válvulas están siendo cotizadas en almacenes JJ, para cambiarlas.
+Queda trabajando en automático.  
+La revisión fue realzada por Fabio Herrera, Wilder Herrera y Andres Alzate.
+2017/02/13 DIEGO BEDOYA
+Relación de Repuestos Compresor Ingersoll-Rand, SSR - EP60:
+
+
+
+Ítem Cantidad CCN Descripción Vr. Unit. $ Disponibilidad1 1 99289845 Válvula mín. Presión 1.579.000 Disponible2 1 42552687 Válvula 5SV 39476569  2.931.000 6 A 8 Semanas   TOTAL REPUESTOS $4.510.000   
+2017/05/24 DIEGO BEDOYA
+Se realiza la cotización de repuesto faltante para el compresor Ingersoll-Rand, SSR - EP60, en esta compra se debe incluir el servicio de instalación de esta válvula y garantizar que el compresor quede en optimas condiciones de operación.
+Ítem Cantidad CCN Descripción Vr. Unit. $ Disponibilidad1 1 23137920 Válvula termostática  1.200.000 Disponible2 1 064 montaje de válvulas 650.000 DisponibleTOTAL REPUESTOS $ 1.850.000
+2017/07/11 DIEGO BEDOYA
+El día de hoy martes 11 de julio de 2017, se realiza el mantenimiento a los compresores de servicios generales por el técnico de almacenes JJ (Henry García). Dentro de este mantenimiento, al compresor Ingersoll Rand Ep60 (compresor 2) se le realiza lo siguiente:
+Se cambia la válvula termostática código 23137920, la cual causaba alarma de alta temperatura en el compresor.
+Se realiza el cambio de aceite en el compresor. 
+El compresor se entrega al operador Juan Carlos Duarte en condiciones normales de operación.
+
+agosto 14 de 2017 
+ot terminada y cerrada 
+andres ramirez 
+
+2017/01/22 LUIS FERNANDO CASTRILLON
+REVISAR CONTROL Y POTENCIA DEL EQUIPO. EL COMPRESOR PRESENTA PROBLEMAS EN EL MOMENTO DEL ARRANQUE AUTOMATICO, SE DEBE ARRANCAR EN MANUAL, EN EL MOMENTO DEL PARO A LAS 100 PSI, DESCONECTA EL COMPRESOR, PERO EL VENTILADOR QUEDA EN FUNCIONAMIENTO.
+SE PROCEDIO A RETIRAR LA ALIMENTACION Y VOLVERLA A COLOCAR PRESENTANDO ESTE UN RUIDO ANORMAL, Y NO ARRANCA. SE DEJA EL BREAKER DE POTENCIA ABIERTO.
+2017/01/23 DIEGO BEDOYA
+Se revisa el compresor Ingersoll Rand de los servicios generales, en la programación de este compresor está que después de realizar la carga a 100 PSI, queda funcionando en vacío durante 2 minutos.  Este compresor tiene problemas en la válvula 5 Sv y en la válvula de mínima presión. Estas válvulas están siendo cotizadas en almacenes JJ, para cambiarlas.
+Queda trabajando en automático.  
+La revisión fue realzada por Fabio Herrera, Wilder Herrera y Andres Alzate.
+2017/02/13 DIEGO BEDOYA
+Relación de Repuestos Compresor Ingersoll-Rand, SSR - EP60:
+
+
+
+Ítem Cantidad CCN Descripción Vr. Unit. $ Disponibilidad1 1 99289845 Válvula mín. Presión 1.579.000 Disponible2 1 42552687 Válvula 5SV 39476569  2.931.000 6 A 8 Semanas   TOTAL REPUESTOS $4.510.000   
+2017/05/24 DIEGO BEDOYA
+Se realiza la cotización de repuesto faltante para el compresor Ingersoll-Rand, SSR - EP60, en esta compra se debe incluir el servicio de instalación de esta válvula y garantizar que el compresor quede en optimas condiciones de operación.
+Ítem Cantidad CCN Descripción Vr. Unit. $ Disponibilidad1 1 23137920 Válvula termostática  1.200.000 Disponible2 1 064 montaje de válvulas 650.000 DisponibleTOTAL REPUESTOS $ 1.850.000
+2017/07/11 DIEGO BEDOYA
+El día de hoy martes 11 de julio de 2017, se realiza el mantenimiento a los compresores de servicios generales por el técnico de almacenes JJ (Henry García). Dentro de este mantenimiento, al compresor Ingersoll Rand Ep60 (compresor 2) se le realiza lo siguiente:
+Se cambia la válvula termostática código 23137920, la cual causaba alarma de alta temperatura en el compresor.
+Se realiza el cambio de aceite en el compresor. 
+El compresor se entrega al operador Juan Carlos Duarte en condiciones normales de operación.
+
+agosto 14 de 2017 
+ot terminada y cerrada 
+andres ramirez 
+

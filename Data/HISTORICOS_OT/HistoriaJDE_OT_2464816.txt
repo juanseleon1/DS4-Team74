@@ -1,0 +1,36 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO __________________
+
+PRESION DE ACEITE (PSI) __________________
+
+TIEMPO DE TRABAJO (min) __________________
+
+TEMPERATURA DE ACEITE (°C) __________________
+
+TEMPERATURA AGUA (°C) __________________
+
+VOLTAJE DE SALIDA __________________
+
+CICLOS POR MINUTO __________________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027

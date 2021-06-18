@@ -1,0 +1,12 @@
+MANTENIMIENTO ANUAL BANCO DE TRANSFORMADORES
+AGOSTO 09 A 11 DEL 2018
+Se realiza mantenimiento preventivo según instructivo GCG3E0010, se revisan posibles fugas en las tres fases (R-S-T), se reaprietan conexiones en el lado de alta y de baja, se revisan conexiones en los gabinetes de control (relés, interruptores, fusibles, resistencia de calefacción), bujes, aisladores, estado de la silica. No se encuentran anomalías.
+Se realizaron las siguientes actividades.
+ 
+ Se reaprietan flanches para eliminar posibles fugas.
+ Se revisan el tanque de expansión, válvula de sobrepresión, relé de BUCHHOLZ.
+ Se ajustan todos los puntos de conexión de control y de potencia.
+ se cambia silica en las tres fases por presentar desgaste.
+
+Programo: Carlos Andres Forero
+Ejecuto: Edgar Rodas-Edinson Hernandez

@@ -1,0 +1,4 @@
+2016/11/23 EDWAR LONDOÑO - JAIDIBER MARIN (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó limpieza general y revision del funcionamiento, no se accancó, se tomaron los siguientes datos: 
+EQUIPO: EXTRACTOR E4 CORRIENTE: R:0, S:0, T:0, VOLTAJES RS:449, ST:452, TR:452, AISLAMIENTO DE MOTOR: 890 M 
+No se encuentra en servicio, tiene la banda reventada, OT:2938575 

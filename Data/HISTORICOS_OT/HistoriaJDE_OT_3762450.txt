@@ -1,0 +1,33 @@
+- FECHA : MARTES SEPTIEMBRE 18 DE 2018
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : FRANCISCO QUINTERO - OSCAR GIRALDO - ANDRES BARRIGA - VICTOR GARCIA 
+- ASOCIADO A LA OT : 3762450
+- ASUNTO : HACER MANTTO MP SEMESTRAL
+                       * REALIZAR MANTTO SEGUN PASOS INSTRUCTIVO
+
+                     * Se cambiaron escobillas 1A - 1B - 2A - 2B - 3B - 6A - 6B - 7B - 8A - 8B - 9B
+                     * Se tenian medidas iniciales :
+                        - 1A = 30.5 mm      - 6A = 30.0 mm
+                        - 1B = 29.5 mm      - 6B = 29.0 mm
+                        - 2A = 29.5 mm      - 7A = 35.0 mm
+                        - 2B = 32.0 mm      - 7B = 29.0 mm
+                        - 3A = 36.0 mm      - 8A = 30.5 mm
+                        - 3B = 28.5 mm      - 8B = 32.0 mm
+                        - 4A = 36.0 mm      - 9A = 37.5 mm
+                        - 4B = 36.5 mm      - 9B = 29.0 mm
+                        - 5A = 35.0 mm      - 10A = 34.0 mm
+                        - 5B = 33.0 mm      - 10B = 31.0 mm
+
+                    ** Escobilla eje rotor = 25 mm ...no se cambió
+                    ** Escobillas asociado a protección tierra rotor :
+                        - anillo superior = 22 mm se cambió
+                        - anillo inferior = 34.5 mm no se cambió
+
+       Observaciones : se retiró tapa superior para poder retirar la alta suciedad que se tenía en todas las partes de la 
+                                        excitación 
+                                       * se tiene una alta contaminación asociada a polvo de carbón escobillas + polvo obra civil + contami-
+                                         nación con aceite ...esto hace una masa muy contaminante.
+
+
+
+  

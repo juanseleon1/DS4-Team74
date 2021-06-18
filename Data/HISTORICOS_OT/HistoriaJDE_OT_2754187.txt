@@ -1,0 +1,13 @@
+PLANEADOR: BIANEY BRAVO VALENCIA MAYO 01/2015
+DESMONTAR  INSTRUMENTACION COJINETE INFERIOR
+
+09/MAYO/2015
+MANTENIMIENTO MAYOR - OVERHALL ELECTRONICO
+
+Se desconectaron y desmontaron los sensores de vibracion con sus respectivos soportes (paralelo y perpendicular) y se organizaron sus extensiones con el fin de permitir bajar la tapa inferior del cojinete.      
+Se desconectaron y desmontaron las 2 RTD´s de aceite y las 4 RTD"S de temperatura metal guia                                       
+Se desconecto y retiro el sensor de nivel de aceite.
+
+
+Ejecuto: Grupo de electronica
+

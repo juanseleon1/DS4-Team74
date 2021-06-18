@@ -1,0 +1,7 @@
+XL: VERIFICAR Y LIMPIAR, EL TABLERO Y SUS PARTE, INSPECCIÓN SENSORICA Y SUS TRANSDUCTORES RV.
+
+
+20-09-2018
+PLANEADOR:YOFRED RODRÍGUEZ.
+PROGRAMADOR: JOSÉ MONTOYA.
+Se realizó mantenimiento al tablero de control del regulador hidráulico, verificando el correcto funcionamiento de la pantalla de visualización, 

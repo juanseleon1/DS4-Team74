@@ -1,0 +1,9 @@
+MAY 14/2014 OT: 2521379 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edisson Hernández.
+Se realizó la extracción de la muetra de aceite para la cromatografía, segun instructivo GAGPE0001 y fue enviada al laboratorio de aceites de La S/E Colombia.
+
+
+
+PLANEADOR:
+XE: RUTA DESARROLLO 
+MANTENIMIENTO SEMESTRAL ELECTRICO: TOMAR MUESTRAS DE ACEITE - TRANSFORMADORES
+ESTA MUESTRA ES PARA REALIZAR LAS PRUEBAS CROMATOGRÁFICAS DEL ACEITE DE LOS TRANSFORMADORES DE POTENCIA CENTRAL GUADALUPE 4.

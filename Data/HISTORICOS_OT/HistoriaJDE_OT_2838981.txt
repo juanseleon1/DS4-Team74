@@ -1,0 +1,8 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DE LA VALVULA DE 4 VIAS
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico de la válvula de 4 vías con la reparación de los asientos internos de los actuadores. Se cambian los resortes de los actuadores y se realiza pintura general
+
+Ejecuta: equipo mantenimiento mecánico GIII

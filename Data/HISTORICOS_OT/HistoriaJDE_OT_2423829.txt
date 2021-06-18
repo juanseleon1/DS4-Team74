@@ -1,0 +1,46 @@
+- FECHA : DICIEMBRE 23 DE 2013
+- REALIZÓ : WILDER HERRERA - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 2423829
+- ASUNTO : HACER MANTTO MP
+
+- DATOS DE PLACA :
+  ** Pot: 3 HP
+  ** V: 460
+  ** i : 6.9 A
+
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí     
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra:  3.96 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS = 467.2 V
+       ST =  466.4 V                                                                 
+       RT =  465.5 V
+       Corriente de arranque:  
+Fase R = 51.3 A
+       Corriente de marcha:  
+Fase R = 6.3 A
+Fase S = 6.3 A  
+Fase T =  5.9 A                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = N/A
+
+6. Observaciones:el compresor arranca en 56.7 bar y para en 59.5 bar.
+                                   ** equipo queda para operar como respaldo
+                                   **  equipo utilizado para medir aislamiento : Megguer MI 3121H  a 500 Vdc
+                                   ** NOTA : el horómetro del equipo está dañado
+

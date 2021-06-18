@@ -1,0 +1,15 @@
+
+Marzo 11/2013
+
+Se presenta falla en la comunicacion entre unidades y Centralog P2
+Se reincia gateway sin resultados quedando sin monitoreo de unidades en sala de operacion.
+
+Informa. 
+Jose Heriberto Suarez
+
+Se hace configuración de las tajetas de comunicación de la Gateway, se conecta el equipo y se ensaya, no se logra obtener comunicación con el PLC de las unidades, hay que revizar las tarjetas de comunicación. 
+Se envian tarjetas de comunicación a reparar a SUMMA Integrada, esta pendiente volver a hacer el procedimiento de configuración cuando las tarjetas devuelvan y ensayar su funcionamiento.
+Se traen las tarjetas y se instalan, se hace configuración, pero no se logra hacer la comunicación con el PLC de las unidades.
+Se buscara otra alternativa, buscando normalizar el sistema de operación de la central y que se tengan los datos de las unidades 1 y 3.
+
+Informa : Jorge Rodríguez 

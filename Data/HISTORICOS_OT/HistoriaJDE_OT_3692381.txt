@@ -1,0 +1,13 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+14-03-2018
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR: JOSÉ MONTOYA
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, quedan calibrados así: CTPL 10.46 VDC y CTPR8.56 VDC   - KPH: 15.21 VDC.
+Nivel cojinete de turbina se encontró en 175.8 y el nivel patrón es 180 
+El sensor CTPL quedo pendiente para calibración en desarme mayor. 
+Se realizó limpieza e inspección visual a las RTD del cojinete.
+la informacion quedo consignada en la direccion:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2016\CUATRIMESTRALES G3
+
+ 

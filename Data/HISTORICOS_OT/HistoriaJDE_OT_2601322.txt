@@ -1,0 +1,9 @@
+SEP 17/2014 OT: 2601322 PROGRAMÓ: Javier Giraldo EJECUTÓ: Felipe Jaramillo.
+Se revisa el motor del ventilador y esta fallado, debe repararse o cambiarlo por uno nuevo.
+
+
+2014/09/16
+
+Revisar el motor del ventilador del transformador de potencia Fase R  , correspondiente a troneras , este ventilador  disparó el térmico , y al rearmarlo el motor presenta  un ruido  muy fuerte.
+INFORMA:
+Equipo operación troneras

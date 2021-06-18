@@ -1,0 +1,5 @@
+2015/09/15 LESLIE MARULANDA
+
+Actividades a realizar:
+ Marcacion e identificación y aislamiento de cableado control y ductos RTDS generador.
+ Cortocircuitar RTDS generador a tierra "para las pruebas electricas que se realicen en el generador".

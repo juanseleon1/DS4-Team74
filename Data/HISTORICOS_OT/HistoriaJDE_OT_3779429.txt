@@ -1,0 +1,13 @@
+MANTENIMIENTO ELECTRONICO CUATRIMIESTRAL 
+FECHA: 28/11/2018
+OT: 3779429
+
+PLANEADORA:SANDRA CARMONA
+
+PROGRAMADOR:BERNARDO BEDOYA
+
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema.
+
+Medidas de corriente y desplazamiento según porcentaje de apertura del distribuidor% mando 0 25 50 75 100Medida en % mA % mA % mA % mA % mADistribuidor 0 4.16 25 8.2 50 12.15 75 16.10 100 19.98Voltaje DC -7.97 -3.98 0.0 4.01 7.96
+REALIZÓ: GRUPO ELECTRÓNICO.

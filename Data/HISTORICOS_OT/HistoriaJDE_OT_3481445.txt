@@ -1,0 +1,16 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 15-05-2017
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento:
+
+Realizar las siguientes acciones de mantenimiento preventivo:
+                Inspección general del estado de la estación
+                Limpieza de estación
+                Descarga y verificación de datos de la estación
+                Análisis de datos de estado del datalogger y transmisor
+                Verificación de sistema de potencia y puesta a tierra
+                Verificación de sistema de transmisión
+                Realización de aforo
+               Instalación de sensor de radar
+                

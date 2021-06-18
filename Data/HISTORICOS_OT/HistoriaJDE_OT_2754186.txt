@@ -1,0 +1,10 @@
+PLANEADOR: BIANEY BRAVO VALENCIA MAYO 01/2015
+DESMONTAR INSTRUMENTACION COJINETE SUPERIOR
+
+09/MAYO/2015
+MANTENIMIENTO MAYOR - OVERHALL ELECTRONICO
+
+Se desconectaron y desmontaron los sensores de vibracion con sus respectivos soportes (axial, paralelo y perpendicular) y se organizaron sus extensiones con el fin de permitir la extraccion de la mensula superior.          
+Se desconectaron y desmontaron las 2 RTD´s de aceite, las 4 RTD´s de metal Guia y las 4 RTD´s Empuje.
+
+Ejecuto: Grupo de electronica

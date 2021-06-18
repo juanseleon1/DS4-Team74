@@ -1,0 +1,10 @@
+2017/07/05 RUBEN ARBOLEDA
+En la OT: 3476786 se evidenció un punto caliente en la peineta de Salida se encuentra en el nivel 4 de los parámetros
+establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 30.9°C, lo cual indica que presenta una deficiencia mayor en su funcionamiento, se debe realizar el correctivo, ademas revizar las conexiones y mejorar el contacto. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación. 
+Se crea esta OT correctiva para su reparación.
+
+2017-08-02 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3531719, PASO:1          
+Se realizó mantenimiento correctivo a la motobomba CW9, se realizó limpieza general de los contactos de potencia y se cambio una hembra de los contactos enchufables, se dejó en observación.
+
+2017-08-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3531719, PASO:5          
+Se realizó seguimiento termográfico a la motobomba CW9, se encontró en condiciones normales, se anexa el informe a la OT.

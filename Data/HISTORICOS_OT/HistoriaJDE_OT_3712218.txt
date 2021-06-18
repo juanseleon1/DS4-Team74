@@ -1,0 +1,31 @@
+Por favor enviar el número de referencia o catálogo completo de cualquiera de los módulos inversores para pedir el repuesto faltante.
+
+
+
+2018/04/22 OT 3712218  PROGRAMO: MARITZA BACCA  EJECUTO:RAFAEL SEGOVIA CARO
+BAJO ESTA OT SE REALIZA MANTENIMIENTO A LOS CUATRO MODULOS DEL INVERSOR, SE LE APLICA LIMPIA CONTACTOS Y SE LIMPIA CON BROCHA Y LIENCILLO, ADEMAS SE LE TOMAN LOS SIGUIENTES DATOS
+V=118 V
+A=36
+KW=4.0
+KVAR=1.5
+KVA=4.3
+PF=0.94
+HZ=60.0
+KWH=42.9
+KVARH=33.5
+HORAS=426.6
+
+
+
+
+13/04/2018 MARITZA BACCA: SE GENERA ESTA OT PARA REALIZAR EL MANTENIMIENTO PREVENTIVO A ESTE EQUIPO. SE REALIZARA LIMPIEZA Y TOMA DE DATOS OPERATIVOS.
+
+Rafa,
+
+Por favor elaborar OT para mantenimiento preventivo a los 4 módulos electrónicos del inversor TSI-Bravo del ciclo simple. Se observa mucho polvo en el equipo. 
+
+Es importante tomar la referencia completa para comprar el módulo que se dañó y fue retirado.
+
+Atentamente,
+
+Yesid Martinez. 

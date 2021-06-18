@@ -1,0 +1,7 @@
+FECHA: Noviembre 15/2017PROGRAMO: Daniel PalaciosEJECUTO: Frank Córdoba y Jairo torres.
+
+Se realiza verificación y limpieza a las celdas +EG1 y +EG2 banco de tiristores 1 y 2, se retiran ventiladores para su limpieza se revisan tiristores y se hace aseo a la celda. Lo mismo en la celda +EE barraje de salida y la del interruptor de campo. 
+Trabajo ejecutado por: Frank Córdoba y Jairo torres.
+
+
+XE: VERIFICAR, LIMPAR Y CHEQUEAR EXCITACIÓN PRINCIPAL DE LA UNIDAD

@@ -1,0 +1,17 @@
+Jueves 25/agosto/2016
+
+Abad De Jesus Ramirez Giraldo.
+
+La unidad 1 no recibe la orden de subir megavares de la estacion de operacion,fue necesario subir megavares en local manual del tablero de control
+
+
+25/agosto/2016
+Se cambia tarjeta DSDO115 de la bornera U04:161  por presentar problemas, ocasionando la apertura de los fusibles de las borneras de acople B28.1x90  inhabilitando las salidas digitales del controlador.Jueves 25/agosto/2016
+
+Abad De Jesus Ramirez Giraldo.
+
+La unidad 1 no recibe la orden de subir megavares de la estacion de operacion,fue necesario subir megavares en local manual del tablero de control
+
+
+25/agosto/2016
+Se cambia tarjeta DSDO115 de la bornera U04:161  por presentar problemas, ocasionando la apertura de los fusibles de las borneras de acople B28.1x90  inhabilitando las salidas digitales del controlador.

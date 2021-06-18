@@ -1,0 +1,6 @@
+2014/09/22 RUBEN ARBOLEDA -ANDERSON LOPEZ
+Queda en servicio el sistema de lubricacion forzada de la unidad 8, queda pendiente realizar una mejora en cableado de control y potencia. 
+
+2015/06/02 Mario Restrepo - Sebastian Hincapie - Jhonatan Usme
+Se realizó adecuacion de cableado en el sistema de lubricación forzada, ya que el sistema se encontraba cercano al transformador de excitación. 
+Se dejó en condiciones normales. 

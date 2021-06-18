@@ -1,0 +1,26 @@
+LAS VIBRACIONES AXIALES DE LA UNIDAD 2 DE TRONERAS ESTAN EN 298 MICRONES 
+FAVOR INSPECCIONAR ESTADO MECANICO , CONFRONTAR VIBRACIONES CON OTRO EQUIPO , ANALIZAR TEMPERATURAS , INSPECCIONAR INSTRUMENTACION
+
+14/09/2015
+EQUIPO ELECTRONICO
+
+Se realizó la verificación de todos los sensores de vibración de la Unidad 1 y la Unidad 2 de Troneras según la OT : 2876657. 
+Se evidencia que la unidad 2, que inicialmente se visualizaba con vibraciones Altas en el sensor axial, se encontró el sensor descalibrado.
+Se procede a calibrar el sensor Axial de la Unidad 1 y Unidad 2, donde se registran los siguientes valores finales:
+
+Unidad 1
+Axial= 14.82 vdc ( se calibro y se deja en 10.0)
+CSL= 10.63 vdc
+CSP=10.05 vdc
+RPM=9.50 vdc
+
+Unidad 2
+Axial= 16.56 vdc 298 micrones ( se calibro y se deja en 10.0)
+CSL= 10.13 vdc
+CSP=9.40 vdc
+RPM=8.54 vdc
+
+Después que la unidad se sincroniza se verifica y se evidencia que las vibraciones no bajaron, quedaron en 280 micrones las vibraciónes Axiales de la unidad 2. La recomendación es instalar y medir con un equipo externo este movimiento Axial de la Unidad 2 para comprobar y descartar si las vibraciones son reales o es el soporte y/o el instrumento.
+
+Ejecuto: Zoraida Monsalve - Fredy Duarte.
+Programador: Oscar Arango

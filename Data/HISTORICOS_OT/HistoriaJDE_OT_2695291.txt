@@ -1,0 +1,34 @@
+PLANEADOR: BIANEY BRAVO VALENCIA: MAYO 01 /2015.
+MANTENIMIENTO MAYOR UNIDAD 2 DE GUADALUPE 3
+
+HITOS IMPORTANTES:
+-CAMBIO DE DEVANADOS ESTATOR
+-OVERHAUL MECANICO
+- OVERHAUL ELECTRICO
+- OVERHAUL ELECTRONICO
+-AJUSTE Y CALIBRACIÓN RTD'S
+-PRUEBA DE ESTANQUEIDAD SERVOMOTORES , AGUJAS Y DEFLECTOR
+-CAMBIO SERPENTIN COJINETE DE TURBINA
+-REPARACION JUNTA 
+
+JULIO 08 DE 2015 A LAS 22:26.
+La unidad se entregó para operación comercial.
+Las actividades principales desarrollados en el mantenimiento mayor fueron:
+- Cambio de devanados estatóricos.
+- Reparación de junta estatórica.
+- Overhaul mecánico, eléctrico y electrónico.
+- Reparación camisas y pistones inyectores.
+- Adecuación andamio rodete.
+- Cambio serpentín cojinete, turbina.
+- Instalación sensores de nivel nuevos cojinetes.
+- Cambio control agujas.
+- Mantenimiento y cambio de aislamientos rotor.
+- Re aislamiento anillos rozantes.
+- Tratamiento aceite transformadores.
+- Alineación y balanceo.
+
+Consignación: 09 de mayo a 10 de Julio de 2015
+Días consignación: 62 días
+Días cronograma base: 54 días
+Días ejecutados (08/07/2015): 60 días
+Porcentaje de avance: 100 %

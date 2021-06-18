@@ -1,0 +1,4 @@
+JULIO 31 DE 2017    OT NÚMERO:  3527800    PROGRAMÓ: JAIRO GUINGUER     EJECUTARON: ALEXANDER VILLA 
+Se realiza inyección de temperatura con el calibrador de procesos 
+Se activa Alarma y Disparo.
+Temperaturas de: Cojinete Turbina U2 S1Equipo 40°C 60°C 80°CTemperatura metal 38.84 58.83 78.82Temperatura Aceite 39.06 59.05 79.03Metal Axial Turbina 39.92 59.90 79.89Metal Axial Bomba 39.92 60.01 80.00Valor programado Alarma:Metal: 75°C / Aceite: 64°C /Axial: 75°CValor programado Disparo:Metal: 80°C / Aceite: 69°C /Axial: 80°CComentarios:Sin novedades 

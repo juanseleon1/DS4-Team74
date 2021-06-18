@@ -1,0 +1,9 @@
+FECHA : 12\ 02\ 2018 OT # 3678542,PROGRAMADOR : R JIMENEZ, EJECUTO : FEDERICO MONTOYUA
+se realiza pruebas y verificacion de las targetas de disparos de de los interruptores  master pack del tablero , se hace inyecion para verificar la curva de disparo de   estos  segun parametros de los interruptores, se verifica la operacion por sobrecorriente corta, larga , instantanea y de falla a tierra,funcionando segun los parametros
+
+AE: REVISION Y CALIBRACION
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP .
+
+AE: REVISION Y CALIBRACION
+
+Mantenimiento preventivo a tableros de distribucion de DC de la central Porce 2, verificar estado de conexiones, interruptores, señalizacion, marcacion.

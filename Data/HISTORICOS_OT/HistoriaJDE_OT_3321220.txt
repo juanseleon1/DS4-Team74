@@ -1,0 +1,10 @@
+2016/11/22 RUBEN ARBOLEDA OT: 3321220
+Debido a que se va a realizar normalizacion de circuito R50-11 (OT: 3320375) en tramo afectado en el evento cables BICC el 15 de febrero de 2016, la planta queda sin respaldo desde sub estacion durante la ejecucion de los trabajos, así mismo Camara de valvulas queda sin tensión, esta OT es creada para registrar las maniobras de: 
+Transferir manualmente circuito de C/V alimentado desde C/M al circuito de Guatapé - Alejandría
+Una vez se terminenen las maniobras de reposicion del circuito R50-11 se vuelve a transferir el circuito de C/V para alimentarlo por C/M.
+
+2016-11-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3321220, PASO:1-1,1          
+Se realizó desplazamiento hasta cámara de válvulas, se realizó paro de ventiladores, luego apertura del interruptor correspondiente al circuito de casa de maquinas, y posteriormente se realizo cierre del interruptor correspondiente al circuito de Guatape - Alejandría, se verificó que todo estuviera normal y se le dio arranque a los ventiladores.
+
+2016-11-24 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3321220, PASO:2          
+Se realizó la normalización del circuito en camara de valvulas, se realizó la transferencia desde los pulsadores de los interruptores, se le dio arranque a los ventiladores y se verificó su correcto funcionamiento. 

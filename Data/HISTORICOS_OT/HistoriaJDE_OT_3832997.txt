@@ -1,0 +1,10 @@
+
+
+
+
+COMPROBACION FUNCIONAL
+ACTIVIDAD:
+
+JUNIO 01/2019 OT: 3832997  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+Se verifica el correcto funcionamiento del sistema.

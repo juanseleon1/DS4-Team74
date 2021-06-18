@@ -1,0 +1,5 @@
+2018/08/13 RUBEN ARBOLEDA
+Se crea OT para relizar montaje de sellos cortafuegos en el estator de la Unidad.
+
+2018-08-23 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3754565, PASO:1          
+Se realizó la aplicación de sellos cortafuegos en la Unidad 6 en la zona del estator.

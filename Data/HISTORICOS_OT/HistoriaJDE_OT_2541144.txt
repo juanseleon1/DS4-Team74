@@ -1,0 +1,11 @@
+2014/06/03 REVISION DE CONTROL-Válvula de Admisión U6 - 6216
+Estado del Evento: Ejecutado Usuario: Angel Adonis Cadavid Ochoa
+En revisión realizada por Cesar Hoyos se encuentra la bobina de la 20BP abierta, esta bobina será cambiada el martes 3 de junio, esto debido a que solo se tendrá la bobina de repuesto para esta fecha.
+
+2014/06/03
+Se realizo cambio de bobina y mantenimiento correctivo a la valvula del by pass, y se realizó limpieza y corrección de las otras valvulas. 
+No se realizó prueba de apertura ya que la valvula esferica se encuentraba abierta. 
+
+Realizó: Giovanny Diaz - Sebastian Hincapie
+
+

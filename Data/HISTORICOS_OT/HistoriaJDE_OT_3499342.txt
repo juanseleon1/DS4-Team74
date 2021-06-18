@@ -1,0 +1,8 @@
+29/05/2017 CARLOS ANDRES MEJIA
+
+Favor corregir la posicion del deflector de la unidad 6 se encuentra abierto por encima del 2% al momento de arrancar la unidad no da condiciones.
+Gracias.
+
+29/05/2017 Luis Eduardo Arcila
+
+Se calibra transductor quedando en condiciones normales de operacion.

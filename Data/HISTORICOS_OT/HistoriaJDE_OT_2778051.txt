@@ -1,0 +1,7 @@
+
+
+27/MAYO/2015
+
+Se cambia fuente DSSR122 queda controlador trabajando en condiciones normales.
+
+Se cambia el canal 8.1 por el 8.12 por encontrase tarjeta con problemas.

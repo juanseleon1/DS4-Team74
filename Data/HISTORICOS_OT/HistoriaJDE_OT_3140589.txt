@@ -1,0 +1,13 @@
+2016/06/09
+SOLICITANTE: CARLOS HDO. SALAZAR
+COLOCAR SEÑAL DE BOMBA ON Y BOMBA OFF PARA SU VISUALIZACIÓN EN EL SCADA DE OPERACIÓN.
+PROGRAMAR ARRANQUE Y PARO REMOTOS DESDE LA ESTACION DE OPERACION. 
+
+2016/07/08 RUBEN ARBOLEDA, 
+Se reporgama la OT para el mes de Octubre de 2016, ya que el personal se encuentra ocupado en la modernización del puente grúa, y no se cuenta con personal para esta actividad. 
+
+2017/01/12 RUBEN ARBOLEDA
+Se reprograma para febrero de 2017
+
+2018/04/18 RUBEN ARBOLEDA
+Se cierra ésta OT sin costos, no se ha ejecutado por falta de recurso disponible.

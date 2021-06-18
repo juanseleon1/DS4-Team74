@@ -1,0 +1,5 @@
+SOLICITANTE: TURNO 3 OPERACIÒN FG - ARFECHA: 01/03/2018
+
+Compresor arranca en ambos modos de operaciòn, automàtico y manual pero no carga el circuito. Se percibe fuga a la salida del equipo. Es de anotar que el compresor de reserva tambièn tiene problemas de funcionamiento.
+
+SE CANCELA OT Y SE REEMPLAZA POR LA OT 3694859

@@ -1,0 +1,4 @@
+TE: BUSQUEDA FALLAS E INSPECIÓN GENERAL EXTRACTORES Y VENTILADORES RESPALDO CIRCUITO AIRE CASA MAQUINAS OFF LINE
+
+2016/07/30. SERGIO OLIVARES D.
+El día 2016/07/23. se encontró fuera de servicio por indisponibilidad mecánica. Medida aislamiento: 628 Megaohmios

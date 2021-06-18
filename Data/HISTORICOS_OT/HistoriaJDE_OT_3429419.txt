@@ -1,0 +1,6 @@
+JHON MARIO PEREZ. MARZO 19/2017
+
+REVISAR POSICIÓN DE LA VALVULA BY PASS DE LA UNIDAD 7. ESTA PRESENTANDO INDICACIÓN DE ABIERTA CON LA UNIDAD PARADA. FUE NECESARIO ABRIR EL BREACKER DE LA VÁLVULA ESFERICA PARA EVITAR EL DAÑO EN LA ELECTROVÁLVULA.
+
+2017-03-22 REALIZÓ: JHONATAN ANDRES USME - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3429419, PASO:1          
+Se realizó revisión de los sensores del By Pass de la Unidad 7, se encontró el sensor de vavula By Pass en movimiento muy flojo, se realizó ajuste y calibración, se dejó en condiciones normales.

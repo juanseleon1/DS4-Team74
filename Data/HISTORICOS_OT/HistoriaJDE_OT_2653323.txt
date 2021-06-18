@@ -1,0 +1,36 @@
+Se realizará la solicitud de materiales en almacenes de EPM y compras para el montaje de 2 motobombas CW, una en primera etapa y otra en segunda etapa, se requiere tableros de control y potencia con todo el montaje, cableado de señales. 
+
+2014/04/21 Se inicia con el montaje de elementos en 2 tableros, luego se procede con el cableado y poteriormnte con las pruebas de funcionamiento del arrancador y control. 
+
+Uno de los arrancadores presento un golpe en la pantalla, no se aprecia evidendia de causa raiz, la pantalla queda visible y operativa. 
+
+La distribución de los elementos en el tablero ocupa el 50% de espacio, pensando en la ubicación de otros 2 arrancadores a futuro.
+
+28/04/2014
+Se inica con el anclaje de los tableros en los muros: 
+1 en primera etapa.
+1 en segunda etapa.
+
+2014/08/22 RUBEN ARBOLEDA
+Se está a la espera por parte del proveedor para realizar el armado de la motobomba y terminar con las conexiones electricas necesarias. 
+
+2014/10/08 OSCAR GIRALDO - JUAN DAVID GARCÍA
+Se realizó la desconexión de dos motobomas CW3 en primera Etapa y CW7 en segunda etapa, por parte del proveedor se da inicio al montaje del conjunto motor-bomba, posteriormente se realiza seguimiento en forma de prueba y lusgo se pone en servicio, para lo cual el grupo de mantenimeinto mecánico realiza actividad de cambio de empaques y mejoramiento mecánico, se realiza desconexión, extracción, mejoramiento, inserción, conexión y puesta en servicio. 
+
+2014-12-06 RUBEN ARBOLEDA
+Se crea OT: para continuar con el montaje de las bombas CW, se inica con una mejora en el tablero en el cual se monta 4 horometros, uno para cada motobomba, 2 ya están instaladas: 3 y y, y se pretende instalar las bombras CW1 y CW6. 
+
+2014-12-11  CESAR HOYOS
+
+Quedan listas y disponibles las nuevas tablas de cableado para que las bombas arranquen en automático con la secuencia de arranque de las máquinas.
+
+2014/12/29 RUBEN ARBOLEDA
+A causa de falla en rotor de unidad 5, se pausa esta OT para continuar posteriormente. 
+
+2015-06-02  CESAR HOYOS
+
+Se encuentran en operación la moto-bomba CW2 I ETAPA y CW6 II ETAPA, queda pendiente la conexión de la instrumentación para enviar las señales al scada.
+
+2015/07/06 OSCAR GIRALDO - JUAN DAVID GARCIA 
+Se finaliza el montaje de 2 motobombas, para un total de 4 motobombas instaladas 2 por etapa, se plane montar 2 motobombas adicionales (1 por etapa), se continua en la OT: 2808773
+

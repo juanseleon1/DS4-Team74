@@ -1,0 +1,36 @@
+2019-01-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3798990, PASO:1          
+Se realizó revisión y limpieza del recinto de anillos de la Unidad 3, Se realizó medida de escobillas con los siguientes resultados: 
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 29,5
+A.S. 2A: 29,5
+A.S. 3A: 29,5
+A.S. 4A: 30,8
+A.S. 5A: 30,4
+A.S. 6A: 30,8
+A.S. 7A: 29,5
+A.S. 8A: 28,6
+A.S. 1B: 31,8
+A.S. 2B: 30,5
+A.S. 3B: 30,6
+A.S. 4B: 31,6
+A.S. 5B: 30,7
+A.S. 6B: 29,8
+A.S. 7B: 29,2
+A.S. 8B: 27,9
+A.I. 1A: 32,2
+A.I. 2A: 31,2
+A.I. 3A: 32,7
+A.I. 4A: 30,6
+A.I. 5A: 31,4
+A.I. 6A: 30,9
+A.I. 7A: 31,6
+A.I. 8A: 29,7
+A.I. 1B: 31,6
+A.I. 2B: 31,3
+A.I. 3B: 33,5
+A.I. 4B: 31,7
+A.I. 5B: 29,5
+A.I. 6B: 31,3
+A.I. 7B: 31,4
+A.I. 8B: 30,8
+OBSERVACIONES: No se realizó cambio de escobillas.

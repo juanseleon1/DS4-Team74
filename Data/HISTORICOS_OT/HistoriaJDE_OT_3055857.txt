@@ -1,0 +1,10 @@
+2016-03-23. JUAN C DUARTE MUÑOZ.
+
+REVIZAR LA PÉRDIDA DE SEÑALES DE LA UNIDAD 7 POR LA ALARMA FALLA COMPUTADOR DE UNIDAD.
+
+2015/03/24 ANGEL ADONIS CADAVID OCHOA
+SOLICITUD APROBADA Y DIRECCIONADA AL EQUIPO ELECTRONICO
+
+2016/Abril/19
+Se cambia tarjeta DSPC172 CPU al controlador, se carga de nuevo el programa, quedando en condiciones normales de operación.
+Learcilas

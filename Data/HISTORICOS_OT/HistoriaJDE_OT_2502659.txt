@@ -1,0 +1,13 @@
+XE: VERIFICAR Y LIMPIAR EQUIPO HIDRAULICO VALVULA ADMISION Y TABLERO +TCV DE LA UNIDAD
+
+--------------------
+
+FECHA: 2014-06-02
+
+EJECUTÓ: JHONATAN ARANGO - FABIAN GIRALDO
+
+Se realiza mantenimiento a la válvula de admisión sistema turbina U3, tableros eléctricos, acometidas, motores de bombas y válvulas motorizadas de los equipos del regulador hidráulico y  de la unidad hidráulica sellos. IDM: GCP3E0020. No se encuentran problemas ni averías graves en ninguno de los equipos de control ni en los de motorización. Una vez terminado el procedimiento, se normaliza el sistema y se diligencian planillas con los valores de Vol, Ies y Res. Todo queda en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN gOMEZ
+
+--------------------------

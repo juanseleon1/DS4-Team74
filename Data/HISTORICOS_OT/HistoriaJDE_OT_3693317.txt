@@ -1,0 +1,15 @@
+27 DE FEBRERO DE 2018:
+SALE LA UNIDAD # 3. PARO DE EMEGENCIA 86E1 Y 86E2 POR FALLA MAYOR DOGIPID 1500 TARJETA EXT 1000.
+INFORMO: TURNO 2 JORGE GONZALEZ CARLOS GUINGUER Y OSBALDO LOPERA.
+
+
+UNIDAD 3 REGULADOR DE VELOCIDAD (TRV)Se apaga el regulador de velocidad DIGIPID. Abre el fusible FS5 por falla con controlador analogo de la tarjeta BN1 se cambia fusible FS5 y se realizan pruebas en aguas muertas y con giro controlado.
+Realizo por: Grupo Operacion, Grupo electronico.
+INFORMO: Ivan Ramirez Walter Tobon.
+
+
+
+27/02/2018
+La unidad P33 se da paro rápido por apagado del regulador de velocidad, esto debido a disparo del fusible FS5 este al parecer por fallas en la tarjeta de análogas BN01 , se normaliza y cambia el fusible, se realizan pruebas en agua muerta y con unidad girando. La unidad queda operativa e ingresa al sistema después de solicitar 3 periodos de redespacho périodos 10-11.12. 
+REALIZADO POR WTOBONL
+TERMINADA CERRAR

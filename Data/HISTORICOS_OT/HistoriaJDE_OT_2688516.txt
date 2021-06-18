@@ -1,0 +1,13 @@
+
+FECHA: FEBRERO 02  DE 2015
+
+RESPONSABLE: HENRY GIRALDO Y ALVARITO PUSHAINA
+
+Se presenta falla en el contactor 17K2 que se encontraba pegado, se le limpian los contactos y se despega.
+
+
+FECHA: FEBRERO 03  DE 2015
+
+RESPONSABLE: HENRY GIRALDO Y ALVARITO PUSHAINA
+
+Se presenta nuevamente falla en el contactor 17K2 que se encontraba pegado, se le limpian los contactos y se despega. La falla es iniciada por una pérdida de presión en los Tip y luego se desconecta el generador y la corriente se incrementa.

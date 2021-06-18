@@ -1,0 +1,11 @@
+2018/07/01 RUBEN ARBOLEDA - INFORME DIARIO
+Fecha: 2018/07/01 Hora: 03:29
+Sale la bomba por sobrecarga. Se establece el control para la bomba 1.
+
+Fecha: 2018/07/01 Hora: 09:00
+Se revisa el control y la potencia. Se ajusta tornillería. se toman corriente R 12A S11.4 11.6A. Aislamiento
+del motor normal. se pone nuevamente en funcionamiento como principal. Realizo Sebastián Hincapié,
+Fernando Ruiz.
+
+2018-07-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3743213, PASO:1          
+Se presentó Falla en la motobomba 2 del regulador de la Unidad 2 (Disparo de térmico), se realizó revisión general, se dio ajuste de borneras de potencia, no se evidenció falla, se dejó en condiciones normales.

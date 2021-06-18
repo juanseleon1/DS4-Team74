@@ -1,0 +1,8 @@
+25-06-2015
+Se da paro rápido la unidad, por falla hidráulica en el sistema.
+Se presentan las siguientes fallas:
+Válvula esférica en falla hidráulica 
+Válvula esférica en discrepancia 
+Sello de operación en discrepancia
+Este evento genera una desviación aproximada por scada de 24 MW periodo 8, tambinen sucede este mismo evento en el periodo 14 generando una desviacion de 58MW
+SE AJUSTAN MICROSUICHES DE POSICIÒN DEL SELLO DE OPERACIÒN Y LA UNIDAD QUEDA OPERATIVA.

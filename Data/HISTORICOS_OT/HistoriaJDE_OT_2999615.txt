@@ -1,0 +1,12 @@
+
+FECHA: ENERO 28 DE 2016 OT 2999615
+
+EJECUTANTE: PEDRO ROBAYO
+SOLICITANTE: HENRY GIRALDO
+Se trata de dar solución a la falla de comunicación del controlador superior, el día de hoy se empieza a verificar el estado de la fibra óptica, en la top box se encuentra defectuoso el conector de transmisión, se trata de dar solución pero la boquilla del conector esta obstruida, se continuara luego.
+
+FECHA: FEBRERO 3 DE 2016 OT 2999615
+
+EJECUTANTE: PEDRO ROBAYO, HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+Se normaliza la falla comunicación del controlador, se corrigen puntas de fibra en Bottom Box y Top Box.

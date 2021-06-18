@@ -1,0 +1,13 @@
+PLANEADOR : CESAR AUGUSTO GIRALDO RESTREPO  
+PROGRAMADOR: WILLIAM LOPERA
+FECHA : 22/03/2018
+
+ELABORAR INSTRUCTIVO  PARA LOS MOTORESY ELEMENTOS DE ACCIONAMIENTO DEL RASTRILLO. VERIFICAR APLICACION (REALIZAR MANTENIMIENTO, SEGUN INSTRUCTIVO PILOTO); LUEGO, HACER AJUSTES.
+
+INCLUIR CORRECTO FUNCIONAMIENTO Y VERIFICACION DE LOS ELEMENTOS.
+
+AGOSTO 24 DE 2018
+Continuando con el plan de productividad en campo se realiza el instructivo electrico para que las OT salgan de modo automaticas y cumplir con el mantenimiento electrico a los sistemas perifericos.
+William Lopera.
+
+

@@ -1,0 +1,18 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE
+
+2019-01-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JEISON ALBERTO ORTEGA,  PROGRAMO: RARBOLG OT: 3799002, PASO:1          
+Se realizó medida de aislamiento al rotor de la Unidad 3 con los siguientes resultados. 
+
+ANTES DE LIMPIAR:
+Rotor y Barraje: 3,24 MOhm
+Rotor: 51,9 MOhm
+Barraje: 3,31 MOhm
+
+DESPUÉS DE LIMPIAR:
+Rotor y Barraje: 94,6 MOhm
+Rotor: 139,2 MOhm
+Barraje: 100,4 MOhm
+
+Resistencia Óhmica: 328 mOhm
+Inductancia: 192,4 mH
+Capacitancia: 74,8 nF

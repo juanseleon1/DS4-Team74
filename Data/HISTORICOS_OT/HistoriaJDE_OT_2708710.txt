@@ -1,0 +1,18 @@
+- FECHA : LUNES MARZO 02 DE 2015
+- REALIZÓ : ANDRÉS ZAPATA
+- ASOCIADO A LA OT : 2708710
+- ASUNTO : REVISAR AIRE ACONDICIONADO DE LA CASETA DE 110 KV SUBESTACIÓN
+           EL OPERADOR MARCO TULIO GÓMEZ REPORTA QUE EL AIRE ACONDICIOINADO QUE REFRIGERA LOS EQUIPOS DE CONTROL 
+           DE LA CASETA 110 KV NO ESTÁ OPERANDO NORMAL. NO ESTÁ ENFRIANDO LO NECESARIO.
+           Aire acondicionado Caseta 110Kv.
+
+Se verifican señales de voltaje, se encuentra faltante la señal del termostato digital, que impedía el arranque automático de la unidad.
+Se resetea el control del termostato digital y arranca en automático.
+
+Se recomienda seguimiento, ya que esta falla se ha presentado en varias ocasiones en el mismo termostato.
+
+Informa: Andrés Zapata
+
+
+
+               

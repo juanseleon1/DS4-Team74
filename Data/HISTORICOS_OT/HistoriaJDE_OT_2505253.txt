@@ -1,0 +1,12 @@
+
+ ABRIL 08 DEL 2014 - JEOVANNY CORREA
+
+La pantalla de la unidad 5 de Guadalupe III esta bloqueada, no permite seleccionar los despliegues 
+
+09/ABRIL/2014
+Se realiza el desbloqueo de la pantalla de unidad, procediendo a reiniciar la aplicacion y la pantalla. 
+Se recalibra el Touch Screen, puesto que se encontraba un poco desfasado.
+Se comprueba el correcto funcionamiento y la navegacion optima por cada uno de los despliegues.
+Se le entrega el equipo funcional y operativo a los operadores.
+
+Informo: Oscar Arango 

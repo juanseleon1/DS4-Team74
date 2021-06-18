@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: DARIO PUERTA.
+
+Se hace revisión en el recinto del generador de la iluminación, tomas eléctricas, cableados del recinto, se revisa el estado del sistema de puesta a tierra, el estado de los soportes metálicos, revisión de las mallas de separación en barras y punto neutro y se realiza limpieza en la totalidad del recinto (con grupo mecánico y electrónico)
+Trabajo ejecutado por: Dario Puerta, Juan Ortega, Jhonatan Arango y Milton Vargas
+
+XE: INSPECCION Y LIMPIEZA RECINTO GENERADOR UNIDAD
+PLANEADOR LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+OT PADRE: 3779281

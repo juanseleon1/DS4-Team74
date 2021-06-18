@@ -1,0 +1,8 @@
+
+19/SEPTIEMBRE/2013
+Estuvo presente en  la planta de Troneras el  ingeniero Vinicius Rafael Viecili (Reivax), con la intención de suministrar una Asistencia técnica en las IHMs de los reguladores de la unidad 1  y CPUs del regulador de voltaje de la unidad 1 (Principal y respaldo).     
+Fueron  identificados  3 monitores Waytech dañados (dos de los reguladores de la unidad 1 y uno almacenado como repuesto en el almacén de la central),  los  mismos no pueden ser reparados. Fue encontrada una fuente de +5,+15,-15 Vcc dañada en el tablero del regulador de voltaje de la unidad 1. 
+También fue verificado que hay problema en el rack de control que imposibilita utilizar el canal 2 del regulador de voltaje de la unidad 1.  
+Hay 3 CPU´s que no fueron  posibles cargar  los software  y como consecuencia no fue posible hacer pruebas de validación de  las mismas. Reivax sugiere que estas sean enviadas para Fabrica para evaluación y pruebas de validación. 
+
+Informo: Esteban Vasquez, Marlon Carmona, Personal de Analisis e Ingenieria, Personal de Reivax, Oscar Arango.

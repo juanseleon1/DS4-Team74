@@ -1,0 +1,6 @@
+2018/05/13 _ CARLOS ENRIQUE MONCADA. OT N° 3724137.
+Se revisa el PLC del TCV de la Unidad 3 encontradolo alarmado, se revisa Batería encontrandola defectuosa. Se procede con el cambio normalizando el PLC y quedando el subsistema en condiciones normales.
+Realizó. Julio Parra - Carlos Moncada.
+
+2018/05/13 _ CARLOS ENRIQUE MONCADA. OT N° 3724137.
+Se crea Ot para el cambio de Bateria en el TCV de la U3 de P3.

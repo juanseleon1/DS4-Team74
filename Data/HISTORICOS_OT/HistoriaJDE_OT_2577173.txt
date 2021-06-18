@@ -1,0 +1,6 @@
+DIONIS MAURICIO ZAPATA VALENCIA:05/08/2014
+
+
+En el día de hoy se dio arranque a la U1 y cuando llegaba al paso de mandar a abrir el distribuidor sacaba las siguientes alarmas: Error Transmisor distribuidor 1 y 2;  y Error medida distribuidor medida 2,  y posteriormente sacaba Falla Grave Regulador de Velocidad, por lo que se penso que eran los sensores de posición del distribuidor, pero se hizo una prueba de mover el distribuidor y esta no dio resultado, por lo que se empezó a revisar la válvula proporcional del distribuidor y se encontró un cable suelto, se soldó y se realizó otra prueba, sin dar resultado positivo, se cambió la electroválvula, y funciono normalmente, luego se destapo la válvula retirada y se encontró que estaba quemada, esto pudo haber sucedido muy posiblemente por transferencia de calor.
+
+

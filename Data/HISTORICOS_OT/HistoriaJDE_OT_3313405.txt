@@ -1,0 +1,11 @@
+PREVENTIVO ELECTRICISTA BLOQUEOS UNIDAD GENERACION GUADALUPE 3.
+
+
+Noviembre 30 de 2016
+Se realizo los respectivos bloqueos con el personal de operación y el jefe encargado, segun instructivo GCG3E0011, sin niguna novedad.
+
+En la siguiente ruta del servidor se encuentran los informes detallados del mantenimiento Preventivo de la G35:
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\Informes Mantto Gpe 3\Informes U5 Gpe 3\INFORME U5 G3 2016-11-30
+
+Planeador: Oscar Arango
+Programó: William Lopera.

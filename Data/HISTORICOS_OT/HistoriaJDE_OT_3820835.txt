@@ -1,0 +1,8 @@
+ 
+MARZO 20/2019
+LUIS FERNANDO CASTRILLON MORALES
+
+REVISAR INTRUMENTO PM 800. NO MESTRA LAS DIFERENTES MEDIDAS DE POTENCIA, CORRIENTE Y VOLTAJES.
+
+2019-03-21 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3820835, PASO:1          
+Se realizó el cambio del medidor multifuncional PM800, se instaló una PM5560, se realizó el ajuste de corrientes (CT 2500/5) frecuencia (60Hz), la hora y el idioma en español. Se deja el medidor funcionando en condiciones normales.

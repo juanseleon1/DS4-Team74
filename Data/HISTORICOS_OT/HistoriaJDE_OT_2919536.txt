@@ -1,0 +1,7 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-10-29
+OT PARA REALIZAR RECONSTRUCCION DE ROSCAS DE FIJACIÓN TAPA EJE DE TURBINA
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-11-09
+Se desmonta la punta del rodete, se desmontan y cambian 15 espárragos de la punta. Se reconstruyen roscas M18 paso 2,5 para la fijación de la tapa del eje con insertos HELICOIL. No se reconstruyen las roscas M24 de la punta del rodete por roscas 1” -8NC con insertos HELICOIL.
+
+

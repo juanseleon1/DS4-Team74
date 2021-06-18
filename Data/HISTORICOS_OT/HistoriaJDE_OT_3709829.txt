@@ -1,0 +1,7 @@
+9/4/2018
+Omar Sánchez Villada
+Sale de sincronismo al presentar paro rápido ocasionado por el relé 8.20 nivel tanque de presión muy bajo (disparo)
+
+09/04/2018 OT3709829 PROGRAMO MAURICIO QUIJANO
+SE REPONE EL NIVEL EN EL TANQUE DE PRESION Y SE VUELVE A SINCRONIZAR LA UNIDAD AL SISTEMA.
+  

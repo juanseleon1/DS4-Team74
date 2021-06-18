@@ -1,0 +1,29 @@
+FECHA: Septiembre 27/2018PROGRAMO: Daniel Palacios O.EJECUTO: Oscar Mauricio Montoya, Ronal Arango y personal de la Unidad Operación y mantenimiento Generación Energía
+
+Se realiza mantenimiento al generador sincrónico de la MCH Porce 3, con el personal de la Unidad Operación y mantenimiento Generación Energía se hace lavado criogénico al generador. Se le hace pintura dieléctrica a las cabezas de bobinas, al rotor y al estator, se deja secando y luego se le hacen medidas de DAR, IP, Resistencia de aislamiento, Resistencia óhmica de estator y rotor, inductancia. Se llenan planillas con las variables medidas y calculadas.
+MEDIDA DE RESISITENCIA DE AISLAMIENTO:
+1. Antes del lavado 1.02 G con 515 VDC.
+2. Después de lavado: 249 M con 515 VDC (Debido al lavado el generador queda muy frio)
+3. Calefacción generador: Potencia: 150 W / 208 Voltios / R=153.3 y 153.5.
+4. Medida de Resistencia de aislamiento del estator: R/ST: 1.497 G con 2046 VDC - S/RT: 2.27 G con 2046 VDC - T/RS: 2.28 G con 2045 VDC.
+5. MEDIDA DEL INDICE DE POLARIZACION: R=3.16 / S=3.03 / S=3.47.
+6. DAR= 1.29
+7. INDUCTANCIA DEL ROTOR: 2.57 H.
+8. RESISTENCIA ROTOR: 0.03 
+9. RESISTENCIA ESTATOR: R=32.68 m / S=32.77m / T=32.37 m
+ Trabajo ejecutado por: Oscar Mauricio Montoya, Ronal Arango y personal de la Unidad Operación y mantenimiento Generación Energía
+
+FECHA:11 DE SEPTIEMBRE DEL 2018 PLANEADOR:LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR DANIEL EDUARDO PALACIOS OCHOA
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION LIMPIEZA Y PRUEBAS ELECTRICAS AL GENERADOR DE LA MINICENTRAL
+
+1.INSPECCION VISUAL DE LAS PARTES ELECTRICAS INTERNAS Y EXTERNAS DEL GENERADOR
+
+2.LAVADO CRYOGENICO: SE REALIZA EL LAVADO CRYOGENICO AL BOBINADO ESTATORICO Y ROTORICO EN LAS PARTES ACCESIBLES,CONSISTIO EN UN CHORRO DE HIELO SECO PROPORCIONADO PO UNA MAQUINA ESPECIAL PARA LAVADO Y QUE SE COMPONE DE UN COMPRESOR, MAQUINA EXPULSORA DE PELLET DE HIELO DE 33 MILIMETROS DE TAMAÑO, SE RETIRÓ LAS PARTICULAS DE MUGRE Y POLVO DEPOSITADAS EN EL DEVANADO, TAMBIEN SE APROVECHO PARA LAVAR ALGUNAS PARTES DE LA TURBINA.
+
+3.SECADO CON RESISTENCIAS DE CALEFACCION: SE REALIZÓ UN SECADO CON RESISTENCIAS DE CALEFACCION DURANTE 10 HORAS.
+
+4.PRUEBAS ELECTRICAS AL GENERADOR: SE REALIZARON LAS PRUEBAS ELECTRICAS DE RUTINA ANUAL Y SEMESTRAL AL GENERADOR,
+
+5.PINTURA DIELECTRICA EN AEROSOL: POSTERIORMENTE SE APLICÓ UNA CAPA DE PINTURA DIELECTRICA EN AEROSOL CON GLIPTAL Y SE DEJÓ SECANDO A TEMPERATURA AMBIENTE DE 32 GRADOS, DURANTE 8 HORAS APROXIMADAMENTE.

@@ -1,0 +1,27 @@
+SEPTIEMBRE 26 DE 2014
+PLANEADOR: SANDRA CARMONA
+
+EVENTO
+4:03 AM SE DA PARO DE EMERGENCIA UNIDAD 4 CON MENSAJE "DISPARO 87 DIFERENCIAL ETAPA 1" POR RECIERRE EN LA LINEA DE 500 KV HACIA CERROMATOSO. LA PLANTA QUEDA CON RESTRICCION EN LA GENERACION A 450 MW HASTA NUEVO AVISO.
+
+ANALISIS
+
+CAUSA RAIZ: ATENTA EN ESTRUCTURAS DE LA LINEA PORCE III-CERROMATOS. ATENTADO TERRORISTA.
+
+INICIALMENTE CAUSA SORPRESA QUE LA UNICA UNIDAD AFECTADA POR LA FALLA EN LA LINEA SEA LA UNIDAD 4 Y NO LA 3 SIMULTANEAMENTE, YA QUE SE ASUME QUE OPERO LA PROTECCION DIFERENCIAL DE LINEA LA CUAL ABRE EL BANCO Y SACA SIMULTANEAMENTE LAS DOS UNIDADES. DE ACUERDO A ESTE COMPORTAMEINTO DE LAS PROTECCIONES SE SOLICITA LA ATENCION JUAN DAVID GRANADA Y JOHAN RAMIREZ PARA HACER EL ANALISIS Y DESCARTAR PROBLEMAS EN EL ESQUEMA DE PROTECCIONES.
+
+DESPUES DE SU ANALSIS Y REVISION REPORTAN LO SIGUEINTE:
+
+"Con respecto al evento del asunto, el cual fue reportado inicialmente así:
+
+Porce III, unidad 4:                                                  Se dio paro de emergencia por diferencial de línea. Sept. 26, 04:02. El evento coincide con el rechazo de la línea Porce III - Cerromatoso. Se rebaja la generación de la planta a 450MW.
+
+Se informa que la salida de la unidad fue causado por operación de la protección diferencial de generador (ANSI 87G) más no por operación de la protección diferencial de línea (ANSI 87L) como fue reportado por el personal de operación de la central, exactamente en el momento que intentan recerrar la línea Porce III-Cerromatoso (Recierre no exitoso).
+
+Al consultar los eventos en el equipo de protección de esta unidad (SIEMENS 7UM62 -F003) el disparo generado fue debido a una posible saturación de los CT’ s de la fase B del lado neutro de la unidad como puede verse en la siguiente figura (Distorsión de la forma de onda senoidal).  Este tipo de dispositivos de protección debe estar en capacidad de bloquear el disparo cuando este fenómeno es detectado (más aun cuando no hay falla interna en la zona de protección), razón por la cual consultaremos al fabricante del relé para que nos dé una explicación al respecto, tan pronto tengamos respuesta les informaremos.
+
+Lo que queda claro es que la operación de la protección no fue debido a una falla interna en el generador."
+
+
+
+

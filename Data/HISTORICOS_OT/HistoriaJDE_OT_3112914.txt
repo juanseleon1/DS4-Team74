@@ -1,0 +1,38 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA CON LOS TIEMPOS DE EVACUACION DE CADA UNA DE LAS MOTOBOMBAS, CON EL REGISTRO DEL HOROMETRO PARA CADA UNA DE LAS MOTOBOMBAS Y TIEMPO DE LLENADO DEL POZO (CADA MES)
+
+MOTOBOMBAS DE DRENAJE
+
+
+
+BOMBA NUMERO:______2________
+
+HOROMETRO:( H )_4235_______
+
+TIEMPO DE TRABAJO:( min.)_11 min 19 seg_
+
+MW PLANTA: _207___________
+
+
+Observaciones:__tiempo de llenado pozo 10 min 45 seg _____________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0010
+
+FECHA: 2016-06-13 PROGRAMADOR: 591910
+EJECUTANTES: 856991 - 7661
+EVENTO: MANTENIMIENTO PREVENTIVO.
+
+
+Vibraciones  Aguas arriba  Lado hacia U21 horizontal motor lado libre   12.5 mm/s 4.8 mm/s2 horizontal motor medio 9.1 mm/s 4.2 mm/s3 horizontal motor lado acople   4.9 mm/s 3.1 mm/sTemperatura motor carcasa  36°C
+
+

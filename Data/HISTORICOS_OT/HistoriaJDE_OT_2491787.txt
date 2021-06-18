@@ -1,0 +1,2 @@
+Realizar el cambio de relén en tableros +DU de cada unidad, ya que hay varios espacios de relés de reserva y no se cuenta ya con reservas. 
+

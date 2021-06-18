@@ -1,0 +1,25 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+OVERHAUL REGULADOR DE VELOCIDAD
+
+08/ABRIL/2014
+Se desconectan y retiran los 4 sensores de posicion (variometros) de las agujas, para permitir los trabajos mecanicos en los actuadores.
+
+Ejecuto: Fredy Duarte - Francisco Gonzalez
+
+26/ABRIL/2014
+Se realiza el Desmontaje de los transductores de medida del regulador y se llevan al laboratorio para realizarlas la curva de verificacion. Se comienza la inyeccion de señales y la verificacion de los transductores, los cuales son:                                 
+-IS2= Velocidad                                                                   
+-IS3= Referencia Carga/Frecuencia                                                   
+-IS4= Limitador de Apertura                                        
+-IS5= Potencia Activa                                                    
+-IS6= Posicion Deflector                                                             
+-IS7= Posicion Aguja 1                                                        
+-IS8= Posicion Aguja 2                                                                  
+-IS9= Posicion Aguja 3                                                      
+-IS10= Posicion Aguja 4     
+
+Ejecuto: Fredy Duarte 
+
+26/ABRIL/2014
+Se realiza el montaje de los transductores de medida del regulador de tension en el tablero, previamente se les realizo curva metrologica.      
+Ejecuto: Fredy Duarte 

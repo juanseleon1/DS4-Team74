@@ -1,0 +1,11 @@
+
+04 Febrero de 2014
+Se presenta falla en la Gateway del Cojinete Superior TCCS de la Unidad 4. Se pierden las comunicaciones en ese sistema.
+Solicitante: Gabriel Naranjo.
+
+
+05 Febrero de 2014
+Programador: Gabriel Jaime Naranjo
+Se realiza cambio de la IHM ó la Gateway del tablero de control del cojinete superior, este elemento presentaba un daño en el disco duro, se hizo una restauracion del backup usando el Acronis. Se configuraron las tarjetas de red pero no se alcanzo a dejar operativa la redundancia en las mismas, queda pendiente configurar esta redundancia mediante un procedimiento de teaming cuando se disponga de la oportunidad por maquina parada. Para poner en operacion la unidad fue necesario el redespacho de cinco periodos, debido a que no se tenia monitoreo del cojinete.
+Informó: Nicolas Aguilar.
+Realizaron:  Gabriel Naranjo, Carlos Sanchez,  Camilo Montoya,  Oscar Duque,  Carlos Holguin,  Nicolas Aguilar.

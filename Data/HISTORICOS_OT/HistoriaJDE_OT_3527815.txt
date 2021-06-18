@@ -1,0 +1,4 @@
+JULIO 31 DE 2017     OT NÚMERO: 3527815    PROGRAMO: JGUINGUL     EJECUTARON: ANDRÉS YEPES
+Se realiza inyección señal de temperatura con el calibrador de procesos y se activa Alarma - Disparo 
+
+Temperaturas de: Cojinete Lado Generador U1 S2Equipo 20°C 40°C 60°C 80°C 100°CMetal 18.32 39.32 59.05 79.57 99.88Aceite 18.32 38.74 59.15 79.57 99.98Valor programado Alarma:Metal: 72°C/Aceite: 62°CValor programado Disparo:Metal: 77°C/Aceite: 67°Comentarios:Sin novedades

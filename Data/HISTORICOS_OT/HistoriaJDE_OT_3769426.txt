@@ -1,0 +1,11 @@
+
+2018/10/02 OT:3769426 REALIZO: Victor Zuleta / Luis Eduardo Arcila
+Se realizan las actividades:
+1. Calibración de agujas
+2. Calibración al deflector.
+3. Se cambiaron todos los micro filtros de las servo válvulas 
+4. Limpieza de intercambiador de aire.
+5. Limpieza general al tablero del regulador.
+6. Se cambia valvula Moog del comando de agujas numero 1
+7. Se calibraron transductores de posición de los comandos de agujas y deflector.
+Los paramentaros de calibración queda dentro de los rangos normales de operación.

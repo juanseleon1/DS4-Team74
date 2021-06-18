@@ -1,0 +1,7 @@
+2014-12-28. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR EN NODO 3 LOS EVENTOS: "GROUND TROUBLE" Y "DETECTOR TERMICO TRAFO 4, ADR 075, LP1, ND3, ZONE 187". EL EVENTO DE PROBLEMAS DE TIERRA OCASIONA EL ENCENDIDO DE LAS INDICACIONES PROBLEMA GENERAL Y PROBLEMA DE FUENTE.
+
+2015-02-10. CÉSAR AUGUSTO HOYOS HENAO.
+
+Se revisan 2 alarmas pendientes detector térmico transformador 4 desconectado y circuito abierto solenoide transformador 6. Se identifica en el tablero de control contiguo al transformador de reserva un cable flojo en la bornera 8 perteneciente a la solenoide del transformador 6, se ajusta el cable y borra la alarma. Se esta pendiente de recibir una cotización de un módulo FCRM-E para realizar el cambio en el detector térmico del transformador 4. La alarma de falla a tierra no esta presente en el momento.

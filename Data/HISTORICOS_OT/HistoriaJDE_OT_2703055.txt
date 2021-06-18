@@ -1,0 +1,11 @@
+PREVENTIVO ELECTRONICO REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 4.
+
+04 DE MARZO DE 2015.
+
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se le hace mantenimiento al variometro de posición del distribuidor, electroválvulas, presos tatos de la estación hidráulica.
+Se realiza el procedimiento para calibración de lazos de control y se deja calibrado de la siguiente manera:
+
+DISTRIBUIDORVALV. DISTRIBUI.% V mA % V0 -8.07 3.99 0 -8,0225,0 -4.01 7.99    50,0 0,02 11.99    75,0 3,99 15.97    100,0 8.03 19.86 100 -8,00
+Se encuentra la instrumentación del regulador hidráulico en condiciones operativas normales.
+
+INFORMÓ: WILLIAM LOPERA

@@ -1,0 +1,24 @@
+25/05/2018
+
+
+Referente al TCV U2 , la unidad inicia maniobra de recuperacion pero el sistema se falla, llegando a una apertura del ? y en modo automatico no responde, se informa a el ingeniero encargado, la unidad se encuentra con 175 MW 
+informa  . Mauricio Ruiz y carlos Forero (TURNO 3)
+
+
+25/05/2018
+
+Referente al TCV Unidad N°2: La válvula esférica no recupera posición llegando a un 93%. Se encuentra falla por mala medida de presión aguas abajo, instrumento CP116; se drena y aun persiste la falla, se recupera la válvula esférica al 100% y queda pendiente por verificar toma de presión y transmisor. El sistema queda normalizado.                                                                                                                   Nota: Se cambia el diferencial de presión de 5 bar a 8 bar.
+
+Realiza Carlos Usuga - Walter Tobón.
+
+
+25/05/2018
+
+Referente al TCV Unidad N°2: se ajusta el sensor de presión aguas abajo, instrumento CP116; El sistema queda normalizado.                                                                                                                   y se normaliza el parametro de  presión  diferencial para apertura el cual se retorna a el valo de 5 bar 
+
+Realiza  Walter Tobón.
+
+ 
+
+
+

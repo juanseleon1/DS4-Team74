@@ -1,0 +1,13 @@
+11 DE JULIO DEL 2018
+PREVENTIVO ELECTRICO CALEFACCION GENERADOR GUADALUPE III
+PLANEADOR:GABRIEL TAMAYO
+PROGRAMADOR:CARLOS ANDRES FORERO
+
+Se realiza mantenimiento preventivo según instructivo GCG3E0002. Se revisaron las resistencias de calefacción, midiendo continuidad entre ellas, se midió el valor óhmico de cada una de ellas, se realizó limpieza con dieléctrico, se revisó el gabinete de control, conexiones y demás elementos.
+Se anexan los datos obtenidos: 
+
+VOLTAJEFASE VOLTIOSR - S 461S - T 460T - R 464
+CORRIENTESFASE AMPERIOSR9.5S9.2T9.2
+RESISTENCIA OHMICAFASEOHMIOSR-S57.7S-T56.8T-R56.8
+Ejecutaron: Edgar Rodas-Mateo Perez
+Programo: Carlos Andres Forero

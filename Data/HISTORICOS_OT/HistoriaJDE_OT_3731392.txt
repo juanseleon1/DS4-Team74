@@ -1,0 +1,12 @@
+
+2018/06/05 _ CARLOS ENRIQUE MONCADA. OT N° 3731392.
+PLANEADOR LUIS FEDERICO ALVAREZ
+Se realiza mantenimiento general, limpieza y verificación cableado e instrumentación, se toman voltajes en las fuentes, se encuentra el subsistema dentro de los rangos operativos. 
+En la bornera X65 los bornes 3, 6, 9, 10 y 11 abiertos y sin tarjeta de bloqueo.
+La RTD 1A se encuentra fallada.
+Realizo: , Eladio Piedrahita, Jeniffer García.
+
+
+XL: LIMPIAR Y VERIFICAR CONTROL AGUA SELLO +TAST, SISTEMA SELLO EJE TURBINA UNIDAD 
+
+

@@ -1,0 +1,13 @@
+FEB 01/2011 PROGRAMO:JGUINGUER EJECUTO ALEXANDER VILLA
+DEVANADO ESTATOR
+PATRON             U1                        U3                   U5
+0ºC                      0.9ºC                   1.1ºC              0.6ºC                           
+70ºC                   70.9ºC                   71.2ºC            70,7ºC                                             
+80ºC                   80,9ºC                   81,2ºC            80.6ºC                          
+90ºC                   90.9ºC                   81,1ºC            90.7ºC                                                   
+100ºC   100,9ºC                 101,1ºC          100.6ºC                              
+110ºC                 110,9ºC                 111,2ºC          110,6ºC                              
+Valor programado alarma 100ºC                   
+Valor programado disparo 110ºC 
+
+NOTA: NO SE REPORTA TIEMPO YA QUE ES PARA REGISTRO DEL SISTEMA DE CALIDAD

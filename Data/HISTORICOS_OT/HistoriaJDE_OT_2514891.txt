@@ -1,0 +1,9 @@
+XE: MEDIR Y ANALIZAR VARIABLES EXTRACTORES Y VENTILADORES PRINCIPALES CIRCUITO AIRE CASA MAQUINAS GUATAPE OFF LINE
+
+2014/05/02 NESTOR RAMIREZ - IVAN SUAREZ - JHONATAN USME OT: 2514891
+Se realizó limpieza general al motor-ventilador, se realizó medida de aislamiento con un valor registrado de: 13.29M
+
+Éste equipo no se arranca a causa de indisponibilidad de los ductos de salida de aire. 
+
+Planeó: Ruben Arboleda
+

@@ -1,0 +1,25 @@
+2016/01/23 ADONIS CADAVID
+Grupo de mantenimineto electrico:
+Realizar limpieza general al transformador de neutro, 
+Realizar vericicación, medida y liempiza a las resistencias de disipación.
+Realizar pruebas de: Resistencia Óhmica, Aislamiento en alta y baja tensión, 
+Verificar ajuste de tornillería y conexiones electricas.
+Extraer y analizar muestra de aceite por cromatografía.
+
+2016/02/01 JHONATA USME - JEISON O - PROGRAMO: RARBOLG
+Se realizo limpieza general al transfomrador y a los filtros
+
+2016/02/02 JHONATA U - EDWIN A. PROGRAMO: RARBOLG
+Se realizó medidas electricas así: 
+
+Aislamiento alta: 1.73GOhm, 2.5Kv
+Aislamiento Baja: 2.59GOhm, 500V
+
+Resistencia Ohmica alta: 22.19Ohm
+Resistencia Ohmica baja: 4.0mOhm
+
+Resistencia Ohmica grupo de resistencias 1: 362.5mOhm
+Resistencia Ohmica grupo de resistencias 2: 362.5mOhm
+
+Aislamiento a Grupo 1: 20MOhm
+Aislamiento Grupo 2: 18MOhm

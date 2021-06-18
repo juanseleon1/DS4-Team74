@@ -1,0 +1,8 @@
+VERIFICAR ALARMAS Y DISPAROS.
+
+14/12/16 OT: 3336007 PLANEO: WGARCIAC EJECUTÓ: VILLA
+Se realizó inyección de señal de temperatura con el calibrador de procesos al cojinete lado Excitación 
+Temperatura Metal Cojinete Excitación Patrón 20 °C 50 °C 100 °CEquipo 19,61 °C 50,13 °C 101,16 °CAlarma: 75 °C
+Disparo: 80 °C
+Temperatura Aceite Cojinete Excitación Patrón 20 °C 50 °C 100 °CEquipo  19,83 °C 50,45 °C 101,49 °CAlarma: 65 °C
+Disparo: 70°C

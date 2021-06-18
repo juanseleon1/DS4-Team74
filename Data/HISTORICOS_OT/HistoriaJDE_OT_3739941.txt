@@ -1,0 +1,3 @@
+2018/06/27 _ CARLOS ENRIQUE MONCADA. OT N° 3739941
+Referente al Sincronizador Unidad N°1: Por presentar problemas de comunicación, pierde las condiciones de arranque la unidad siendo necesario resetear los PAS desde la estación de ingeniería. Al ser ineficaz esta acción se procede a resetear físicamente el relé del sincronizador logrando así normalizar las condiciones de la unidad.          
+Informo: Carlos Moncada 

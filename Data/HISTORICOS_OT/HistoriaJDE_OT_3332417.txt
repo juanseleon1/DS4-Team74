@@ -1,0 +1,5 @@
+Planeador:Faustino Giraldo Marin
+Aprobador:Carlos Andrade
+Fecha de solicitud: 01-12-2016
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: (Ver lista)Inspección general del estado de la estación, Limpieza de estación Descarga y verificación de datos de la estación, Realizar Prueba de Calidad Y Verificación del emplazamiento de la estación.

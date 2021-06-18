@@ -1,0 +1,11 @@
+A LAS 16:04 SE DIO PARO PARCIAL LA UNIDAD 2 DE G4.
+AL SINCRONIZADOR NO LE LLEGA LA ORDEN DE CERRAR INTERRUPTOR DE MAQUINA
+
+MARZO 18 DE 2016
+Referente al Regulador de tensión de G42:  se retiran las fuentes redundantes V80 y V81 por alimentación de 125 VDC  a través de  bornera, también se encontró el relé K125 con la bobina quemada, debido que estas fuentes a la salida estaban incrementando el voltaje hasta 208 VDC, se cambia por uno nuevo, se miden voltajes y queda la medida en  125.5 VDC, se lleva la unidad hasta energizada y queda en condiciones normales. 
+Realizó: Grupo eléctrico.  Informó: William Lopera
+
+FEBRERO 25 DE 2016
+Entra en sincronismo la Unidad G42, Después de presentar paro parcial la Unidad 2, se encuentra relé K41 quemado en el regulador de tensión 
+En la medición de voltaje se encuentra una medida de 205 VCC donde lo normal es de 125 VCC
+Tener en cuenta revisar fuente.

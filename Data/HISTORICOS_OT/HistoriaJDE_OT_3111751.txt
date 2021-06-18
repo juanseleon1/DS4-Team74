@@ -1,0 +1,10 @@
+SE DA PARO PARCIAL 2 POR PROBLEMAS DE CONTROL.
+ESTANDO LA UNIDAD SINCRONIZADA CON 135 MW, SE INICIAN EL PARO DE ALGUNOS SISTEMAS  ENTERE ELLOS VÁLVULA ESFÉRICA, COJINETE COMBINADO, SIENDO NECESARIO TERMINAR EL PROCESO DE PARO EN FORMA LOCAL DESDE LOS TABLEROS DE CADA SUBSISTEMA.
+MAYO 14 - 2016.
+SOLICITANTE: LUIS FERNANDO LOPERA - VICENTE GAMBOA.
+
+14/05/2016
+Se realizan pruebas y verifiacion en los eventos de la unidad 3, se encuentra avalancha de eventos  con la señales del FIS4 ( cojinete superior) y FIS5 ( cojinete combinado) se deshabilitan estas dos señales en los bornes BN5A borne 13  FIS4 y BN5B borne 13  FIS5, estos bornes se deben habilitar solo en el proceso de paro de la unidad y luego en el proceso de arranque deshabilitar de nuevo hasta poder realizar modificacion en el control de estas señales. se observa ademas el bajo flujo de agua en la unidad, pendiente evaluar por los mecanicos. NOTA se da instrucciones a operacion sobre la manipulacion de esta señal en el arranque y paro 
+la unidad queda en observacion y se ingresa al sistema 
+Realizado por Wtobonl 
+ 

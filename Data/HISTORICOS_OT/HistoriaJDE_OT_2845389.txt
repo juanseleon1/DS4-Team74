@@ -1,0 +1,19 @@
+DESCRIPCIÓN: Ot PADRE creada para el vaciado del tunel de descarga para la instalación de las compuertas de descarga de las unidades 3 y 4.
+
+FECHA PROGRAMADA DE INICIO DE VACIADO: Agosto 14 DE 2015 12:00 pm
+FECHA PROGRAMADA DE FIN DE LLENADO: Agosto 18 DE 2015  22:00
+
+PLANEADOR: Santiago Ramírez
+
+Inicialmente se tenía planeado en el PIM realizar este vaciado el 7 de Agosto, pero se aplazó para el 14 de Agosto debido a que el vaciado inicial para la extración de las compuertas de aplazó 1 semana.
+
+Actividades refenrente al vaciado y llenado del tunel de descarga:
+
+1. Posicionar y operar 4 bombas sumergibles en la descarga a río
+2. Instalar stops logs
+3. Retirar bombas cuando retiren el jarillón el equipo civil.
+4. Instalar compuertas 3 y 4
+5. LLenar tunel de descarga.
+6. Retirar stops logs cuando se llene el tunel de descarga.
+
+VER INFORME ANEXO SOBRE LA EJECUCIÓN.

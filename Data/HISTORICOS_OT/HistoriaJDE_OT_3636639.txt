@@ -1,0 +1,5 @@
+Fecha: Noviembre 08/2017Programo: Daniel Palacios O.Ejecuto: Jairo Torres y Jhonatan Arango.
+Se realiza inspección, limpieza y mantenimiento al tablero de control y de protecciones de la unidad +TPU.
+Trabajo ejecutado por: Jairo Torres y Jhonatan Arango.
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

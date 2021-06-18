@@ -1,0 +1,7 @@
+Dionis M. Zapata V.  01/02/2018
+
+Revisar alarma de: FALLA LEVE: FALLA EN LA MEDICION DE CORRIENTE DE CAMPO DEL GENERADOR SHUNT1, que esta pendiente solo en la CPU1.
+
+Tambien revisar que muy frecuentemente esta saliendo la alarma de FUSIBLE 6 QUEMADO DEL PUENTE DE TIRISTORES2, pero la alarma borra no queda pendiente.
+
+SE CANCELA ESTA O.T por ser ejecutada en la O.T # 3680055

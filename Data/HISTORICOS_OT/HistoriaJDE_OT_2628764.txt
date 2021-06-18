@@ -1,0 +1,5 @@
+2014/10/29 JHON MARIO PEREZ ARENAS 
+La unidad 8 se encontraba girando en vacio. Se dió paro por sobrecarga la  bomba cojinete generador que se encontraba trabajando en automático. Se dió arranque en modo manual pero aparece constantemente la alarma de flujo. Cuando se pasa a modo automático alguna de las bombas, inmediatamente se dan paro presentando incremento de temperaturas la unidad. Fue necesario parar la unidad para su respectiva revisión del control.
+
+2015/09/03 GIOVANNY DIAZ
+Se reañlizó revision general, no se encontró falla aparente, se espera a que se vuelva a presentar para realizar una nueva revision

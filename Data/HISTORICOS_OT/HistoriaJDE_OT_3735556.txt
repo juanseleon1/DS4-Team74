@@ -1,0 +1,68 @@
+13/062018
+LUIS ENRIQUE CARDONA
+OT PADRE GENERADA PARA EL MANTENIMIENTO ANUAL DE U2 RIOFRIO
+NOTA: SE REALIZO MANTENIMIENTO ANUAL DE LA U2 RIOFRIO.
+
+ACTVIDADES MECANICAS
+
+UNIDAD 2, JULIO 10 AL 11 DE 2018 
+
+COJINETE EXCITACIÓN UNIDAD 2 OT: 3741884 
+Se saco el aceite el cual se encontró muy negro, se revisaron los anillos de lubricación y se realizó limpieza, se cambió el aceite por aceite nuevo terestic 68. Se normalizo y se entregó en condiciones operativas. 
+
+COJINETE GENERADOR UNIDAD 2 OT: 3741885 
+Se saco el aceite el cual se encontró muy negro, se revisaron los anillos de lubricación y se realizó limpieza, se cambió el aceite por aceite nuevo terestic 68. La temperatura se encontró en 49°c. Se normalizo y se entregó en condiciones operativas. 
+
+COJINETE TURBINA 1 UNIDAD 2 OT: 3741890 
+Se desarmo el cojinete y se le realizo limpieza general, el cojinete se encontró muy sucio, se revisaron los anillos de lubricación y se cambió el aceite por aceite terestic 68 nuevo, la temperatura según operación es de 47°c. Se armo nuevamente y se entregó en condiciones operativas.
+
+COJINETE TURBINA 2 UNIDAD 2 OT: 3741893 
+Se desarmo el cojinete y se realizó inspección visual y limpieza general con liencillo, se encontró muy sucio, se revisaron los anillos de lubricación, se cambió el aceite por aceite terestic 68 nuevo. Se armo nuevamente y se entregó en condiciones operativas. 
+
+ESTACION HIDRAULICA UNIDAD 2 OT: 3741894 
+Se saco el aceite del regulador y se realizó limpieza interna con liencillo y se le echo aceite nuevo. Se manipulo el mecanismo del regulador con el fin de buscar que regule automáticamente, se logró algo importante con las maniobras realizadas y es que cuando la maquina se embala el regulador da cierre de agujas. Queda pendiente, seguir calibrando para que quede regulando automáticamente. Se tapo y se realizó limpieza externa, el equipo quedo en condiciones operativas. 
+
+RODETE PELTON UNIDAD 2 OT: 3745837 
+Se realizo inspección del rodete con tintas penetrantes, no se encontraron fisuras. Se evidencio cavitación en la parte anterior de la punta de los cangilones, se realizó la reparación en sitio con soldadura 7018 y amolado para recuperar el perfil hidráulico. Se normalizo el sistema y el equipo se entregó en condiciones operativas. 
+
+GRUPO INYECTORES UNIDAD 2 OT: 3741879 
+Se destapo el recinto de turbina y se realizó una inspección visual a los inyectores, los cuales presentan fuga de agua, este correctivo se atendió con la OT 3729236. 
+
+COMPUERTA DE DESARENADO BOCATOMA OT: 3551567 
+El día miércoles 11 de julio se subió a la bocatoma y se evaluó el estado del mecanismo de la compuerta de desarenado, para programar su reparación. El día jueves 12 de julio se subió a la bocatoma nuevamente aprovechando el paro de las unidades por pruebas eléctricas, se vació el tanque de desarenado, se identificaron 2 partes flectadas en vástago de la compuerta; se subió el vástago hasta la losa que soporta la base del mecanismo y se le hizo fuerza para enderezarlo en sitio. Se corrigieron las 2 partes flectadas que tenía el vástago. El mecanismo de la compuerta de desarenado quedo en buenas condiciones de operación. 
+
+GRUPO INYECTOR UNIDAD 2 OT: 3729236 
+Se realizaron varios movimientos con el varillaje de los inyectores (se aflojo y se ajustó) con el fin de liberar posible basura entre la boquilla y la aguja, se dio tensión hasta el tope del varillaje y no fue posible corregir la fuga, quedo con una fuga leve. Hay que programar el desarme de las boquillas para verificar el estado y medidas para mandar a fabricar repuestos. El equipo quedo en condiciones operativas. 
+
+Nota: el varillaje ya no da más recorrido para hacer pretensión. 
+
+BARANDAS DE PROTECCION UNIDADES 2 Y 3 OT: 3417790 
+Se tomaron medidas para fabricar una carcasa que cubra toda la volante de las unidades, esta decisión se tomó siguiendo las recomendaciones de Alejandra Gómez quien presta apoyo en la parte de salud ocupacional en la dirección. 
+
+TANQUE DESARENADOR BOCATOMA. OT:3231423 
+Se llevo la planta eléctrica hasta la central, ensayamos el equipo de soldadura y la planta no lo soporto. Se trajo nuevamente la planta eléctrica para la 30 para ensayar un equipo más pequeño. En la bocatoma hay unos pasamanos fabricados por la unidad edificios, solo es llevar la planta para conectar el taladro para anclarlos al piso y llevar el equipo de soldadura por si se necesita soldar o modificar la tubería.
+
+Se atendió mantenimiento Anual de los generadores 2 y 3 de la central Rio frio, en la especialidad electrónica e Instrumentación con los funcionarios Ing. Julián Rene Becerra y Andrés Yepes, se ejecutaron las siguientes actividades y ordenes de trabajo:
+
+
+1. OT: 3743227 Cojinete Turbina 2 U2 RF tiempo: 2 Hora fecha: 10/07/2018
+
+·Se verifica RTD la cual se encuentra en buen estado 
+·Se verifica alarma y disparo 
+·Acompañamiento del personal mecánico en el retiro e instalación del cojinete
+·Se inyecta señal de temperatura con el bloque seco y se arroja los siguientes datos:
+
+Temperaturas de: Cojinete Turbina 2 U2Patrón 0 70 100 120Equipo0 64 90 108Valor programado Alarma:Valor programado Disparo:95°CComentarios:Tiempo de muestra 10 min. (nota: se encuentra desface significativo)Valor temperatura en funcionamiento es 47°C
+
+
+
+
+
+
+2. OT: 3743231 Cojinete Turbina 1 U2 RF tiempo: 2 Hora fecha: 11/07/2018
+
+·Se verifica RTD la cual se encuentra en buen estado 
+·Se verifica alarma y disparo 
+·Acompañamiento del personal mecánico en el retiro e instalación del cojinete
+·Se inyecta señal de temperatura con el bloque seco y se arroja los siguientes datos:
+Temperaturas de: Cojinete Turbina 2 U2Patrón 0 70 100 120Equipo0 63 90 108Valor programado Alarma:Valor programado Disparo:90°CComentarios:Tiempo de muestra 10 min. (nota: se encuentra desface significativo)Valor temperatura en funcionamiento es 47°C

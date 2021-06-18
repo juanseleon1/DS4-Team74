@@ -1,0 +1,14 @@
+LIMPIEZA Y PRUEBAS ELECTRICAS A LOS ANILLOS ROZANTES DE LA EXCITACIÓN
+
+NOVIEMBRE 10 DE 2016
+Por recomendación del grupo de ingeniara que se encontraba haciendo las pruebas y con la debida aprobación de ingeniería cadena guatron se dispuso a realizar el lavado de las excitaciones de los generadores, debido a que la prueba del DAR había arrojado un resultado no muy favorable.
+
+A continuación, se anexan los resultados de las pruebas de resistencia de aislamiento realizadas del antes y el después del respectivo lavado:
+Antes
+Anillo inferior-tierra: 4.39 M Ohmios 
+Anillo superior-tierra: 4.41 M Ohmios 
+Después 
+Anillo inferior- tierra: 6.81 M Ohmios
+Anillo superior-tierra: 6.95 M Ohmios
+
+PROGRAMÓ: Carlos Forero.

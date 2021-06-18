@@ -1,0 +1,12 @@
+
+Inspeccionar el funcionamiento de las motobombas de lubricación forzada unidades GT. Mediante la medida de presiones, altura de levantamiento y vibraciones del motor
+
+Este equipo debe estar consignado para mantenimiento, las pruebas se realizan con equipo en funcionamiento y la unidad parada.
+
+
+2015/08/10 DIEGO BEDOYA
+Se realizan las pruebas en las bombas de lubricación forzada y se encuentra que la motobomba uno (1) código (667144) que está en la parte superior no funciona.
+con la motobomba dos (2) código (667145) (la de abajo) los resultados fueron los siguientes:
+Presion de arranque: 150 Kg/cm2
+Presion de trabajo: 120 Kg/cm2
+Desplazamiento del Rotor: 0.07 mm

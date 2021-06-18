@@ -1,0 +1,5 @@
+FECHA: 12/8/2014 PLANEADOR: JAIRO GUINGUER PROGRAMADOR: JAIRO GUINGUER
+
+Se realiza tendido de fibra optica desde el tablero de control de cada unidad hasta  rack de cuminicaciones para la nueva red de control y protecciones de la unidades de generacion.
+
+Realizaron: Frank Cordoba - Juan Camilo Montoya - Fabian Peréz - David Atehortua 

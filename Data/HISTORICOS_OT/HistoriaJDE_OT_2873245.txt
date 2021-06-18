@@ -1,0 +1,11 @@
+
+FECHA:28/11/2015 OT # 2873245, PLANEADOR CESAR GIRALDO ,PROGRAMO R JIMENEZ
+
+ se cambia  y se programa de la celda +N01 CCM # 4  SEPAM 1000 unidad de poroteccion de baja (27)  y alta  Tension (59) del tablero control motores 4
+
+
+
+
+FECHA:10/09/2015 OT # 2873245, PLANEADOR CESAR GIRALDO ,PROGRAMO R JIMENEZ
+
+Cambiar unidad de poroteccion de baja (27)  y alta  Tension (59) del tablero control motores 4

@@ -1,0 +1,31 @@
+2015-01-11.JUAN CARLOS DUARTE MUÑOZ.
+Revisar la fuga de aceite y, la alarma por alta temperatura que se presenta continuamente al momento de suministrar aire servicios generales.
+
+
+JUEVES 11/JUNIO/2015 ABAD RAMIREZ GIRALDO.
+Compresor 2 de servicios generales, presenta alta temperatura y bajo nivel de aceite, en recorrido por la planta se observa esta anomalía.
+
+2015/11/10  DIEGO BEDOYA
+Se realiza mantenimiento al compresor Ingersoll Rand de servicios generales, el mantenimiento realizado fue el siguiente:
+se cambia filtro de Aire     referencia: 39708466
+se cambia filtro de aceite  referencia:  39911615
+se cambia el filtro separador aire - aceite referencia:  22089551 
+se cambio la manguera unidad a separador        referencia:  24289159
+lubricante Ultracolant 5 galones
+no llegó la manguera que para la descarga, queda pendiente para cambiarla con el proveedor; ya que fue un error de ellos.
+se lavó la trampa de agua que esta en la descarga de aire del compresor, se sopletió el radiador. 
+Los parametros del compresor son los siguientes:
+Presión fuera de línea: 100 PSI
+Presion dentro de línea: 80 PSI 
+Temperatura descarga unidad: 95 °C
+Presión deposito: 28 vacío    carga: 108 PSI
+Diferencial separador: 3 PSI
+Total Horas: 4721 trabajadas
+Total en carga: 792  
+Se deja el compresor en servicio.
+trabajo realizado por personal de almacenes JJ: Henry Garcia y  Hernando Cano
+
+2015/11/13 DIEGO BEDOYA
+Se realiza el cambio de manguera de descarga aire, se arranca el equipo y se revisa que no existan fugas.
+Se arranca el equipo y se deja operativo.
+este trabajo lo realizó el ingeniero Miguel Valest de almacenes JJ 

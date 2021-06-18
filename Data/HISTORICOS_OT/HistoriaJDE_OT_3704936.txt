@@ -1,0 +1,28 @@
+
+2018/03/31 _ CARLOS ENRIQUE MONCADA. OT N° 3704936.
+
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION EN EL TABLERO DE LA GIS, SE TOMAN MEDIDAS DE PRESION ASÍ:
+
+BANCO 1:
+
+FASE R: 4.92 bar
+FASE S: 4.94 bar
+FASE T: 5.05 bar
+
+BANCO 2:
+
+FASE R: 4.56 bar
+FASE S: 4.62 bar
+FASE T: 4.56 bar
+
+RESERVA: 4.53 bar.
+
+EL SUBSISTEMA TRABAJA DE MANERA NORMAL.
+
+Realizo:  Jesus Eladio Piedrahita, Julio Cesar Parra.
+
+----------------------
+
+2018/03/02 _ CARLOS ENRIQUE MONCADA. OT N° 3704936.
+
+Se crea OT para realizar Mantenimiento al Tablero en Portico señales SF6 Bujes Sálida ( Tomar Datos medida presión)

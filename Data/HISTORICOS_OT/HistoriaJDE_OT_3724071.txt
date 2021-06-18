@@ -1,0 +1,15 @@
+2018/05/12
+CARLOS HDO. SALAZAR
+EN EL PROCESO DE PARO DE LA UNIDAD, LA VELOCIDAD EN TABLERO NO CONCUERDA CON LA DEL SCADA.
+EJEMPLO: EN TABLERO 27%, EN SCADA 97RPM (19%).
+ANTE ESTO NO HAY ORDEN DE ACTIVACIÓN DE FRENOS.
+
+
+15/05/2018 OT 3724071 Rubén Arboleda / Víctor Zuleta / Luis Eduardo Arcila 
+Se realiza mantenimiento a los sensores y a la rueda dentada para corregir diferencia entre el scada y la unidad taquimétrica .
+En la unidad 6 Se verifica funcionamiento a las unidades taquimétricas “ Red Lion” .
+Se encontró desconectada la señal de aplicación de frenos en el tablero DU62; se cablea nuevamente corrigiendo el cableado, dejándolo igual al de los planos de unidad, se verifica el buen funcionamiento del control y se entrega la unidad a operación.
+
+
+
+

@@ -1,0 +1,13 @@
+
+2018/03/06 OT 3696651 Luis Eduardo Arcila
+Se inician mantenimientos preventivos al equipo de CO2 por el personal de General Fire Control
+Se corrige tierra en el nodo de supervision Loop 2
+
+
+
+
+
+
+
+
+

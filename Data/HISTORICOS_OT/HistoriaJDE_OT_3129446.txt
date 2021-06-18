@@ -1,0 +1,45 @@
+- FECHA : JUEVES JUNIO 16 DE 2016
+
+- PROGRAMÓ : MARIO G. B.
+
+- REALIZÓ : FRANCSICO QUINTERO - MARIO RESTREPO
+
+- ASOCIADO A LA OT : 3129446
+
+- ASUNTO : HACER MANTTO MP 
+
+
+MANTENIMIENTO ELECTRICO GENERAL  MOTOBOMBAS CENTRAL PLAYAS
+Datos de placa:         P =          V =         vac    I =       A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 6.2 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  478 v
+       ST =   477 v                                                                
+       RT =   478 v
+       Corriente de arranque:  
+Fase R = 160 a
+       Corriente de marcha:  
+Fase R = 25.1 a
+Fase S = 24.6 a  
+Fase T =  24.7 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 0.75    Calibración térmico de potencia : 63 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = N/A
+
+6. Observaciones: se hizo medida de aislamiento con Meguer MIT 420 con 500 vdc

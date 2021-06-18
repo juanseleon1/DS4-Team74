@@ -1,0 +1,5 @@
+XM: LIMPIAR Y CHEQUEAR EQUIPO HIDRAULICO REGULADOR VELOCIDAD DE LA UNIDAD
+
+PROGRAMADOR: RMONTOYG, 25/11/2014 - CONSIGNACIÓN @C098557
+
+Se realiza según procedimiento. La precarga de nitrógeno está entre 95 y 110 bar aproximadamente. Se cambian los 3 filtros de la estación, los cuales tienen como referencia (llave filtro cantidad 2) 0110 D 010 BN4HC (1250 488) marca HYDAC, código almacén 95987. Igualmente se cambia el filtro de la bomba de la refrigeración de aceite, con referencia 0110 R 010 BN3HC (1262945) marca HYDAC, código almacén 95993. Se cambia Sílica de admisión de aire. Se revisa su nivel el cual se encuentra en su nivel patrón que es 0.   

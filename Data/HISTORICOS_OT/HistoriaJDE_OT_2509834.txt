@@ -1,0 +1,6 @@
+
+FECHA: ABRIL 18 DE 2014
+
+RESPONSABLE:  GERMAN ECHAVARRIA
+
+Se verifican los parámetros de programación del MFR, con el fin de encontrar el porque esta maquina no sale por corrientes asimétricas.

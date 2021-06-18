@@ -1,0 +1,6 @@
+PLANEADOR: SANTIAGO RAMÍREZ
+PROGRAMADOR: DANIEL PALACIOS}
+
+OBJETIVO: Verificar evolución de la resistencia de aislamiento después de los trabajos realizados por garantía entre el pasado 3 y 14 de Junio.
+
+TRABAJOA A REALIZAR: Medir resistencia de aislamiento del rotor.

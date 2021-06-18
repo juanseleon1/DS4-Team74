@@ -1,0 +1,11 @@
+Solicitante-Planeador: 620571
+Aprobador: 355694
+Fecha de solicitud: 28-03-2017
+Tipo de mantenimiento: Traslado de la estación, emplazamiento.
+Acciones de mantenimiento: 
+
+Estaciones hidrometeorológicas
+
+Realizar las siguientes acciones de mantenimiento preventivo:
+                Cambio preventivo en infraestructura civil o mecánica de la estación, traslado de sitio
+                Traslado de la estación.

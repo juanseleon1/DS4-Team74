@@ -1,0 +1,10 @@
+MIERCOLES 07 SEPT
+
+REFERENTE A LA EXCITACION U1:
+
+07/09/2016
+
+Se realiza verificación de la fuente G80 la cual se encuentra en falla, se realiza cambio de esta fuente y se encuentra fallada la señal de salida 24 VDC OUT1 del módulo Q801, se procede a bloquear esta alarma y pasar esta señal a un módulo de reserva en lo tanto llegan los repuesto solicitados por Catalogacion los cuales están en proceso.
+El sistema que operativo y en pruebas
+Realizado Wtobonl
+TERMINADA CERRAR

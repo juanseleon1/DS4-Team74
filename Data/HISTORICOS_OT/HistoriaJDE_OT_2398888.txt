@@ -1,0 +1,5 @@
+
+FECHA  OCTUBRE 10  DE 201
+PEDRO ROBAYO  
+
+Se sube al AG2 por estar fallado por el mudulo 110V1  que corresponde a uno de los motores del sistema de orientacion yaw y como no hay en estos momentos se deja trabajando con dos motores 

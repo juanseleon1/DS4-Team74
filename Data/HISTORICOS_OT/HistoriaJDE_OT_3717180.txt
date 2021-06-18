@@ -1,0 +1,2 @@
+2018/05/21 RUBEN ARBOLEDA
+La unidad se encuentra en mantenimiento mayor, OT Padre: 3687419, no se realizó proceso de bloqueos y desbloqueos electromecánicos, ya se encuentra bloqueada y de deja bloqueada.

@@ -1,0 +1,11 @@
+
+2018/01/31 _ CARLOS ENRIQUE MONCADA. OT N° 3623339.
+Se Desmontan Pick up de la turbina, despues de bajada la rueda dentada se procede a bajar el resto de la Instrumentación como: RTD's de la cuba, RTD's del sello, IQ's 1 y 2, Sensor de nivel, igualmente se retira los sensores inductivos de la serie de alabes, presostato PO. Se procede en laboratorio con la marcación y limpieza de toda la instrumentación retirada.
+
+Se verifican lazos de control en la salida de presión y corriente de los instrumentos IQs 1 y 2 con el calibrador de manómetros (peso muerto), igualmente los ~manómetros testigos de los IQs.~Se verifica el estado del Presostato PO encontrando sus medidas buenas.~
+
+REALIZO: NEIRO FABIAN PEREZ, JULIO CESAR PARRA, JENIFFER GARCIA.
+
+-----------------------
+
+MANTENIMIENTO GENERAL REGUALDOR TENSION CENTRAL PORCE 2.

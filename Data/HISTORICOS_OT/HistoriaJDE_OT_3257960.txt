@@ -1,0 +1,20 @@
+PREVENTIVO ELECTRICISTA BLOQUEOS UNIDAD GENERACION GUADALUPE 3.
+
+
+OCTUBRE 12 DE 2016.
+Se realizó los respectivos bloques de la unidad segun instructivo GCGE0011 sin niguna novedad.
+Realizó: Oscar Arango.
+
+Se realiza mantenimiento cuatrimestral preventivo de las tres disciplinas, según programación del PIM. Como trabajos adicionales por parte del personal mecánico, se realizó la instalación de una nueva válvula check en la tubería de aire de los acumuladores (entre U3 y U4).
+El personal electrónico por oportunidad, cambió los conectores de los sensores de posición de la válvula de aislamiento y válvula esférica.
+
+Todos los datos del mantenimiento, en las tres disciplinas se encuentran en la siguiente ruta del servidor:
+\\Epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\3-Gpe 3 general\Informes Mantto Gpe 3\Informes U3 Gpe 3\INFORME U3 G3 2016-10-12
+
+Se entrega la unidad para explotación comercial y se sincroniza a las 15:07.
+Horas de trabajo: 349936.56.
+OT Padre: 3257960.
+N° Consignación: 122446.
+
+Ejecutó: Equipo mantenimiento  Equipo Operación.
+Informó: Sandra Carmona  Oscar Arango.

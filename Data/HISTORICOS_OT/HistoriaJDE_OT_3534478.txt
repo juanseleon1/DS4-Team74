@@ -1,0 +1,6 @@
+JHON MARIO PEREZ. JULIO 7 DE 2017
+
+Revisar nivel de aceite generador en esta unidad, ya que el sensor prosonic presenta cable desconectado y envia  señal normal a la estación de operación y al panel de alarmas SACO. 
+
+2017/09/03 OT: 3534478 programo MAURICIO QUIJANO
+Se realiza la conexion del cable suelto y se verifica la señal que sea real. el prosonic esta trabajando correctamente.

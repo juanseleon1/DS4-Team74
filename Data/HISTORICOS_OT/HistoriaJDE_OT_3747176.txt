@@ -1,0 +1,29 @@
+2018/07/20 RUBEN ARBOLEDA
+Se crea OT para realizar revisión y mantenimeinto general al barraje de salida de la Unidad 5, realizar medida de IP, cambio de bujes, limpieza general.
+
+2018-07-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3747176, PASO:1          
+Se retiró las tapas a la salida del seccionador de la Unidad 5, para realizar medida de aislamiento (IP) al barraje de salida, el banco de transformadores se encuentra desconectado
+Fase R: 1 MIN: 17,14G, 10 MIN: 19,38 G, IP: 1,13, DAR 1,16, 265nA
+Fase S: 1 MIN 14,94G,  10 MIN: 19,31 G, IP: 1,31, DAR 1,15, 265nA
+Fase T: 1 MIN 32,4G,  10 MIN: 40,1 G, IP: 1,21, DAR 1,14, 128nA
+
+2018-08-13 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3747176, PASO:2          
+Se realizó revisión de barraje de salida de la unidad 5 en la zona superior del banco de transformadores, Se encontró una araña fallada y 2 bujes en la fase S a la llegada del transformador.
+
+2018-08-14 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3747176, PASO:3          
+Se realizó el cambio de las arañas en zona cercana a los transformadores de potencia, en el barraje de salida de la unidad 5
+
+2018-08-15 REALIZÓ: EDWAR ALEXANDER LONDOÑO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3747176, PASO:4          
+Se realizó la instalación de los 2 bujes en el barraje de salida de la unidad 5, adicionalmente se realizó limpieza general a la llegada de los transformadores de potencia.
+
+2018-08-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3747176, PASO:5          
+Se realizó desconexión de las trencillas del banco de transformadores con apoyo del personal de montajes, se realizó medida de IP por fase desde el seccionador de la Unidad 5 hasta la llegada del banco 3 con los siguientes resultados: 
+Fase R: 1 min: 148,9MOhm, 10min: 193,6MOhm, DAR: 1,09, IP 1,23
+Fase S: 1 min: 184,6MOhm, 10min: 206,2MOhm, DAR: 1,04, IP 1,10
+Fase T: 1 min: 182,4MOhm, 10min: 220,2MOhm, DAR: 1,07, IP 1,21
+
+2018-08-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3747176, PASO:5.1          
+Se realizó apoyo al personal de la cuadrilla móvil para revisar el barraje de salida de la unidad 5 en zona superior al transformador de excitación.
+
+2018-08-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3747176, PASO:6          
+Se realizó apoyo al personal de la cuadrilla móvil para revisar el barraje de salida de la unidad 5 en zona superior al transformador de excitación.

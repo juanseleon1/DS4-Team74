@@ -1,0 +1,7 @@
+
+FECHA: JULIO 30 DE 2015 OT: 2832897
+
+EJECUTANTE: PROBAYO, GERMAN ECHAVARRIA, ELIECER PUSHAINA, ALVARITO PUSHAINA Y ELISAUL FUENTES.
+SOLICITANTE: HENRY GIRALDO
+
+Se terminan los trabajos de puesta a punto del aerogenerador y se realiza prueba de arranque a la maquina después de terminar los trabajos en el eje de alta velocidad, en la primer prueba se deja girar hasta 150 RPM y no se encuentra problema, la siguiente prueba se deja hasta 500 RPM y tampoco se aprecian inconvenientes, por último se deja en servicio con G1 a 1800 RPM, después de 5 minutos de servicio se percibe un incremento en la temperatura a la altura del rodamiento del eje de alta velocidad ubicado detrás del disco de alta velocidad. Se decide detener el aerogenerador y programar una nueva inspección de este rodamiento.

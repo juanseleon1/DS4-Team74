@@ -1,0 +1,39 @@
+PLANEADOR: FRANCIS LONDOÑO, 2017-09-27
+OT PARA LA INTERVENCION MECÁNICA DE LA REPARACIÓN DEL SELLO DEL EJE DE LA UNIDAD 3 DE PORCE 2.
+
+PROGRAMADOR: FRANCIS LONDOÑO Y JUAN GILBERTO TOBÓN, 2017-10-11
+
+Se entrega a operación la unidad luego de realizar el mantenimiento correctivo programado al sello de turbina. Este trabajo se realizó entre el 27 de septiembre y el 11 de Octubre bajo la consignación 149889 y la OT padre 3579543. 
+
+Por oportunidad se realizaron las siguientes actividades de mantenimiento:
+ Limpieza a los anillos colectores, AVRs, transformadores de potencia y trasformador de excitación.
+ Muestreo de aceite a los domos de salida de los cables de potencia.
+ Mantenimiento a los CCMs de la unidad
+ Pruebas de desempeño de los relés de protecciones eléctricas (a cargo del Ing. Juan David Granada)
+ Metrología de unidad
+
+La unidad se sincroniza a las 15:00 10 MW, pero debido a que las otras unidades estaban regulando (AGC), sólo permitieron sincronizarla por 20min. Sin embargo, se deja en giro mecánico por 1 hora, tiempo en el cual se busca estabilizar los sistemas, los cuales no presentaron novedad. 
+
+Las variables críticas del sello de turbina y del cojinete de turbina durante este tiempo fueron las siguientes:
+
+ Temperatura sello turbina: 25°C (Alarma: 35°C, Disparo: 40°C)
+ Presión de inyección sello (IQ1): 2.5bar
+ Presión entrada filtro: 4.1 bar
+ Presión salida filtro: 4 bar
+ Temperatura aceite cojinete: 55°C (Alarma: 70°C, Disparo: 75°C)
+ Temperatura metal 1: 56°C (Alarma: 73°C, Disparo: 83°C)
+ Temperatura metal 2: 57°C (Alarma: 73°C, Disparo: 83°C)
+
+La fuga de agua que se alcanza a observar por la escotilla del sello de turbina es tolerable y se espera disminuya con el tiempo dado el correcto asentamiento del sello.
+
+En la secuencia de paro, se probó el disparo por ausencia de presión de circulación de aceite en el cojinete (Presóstato PO).
+
+Se solicita declarar disponible la unidad 3 a partir del periodo 1 del 12 de octubre.
+
+Nota: 
+La central Porce 2 se solicitó en pruebas el 12 de octubre los periodos 1 a 12 para evaluar desempeño a diferentes potencias del sello de turbina.
+
+Ejecutan: Equipo de mantenimiento y operación de la unidad operaciones Porce.
+Líderes: Francis Londoño, Juan Gilberto Tobón, Carlos Moncada, Néstor Ochoa, Walter Tobón, Cristian Gómez, Richard Jiménez.
+Jefes de trabajo: Santiago Ramírez y Renato Montoya.
+Informan: Renato Montoya, Jorge Rodriguez y Santiago Ramírez.

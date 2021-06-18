@@ -1,0 +1,7 @@
+REVISAR LA RTD 4 DEL DEVANADO DEL ESTARO FASE C EN EL GENERADOR DE LA UNIDAD 4, PRESENTA INCREMENTO EN LA MEDIDA LLEGANDO AL PUNTO DE ALARMA 130 °C Y DISPARO 135 °C, HAY QUE REVISAR EL DISPARO YA QUE LA UNIDAD SIGUE SINCRONIZADA.
+
+10 SEPTIEMBRE 2017 JOHN JAIRO GONZALEZ
+
+Se inyectan valores de alarma y disparo, corroborando así el buen funcionamiento de los relay F003. estas RTD´s llegan al GEM-TBX y llega al TPU.
+Alarma esta en 130°C y disparo 135°C
+Informo: Néstor Ochoa - Grupo de Operación (turno 2)

@@ -1,0 +1,12 @@
+SOLICITANTE: Alex J. Restrepo M. // FECHA: 24/08/2015
+
+TRANSDUCTOR DE POTENCIA DEL REGULADOR DE VELOCIDAD PRESENTA ERROR CONSIDERABLE EN LA MEDIDA DE POT. ACTIVA. REQUIERE AJUSTAR.
+
+24/AGOSTO/2015
+Referente G43 medida de potencia activa: 
+Se evidenció un desfase en la medida que mostraba en el control de unidad, PECA, Regulador de tensión y Regulador de velocidad. El control visualiza 50 MW y la unidad generaba realmente 65 MW. 
+Se realizan pruebas al transductor de potencia del regulador de velocidad, inyectando diferentes valores de potencia. Se evidencia el transductor bueno en su funcionamiento. 
+Se procede a reiniciar la CPU del Regulador de velocidad y se sincroniza la unidad, verificando la coincidencia de medidas en diferentes valores de potencia. Se verifica que queda todo normal. Se entrega la unidad al grupo de operación.  
+Informó: Alirio Hernández - Andrés Arenas - Oscar Arango.
+
+Programador: Oscar Arango

@@ -1,0 +1,13 @@
+2018/06/20 RAFAEL SEGOVIA CARO
+SE CREA ESTA OT PARA MEDIR LA EFICIENCIA ENERGETICA AL SISTEMA DE AIRE COMPRIMIDO DE LAS U 123, A CARGO DEL INGENIERO PRACTICANTE SEBASTIAN MEJIA JARAMILLO.
+A CONTINUACIÓN LOS RESULTADOS:
+Aire comprimido CS Fecha Hora
+Hora de inicio 20/06/2018 14:55:10.375
+Hora final 21/06/2018 14:55:10.375
+Corriente de trabajo pleno 72 Amp
+Corrriente de trabajo sin compresor 34,2 Amp
+Tensión 476 Vol
+Frecuencia  60 Hz
+Tiempo de prueba 24h
+Energía(24h) 817,6 KWh
+SE ANEXA INFORME.

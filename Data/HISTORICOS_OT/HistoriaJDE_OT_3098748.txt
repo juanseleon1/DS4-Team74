@@ -1,0 +1,10 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo que comprende la fabricación de 6 rodillos que se montaran en la vía ferrea del malacate y trabajaran solidariamente con el cable tractor del mismo equipo
+
+Programador: Camilo Montagut - 09/06/2016
+
+Se realiza la adecaución mecánica de 6 rodillos para ubicar en la carrilera del malacate. la adecuación comprendió la manufactura de un nuevo diseño para el soporte de los mismos. 
+
+Finalmente solo se instalan 2 rodillos en la vía ferrea ya que al hacer varios viajes en el malacae no se vio la necesidad de montar más rodillos. Quedan 4 rodillos como repuestos para una intervención futura
+
+Ejecuta: equipo mantenimiento mecánico UOG
+

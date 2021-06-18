@@ -1,0 +1,11 @@
+2015/02/02 GUILLERMO CORDOBA - SEBASTIAN HINCAPIE (RUBEN ARBOLEDA)
+Se realiza el anclaje de un variador de frecuencia, el cual prestado para realizar pruebas con motores de la central Guatapé, se inicio con el ventilador S1. 
+
+2015/02/04 JUAN DAVID GARCIA - OSCAR GIRALDO
+Se realizo la conexion electrica de potencia desde el CCM3 hasta el variador, y se adecuo la acometida de alimentacion del variador hasta el motor, para arrancar y probar motor-ventilador S1 con variador de frecuencia. 
+
+2015/02/05 GUILLERMO CORDOBA - FERNANDO RUIZ
+Se realizo pruebas de variacion de frecuencia del ventilador S1, para lo cual se adecuo un dispositivo para medicion de flujo de aire con el anemometro. 
+
+
+

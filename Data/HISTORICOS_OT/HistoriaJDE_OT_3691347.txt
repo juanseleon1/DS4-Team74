@@ -1,0 +1,6 @@
+Fecha: 23/02/2018   Solicitado por: Geovanny Echeverri - Gustavo Quintana - Natalia Urrea
+DESCRIPCIÓN: Falla grave Regulador de velocidad G31, falla agujas prioritarias 1 y 3. Esta alarma provocó una falla grave en el regulador de velocidad, generando así un paro rápido en la unidad G31.
+Se realiza cambio de prioridad de agujas y se da re-arranque a la unidad.
+Fecha: 01/03/2018
+se revisa lazo de control de apertura y cierre de agujas, no se evidencian pegas mecanicas puntuales, se deja pendiente  la aguja numero  1  para revision exhaustiva en el proximo mantenimiento cuatrimestral de la unidad.
+PROGRAMO: Luis Adrian Cardona

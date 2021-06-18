@@ -1,0 +1,4 @@
+FECHA: Agosto 15/2015PROGRAMO: Daniel PalaciosEJECUTO: Oscar Montoya.
+Se realiza mantenimiento al tablero TAST y alos motores según procedimiento, se realizan medidas de aislamiento a motores y se llenan registros. Se encuentra fuga de aceite en el M151 motobomba N°1.
+
+XE: MEDIR, VERIFICAR Y LIMPIAR EQUIPO HIDRAULICO +TUH DE LA UNIDAD

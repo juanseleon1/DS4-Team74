@@ -1,0 +1,29 @@
+2014/09/05 ANGEL ADONIS CADAVID 
+SE GENERA OT PARA REPARAR POLO DE LA UNIDAD 2, ESTE POLO FUE DESMONTADO EN EL MES DE JUNIO DE 2013 POR BAJO AISLAMIENTO.
+
+2014/08/08. SERGIO OLIVARES D.
+NOTA: Para ubicaciòn de las partes se toma el polo horizontal ( acostado en el piso colas de milano hacia arriba )
+
+Se empieza el retiro de las zapatas laterales, ( constan de zapata horizontal y lateral)
+Cada zapata lateral tiene 6 tornillos de 8x20 mm cabeza avellanada, para llave allen de 5 mm,que se ajusta con la horizontal, que fueron apretados con Loctite traba-roscas; fue dificultoso el retiro de los mismos, son 96 tornillos, para 16 zapatas laterales.
+Se empieza la extracciòn con llave allen en L de 5 mm, algunos tornillos aflojan, en otros se dañan la llave y la exagona del tornillo.
+
+2014/09/2014. SERGIO OLIVARES D.
+Se sigue la extraciòn de los tornillos, con igual dificultad, y  se dañan 6 llaves (se pelan).Se procede la extraciòn con llave exagona para rache, algunos tornillos aflojan y se dañan dos llaves (se revientan).
+
+2014/10/2014. SERGIO OLIVARES D.
+Se define perforar con broca de 8 mm la cabeza avellanada para retirarla, retirar la zapata horizontal y luego con alicate de presiòn
+retirar la rosca del mismo. Algunos tornillos fueron retirados con extractor de roscas.
+Retiradas todas las zapatas, se procedio a medir aislamiento encontrandose en 2.97 Mega-ohmios.
+Se procedio a petrolizar todo el polo sin las zapatas.
+Se mide aislamiento obteniendose 8.84 Mega-ohmios.
+Se realiza limpieza general a las zapatas. 
+Se procede a retirar el barniz acumulado entre el aislamiento de la zapata y la bobina y entre espiras, el cual se encuentrò negro.
+
+2014/11/2014. SERGIO OLIVARES D.
+Habiendo retirado gran parte del barniz negro, se observa en la zapata polar Nº9, entre las espiras 1 y 2, un corto-circuito entre ellas; se determina cambiar la bobina.
+Se extrae la bobina y se observa erosiòn superficial interna del cobre entre las dos espiras aproximadamente de 2 cms, y el papel calcinado.
+Se realiza limpieza a la zapata.
+
+2016/07/11 SERGIO OLIVARES
+Se cierra la OT ya que este proceso se realizará por medio de un contrato, queda pendiente realizar especificaciones y publicar el contrato

@@ -1,0 +1,5 @@
+SEP  10/2018 PROGRAMO: JGUINGUER EJECUTÒ: ALEXANDER VILLA
+SE REALIZO MANTENIMIENTO E INSPEPECCION A LA INSTRUMENTACION  DEL TRANSFORMADOR DE POTENCIA, SE REALIZA METROLOGIA  
+Se realiza verificación de la instrumentación y protecciones del transformador de potencia.
+
+EQUIPO RELEACTIVACION Buchholz alarma K11ü Buchholz disparo K12ü Nivel máximo K13ü Nivel mínimo K14ü Temperatura alta aceite K15ü Temperatura muy alta aceite  K16ü Temperatura alta devanado baja  K17ü Temperatura muy alta devanado baja  K18ü Temperatura alta devanado alta  K19ü Temperatura muy alta devanado alta  K20ü Válvula de sobrepresión  K21ü 

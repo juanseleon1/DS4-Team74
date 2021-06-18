@@ -1,0 +1,13 @@
+XE: VERIFICAR, REVISAR Y LUBRICAR, PREVENTIVO ELECTRICO INTERRUPTOR GENERADOR TRONERAS
+
+
+
+PLANEADOR:CARLOS GIORDANELLI.
+
+PROGRAMADOR: WILLIAM LOPERA.
+
+
+
+SEPTIEMBRE 13 DE 2018.
+Se realizaró mantenimiento electrico semestral, según el instructivo GCTRE0009, se realizó limpieza general al interruptor y tablero de control, ajuste de borneras de control, verificación de finales de posición del interruptor, se miden el valor de resistencia Ohmica en las bobinas de apertura y cierre, estando dentro los valores acuerdo a los datos placa, sin ninguna novedad.
+Programó: William Lopera

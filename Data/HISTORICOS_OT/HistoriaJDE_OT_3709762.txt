@@ -1,0 +1,9 @@
+2018/04/10 _ CARLOS ENRIQUE MONCADA. OT N° 3709762.
+Referente al TCF U3: Se cambia el cooler del procesador y se reinicia la aplicación, se deja la IHM tapada, Queda en observación para ver el comportamiento de la temperatura interior de la CPU. 
+
+Ejecuto: Turno 2 de Operación, Eladio Piedrahita.
+
+---------------
+
+2018/04/09 GUILLERMO LEON ECHEVERRY.
+SE GENERA ESTA OT PARA REVISAR LA IHM DEL TABLERO CONTROL FRENOS  UNIDAD 3 Y CAMBIAR EL COOLER DEL PROCESADOR DEBIDO A QUE PRESENTA FALLAS EN SU FUNCIONAMIENTO Y CALENTAMIENTO EN EL PROCESADOR. OCASIONANDO PERDIDA DE COMUINICACIÓN.

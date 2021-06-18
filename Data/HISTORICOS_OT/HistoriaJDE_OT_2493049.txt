@@ -1,0 +1,22 @@
+La planta diésel presenta problemas para encender de manera automática o manual. 
+ Después del análisis se observó que:
+ Esta planta diésel no cuenta con un cargador para las baterías y tampoco tiene una alimentación de servicios auxiliares como está en Sonson II.
+ Se chequeo el voltaje de las 2 baterias; la batería N°1 16.9VCD y la N°2 11.0 VCD entregándome las dos baterías en serie 27.0 VCD. Cuando se le da Start a la planta el voltaje baja de 27.0 VCD a 5.9 VCD.
+ Le deseamos un buen día.
+
+CARATERISTICAS DE LAS BATERIAS 
+Batería N°1  
+MF120
+12V120AH
+
+Batería N°2
+GLP
+12V88AH
+ OPERADORES
+JOSÉ JULIAN RESTREPO - LUIS ALFONSO CIRO
+
+MARZO 25 DE 2014- OT 2493049 PROGRAMO FARFREY OSPINA EJECUTO JULIAN 
+SE REALIZA EL CAMBIO DE BATERIAS EN LA PLANTA DIESEL DE LA CENTRAL SONSON1 SE REALIZA PRUEBAS DE PUESTA EN SERVICIO Y LA PLANTA ARRANCA SIN NINGUN INCONVENIENTE.LAS BATERIAS QUE SE MONTARON FUERON 2 DE 90 AMPEIOS HORA, QUEDA PENDIENTE LA COMPRA DEL CARGADOR DE 24VDC.
+
+JUNIO 2 DE 2014- OT 2493049 PROGRAMO FARFREY OSPINA EJECUTO JULIAN 
+SE ENVIA CARGADOR 120VAC-24VDC MARCA MTEK, SE INSTALA Y QUEDA TRABAJANDO CORRECTAMENTE, EL CARGADOR QUE SE TENIA EN CALIDAD DE PRESTAMO, ES ENVIADO A  LA CENTRAL NIQUIA.

@@ -1,0 +1,164 @@
+XE: REALIZAR TERMOGRAFIA
+
+CON ESTA OT SE MIDE EN:
+
+6272 EQUIPOS AUXILIARES C/M GT6505 AUXILIARES CASA MAQUINAS GT
+FALTA INSTRUCTIVO DE MANTENIMIENTO
+
+2015/06/03 GIOVANNY DIAZ - INSPECCION TERMOGRAFICA Y MEDIDA DE CORRIENTES
+Valores de corriente y voltaje medidos: 
+- Tablero A1 
+Voltajes                  Corrientes                
+RS: 207 V R: 9.9 A
+ST: 207 V S: 7    A
+RT: 208 V T: 4.5 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A2 
+Voltajes                  Corrientes                
+RS: 202 V R: 3.1 A
+ST: 201 V S: 4.5 A
+RT: 202 V T: 6.4 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A4 
+Voltajes                  Corrientes                
+RS: 210 V R: 0.6  A
+ST: 210 V S: 8.2  A
+RT: 211 V T: 19.4 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A5 
+Voltajes                  Corrientes                
+RS: 210 V R: 3.3  A
+ST: 211 V S: 5.1  A
+RT: 210 V T: 6.9 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A6 
+Voltajes                  Corrientes                
+RS: 204 V R: 8.2  A
+ST: 204 V S: 5.7  A
+RT: 204 V T: 4.9 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A7
+Voltajes                  Corrientes                
+RS: 204 V R: 0.2  A
+ST: 204 V S: 12.4  A
+RT: 204 V T: 7.8 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A8
+Voltajes                  Corrientes                
+RS: 205 V R: 13.4  A
+ST: 206 V S: 7.7  A
+RT: 205 V T: 13.7 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A9
+Voltajes                  Corrientes                
+RS: 208 V R: 3.9  A
+ST: 208 V S: 3.1  A
+RT: 206 V T: 9.1 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A10
+Voltajes                  Corrientes                
+RS: 208 V R: 3.1  A
+ST: 207 V S: 10.9  A
+RT: 206 V T: 8.8 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A11
+Voltajes                  Corrientes                
+RS: 208 V R: 0.2  A
+ST: 208 V S: 6.9  A
+RT: 205 V T: 20.9 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A12
+Voltajes                  Corrientes                
+RS: 207 V R: 6  A
+ST: 207 V S: 1.6  A
+RT: 205 V T: 11.6 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A13
+Voltajes                  Corrientes                
+RS: 208 V R: 13.8  A
+ST: 207 V S: 4.2  A
+RT: 206 V T: 4.7 A
+Nota: no se observaron puntos calientes.
+
+- Tablero A14
+Voltajes                  Corrientes                
+RS: 204 V R: 3.5  A
+ST: 204 V S: 9.4  A
+RT: 204 V T: 10 A
+Nota: no se observaron puntos calientes.
+
+- Tablero control bombas de aceite cojinete generador U5 bomba 1
+Voltajes                  Corrientes                
+RS: 460 V R: 5.3  A
+ST: 459 V S: 4.1  A
+RT: 459 V T: 4.8 A
+
+- Tablero control bombas de aceite cojinete generador U6 bomba 2
+Voltajes                  Corrientes                
+RS: 458 V R: 4.3  A
+ST: 457 V S: 4.2  A
+RT: 457 V T: 3.6 A
+
+- Tablero control bombas de aceite cojinete generador U7 bomba 2
+Voltajes                  Corrientes                
+RS: 458 V R: 4.3  A
+ST: 457 V S: 4.3  A
+RT: 458 V T: 4.3 A
+
+- Tablero control bombas de aceite cojinete generador U8 bomba 2
+Voltajes                  Corrientes                
+RS: 456 V R: 3.8  A
+ST: 456 V S: 3.7  A
+RT: 456 V T: 3.7 A
+
+- Tablero 220V A1 - A4 - A5 - túnel vertical etapa 1
+
+Voltajes                  Corrientes                
+RS: 207 V R: 14     A
+ST: 207 V S: 17.8  A
+RT: 208 V T: 35.5  A
+
+- Tablero 220V A2 - A6 - A7 
+Voltajes                  Corrientes                
+RS: 202 V R: 10.7  A
+ST: 201 V S: 20.3  A
+RT: 202 V T: 18.2  A
+
+- Tablero 220V A9 - A14 - A13 
+Voltajes                  Corrientes                
+RS: 208 V R: 20.9  A
+ST: 208 V S: 20.9  A
+RT: 207 V T: 32.2  A
+
+- Tablero 220V A12 - A11 - A10 - túnel vertical segunda etapa  
+Voltajes                  Corrientes                
+RS: 208 V R: 8.6  A
+ST: 208 V S: 19.2  A
+RT: 206 V T: 50.3  A
+
+Adicional a lo anterios, se realizó inspeccion termografica a los siguientes tableros: 
+
+- Tablero DP1  
+- Tablero DP2 
+- Tablero DG1  
+- Tablero DG2 
+- Tablero DP1  
+- Tablero servicios misceláneos segunda etapa 
+- Tablero SA208-C2 CELDA 2 -208 Vac 
+- Tablero SA1 
+- Tablero SA2 
+- Tablero SA3
+- Tablero SA4
+
+

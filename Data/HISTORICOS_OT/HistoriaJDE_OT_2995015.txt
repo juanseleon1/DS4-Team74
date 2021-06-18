@@ -1,0 +1,93 @@
+
+FECHA: ENERO 20 DE 2016 OT 2995015
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO ROBAYO
+SOLICITANTE: PEDRO ROBAYO
+
+Se presenta falla por corrientes asimétricas y grid error, se da un arranque colocando atención al funcionamiento de los circuitos de potencia en la góndola, se observa humo saliendo del tablero de conexiones del generador, se destapa y no se observa anomalía, se procede a desconectar los cables y se realiza megueo dando las tres fase de los dos generadores a tierra.
+
+
+FECHA: ENERO 21 DE 2016 OT 2995015
+
+EJECUTANTE: PEDRO ROBAYO, ALVARITO PUSHAINA, ELIECER PUSHAINA Y ELISAUL FUENTES
+SOLICITANTE: PEDRO ROBAYO
+
+Para lograr visualizar el estado interno del generador, se desacoplan los elementos que conforman el acople del eje de alta velocidad y así poder retirar la tapa delantera del generador, al destaparlo, se encuentra el devanado en muy mal estado, se deja  el aerogenerador detenido, ubicado a -90 ° con respecto a la dirección del viento y con  bulones puestos. Se reporta para programar trabajos de cambio de generador.
+
+
+FECHA: ENERO 21 DE 2016 OT 2995015
+
+EJECUTANTE: PEDRO ROBAYO
+SOLICITANTE: PEDRO ROBAYO
+
+Se  desconectan y se retiran los 12 cables de salida del generador para ir adelantando trabajos de cambio de generador.
+
+
+
+FECHA: ABRIL11 DE 2016 OT 2995015
+
+EJECUTANTE: ELISAUL FUENTES, ALVARITO PUSHAINA
+SOLICITANTE: PEDRO ROBAYO
+
+Se realizan trabajos para dejar listo el aerogenerador para el cambio de Generador, se desconectaron las mangueras de agua de refrigeración, se coloca el contactor 17k2, se coloca el radiador de la refrigeración auxiliar del aceite de la caja multiplicadora.
+
+
+FECHA: ABRIL 25 DE 2016 OT 2995015
+
+EJECUTANTE: PEDRO ROBAYO, PEDRO SOLANO, HENRY GIRALDO, ELISAUL FUENTES, ALVARITO PUSHAINA
+SOLICITANTE: PEDRO ROBAYO
+
+
+Se realiza cambio de generador, los trabajos se realizan con la grúa de GM&M suministrada por la empresa  de seguros, queda a la espera de la puesta en servicio.
+
+
+
+FECHA: ABRIL26 DE 2016 OT 2995015
+
+EJECUTANTE: ELISAUL FUENTES, GERMAN ECHAVARRIA
+SOLICITANTE: PEDRO ROBAYO
+
+
+Se inicia el proceso de alineación del generador, el día de hoy se realizan algunos movimientos, queda pendiente para mañana terminar de realizar este trabajo.
+
+
+
+FECHA: ABRIL 27 Y 28 DE 2016 OT 2995015
+
+EJECUTANTE: ELISAUL FUENTES, GERMAN ECHAVARRIA, PEDRO ROBAYO, ELISAUL FUENTES Y ALVARITO PUSHAINA
+SOLICITANTE: PEDRO ROBAYO
+
+
+Se terminan de realizar la alineación del generador.
+
+Se inician labores de puesta en servicio el aerogenerador: se cambian los cables de potencia que van entre el contactor 17K2 y el generador, se le adiciona agua al sistema de refrigeración, se conectan las veletas y anemómetros, las medidas de temperatura, quedo pendiente para mañana terminar de revisar el sistema hidráulico.
+
+Continuando con los trabajos de puesta en servicio del AG, se presenta problemas para subir presión el sistema hidráulico, se inspecciona y se encuentra con problemas la bomba del sistema hidráulico se procede a intercambiar esta motobomba por la del AG10, Se realiza prueba y queda funcionando correctamente. Se le deja la maquina en  servicio pero al momento de generar se falla por corrientes asimétricas.
+
+
+FECHA: MAYO 7, 11 Y 12 DE 2016 OT 2995015
+
+EJECUTANTE: PROBAYO, ELISAUL FUENTES, HENRY GIRALDO, ELIECER PUSHAINA, ALVARITO PUSHAINA Y PSOLANO
+SOLICITANTE: PEDRO ROBAYO
+
+
+Se realizan pruebas eléctricas a los cables de potencia  que van de la Bottom Box a la Top Box, se encontraron los 3 cables de fase L3 con bajo aislamiento, los de las fases L1 y L2 se encuentran regulares en su aislamiento, se corta en el bucle uno de los cables de la fase L3 y se realiza nuevamente la prueba de aislamiento y entrega valores aceptables, se programa para la próxima semana el cambio de los 9 cables desde la Top Box hasta el bucle.
+
+Se retiran los 9 cabes de potencia que van del contactor 17K2 hasta el bucle dentro de la torre.
+
+
+Se colocan los 9 cables nuevos del contactor 17K2 al bucle y se dejan listos para poncharlos el día de mañana.
+
+Se organizan los cables dentro de la torre y se ponchan con los nuevos a la altura del bucle.
+
+
+
+
+FECHA: MAYO 19 DE 2016 OT 2995015
+
+EJECUTANTE: PROBAYO, ELISAUL FUENTES, HENRY GIRALDO Y PSOLANO
+SOLICITANTE: PEDRO ROBAYO
+
+
+Se realizan pruebas eléctricas a los cables y se encuentran con valores aceptables, se procede a realizar un giro de prueba pero al momento de entrar a generar sale falla Grid error, se decide retirar los el banco de tiristores del AG4 y colocarlos en el AG2, se realiza prueba y queda en servicio el aerogenerador.
+

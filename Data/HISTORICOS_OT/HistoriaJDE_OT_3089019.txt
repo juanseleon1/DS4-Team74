@@ -1,0 +1,4 @@
+Fecha: 20/04/2016
+Síntoma: Programa poco eficiente, se puede mejorar y aprovechar para mas funciones
+Diagnóstico preliminar: Se esta calculando variables con formulas mal implementadas, solo se usa una sola unidad de ingenieria hay necesidad de mas. 
+Reportó: Jeison Julian Suarez Rios

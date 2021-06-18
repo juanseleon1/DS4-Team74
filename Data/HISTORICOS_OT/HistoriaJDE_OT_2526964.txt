@@ -1,0 +1,18 @@
+
+PLANEADOR. OSCAR RESTREPO ALVAREZ
+
+
+MAYO 09 DE 2014.
+
+Se realiza la OT: 2526964 para la atención del correctivo banco 1 de tiristores del regulador de tensión
+
+MAYO 08 DE 2014.
+
+Se realiza revisión del regulador de tensión que tenía el Banco 1 de tiristores en falla, Se revisan los 6 tiristores encontrándolos en buenas condiciones, también se revisa el módulo CCI  y se encuentra en condiciones normales, Se energiza la unidad con el banco 2 de tiristores y luego se hace fallar este banco para que entre el banco 1 de tiristores, al realizar esto el banco 1 exploto y la electrónica quedo destruida.
+
+Se retira banco de tiristores del almacén y se instala en el banco 1 de tiristores, sin embargo no quedo operativo, debido a que hace falta la compra de unos fusibles.
+
+Se hacen pruebas de aislamientos e inductancia al transformador de excitación y pruebas de aislamiento al rotor (1.3 Gohm).
+Se normaliza el regulador de tensión con el banco de tiristores 2 y se lleva la unidad hasta energizada y queda operando en condiciones normales.
+
+INFORMO: CARLOS DAVID

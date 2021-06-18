@@ -1,0 +1,21 @@
+05/06/2018 - 22:00
+Se presentan problemas con la potencia activa, la maquina 8 no responde la consigna de subir potencia en local y en remoto. La potencia sube a 5mw y se devuelve a cero MW, por lo que no es posible que esta unidad realice control AGC.
+
+JUAN CARLOS DUARTE.
+ABAD RAMIREZ.
+
+EQUIPO DE MANTENIMIENTO.
+06/06/2018 - 00:00
+Se revisan señales de subir o bajar potencia activa desde el computador de unidad en remoto y desde la perilla de subir - bajar en modo local - manual y efectivamente no responde el control, pero las señales llegan a regulador de velocidad porque se activan las entradas I4 e I5 de subir y bajar potencia activa respectivamente.
+Se encuentran abiertas la borneras AX4:1,2,3 que corresponde al transductor de voltaje que va al computador de unidad, se cierran estas borneras.
+Se revisa la señal de 4 a 20mA que va al regulador de velocidad y su medida es correcta.
+Se realiza paro de la unidad para proceder con el apagado del regulador electrónico de velocidad y al prenderlo de nuevo se le carga el programa de control.
+Se realizan pruebas de subir y bajar carga y responde, se observa que la consigna de potencia activa debe ser mucho mayor que la potencia real para que se produzca una respuesta a subir carga, pero al tiempo la consigna de potencia activa y la potencia real se igualan.
+Se realiza prueba de la unidad en control AGC pero no responde adecuadamente.
+06/06/2018 - 09:00.
+Se realiza prueba de la unidad en control AGC y responde adecuadamente.
+Esta unidad queda bajo observación su comportamiento de subir o bajar carga en control AGC y control remoto a carga nominal.
+
+JUAN CARLOS GRANADOS.
+CESAR TULIO JIMENEZ.
+VICTOR ALEXANDER ZULETA.

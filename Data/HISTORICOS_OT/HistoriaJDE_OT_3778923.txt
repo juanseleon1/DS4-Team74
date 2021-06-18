@@ -1,0 +1,18 @@
+MP MENSUAL:
+ESTAS INSPECCIONES SE REALIZAN CON EL OBJETO DE REVISAR, DE MANERA GLOBAL,LOS COMPONENTES DE LAS PRESAS.Planeador: Uriel Casas
+Aprobador: Juan Alejo Osorio Montoya
+Fecha de creación: 06/11/2018
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa; 
+§Cresta 
+§Talud aguas arriba
+§Talud aguas abajo 
+§Estribos 
+§Vertedero 
+§Compuertas (vertedero o descarga de fondo) 
+ Realizar lectura de la instrumentación; 
+§Piezómetros
+§Vertedero de aforo 
+
+ Descargar la información en la base de datos de seguridad de presas.

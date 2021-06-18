@@ -1,0 +1,10 @@
+ABR 7/2014 OT: 2504503 PROGRAMÓ: Javier Giraldo EJECUTÓ: Edisson Hernandez.
+Se revisa el transformador de 5 MVA SAU C/M, presentaba alarma de nivel de aceite mínimo, causado por fuga en brida de la válvula de drenaje del transformador, debe cambiarse empaque en este punto que no está sellando. Se recuperó el nivel al 75% , normalizando su funcionamiento. 
+
+Abril 07/2014
+Operacion Turno 3
+Revisar y corregir fuga de aceite en la cuba del transformador. 
+
+Noviembre 2014
+
+Realizado por subestaciones

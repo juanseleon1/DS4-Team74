@@ -1,0 +1,10 @@
+SE CREA OT PARA REGISTRAR TIEMPOS Y NOVEDADES EN EL OVERHAUL MECANICO DEL SERVOMOTOR DE LOS DEFLECTORES
+
+
+Programador: Camilo Montagut - 04/11/2015
+
+Se realiza el overhaul mecánico del deflector con la corrección de su superficie por parte de la empresa ASTECO. Se adiciona un guardapolvo en uno de sus extremos para evitar que particulas abrasivas deterioren la superficie del eje
+
+Se realiza limpieza general y pintura
+
+Ejecuta: equipo mantenimiento mecánico GIII

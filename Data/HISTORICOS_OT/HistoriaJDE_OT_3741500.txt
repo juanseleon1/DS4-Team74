@@ -1,0 +1,11 @@
+SOLICITADA POR: ORLANDO CORREA SANTAMARIA
+FECHA: 03/07/2018
+
+SE OBSERVA FUGA DE COMBUSTIBLE POR LA VÁLVULA INFERIOR DEL VISOR DE NIVEL DEL TANQUE DE LA PLANTA DE EMERGENCIA, SIENDO NECESARIO CERRARLA LO QUE HACE QUE NO SE OBSERVE EL NIVEL DE DICHO TANQUE. 
+
+
+Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG

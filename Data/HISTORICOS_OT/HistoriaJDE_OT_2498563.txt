@@ -1,0 +1,21 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FECHA: ABRIL 01-2014
+
+
+OT´S DEL CUATRIMESTRAL QUE SE EJECUTA DENTRO DEL CAMBIO DE POLOS DE LA UNIDAD
+
+
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDAD GENERACION GUADALUPE 4
+
+09-05-2014
+SE REALIZA TRIMESTRAL
+Se realiza inspección visual a la instrumentación del cojinete inferior, se revisan sensores de vibración sin ninguna novedad, quedan calibrados así: CIPL -8,97 VDC  y el CIPR -8,69VDC. 
+ 
+Nivel de aceite se encontró en 499.1mm, referenciado con el visor análogo: el nivel patrón es 500mm. 
+
+Se inyectan las señales
+  COJ INFERIOR °CPATRÓN °C METAL 2 ACEITE40 40,2 40,260 60,2 60,280 80,2 80,3ALARMA  65,0 65,0DISPARO  70,0 70,0
+
+Se inyecto señal con el calibrador de procesos para comprobar  alarma y disparo de las RTD, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\wperezg5\MTTO UNIDADES GPEPORCE\2014\TRIMESTRALES G4

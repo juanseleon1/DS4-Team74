@@ -1,0 +1,11 @@
+2018/09/06
+
+SOLICITANTE: RAMIRO A TORRES.
+
+SALEN DEL SISTEMA LAS UNIDADES 3 Y 4, CON FALLA MECANICA, SOBREVELOCIDAD, TURBINA EN ISLA, POR DISPARO Y BLOQUEO DEL 52T2 (SEÑAL C2 - 8.40), BANCO 2, SIN OTRAS ALARMAS ASOCIADAS.
+
+2018-09-06 REALIZÓ: CESAR AUGUSTO HOYOS - JHONATAN ANDRES USME - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3762853, PASO:1          
+Se evidenció falla en la entrada 2 del relé 2505 en casa de maquinas.
+En subestación se realizó apertura de la bornera B50X52 borne 4, posteriormente se realizó el cambio de la salida 02 a la salida 05 del relé 2505. 
+En casa de máquinas se realizó cambio de la entrada 02 a la entrada 05 en el relé 2505. 
+Se realizó una prueba desde el relé 86T en casa de máquinas con los bornes 27 y 28 y se verificó que la salida 05 en subestación operó normalmente, posteriormente se realizó el cierre de la bornera B50X52 borne 4 quedando en condiciones normales.

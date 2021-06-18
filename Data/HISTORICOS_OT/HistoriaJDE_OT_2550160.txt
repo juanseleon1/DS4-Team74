@@ -1,0 +1,7 @@
+
+FECHA: JUNIO 15 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO
+
+
+Debido a salidas repetidas por vibraciones, se inspecciona el estado de los frenos de la Yaw y se encuentran en buenas condiciones, la presión  se observa dentro de los valores de trabajo y reposo, el manómetro esta descalibrado, la única explicación para la vibración es el desgaste de las pastas de frenado, se retira de la base el sensor PCH y se coloca a un lado sobre un trapo.

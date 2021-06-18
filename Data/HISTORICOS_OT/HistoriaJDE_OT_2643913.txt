@@ -1,0 +1,16 @@
+NOV 23 DE 2014: SOLICITA BIANEY BRAVO
+
+Disparo unidad G31 señal rotor a tierra, se realiza megueo y se encuentra rotor excitatriz ppal con bajo aislamiento, se realiza redespacho para realizar lavado general excitatriz...
+
+se baja completamente la excitatriz, se desmonta rotor y estator, para lavar la excitacion, se presenta problemas con pernos de conexion de los anillos se encontraban pegados con grano en la rosca, y un color azulaceo lo que indica una muy alta temperatura...
+
+NOV 26 DE 2014: INFORMA BIANEY BRAVO
+
+21:41 Se entrega la unidad G31 en operación comercial, se realizó lavado excitatriz principal y mantenimiento rotor de la excitatriz.
+Se rectificaron las roscas de la unión de los anillos rozantes a los casquetes positivo y negativo del rotor y se fabricaron dos tornillos.
+Se realizaron pruebas de aislamiento al rotor de la unidad 260 M.
+Se coordinó giro de la unidad hasta energizada, opero normal, relé tierra rotor 44 K.
+Se coordinó sincronizar la unidad hasta potencia nominal 45 MW  y 15 Mvares, operación normal.
+Se informa al Centro de Control Guadalupe operar la unidad a 0 Megavares para observación.
+
+Realizo: grupo mtto. UOG

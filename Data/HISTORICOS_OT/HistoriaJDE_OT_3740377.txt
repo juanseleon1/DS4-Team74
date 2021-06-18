@@ -1,0 +1,10 @@
+2018-07-21 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3740377, PASO:1          
+Se realizó limpieza general al soporte porta escobillas de la unidad 5, se realizó medida de aislamiento con 500VDC a las medias luna con los siguientes resultados: 
+Medialuna Superior:  1,86G
+Medialuna Inferior: 331M
+
+2018-07-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3740377, PASO:2          
+Se realizó limpieza general de la campana verde de la unidad numero 5
+
+2018-07-23 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3740377, PASO:3          
+Se realizó medida de escobillas del recinto de anillos de la Unidad 5.

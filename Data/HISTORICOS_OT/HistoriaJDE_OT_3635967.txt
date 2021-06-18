@@ -1,0 +1,4 @@
+NOV DE 2017  OT NÚMERO 3635967   PROGRAMÓ: JAIRO GUINGUER     EJECUTARON: ANDRÉS YEPES Y ALEXANDER VILLA
+Se realizó inspección y limpieza al transmisor de presión de la unidad hidráulica, se verifica estado de la RTD y el sensor de nivel
+Se realizó ajuste y limpieza a la instrumentación de la Unidad Hidráulica
+

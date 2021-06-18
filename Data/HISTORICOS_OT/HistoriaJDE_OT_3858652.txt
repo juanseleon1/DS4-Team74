@@ -1,0 +1,6 @@
+SISTEMA DE CALIDAD
+VERIFICACION Y AJUSTE TERMOMETROL METAL 1 CGS UNIDAD NIQUIA
+
+28/06/19 OT: 3858652 PLANEADOR: WGARCIAC EJECUTO: A. YEPES
+
+Temperaturas de: Cojinete Turbina U1 NQEquipo Alar Disp 60°C 80°C 100°C Resist. Resist.TMGS ok ok 61 81 101 119 3.3TMECS ok ok 60 80 100 118 3.1TACS ok ok 60 81 100 118 3.0TACGI ok ok 61 81 101 113 2.7TMGI ok ok 60 80 100 113.7 2.7Valor programado Alarma:Metal 78 °C / Aceite 65 °CValor programado Disparo:Metal 85 °C / Aceite 70 °CComentarios:Sin novedades

@@ -1,0 +1,5 @@
+FECHA: MAYO 21/2015 PROGRAMO: DANIEL PALACIOS EJECUTO: FABIAN GIRALDO.
+Se realizo OT segun instructivo, se encuentra todo normal. Se reemplazxa luminaria en tablero TCIGM. El torque aplicado al barraje de salida y barra de tiristores fue de 35N/M.
+
+
+XE: INSPECCION Y LIMPIEZA RECINTO GENERADOR UNIDAD

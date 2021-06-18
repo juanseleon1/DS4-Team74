@@ -1,0 +1,6 @@
+2018/01/14 JUAN C DUARTE MUÑOZ.
+
+CORREGIR EN TABLERO +KA1 EL SACO 16D2, PORQUE NO ESTA DANDO PRUEBA DE LÁMPARAS Y NO RESETEA LAS ALARMAS PENDIENTES.
+
+2018/02/05 LUIS EDUARDO ARCILA.
+Se reinicia el panel quedando en modo programacion. Se gestiona para la compra de los repuestos.

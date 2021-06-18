@@ -1,0 +1,7 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2015-09-17
+OT PARA REALIZAR EL PRETENSADO DE LOS ALBAES MÓVILES DISTRIBUIDOR
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2015-09-24
+Se realiza pretensado de álabes móviles del distribuidor. Se encuentran álabes en el liner inferior con granos grandes los siguientes: 07, 09, 10, 11 y 12 y con y con grano pequeño 05, 06, 13, 19, 20, 21 y 23. Alabes que se encontraron con grano en los liners superior e inferior 01, 02, 03, 04, 17, 18, y24. El álabe 11 se calibró con galga de 0,15mm y el álabe 19 con galga de 0,20mm.
+
+

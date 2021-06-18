@@ -1,0 +1,7 @@
+2015-06-03. JUAN CARLOS DUARTE MUÑOZ.
+
+VERIFICAR SEÑAL "ACT E1V21-1-CNEN. CV1 COMMUNIC RTU. ALARMA". LA CUAL SE NORMALIZA AL INSTANTE. SE VIENE PRESENTANDO CONTINUAMENTE.
+
+
+2015-06-04
+Se revisa y se encuentran cuatro resistencias quemadas, se cambian quedando en condiciones normales.

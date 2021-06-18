@@ -1,0 +1,16 @@
+2015/01/18 ANGEL ADONIS CADAVID OCHOA
+
+OT GENERADA PARA LA REALIZACION DE PRUEBAS DEL BANCO DE TRANSFORMADOR 2 FASE R, ESTA OT SE INICIO PARA EL BANCO, YA SE HABIAN INGRESADO ALGUNOS TIEMPOS SE DEBE RESTAR EL TIEMPO Y DIVIDIRLO A CADA TRANSFORMADO POR FASE.
+
+2016/01/24 RUBEN ARBOLEDA
+Se realiza la resta de tiempo, se dejó la Ot con los tiempos de adecuación de Kato, escaleras y lineas de vida para los trabajos del banco.
+
+El lunes 18 de enero Sebastian Hincapie y Edwin Arango realizaron la adecuación del cable, movimiento y conexiones hasta el transformador, con la ayuda del grupo de mantenimeinto mecanico se realizó la adecuación en sitio del tanque y la planta de tratamiento KATO, 
+
+El martes 19 de enero, Jeison Ortega y Diego Perlaza y Andres Zapata (Cuadrilla Móvil) realizaron la adecuación, ponchada y conexiones desde el transformador hasta la KAO, organizacion de flanches para conexiones hidraulicas para iniciar a bajar los niveles de aceite de los elefantes.
+
+Se crear OT´S:
+2993691 TRANSFORMADOR BCO 2 FASE S GT
+2993692 TRANSFORMADOR BCO 2 FASE T GT
+2994998 TRANSFORMADOR BCO 2 FASE R GT
+Para las pruebas electricas de cada transformador.

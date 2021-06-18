@@ -1,0 +1,10 @@
+FECHA: MAYO 18/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: MAURICIO MONTOYA
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza inspección, limpieza y mantenimiento al equipo extractor de polvo de carbón de las escobillas, según instructivo.
+
+XE:INSPECCIONAR, VERIFICAR Y LIMPIAR COLECTOR DE POLVO DE ESCOBILLAS Y FRENOS DE LA UNIDAD

@@ -1,0 +1,8 @@
+2015-1-14 CESAR AUGUSTO HOYOS.
+
+Se realizará conexión de las señales audivisuales del sistema contra incendio de la unidad 5. Este código de equipo pertenece al sistema viejo mientras se actualiza el código del nuevo equipo.
+
+2015-1-15 CESAR AUGUSTO HOYOS.
+
+Se realizan las conexiones de las señales audivisuales, queda pendiente revisar su funcionamiento, el cual se atenderá con la OT 2676373 pruebas sistema de CO2  unidad 5.
+

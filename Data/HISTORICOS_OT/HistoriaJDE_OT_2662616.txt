@@ -1,0 +1,28 @@
+Dic 21 de 2014 13:55
+
+Se ejecuta el Paro parcial 2 activo desde las 00:09. Se sincroniza la unidad a las 14:32 y vuelve a activarse el paro parcial 2 y se ejecuta a las 14:34 al reiniciarlo desde el SCADA. Se normaliza controlador y secuencia de paro parcial 2 desde la estación de ingeniería. Se intenta sincronizar pero no sincroniza debido a que el relé REC670 no confirma y no habilita permisivo para el sincronizador. Se reinicia el REC670 y se habilita permisivo sincronizando a las 15:51. 
+Este evento causa una desviación de XXX
+Se debió respetar los dos redespachos solicitados, periodos 17 y 18.
+Informan: turno 1, Walter Tobón, Cristian Gómez y Santiago Ramírez.
+OT:2662616
+horas de servicio de la unidad: 17743
+
+21/12/2014
+
+la secuencia de paro parcial 2 se encuentra activa en la unidad 2 desde las 00:01 del dia 21 en las horas de la tarde se envía desde la consola de operación un reset a este tiempo excedido razón por la cual la secuencia se ejecuta y la unidad sale de sincronización, se ingresa al controlador principal y se encuentra un volcamiento de memoria y falla en escritura de disco razón por la cual se traslada la aplicación para el controlador de respaldo, se observa que el reinicio forzado de estos controladores agravo mas el problema y NO se debe realizar esta  acción.
+La unidad se normaliza por el controlador de respaldo y para rescatar el controlador principal se de realizar labores de formateo e instalación de las aplicaciones en este controlado.
+
+Realizado por Wtobonl
+
+22/12/2014
+
+se retira repuesto del controlador principal del almacén y se inician labores de instalación programación de la aplicación, cuando este se encuentre listo se realizaran pruebas con este equipo, además se deben realizar pruebas con el regulador de velocidad ya que este posee un problema en la secuencia con las comunicaciones. se termina la configuracion de este controlador y se normaliza la comunicacion de la unidad , hasta la fecha se realiza monitoreo de esta unidad sin encontrar problemas aun .
+
+
+el regulador de velocidad se encuentra problemas con la tarjeta prosoft razon por la cual cierra el limitador de apertura, se extiende esta consulta al personal de IMPSA, y se espera respuesta. por el momento se deja en bitacora la consigna de no retirar ambos canales de comunicacion en este regulador ademas de no realizar actualizaciones con la unidad girando esta podria dar un paro rapido o emergencia.
+
+la unidad se encuentra operativa y funcional
+
+Realizado por Wtobonl 
+
+Terminda Cerrar

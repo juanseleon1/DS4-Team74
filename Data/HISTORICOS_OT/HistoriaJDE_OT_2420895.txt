@@ -1,0 +1,20 @@
+
+
+COMPUTADOR DE UNIDAD C/M GT
+
+El día 16 de noviembre  se presenta alarma de falla computador de unidad en la maquina 1. La  tarjeta DSPC172 y el resto de tarjetas del Rack inferior se encontraban y sin la información del nodo.
+
+
+El día 17 de noviembre se reemplaza la fuente DSSR122 inferior, pero al prender el computador la  tarjeta DSPC172 muestra falla 88
+
+
+Durante las acciones de mantenimiento para poner nuevamente el computador en servicio, el día domingo 17 de noviembre, se retira la tarjeta DSPC172 y se realiza mantenimiento, y se monta nuevamente, mostrando el mismo problema, Error 88.
+
+Se cambia la tarjeta DSPC172 por otra, pero al energizarla se presenta corto en el conector de la tarjeta Back Plane del rack.
+
+El día 19 de noviembre se desarma el rack y se extrae el Back Plane para cambiar el conector quemado.
+
+El día 27 de noviembre después de reemplazar el conector del Back Plane se arma de nuevo el Rack, se instalan todas las tarjetas y la fuente DSSR122, también se reemplaza la tarjeta DSPC172 por una de repuesto retirada de la unidad 3, se carga el programa del controlador desde la estación de operación, quedando el controlador en condiciones normales.
+
+ 
+César Tulio Jiménez - Luis Eduardo Arcila

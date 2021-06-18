@@ -1,0 +1,18 @@
+2015/09/25 DIEGO BEDOYA
+Se realiza el montaje de una motobomba nueva, el motor de esta motobomba CW1, está sin los sensores de vibración, por lo cual queda el señor Giovany Diaz encargado de cotizar los sensores para este motor. en el momento del arranque se le toman vibraciones, las cuales quedan de la siguiente manera:
+
+ Sistema de medición (RMS)
+
+1 Horizontal X: 5.9 mm/seg
+1 Horizontal Y: 5.2 mm/seg
+2 Horizontal X: 2.6 mm/seg
+2 Horizontal Y: 2.4 mm/seg
+2 Axial V: 0.8 mm/seg
+
+SEPTIEMBRE 25 DE 2016
+
+ot cerrada 
+
+andres ramirez  
+
+

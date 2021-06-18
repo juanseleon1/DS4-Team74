@@ -1,0 +1,13 @@
+FECHA: MAYO 09/2018PROGRAMO: DANIEL PALACIOSEJECUTO: OSCAR MONTOYA
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos TCBAM, acometidas y conexiones de los motores de AC y DC. Se toman medidas de aislamiento en los motores  y se llenan registro.
+Trabajo realizado por: Oscar Montoya, Jairo Torres, Carlos Vasquez..
+
+XE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD
+
+FECHA: 06/05/2018
+PROGRAMADOR: DANIEL PALACIOS O.
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO BI-ANUAL
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME DE MANTENIMIENTO  

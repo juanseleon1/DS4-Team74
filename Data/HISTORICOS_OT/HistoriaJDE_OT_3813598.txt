@@ -1,0 +1,5 @@
+2019/02/25 RUBEN ARBOLEDA
+Se crea OT para realizar el cambio del regulador de velocidad Unidad 3.
+
+2019/08/07 FARLEY GIOVANNY DIAZ
+Se crea en máximo OT 1249170 para su gestión

@@ -1,0 +1,11 @@
+2014/08/20 CARLOS SANCHEZ.
+SE GENERA ESTA OT PARA CAMBIAR LA RUTA DE ALIMENTACION DE LA FUENTE DEL TUH DESDE EL REGULADOR DE VELOCIDAD DE LA U4.
+
+
+08/09/2014
+
+
+Se realiza instalacion de tuberia para la nueva ruta de alimentacion para la TUH de la unidad, pendiente el cableado de la alimentacion. 
+
+
+Realizado por Wtobonl

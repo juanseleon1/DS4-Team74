@@ -1,0 +1,36 @@
+
+2018/07/18 _ CARLOS ENRIQUE MONCADA. OT N° 3742165.
+Se realiza limpieza y mantenimiento al control de caudal ecológico en la mini central. Se revisan los instrumentos asociados al sistema encontrándolos en sus parámetros normales y funcionales.
+Se encuentran fuera de linea los siguientes módulos:
+VT302 - VT303
+XM-120 vibration module.
+Voltaje DC en la fuente de modulos e IHM: 23.83V.
+Realizo: Iván Darío Cano, Neiro Fabian Pérez.
+
+
+FECHA: 05/07/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICOS
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR INSPECCION DE TODOS LOS ELEMENTOS DEL SISTEMA .
+
+DILIGENCIAR CONSIGNACION LOCAL Y PERMISO DE TRABAJO CON LOS OPERADORES DE LA CENTRAL 
+
+
+NOTA: ESTE SISTEMA SE ENCUENTRA EN FUNCIONAMIENTO, SOLO SI SE DETECTA ALGUN PROBLEMA CRITICO SE DEBE DETENER LA MINI CENTRAL DE LO CONTRARIO LA INSPECCION SE REALIZA CON LA NDIAD GIRANDO.
+
+realizar inspeccion y verificacion de los sensores y acelerometros, verificacion de la IHM y de fallas en los modulos ubicados dentro del tablero. NOTA SOLO SE DEBE PARAR LA UNIDAD SI SE ENCUENTRA UN PROBLEMA GRAVE. la inspeccion se realiza con la unidad girando. 
+
+
+
+
+
+
+
+
+
+
+
+ 

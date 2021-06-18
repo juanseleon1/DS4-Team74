@@ -1,0 +1,6 @@
+09-12-2018 CARLOS A MEJIA
+
+Sale la alarma T2 bombas de refrigeracion falla sobrecarga, se trata de reponer en varias ocaciones sin resultados satisfactorios al dispararse nuevamente el interruptor que alimenta el grupo 1 de bombas de circulacion de aceite.
+
+2019/08/05 FARLEY GIOVANNY DIAZ
+Esta OT se cierra sin costo por falta de recurso y adicionalmente la puesta en servicio de MAXIMO.

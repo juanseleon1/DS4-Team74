@@ -1,0 +1,5 @@
+2017/07/09 RUBEN ARBOLEDA
+Se crea la OTR para realizar el montaje de dispositivo en Q2 para transferencia automática. 
+
+2017-07-09 REALIZÓ: FERNANDO ANTONIO RUIZ - FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3535959, PASO:1-2
+Se realizó prueba del dispositivo de transferencia automática en el CCM1, se dejó la transferencia habilitada.

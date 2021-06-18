@@ -1,0 +1,15 @@
+Tarea: 
+Realizar prueba de tranferencia automática en Distribución Principal 1 (DP1). 
+
+2014/05/03, CESAR HOYOS -RUBEN ARBOLEDA, OT: 2519995
+Se realizó revisión de tranferencia automatica abriendo beraker en DP1 Celda 3 con marca MCB4 
+
+Se registró los tiempos de: 
+Tranferencia hacia respaldo (TSA3): 1 segundo
+Tranferencia hacia principal (TSA1): 1 minuto
+
+Se encontró en funcionamiento normal.
+
+Duración: 0.5 Horas
+
+

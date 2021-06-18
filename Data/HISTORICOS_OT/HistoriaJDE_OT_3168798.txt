@@ -1,0 +1,58 @@
+PLANEADOR: SANTIAGO RAMIREZ PROGRAMADOR: OSCAR PARRA
+
+*******************************************************************************************************************
+
+El día lunes 4 de julio, se iniciaron las pruebas operativas con agua muerta de la compuerta plana de descarga de fondo de la presa de Porce 3, con el objetivo de verificar su correcto funcionamiento para los trabajos programados de reparación en el talud del embalse.
+Se dio orden local de cierre desde la IHM de control, la cual opero normalmente hasta su cierre total. Posteriormente se dio orden de apertura y durante su recorrido presento falla por el prensa estopa ocasionando fuga de agua. La presión de esta fuga causo daños graves en los tableros de control y potencia de las compuertas de descarga de fondo (plana y radial), como también inundación en la minicentral, afectando los tableros de potencia, control y generador.
+La fuga continúa por la compuerta plana; en la minicentral se controló la inundación con las bombas de drenaje y esta continuara indisponible hasta verificar e inspeccionar sus equipos.
+Queda abierta la válvula de caudal ecológico. Igualmente quedan abiertas las puertas de acceso al recinto de la compuerta radial para evacuar el agua de la fuga, evitando así que se inunde nuevamente la casa de máquinas de la minicentral.
+*******************************************************************************************************************
+10/07/2016
+Debido a la falla presentada en la compuerta de guarda el pasado 4 de Julio y a la dificultad de contener la fuga de agua (2 m^3/s aproximadamente); se dio inicio a un plan de reparación con acompañamiento de la unidad de Operación y Mantenimiento (Gen ENE) y el CET Estudios, el cual consta inicialmente de 2 etapas: 
+
+Etapa 1: Verificar origen y causa de la fuga y realizar pruebas operativas a la compuerta radial;
+Etapa 2: Planeación y ejecución de la reparación de la fuga, según los resultados de la etapa 1.
+
+Para la etapa 1 se ejecutaron las siguientes actividades (Julio 5-Julio10):  
+- Reducción de salpique de agua a la estación hidráulica mediante carpas.
+- Instalación de un control provisional de potencia de la estación hidráulica (motores y servoválvulas) y señal de los transductores de presión y posición de la compuerta radial.
+- Instalación de iluminación en puntos estratégicos: estación hidráulica, fuga en la compuerta de guarda, recinto de la compuerta radial y zona de acceso al recinto de control de las compuertas. 
+- Fabricación e instalación de soporte para instrumento de medición de velocidad del viento.
+- Corte de rejas en pasillo de aireación para facilitar ruta de evacuación.
+- Instalación de puntos de anclaje y líneas de vida para circulación hacia la estación hidráulica y el recinto de la compuerta radial desde el punto de control provisional y desde allí, hasta el exterior del túnel de acceso.
+- Pruebas de control de la estación hidráulica y verificación de calibración de válvulas de seguridad y caudal.
+- Coordinación con el equipo ambiental las actividades de control ambiental antes, durante y después de realizadas las descargas de agua a través de la compuerta radial durante las pruebas operativas.
+
+Resultados etapa 1:
+- Se logró evidenciar que la causa de la fuga fue la falla de los pernos de sujeción del porta sellos de entrada del vástago del servomotor al bonete, a causa de sobre carrera del servomotor.
+- se abrió la compuerta radial en escalones del 10% hasta el 100% de apertura, descargando un caudal máximo de 267 m^3/s y un promedio de 142 m^3/s (nivel del embalse 659 msnm, caudales según tabla de diseño). Para cada porcentaje de apertura se registró valores de presión hidráulica en la estación, en las cámaras del servomotor, posición de la compuerta, velocidad del viento en el túnel y señal dinámica de presión en el servomotor por medio de un analizador de vibraciones. Los valores registrados y la apreciación cualitativa permiten concluir que la compuerta puede abrir y cerrar, incluso hasta el 100% por medio del control provisional instalado, siempre y cuando se mantengan las condiciones de aireación actuales (puertas abiertas del recinto de la compuerta radial). Las válvulas de salida de aceite desde la estación hidráulica hacia el servomotor de la compuerta radial se dejan cerradas por seguridad (111.1 y 111.2).
+
+
+Debido a la falla presentada en la compuerta de guarda el pasado 4 de Julio y a la dificultad de contener la fuga de agua (2 m^3/s aproximadamente); se dio inicio a un plan de reparación con acompañamiento de la unidad de Operación y Mantenimiento (Gen ENE) y el CET Estudios, el cual consta inicialmente de 2 etapas: 
+
+Etapa 1: Verificar origen y causa de la fuga y realizar pruebas operativas a la compuerta radial;
+Etapa 2: Planeación y ejecución de la reparación de la fuga, según los resultados de la etapa 1.
+
+Para la etapa 1 se ejecutaron las siguientes actividades (Julio 5-Julio10):  
+- Reducción de salpique de agua a la estación hidráulica mediante carpas.
+- Instalación de un control provisional de potencia de la estación hidráulica (motores y servoválvulas) y señal de los transductores de presión y posición de la compuerta radial.
+- Instalación de iluminación en puntos estratégicos: estación hidráulica, fuga en la compuerta de guarda, recinto de la compuerta radial y zona de acceso al recinto de control de las compuertas. 
+- Fabricación e instalación de soporte para instrumento de medición de velocidad del viento.
+- Corte de rejas en pasillo de aireación para facilitar ruta de evacuación.
+- Instalación de puntos de anclaje y líneas de vida para circulación hacia la estación hidráulica y el recinto de la compuerta radial desde el punto de control provisional y desde allí, hasta el exterior del túnel de acceso.
+- Pruebas de control de la estación hidráulica y verificación de calibración de válvulas de seguridad y caudal.
+- Coordinación con el equipo ambiental las actividades de control ambiental antes, durante y después de realizadas las descargas de agua a través de la compuerta radial durante las pruebas operativas.
+
+Resultados etapa 1:
+- Se logró evidenciar que la causa de la fuga fue la falla de los pernos de sujeción del porta sellos de entrada del vástago del servomotor al bonete, a causa de sobre carrera del servomotor.
+- se abrió la compuerta radial en escalones del 10% hasta el 100% de apertura, descargando un caudal máximo de 267 m^3/s y un promedio de 142 m^3/s (nivel del embalse 659 msnm, caudales según tabla de diseño). Para cada porcentaje de apertura se registró valores de presión hidráulica en la estación, en las cámaras del servomotor, posición de la compuerta, velocidad del viento en el túnel y señal dinámica de presión en el servomotor por medio de un analizador de vibraciones. Los valores registrados y la apreciación cualitativa permiten concluir que la compuerta puede abrir y cerrar, incluso hasta el 100% por medio del control provisional instalado, siempre y cuando se mantengan las condiciones de aireación actuales (puertas abiertas del recinto de la compuerta radial). Las válvulas de salida de aceite desde la estación hidráulica hacia el servomotor de la compuerta radial se dejan cerradas por seguridad (111.1 y 111.2).
+
+Ejecutó: Gerencia Región Noroccidental, Unidad Operaciones Porce, Unidad Operación y Mantenimiento Generación Energía, CET Estudios y Unidad Gestión Ambiental.
+Informó: Santiago Ramírez. OT padre: 3168789
+
+LA FUGA FUE CORREGIDA EL 04/08/2016
+
+PENDIENTE REDACTAR INFORME DE ETAPA 2, POR TAL MOTIVO NO SE CIERRA OT. (INFORMA: SANTIAGO RAMÍREZ).
+
+
+

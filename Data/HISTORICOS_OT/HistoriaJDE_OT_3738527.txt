@@ -1,0 +1,19 @@
+2018/06/21 RUBEN ARBOLEDA
+OT creada para corregir punto caliente en DP1, interruptor Q13 CW4
+
+2018-06-21 REALIZÓ: OSCAR ALIRIO GIRALDO - EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3738527, PASO:1          
+Se identificó disparo de interruptor en DP1 celda 6 Q14 correspondiente a la motobomba CW4 la cual se alarmó con falla EF14. Se repuso el interruptor y se le dio arranque; se realizó inspección termografica se encontró temperatura incrementándose en la fase R a 62°C a la llegada del interruptor (Barraje DP1) y subiendo; las fases S y T estaban alrededor de 42°C. 
+Se realizó transferencia hacia la DP2 de:
+CCM1
+SA1
+SA2
+DG1
+Se paró el chiller 3
+Se paró las motobomba CW4 y CW5
+Se abrió en manual la DP1
+Se reliazo correctivo aflojando la barra del interruptor desde el barraje principal y ajustandolo nuevamente.
+Se retornó las cargas hacia la DP1. 
+Se realizó otra inspección termografica y se encontró una diferencia de 13°C en la fase R. 
+Se realizó intercambio de salida entre interruptor Q14 CW4 y Q15 UPS A ya que son de igual capacidad y el Q15 tiene una carga de 30 Amperios.
+Se realizó inspección termografica y se dejó en condiciones normales, Se recomienda cambiar un interruptor de 250A (Se requiere compra), para reemplazar el Q14 y posteriormente normalizar el cableado.
+

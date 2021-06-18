@@ -1,0 +1,10 @@
+XL: VERIFICAR Y LIMPIAR, EL TABLERO Y SUS PARTE, INSPECCIÓN SENSORICA Y SUS TRANSDUCTORES RV. 
+
+18/DICIEMBRE/2013
+MANTENIMIENTO ELECTRONICO PREVENTIVO SEMESTRAL
+Se realiza mantenimiento al regulador  de velocidad y a los transductores y sensores asociados al este sistema, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. El grupo de operación había informado que el Relé R65 el cual desbloquea el regulador al momento del arranque, no estaba realizando dicha función, se procedió a seguir el lazo de control y verificar esta señal, se reapretaron bornes, se debe ingresar al programa del regulador y verificar esta lógica en detalle.
+Se realiza una depuración de las alarmas presentes en el regulador de velocidad.
+
+PROGRAMADOR: Oscar Arango
+EJECUTO: Francisco Gonzalez - Fredy Duarte - Marlon Carmona

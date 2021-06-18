@@ -1,0 +1,5 @@
+2018/06/07 RUBEN ARBOLEDA
+Se evidencia alta temperatura en la salida del interruptor 52Q1, totalizador de las motbombas de recirculación de aceite del banco 4.
+
+2018-06-07 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3734225, PASO:1          
+Se realizó Mantenimiento correctivo al tablero +KA4, correspondiente al banco 4, a la salida del interruptor 52Q2 totalizador de las motobombas del banco.

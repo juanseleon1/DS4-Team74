@@ -1,0 +1,11 @@
+MP ANUAL:- 300798 CELDA +L02 INTERRUPTOR U2 TR
+18/03/2017
+MANTENIMIENTO PREVENTIVO ANUAL
+Se realizó el mantenimiento según el instructivo anual.
+Se extrajo el interruptor, se revisaron y se ajustaron todos los puntos de conexiones, se realizó limpieza e inspección de todos los elementos electromecánicos que componen el equipo.
+No se evidencian anomalías.
+
+Nota: se realizaron pruebas de resistencia de contactos. 
+
+Ejecuto: Tatiana Almario. 
+Programo: Carlos Andres Forero. 

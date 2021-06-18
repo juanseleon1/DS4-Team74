@@ -1,0 +1,5 @@
+2019/02/16 RUBEN ARBOLEDA
+En el ventilador S2 se presentó falla en el arranque, el arrancador suave presentó la alarma "OCF", se crea OT para su revisión.
+
+EDWAR LONDOÑO
+2019/002/16 se atiende falla en el arrancador y se resetea la alarma quedando en condiciones normales de operacion.

@@ -1,0 +1,2 @@
+FECHA: Abril 12/2017PROGRAMO: Daniel PalaciosEJECUTO:Diego Restrrepo.
+Se realiza mantenimiento según plan de periféricos, se hace revisión, limpieza y verificación al seccionador bajo carga S2, este mantenimiento se hace al mismo tiempo que se hizo al TA04.

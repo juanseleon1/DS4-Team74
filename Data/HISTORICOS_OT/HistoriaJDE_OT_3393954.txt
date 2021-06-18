@@ -1,0 +1,11 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo que comprende la inpección del servo de la válvula esférica de la unidad 1 de la central de guadalupe IV
+
+
+Programador: Camilo Montagut - 13/02/2017
+
+Se solicita la Unidad 1 para realizar revisión y mantenimiento del servomotor de la válvula esférica. Se encuentra cámara de apertura con mucho lodo, se realiza limpieza, pruebas de apertura y cierre. Se deja consigna de operación manual para garantizar sellado de válvula.
+
+Por oportunidad se debe realizar el maquinado de la arandela limitadora de cierre, con el fin de ampliar carrera del cierre del servomotor para así garantizar paralelismo y por ende el buen sellado.
+
+Informó: Gabriel Tamayo Ruiz - Camilo Montagut.
+Ejecutó: Equipo mecánico UOG

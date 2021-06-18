@@ -1,0 +1,6 @@
+Corregir medida de temperatura rotor del AVR1, no se esta visualizando.
+
+
+terminada, fue realizada durante manteniminto 
+
+Cerrar 

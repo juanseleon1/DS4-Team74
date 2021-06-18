@@ -1,0 +1,10 @@
+2014-11-08. REPORTO JUAN CARLOS DUARTE MUÑOZ.
+
+REVIZAR EN EL NODO 2 EL EVENTO "LOW BATTERY VOLTAGE". EL EVENTO APARECE Y DESAPARECE CON LAS SEÑALES DE PROBLEMA GENERAL Y PROBLEMA FUENTE. 
+
+
+17/12/2014
+Se rectificaron las soldaduras de la tarjeta de la fuente, entrada 24 vdc. 
+Se deja trabajando sin problemas y en observación. 
+
+Learcilas

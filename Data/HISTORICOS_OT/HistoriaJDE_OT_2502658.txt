@@ -1,0 +1,13 @@
+XE: INSPECCION GENERAL INTERRUPTOR POTENCIA UNIDAD
+
+-------------------------------
+
+FECHA: 2014-06-01
+
+EJECUTÓ: OLGA VIANA Y JULIAN GIRALDO
+
+Se realiza mantenimiento anual al interruptor principal de generador. Engrase de los piñones, revisión del motor DC y parte mecánica del interruptor (Bomba hidráulica, driver y electroválvula), nivel de aceite, leva de contactos auxiliares, etc. Según IDM: GCP3E0002 No se encuentran averías ni anomalías en los equipos. Una vez finalizados los procedimientos, el sistema se normaliza y se deja en condiciones normales de operación.
+
+INFORMÓ: CRISTIAN GÓMEZ
+
+-------------------------------

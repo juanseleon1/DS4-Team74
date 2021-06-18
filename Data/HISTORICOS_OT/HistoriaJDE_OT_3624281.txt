@@ -1,0 +1,7 @@
+14/10/2017
+MANTENIMIENTO ESTATOR GENERADOR GUADALUPE 3
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realizó mantenimiento preventivo según instructivo GCG3E0006. Se retiran las tapas superiores del generador para tener acceso a las cabezas de bobina y a los polos del rotor, se verifica visualmente que no hayan anomalías. 
+
+Ejecutó: Edgar Rodas-Edinson Hernandez
+Programó: Carlos Andrés Forero

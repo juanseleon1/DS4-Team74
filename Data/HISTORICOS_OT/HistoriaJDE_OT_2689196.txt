@@ -1,0 +1,2 @@
+2015/02/01 NESTOR RAMIREZ - ADONIS CADAVID (RUBEN ARBOLEDA)
+Realizar proceso de apagado manual del ventilador S6, C/V, con el fin de realizar una prueba de enfriamiento de aire en la caverna principal de casa de maquinas, 

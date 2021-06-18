@@ -1,0 +1,5 @@
+
+09/25/2017 Cesar Tulio Jimenez / Luis Eduardo Arcila OT:3606418
+
+sale en el despliegue de alarmas continuamente la señal U5-8.102 Interruptor Seccionador 
+Se cambia tarjeta DSDI 1010a en el controlador quedando en condiciones normales.

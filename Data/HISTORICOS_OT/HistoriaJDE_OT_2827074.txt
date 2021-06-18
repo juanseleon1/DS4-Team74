@@ -1,0 +1,13 @@
+2016/01/05__ Carlos Enrique Moncada.
+
+SE EJECUTA MANTENIMIENTO Y VERIFICACION DE LA INSTRUMENTACION EN LOS TABLEROS DE CONTROL DE LAS COMPUERTAS RADILAES 1 Y 2 DE LA PRESA PORCE II. SE REVISA  QUEDANDO ESTA DISPONIBLE PARA LA OPERACIÓN.
+
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero de controladores PLC
+
+Realizar mantenimiento a tablero de controladores de las casetas 1, 2 y caseta principal de los vigilantes, verificar señales de las compuerta de descarga de fondo.realizar backup de programa

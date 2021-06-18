@@ -1,0 +1,38 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+PLANILLA PARA EL REGISTRO HOROMETRO , CAMBIO DE ACEITE Y FILTROS COMPRESORES SERVICIOS GENERALES
+
+
+HOROMETRO:4256 hrs  __________
+
+PRESION DE ARRANQUE:5.1 bar____________
+
+PRESION DE PARO:7.1 bar____________
+
+TIEMPO DE TRABAJO:1´06"_____________
+
+TIEMPO DE REPOSO: __________________
+
+TEMPERATURA CARCAZA MOTOR:35°C_________
+
+TEMPERATURA CARCAZA UNIDAD:82°C_________
+
+ULTIMA FECHA DE CAMBIO DE ACEITE:2014-04-04_________
+
+ULTIMA FECHA DE CAMBIO DE FILTROS:2014-04-04________
+
+
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
+
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0018

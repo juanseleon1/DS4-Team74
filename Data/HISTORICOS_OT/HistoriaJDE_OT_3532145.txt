@@ -1,0 +1,78 @@
+
+13/07/2017
+PLANEADOR JEFE DE TRABAJO: YOFRED BERNARDO RODRIGUEZ VAHOS
+MP ANUAL G43 , BLOQUEO ELECTROMECANICO.
+
+ENTREGA DE LA UNIDAD G43 LUEGO DEL ANUAL DEL 13/07/2017 - 20/07/2017
+Se entrega unidad 3 de Guadalupe 4 para explotación comercial luego de realizado el mantenimiento preventivo anual con número de consignación 135918, OT padre :3532145, la ruta crítica de este mantenimiento fue el cambio de cojinete de turbina, cambio de juntas inflables y la reparación del casquillo del sello del eje; por este motivo se solicitó una prórroga de 2 días más para entregar la unidad. de 
+las actividades realizadas por las diferentes disciplinas fueron las siguientes:
+Mecánico:
+üCorrección de falla en el sello del eje 
+üCambio de cojinete de Turbina 
+üReparación de cavitaciones en cono de aspiración
+üInspección rueda Francis.
+üMantenimiento cuatrimestral
+üMantenimiento cojinetes, válvula de admisión, frenos generadores, distribuidor, tuberías de refrigeración.
+üMantenimiento y cambio de aceite a la estación hidráulica 
+üMantenimiento tanque acumulador.
+Eléctrico:
+Pruebas al estator, rotor (resistencia aislamiento, IP, factor de potencia, DAR.
+Mantenimiento de:
+üAnillos rozantes 
+üBanco dos de trafos de potencia
+üSeccionador e interruptor de maquina 
+üTransformadores de potencial 
+üSeccionador y transformador de servicios auxiliares 
+üInterruptores y tableros de servicios auxiliares de unidad 
+üMantenimiento cuatrimestral
+
+
+Electrónico:
+ümantenimiento de sensores de cojinetes 
+üse realiza verificación lazos control temperaturas núcleo, devanados, cojinetes
+ümantenimiento a RTD´S
+ümantenimiento a las celdas del regulador de tensión
+üpruebas del regulador electrónico; fallas leves, fallas graves y alarmas
+üinstalación de válvula 304 y pruebas de conexión y desconexión
+üMetrología de la unidad
+üMantenimiento cuatrimestral
+üMantenimiento al RV, RACK (se desmontó), tarjetas 
+üMantenimiento a los instrumentos del sistema de refrigeración. (RTD´S, y flujometros)
+
+Se realizaron pruebas de desempeño al sistema de protecciones eléctricas de estas unidades. (Juan David Granada)
+Se hizo el protocolo de chequeos de alarmas y disparos
+
+Se realiza un giro mecánico hasta las 50RPM para la revisión de todo el conjunto del generador e identificar posibles ruidos, en los diferentes puntos no se observó ninguna irregularidad ni tampoco ningún ruido.    
+En la noche se realizaron giros hasta llegar a 300RPM se presentaron salidas de máquina, disparos ocasionados por la señal del sensor de nivel de aceite del cojinete, posteriormente se hizo seguimiento de variables de funcionamiento con la maquina cargada, en la madrugada del 21/07 se cargó a 35MW ,56 MW y 75MW, en cada etapa descrita se fueron realizando las mediciones de vibraciones y temperaturas de La unidad , se realizan ajustes en el regulador de velocidad para corregir discrepancia de medida de potencia con el transductor.
+Queda disponible para la explotación comercial a las 10:52 am del 21/07/2017
+Referente a la señal para disparo de bajo nivel de aceite en cojinete de turbina
+Queda trabajando con la señal de presión de aceite vista en sala de operación.
+La señal de alarma aparece cuando la presión de trabajo de cojinete baje a 25PSI
+
+
+Informa jefe de trabajo: Yofred Rodriguez 
+Ejecutan: Alirio Hernández, Juan Caicedo, Carlos Ospina, José Montoya, William Lopera, equipo, eléctrico, electrónico y mecánico.
+Bloqueos de Unidad: Gerardo Pérez 
+Desbloqueos de Unidad: Natalia Urrea
+
+
+ANEXO
+
+Registros de unidad 12/07/2017 
+
+   
+Registros de Unidad 21/07/2017
+ENTREGA DE LA UNIDAD G43 LUEGO DEL ANUAL DEL 13/07/2017 - 21/07/2017
+Se entrega unidad 3 de Guadalupe 4 para explotación comercial luego de realizado el mantenimiento preventivo anual con número de consignación 135918, OT padre :3532145, la ruta crítica de este mantenimiento fue el cambio de cojinete de turbina, cambio de juntas inflables y la reparación del casquillo del sello del eje; por este motivo se solicitó una prórroga de 2 días más para entregar la unidad.
+Se realizaron pruebas de desempeño al sistema de protecciones eléctricas de esta unidad. (Juan David Granada)
+Se hizo el protocolo de chequeos de alarmas y disparos
+Se realiza un giro mecánico hasta las 50RPM para la revisión de todo el conjunto del generador e identificar posibles ruidos, en los diferentes puntos no se observó ninguna irregularidad ni tampoco ningún ruido.    
+En la noche se realizaron giros hasta llegar a 300RPM se presentaron salidas de máquina, disparos ocasionados por la señal del sensor de nivel de aceite del cojinete, posteriormente se hizo seguimiento de variables de funcionamiento con la maquina cargada.
+En la madrugada del 21 de julio se cargó la unidad a 35MW ,56 MW y 75MW, en cada etapa descrita se fueron realizando las mediciones de vibraciones y temperaturas de La unidad, se realizan ajustes en el regulador de velocidad para corregir discrepancia de medida de potencia con el transductor.
+Queda disponible para explotación comercial a las 10:52am del 21/07/2017
+Referente a la señal para disparo de bajo nivel de aceite en cojinete de turbina
+Queda trabajando con la señal de presión de aceite vista en sala de operación.
+La señal de alarma aparece cuando la presión de trabajo de cojinete baje a 25PSI
+
+
+

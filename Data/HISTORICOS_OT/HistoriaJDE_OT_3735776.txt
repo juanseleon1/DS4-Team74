@@ -1,0 +1,10 @@
+14/06/2018 Elinel Martinez Morillo.
+Falla en el filtro autolimpiante este no opera ni en automatico ni en manual  cuando la maquina se encuentra funcionando.
+- Se reemplaza actuador de la electro válvula del filtro auto limpiable de la unidad 2, por el actuador del filtro auto limpiable del sistema de refrigeración de los trafos y se esta haciendo monitoreo. 
+-  FECHA: 26/06/2018
+- EJECUTO: WILFER HINCAPIE  
+- SE REALIZA CALIBRACIÓN DE MSW DE ORDEN DE CIERRE, DE LA ELECTROVALVULA.
+- SE REALZAN PRUEBAS DE FUNCIONAMIENTO Y SEGUIMIENTO POR VARIOS DÍAS Y QUEDA EN FUNCIONAMIENTO NORMAL. 
+NOTA:  QUEDA EL FLTRO AUTOLIMPIABLE CON SU RESPECTIVO ACTUADOR, Y SE INSTALA EL ACTUADOR DEL FILTRO AUTO LIMPIARLE DEL SISTEMA DE REFRIGERACIÓN DE LOS TRAFOS EN SU UBICACIÓN ORIGINAL.   
+
+ 

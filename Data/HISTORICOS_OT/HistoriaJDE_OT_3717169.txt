@@ -1,0 +1,33 @@
+2018-05-21 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3717169, PASO:1          Se realizó medida de escobillas del recinto de anillos de la Unidad 8. 
+MEDIDA DE ESCOBILLAS EN mm:
+A.S. 1A: 43,2
+A.S. 2A: 31,3
+A.S. 3A: 34,4
+A.S. 4A: 37,3
+A.S. 5A: 42,8
+A.S. 6A: 22,3
+A.S. 7A: 34,5
+A.S. 8A: 40,7
+A.S. 1B: 29,9
+A.S. 2B: 26,2
+A.S. 3B: 37,6
+A.S. 4B: 30,8
+A.S. 5B: 33,2
+A.S. 6B: 42,4
+A.S. 7B: 38,2
+A.I. 1A: 37,4
+A.I. 2A: 37,8
+A.I. 3A: 30,9
+A.I. 4A: 23,8
+A.I. 5A: 38,2
+A.I. 6A: 39,6
+A.I. 7A: 26,5
+A.I. 8A: 21,6
+A.I. 2B: 32,6
+A.I. 3B: 19,8
+A.I. 4B: 38,4
+A.I. 5B: 46,6
+A.I. 6B: 37,4
+A.I. 7B: 26,8
+A.I. 8B: 44,7
+OBSERVACIONES: Se realizó el cambio de 5 Escobillas.

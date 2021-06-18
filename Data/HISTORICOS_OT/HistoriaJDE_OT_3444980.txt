@@ -1,0 +1,11 @@
+FECHA: 03/04/2017
+DESCRIPCIÓN:REVISAR SEÑAL DE TEMPERATURA NÚCLEO ESTATOR #10 UNIDAD G43. SALIÓ ALARMA Y COMENZÓ A OSCILAR LA SEÑAL. SE DESHABILITA PARA EVITAR DISPARO DE UNIDAD. TAG: G4U3GEGENTT0010.
+SOLICITADO POR: OPERACIÓN TURNOS 2 Y 3.
+
+
+programador jose montoya
+04-04-2017
+se inhibe la señal desde la estacion de ingenieria
+05-04-2017
+se revisa el lazo de comunicacion y se verifica la RTD, se encuentran cables flojos en bornera  de conexion en el recinto generador.
+se vuelve habilitar la RTD en el control y queda trabajando bien

@@ -1,0 +1,8 @@
+2017-04-27 REALIZÓ: FARLEY GIOVANNY DIAZ - CRISTIAN DANILO GARCIA (PRACTICANTE) - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3468014, PASO:1          
+Se realizó revisión ajuste de borneras y medida de asilamiento en el tablero de control y de las motobombas del sistema de refrigeración Cojinete Guía Superior de la Unidad 5, 
+Se realizó medida de aislamiento desconectando la salida de los arrancadores con los siguientes resultados: 
+Motobomba 1: 5GOhm
+Motobomba 2 : 6GOhm
+Se dejó la motobomba 1 seleccionada como principal
+Los bornes de potencia de los motores estaba floja tanto en el tablero de control como en la caja de conexiones del motor.
+Adicionalmente se instaló algunas terminales de punta en los arrancadores y borneras, se dejó en condiciones normales.

@@ -1,0 +1,16 @@
+20/10/2015
+
+Se inicia la instalación de las multi barreras y los cables de la red PROFIBUS 
+
+
+Realizado por Wtobonl
+
+
+
+28/10/2015
+
+Se inicia normaliza el sistema y se realiza verificacion de lazo en comunicaciones Profibus 
+ 
+
+
+Realizado por Wtobonl

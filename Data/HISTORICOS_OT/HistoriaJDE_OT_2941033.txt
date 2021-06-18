@@ -1,0 +1,8 @@
+2015-11-18. JUAN C DUARTE MUÑOZ.
+
+CORREGIR EN LA DP2.C9. LA LECTURA DEL CONTADOR "POWER LOGIC PM 800" CORRESPONDIENTE AL TSA3 PORQUE ESTA DEFICIENTE, NO SE OBSERVA CLARAMENTE.
+
+EL CONTADOR ES REGISTRADO AL FINAL DE MES.
+
+2016/05/17 GIOVANNY DIAZ - JEISON ORTEGA, PROGRAMO: SOLIVARE, PASO 1, OT: 2941033
+Se realizó cambio de la PM800, se realizó pruebas generales a la DP2 referente al funcionamiento y apertura y cierre de los interruptores, se dejó en condiciones normales.

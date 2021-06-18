@@ -1,0 +1,19 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+------------------------------
+fecha: 2014-08-18 ot: 2580342  mtto: eléctrico
+ejecutó: JULIAN GIRALDO - JHON J ORREGO
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL, bornes DE POTENCIA, terminales, cableado Y MOTORES de las bombas DE circulación de aceite pertenecientes al sistema deL REGULADOR HIDRÁHULICO DE TURBINA (S3). Según IDM: GCP2E0017. No se encuentran averías NI FALLAS en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+REGISTROS BOMBA Nº1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S471R293,2R23R31,1 500S - T468S276S23,5S31,8 500T - R468T274,8T20,9T33 500
+REGISTROS BOMBA Nº2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S471R284,5R23,2R27,9 500S - T468S288,7S23,5S30,2 500T - R468T274,1T21T31,4 500
+el mtto se realiza por oportunidad con planta en 0 mva.
+informa: cristian a gómez h
+------------------------------

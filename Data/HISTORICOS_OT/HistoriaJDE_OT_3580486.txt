@@ -1,0 +1,7 @@
+2017-09-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3580486, PASO:1Se realizó reparación de alumbrado general en casa de maquinas, con tubos de 96''
+2017-09-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3580486, PASO:2Se continuó con la reparación del alumbrado en casa de máquinas
+2017-09-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - BRANDON VELASQUEZ (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3580486, PASO:3Se realizó reparación de alumbrado en zona de Servicios Auxiliares, cercano a tablero de control de CO2 Generadores.
+2017-10-04 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3580486, PASO:4Se realizó reparación de alumbrado en casa de maquinas.
+2017-10-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3580486, PASO:5Se continuó con la reparación del alumbrado en casa de máquinas
+2017-11-17 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3580486, PASO:12Se realizó revisión del alumbrado vertical de 1 Etapa 
+2017/12/30 se generó la otra OT automática, se continuará con la reparación del alumbrado en la OT: 3664722

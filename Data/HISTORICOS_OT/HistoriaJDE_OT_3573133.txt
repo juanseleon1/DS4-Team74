@@ -1,0 +1,14 @@
+FECHA: 20/08/2017
+
+DESCRIPCIÓN: LA UNIDAD PRESENTA ALRMA POR TIERRA ROTOR. FAVOR REVISAR
+
+INFORMÓ: MARIO MORALES - GUSTAVO QUINTANA
+         FRANCISCO JAVIER CÓRDOBA C.
+
+Se presenta alarma tierra rotor, mostrando menos de 20 K, se procede a realizar una inyección y medición inicial, inyectando 500 vdc antes de lavar, dando como resultado una medición de 3.0 M en anillo superior y 2.9 M en anillo inferior, dejando inyectar 488 vdc, se procede a lavar excitación aprovechando el programa de generación en 0 MW. Se repite la prueba de medición, mostrando 6.76 M en el anillo superior y 6.37 M en el anillo inferior. El relé de tierra rotor queda en 26.0 K. 
+
+Nota: se cambian las escobillas numero 18 y 19 de los anillos rozantes. 
+
+planeo: Oscar Arango
+Programo: Carlos Andres Forero
+Ejecuto: Tatiana Almario-Jorge Echeverry 

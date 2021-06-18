@@ -1,0 +1,108 @@
+- FECHA : VIERNES ABRIL 21 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - WILFER HINCAPIÉ- DAVID HERRERA PRACTICANTE
+- ASOCIADO A LA OT : 3394644
+- ASUNTO : HACER MANTTO MP
+
+** DATOS DE PLACA
+    Nota : la placa está borrada por corrosión 
+
+** Mantto controles 
+    - Mantto interruptor : sí
+    - Mannto contactor : sí
+    - Revisión cableado : sí
+    - Revisión conexiones y tornillería : sí
+
+
+** Mantto motor 
+     - Aislamiento con respecto a tierra : 7.05 Goh
+
+** Valores de voltaje y corriente
+
+     * Valores de voltaje
+     - RS : 474.5 v
+     - ST : 475.3 v
+     - RT : 476.2 v
+
+      * Valores de corriente
+      - Corriente arranque fase R : 3.8 a
+      - Fase R : 1 a
+      - Fase S : 1 a
+      - Fase T : 1 a
+
+** Variables mecánicas 
+      - Temperatura excesiva carcaza : nó
+      - Temperatura excesiva cojinetes : nó
+      - Vibraciones anormales : nó
+      - Ruidos anormales : nó
+
+** Calibración térmicos 
+      - Calibración térmico control : 1 a
+      - Calibración térmico potencia : 63 a
+
+** Funcionamiento control normal : sí
+
+** Horómetro : N/A
+
+** Observaciones 
+      - Medidas de aislamiemto tomadas con el megger MI3121H, con 500 vdc  y sin la acometida : 7.05 Goh
+      - Medidas de aislamiemto tomadas con el megger MI3121H, con 500 vdc  y con acometida : 6.98 Moh
+      - Nota : se recomienda instalar una protección termo magnética ( mini breaker de 2 a ) antes de la conexión de la potencia a la 
+        entrada del motor pues solo tiene la protección asociada al tablero MCPC5 y es muy alta , 63 a.
+      - Se programa instalación de esta protección como mejora dentro del mismo mp-
+
+
+- FECHA : VIERNES ABRIL 21 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - WILFER HINCAPIÉ- DAVID HERRERA PRACTICANTE
+- ASOCIADO A LA OT : 3394644
+- ASUNTO : HACER MANTTO MP
+
+** DATOS DE PLACA
+    Nota : la placa está borrada por corrosión 
+
+** Mantto controles 
+    - Mantto interruptor : sí
+    - Mannto contactor : sí
+    - Revisión cableado : sí
+    - Revisión conexiones y tornillería : sí
+
+
+** Mantto motor 
+     - Aislamiento con respecto a tierra : 7.05 Goh
+
+** Valores de voltaje y corriente
+
+     * Valores de voltaje
+     - RS : 474.5 v
+     - ST : 475.3 v
+     - RT : 476.2 v
+
+      * Valores de corriente
+      - Corriente arranque fase R : 3.8 a
+      - Fase R : 1 a
+      - Fase S : 1 a
+      - Fase T : 1 a
+
+** Variables mecánicas 
+      - Temperatura excesiva carcaza : nó
+      - Temperatura excesiva cojinetes : nó
+      - Vibraciones anormales : nó
+      - Ruidos anormales : nó
+
+** Calibración térmicos 
+      - Calibración térmico control : 1 a
+      - Calibración térmico potencia : 63 a
+
+** Funcionamiento control normal : sí
+
+** Horómetro : N/A
+
+** Observaciones 
+      - Medidas de aislamiemto tomadas con el megger MI3121H, con 500 vdc  y sin la acometida : 7.05 Goh
+      - Medidas de aislamiemto tomadas con el megger MI3121H, con 500 vdc  y con acometida : 6.98 Moh
+      - Nota : se recomienda instalar una protección termo magnética ( mini breaker de 2 a ) antes de la conexión de la potencia a la 
+        entrada del motor pues solo tiene la protección asociada al tablero MCPC5 y es muy alta , 63 a.
+      - Se programa instalación de esta protección como mejora dentro del mismo mp-
+
+

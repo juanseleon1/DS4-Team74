@@ -1,0 +1,19 @@
+PLANEADOR:OSCAR RESTREPO
+
+ENERO 23 DE 2017
+
+
+PROGRAMADOR: JUAN CAICEDO
+
+
+
+FECHA:23/01/2017
+SOLICITANTE:NATALIA URREA
+
+DESCRIPCIÓN:Se presentó señal de alarma y disparo; por alta y muy alta temperatura aceite cojinete guía turbina G42. Se revisa indicación y se encontraba indicando valores normales (71°C). Si bien fue una señal instantánea, no generó disparo debido a que no se encuentra en la secuencia de paro rápido. El TAG de esta señal es: G4U2TBBRGTT1_A
+
+Se requiere hacer revisión de la señal.
+
+SE VERIFICA LA SEÑAL, SE ENCONTRO UN PROBLEMA DE CONEXION, ADEMAS ESTA SEÑAL NO ES LA QUE PROVOCA EL DISPARO, EL DISPARO VIENE DE UNA SEÑAL POR LOS TILLQUIS, ESTO SE DEBE UNIFICAR
+
+JUAN A. CAICEDO HENAO

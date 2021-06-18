@@ -1,0 +1,155 @@
+2018/09/26 RUBEN ARBOLEDA
+Se crea OT para realizar cambio del regulador de velocidad de la Unidad 1.
+
+2018-10-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3768897, PASO:1          
+Se inició con la adecuación de elementos para el cambio del regulador de velocidad de la Unidad 2, se inició con la instalación de canaleta plástica y presentación de algunos elementos.
+
+2018-10-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:2          
+Se continuó con la adecuación de elementos para el cambio del regulador de velocidad de la Unidad 2, Se inició con la adecuación de elementos y rieles 
+
+2018-10-09 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:3          
+Se continuó con la adecuación de elementos para el cambio del regulador de velocidad de la Unidad 2, Se inició con la adecuación de elementos y rieles 
+
+2018-10-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE) - OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3768897, PASO:4-4,1          
+Se continuó con la adecuación de elementos para el cambio del regulador de velocidad de la Unidad 2, se inició con el alambrado del tablero.
+
+2018-10-11 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:5          
+Se continuó con la adecuación de elementos para el cambio del regulador de velocidad de la Unidad 2, se inició con el alambrado del tablero.
+
+2018-10-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:6          
+Se continuó con el alambrado de elementos en la placa de montaje para el regulador de velocidad de la Unidad 2.
+
+2018-10-16 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:6          
+Se continuó con el cableado de elementos en la placa de montaje para el regulador de velocidad de la Unidad 2.
+
+2018-10-17 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:8          
+Se continuó con el alambrado de elementos en la placa de montaje para el regulador de velocidad de la Unidad 2.
+
+2018-10-18 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:9          
+Se continuó con el alambrado de elementos en la placa de montaje para el regulador de velocidad de la Unidad 2.
+
+2018-10-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:10       
+Se inició con el cableado externo del regulador de velocidad de la Unidad 2
+
+2018-10-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:11          
+Se continuó con el cableado externo del regulador de velocidad de la Unidad 2
+
+2018-10-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:12          
+Se continuó con el cableado del regulador de velocidad de la Unidad 2, llegaron elementos enviados por la empresa REIVAX, se realizó inventario de éstos. 
+
+2018-10-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOHNSON GOMEZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:12,1-12,2          
+Se realizó la instalación y prueba de los transductores y la adecuación de las señales de comunicaciones en el tablero de control para el regulador de velocidad de la Unidad 2. 
+
+2018-10-26 REALIZÓ: JOHNSON GOMEZ - SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE).,  PROGRAMO: RARBOLG OT: 3768897, PASO:13-13,1          
+Se continuó con el cableado de los transductores del regulador de velocidad Unidad 2, se realizó una prueba con uno de los transductores en la Unidad 4 para comandar el servomotor de deflectores, operó normalmente, Se normalizó la unidad 4 y se le dio un arranque para verificar su funcionamiento con el control propio.
+
+2018-10-29 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:14          
+Se Inició con la adecuación de un soporte para la fuente de 140VDC/15VDC con el fin de fijarla a la placa de montaje.
+
+2018-10-30 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:15          
+Se realizó la instalación de la placa de montaje en el tablero del regulador de velocidad, para esto se realizó la perforación de la placa de montaje y se instalaron separadores.
+
+2018-10-30 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:15,1          
+Se continuó con la instalación de la placa de montaje para el regulador de velocidad de la Unidad 2, se realizó adecuación de fuente de 15VDC, la placa de montaje quedó fijada en el tablero del regulador.
+
+2018-10-31 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:16          
+Se continuó con la instalación de la placa de montaje para el regulador de velocidad de la Unidad 2.
+
+2018-11-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:17          
+Se inició con la instalación del cableado del regulador de velocidad entre la placa de montaje frontal y la placa trasera. 
+
+2018-11-02 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:18          
+Se continuo con el cableado de las dos placas de montaje del regulador de velocidad.
+
+2018-11-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:19          
+Se continuo con el cableado de las dos placas de montaje del regulador de velocidad.
+
+2018-11-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:20          
+Se continuó con el cableado de los elementos del regulador de velocidad Unidad 2
+
+2018-11-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:21          
+Se continuó con el cableado de los elementos del regulador de velocidad Unidad 2
+
+2018-11-08 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:21,1          
+Se continuó con el cableado de los elementos del regulador de velocidad Unidad 2
+
+2018-11-09 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:22          
+Se continuó con el cableado de los elementos del regulador de velocidad Unidad 2
+
+2018-11-10 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:23          
+Cableado Regulador de Velocidad U2
+
+2018-11-11 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:24          
+Cableado Regulador de Velocidad U2
+
+2018-11-12 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:25          
+Cableado Regulador de Velocidad U2
+
+2018-11-13 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:26          
+Cableado Regulador de Velocidad U2
+
+2018-11-13 REALIZÓ: FERNANDO ANTONIO RUIZ - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3768897, PASO:26,1          
+Se realizó adecuación de un interruptor de DC en el tablero de control de la Unidad 2, para alimentación del regulador de velocidad, se realizó la perforación la  lámina frontal y se realizó la perforación de las barras de DC para su alimentación, adicionalmente se realizó la instalación de borneras y cableado.
+
+2018-11-14 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:27          
+Se continuó con el cableado externo del regulador de velocidad de la Unidad 2
+
+2018-11-14 REALIZÓ: FERNANDO ANTONIO RUIZ - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3768897, PASO:27,1          
+Se realizó el corte y perforación de una lámina para el montaje de los indicadores de velocidad Red Lion y la instalación de un transformador para la aumentación de la fuente AC/DC
+
+2018-11-14 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:27,2          
+Se continuó con el cableado externo y entre las dos placas (relés y de controladores) del regulador de velocidad de la Unidad 2.
+
+2018-11-15 REALIZÓ: FERNANDO ANTONIO RUIZ - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3768897, PASO:28,1          
+Se continuó con la instalación de la lámina para el soporte de los indicadores de velocidad Red Lion 
+
+2018-11-15 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3768897, PASO:28          
+Se continuó con el cableado externo y entre las dos placas (relés y de controladores) del regulador de velocidad de la Unidad 2.
+
+2018-11-16 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:29          
+Se continuó con el cableado externos del regulador de velocidad Unidad 2.
+
+2018-11-16 REALIZÓ: FERNANDO ANTONIO RUIZ - RODRIGO SALAZAR,  PROGRAMO: RARBOLG OT: 3768897, PASO:29,1          
+Se continuó con adecuación de laminas en el regulador de velocidad Unidad 2
+
+2018-11-17 REALIZÓ: OSCAR ALIRIO GIRALDO - RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:30          
+Se continuo con el cableado del control del nuevo regulador de velocidad Reivax de la unidad 2. Se verificaron los puntos de conexión entre el plano y la tabla de cableado, se corrigió información registrada en planos y se levantó tabla de cableado de los equipos de protección plasmados en el plano. 
+
+2018-11-18 REALIZÓ: OSCAR ALIRIO GIRALDO - RODRIGO SALAZAR ORTIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:31          
+Se continuo con el cableado del control del nuevo regulador de velocidad Reivax de la unidad 2. Se verificaron los puntos de conexión entre el plano y la tabla de cableado, se corrigió información registrada en planos y se levantó tabla de cableado de los equipos de protección plasmados en el plano. 
+
+2018-11-19 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:32          
+Se continuó con la instalación del cableado para el regulador de velocidad Unidad 2, se adecuaron las señales de los relés de 125VDC
+
+2018-11-20 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:33          
+Se continuó con el cableado del regulador de velocidad de la Unidad 2, se realizó el cableado de las señales de los relés.
+
+2018-11-21 REALIZÓ: OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3768897, PASO:       34   
+Se continuó con el cableado del regulador de velocidad de la unidad 2.
+
+2018-11-22 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:35          
+Se continuó con en cableado y se inició con la revisión de los planos y cableado (Amarillado del plano) en el regulador de velocidad Unidad 2
+
+2018-11-24 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:36          
+Se realizó prueba de alambrado al regulador de velocidad, se realizó marcación de las señales a los equipos Red Lion -29N1 Y -29N2, se realizó instalación de cableado en el tablero +DU2,2 de las señales del regulador de velocidad Unidad 2, adicionalmente se realizó la prueba de los pulsadores (Señales remotas 1 y 2) desde los tableros de control +TT2,2 y +TG2,2, adicionalmente se realizó la prueba de las señales digitales provenientes del +DU2.1 y +DU2.2 lo anterior como señales digitales.
+
+2018-11-25 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3768897, PASO:37          
+Se realizó la energización del regulador de velocidad modernizado en la Unidad 2, con el fin de realizar pruebas de funcionamiento con tensión y la energización de los controladores y las entradas digitales.
+
+2018-11-25 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3768897, PASO:37,1          
+Se realizó la energización del regulador de velocidad modernizado en la Unidad 2, con el fin de realizar pruebas de funcionamiento con tensión y la energización de los controladores y las entradas digitales.
+
+2018-11-26 REALIZÓ: OSCAR ALIRIO GIRALDO,  PROGRAMO: RARBOLG OT: 3768897, PASO:38          
+Se realizó apoyo a ingeniería en ejecución de pruebas para el regulador de velocidad Unidad 2, se realizó prueba a las señales de entradas digitales.
+
+2018-11-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3768897, PASO:39          
+Se realizó las pruebas del regulador de velocidad
+
+2018-12-12 REALIZÓ: MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE) - JHONATAN ANDRES USME,  PROGRAMO: FDIAZ OT: 3768897, PASO: 40        
+ se realizan trabajos faltantes en el regulador de velocidad de la unidad 1.
+
+2018-12-13 REALIZÓ: JHONATAN ANDRES USME - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: FDIAZ OT: 3768897, PASO: 41         
+se continua con los trabajos en el regulador de velocidad de la unidad 2.
+
+2018-12-14 REALIZÓ: SEBASTIAN HINCAPIE HURTADO-JUAN CASTRILLON,  PROGRAMO: FDIAZ OT: 3768897, PASO:42          
+se continua con los trabajos en el regulador de velocidad de la unidad 2.

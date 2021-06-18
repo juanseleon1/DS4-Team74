@@ -1,0 +1,2 @@
+2017-02-22 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3403877, PASO:1         
+ Se realizó corrección del punto caliente en el tablero +KA4, después de 2 horas de servicio se toma una imagen termografica para identificar si fue efectivo el correctivo, se evidenció un buena corrección, se anexa el informe a la OT.

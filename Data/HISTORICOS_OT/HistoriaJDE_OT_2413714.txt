@@ -1,0 +1,9 @@
+XL: VERIFICAR Y LIMPIAR CONTROL CIRCULACION TCCS COJINETE SUPERIOR DE LA UNIDAD
+
+19/11/2013
+
+
+Se realizó mantenimiento según instructivo .no fue posible realizar verificación de la instrumentación  generando señales en cada una de las medidas análogas de los segmentos. Se cambia la RTD 10 la cual se encontraba con problemas se realiza curva de verificación a la RTD nueva y se instala.
+
+
+Realizado por Walter Tobon

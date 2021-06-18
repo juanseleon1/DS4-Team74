@@ -1,0 +1,4 @@
+
+2018/07/26 DIEGO BEDOYA
+Realizar el desmontaje del inyector Nº 3 de la unidad 5 para montar un inyector reparado en SAIT el codigo del inyector nuevo es el 803695, este inyector se cambia con el fin de dejar la unidad con los inyectores reparados como se ha venido haciendo con las otras unidades.
+el trabajo fue realizado por: Fabio Herrera, 

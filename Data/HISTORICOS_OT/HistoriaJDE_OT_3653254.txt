@@ -1,0 +1,6 @@
+LUNES 06 DE MARZO 2017 JORGE MARIO PEÑARANDA
+
+Referente a las plantas diesel P01 y P02.
+La planta P01 queda trabajando de forma automática, se probó transferencia. La planta P02 tiene un problema de comunicación que impide que haga transferencia de forma automática. si senecesita operar hay que hacerlo en forma manual.
+Nota: Cuando se tengan fallta de  tensión en la linea de 44kv por sobrecorrientes, se debe  verificar el relé de protección en contenedor de Media Tensión, ubicado en en el Relé 52L, antes de realizar cualquier maniobra. si esta acccionado hacer reset para normalizar la linea.
+Ejecutó: Equipo mantenimiento UOP, turno 2 de operación.

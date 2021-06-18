@@ -1,0 +1,6 @@
+PREVENTIVO ELECTRICO MOTOR BOMBA # 2 REGULADOR HIDRAULICO GENERADOR GUADALUPE III.
+
+JUNIO14/2017
+Se realiza mantenimiento general eléctrico al tablero de control y potencia, fueron realizadas las pruebas electricas de resistencia de aislamiento, verificación de voltajes y corriente al motor de la bomba, sin niguna novedad.
+OT:3514136
+Prgramó: William Lopera.

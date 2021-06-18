@@ -1,0 +1,10 @@
+Buen dia.
+Favor revisar las alarmas pendientes en la unidad 3 referentes a falla tierra rotor 64F y alarma 3 exitacion, se resetearon y aparecieron nuevamente.
+Gracias.
+
+Unidad 3. Al momento de energizar se presenta en la O.S. "Alarma 3 excitación"; en el saco "protección alarmas excitación" y en el silco la protección 64F y "32 field ground alarm". Se informo al ing. Adonis Cadavid. Y se creó la solicitud 2506077
+El día 13 de marzo de 2014 se realizó mantenimiento preventivo a la Unidad 3 en el cual se encontró 10 escobillas para cambio, de las cuales se cambio solo 1 por stock en almacén, para el día 08 de abril de 2014, se realizó la OT: 2505766, en la cual se cambio las 9 escobillas faltantes, durante este proceso no se instaló correctamente una escobilla del anillo superior, la cual hizo contacto con el chasis del recinto de anillos, el problema en es corregido.
+
+Realizó: Juan García - Mario Restrepo - Oscar Giraldo
+Planeó: Ruben Arboleda
+

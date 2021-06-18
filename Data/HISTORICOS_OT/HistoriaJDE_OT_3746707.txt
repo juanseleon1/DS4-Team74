@@ -1,0 +1,12 @@
+FECHA: MIERCOLES 18 DE JULIO DE 2018.
+SOLICITANTES: JOHN OCHOA, ROBIN TAMAYO.
+REVISAR LA UNIDAD 2 DE GUADALUPE IV PORQUE SE DA PARO DE EMERGENCIA DEBIDO A LA APERTURA DEL BANCO 1 DE GUADALUPE IV POR PRUEBAS DEL INTERRUPTOR DE LA UNIDAD 1 DE GUADALUPE IV. MUCHAS GRACIAS.
+
+
+ATT, JOHN OCHOA, ROBIN TAMAYO.
+
+FECHA: MIERCOLES 18 DE JULIO DE 2018
+Debido a las maniobras requeridas para entrar en servicio el interruptor de la unidad 1 de Guadalupe IV, se decide realizar basado en información alojada en planos, un chequeo del bloque eléctrico que vigila el del estado de dicho interruptor, con el fin de evitar que ocurriera nuevamente el evento de disparo y apertura del banco, sin embargo, durante este chequeo, se produce nuevamente el disparo, ocasionado apertura del Banco1 y paro de emergencia a la Unidad2 de GIV. En vista de que el suceso no tuvo relación directa con la información que se había identificado en planos, solicitamos el apoyo del personal de protecciones para determinar propiamente las causas del disparo, según eventos registrados por el relé de protecciones SEL 387E. La respuesta obtenida es que se produjo un disparo (virtual)50BF, el cual no pudo ser identificado en planos, ya que este es una respuesta lógica que se da por programación propia en el SEL. 
+En vista de esta situación, se evidencia la necesidad de identificar un procedimiento que garantice la posibilidad de realizar maniobras de apertura y cierre de los interruptores de máquinas de las unidades de GIV, durante las rutinas de mantenimientos, sin afectar la disponibilidad de otra unidad en el caso de que compartan banco, ni la disponibilidad propia del banco.
+El grupo de mantenimiento, queda pendiente de dicha tarea, y de documentar un procedimiento estandarizado para garantizar que el mantenimiento de los interruptores se pueda llevar a cabo sin afectar los demás equipos de operación.
+INFORMO: Luis Adrián Cardona

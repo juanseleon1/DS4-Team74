@@ -1,0 +1,23 @@
+MP ANUAL, EQUIPOS:
+384782 RODETE PELTON U1 G3
+2359 RODETE PELTON U2 G3
+751203 RODETE PELTON U3 G3
+751204 RODETE PELTON U4 G3
+2362 RODETE PELTON U5 G3
+751205 RODETE PELTON U6 G6
+
+PLANEADOR:OSCAR RESTREPO
+PROGRAMADOR:CAMILO MONTAGUT
+ Programador: Camilo Montagut - 07/08/2018
+
+A las 361039,92 horas de funcionamiento del rodete pelton marca Hitachi y de referencia M-844, se realiza mantenimiento preventivo por parte del personal de EPM y por parte de la empresa contratista ASTECO. A continuación se registran las actividades ejecutadas en el mantenimiento:      
+
+- Adecuación de andamio de inspección          
+- Limpieza del rodete.                             
+- Inspección (END) del rodete por parte de la empresa ASTECO. Se realizó prueba de líquidos penetrantes y partículas magnéticas.                                                                                   - Inspección y mapeo del rodete por parre del personal EPM.                    
+- Lubricación de agujas                                                                        
+- Correctivo en el acople del eje 
+
+Finalmente se cierra el compartimiento del rodete al recibir el informe preliminar de la empresa contratista donde se especifica que no se encontraron fisuras ni daños que puedan comprometer la integridad del equipo
+
+Ejecuta: equipo mantenimiento mecánico UOG

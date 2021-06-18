@@ -1,0 +1,10 @@
+FECHA: FEBRERO 5 DE 2017.
+SOLICITANTES: WILSON ARANGO, ROBIN TAMAYO.
+
+SE DIO PARO LA UNIDAD 2 DE TRONERAS CON 20 MW Y 0 MVARES POR ACCION DE LA ALARMA FALLA GRAVE REGULADOR DE TENSION.
+FAVOR REVISAR.
+
+
+FEBRERO 5 DE 2017.
+se dio paro de emergencia la unidad 2 por falla grave RTX “ falla tarjeta de disparo”  lo cual ocasiono el bloqueo de la CPU y no permitía la normalización de la unidad. después de revisar cada componente individualmente, se procede a resetear la CPU y se normalizan las señales análogas.
+REALIZO:  GRUPO DE ELECTRONICA.

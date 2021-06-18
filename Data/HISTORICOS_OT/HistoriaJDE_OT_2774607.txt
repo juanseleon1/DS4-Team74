@@ -1,0 +1,13 @@
+FECHA: 24 de mayo de 2015 
+Jorge Iván González Bustamante
+Luego de entrar la unidad 1 y 2 por re despacho, se sale de condiciones la unidad # 3 por falla válvula esférica estando parada.
+En el momento de estar solucionando este evento se da paro rápido la unidad # 2 por falla conmutación  servicios auxiliares por oscilación de potencia en la red.
+Nos solicitan entrar la unidad # 3 por el paro de la unidad # 2 lo que no fue posible inmediatamente por no tener condiciones de la unidad # 3. Este evento genera una indisponibilidad en la unidad de 12:30 a 13:01.
+Luego se procede a dar solución a la falla en la unidad, se pone en local-manual y se termina secuencia de apertura válvula esférica. Se normaliza y se realizan pruebas respondiendo bien el control,
+este evento se ha presentado en varias ocasiones en esta unidad.
+Informa. Turno # 2 
+Fecha: Mayo 25 del 2015.
+Se verifica funcionamiento del controlador de unidad ya que no es una falla real, se cambiaron las tarjetas de entradas digitales correspondientes a las señales de la válvula de admisión, se hace seguimiento a otros equipos asociados a los paros generados por la unidad y se observa señal de filtro obstruido del sello de operación de la turbina, se presenta en varias ocasiones y esta alarma puede llenar el bufer del controlador, ocasionando que el controlador de unidad mande a parar los subsistemas que estan en operación cuando la máquina esta sincronizada, provocando secuencias de paro de la unidad, esto lo viene realizando aún con la unidad parada.
+Se viene haciendo seguimiento a los eventos de la unidad, para evitar salidas forzadas por falsas alarmas en los equipos asociados a la unidad.
+Realizan: Grupo de operación y Mantenimiento de la UOP.
+Informa: Jorge Rodríguez

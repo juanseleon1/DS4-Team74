@@ -1,0 +1,12 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación mecánica a realizar en la estación superior del teleférico. Las actividades a desarrollar son la adecuación de dos andamios para inspección y la modificación de la escalera de mano para acceder al piso de poleas.
+
+
+Ot. 3423593 - Adecuaciones mecánicas estación superior teleférico - Programador: Camilo Montagut - 2017/11/06
+
+Se cierra ot sin finalizar ya que quedan tareas pendientes por ejecutar en la instalación superior e inferior del teleférico. Tener en ceunta las actividades a ejecutar:
+
+- Finalizar adecuación de escalera para el tercer nivel estación superior del teleférico
+- Adecuación andamio inspección y termografía tercer nivel estación superior del teleférico
+- Adecuación de reglas metálicas estación teleférico inferior
+
+Ejecuta: equipo mantenimiento mecánico UOG

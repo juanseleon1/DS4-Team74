@@ -1,0 +1,17 @@
+29/08/2014 Reporto: Carlos Andres Mejia 
+
+Buenas tardes 
+Favor habilitar las señales de operacion de los compresores, ya que no llegan a la estacion de operacion.
+Compresor aire servicios generales 1      señal: 8.310
+Compresor aire servicios generales 2      señal: 8.312
+Compresor aire 1 interuuptores I etapa    señal: 8.301
+Compresor aire 2 interuuptores I etapa    señal: 8.302
+Compresor aire 3 interuuptores II etapa   señal: 8.303
+Compresor aire 4 interuuptores II etapa   señal: 8.304
+Compresor aire reguladores                señal: 8.305
+Muchas gracias.
+
+
+2014/10/27 - GIOVANNY DIAZ 
+Se realizó habilitación de las señales y prueba correspondiente, mejora de cableado, adecuación de señales en los relés y puesta en servicio de las señales descritas anteriormente. 
+

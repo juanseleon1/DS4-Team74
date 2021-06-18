@@ -1,0 +1,10 @@
+FECHA: MAYO 18/2017
+PROGRAMO: DANIEL PALACIOS
+EJECUTO: DARIO PUERTA.
+PLANEADOR: RMONTOYG
+OT PADRE: 3476947
+CONSIGNACIÓN: @135893
+
+Se realiza inspección, limpieza y mantenimiento al tablero de control y de protecciones de la unidad +TPU.
+
+XE: VERIFICAR Y LIMPIAR CONTROL UNIDAD GEN TCU Y PROT TPU DE LA UNIDAD

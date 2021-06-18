@@ -1,0 +1,21 @@
+2017-08-09. JUAN C DUARTE MUÑOZ.
+
+REVIZAR ALARMA EN SISTEMA DE 13.2 K.V "FALLA CIRCUITO DE DISPARO BOBINA 1". QUEDA PENDIENTE LUEGO DE GIRO Y SINCRONISMO PROGRAMADO SEMANAL.
+
+2017/08/15 KATHERIN ZULUAGA - GUSTAVO MORALES - RUBEN ARBOLEDA
+El día de hoy se realizó la revisión de la alarme supervisión circuito disparo B1 en el interruptor de 13.2Kv correspondiente a la planta diésel de la S/E, se evidenció que hay una falla en la resistencia de 5W y 5KOhm la cual no se cuenta con repuesto, se solicitó cotización y queda pendiente de realizar el cambio. 
+
+Adicionalmente se realizó medida de referencia a la resistencia del interruptor de acople, siendo de las mismas ésta resistencia también está fallada. 
+
+2017/08/18 GIOVANNY DIAZ - RUBEN ARBOLEDA
+El día de hoy se realizó el cambio de la resistencia en el interruptor A07 de 13.2Kv en el edificio de la Subestación, se evidenció que hay una falla adicional en la lógica del controlador EGCP2 modulo sincronismo automático el cual no energiza el relé de disparo BT52G, salida 28; y un contacto NC hace que permanezca la tensión positiva en la supervisión circuito disparo en el edificio de 13.2Kv. 
+
+Se realizó varias pruebas y se evidenció que al reiniciar el controlador el relé se energiza por un corto tiempo (2 segundos), y luego se suelta. 
+
+Se dejó la perilla de selector control sincronismo en posición deshabilitado, sin embargo no es problema dejarla en manual o automático, solo que en automático aparece la alarma y siempre estará un disparo presente,  se recomienda solicitar  una vista por parte de la empresa competente. 
+
+2018/03/05 RUBEN ARBOLEDA 
+Segun informe Diario: 
+La planta de emergencia de 910 KW arrancó en forma normal en modo automático programado el miércoles 21 de febrero. Se cargó con 500 KW durante 5 minutos y su paro fue normal. Se encuentra disponible. 
+
+Se cierra ésta OT sin costos

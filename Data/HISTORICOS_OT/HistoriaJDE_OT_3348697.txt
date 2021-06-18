@@ -1,0 +1,37 @@
+01/03/2017. SERGIO OLIVARES D.
+ En las puertas traseras se destruyeron los dos tambores de las chapa para poder abrir las puertas. Se hicieron 2   perforaciones en cada puerta laterales respectivamente para colocar tornillos de 6 x 60 mm para el bloqueo de las mismas.
+ En el frente del interruptor en la puertas inferiores donde se encuentra alojado el control, se hizo un una perforacion central  superior para el bloqueo con el mismo tornillo
+ .
+ Se revizaron los sensores inductivos de las puertas los cuales se encontraron normales, porque la unidad se encontraba  fuera  de servicio y los sensores frios, no se retiro el puente de los mismos, porque no se pudo identificar cual sensor estaba malo,  porque fallan cuando se calientan.
+ Se requiere que la unidad este en servicio para que se calientes los sensores y saber cual esta fallando, e inmediatamente  salga, tomar las medidas correspondientes e identificar el fallado por calentamiento.
+ Se sugiere cambiar los sensores por de alta temperatura, en un mantenimiento de unidad, de los cuales hay disponibles, 
+
+
+06/12/2016. SERGIO OLIVARES D.
+
+            Se encuentra puente entre los bornes 1 y 10. Las puertas traseras del interruptor no sepudieron abrir por falta de llaves.
+            Se dejan nuevamente con el puente.
+            En el próximo mantenimiento tener en cuenta para abrir estas puertas y probar todos los sensores.  2016/12/21 ANGEL ADONIS CADAVID OCHOA            SE RALIZA OT Y QUEDA PENDIENTE PARA REVISAR EN EL PROXIMO MANTENIMIENTO, SE DEJA OT EN  ESTADO DE ESPERA.
+
+
+
+2017-04-13 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3348697, PASO:2          
+Se realizó cambio de todos los sensores  del interruptor de potencia de la Unidad 2, se retiró un puente y se dejó en condiciones normales de cableado, se identificó que la señal: U2-8,95 está programada de manera diferente a las otras unidades, se requiere cambiar, se le informa a Cesar Tulio Jiménez01/03/2017. SERGIO OLIVARES D.
+ En las puertas traseras se destruyeron los dos tambores de las chapa para poder abrir las puertas. Se hicieron 2   perforaciones en cada puerta laterales respectivamente para colocar tornillos de 6 x 60 mm para el bloqueo de las mismas.
+ En el frente del interruptor en la puertas inferiores donde se encuentra alojado el control, se hizo un una perforacion central  superior para el bloqueo con el mismo tornillo
+ .
+ Se revizaron los sensores inductivos de las puertas los cuales se encontraron normales, porque la unidad se encontraba  fuera  de servicio y los sensores frios, no se retiro el puente de los mismos, porque no se pudo identificar cual sensor estaba malo,  porque fallan cuando se calientan.
+ Se requiere que la unidad este en servicio para que se calientes los sensores y saber cual esta fallando, e inmediatamente  salga, tomar las medidas correspondientes e identificar el fallado por calentamiento.
+ Se sugiere cambiar los sensores por de alta temperatura, en un mantenimiento de unidad, de los cuales hay disponibles, 
+
+
+06/12/2016. SERGIO OLIVARES D.
+
+            Se encuentra puente entre los bornes 1 y 10. Las puertas traseras del interruptor no sepudieron abrir por falta de llaves.
+            Se dejan nuevamente con el puente.
+            En el próximo mantenimiento tener en cuenta para abrir estas puertas y probar todos los sensores.  2016/12/21 ANGEL ADONIS CADAVID OCHOA            SE RALIZA OT Y QUEDA PENDIENTE PARA REVISAR EN EL PROXIMO MANTENIMIENTO, SE DEJA OT EN  ESTADO DE ESPERA.
+
+
+
+2017-04-13 REALIZÓ: OSCAR ALIRIO GIRALDO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3348697, PASO:2          
+Se realizó cambio de todos los sensores  del interruptor de potencia de la Unidad 2, se retiró un puente y se dejó en condiciones normales de cableado, se identificó que la señal: U2-8,95 está programada de manera diferente a las otras unidades, se requiere cambiar, se le informa a Cesar Tulio Jiménez

@@ -1,0 +1,15 @@
+MANTENIMIENTO PREVENTIVO GENERAL Y PRUEBAS ELECTRICAS AL BANCO DE TRANSFORMADORES
+
+
+NOVIEMBRE 10 DE 2016.
+Después de realizar las diferentes maniobras para el despeje del equipo y constatando todas las condiciones de seguridad, se procede y se realiza las siguientes actividades:
+-Se realizó limpieza e inspección a todos los elementos en conjunto tales como: aisladores, bujes, puntos de conexión, ventiladores, caja de control, etc. 
+-Se inspecciono los diferentes puntos de conexión, tanto lado de alta como de baja, realizando ajustes para evitar puntos calientes. Así mismo en los tableros de control.
+-Se realizó ajuste en el fhanche del buje del lado de baja X2 fase S, ya que se evidencia fuga de aceite, se reaprieta y se le aplica silicona para evitar que la fuga continué. Este mismo procedimiento se realiza en el flanche donde está ubicada la RTD. y también en las fases R y T, aunque no se evidencias fugas prominentes.
+-Se realizaron pruebas de IP en todas las fases, se evidencia buen aislamiento según las pruebas realizadas. Se conectan de nuevo los diferentes puntos de conexión lado de baja y de alta, los cuales fueron desconectados para las diferentes pruebas. Quedando todo normal y en condiciones para su correcto funcionamiento.
+Nota: En las siguientes rutas del servidor, quedan los registros fotográficos de los trabajos realizados en los transformadores y los datos de las pruebas realizadas.
+Registros Fotográficos: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\Trafos>
+Datos de pruebas: 
+<\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\Datos> 
+
+Carlos Andres Forero

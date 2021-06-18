@@ -1,0 +1,33 @@
+2015/02/24 RUBEN ARBOLEDA
+Realizar desarme de barraje de salida y neutro para la ejecucion de pruebas predictivas, 
+
+Posteriormente realizar el armado de los barrajes. 
+
+
+NOMBRE DE LA PLANTA: CENTRAL GUATAPÉ ELABORÓ: "FARLEY GIOVANNY DIAZ
+JHONATAN USME"
+UNIDAD No.: UNIDAD 7 REVISÓ: RUBEN DARIO ARBOLEDA
+FECHA: 24-02-2015
+No. O.T : 2703770
+IP A TIERRA
+Fase/Fases a tierra Lectura 1 Min. Lectura 10 Min. Indice de Polarización Ip=10 Min./1 Min.
+X / YZ 2,35 G 12 G 5,10
+Y / XZ 2,18 G 11,1 G 5,11
+Z / XY 2,11 G 11,1 G 5,28
+
+IP ENTRE FASES
+Fase - Fase/Fase a tierra Lectura 1 Min. Lectura 10 Min. Indice de Polarización Ip=10 Min./1 Min.
+X - Y/Z 4,30 G 22,1 G 5,14
+X- Z/Y 4,59 G 23,4 G 5,1
+Y - Z/X 5,14 G 28,3 G 5,49
+
+
+
+RESISTENCIA OHMICA
+ Neutro - Fase Resistencia Ohmica
+ X1-U 8,559 m
+ X2-U 8,507 m
+ Y1-V 8,328 m
+ Y2-V 8,457 m
+ Z1-W 8,319 m
+ Z2-W 8,232 m

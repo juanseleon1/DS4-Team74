@@ -1,0 +1,16 @@
+
+2017/10/18 _ CARLOS ENRIQUE MONCADA. OT N° 3628785.
+Al estar sincronizada a 75 MW la U1 se da paro parcial 1, presentando oscilacion de voltaje, debido a esto se hace transferencia del interruptor de emergencia al principal y viceversa de manera constante.   
+
+2017/10/19 _ CARLOS ENRIQUE MONCADA. OT N° 3628785.
+Se verifican los lazos de control de la tensión de la excitación UV 20 y UV 40, se encontraron bien los voltajes, se inyecta lazo de corriente de la excitación encontrándola normal. Se ajustan parametros en la IHM al AVR 2 así:
+
+Vc scl New: 3900
+Vm scl New: 5450
+
+La unidad queda habilitada para la explotación comercial.
+
+Realizó: Turno 2: Osbaldo Lopera, Jorge Gonzalez, Alex Calle. Grupo electronico: Oscar Adrian Duque, Jorge Rodriguez, Carlos Moncada, Eladio Piedrahita.
+
+Informó: Carlos Moncada
+

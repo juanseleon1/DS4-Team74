@@ -1,0 +1,7 @@
+REVISAR CONTROL UNIDAD, MOSTRO FALLA EN LOS MODULOS DE SALIDAS DIGITALES
+
+Diciembre 20/2016
+Se cambia Rack 1/1 del controlador de unidad, se realiza mantenimiento a la fuente y se cambia memoroa RAM, se carga de nuevo el programa, se buscan condiciones a la unidad y se gira en modo manual local paso a paso, se verifican funcionamiento de los diferentes equipos y el monitoreo de las variasbles de temperatura, presión, caudales de agua y aceite, se sicroniza la unidad y se craga con 90 MW, se observa un buen comportamiento de todos los equipos, se entrega unidad para explotación comercial.
+
+Trabajo realizado por: Walter Tobón, Carlos Moncada. Neiro Fabian Perez y Jorge Rodríguez.
+Informa: Jorge Rodríguez

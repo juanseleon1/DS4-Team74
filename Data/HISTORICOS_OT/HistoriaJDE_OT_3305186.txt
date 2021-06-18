@@ -1,0 +1,15 @@
+2016/11/06 RUBEN ARBOLEDA
+OT creada para atender requerimientos para el mantenimiento del chiller 3, el cual será realizado por el contratista Johson Controls
+
+2016-11-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3305186, PASO:1          
+Se bajaron 9 canecas vacías para el refrigerante, a solicitud del contratista Johnson Controls, estas canecas estaban en subestación, se dejaron en el túnel de los Chiller's para iniciar mantenimiento al chiller 1
+
+2016-12-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3305186, PASO:2         
+Se realizó adecuación de térmico y temporizador en el chiller 1, el térmico se instaló uno nuevo queda pendiente ajustarlo a valor nominal de trabajo, el temporizador se instaló uno nuevo con un tiempo de 10 segundos, se dejó abierto interruptor de potencia en la DP2, interruptor de potencia en el CCM8 e interruptor de control en el CCM8, se deja a disposición del personal de Johnson Controls ya que se está realizando un mantenimiento por parte de esta empresa.2016/11/06 RUBEN ARBOLEDA
+OT creada para atender requerimientos para el mantenimiento del chiller 3, el cual será realizado por el contratista Johson Controls
+
+2016-11-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3305186, PASO:1          
+Se bajaron 9 canecas vacías para el refrigerante, a solicitud del contratista Johnson Controls, estas canecas estaban en subestación, se dejaron en el túnel de los Chiller's para iniciar mantenimiento al chiller 1
+
+2016-12-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FARLEY GIOVANNY DIAZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3305186, PASO:2         
+Se realizó adecuación de térmico y temporizador en el chiller 1, el térmico se instaló uno nuevo queda pendiente ajustarlo a valor nominal de trabajo, el temporizador se instaló uno nuevo con un tiempo de 10 segundos, se dejó abierto interruptor de potencia en la DP2, interruptor de potencia en el CCM8 e interruptor de control en el CCM8, se deja a disposición del personal de Johnson Controls ya que se está realizando un mantenimiento por parte de esta empresa.

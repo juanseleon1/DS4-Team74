@@ -1,0 +1,43 @@
+
+REPARACION ESTATOR UNIDAD 1 CENTRAL SONSON I
+
+ANALISIS DE LAS PROPUESTAS.
+
+INFORME
+ A continuación se describe la propuesta inicial presentada a los proponentes para la reparación en mención.
+
+A.Características de la propuesta a presentar son:
+
+1. Cambio de todo el devanado, esto debido al alto grado de degradación del nivel de aislamiento. Las bobinas nuevas a instalar deben ser aislamiento clase F. Cada bobina debe no solo ser aislamiento clase F sino que en su parte recta (núcleo) el aislamiento debe ser termotratado tipo Resin-Rich. Es decir no solo cintas clase F sino de características similares a un aislamiento tipo cristal para niveles de voltaje de 13.8 kv.
+
+2. La segunda propuesta es valorar el reaislado de cada una de las bobinas que en este momento tiene el devanado, el nuevo reasilamiento debe ser con las mismas características el ítem anterior. Se debe evaluar la incidencia que puede tener esta reparación ya que el actual aislamiento esta algo contaminado con aceite. Tener en cuenta que se tiene 5 bobinas falladas y cuatro de ellas deben nuevamente construidas por pérdida de cobre.
+
+
+3. Reparación de núcleo del estator. Cambio de láminas falladas en el evento y proyectar reparación de un 15% del núcleo. Para lo anterior se de cotizar la prueba del Ring Test a valores nominales.
+
+4. Como se debe hacer un desapilado del núcleo de debe evaluar y reparar los dedos de apriete (ajustes) que van en los dos extremos del núcleo. Esto porque se ha venido presentando falla en estos puntos al reventarse algunos de los dedos.
+
+
+5. Por ultimo tener presente en la propuesta el valor del transporte. Item cotizado por separado por si la Empresa decide enviar el estator con vehículos propios.
+
+
+B.Proponentes.
+
+En las instalaciones de la central Niquia se presentaron las siguientes firmas:
+·ELECTRICOS, INGENIERIA Y SERVICIOS S.A.S.
+·HR BOBINADOS S.A.S.
+·TAMAYO PALACIO Y CIA S.A.
+·M&M BOBINADOS INDUSTRIALES.
+
+LA PROPUESTA FUE GANADA POR LA FIRMA M&M DE CALI.
+NO FUE POSIBLE ANEXAR LA CARTA DE INICIO.
+
+SE PROCEDE AL CIERRE DE LA ORDEN DE TRABAJO. PARA LA INSTALACION DEL ESTATOR (ARMADO DE UNIDAD) SE GENERARÁ UNA NUEVA OT.
+INFORMA: GORTIZG
+
+
+SE SOLICITA REVISAR EL GENERADOR DE LA UNIDAD S11; DEBIDO A QUE SE ESCUCHO UN FUERTE GOLPE Y CHISPORROTEO Y OLOR A QUEMADO EN EL GENERADOR POR OPERACION EN EL TRANSFORMADOR DE POTENCIA DE LA PROTECCION "87 DISPARO PROTECCION DIFERENCIAL". 
+REPORTA  LUIS JOHN FAJARDO W.
+
+ESTA OT SE ESTA ATENDIENDO POR PARTE DEL INGENIERO ORTIZ.  
+QUEDA PENDIENTE  INGRESAR INFORME DE ACTIVIDADES REALIZADAS DURANTE LA REAPARCION DEL GENERADOR . 

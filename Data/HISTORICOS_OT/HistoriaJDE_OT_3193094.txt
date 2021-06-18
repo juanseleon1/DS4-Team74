@@ -1,0 +1,6 @@
+XL: LIMPIEZA Y VERIFICACION REGULADOR ELECTRONICO
+
+04-08-2016
+PROGRAMADOR JOSE MONTOYA
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero. Se realiza revisión y mantenimiento al vario metro de posición del distribuidor.
+Se realiza mantenimiento al regulador de velocidad y a los transductores y sensores asociados al este sistema.

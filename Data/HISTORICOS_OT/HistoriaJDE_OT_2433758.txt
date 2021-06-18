@@ -1,0 +1,12 @@
+
+ DICIEMBRE 06 DEL 2013 / JEOVANNY CORREA G
+
+ Los filtros del sistema de refrigeracion Generadores de Guadalupe IIII, no arrancan por bajo nivel. debido a que los sensores de nivel que hacen el control se encuentran malos
+
+06/DICIEMBRE/2013
+Referente al evento de que los filtros de Guadalupe 3 no arrancan de forma automática:
+Inicialmente se revisaron y se bajaron los instrumentos de nivel de marca Endress+Hausser (tipo radar) que se tenían instalados en los dos filtros del foso de refrigeración, puesto que los encontramos con problemas de funcionamiento (display apagado y mala salida análoga), con Marlon Carmona tratamos de habilitar los instrumentos pero la falla es en el microprocesador de la tarjeta electrónica.
+Con Esteban Vásquez iniciamos la compra de estos instrumentos con el proveedor Colsein, pero como el módulo de compras se cerró en diciembre, cancelaron dicho proceso porque el tiempo de entrega se pasaba del 20 de diciembre/2013. Estamos a la espera que se asignen los CDP´s para continuar con este proceso.
+Por el momento lo que se debe hacer para mantener el nivel del foso de refrigeración y evitar un calentamiento de las unidades y posteriores salidas forzadas es que cuando estemos generando se deje Encendido uno de los filtros a baja velocidad todo el tiempo que dure la generación. Posiblemente se presente un desgaste mecánico mayor en los rodamientos y partes mecánicas de los filtros pero es prioritario mantener el nivel del foso de refrigeración.
+Programador: Oscar Arango - Uaimer Diaz
+Ejecuta: Francisco Gonzalez - Fredy Duarte

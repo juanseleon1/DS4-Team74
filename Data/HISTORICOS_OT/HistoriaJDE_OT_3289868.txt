@@ -1,0 +1,7 @@
+XM: CHEQUEAR Y VERIFICAR FUNCIONAMIENTO DISTRIBUIDOR TURBINA UNIDAD
+
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2016-11-03
+Se realiza galgueo de los 20 alabes en los holguras k1, k2, L1 y L2 y se registran los datos en la planilla que se adjunta en esta OT.
+Se realiza revisión de Liners superior e inferior, no se evidencian problemas de pega de álabes móviles. Se termina revisión y se cierra manholle.
+Se desmonta, cambia sellos de labio y se vuelve a montar buje inferior No. 13.
+Se galguean los patines radiales y axiales del distribuidor.

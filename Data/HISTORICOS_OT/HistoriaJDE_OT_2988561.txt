@@ -1,0 +1,8 @@
+
+FECHA: ENERO 15 DE 2016 OT 2988561
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Por presentarse falla al tratar de conectarse el contactor 18K2 se inspecciona y se encuentran fallados los fusibles de 355 Amp de la fase L1 y L2, se realiza el cambio y se deja en servicio el aerogenerador.

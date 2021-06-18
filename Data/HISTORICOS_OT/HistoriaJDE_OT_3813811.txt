@@ -1,0 +1,6 @@
+2019/02/26 OT: 3813811 RUBEN ARBOLEDA
+Se crea OT para realizar la medida de resistencia óhmica al rotor de la Unidad 3, esta medida se realizará desde el empalme inferior de los anillos rozantes.
+
+2019-02-26 REALIZÓ: JHONATAN ANDRES USME - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JUAN ESTEBAN CASTRILLON (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3813811, PASO:1          
+Se realizó revisión de la resistencia óhmica del rotor de la Unidad 3, se retiraron las escobillas y se realizó la medida con resultado de 255.3MOhm corriente aplicada: 1,020Amperios, temperatura aproximada del rotor 48°C, se instalaron las escobillas y se dejó en condiciones normales, Con lo anterior no se evidenció falla aparente, 
+Por parte del personal de la cuadrilla movil se realizó la intalación del equipo RDS para el diagnostivo en linea de éste rotor.

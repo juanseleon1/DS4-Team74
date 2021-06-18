@@ -1,0 +1,9 @@
+FECHA: NOVIEMBRE 28/2018PROGRAMO: DANIEL PALACIOSEJECUTO: CIVALCO LTDA.
+
+Prueba de funcionalidad de equipos exitosa, los equipos reportan eventos de forma exitosa y el panel de control cumple con lógica de programación y funcionamiento de manera idónea, se llena formato . Se realiza prueba de autonomía a baterías y se llena planilla, se pesan los 24 cilindros de CO2 y se llena planilla.
+Trabajo ejecutado por: Esta orden de trabaja la realiza el personal del contratista CIVALCO.
+
+XE: INSPECCIONAR, LIMPIAR Y PROBAR CONTRAINCENDIO GENERADOR DE LA UNIDAD
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS
+OT PADRE 3779285

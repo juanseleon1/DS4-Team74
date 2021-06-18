@@ -1,0 +1,22 @@
+
+SALE DE SINCRONISMO LA UNIDAD #1 POR PARO PARCIAL 2, FALLAS AGRUPADAS DE LA UNIDAD, DISPARO EXCITACIÓN, EN EL PANEL DE ALARMAS PRESENTA FALLA SUPERVISIÓN PULSOS RECTIFICADORES.
+SE ACTIVA EL SISTEMA DE CONTRAINCENDIOS CO2 EXCITACIÓN U1
+SE SOLICITA AL CENTRO DE CONTROL MEDELLÍN REDESPACHO DE LOS PERIODOS 12, 13, 14, 15 POR ORDEN DEL INGENIERO HÉCTOR GÓMEZ.
+FECHA:  18 DICIEMBRE - 2017.
+SOLICITA: LUIS FERNADO LOPERA - VICENTE GAMBOA H.
+
+
+18/12/2017
+Se realiza verificacion de los lazos de control, se encuentra falla en la medida de voltaje transductor UV20 se cambia y ajusta adicionalmente se encuentra falla en el contactor de pre excitacion el grupo electricistas realiza mantenimiento ha esta equipo pero este posee problemas queda deshabilitado este contactor desde el comando de control hasta que sea reemplazado por el personal de electricista. 
+la unidad queda operativa y pendiente realizar ajustes finos en los lazos de voltaje 
+Realizado por WTOBONL
+27/12/2017
+NUEVAMENTE SALE LA UNIDAD # 1 POR PARO PRCIAL 2 , DISPARO EXCITACION, SALE FALLA SUPERVISION PULSO RECTIFICADORES Y LIMITE SOBRE EXCITACION.
+LA UNIDAD SALE CON 75 MW  Y MENOS 17 MVR.
+INFORMA TURNO TRES: CARLOS ADRIAN NARVAEZ - URIEL CASTRILLON. 
+
+27/12/2017
+Referente a la unidad # 1 regulador de tension (TRE). Se ajusta y prueba el AVR 2 quedando operativo. Además se habilita el AVR 1 se ajusta y se cambia dos transductores UV30 y UV10, ademas de la tarjeta CONDB5.      Este AVR 1 queda operativo pero con restricciones el cual solo queda como respaldo. Siempre debe estar el AVR # 2 como principal si se transfiere al AVR 1 se debe ajustar la consigna de manera manual e informar al ingeniero encargado y al grupo electrónico.       
+
+Realizado por WTOBONL 
+terminada cerrar

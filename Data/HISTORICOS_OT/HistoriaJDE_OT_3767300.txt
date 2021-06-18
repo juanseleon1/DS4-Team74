@@ -1,0 +1,13 @@
+
+
+
+ACTIVIDAD:
+
+SEPTIEMBRE 20 / 2018 OT: 3767300  PROGRAMÓ: PEDRO ROBAYO EJECUTÓ: PEDRO ROBAYO
+
+
+
+Se le da arranque el AG6 y nos quedamos en el sitio para mirar porque esta saliendo en el primer intento duro dos horas pero  ya nos habíamos venido en el segundo intento duro trabajando 50 minutos dando una falla el RFC 7,2 
+
+
+Se sube al AG6 y se hace el cambio de modulo 7.2 y 7.5 por estar intermitente es un modulo de temperatura y un DI se cambia y se deje el Aerogenerador en servicio 

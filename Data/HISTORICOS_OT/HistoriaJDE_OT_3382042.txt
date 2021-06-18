@@ -1,0 +1,9 @@
+SOLICITANTE: OPERACIÓN G3 TURNO 3FECHA: 31/01/2017
+
+Bomba 1 no arranca en ningún modo de operación (manual o automático). Es necesario utilizar la bomba 2 (respaldo).
+
+
+ENERO 31 DE 2017
+Se revisó el control de la bomba # 2 de la lubricación forzada y se encontró la bobina del relé KA quemado, se cambia y queda funcionando normal.
+
+William Lopera

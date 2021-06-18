@@ -1,0 +1,11 @@
+2018-09-13 REALIZÓ: FERNANDO ANTONIO RUIZ - JOSE AGUDELO (PRACTICANTE) - FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3765679, PASO:1          
+Se realizó la revisión de la falla a tierra en Subestación con el equipo BENDER. 
+
+Ésta falla no se encuentra franca, al momento de medir la tensión se encuentra: 
+(+) - Tierra: 8VDC
+(-) - Tierra: 125VDC
+(+)- (-): 132 VDC
+
+Se realizó la instalación del equipo, se evidenció una alta corriente (1.5Amperios) hacia los registradores de fallas RF1 y RF2, éstos a su vez se dividen la corriente entre los diferentes circuitos de salida llegando a los equipos con entradas y salidas con opto acopladores, según el equipo la suma de pequeñas corrientes entrega una corriente total. 
+
+Adicionalmente se cuenta con diversas corrientes que aplican para las fuentes de los PLC y equipos de ISA. 

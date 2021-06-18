@@ -1,0 +1,25 @@
+2018/01/14. JUAN C DUARTE MUÑOZ.
+
+IDENTIFICAR Y CORREGIR ALARMA VIBRACIÓN RADIAL LIMITE H1 6.00 MM/SEG QUE SE ESTA PRESENTANDO EN LA ESTACIÓN DE OPERACIÓN Y, ES REPETITIVA, CON OSCILACIÓN, ESTO EN GRAFICA DE O.S. 
+SE SOLICITA MEDIR VIBRACIONES; PORQUE, EN LA REVISIÓN MANUAL DE OPERACIÓN NO SE IDENTIFICA ALTAS VIBRACIONES.
+
+
+enero 15 de 2018 
+
+se va adesmontar la bomba  sin desarmarla , es decir se va a sacar copleta izandola desde el cabezote , ya que en otras oportunidades que hemos tenido los mismos sintomas es algun palo o plantico enredado en la canasta de succion  es solo retirarlo y el p´roblema se corrige .
+
+ahora si no es lo anterior , procederemos a desarmarla y revisar cada uno de sus componentes con el fin de corregir la falla.
+
+este trabajo lo va a realizar 
+
+yesid sanchez , fabio herrera , carlos yepez , jorge duque , oscar velez 
+
+supervisa   jaime a ramirez 
+
+2018-01-15 REALIZÓ: EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3671169, PASO:1.1          
+La motobomba CW7 ha estado presentando alta vibración, El grupo de mantenimeinto mecánico le realizará una revisión, el día de hoy se realizó un arranque al motor desacoplado de la bomba, correintes en vacio: 30.5, 30 y 28.5,Se realizó medida de aislamiento con 500VDC con un resultado de 4.96MOhm; Se abrio el interruptor principal, se desconectó la potencia, se abrio las borneras de señales de control en el +CU6 y se desconectó éstas señales se informa al grupo de mantenimeinto mecanico.
+
+
+marzo 29 de 2018 
+ot terminada y cerrada 
+andres ramirez 

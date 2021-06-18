@@ -1,0 +1,12 @@
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:WILLIAM LOPERA
+
+OT PARA CORRECTIVO EN CPU DE REGULADORES DE TENSIÓN DE LAS UNIDADES 1 Y 2 DE TRONERAS, SE HACEN EL 23 DE JULIO CON CONSIGNACIÓN DE PRUEBAS PARA LA CADENA GUATRON, DE 9:00 A.M. A 5:00 P.M
+
+JULIO 23 DE 2017.
+Referente a reguladores de tensión Troneras: Inicialmente se tenían las 2 CPU de respaldo de los Rtx. de unidades 1 y 2 falladas. En compañía de personal de REIVAX (Joao Araujo) se procedió a descargar nuevamente la configuración y parámetros de escalización de estas CPU, habilitando 2 repuestos de 3 que se tenían ; los reguladores quedan todos disponibles con sus CPU principal y respaldo. Se envía para Brasil una CPU en modo garantía. Se realizan pruebas en caliente fallando cada CPU y comprobando su transferencia, todos los equipos respondieron satisfactoriamente.
+Se entregan las unidades al grupo de Operación.
+Nota: todos los reguladores quedan disponibles y sin restricciones.
+Informó:Alirio Jiménez - Oswaldo Álzate
+William Lopera - Francisco González - Oscar Arango - Joao Araujo

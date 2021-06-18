@@ -1,0 +1,37 @@
+07/11/2017
+PLANEADOR: GERMAN BETANCUR
+SE REALIZA ESTA OT PARA LA INSPECCIÓN SEMANAL DE LA TURBERÍA DE CONDUCCIÓN DE GUADALUPE IV DESDE CÁMARA DE VÁLVULAS HASTA EL BOX COULVERT.
+
+En cámara de válvulas:
+Realizar inspección del estado de la tubería y la junta de expansión o dilatación en el interior de Cámara de válvulas GIV, cota 851  Ø 3140 
+Hacer verificación de fugas de aceite y toma de muestra de aceite de la estación hidráulica 
+
+En la tubería de conducción:
+Realizar inspección del estado de juntas  de expansión externas Ø 3143, cotas 848, 808 y 784.
+
+En el Box-coulvert:
+Realizar inspección del estado de la junta  de expansión box-coulvert cota 698
+Revisar rejillas de los drenajes
+
+05/12/2017
+
+SE REALIZA INSPECCION VISUAL A LA TUBERIA DE PRESION GIV, SE EVIDENCIAN FUGAS EN LAS JUNTAS DE EXPANSION:
+
+No. 1: goteo
+No. 3: 1400 cm³/min aprox.
+No. 4: 3150 cm³/min aprox.
+
+INFORMO: CARLOS OSPINA
+
+19/12/2017
+Se realizó la inspección visual de la tubería de presión el 19 de diciembre de 2017, con una operación de 68 MW cada máquina. Encontrando las siguientes observaciones: Se revisa en el panel de control de la válvula, se encuentra normal, sin alarmas. En el soporte 114 se evidencia un levantamiento de ambas bases del anillo con respecto a la base del soporte de 12 mm. Se marcan los soportes. 
+
+No. 1 (55-56)  Box Coulvert:   Goteo   
+No. 2 (94-95):  1498.42 cm³/min aprox. 
+No. 3 (129-130):  sin fugas
+No. 4 (199-200):   3064.95 cm³/min aprox.
+No. 5 (215-216)  Cámara de Válvulas:   Goteo     
+
+Ejecutó: Julian Alvarez - Helmer Garcia
+Informó: German Betancur
+

@@ -1,0 +1,6 @@
+FECHA: OCTUBRE 20 DE 2016
+
+EJECUTANTE: HENRY GIRALDO Y JOHN JADER ORREGO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta alarma en sensor 90° de la yaw, se realiza el cambio de este sensor y se deja en servicio el aerogenerador.

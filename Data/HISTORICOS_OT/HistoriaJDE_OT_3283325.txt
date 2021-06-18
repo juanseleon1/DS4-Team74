@@ -1,0 +1,10 @@
+PREVENTIVO MECANICO VALVULA ADMISION UNIDAD GENERACION GUADALUPE 3
+
+
+Programador: Camilo Montagut - 2016/11/01
+
+Se realiza el desmonte de los filtros y se ejecuta la limpieza respectiva. Se montan los filtros y no se registran novedades
+
+Queda pendiente cambiar el empaque cuadrado (yute) de 1/8”  de dos de las válvulas de los filtros que se encuentran goteando
+
+Ejecuta: equipo manteninimiento mecánico GIII

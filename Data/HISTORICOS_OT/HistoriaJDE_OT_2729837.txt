@@ -1,0 +1,19 @@
+
+ABRIL 02 DEL 2015 / JEOVANNY CORREA G
+
+Revisar el control del sistema de aire comprimido de interruptores de G4, este no esta dando la orden de paro cuando la presion llega a 33 bar.
+
+ABRIL 02 DEL 2015 
+REFERENTE A LOS COMPRESORES INTERRUPTORES G4:
+Inicialmente se identificó que los compresores no estaban parando automáticamente y se estaba activando la válvula de sobrepresión de cada compresor.  Se revisó el control de arranque y se evidenció que los presóstatos (mecánicos) presentaban una pega en sus contactos.  Se programó un presóstato electrónico y configuró para el arranque de los dos compresores.  
+Se realizan pruebas de arranque y paro automático y todo se visualiza normal.  
+
+Se realizaron pruebas en automático en los dos compresores y se dejó programados así:
+Compresor 1 : arranca en 25 bar - para en 30 bar
+Compresor 2 : arranca en 26 bar - para en 30 bar
+Esto se hace con la finalidad de tener confiabilidad en el suministro de presión de los interruptores de las unidades.
+
+Se entrega el sistema al grupo de operación.
+
+Programador:  Oscar Arango
+Ejecuto: Marlon Carmona

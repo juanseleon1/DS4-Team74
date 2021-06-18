@@ -1,0 +1,10 @@
+13/02/2018
+
+Se cambia subsistema de refrigeración # 2 por presentar alta temperatura el devanado del estator 119 °C, queda trabajando el subsistema # 1.
+Horómetro: 
+ATRU # 1: 48125 h
+ACRU # 1: 47610 h
+ATRU # 2: 40837 h
+ACRU # 2: 11174 h
+NOTA: SE LAVA FILTO AUTOLIMPIANTE E INTERCAMBIADOR DE PLACAS CON AGUA A PRESION, SE REVIZO VALVULA 4 VIAS PARA VERIFICAR SU CORRECTO FUNCIONAMIENTO
+REALIZO: LUIS MORALES, JHON MORA, ALEX MORA, ALEX MORA

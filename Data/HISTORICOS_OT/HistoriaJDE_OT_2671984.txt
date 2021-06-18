@@ -1,0 +1,6 @@
+
+FECHA: ENERO 07 DE 2015
+
+EJECUTANTE: HENRY GIRALDO
+
+Se retira los dos módulos 7,0 de la Top Box del AG12, con el fin de colocarlos en el controlador superior del AG2

@@ -1,0 +1,11 @@
+Referente al TCV Unidad 3: Presenta alarma Falla Grave PLC.Puede estar asociada a la batería de este equipo ya que requiere cambio. Informa: Turno 3 de Operación. Juan Camilo Montoya.
+
+
+28/06/2016
+
+Unidad 3 TCV, se cambia bateria de la CPU, este evento no esta asociado a una falla grave según informe anterior, el proceso queda operativo y el evento de falla bateria queda normalizado.
+
+
+Realizado por: Wtobonl
+
+TERMINADA CERRAR

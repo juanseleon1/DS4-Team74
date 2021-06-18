@@ -1,0 +1,10 @@
+
+2016/04/13_ CARLOS ENRIQUE MONCADA.
+SE EJECUTA MANTENIMIENTO, LIMPIEZA Y VERIFICACION DE LA INSTRUMENTACION EN EL CGI  DE LA UNIDAD 3. 
+
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AI: VERIFICAR INTRUMENTACION
+
+Verificar instrumentación RTD, Presostatos (PS1, PS2, PS9, DPS1) y Flujos de aceite y de agua de los intercambiadores de calor (fis 2 y fis 3), indicadores de nivel aceite en la cuba e indicadores de presencia de agua en el aceite.

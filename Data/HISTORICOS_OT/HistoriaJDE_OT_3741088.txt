@@ -1,0 +1,4 @@
+
+JUNIO 28 DE 2018 OT: 3741088  PROGRAMÓ: HGIRALRI EJECUTÓ: HGIRALRI, CARLOS GUTIERREZ
+
+Se cambia el acople del generador, también se apretan las conexiones y barrajes del generador. No se logró dejar en servicio debido a que se presenta falla por comunicación controlador superior.

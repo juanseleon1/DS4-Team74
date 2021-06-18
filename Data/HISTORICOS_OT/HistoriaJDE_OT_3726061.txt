@@ -1,0 +1,5 @@
+18/05/2018 María Isabel Arias 
+Desmontar y chequear bomba y presostato para verificar causa de caída de presión y realizar ajuste en ambos componentes, de ser necesario. 
+2018/06/01 DIEGO BEDOYA
+Se realiza el mantenimiento a la bomba que estaba trabajando en el regulador hidraulico de la U3 en la posición 2 y que fue cambiada por una nueva , la cual esta presentando problemas; se cambian los rodamientos de esta bomba y se realiza el cambio. la motobomba queda trabajando en muy buenas condiciones, con un tiempo de trabajo de 52 segundos, arrancando con una presión de 34 Kg/cm2 y parando en una presión de 39 Kg/cm2
+El trabajo fue realizado por Fabio Herrera, Orlando Zuleta, Leon Parra.

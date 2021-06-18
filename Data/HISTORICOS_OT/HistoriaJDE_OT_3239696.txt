@@ -1,0 +1,6 @@
+FECHA: SEPTIEMBRE 9 DE 2016
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+Debido a las fallas continuas por comunicaciones, se revisan los tableros de la Top Box (control y modernización), no se encuentra ninguna falla, los voltajes de las fuentes se encuentran bien, solo se encontró flojo el tornillo que asegura el módulo 4,0 a la base, se aprieta y se deja en servicio el aerogenerador.

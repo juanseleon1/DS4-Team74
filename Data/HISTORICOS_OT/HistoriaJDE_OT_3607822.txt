@@ -1,0 +1,6 @@
+
+Programador: Camilo Montagut - 2017/10/11
+
+Se realiza mantenimiento a los radiadores número 1, 2, 4, 5 y 6 del generador. El mantenimiento consistió en la limpieza en sitio de cada uno de los tubos internos de los radiadores removiendo la capa de lodo que se localizaba en ellos, teniendo en cuenta que muchos de los tubos se encontraban totalmente taponados por lodo. Se cambia la empaquetadura de las tapas de todos los radiadores y se ensamblan. Se realiza prueba de estanqueidad verificando que no existan fugas en el sistema.
+
+Ejecuta: equipo mantenieminto mecánico UOG

@@ -1,0 +1,8 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION COJINETE GUIA  CENTRAL PORCE 2.
+
+
+FECHA: 24/10/2014 PROGRAMADOR: JGUINGUER
+
+Se realiza limpieza general a toda la instrumentación, se verifican  los sensores de vibración. Sensor  CIP  9.2VDC y CIL  9.11VDC. Nivel de aceite cojinete de inferior se encontró en 986mm el patrón es 970mm.
+
+REALIZO: FRANK CORDOBA - JUAN CAMILO MONTOYA

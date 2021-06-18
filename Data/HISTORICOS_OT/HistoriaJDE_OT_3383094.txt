@@ -1,0 +1,15 @@
+FECHA: 01/02/2017
+
+SOLICITANTE: GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCION: SE ENCUENTRA ALARMADA LA PLANTA DIESEL "BAJA TEMPERATURA DEL REFRIGERANTE" SE PROCEDIO A RESETEAR LA ALARMA Y ESTA MISMA CONTINUA APARECIENDO.
+ESTA ALARMA MANTIENE ALARMADO EL SISTEMA EN LOS SERVICIOS AUXILIARES DE LA PLANTA (TDP).
+
+POR FAVOR ATENDER ESTA SOLICITUD PARA PODER GARANTIZAR EL RESPALDO EN LOS SERVICIOS AUXILIARES POR MEDIO DE LA PLANTA DIESEL.
+
+GRACIAS.
+
+FEBRERO 3 DE 2017
+Se atiende la OT: 3383094 por presentar alarma de baja temperatura refrigerante, se revisa el control de funcionamiento de la planta diésel encontrándose un cable flojo en una de las terminales del banco de resistencia, se corrige y queda en condiciones normales de funcionamiento.
+Realizo: Grupo Eléctrico.
+Informó: William Lopera.

@@ -1,0 +1,5 @@
+2019/01/28 RUBEN ARBOLEDA OT: 3805707
+Se crea OT para realizar la revisión de la IHM. 
+
+2019-01-28 REALIZÓ: FARLEY GIOVANNY DIAZ - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3805707, PASO:1          
+La IHM del sistema de refrigeración cojinete superior Unidad 8 estaba con el display en blanco, se realizó la desconexión de la IHM desde el plug y se conectó nuevamente, quedando la pantalla en condiciones normales.

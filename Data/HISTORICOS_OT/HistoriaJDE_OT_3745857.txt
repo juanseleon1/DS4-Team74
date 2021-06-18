@@ -1,0 +1,17 @@
+15/07/2018
+
+Referente al Regulador de Velocidad Unidad N°2: Se realiza la presenta OT por presentar el regulador un sobrepulso en el arranque llegando a una frecuencia de 70HZ; se solicita cuanto antes su atención.
+Informa: Operación - Turno 3: Uriel Castrillón - Camilo Montoya.
+
+
+15/07/2018
+Referente al Regulador de Velocidad Unidad N°2: Se encuentra este sistema con un sobre impulso en el arranque hasta 70HZ. Se realizan ajustes y verificación, se ajustan los lazos con las variables:                                                                           RV - BT2 se encontraba en 0,5 se ajusta a 0,4. 
+VT - TN2 se encontraba en 1,0 se ajusta a 1,4.                                                       
+VT - TN3 se encontraba en 0,8 se ajusta a 1,0.                                                       
+Se realizan pruebas y se verifica el buen funcionamiento de la unidad llegando en el arranque a 65HZ y se estabiliza en 60HZ. 
+
+REALIZADO POR WTOBONL 
+
+TERMINADA CERRAR
+
+

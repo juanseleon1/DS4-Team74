@@ -1,0 +1,15 @@
+JHON MARIO PEREZ ARENAS. ENERO 8/2017
+
+LA MOTOBOMBA 2 ACEITE REGULADOR DE VELOCIDAD UNIDAD 3 NO LEVANTA PRESIÓN, TRABAJA CONTINUAMENTE HASTA QUE ARRANCA LA BOMBA 1 Y ENTRE LAS 2 LEVANTAN LA PRESIÓN, HASTA PARAR LAS DOS BOMBAS. 
+
+2018/01/09 DIEGO BEDOYA
+Se realiza mantenimiento a las válvulas 1052 y 2100 del regulador hidráulico de la unidad Nº3; ya que presentaban fuga de aceite las cuales hacían que el tanque acumulador se despresurizara más continuamente, por lo tanto, la motobomba trabajara más seguido. También por este motivo a la motobomba se le dificultaba levantar presión; ya que la presión levantada por la motobomba retornaba a tanque.  
+Se encontró en el interior de la válvula 2100 corrosión provocada por mezcla de agua en el aceite, en la válvula 1052, se cambió el mecanismo interno ya que se encontró un elemento reventado el cual no permitía el buen funcionamiento de la válvula.
+Antes del mantenimiento la motobomba N.ª 2 tardaba 2minutos con 40 segundos en levantar presión, después del mantenimiento quedo levantando presión en 37 segundos.
+La motobomba N.ª 1 presentaba también el mismo problema, sumado a que no paraba luego de tener la presión en el valor deseado. El grupo de electricistas solucionaron este asunto también.
+El trabajo fue realizado por: Jorge Duque, Carlos Yepes, juan David Flórez, Diego Bedoya, Juan David García
+
+
+marzo 29 de 2018 
+ot terminada y cerrada 
+andres ramirez 

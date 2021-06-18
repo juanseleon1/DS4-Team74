@@ -1,0 +1,28 @@
+
+2017/03/09 DIEGO BEDOYA
+Se realiza la inspección de los inyectores de la unidad 8, se encuentra problema en el inyector N°1, el cual está permitiendo el paso de agua hacia el tanque del regulador. Este trabajo se realizó en la OT 3419311
+El trabajo fue realizado por: Fabio Herrera, Gabriel Bustamante, Andres Alzate
+
+marzo 25 de 2017
+
+ot terminada y cerrada 
+
+andres ramirez 
+
+
+
+
+
+2017/03/09 DIEGO BEDOYA
+Se realiza la inspección de los inyectores de la unidad 8, se encuentra problema en el inyector N°1, el cual está permitiendo el paso de agua hacia el tanque del regulador. Este trabajo se realizó en la OT 3419311
+El trabajo fue realizado por: Fabio Herrera, Gabriel Bustamante, Andres Alzate
+
+marzo 25 de 2017
+
+ot terminada y cerrada 
+
+andres ramirez 
+
+
+
+

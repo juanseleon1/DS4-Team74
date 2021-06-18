@@ -1,0 +1,4 @@
+19 MAYO 2015 GUILLERMO LEON ECHEVERRY INSTRUMENTACION COJINETE SUPERIOR
+*****************************************************************************************************************************************************************************************
+SE GENERA ESTA OT PARA VERIFICAR LA INSTRUMENTACIÓN CORRESPONDIENTE AL COJINETE COMBINADO EN MANTENIMIENTO MAYOR
+SE CAMBIA UNA RTD, EL RESTO SE ENCUENTRA DENTRO DE LOS PARAMETROS NORMALES

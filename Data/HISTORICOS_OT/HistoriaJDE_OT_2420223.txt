@@ -1,0 +1,13 @@
+Tarea: 
+Realizar la reparación de 3 motores de interruptores de +SA de casa de máquinas, para lo cual se realizará con personal de Planta. 
+
+
+Se hace proceso de cierre de OT por el siguiente motivo: 
+
+El sistema de información OneWorld estará por fuera  desde el 28 de Octubre hasta el 4 de noviembre (ambas fechas inclusive), lo cual implica que los usuarios no tendrán acceso a él para realizar sus transacciones, controles y reportes.
+
+Entre el 28 de Octubre hasta el 4 de noviembre (ambas fechas inclusive se deben trabajar con los formatos de continuidad (contingencia).
+
+Considerando que algunos códigos de centros de responsabilidad se suprimen y otros cambian por un código diferente (información que se publicará en los próximos días en la bitácora corporativa), implica que se deben identificar las órdenes de trabajo que afectan por estas circunstancias, para coordinar   un cambio masivo.
+
+Como medida proactiva y con el fin de mitigar los impactos en los datos y procesos que tienen asociados centros de responsabilidad, se debe coordinar el cierre de las ordenes de trabajo que ya se hayan cumplido. Próximamente desde el buzón del ingeniero Gustavo Adolfo Ortiz Castañeda (Gustavo.Ortiz@epm.com.co <mailto:Gustavo.Ortiz@epm.com.co>) se  estarán enviando los listados de las ordenes de trabajo abiertas a la fecha de corte para que por favor nos apoyen coordinando el cierre de las mismas y a vuelta de correo  informen las conclusiones de las actividades que realicen.

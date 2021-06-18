@@ -1,0 +1,12 @@
+FECHA: 01/05/2018 SOLICITADO POR: Natalia Urrea - Francisco Córdoba - Operación G4
+DESCRIPCIÓN: Se requiere realizar limpieza al tanque, filtro y las granadas de las bombas asociadas a la Refrigeración de Guadalupe IV; debido a la disminución de presión de bombeo hacia las unidades de generación que se ha evidenciado por el aumento de temperatura en los cojinetes.
+Esta disminución de presión ocurre después de fuertes lluvias de la noche anterior.
+
+
+Programador: Camilo Montagut - 14/06/2018
+
+Se realiza limpieza del foso de refrigeración por retro lavado por 3 horas aproximadamente. Se retira gran cantidad de lodos sedimentados y limpieza de los filtros de las bombas de refrigeración los cúales se encontraban con hojas y lodo.
+
+Durante los 5 días siguientes a la limpieza del foso se observa mejora en la señal de presión de las bombas de refrigeración de las unidades 1 y 3
+
+Ejecuta: equipo mantenimiento mecánico UOG

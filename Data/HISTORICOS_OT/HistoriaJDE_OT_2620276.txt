@@ -1,0 +1,8 @@
+
+FECHA: OCTUBRE 16 DE 2014
+
+
+EJECUTANTES: GERMAN ECHAVARRIA Y HENRY GIRALDO
+
+
+Se presenta falla 4,0 0C16, se inspeccionan las fibras tanto en controlador inferior como superior, se observa ausencia de luz en la llegada al controlador inferior, se realizan cortes en esta fibra en el controlador superior, pero el problema continuaba, después de varios cortes es necesario pelar mas cable para ganar mas longitud en las fibras, se observa luz dentro del rencauchutado naranja que protege la fibra que transmite la señal hacia el controlador inferior, se corta en este lugar y se encuentra la fibra partida, se organizan los conectores a partir de esta longitud y se corrige la falla de comunicación y el aerogenerador queda disponible.

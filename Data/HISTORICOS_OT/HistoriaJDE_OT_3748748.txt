@@ -1,0 +1,4 @@
+CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+2018-08-13 REALIZÓ: JHONATAN ANDRES USME - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3748748, PASO:1          
+Se realizó mantenimeinto a los sensores de la vavlvula esférica de la unidad 1, se realizó revision y limpieza de las electrovalvulas y se realizó medida de sensores, se encontró en condiciones normales.

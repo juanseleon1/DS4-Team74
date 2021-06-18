@@ -1,0 +1,21 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+FAVOR DOCUMENTAR LAOT 
+
+----------------------------------
+
+EJECUTÓ: JHON JADER ORREGO - LUIS FABIAN
+
+SE REALIZA MANTENIMIENTO AL SISTEMA REFRIGERACIÓN U3. TANTO EL TABLERO DE CONTROL COMO LOS MOTORES QUEDAN TRABAJANDO CORRECTAMENTE.
+
+NOTA: VER PLANILLAS EN NOTAS DE EQUIPO
+
+INFORMO: CRISTIAN GOMEZ
+
+--------------------------------------------

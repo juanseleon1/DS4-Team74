@@ -1,0 +1,17 @@
+
+FECHA: Noviembre 10/2018. PROGRAMO: DANIEL PALACIOS EJECUTO :
+
+Se realiza mantenimiento a:
+
+CARGADOR DE BATERIAS 125VDC No 6 MARCA ELTEK MODULAR SUBESTACION A 44KV PORTAL C/M PORCE III: Realizar inspeccion y limpieza cargador y modulos de potencia y tarjetas de control y de potencia, inspeccionar operacion de ventiladores e instrumentos de medida.
+
+Tablero de distribucion TUPS CARGADOR-: Realizar inspeccion y limpieza del tablero de distribucion, verificar auxiliares de tablero, equipos de medida y puestas a tierra.
+
+Banco de baterias de 125Vdc: Realizar inspeccion y limpieza de baterias, tomar datos de voltaje en planillas, verificar posible decoloracion, baterias calientes, soplado de baterias o fugas de electrolito.
+
+ESTA OT SE CIERRA PARA SER REMPLAZADA POR UNA NUEVA EN ENERO DEL 2019, EN EL NUEVO SISTEMA DE INFORMACION DE MAXIMO, EL TRABAJO SE REPROGRAMA PARA ENERO Y FEBRERO DE 2019.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ A.
+PROGRAMADOR: DANIEL EDUARDO PALACIOS O.
+OT:
+FECHA:

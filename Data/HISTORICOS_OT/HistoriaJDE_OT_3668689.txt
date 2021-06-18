@@ -1,0 +1,10 @@
+FECHA: 09/01/2018    SOLICITADO POR: Natalia Urrea- Francisco Córdoba- Operación G4
+DESCRIPCIÓN: El cojinete de turbina de la unidad 1 de Guadalupe IV presenta alarma por alta temperatura aceite 4 (Tag G4U1TBBRGTT002).  Actualmente se encuentra en 82°C. La alarma esta calibrada en 80°c y el disparo está en 85°c.   
+
+Fecha: 17/01/2018
+Por presentar alarma de temperatura aceite cojinete de turbina se inspecciona la refrigeración encontrando bajo flujo de agua en las duchas del cojinete.
+Se consigna la unidad y se desmonta la tubería de las duchas encontrando obstruccion de lodo.
+Se normanliza la tubería y se comprueba el flujo normal del agua en las duchas.
+En la tuberia de alimentacion de las duchas se encontró poro por una de las soldaduras ocasionando fuga de agua, lo cual se corrigió sellando con soldadura el poro mencionado.  
+PROGAMÓ: SERGIO RAMIREZ
+EJECUTÓ: ALVAREZ JULIAN ANDRES - GARCIA VELASQUEZ HELMER

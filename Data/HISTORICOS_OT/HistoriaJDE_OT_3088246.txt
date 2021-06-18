@@ -1,0 +1,77 @@
+
+
+FECHA: ABRIL 29 DE 2016 OT 3088246
+
+EJECUTANTE: ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA, PROBAYO, NELSON, JONATHAN, GERMAN ECHAVARRIA, PSOLANO, CLAUDIA ESLAVA Y HGIRALRI
+SOLICITANTE: HENRY GIRALDO
+
+
+Se prepara el aerogenerador para el cambio de caja multiplicadora, se colocan las cuerdas en las palas, se lleva el dispositivo que se utiliza en el retiro de la caja multiplicadora, se deja todo listo para mañana iniciar labores del cambio de caja.
+
+
+
+FECHA: ABRIL 30 DE 2016 OT 3088246
+
+EJECUTANTE: ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA, PROBAYO, NELSON, JONATHAN, GERMAN ECHAVARRIA, PSOLANO , CLAUDIA ESLAVA Y HGIRALRI.
+SOLICITANTE: HENRY GIRALDO
+
+
+Se inician los trabajos de cambio de caja multiplicadora: se retira el conjunto de las tres palas y se dejan en el piso, se retira la caja multiplicadora con el eje principal, se realiza el desacople del eje principal de la caja fallada y se acopla en la caja nueva, este eje se deja asegurado de tal manera que permita su ascenso a la góndola, también se colocan frenos de generador y su respectivo disco en la caja multiplicadora. Se deja todo listo para continuar los trabajos mañana en la mañana.
+
+Aprovechando que las palas están en el piso se realiza la reparación de uno de los Tip´s
+
+
+
+
+FECHA: MAYO 01 DE 2016 OT 3088246
+
+EJECUTANTE: ALVARITO PUSHAINA, ELISAUL FUENTES, ELIECER PUSHAINA, PROBAYO, NELSON, JONATHAN, GERMAN ECHAVARRIA, PSOLANO , CLAUDIA ESLAVA Y HGIRALRI.
+SOLICITANTE: HENRY GIRALDO
+
+
+Se terminan de realizar los trabajos de cambio de caja multiplicadora: se sube la caja nueva y las palas, se dejan aseguradas todas estas piezas y se calibran los frenos de generador, se deja el aerogenerador con los bulones colocados, se trató de retirar las cuerdas que se utilizaron como vientos en las palas pero no fue posible, queda pendiente retirarlas descendiendo con cuerdas al cuello del tip.
+
+
+
+FECHA: MAYO 10 DE 2016 OT 3088246
+
+EJECUTANTE: ALVARITO PUSHAINA, PROBAYO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se termina de torquear la arandela que sujeta el eje principal en la caja multiplicadora, fue necesario terminar las labores con la llave S300 ya que la llave de casete volvió a fallar.
+
+
+
+FECHA: MAYO 19 DE 2016 OT 3088246
+
+EJECUTANTE: GERMAN ECHAVARRIA
+SOLICITANTE: HENRY GIRALDO
+
+
+Se repara LPC y se cambia el display del RFC del AG9.
+
+
+
+FECHA: MAYO 22 Y 23 DE 2016 OT 3088246
+
+EJECUTANTE: PROBAYO, HGIRALRI, APUSHAIN Y EPUSHAIN
+SOLICITANTE: HENRY GIRALDO
+
+
+Se realiza modificación a la forma de anclar el nuevo contactor, se coloca en su sitio y se conectan los cables y barras, también se coloca el banco de tiristores que se retiró del AG2 (que en un principio se había retirado del AG10), también se coloca el aire acondicionado que faltaba en el tablero de potencia.
+
+
+Se realiza la modificación en el tablero de potencia de la Top Box para  colocar el contactor nuevo y se conecta una parte de la potencia, también se realiza limpieza en la góndola, se conectan las mangueras de los Tip's dentro del cubo, no se logró realizar drenaje ni prueba de los Tip's ya que el control presenta una falla que impide que las válvulas del sistema hidráulico funcionen, además se cambia un fusible del módulo 7,4 al igual que la base de este.
+
+
+FECHA: MAYO 25 DE 2016 OT 3088246
+
+EJECUTANTE: EFUENTEP, HGIRALRI, APUSHAIN Y EPUSHAIN
+SOLICITANTE: HENRY GIRALDO
+
+Se retoman los trabajos de puesta en servicio y mantenimiento del aerogenerador, se drena la presión de los Tip's y se corrige fuga por uno de las tomas de presión de los cilindros de accionamiento, se corrige posición del módulo 7,4 que impedía ver la velocidad del viento, se le adicionan 2 galones de aceite a la estación hidráulica, también se echa el aceite nuevo a la caja multiplicadora (12,5 pimpinas aproximadamente 240 litros) al momento de colocar a circular aceite por l bomba 1 se aprecia una fuga, fue necesario suspender los trabajos por alerta de tormenta en la zona.
+
+
+
+Se continuan los trabajos de puesta en servicio relacionados en otra OT.

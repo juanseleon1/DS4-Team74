@@ -1,0 +1,11 @@
+FECHA: JUNIO 07/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JULIAN GIRALDO.
+PLANEADOR LUIS FEDERICO ALVAREZ A.
+Se realiza revision al equipo colector polvo de escobillas de la unidad N°3, se revisan conecciones y cableados, se encuentra cable flojo en bornera y se corrige falla. Queda en funcionamiento.
+
+
+
+Referente al colector de polvos escobillas Unidad 3:
+
+ En la inspeccion de equipos se encontro en falla, al recibir comando de reset vuel ve a fallarse, se informo al supervisor electrico, quien hizo revision del subsistema descartando falla electrica del equipo, se remite la anomalia al grupo electonico (Carlos Sanchez). Se sospecha de una desconfiguracion en el programa para este proceso.
+
+Informa Turno 2

@@ -1,0 +1,17 @@
+2018/07/16 RUBEN ARBOLEDA
+Se crea OT para realizar desarme y armado de la exitación de la Unidad 5 con el fin de despejar la parte superior para realizar el montaje de los sensores de vibración.
+
+2018-07-19 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3746155, PASO:1          
+Se realizó el desarme del recinto de anillos de la Unidad 5 para el montaje de los sensores de vibración, se realizó medida de aislamiento con los siguientes resultados: 
+Rotor + Barraje: <500K
+Rotor: <500K
+Barraje: <500K
+
+2018-08-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE) - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3746155, PASO:2          
+Se realizó limpieza general a las tapas de las campanas de la Unidad 5 y a los cables de excitación de ésta Unidad.
+
+2018-08-09 REALIZÓ: FERNANDO ANTONIO RUIZ - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3746155, PASO:3          
+Se realizó limpieza general de cables de excitación y bandejas portacables de excitación del recinto de anillos de la Unidad 5, se dejó en condiciones normales.
+
+2018-08-28 REALIZÓ: JUAN DAVID GARCIA - OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3746155, PASO:4          
+Se realizó el armado de la excitación de la Unidad 5, se instaló el soporte porta escobillas y se apretó adicionalmente se le dio alineación a los porta escobillas con respecto a los anillos, se dejó en condiciones normales.

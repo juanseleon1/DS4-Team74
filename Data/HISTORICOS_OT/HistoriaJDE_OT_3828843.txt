@@ -1,0 +1,11 @@
+2019/04/15 RUBEN ARBOLEDA
+Se crea OT para realizar la revisíon del interruptor de potencia del ventilador S1.
+
+2019-04-15 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3828843, PASO:1          
+Se realizó revisión general del ventilador S1 ya que el interruptor se encontró disparado, se realizó medidas eléctricas encontrandose en condiciones normales, datos registrados: 
+Aislamiento 1,85GOhm
+Resistencia Ohmica: 
+RS: 1,1Ohm
+ST: 1,2Ohm
+TR: 1,1Ohm
+Se le dió arranque y quedó en servicio normal. 

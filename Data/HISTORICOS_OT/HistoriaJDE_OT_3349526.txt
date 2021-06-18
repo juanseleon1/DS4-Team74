@@ -1,0 +1,7 @@
+2016/12/22
+Luego de Abrir el Interruptor, sale frecuentemente la alarma "Pres interr generad. - BAJA".
+La medida de presión es 12.7 bar, y las otras unidades de Etapa II son: 13.1, 13.4 y 13.8 Bares.
+Se presenta ruido que aparenta presentarse una fuga de aire.2016/12/22
+Luego de Abrir el Interruptor, sale frecuentemente la alarma "Pres interr generad. - BAJA".
+La medida de presión es 12.7 bar, y las otras unidades de Etapa II son: 13.1, 13.4 y 13.8 Bares.
+Se presenta ruido que aparenta presentarse una fuga de aire.

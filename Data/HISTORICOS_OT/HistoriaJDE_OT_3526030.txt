@@ -1,0 +1,24 @@
+CE: REALIZAR LIMPIEZA DE LAS ELECTROVALVULAS, REVISION Y MEDIDA DE LOS SENSORES SEGUN PLANILLA.
+
+ 13/07/2017. SERGIO OLIVARES D. - O.T. 3526020- EJECUTORES: FERNANDO RUIZ A. - SEBASTIAN HINCAPIE H.
+
+ En el sitio de las electrovalvulas y tablero de conexion de control de la vàlvula de admisiòn se encontro alta humedad,  proveniente de fuga de agua del ducto de ventilacion que pasa por encima del regulador de velocidad.
+ Las electrovàlvulas se encontraron con alta corrosion, y la 20SVC  se encontro abierta.
+ El tablero de conexion de control de la vàlvula de admision, se encontro con agua y alta corrosiòn.
+ Se seco con liencillo el tablero, se petrolizo y se hizo limpieza general.
+ Tambien se desconectaron todos los cables uno por uno, se cortaron en la punta y se pelaron de nuevo, por alta sulfataciòn y
+ algunos partidos por el sulfato.
+ La bobina de la electrovàlvula 20SVO, se coloca en la electrovalvula 20SVC, para que cierre automaticamenete en el momento  de un fallo.
+ Queda pendiente la fabricaciòn de la bobina de la electrovàlvula 20SVO.
+
+MEDIDA RESISTENCIA OHMICA ELECTROVALVULAS:
+
+ 20HL = 300 
+            20BP = 326.4 
+ MICROSWICHE 20BPCA: NORMAL:
+ 20SVO: 320 
+ 20SVC: ABIERTA  
+
+
+
+   

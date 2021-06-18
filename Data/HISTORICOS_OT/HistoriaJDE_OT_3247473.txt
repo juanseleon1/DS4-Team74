@@ -1,0 +1,19 @@
+En la OT: 3208725, RUBEN ARBOLEDA
+Se realizó inspección termografica al CCM1, se encontró alta temperatura en la fase R, se recomienda realizar una intervención, se hace esta OT correctiva para verificar en que momento se puede hacer una intervención.
+
+2016-10-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3247473, PASO:1          
+Se realizó revisión del CCM1, aprovechando que la planta estaba con carga en 0, se realizó ajuste de los tulipanes de entrada y salida del interruptor principal, adicionalmente se realizó prueba de transferencia, se evidenció que el interruptor 2 presentaba problemas para realizar transferencia a causa de que la ventana para la llave de operacion manual se abre y el michosuiche interno quedaba abierto, impidiendo su normal funcionamiento, se realizó el bloqueo de los dos michrosuiches para que permanezcan abiertos así la ventana esté abierta o cerrada, esta misma maniobra se realizó en el interruptor principal, se probó y se dejó en condiciones normales, apoyó con las maniobras: OPERACIÓN: JORGE GARZÓN - ALBERTO ROJAS
+
+Queda pendiente realizar una inspeccion termografica con todas las bombas en servicio.
+
+2016-10-06 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3247473, PASO:2          
+Se realizó inspección termografica al CCM1, se encontró lo siguiente:La temperatura en la entrada de alimentación del Q1 fase R se encuentra en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 15.6°C, lo cual implica una probable deficiencia se recomienda hacer seguimiento. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.En la OT: 3208725, RUBEN ARBOLEDA
+Se realizó inspección termografica al CCM1, se encontró alta temperatura en la fase R, se recomienda realizar una intervención, se hace esta OT correctiva para verificar en que momento se puede hacer una intervención.
+
+2016-10-01 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3247473, PASO:1          
+Se realizó revisión del CCM1, aprovechando que la planta estaba con carga en 0, se realizó ajuste de los tulipanes de entrada y salida del interruptor principal, adicionalmente se realizó prueba de transferencia, se evidenció que el interruptor 2 presentaba problemas para realizar transferencia a causa de que la ventana para la llave de operacion manual se abre y el michosuiche interno quedaba abierto, impidiendo su normal funcionamiento, se realizó el bloqueo de los dos michrosuiches para que permanezcan abiertos así la ventana esté abierta o cerrada, esta misma maniobra se realizó en el interruptor principal, se probó y se dejó en condiciones normales, apoyó con las maniobras: OPERACIÓN: JORGE GARZÓN - ALBERTO ROJAS
+
+Queda pendiente realizar una inspeccion termografica con todas las bombas en servicio.
+
+2016-10-06 REALIZÓ: FARLEY GIOVANNY DIAZ,  PROGRAMO: RARBOLG OT: 3247473, PASO:2          
+Se realizó inspección termografica al CCM1, se encontró lo siguiente:La temperatura en la entrada de alimentación del Q1 fase R se encuentra en el nivel 2 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 15.6°C, lo cual implica una probable deficiencia se recomienda hacer seguimiento. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.

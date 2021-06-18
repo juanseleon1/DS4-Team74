@@ -1,0 +1,13 @@
+MANTENIMIENTO PREVENTIVO ELECTRICO EXCITACION PRINCIPAL GENERADOR GUADALUPE III
+
+
+PLANEADOR:GABRIEL TAMAYO
+
+
+PROGRAMADOR:WILLIAM LOPERA.
+
+ABRIL 7 DE 2018.
+Se desmonta todo el sistema de la excitación de la unidad, se aprovecha y se hace mantenimiento y pruebas eléctricas a todo el sistema de excitación, se le hace limpieza con liquido dieléctrico, re aislado de barrajes, y mantenimiento en general ya que se tiene la posibilidad de llegar a lugares que no se pueden llegar cuando el sistema se encuentra en su sitio en los mantenimientos cuatrimestrales, se hacen pruebas antes y después del mantenimiento a los anillos rozantes para verificar su estado. Después de la limpieza se vuelve armar toda la excitación, todo este procedimiento, pruebas y registro fotográfico se encuentra en la bitácora que se llevó durante el mantenimiento especial.
+Resultado de aislamiento final con anillos acoplados al rotor.
+ANTES DE LIMPIAR DESPUES DE LIMPIARAISLAMIENTO / TIERRA AISLAMIENTO / TIERRAANILLO GANILLO GSUPERIOR1.42SUPERIOR3.14INFERIOR1.78INFERIOR 3.81
+Programó: William Lopera

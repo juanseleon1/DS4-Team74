@@ -1,0 +1,9 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+-Se realiza limpieza y se revisan sensores de vibración, quedan ajustados   así: CSPL8.56 VDC, el CSPR 9.04VDC y AXIAL 7.6 VDC. 
+Nivel de aceite cojinete superior quedo en: 276.4mm, el nivel patrón es 275 mm.
+-Se realizó limpieza e inspección visual a las RTD del cojinete.

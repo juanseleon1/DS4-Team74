@@ -1,0 +1,11 @@
+Solicitante: 856921
+Aprobador: 355694
+Fecha de solicitud: 24-09-2018
+Tipo de mantenimiento: mtto correctivo
+Acciones de mantenimiento: 
+Realizar las siguientes acciones de mantenimiento correctivo:
+Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+Reparación sistema de sensores y protectores
+Reparación sistema de datalogger
+Reparación sistema de comunicaciones
+Reparación sistema de potencia y puesta a tierra

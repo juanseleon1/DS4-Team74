@@ -1,0 +1,15 @@
+PLANEADOR:ESTEBAN VÁSQUEZ
+
+
+PROGRAMADOR: JUAN CAICEDO
+
+OCTUBRE 29 DE 2017
+
+
+SOLICITANTE: OPERACIÓN TURNO 3.FECHA: 29/10/2017
+
+Unidad G42, no esta ejecutando el programa de paro normal, se hace necesario bajar la carga manualmente y luego lanzar secuencia de paro de emergencia.
+
+SE REINICIA LA SECUENCIA DE PARO NORMAL DESDE LA ESTACION DE INGENIERIA PARA QUE NORMALICE...
+
+JUAN A. CAICEDO HENAO

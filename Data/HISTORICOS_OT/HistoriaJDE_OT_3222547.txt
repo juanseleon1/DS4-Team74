@@ -1,0 +1,44 @@
+- FECHA : MARTES SEPTIEMBRE 13 DE 2016
+
+- PROGRAMÓ : MARIO G. B.
+
+- REALIZÓ : FRANCISCO QUINTERO - DUBÁN HINCAPIÉ
+
+- ASOCIADO A LA OT : 3222547
+
+- ASUNTO : HACER MANTTO MP
+
+
+Datos de placa:         P = 1.8Kw    V = 440vac    I = 3,9A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 15 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  474 v
+       ST =  473 v                                                                 
+       RT =  474 v
+       Corriente de arranque:  
+Fase R = 15.2 a
+       Corriente de marcha:  
+Fase R = 3.2 a
+Fase S =  2.9 a 
+Fase T =  3.1 a                                                                               
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 1 a    Calibración térmico potencia : 4 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 1564.4 H
+
+6. Observaciones: se hace revisión y limpieza del tablero  y de la motobomba.

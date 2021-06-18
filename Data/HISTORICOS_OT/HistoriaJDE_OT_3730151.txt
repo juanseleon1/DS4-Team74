@@ -1,0 +1,123 @@
+·Objeto: INGENIERÍA Y LEVANTAMIENTO DE DATOS BOBINAS ESTATOR GENERADOR 3
+·Presupuesto: $75.000.000 (sin IVA)
+·Tiempo de ejecución: 21 días calendario (contados a partir del día de ejecución del servicio en sitio, agosto X de 2018).
+
+
+SERVICIO
+
+Ingeniería y levantamiento de datos dimensionales de las bobinas (barras o bastones) que componen el estator del generador Unidad No.3 en la Central de generación Termoeléctrica La Sierra.
+
+OBJETO
+
+Realizar inspección visual, levantamiento de información dimensional y de detalle, análisis técnico y mediciones en el estator del generador de la Unidad No.3 de la Central Termoeléctrica La Sierra. Ejecutar la toma de datos requeridos en el devanado del estator, realizar la ingeniería inversa y definir las características físicas y dimensionales de fabricación de las bobinas.
+
+ALCANCE
+
+·Actividades en sitio:
+®Traslado e ingreso al sitio del personal técnico, escáner y equipos de medición.
+®Inspección visual del generador.
+®Levantamiento de información técnica del estator:
+a. Geometría total de las bobinas del estator (superiores e inferiores) y elementos complementarios (cuñas, calzos, dimensiones de la ranura y de los dientes del estator, ductos de ventilación, amarres de cabeza de bobinas, entre otros).
+b. Datos técnicos del devanado estatórico, profundidad de la ranura, altura de los dientes, detalle de la cola de milano de los dientes, diámetro del núcleo interno y externo, entre otros.
+
+·Actividades en instalaciones del proveedor:
+®Elaboración de plantillas dimensionales de las bobinas del estator (superiores e inferiores) y elementos complementarios.
+®Elaboración de dibujos de ingeniería detallados, planos “ As Built”  de las bobinas (barras o bastones) y elementos complementarios, digitales en modelo BIM, planos en plataforma Autodesk Inventor ya sea en extensión *.ipt o *iam según el caso, archivos con los modelos en 3 dimensiones (3D) sólidos.
+®Elaboración de informe final.
+
+DATOS DE PLACA GENERADOR
+
+·Fabricante: GENERAL ELECTRIC
+·Serie: 290T435
+·Fases: 3
+·Conexión: Y
+·Potencia: 231 MVA
+·Voltaje: 18 kV
+·Amperios estator: 7409 A
+·Frecuencia: 60 Hz
+·Velocidad: 3600 RPM
+·Polos: 2
+·Factor de potencia: 0,85
+·Voltaje de excitación: 320 VDC
+·Corriente excitación: 1601 A
+·Tipo de enfriamiento: Hidrógeno (45 psig @ 98%)
+
+
+
+
+ESPECIFICACIONES TÉCNICAS
+
+El proveedor del servicio deberá realizar el levantamiento de la geometría total de las bobinas del estator (superiores e inferiores), de los elementos complementarios y datos detallados del devanado estatórico, empleando para ello dibujos prefabricados elaborados específicamente para el tipo de aplicación.
+
+Para realizar el control dimensional de bobinas (barras o bastones) superiores e inferiores, el proveedor deberá emplear sus propios aditamentos desarrollados para este propósito.
+
+Independiente de los equipos y accesorios empleados por el proveedor, se exige la utilización del procedimiento mediante la tecnología de escáner.
+
+Todos los equipos, herramientas especiales y accesorios utilizados para la ejecución del presente servicio (cintas, vernier, medidor láser, scanner y otros dispositivos propios) deberán ser provistos en sitio y operados por el proveedor.
+
+Para los dibujos de ingeniería que deberán ser entregados, se requieren planos “ As Built”  de los elementos valorados en formato digital, en modelo BIM, planos en plataforma Autodesk Inventor ya sea en extensión *.ipt o *iam según el caso, archivos con los modelos en 3 dimensiones (3D) sólidos.
+
+El proveedor deberá detallar todas las dimensiones respectivas de las semibobinas o barras roebel (superiores e inferiores) del estator, entre otras, pero sin limitarse a estas:
+
+üLongitud recta en barra superior
+üLongitud recta en barra inferior
+üAncho de barra
+üAltura de barra
+üÁrea transversal del cobre
+üForma del conductor de cobre
+üEspesor del aislamiento principal (Groundwall)
+üAncho
+üAltura
+üDistancia del cabezal lado excitador
+üDistancia del cabezal lado turbina
+üLongitud total de la barra
+üCaída vertical del cabezal lado excitador
+üCaída vertical del cabezal lado turbina
+üDistancia de cabezal lado turbina a carcaza
+üDistancia de cabezal lado excitador a carcaza
+üAncho de ranura
+üDimensiones de la cola de milano en el diente
+üProfundidad total de ranura
+üProfundidad de cuña
+üAncho de diente parte superior
+üDiámetro interior del núcleo
+üLongitud del núcleo
+üAncho de dedo
+üProfundidad total del núcleo
+üDiámetro exterior del núcleo
+üDimensiones de los canales de ventilación
+üDimensiones de los paquetes laminares
+üDimensiones de las cuñas
+üPerfil de las cuñas y número de ellas por ranura
+
+Cualquier otra medida en longitud o angularidad que sea requerida para definir con precisión las formas y dimensiones de las bobinas deberán ser consideradas.
+
+El contratista deberá entregar un presupuesto aproximado (no oficial, no vinculante), incluyendo el listado recomendado de bobinas de repuesto (superiores e inferiores) y elementos complementarios de instalación.
+
+No se permitirá la intervención de ningún tipo sobre el devanado del estator ó cualquier parte del generador que impliquen modificación alguna o afecten la integridad del aislamiento eléctrico, a menos que fuese estrictamente necesario y previa autorización del interventor del ejercicio por parte de EPM.
+
+ACTIVIDADES A CARGO DE EPM
+
+EPM se hará cargo única y exclusivamente de las siguientes actividades durante la ejecución del servicio:
+
+·Preparar el generador para que se encuentre libre de hidrógeno, destapado y con el rotor extraído previamente, para permitir la ejecución del servicio con seguridad y prontitud.
+
+·Proporcionar una persona de contacto con perfil técnico dentro de las instalaciones de EPM para atender con oportunidad al personal contratista que realizará el servicio.
+
+LUGAR Y FECHA DE EJECUCIÓN
+
+El servicio será ejecutado en la Central de generación termoeléctrica La Sierra, ubicada en el corregimiento La Sierra, municipio de Puerto Nare, departamento de Antioquia, Colombia.
+
+Se estima que los trabajos objeto del presente contrato sean realizados en el mes de agosto de 2018. Sin embargo, EPM avisará la fecha exacta al proveedor seleccionado con tres semanas de anticipación.
+
+TIEMPO DE EJECUCIÓN
+
+El tiempo de ejecución será máximo de 21 días calendario, iniciando el día de la ejecución del servicio en sitio y finalizando con la entrega de los planos requeridos e informe final.
+
+REQUISITOS DE PARTICIPACIÓN
+
+·El proponente deberá ser un fabricante o representante del fabricante para Colombia (debidamente certificado), de bobinas de alto voltaje para devanados de estatores de generadores eléctricos de potencia.
+
+·Se exige experiencia demostrada del fabricante o su representante en Colombia en la fabricación de semi-bobinas (barras roebel) para generadores eléctricos sincrónicos con tensiones iguales o superiores a 13.8kV y potencias mayores a 100 MW. Esta experiencia se debe demostrar en contratos debidamente finalizados mediante los respectivos certificados emitidos por el cliente y se deben presentar al menos 3 contratos realizados en los últimos 5 años.
+
+·En caso de que un representante para Colombia adjunte los certificados de experiencia del fabricante, se deberá presentar carta de compromiso en donde conste que la prestación del servicio se realizará por medio del personal técnico directo del fabricante, sobre el cual se ha acreditado la experiencia respectiva.

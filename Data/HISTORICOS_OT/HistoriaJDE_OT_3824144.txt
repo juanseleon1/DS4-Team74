@@ -1,0 +1,8 @@
+
+
+COMPROBACION FUNCIONAL
+ACTIVIDAD:
+
+MAYO 09/2019 OT: 3824144  PROGRAMÓ: HGIRALRI EJECUTÓ: PROBAYO
+
+Se verifica el correcto funcionamiento del sistema.

@@ -1,0 +1,13 @@
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779420.
+
+Se realiza mantenimiento general, limpieza y verificación al cableado y a la IHM del control de unidad, todo se encuentra dentro de los parámetros normales y operativos incluyendo fuentes de voltaje. La hora de la IHM de los servicios auxiliares se encuentra desfasada, este error no se corrige dado que no se cuenta con la clave de acceso.
+
+El subsistema queda en condiciones para la operación comercial.
+
+Realizó: Richard Londoño, Jeniffer García.
+
+2018/11/07 _ CARLOS ENRIQUE MONCADA. OT N° 3779420.
+OT programada para el mantenimiento TCU U2 P3.
+
+
+XL: INSPECCIONAR Y LIMPIAR CONTROLADOR UNIDAD TCU DE LA UNIDAD

@@ -1,0 +1,15 @@
+2015/08/05
+
+REALIZAR METROLÓGIA A MEGAWATIMETRO  UNIDAD 2 GUADALUPE 4
+
+2015/08/05
+Se realiza la Inyeccion con la Maleta Trifasica de diferentes valores de Corriente y Voltaje, segun el registro de calidad. Se observa un comportamiento normal, segun la curva de verificacion.
+El registro de esta verificacion se encuentra en la siguiente ruta en el servidor:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTROS.VERIFICACION.GUADALUPE.4\UNIDAD.2.GUADALUPE.4\250361MEGAVATIMETRO.G4.U2
+
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte
+
+
+

@@ -1,0 +1,11 @@
+PREVENTIVO INSTRUMENTACION COJINETE INFERIOR UNIDADES DE  GENERACION 1 Y 2 GUADALUPE 3
+
+Se realizo mantenimiento según orden de trabajo, no se encontró novedades.
+El nivel de aceite se encontró en 275 mm el nivel patrón es 275 mm. No se recuperó aceite
+
+VIBRACIONES: CSL:9.08 VDC
+                           CSP:8.48 VDC 
+                                 AXIAL: 8.71 VDC
+                                  KPH:10.39VDC
+
+Realizo: grupo de electronica

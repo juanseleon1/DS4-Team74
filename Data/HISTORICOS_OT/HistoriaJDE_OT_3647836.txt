@@ -1,0 +1,9 @@
+MANTENIMIENTO CORRECTIVO
+Fecha de reporte falla: 23/10/2017 Reporta: Jeison Julian Suarez Rios Síntoma en Oficina: flla de señal de temperatura
+Fecha de atención falla: 23/11/2017 Atiende: Raúl Mauricio Álvarez
+Diagnóstico de Oficina: Datos erroneos de las señales de temperatura de la AVW200 del datalogger GALERIA 850
+Modo de Falla:  Error de transmisión de datos  
+Falla Inmediata:   Error en la tabla de datos adquiridos con la AVW200
+Falla básica:  Daño de la interface AVW200
+Recursos utilizados y sobrantes (de los solicitados en E1): Utilizado AVW200
+Anomalías encontradas:  Daño asociado a descarga eléctrica

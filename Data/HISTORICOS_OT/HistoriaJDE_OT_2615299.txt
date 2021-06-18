@@ -1,0 +1,9 @@
+COMPRA DE LOS MATERIALES NECESARIOS Y LAS LABORES DE REPARACION DE LA VALVULA ESFERICA RETIRADA DE LA UNIDAD N°6 PARA DEJARLA DISPONIBLE PARA SER INSTALADA EN LA UNIDAD N°2.
+
+ANDRES FELIPE RAMIREZ.
+
+2015/01/26 MARIO RESTREPO - SEBASTIAN HINCAPIE - JEISON ORTEGA (RUBEN ARBOLEDA)
+Se realizó la adecuacion de 9 resistencia, mejoramiento de cableado y mejoramiento de terminales para cada una de las resistencias que presentaban fallas, se realizo prueba de funcionamiento y se dejo en condiciones normales.
+
+2015/03/14 RICAURTE, LEON PARRA,RUBEN LÓPEZ Y JAIME JARAMILLO
+Se monta el bloque de aplicacion de sellos de mantenimiento, luego de este montaje se realiza la prueba hidrostática de los ellos con una presion de 93 Bar; y queda lista la válvula para montaje en la unidad que sea requerida (en este caso es para la unidad N° 2 GT)

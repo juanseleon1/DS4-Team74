@@ -1,0 +1,14 @@
+Solicitante-Planeador: 4994
+Aprobador: 3655873
+Fecha de solicitud: 06-12-2017
+Tipo de mantenimiento: Correctivo
+Acciones de mantenimiento:
+
+                
+Realizar las siguientes acciones de mantenimiento correctivo:  
+                Diagnosticar modo de falla, causa inmediata y causa básica en la estación
+                Reparación sistema de potencia 
+                Cambio de batería
+
+                
+                

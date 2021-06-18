@@ -1,0 +1,6 @@
+XM: CHEQUEAR Y VERIFICAR FUNCIONAMIENTO DISTRIBUIDOR TURBINA UNIDAD
+
+PLANEADOR: RMONTOYG
+PROGRAMADOR: FRANCIS LONDOÑO VERA, 2017-05-08 - OT: 3466966 - CONSIGNACIÓN: @135887 
+Se realiza calibración axial de los 20 alabes móviles en las holguras k1, k2, L1 y L2 y se registran los datos en la planilla que se adjunta en esta OT.
+Se realiza aplicación de masilla 858 de Chesterton a la camara espiral y al predistribuidor para evitar el aumento exponencial de corrosión y la cavitación

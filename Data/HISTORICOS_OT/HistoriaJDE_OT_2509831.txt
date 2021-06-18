@@ -1,0 +1,8 @@
+
+FECHA: ABRIL 17 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO Y GERMAN ECHAVARRIA
+
+
+Después de reponer una falla por comunicación y al momento de sincronizar se produce una explosión en los tiristores, se verifica y se encuentra el lugar del suceso en uno de los disipadores en el lugar donde van los puentes entre estos disipadores, se procedió a desmontar el par de disipadores correspondientes al evento y se volteo para aprovechar la superficie limpia de fallas. se realizan los respectivos torques y se deja en servicio. La falla se dio en el par de disipadores ubicados a mano izquierda viendo el tablero de frente.
+

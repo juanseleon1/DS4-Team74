@@ -1,0 +1,11 @@
+20/09/2018
+ABAD RAMIREZ GIRALDO.
+SE ACTIVO ALARMA EN GENERADOR 5 y Generador 6, CORNETA LUZ POR DETECTOR TERMICO, FAVOR REVISAR SI HAY UNA SALIDA DE DISPARO DE CO2 ACTIVADA QUEDA PENDIENTE LA ALARMA EN EL MODULO DE ALARMAS DE CO2 GENERADORES.
+
+
+
+20/09/2018 OT:3767298 Luis Eduardo Arcila 
+
+se revisa y se encuentran activados los sensores de humo ADR:006 LP: 3 ND:2 En la Unidad 5 y Adr:032 LP:03 ND:02 En la Unidad6
+Se encuentran energizada la calefacción de las unidades 5 y 6 y por la cercanía de los sensores y las resistencias de calefacción se están activando.
+Se coloca baquelitas encima de las resistencias para que el calor no le dé directamente a los sensores.

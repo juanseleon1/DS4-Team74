@@ -1,0 +1,23 @@
+2018/08/14 _ CARLOS ENRIQUE MONCADA. OT N° 3760210.
+Se realiza mantenimiento y limpieza a los tres  CPU's del sistema SCADA, Se verifican las comunicaciones encontrondolas habilitadas. Se conecta y el sistema presenta un cooler con su soporte averiado, se repara el cooler quedando normalizado;  sube normal el sistema quedando habilitado sus servicios.
+Realizo: Jeniffer García, Eladio Piedrahita
+
+
+FECHA: 29/08/2018
+PROGRAMADOR: CARLOS MONCADA 
+PLANEADOR: WALTER TOBON 
+MANTENIMIENTO PERIFERICOS ELECTRONICO
+
+SCADA ESTACION UIENG1 DE OPERACION UBICADA EN SALA DE OPERACION PORCE 3
+
+OBSERVACIONES:
+ANEXAR NOTAS Y TIEMPOS, DILIGENCIAR FORMATO DE INFORME  Y REALIZAR PLANILLA DE VERIFICACION DEL  ESTADO DE LOS SERVIDORES Y EQUIPOS DEL SISTEMA SCADA, VERIFICAR LA COMUNICACION SON EL PROCESO Y SINCRONIZACION DE HORA Y FECHA , ANEXAR NOTAS DE LOS EVENTOS O  HALLAZGOS  ENCONTRADOS , VERIFICAR EL ESTADO DE LOS COOLER Y BACKUP DEL SISTEMA.
+
+
+
+
+
+
+
+
+ 

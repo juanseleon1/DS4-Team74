@@ -1,0 +1,13 @@
+2018/10/16 Victor Zuleta / LUIS EDUARDO ARCILA
+
+Se realizan las actividades:
+
+·Calibración de agujas
+·Calibración al deflector.
+·Se cambiaron todos los micro filtros de las servo válvulas 
+·Limpieza de intercambiador de aire.
+·Limpieza general al tablero del regulador.
+·Se calibraron transductores de posición de los comandos de agujas y deflector.
+
+Los paramentaros de calibración queda dentro de los rangos normales de operación.
+

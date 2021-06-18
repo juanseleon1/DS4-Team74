@@ -1,0 +1,8 @@
+2016-02-05. FERNANDO CASTRILLON MORALES.
+
+IDENTIFICAR PORQUE NO SE REALIZO TRANSFERENCIA AUTOMATICA. FUE NECESARIO REALIZAR LA OPERACIÓN EN MODO MANUAL.
+
+2016-O3-13
+Se encontraron los microsuiches del interruptor 1 en poscicion contraria.
+Se realiza transferencia, trabajando el control en condiciones normales.
+Learcilas.

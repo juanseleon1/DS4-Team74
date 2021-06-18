@@ -1,0 +1,4 @@
+2017/11/01 OT:3638230  Luis Eduardo Arcila
+Se inician los trabajos correctivos en el sistema contraincendios loop de tableros Críticos con el personal de General Fire Control 
+Se realizan pruebas de estanqueidad en la tubería de descarga de CO2.
+Se corrigen fallas de tierrras y cortos en el sistema.

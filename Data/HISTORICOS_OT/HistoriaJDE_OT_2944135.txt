@@ -1,0 +1,7 @@
+MANTENIMIENTO COJINETE INFERIOR UNIDAD GENERACION GUADALUPE 4
+
+Ot: 2944135 - TM: Cojinete inferior - Programador: Camilo Montagut - 15/12/2015
+
+Se realiza limpieza al recinto y se inspecciona la tubería en busca de fugas. Se verifica que el cojinete está en nivel patrón
+
+Ejecuta: equipo mantenimiento mecánico GIII

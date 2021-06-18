@@ -1,0 +1,41 @@
+Empresas Públicas de Medellín E.S.P.
+
+MANTENIMIENTO AREA GUATAPE
+
+INFORMACION PARA CALIDAD
+
+
+REGISTRO DEL HOROMETRO PLANTA DIESEL
+
+
+HOROMETRO _______930___________
+
+PRESION DE ACEITE (Klp) ________655__________
+
+TIEMPO DE TRABAJO (min) ________10__________
+
+TEMPERATURA DE ACEITE (°C) _______63___________
+
+TEMPERATURA AGUA (°C) ________52__________
+
+VOLTAJE DE SALIDA ________480__________
+
+CICLOS POR MINUTO ________60__________
+
+
+
+NOTA:REVISAR NIVEL COMBUSTIBLE Y AGUA REFRIGERACION
+
+Observaciones:__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+INSTRUCTIVO DE MANTENIMIENTO: GCPLM0027
+
+FECHA :JUEVES 11/06/2015
+REALIZO : RICAURTE LOOEZ - DARIO ATEHORTUA 
+ASOCIADO A LA OT :  2731146
+ASUNTO : REALIZAR MANTENIMIENTO CORRECTIVO A LA PLANTA DIESEL DE S/ESTACION

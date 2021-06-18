@@ -1,0 +1,7 @@
+
+FECHA: JULIO 02 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO 
+
+
+Se presenta alarma de alta temperatura de top box 1 después de 2 horas de parada la temperatura solo bajo 8 grados, se inspecciona el tablero y se encuentra trabajando bien el aire acondicionado solo que con intermitencia, se acomoda mejor el sensor de temperatura que estaba pegado a la carcaza del tablero

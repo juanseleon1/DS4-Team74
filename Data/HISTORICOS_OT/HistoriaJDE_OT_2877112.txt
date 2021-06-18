@@ -1,0 +1,5 @@
+Septiembre 15/2015. OT: 2877112. PROGRAMO: CARLOS MONCADA. EJECUTO: JENIFFER GARCIA, NEIRO PEREZ.
+
+Realizar mantenimiento y verificación de la instrumentación asociada al cojinete de turbina de la unidad.
+
+Se verificó instrumentación del cojinete de turbina. Se calibraron los Presostatos de Inyección agua al sello del eje. Se verifica el IQ1 y Manómetro. Se calibraron los PICK - UP de la turbina.

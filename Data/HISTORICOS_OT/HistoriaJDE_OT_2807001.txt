@@ -1,0 +1,11 @@
+SOLICITANTE:
+SE SOLICITA REVISAR EL REGULADOR DE VELOCIDAD DE LA UNIDAD NIQUÍA. HA CAUSADO PARO EN DOS OCASIONES CON LA ALARMA "FALLA MAYOR DIGIPID".  REPORTA:  JUAN EUGENIO SOTO.
+
+JUNIO 22/2015 OT: 2807001 PLANEDOR: WGARCIAC PROGRAMADOR: ALEJANDRO ARBOLOEDA.
+EL CONECTOR J35 DEL DIGPID, DEL CONTROLADOR PRONCIPAL DEL REGULADOR DE VELOCIDAD, EN LA PARTE TRASERA DE LA CONEXIÓN HEMBRA EL CABLE 8 (GRIS) SE ENCUENTRA HACIENDO MALA CONEXIÓN Y OCACIONANDO CAIDAS DE TENSIÓN EN LA SEÑALES DEL RV Y GENERAMDO EL DISPARO POR FALLA MAYOR DIGIPID.
+ESTE CONECTOR ES POR DONDE ENTRA LA ALIMENTACIÓN DE TODO EL CONTROLADOR DEL REGULADORT DE VELOCIDAD (+/- 15V, +/-12, +/-5 Y 24V). 
+SE DEJA ABIERTA LA OT YA QUE EL RV SIGUE EN OBSERVACIÓN.
+
+
+FECHA: 3/07/2015  PROGRAMADOR: JGUINGUER
+En la inspección inicial se encontró falla en la medida de velocidad, falla en la medida de potencia y DIGIPID. Se hace revisión  de la tarjeta CI493 del regulador de velocidad estando desajustada, se calibra en todos el span, se verifica limitador de apertura, consigna carga/frecuencia y posición de los inyectores; se corrige falla en la medida de potencia y se inspecciona el DIGIPID en las tarjetas electrónicas internas (se ajustan conectores).

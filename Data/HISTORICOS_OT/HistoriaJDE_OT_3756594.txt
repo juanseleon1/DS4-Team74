@@ -1,0 +1,7 @@
+20/08/18
+Abad De Jesus Ramirez Giraldo.
+Favor suministrar aire al cojinete de turbina de la Unidad 4 para rebajar temperaturas en el aceite 1 y 2, que se encuentran Alarmados.
+
+13/09/2018 María Isabel Arias
+
+Se suministra aire y se verifica en el scada una disminución de esta temperatura. El trabajo fue realizado por Jaime Jaramillo

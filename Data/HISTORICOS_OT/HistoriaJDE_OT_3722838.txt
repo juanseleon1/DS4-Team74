@@ -1,0 +1,26 @@
+PLANEADOR: SE ATENDERÁ EN EL MANTENIMIENTO PROGRAMADO 22/05/2018. JEFFERSON CARDENAS
+
+7 JULIO  DE 2018  PROGRAMO:  JAIRO GUINGUER EJECUTO: ANDRES YEPES OT: 3722838 REGULADOR ELECTRONICO RV
+Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control RV Power del Sistema Regulación de Velocidad.
+Ajuste y limpieza sensores de velocidad y posición en el sistema de regulación de Velocidad.  
+
+Tablero: Regulador de Velocidad RVX1 U1 S1Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 541183.1 0.2 2 6 381183.8 3.75 28 55 26121184.5 7.5 50 100 50161185.25 11.5 76 150 74201186 15 100 200 100
+Instrumento 1: Nivel tanque (msnm)
+Instrumento 2: Potencia Activa (MW)
+Instrumento 3: Apertura (%)
+Instrumento 4: Velocidad (%)
+Instrumento 5: presión aceite (bar) 
+
+
+
+AGOSTO 30/2017 OT:3553407 PLANEADOR: WGARCIAC EJECUTO: VILLA
+SE INYECTO SEÑAL DE 4 -20MA A LOS INDICADORES DE MEDIDA DEL TABLERO DE CONTROL REGULADOR DE VELOCIDAD UNIDAD 2 - TRV2
+AJUSTE Y LIMPIEZA SENSORES DE VELOCIDAD Y POSICIÓN EN EL SISTEMA DE REGULACIÓN DE 
+VELOCIDAD.
+
+Tablero: Regulador de Velocidad TRV2Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 741183.1 0.2 2 5 281183.8 3.5 27 50 26121184.5 7.5 50 100 50161185.25 11.5 75 150 74201186.0 15 100 200 100
+INSTRUMENTO 1: NIVEL TANQUE (M.S.N.M)
+INSTRUMENTO 2: POTENCIA ACTIVA (MW)
+INSTRUMENTO 3: APERTURA (%)
+INSTRUMENTO 4: VELOCIDAD (%)
+INSTRUMENTO 5: PRESIÓN ACEITE REGULADOR (BAR) 

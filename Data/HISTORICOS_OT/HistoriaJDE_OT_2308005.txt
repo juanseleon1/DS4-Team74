@@ -1,0 +1,24 @@
+FECHA: 2013/06/03  SOLICITANTE: ANTONIO ARCILA
+REVISAR SENSOR ZE5001 A/B BOMBAS HIDRAULICO U3, LOS SENSORES NO ESTAN FUNCIONANDO.
+ASIGNAR A  INSTRUMENTACION
+
+Especificaciones Técnicas
+Ítem- 1
+Sensor Inductivo
+BI2-CRS232-ADZ30X2-B1131/S34                           Marca TURCK
+Ítem- 2
+CONECTOR
+RKM 311-2M 
+
+Unidades a comprar ítem 1                        cantidad 1
+Unidades a comprar ítem 2                        cantidad 1
+
+Nota: este elemento de referencia BI2-CRS232-ADZ30X2-B1131/S34  y su conector  RKM 311-2M Realiza control sobre las válvulas de control del skid hidráulico de la unidad 3 que a la vez suministra el fluido hidráulico a la presión y flujo adecuado a las válvulas principales de vapor por lo tanto instalar otro elemento al diseño original recomendado por el fabricante seria colocar en riesgo la operación y disponibilidad del equipo   
+
+Proveedor: colsein
+
+Tiempo de entrega 4 semanas  
+
+Costo: 1, 107,144.00
+
+DIEXER CARO 21/08/2013

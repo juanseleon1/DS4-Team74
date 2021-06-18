@@ -1,0 +1,4 @@
+
+DICIEMBRE 24/2018 OT: 3797089  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta alarma por alta temperatura Top Box 2, se verifica y se encuentra alarmado el aire acondicionado de la Top Box 2, se da Reset a la falla en el panel del aire y el compresor empieza a trabajar, se deja en servicio el aerogenerador. 

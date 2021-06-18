@@ -1,0 +1,17 @@
+PLANEADOR:OSCAR RESTREPO ALVAREZ
+
+FEBRERO 03 DE 2016
+
+
+
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDAD GENERACION GUADALUPE 4
+
+10-02-2016
+PROGRAMO JOSE MONTOYA
+EJECUTO GRUPO ELECTRONICO
+Se revisan sensores de vibración, encontrando el sensor, driver y extensión en buen estado, se encontraron en: CTPL9.57VDC y CTPR  9.33 VDC   - KPH: 7.22VDC.
+
+Se inyectan las señales
+COJ TURBINA °CPATRÓN °C METAL 1 ACTE 3 ACTE 740 39.8 40.1 40.160 59.8 60.1 60.180 80.1 80.1 80.0ALARMA  80.1 80.1 80.0DISPARO  80.1 80.1 85.1
+Se realizó inspección, verificación puntos de alarma y disparo de los niveles de aceite del cojinete hacia las protecciones de la máquina, según formato de inyección de señales, que se encuentra almacenado en la siguiente ruta:
+\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\4-Mantto Electrónico\01-General electrónico\16 FORMATOS MTTO PREVENTIVOS\MTTO UNIDADES GPEPORCE\2015\TRIMESTRALES G4-2015

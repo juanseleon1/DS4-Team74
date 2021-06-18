@@ -1,0 +1,9 @@
+11 DE MARZO DE 2018 IVAN DARIO ZAPATA GOMEZ
+LA UNIDAD 6 DE GUADALUPE 3 SE DIO PARO DE EMERGENCIA POR ALTA TEMPERATURA EN LA FASE R DEL BANCO DE TRANSFORMADORES DE POTENCIA.  LA ALARMA ESTA CALIBRADA EN 90°C Y EL DISPARO EN UN RANGO DE 100 A 105°C.
+LA TEMPERATURA EN LA FASE R LLEGO HASTA 97°C EN EL DEVANADO DE ALTA.
+
+14 de Marzo de 2018
+
+Se verificaron los termómetros de aceite y del devanado, esto mostró resultados positivos, luego se le inyecto corriente al CT, con esta prueba se observó que la indicación de la temperatura del devanado es la correcta, por ultimo se verifican alarma y disparo, el sistema opera correctamente.
+ EJECUTO: FREDY DUARTE.
+ INFOTMO:BERNARDO BEDOYA.

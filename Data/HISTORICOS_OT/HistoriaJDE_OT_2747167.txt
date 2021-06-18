@@ -1,0 +1,10 @@
+
+ ABRIL 23 DEL 2015 / FRANCISCO CORDOBA / JEOVANNY CORREA 
+
+Se dio paro rapido la unidad G 43 con 57 Mw y  20 Mvar,  La rio 24 y la medida análoga de nivel del foso de refrigeración oscilaron en la comunicación profibus, por la RIO 24  se comunican todas las señales de refrigeración, estados y disparos de las bombas, debido a esto las variables de frecuencia de las bombas de refrigeración pararon los motores de las bombas y esto ocasionó el aumento de la temperatura de los cojinetes superiores y de empujes. Lo cual dio paro rápido de la máquina.
+Nota: el tiempo de demora para entrar la unidad se debió a que la aplicación del regulador de tensión se bloqueó, siendo necesario llamar a juan Caicedo y a José Montoya 
+Informo Juan Caicedo.
+25/04/2015
+ SE REVISA FALLA EN LA COMUNICACIÓN DEL CCM, EN EL SISTEMA DE REFRIGERACION LA CUAL ESTABA PRESENTANDO ALARMAS CONSTANTEMENTE. SE CAMBIA EN LA LINK EL MODULO HS 810 Y SE LE COLOCAN TERMINALES A TODOS LOS CABLES DE COMUNICACIÓN PROFIBUS PARA GARANTIZAR UN MEJOR CONTACTO. 
+LAS ALARMAS DESAPARECEN DEL CONTROL. SE DEJA EN PRUEBA PARA POSTERIORMENTE HABILITAR LOS DISPAROS EN EL CONTROL.
+REALIZO: GRUPO ELECTRONICA

@@ -1,0 +1,11 @@
+ESTA ORDEN DE TRABAJO ES PARA REALIZAR MANTENIMIENTO GENERAL MECANICO 
+LIMPIEZA Y MANTENIMIENTO MECANICO , CORRECCCION DE FUGAS DE ACEITE , AGUA LIMPIEZA DE PERIFERICOS ETC
+REALIZA MECANICOS Y PERSONAL DE ASEO
+
+Programador: Camilo Montagut - 14/09/2015
+
+Se realiza el mantenimiento mecánico en la cámara de válvulas según requerimiento. Se corrigió la fuga de aceite presente en la tubería de presión del circuito hidráulico de la válvula mariposa. Además se corrigen varias plumas de agua presentes en las juntas de expansión y en el box coulvert
+
+Queda pendeinte realizar visitas semanales y verificar el estado de las anteriores correcciones
+
+Ejecuta: Equipo mantenimiento UOG

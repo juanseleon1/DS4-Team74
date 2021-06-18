@@ -1,0 +1,7 @@
+
+31/05/2015. SERGIO OLIVARES D.
+
+En el anterior mantenimiento se encontro la bobina abierta del BY- PASS, se envio a fabricar y no se pudo colocar, porque las dimensiones no fueron las correctas; se opto por adecuarla y al final no fue posible. Se envio de nuevo al proveedor el cual la hizo de nuevo por garantia. Fecha 21/05/2015.
+El día 29 de mayo/2015, se coloco la bobina por garantía, encontrandose problemas de control porque el rele 33SVO-2 se encontro actuado (pegado), se retiro y se volvio a colocar desenergizando la bobina, y quedando el control normal. 
+
+

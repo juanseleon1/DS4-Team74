@@ -1,0 +1,8 @@
+JHON MARIO PEREZ ARENAS. ABRIL 2 DE 2018
+
+Se presenta oscilación anormal de potencia reactiva en esta unidad reflejandose con variación cosntante de voltaje y  corriente de excitación.
+
+03/04/2018 OT 3705782 PROGRAMO Mauricio Quijano / Victor Zuleta / Luis Eduardo Arcila
+Se realiza mantenimiento y limpieza general al regulador de tensión y a sus tableros.
+Se ajustan borneras encontrándose varias flojas.
+Se descargan eventos y se envían a REIVAX para su respectivo análisis.

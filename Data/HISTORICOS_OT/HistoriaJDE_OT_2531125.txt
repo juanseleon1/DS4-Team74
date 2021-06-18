@@ -1,0 +1,9 @@
+MAY 19/2014 OT: 2531125 PROGRAMÓ: Javier Giraldo EJECUTÓ Diego Quiceno.
+Se cambia contactor fallado y se normaliza el funcionamieto de la motobomba.
+
+
+
+
+18/05/2014 OPERACIÓN G3 TURNO 3
+
+MOTOBOMBA 1 DE REG. HIDRÁHULICO G35 FUERA DE SERVICIO (NO ARRANCA).

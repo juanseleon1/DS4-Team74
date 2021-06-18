@@ -1,0 +1,5 @@
+2014/10/23 SERGIO OLIVARES
+Medidas de IP: 
+Fase/Fases a tierra Lectura 1 Min. Lectura 10 Min. Indice de Polarización Ip=10 Min./1 Min.X / YZ 2,62 G 9,77 G 3,70Y / XZ 2,42 G 9,19 G 3,81Z / XY 2,52 G 9,97 G 3,96
+Medidas de resistencia ohmica: 
+Neutro - Fase Resistencia OhmicaX1-U7,59  µX2-U7,45  µY1-V7,54  µY2-V7,49  µZ1-W7,59  µZ2-W7,5   µLA RESISTENCIA SE HIZO CON EL EQUIPO DE ANALISIS E INGENIERIA

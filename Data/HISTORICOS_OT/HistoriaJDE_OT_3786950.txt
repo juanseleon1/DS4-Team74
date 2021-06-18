@@ -1,0 +1,10 @@
+PLANEADOR: SANTIAGO RAMÍREZ, 2018-11-20
+OT PARA INTERVENCION DEL ASCENSOR DE C/M PORCE 2 POR PRESENTAR FALLAS EN EL FUNCIONAMIENTO.
+
+PROGRAMADOR: FRANCIS LONDOÑO, 2018-11-20
+Se interviene equipo por llamada de emergencia realizada el día 19/11/2018, respecto a fallas presentadas y/o desconfiguración. El equipo se encuentra en funcionamiento normal luego de revisar voltajes, fusibles, errores y conexiones.
+
+"Sucedió que una persona se quedó atrapada dentro del ascensor por espacio de 5 minutos y en varias ocasiones el equipo no hace u omite realizar alguna tarea a determinado piso".
+
+Trabajo realizado por personal de Mitsubishi electric de Colombia ltda: Ariel Álvarez y Hugo Carvajal. Por parte de EPM Iván Ramírez.
+Informó: Francis Londoño  

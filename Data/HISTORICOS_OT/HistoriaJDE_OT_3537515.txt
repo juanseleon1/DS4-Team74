@@ -1,0 +1,43 @@
+OT 3537515
+De: JORGE ELEAZAR BETANCOURT IPUZ Enviado el: lunes, 10 de julio de 2017 2:38 p. m.Para: HERNAN DARIO ARBELAEZ PEREZ <Hernan.Arbelaez@epm.com.co <mailto:Hernan.Arbelaez@epm.com.co>>CC: Indira Karina Moreno Perea <indira.moreno@furel.com.co <mailto:indira.moreno@furel.com.co>>; GUIDO ALBERTO ORTEGA SANCHEZ <Guido.Ortega@epm.com.co <mailto:Guido.Ortega@epm.com.co>>; OTONIEL DE JESUS RUIZ ARANGO <Otoniel.Ruiz@epm.com.co <mailto:Otoniel.Ruiz@epm.com.co>>; SANDRA JANETH FLOREZ RENDON <SANDRA.JANETH.FLOREZ@epm.com.co <mailto:SANDRA.JANETH.FLOREZ@epm.com.co>>Asunto: RV: Cableado en Campamentos los cedros
+
+
+Buena tarde Hernan 
+Favor programar esta actividad, fijar fecha y notificar.
+Buena tarde Srta. Sandra
+Favor nos genera la OT.
+Saludos.
+
+atendida agosto 14 al sept 08
+
+
+
+
+
+De: OTONIEL DE JESUS RUIZ ARANGO Enviado el: lunes, 10 de julio de 2017 7:34 a. m.Para: JORGE ELEAZAR BETANCOURT IPUZ <Jorge.Betancourt@epm.com.co <mailto:Jorge.Betancourt@epm.com.co>>CC: JUAN GUILLERMO GUERRA MARIN <Juan.Guerra@epm.com.co <mailto:Juan.Guerra@epm.com.co>>; CESAR AUGUSTO URIBE SOTO <Cesar.Uribe@epm.com.co <mailto:Cesar.Uribe@epm.com.co>>Asunto: RV: Cableado en Campamentos los cedros
+
+Buenos días Jorge, tienes posibilidad de realizar el requerimiento de cableado UTP CAT 6 en tu contrato de redes para el campamento de los cedros de la Central Guadalupe Porce 2., es una solicitud de TI EPM para la cobertura del WIFI.
+
+Saludos
+
+De: GUIDO ALBERTO ORTEGA SANCHEZ Enviado el: viernes, 07 de julio de 2017 11:34 a. m.Para: OTONIEL DE JESUS RUIZ ARANGO <Otoniel.Ruiz@epm.com.co <mailto:Otoniel.Ruiz@epm.com.co>>; OSCAR DARIO ARANGO CASTAÑO <Oscar.Arango@epm.com.co <mailto:Oscar.Arango@epm.com.co>>CC: AMPARO BOTERO ESPINOSA <Amparo.Botero@epm.com.co <mailto:Amparo.Botero@epm.com.co>>Asunto: Cableado en Campamentos los cedros
+
+Buen día Otoniel.
+
+Cordialmente solicito gestionar la extensión del siguiente cableado en los campamentos de los Cedros Zona A; la prioridad es: 
+- Mayoria (2 cables); uno hacia cada cuarto de comunicaciones
+- Bloque T2 (4 cables)
+- Bloque T3 (4 Cables)
+- Bloque Administrativo (2 Cables) 
+Total 12 cables de aproximadamente 40 metros en promedio
+
+Nota: Los puntos marcados en color verde indican la localización de los APs. Ver los mapas en el archivo adjunto. Dejar ventaja de al menos 2,5 metros en los cables extendidos
+
+Observación: Oscar Dario Arango, esta dispuesto a aportar el ayudante para que el ingeniero extienda los cableados.
+
+
+
+Saludos,
+
+
+

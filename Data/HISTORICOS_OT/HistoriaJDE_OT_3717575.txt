@@ -1,0 +1,25 @@
+MEDIR EL ESTADO DEL AISLAMIENTO DEL CONJUNTO ROTOR - BARRAJE CON RECINTO SUCIO Y DESPUÉS DE SU LIMPIEZA, E IDENTIFICAR POSIBLES FALLAS DEL ROTOR POR ESTA VARIABLE.
+
+MAYO 31.2018. SERGIO OLIVARES D.
+
+Se hicieron las siguientes medidas de aislamiento:
+
+1. ANTES DE LIMPIEZA.
+ ROTOR + BARRAJE   =  1.06  G  
+ ROTOR                       =  1.23 G
+ BARRAJE                    =  1.92  G
+
+2. DESPUES DE LIMPIEZA.
+ ROTOR + BARRAJE   = 2.38 G
+ ROTOR                       = 2.92 G
+ BARRAJE                    = 2.29 G
+
+3. RESISTENCIA OHMICA                       =   109.41  m
+TEMPERARURA ROTOR                 =    NO SE MIDIO
+
+4. CORRECCIÓN RESISTENCIA A 20°C =    
+
+5. INDUCTANCIA                      =     164 mH
+
+6. CAPACITANCIA                     =      15.4 µF
+

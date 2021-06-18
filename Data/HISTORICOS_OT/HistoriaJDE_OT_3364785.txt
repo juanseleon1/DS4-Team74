@@ -1,0 +1,26 @@
+ENERO 10 8:00
+
+Operación reporta caída de presión en la succión de las bombas de agua cruda del sistema de refrigeración de la unidad 1.
+
+Atención correctiva:
+
+Enero 10
+
+Se revisa el sistema de refrigeración TCSR-U1 (Se inició desde las 8:00 a.m.) y se concluye que la rejilla de la toma de agua cruda se encuentra obstruida, ya que cuando se arranca la bomba, la presión del succión cae de 175 Kpa a -54 Kpa, por tal motivo se hará un procedimiento para inyectar agua del sistema contraincendios que esta a una presión de 8 Bar comparada con la presión normal de succión del TCSR que es de 2 Bar; de esta forma se inyecta un chorro de agua con el cual se espera limpiar la suciedad que tenga la rejilla de la tuberia de succión de las bombas de agua cruda del sistema de refrigeración de la unidad.
+Informó: Personal mecánico, eléctrico y electrónico de mantenimiento UOP - Ing. Hector Gomez
+
+Enero 11
+
+Referente al sistema de refrigeración TCSR Unidad 1. 
+Se continua revisando el sistema de refrigeración, se inyecta agua del SCI (Sistema Contra Incendio) a traves de la toma de la válvula de sobrepresión de 1" de la bomba 2 por medio de una manguera del gabinete 35 de sotano 3 entre las 16:00 y 17:00, logrando incrementar la presión de succión de la bomba_2 de -40 KPa a 20 KPa. Luego se procede a inyectar nuevamente agua de la misma forma entre las 17:30 y las 19:30, obteniedo un incremento en la presión de succión a 50 KPa; por último se procede a inyectar tambien a traves de la toma de la válvula de sobrepresión de la bomba_1 por medio de la manguera del gabinete 36 del sotano 3, inyectando asi de manera simultanea agua proveniente de las mangueras en sentido de contraflujo en la tuberia de succión de las bombas, esto entre las 21:40 y 22:40. Finalmente se obtuvo una presión de succión de 85 KPa, condición aceptable para el sistema de refrigeración.
+
+Notas: 
+
+1.Para llevar a cabo las actividades se declaro indisponible la unidad 1 los periodos 19 al 22 del 10 de Enero (Vaciado y Llenado del tunel de descarga de la Unidad 1) y los 24 periodos del 11 de Enero. 
+
+2.Para poder conectar las mangueras del SCI, se tuvo que retirar las válvulas de sobrepresión de las descargas de las bombas y fabricar un conector de 1" NPT macho a 2" GAS.
+
+3. Para propiciar que la descarga de agua de las mangueras fluyeran en contra de flujo por la tubería de succión, se cerraron las válvulas de descarga de los filtros autolimpiantes, las de purga del filtro y las tomas de los intrumentos asociados a estos tramos de tubería (entre la succión y la descarga del filtro auto limpiante)
+
+Ejecuta: Equipo de mantenimiento y Operación de UOP.
+Informa: Daniel palacios, Oscar Parra, Santiago ramirez.

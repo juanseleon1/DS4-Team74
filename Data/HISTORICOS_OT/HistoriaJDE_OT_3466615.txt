@@ -1,0 +1,12 @@
+REALIZO: GABRIEL URIBE
+FECHA: 3 ABRIL-2017
+OT:     3051346
+NOTA: POR SOLICITU DEL PERSONAL DE SIEMENS BOGOTA SE REALIZA CONEXION REMOTA CON PERSONAL DE ELLOS PARA ATENDER ASUNTOS TECNICOS, DURANTE  ESTE PROCESO SE HABILITA ACCESO REMOTO AL SISTEMA SCADA POR MEDIO DE REUNION POR SKYPE EMPRESARIAL
+
+ADJUNTO RESULTADO DE CORREO DEL ING OSCAR ARIAS DE SIEMENS
+
+Estimados, muy buenas tardes.
+ 
+Gracias a la colaboración del ing. Gabriel Uribe, hoy fue posible llevar a cabo unas nuevas pruebas de redundancia entre el SCADA y las RTU, con el fin de extraer unos logs según nos ha solicitado casa matriz.
+ 
+Las pruebas consistieron en hacer cambios manuales en la muletilla que se tiene en el controlador, esta vez de la Unidad 3, para observar el comportamiento de la comunicación cuando esta se tiene en Automático o en alguna de las dos AK. Se observó el comportamiento ya conocido de conmutación y pérdida momentánea de transmisión de señales con el fin de obtener los logs al respecto para el envío. Una vez recogidos y enviados oportunamente estos logs, se restableció el estado de la transmisión, quedando la comunicación normal para la unidad sometida a pruebas.

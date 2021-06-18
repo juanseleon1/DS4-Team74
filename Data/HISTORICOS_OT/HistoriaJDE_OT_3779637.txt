@@ -1,0 +1,11 @@
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779637.
+Se realiza revisión de la instrumentación asociada, se realiza limpieza aplicando liquido desplazador de humedad, se verifican bornes y tornillerias reapretando y normalizando; se toman medidas de los voltajes a la entrada y salidas de las fuentes encontrando todo normal.
+
+Realizó: Neiro Fabián Pérez, Julio Cesar Parra
+
+
+2018/11/14 _ CARLOS ENRIQUE MONCADA. OT N° 3779637.
+OT programada para el mantenimiento TCCS U2 P3.
+
+XL: VERIFICAR Y LIMPIAR CONTROL CIRCULACION TCCS COJINETE SUPERIOR DE LA UNIDAD.

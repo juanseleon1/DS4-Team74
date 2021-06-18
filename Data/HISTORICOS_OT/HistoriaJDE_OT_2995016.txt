@@ -1,0 +1,8 @@
+SOLICITANTE: PEDRO ROBAYO
+FECHA: ENERO 23-2016
+EJECUTANTE: ELISAUL FUENTES Y PEDRO ROBAYO
+
+
+
+Se sube al AG10 para mirar porque se estaban quemando los fusibles del 355 A del G2 y se encontraron la FASE 1U y 2V con falla aislamiento, al reventarse estas fases alcanzó a dañar parte de la fase 1U del G1.
+Se hace el desarme de todo el barraje y se logra colocarle cinta a las dos fases del G2 y se le coloca cinta autofundente y de vinilo a la fase del G1 quedando operativo unicamente el G1 con posibilidad de reparar el G2. 

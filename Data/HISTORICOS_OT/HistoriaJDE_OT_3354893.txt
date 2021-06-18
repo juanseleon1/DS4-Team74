@@ -1,0 +1,9 @@
+
+FECHA: 05/04/2017 OT # 3354893 PROGRAMO R JIMENEZ,  DAVISON PEREZ.
+SE REALIZA MANTENIMIENTO PREVENTIVO ELECTRICO SEGÚN INSTRUCTIVO, NO SE REALIZAN PRUEVAS ELECTRICAS EL SISTEMA ESTA FUERA DE SERVICIO.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA

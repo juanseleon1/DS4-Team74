@@ -1,0 +1,13 @@
+FECHA: 22 DE MAYO DE 2018
+
+SOLICITANTE: FRANCISCO JAVIER CORDOBA - GEOVANNY ANDRES ECHEVERRI
+
+DESCRIPCION: EL REGULADOR DE TENSION DE LA UNIDAD PRESENTA ANOMALIA EN SU FUNCIONAMIENTO, NO PERMITE LA LECTURA DE LAS MEDIDAS.
+
+POR FAVOR ATENDER ESTA SOLICITUD.
+
+FECHA: 22 DE MAYO DE 2018
+
+Referente al regulador de tensión G41: Se procede apagar y reiniciar la pantalla ubicada en el centro de control “ operación” , que estaba bloqueada, luego se realiza el reset por computador a pantalla y se reestablece la operatividad. Queda en  observación 
+
+Ejecuto: Carlos Giordanelli, Luis Adrián Cardona,Bernardo Montoya, Uaimer Diaz

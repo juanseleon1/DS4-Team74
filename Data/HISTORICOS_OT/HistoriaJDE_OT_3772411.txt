@@ -1,0 +1,15 @@
+PLANEADOR: SANTIAGO RAMIREZ, 2018-10-09
+
+OT PARA CORREGIR FUGAS EN BUJES SUPERIORES E INFERIORES DEL DISTRIBUIDOR DE LA UNIDAD 2 DE PORCE 2.
+
+SUPERIORES: 02, 03, 10, 13
+
+INFERIORES: 04, 05, 11, 17:  ESTOS BUJES NO SE PUDIERON CAMBIAR POR FALTA DE TIEMPO
+
+PROGRAMADOR: JUAN G TOBON, 2018-10-09
+
+Se desmontan los bujes superiores Nos. 02,03,10,13. A los 4 bujes se le maquina ranura 5mm que no tenían, se le instalan empaques  CHESTERTON( sellos de labio) nuevos y se le fabriacan los O´RING de 5mm y 7 mm. 
+
+los bujes inferiores Nos. 04,05,11,17. no se pudieron intervenir por falta de tiempo ya que los bujes superiores no se habian llegado a desmontar y se tuvo que soldar ejes extractores para sacarlos con el gato hidraulico de 100 toneladas.
+
+realizo: francisco guinguer, deivi baena, gustavo lopera, ricardo pelaez, fernando delgado

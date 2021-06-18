@@ -1,0 +1,31 @@
+- FECHA : MARTES MAYO 23 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : WILFER HINCAPIÉ - DAVID GARCÍA PRACTICANTE
+- ASOCIADO A LA OT : 3466712
+- ASUNTO : HACER MANTTO MP
+
+
+
+
+
+MANTENIMIENTO PLANTA DIÉSEL SUBESTACIÓN PLAYAS.
+Mayo 24 de 2017
+Observación: 
+Este documento es adjunto a la planilla de mantenimiento de la planta DIESEL de subestación Playas.
+. Reporte manteamiento planta diésel.
+- Se realiza limpieza, y mantenimiento a toda la planta diésel, dándole solución a las observaciones que se habían hecho en el informe del  pasado 5 de marzo de 2017, en el cual se informaban unas fugas y la necesidad de realizar una limpieza a esta planta.  
+
+- Se realizan medidas y toma de datos eléctricos de la planta,
+NIVEL ACPM TANQUE PRINCIPAL - mt. 60 cmNIVEL ACPM TANQUE PLANTA DIESELPRESIÓN ACEITE -PSI 81TEMPERATURA REFRIGERACIÓN - °C 76RPM 1800VOLTAJE DE BATERÍA - VDC 28HORÓMETRO 139.7VOLTAJE DE LÍNEA (L - L) RS ST RT 482 485 482VOLTAJE DE LÍNEA PROMEDIO 482VOLTAJE DE FASE (L - N) R S T 278 280 280VOLTAJE DE FASE PROMEDIO 279CORRIENTE (A) R S T 336 324 333CONTADOR INICIAL (Kwh)15.767CONTADOR FINAL (Kwh)15.767
+Datos motor bomba de combustible: 
+- Voltaje de Alimentación: 118 V ac.
+- Corriente de Arranque: 26.6 Amp.
+- Corriente de Marcha: 8.9 Amp.
+- Aislamiento solo motor: 161.5 Moh.  
+- Aislamiento con acometida: 24 Moh. 
+
+NOTA: se recomienda  que por parte de los mecánicos, se  realizara un mantenimiento a este punto y se instalen unas mayas por la parte exterior de la planta DIESEL, más exactamente por donde están las rejillas de ingreso y salida de aire, porque es por ese sitio por donde están ingresando las aves. 
+
+   .                                                    Empresas Públicas de Medellín E.S.P. OT No.3466712MANTENIMIENTO AREA GUATAPEPLANILLA PARA REVISION  GENERAL MOTORES Tiempo conservación documento: 2 añosNOMBRE EQUIPO:  DATOS PLACA FECHA: REALIZO: REVISO: APROBO:Motobomba planta diesel POT: 1 HP V: 115 V I: 14,4 A 24 de Mayo-2017 Felipe G / Wilfer H1. MTTO CONTROLES:1.1. MTTO INTERRUPTOR :   SI :            NO : 1.3. MTTO CONTACTORES:   SI______    NO_______   SÍ :       NO :1.2. REVISION CABLEADO:         SI :    NO : 1.4. REVISION CONEXIONES Y TORNILLERIA :      SI______   NO_______     SÍ :            NÓ : 2. MTTO MOTOR:2.1. AISLAMIENTO CON RESPECTO A TIERRA (Debe dar un valor alto, tendiendo a infinito): FASES R-S-T. MW161,52.2. VALORES DE VOLTAJE Y CORRIENTE (Comparar con los datos de placa):VOLTAJE CTE ARRANQUE CTE DE FUNC. FASES VOLTIOS FASES AMP.FASESAMP. RS 118 V R-S-T 26,6 A  R  8,9 A ST V S  A TR V T A  2.3   TEMP. EXCESIVA CARCAZA:    SÍ:                   NÓ :                           TEMP. EXCESIVA COJINETES :    SÍ :             NÓ :               VIBRACIÓN ANORMAL :           SI :                NÓ :                  RUIDO ANORMAL :                   SÍ :             NÓ :  3 . CALIBRACIÓN TÉRMICO CONTROL :            13 A  CALIBRACIÓN TÉRMICO POTENCIA:  16 A 4. FUNCIONAMIENTO CONTROL NORMAL :   SÍ :                    NÓ : 5. HOROMETRO: N/A6. OBSERVACIONES: medida de aislamiento sin acometida 161,5 Moh, se le aplicaron 500 Vdc durante 30 seg, equipo utilizado Megger mit 420, con Acometida 24 Mho. Este motor tiene un condensador de 534 µFLa bomba queda operando normalmente en la parte electrica, ver documento adjunto en el correo.
+
+

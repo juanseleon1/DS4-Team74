@@ -1,0 +1,6 @@
+MAR 4/2015 OT: 2703045 PROGRAMÓ: Javier Giraldo EJECUTÓ: Jorge Echeverri.
+Se realizó el mantenimiento según instructivo GAGPE0003.
+Fueron realizadas las pruebas eléctricas al motor.
+Ver registros en el archivo de Guadalupe IV.
+
+XE: REVISION Y MEDIR MOTOBOMBAS REGULADOR HIDRAULICO

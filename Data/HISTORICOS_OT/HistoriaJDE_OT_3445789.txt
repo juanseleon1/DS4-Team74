@@ -1,0 +1,20 @@
+PLANEADOR: FRANCIS LONDOÑO, 2017-04-04
+OT MANTENIMIENTO PREVENTIVO UNIDAD MANEJADORA DE AIRE No. 1 DE CASA MÁQUINAS.
+
+RIESGOS DEL TRABAJO Y MEDIDAS PREVENTIVAS:
+1. El equipo debe estar en funcionamiento. Para analizar las variables
+2. Conservar las medidas de seguridad pertinentes
+INSTRUCTIVO DE MANTENIMIENTO
+1. Inspeccionar temperatura del motor. OK
+2. Revisar ruidos y vibraciones. OK
+3. Revisar anclajes, tornillería, guardas y fijaciones. OK
+4. Revisar estado de poleas y alineación.
+5. Revisar estado y tensión de bandas (ref. C210). OK
+6. Verificar estado general exterior (pintura).
+7. Engrasar (identificar puntos).
+PROGRAMADOR: FRANCIS LONDOÑO, 30-06-2017
+
+OBSERVACIONES DE LA EJECUCION DE LA OT
+- TEMP. MOTOR 47°C
+- ESTADO DE POLEAS REGULAR
+- PINTURA GENERAL EN MAL ESTADO

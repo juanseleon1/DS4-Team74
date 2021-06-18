@@ -1,0 +1,9 @@
+10/03/2016 - 9:01
+
+Por oportunidad se revisa alarma del Cojinete Inferior G32 - Nivel de Coj Inferior Bajo, se verifica fisicamente y se encuetra el nivel en el nivel patron, es decir encontramos fisicamente el nivel en 361,9 y el Nivel patron es 360, solicitamos borrar alarma presente en pantalla.
+
+WILSON ARANGO - ELKIN SANTAMARIA.
+
+SE REVISA EL INSTRUMENTO DE NIVEL Y SE ENCUENTRA EN BUEN FUNCIONAMIENTO, LUEGO SE VERIFICA LA MEDIDA DE REFERENCIA Y ESTA SE ENCUENTRA BIEN, LUEGO SE NORMALIZA LA UNIDAD Y LAS ALARMAS DESAPARECEN.
+
+REALIZO: GRUPO DE ELECTRONICA

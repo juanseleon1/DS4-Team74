@@ -1,0 +1,14 @@
+27/06/2018 - Juan Camilo Montoya Fonnegra
+
+Referente a la Valvula HB: Se genera la presente OT por presentarse problema en la valvula HB impidiendo abrir automaticamente.
+Informa: Turno 3.
+
+
+03/07/2018
+
+Se normaliza el control, se encuentra desconectada la señal de confimacion bomba encendida, se normaliza este cable
+
+24/07/2018
+
+SE CIERRE POR TIEMPO DE EJECUCION, LOS TIEMPOS SE CARGAN EN LAS OT DE MANTENIMIENTO CORRECTIVO DE LA HB REALIZADO POR MONTAJES 
+NOTA DE WALTER TOBON 

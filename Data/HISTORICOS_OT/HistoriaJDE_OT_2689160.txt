@@ -1,0 +1,7 @@
+XE: INSPECCIONAR Y MEDIR LAS MOTOBOMBAS PRINCIPALES AGUA CONDENSADA ACAA1 Y AGUA CRUDA ACRAA1 DEL AIRE ACONDICONADO DE CASA MAQUINAS GUATAPE.
+
+
+2015/02/09 GIOVANNY DIAZ - SEBASTIAN HINCAPIE
+Corrientes: R: 36 S:36.1 T:35.2 Voltajes: RS:452 ST:451 TR:451 Se realizo medida de aislamiento: 2.83GOhm
+Se evidencio un consumo de corriente bajo en comparacion con la ACRAA 2 y una presion de 30PSI, la presion de la ACRAA2 estaba en 42PSI. 
+

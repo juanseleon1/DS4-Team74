@@ -1,0 +1,15 @@
+LA INDICACION DE PRESION VALVULA ESFERICA U3 SE PIERDE MOMENTANEAMENTE. ESTO OCACIONA LA PERDIDA DE GRUPO LISTO DE LA UNIDAD.
+
+FECHA:OCTUBRE 02 - 2014
+SOLICITANTE: TURNO 1.
+
+
+02/10/2016
+
+se realiza verificacion de la medida de aguas arriba en la valvula esferica se encuentra problemas con la indicacion del transductor CIT1 con la medida de salida S1 , se invierte la medida para dar confiabilidad en la indicacion del PLC y el programa, queda habilitada la medida de presion son el transductor CIT1 salida S2.
+
+la unidad queda con condicioones y en observacion 
+
+REALIZADO POR WTOBONL
+
+TERMINADA CERRRA 

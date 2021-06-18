@@ -1,0 +1,5 @@
+inspeccionar controlador de unidad rio grande TM por fallas en la tarjeta de comunicacion.
+
+
+AGOSTO 16/2016 OT:3211504 PROGRAMO: JGUINGUER EJECUTO: AYEPES
+el controlador de la unidad PLC se encontraba bloqueado y no respondia a los comandos desde el scada local ni desde el centro de control de pequeñas centrales, fue necesario reiniciarlo desconectando la alimentacion del equipo para apagarlo. se enciende nuevamente  y el equipo ya no respondio por lo que fue necesario  reemplazarlo por un equipo nuevo. haciendo una breve investigacion esta version  de plc TM 1703 posee este problema que al ser reiniciado no responde al encenderse nuevamente.

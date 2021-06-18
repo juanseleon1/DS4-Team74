@@ -1,0 +1,6 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+DESMONTAR  EXCITACION
+
+08/ABRIL/2014
+Se realiza la desconexion de los sensores de velocidad (pickup), para permitir la extraccion de la parte superior de la excitación y se realiza una inspeccion visual al cableado/estado de los sensores.
+Ejecuto: Fredy Duarte - Francisco Gonzalez

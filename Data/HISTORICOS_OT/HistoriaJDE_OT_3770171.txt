@@ -1,0 +1,10 @@
+
+2018/09/24 DIEGO BEDOYA
+Realizar la revision de la bomba nueva para instalar en la posicion de la motobomba CW9.
+
+2018/10/01 DIEGO BEDOYA
+Se realiza el cambio de elementos rodantes en la motobomba, como son los bujes de bronce donde gira el eje y se hace metrología a los bujes de los tazones y los impeler para verificar que no tengan mucha holgura.
+se procede a bajar la motobomba para la planta y tenerla disponible para cuando haya posibilidad de iniciar el cambio de motobomba.
+
+2018/10/13 JAIME RAMIREZ
+Se inicia el desmontaje de la motobomba CW9 vieja, con el fin de instalar la motobomba CW nueva. la motobomba antes de arrancar y entregarse a operacion se le realizan medidas de vibracion, caudal y corrientes de trabajo.

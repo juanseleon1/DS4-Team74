@@ -1,0 +1,8 @@
+Fecha: 04/07/2016
+OT: 3164969
+Solicitante: Marco Tulio Gomez Ruiz
+Nota: Se encuentra la IHM del controlador 1 sistemas comunes NE + W01, bloqueada se intenta reiniciar desde el on/off, y no                                              carga la aplicacion. 
+
+Fecha: 05/07/2016 
+Nota: Se realiza reinstalacion de software en esta IHM, despues de esto se entraga a operacion con funcionamiento normal.
+Realizó: Gabriel Uribe 

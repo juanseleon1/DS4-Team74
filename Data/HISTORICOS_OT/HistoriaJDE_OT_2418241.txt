@@ -1,0 +1,12 @@
+MANTENIMIENTO GENERAL INSTRUMENTACION COJINETE GUIA _______________ CENTRAL PORCE 2.
+
+FECHA: 27/11/2013 OT: 2418241 PROGRAMADOR: JRODRIGL EJECUTA: DAVID ATEHORTUA
+
+Se revisan sensores de vibración, el sensor CIPL se encontró en -8,92 VDC y el CIPR se encontró en -8,22 VDC. 
+Nivel de aceite se encontró en 984,1mm, el patrón es 9.70mm 
+Se realizo verificación de alarma y disparo según formato de inyección de señales. 
+
+
+C. GUIA          PATRÓN ACTE  SEG 2 SEG 5  SEG8  SEG 11 40° 40,0 40,0 40,0 40,0 40,060° 60,0 60,0 60,0 60,0 60,080° 80,0 80,0 80,0 80,0 80,0ALARMA 55,0 75,0 75,0 75,0 75,0DISPARO 64,0 80,0 80,0 80,0 80,0 COJINETE EMPUJE   PATRÓN SEG 2 SEG 5 SEG 840° 40,0 40,0 40,060° 60,0 60,0 60,080° 80,0 80,0 80,0ALARMA 93,0 93,0 93,0DISPARO 98,0 98,0 98,0
+
+Informa : Jorge Rodríguez

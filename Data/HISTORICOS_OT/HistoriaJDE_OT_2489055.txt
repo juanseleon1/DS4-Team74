@@ -1,0 +1,10 @@
+FECHA: 11/03/2014
+EQUIPO: fuente auxiliarTableros criticos sistema contra incendio generadores de  troneras 
+
+Descripcion: Las 2  baterias en la prueba de autonomia muestran deficiencia
+Nota:se debe comprar baterias para cambiarlas en los gabinetes 
+Informo:  jose montoya
+
+LAS BATERIAS SE CAMBIARON Y QUEDO EL TABLERO TRABAJANDO BIEN
+EJECUTO: DANY SANTAMARIA
+

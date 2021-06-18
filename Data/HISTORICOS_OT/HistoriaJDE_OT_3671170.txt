@@ -1,0 +1,16 @@
+2018/01/14 JUAN C DUARTE MUÑOZ.
+
+La motobomba se dio paro por señal EF14 "FALLA EN TENSIÓN EN MULTIPLES FASES" (Disparo interruptor) se repone la falla y, queda en funcionamiento.
+
+2018-01-13 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3671170, PASO:1          
+La motobombas CW7 presentó disparo de interruptor, se realizó una revisión general y no se encontró fallas, se arrancó y se tomó medidas de corriente así: R:100, S:106, T:97, se dejó en servicio durante 1 hora y se realizó inspección termografica, se evidenció un delta de temperatura a la entrada del interruptor, se dejo en servicio unas 3 horas más y se evidenció que la temperatura se va incrementando aproximadamente en 4 grados cada 2 horas. 
+
+2018-01-14 REALIZÓ: FERNANDO ANTONIO RUIZ - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3671170, PASO:2          
+Se realizó termografía de seguimiento a la motobomba CW7, siendo las 07:30 Am la temperatura es de 82°C, porteriormetne a las 10:00 AM, se realizó otra inspección termografica encontrándose con valores muy similares.
+
+2018-01-19 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3671170, PASO:3          
+Durante el paro de la II etapa para reparación de sellos de la unidad 7, se realizó cambio de interruptor principal de la motobomba CW7, se dejó en servicio para determinar posteriormente realizar una termografía y determinar si mejoró,
+
+2018-01-19 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3671170, PASO:4          
+Se realizó inspeccion termografica a la motobmba CW7, no se evidenció puntos calientes despues de 7 horas aproximadamente de servicio se encontró en temperatura promedio de 47.3°C, se cierra la OT.
+Se anexa el informe a la OT

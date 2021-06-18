@@ -1,0 +1,11 @@
+REALIZAR MEDIDA DE VALORES DE VIBRACIONES Y ANALISIS DE DATOS SEGÚN PROCEDIMIENTO N° GANTM0002 A LA UNIDAD DE GENERACION U2  DE LA CENTRAL GUADALUPE III.
+
+
+Nota: El informe se en cuentra en el servidor U; en la siguiente dirección
+2000(\\ epm - file) (U)
+2656 E MTTO-ANT
+04 Area Guadalupe 3 G3 OW 2708
+05 Central guadalupe IV OW 3489
+05 unidad generación U1 OW 2609
+01 vibraciones mecánicas 
+Rutas GDP III U2

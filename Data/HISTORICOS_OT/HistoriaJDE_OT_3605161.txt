@@ -1,0 +1,40 @@
+2017/10/28 _ CARLOS ENRIQUE MONCADA. OT N° 3605161 .
+OT PROGRAMADA PARA DESMONTAR Y MONTAR LA INSTRUMENTACION DEL COJINETE DE TURBINA DE LA U3 CON MOTIVO DEL CAMBIO DE SELLO DE TURBINA.
+27/09/2017: Se Desmontan Pick up de la turbina, despues de bajada la rueda dentada se procede a bajar el resto de la Instrumentación como: RTD's de la cuba, RTD's del sello, IQ's 1 y 2, Sensor de nivel, igualmente se retira los sensores inductivos de la serie de alabes, presostato PO. Se procede en laboratorio con la marcación y limpieza de toda la instrumentación retirada.
+
+28/09/2107 :Se verifican lazos de control en la salida de presión y corriente de los instrumentos IQs 1 y 2 con el calibrador de manómetros (peso muerto), igualmente los ~manómetros testigos de los IQs.~Se verifica el estado del Presostato PO encontrando sus medidas buenas.~
+
+29/09/2017: Se realiza limpieza general y verificación de la serie de alabes encontrando los sensores inductivos 7, 21 y 23 en mal estado. Se procede al cambio de estos y quedando habilitados. Se instalan RTD's de temperatura en los disipadores de los tiristores de los AVR del regulador de Tensión U3, queda pendiente habilitarlas.
+
+30/09/2017: Se intervienen los servicios auxiliares de la U3 para habilitarle la medida de temperatura.~
+
+01/10/2017: Se instalan Relés de Baja Tensión en los AVR regulador de Tensión U3.~Se desmonta Instrumentación de la Estación Hidraulica.~
+
+02/10/2017: Con respecto a los instrumentos de la estación Hidraulica, se verifican y se hace limpieza y parametrización de los Manómetros y los Transductores de Presión.~
+
+03/10/2017: Se realiza limpieza y calibración de los PRESOSTATOS IQ1 e IQ2 quedando estos habilitados para el montaje. Igualmente se calibran los manometros de los IQs como tambien se calibra el PRESOSTATO PO.
+
+04/10/2017 :Se procede con el desmonte de los instrumentos de la Estación HIDROFLOW de la U3 para vericar~en laboratorio.
+
+05/10/2017: Se procede con la verificación ~de las 6 RTDs ~realizando curva de temparaturas así: 2RTD de temperatura, 2 RTD de segmentos, 2 RTD de Aceite. Se anexa tabla a la carpeta de registros.
+
+06/10/2017: Se hacen pruebas con los circuitos (tuberia) de los IQs para mirar y verifacar que no halla fugas resultando esta satisfactoria.
+
+07/10/2017: Se verifica estado de los microsuiches de la serie de alabes primaria, informe anexo a la carpeta de registros. La serie queda habilitada. Se verifica Sensor de presión PO con tabla anexa en carpeta de registros.~Se realiza calibración a la Instrumentación de la Estación Hidraulica HPU así: Manometro 70A, 70 D, Transmisor IW,~Transmisor presión circuito de regulación con tabla anexa.
+
+08/10/2017: Se procede con el montaje de la instrumentación en el sello de turbina, se ubican los sensores inductivos de la serie de alabes pero quedando deshabilitados y habilitado el viejo sistema de microsuiches. Se monta Sensor de nivel del aceite de la cuba,~Se montan los Pick up de la turbina,~se procede con la instalación de las RTD's de la cuba, RTD's del sello, los IQ's 1 y 2,~ ~se instala el sensor de presión (presostato)PO.~Se realiza mantenimiento y verificación al manometro de presión del sello ubicado en la parte exterior de la turbina; se anexa~tabla de información.
+
+09/102017: Se verifica escalización de los IQs en el PLC y se comparan con los Instrumentos registrados en tabla anexa. Se calibra manómetro Manguito aguas abajo según tabla anexa. Se terminan de instalar las RTDs de temperatura de la turbina.~Se realiza medida y curva a los sensores de Vibración de la turbina de acuerdo a tabla anexa.
+~
+10/10/2017: Se verifica de nuevo el funcionamiento individual de los microsuiches de la serie de alabes. Se verifica señal del Transmisor IW de la estación Hidraulica el cual se encontraba desfazado y calibrando su medida en el transductor.~
+
+11/10/2017: Se realiza Protocolo de pruebas de la Instrumentación del cojinete de turbina verificando alarmas y disparos en los IJ1, IC1, IH1, IH2, PO, IQ 1, IQ 2, se adjunta tabla en la carpeta de registros e informes. Se habilitan los disparos de temperatura de aceite de la cuba ~y temperatura del sello del Eje desde el Transductor Tillquist en el contro l de unidad.
+
+La unidad se entrega en la parte de Instrumentación y electrónica lista para la operación comercial.
+
+REALIZO: JENIFFER GARCIA, JULIO CESAR PARRA, JESUS ELADIO PIEDRAHITA.
+
+INFORMÓ: Carlos Moncada
+
+
+

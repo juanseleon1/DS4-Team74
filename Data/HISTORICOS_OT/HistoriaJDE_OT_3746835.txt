@@ -1,0 +1,17 @@
+FECHA: 19/07/2018 SOLICITADO POR: Natalia Urrea - Camilo Cadavid - Operación G4
+DESCRIPCIÓN: Se presenta indicación de falla en el controlador unidad de la unidad 2 de Guadalupe IV. El controlador A se encuentra con led de falla encendido y las tarjetas de comunicaciones apagadas. En coordinación con el Ingeniero Carlos Giodanelli y con máquina parada, se da reset a la tarjeta AC800F del controlador A el cual se encontraba como principal. La falla se vuelve a presentar por lo que se decide dejar trabajando el controlador B y queda pendiente por reparar la falla del controlador A.
+
+FECHA: 25/07/2018 
+se revisan fallas recurrentes, asociadas a la RIO02, las cuales se presentan tanto en controlador B, como en controlador A, se detectó que cuando aparecen estas fallas, el controlador que esta como principal ejecuta la función de toggle, para descartar que la falla asociada al controlador A, la esté ocasionando el módulo de la RIO02, se realiza una inspección a todos elementos y el conexionado de esta RIO, y se resetea nuevamente controlador A.  y queda en observación.
+Informo: Esteban Vasquez
+
+luego de la ultima revision, se habia dejado controlador A desenergizado debido las fallas recurrentes asociadas ala RIO02
+Informo: Luis Adrian Cardona
+
+FECHA: 23/09/2018 
+se cambio tarjeta profibus  numero 2 de controlador A , y se realiza reset a controlador, el controlador no normaliza, queda pendiente realizar descarga  y probar nuevamente el funcionamiento de dicho controlador.
+Informo: Luis Adrian Cardona
+
+FECHA: 04/10/2018 
+Se cambio rack (CPU) del controlador A, se reprogramo direccion IP y se normalizo controlador. Se realiza seguimiento,  encontrando un correcto funcionamiento del controlador.
+Informo: Carlos Giordanelli, Luis Adrian Cardona.

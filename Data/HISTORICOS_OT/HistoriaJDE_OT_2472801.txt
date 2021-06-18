@@ -1,0 +1,7 @@
+LUNES FEBRERO 17 DEL 2014 - JEOVANNY CORREA G 
+
+La válvula Rotorka de refrigeración cojinetes de la unidad G33 no está recibiendo el comando de apertura y cierre, hay que darle la orden       manualmente. 
+REFERENTE AL CONTROL DE APERTURA VALVULA ROTOR-K
+Se revisan las tarjetas electronicas de la valvula y se observa en el display frontal que muestra un icono de bateria, segun las especificaciones del fabricante, cuando sale este icono es porque la bateria esta agotada y por esta razon la valvula no ejecuta ningun comando en modo remoto. Se cambio la bateria, se realizaron pruebas de apertura y cierre tanto en modo local como modo Remoto.
+Programador: Oscar Arango
+Ejecuto: Fredy Duarte - Francisco Gonzalez

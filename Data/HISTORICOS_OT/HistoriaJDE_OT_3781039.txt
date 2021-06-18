@@ -1,0 +1,46 @@
+SOLICITANTE: OPERACIÓN TURNO 3/ WA - ARFECHA: 01/11/2018
+
+Fallas varias Regulador de Velocidad: inicialmente en secuencia de arranque de unidad no desbloqueó regulador, se quedó enganchado el relé R65, siendo necesario activarlo manualmente. (Informó Mario Zapata).Posteriormente a las 09:54 horas se dio paro la unidad por falla grave del regulador y despues de sincronizarla a las 10:11 horas, a las 12:15 horas aprox. empezó a bajar carga sin justificación visible. Se hace prueba en control local de unidad sin respuesta positiva, luego por instrucción de Adrián Cardona se hace cambio de CPU en el controlador del regulador consiguiendo normalidad en el control y la generación.
+
+FECHA: 02/11/2018
+Se revisa lazo de control desde variometro 1 y 2, transductores CS2 y CS3 correspondiente a la posición del distribuidor, encontrando la señal en condición normales.
+Se reviso cableado y borneras en CPU1 y CPU2 correspondiente a dicha señal. Se detecto que con la CPU2 en control no se evidencia posición del distribuidor ocasionando falla grave en el regulador de velocidad, por lo tanto, se debe trabajar regulador con la CPU1 
+Se realizaron movimientos del distribuidor desde mando local de la IHM del regulador, con respuesta correcta en diferentes porcentajes de apertura. 
+Queda pendiente descargar programa a la CPU2
+
+FECHA: 05/11/2018
+Se realiza descarga de programa a la CPU2, inicialmente mediante comunicacion serial, y luego a traves de Ethernet, sin embargo el problema continua presente. En el portatil, se creo una carpeta en el escritorio (RVX 11/18) con los archivos de configuracion que estaban en la CPU2 antes de iniciar las descargas, la ultima descarga se realizo utilizando el Backup que estaba disponible para la CPU2 del regudor de velocidad de la unidad 1 y simplemente se cambiaron las IPs para que correspondieran con los de la unidad 2, pero se sigue presentando el problema inicial: al dar arranque con la unidad con el regulador de velocidad 
+por la CPU2, no realiza el desbloqueo del regulador, y si se cambia para la CPU1 despues de haber iniciado la secuencia de arranque, se presenta falla grave en el regulador de velocidad.
+se llevo la unida hasta energizada, con el regulador de velocidad controlado por la CPU1, y la maquina respondio correctamente. 
+Programo: Luis Adrian Cardona.
+
+FECHA: 17/11/2018
+Se dio paro de emergencia la unidad # 2 con 20 Mw y 0 MVAR. Alarmas: Regulador de velocidad control posición y Regulador velocidad manual.
+Se da arranque de nuevo y se interrumpe la secuencia al desbloquear regulador de velocidad por “ Falla grave regulador de velocidad CPU2” .
+Nota: el regulador no hace cambio de CPU.                                                                                                
+Informa: Gerardo Pérez A.
+
+FECHA: 17/11/2018
+Se revisa la IHM del regulador de velocidad y se encuentra con una indicación de - 4.6 Mw y con posición del distribuidor del 95% cuando la unidad estaba parada y con la CPU2 seleccionada. Se procede a resetear la CPU1 y la CPU2 regulador, también se resetea la IHM quedando la unidad con condiciones normales de operación; se le da orden de arranque hasta sincronizar y entra correctamente al sistema. Continúa en análisis la causa raíz de la falla.
+Realizó: Francisco González, Estaban Hurtado, Camilo Montagut y Sandra Carmona
+Informó: Uaimer Díaz                                                                      
+
+FECHA: 19/11/2018
+Es necesario sacar de sincronismo la Unidad por presentar indicación en su medida de potencia Activa inversa, -5,6 MW. Y con las alarmas presentes. Regulador velocidad control posición y Regulador velocidad control manual.                                                                                                             
+Informa Equipo Operación Turno 3.
+En este lapso de tiempo la Unidad presenta entradas y salidas de sincronismo por la causa anteriormente mencionada y dentro de las pruebas en busca del correctivo, la unidad es redespachada gradualmente del P08 al P19.  
+FECHA: 19/11/2018  
+Nota: al momento de iniciar la intervención, se evidencian los siguientes problemas en la unidad: 
+CPU1: indica ocasionalmente potencia activa negativa y bajo dicha condición, presenta las siguientes alarmas: Regulador velocidad control posición y Regulador velocidad control manual, el distribuidor se queda estático en el porcentaje de apertura que tenía en ese momento, sin responder a los cambios de consigna de potencia.
+CPU2: después de realizada la descarga del programa, solo recibe consigna de 1MW, por lo que a pesar de que la unidad sincroniza controlada por esta CPU, no hace regulación de potencia según consignas desde centro de control.  
+en atención al evento “ falla reguladora de velocidad”  que cambia la consigna de potencia a - 5 Mw, se revisan la CPU1 y CPU2, se hacen cargas del software, se hace intercambio de CPU para verificar buena operación de ambas y descartar hardware, y se evidencia que se trasladan problemas iniciales, con lo que se sospecha que los problemas corresponden a señales internas de las CPU, y se descarta problemas en rack y señales de campo, luego se realiza nuevamente descarga de programa a CPU1(CPU que quedo en el slot izquierdo, luego del intercambio descrito anteriormente) y se hace verificación de lazos de control, se hacen movimientos del distribuidor de forma local, se reaprietan borneras, se miden voltajes en transductores de posición y potencia para descartar falla de estos elementos.
+NOTA:  se evidencia que la CPU1, trabaja bien después de reiniciada, sin embargo, después de unos minutos, nuevamente vuelve a quedarse en 1MW y deja de recibir consigna.
+ Se hizo seguimiento a la potencia de la unidad sincronizada y se entrega a operación. La unidad queda trabajando por CPU2 y en observación.
+Ejecutan: Grupo mantenimientoInforma: Sandra Carmona.                                             
+FECHA: 20/11/2018  
+Después de estar generando en condiciones normales, la unidad nuevamente, empieza a indicar potencia activa negativa, y se queda el distribuidor en un porcentaje de apertura fijo, sin recibir consigna de potencia.
+
+FECHA: 28/11/2018 
+Se realiza revision de rack, se cambian borneras hembra correspondientes a las entradas analogas y se realiza ajuste de conectores en los slots correspondientes a las 2 CPU, se identifica tarjeta de micropocesador mala en CPU1 y se reemplaza por una de las terjetas disponibles de repuesto, posteriormente se realizan pruebas con ambas CPUs, con resultados satisfactorios.
+Nota: el regulador de velocidad queda trabajando en condiciones normales y con las dos CPU habilitadas.
+Ejuto: OSCAR ARANGO, UAMER DIAZ. 

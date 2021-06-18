@@ -1,0 +1,9 @@
+2017/01/14 RUBEN ARBOLEDA
+El motor de la UMA 4 se encuentra en reparacion en la OT: 3304533, queda pendiente realizar éste mantenimeinto una vez se instale el motor reparado.
+
+2017-03-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3327400, PASO:1          
+Se realizó mantenimiento al motor de LA UMA 4  CORRIENTE: R:7,3, S:7,3, T:6,9, VOLTAJES RS:453,8, ST:453,7, TR:451,4,TEMPERATURA MAXIMA DE MOTOR 48,3°C 2017/01/14 RUBEN ARBOLEDA
+El motor de la UMA 4 se encuentra en reparacion en la OT: 3304533, queda pendiente realizar éste mantenimeinto una vez se instale el motor reparado.
+
+2017-03-27 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3327400, PASO:1          
+Se realizó mantenimiento al motor de LA UMA 4  CORRIENTE: R:7,3, S:7,3, T:6,9, VOLTAJES RS:453,8, ST:453,7, TR:451,4,TEMPERATURA MAXIMA DE MOTOR 48,3°C 

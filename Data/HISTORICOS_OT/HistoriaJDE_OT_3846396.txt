@@ -1,0 +1,5 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 17-06-2019
+Tipo de mantenimiento: Preventivo y ajustes de montaje en la estación RN-4B
+Aforos, realizacion de perfil.

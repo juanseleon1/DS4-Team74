@@ -1,0 +1,4 @@
+FECHA: Junio 11/2015PROGRAMO: Daniel PalaciosEJECUTO: Jhonatan Arango.
+Se realiza mantenimiento según procedimiento en la OT, se cambian escobillas N°25y N°26 y la escobila B de temperatura se realiza medida de aislamiento y se llenan registros.
+
+XE: MEDIR Y LIMPIAR ANILLOS ROZANTES DE LA UNIDAD

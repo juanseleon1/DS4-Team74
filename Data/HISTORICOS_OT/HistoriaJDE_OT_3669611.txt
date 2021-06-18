@@ -1,0 +1,13 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación y pintura de las cabinas del teleférico
+
+
+
+Programador: Camilo Montagut - 20/03/2018
+
+Finaliza la actividad que relaciona a la adecuación física de las cabinas del teleférico que relacionó las siguientes actividades:
+
+- Reparación en sitio de puntos de las cabinas que se encontraban deteriorados
+- Aplicación de la nueva pintura en ambas cabinas incluyendo la armadura de los carricoches
+
+Ejecuta: equipo mantenimiento mecánico UOG
+

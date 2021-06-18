@@ -1,0 +1,3 @@
+23/01/2018
+Abad De Jesus Ramirez Giraldo.
+Se bloquea la señal U7-6.68 Tem Agua Coj Turb por oscilacion del paramaetro por encima del punto de disparo lo que produjo el disparo del Generador.

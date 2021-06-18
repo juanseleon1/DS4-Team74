@@ -1,0 +1,17 @@
+2018/12/05 RUBEN ARBOLEDA
+Se crea OT para realizar revisión del estado del transformador TSA3 despues de falla a tierra con la malla de encerramiento.
+
+2018-12-05 REALIZÓ: JUAN DAVID GARCIA - SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME - MATEO PEREZ (GUADALUPE) - MARIO MORALES (GUADALUPE),  PROGRAMO: RARBOLG OT: 3793037, PASO:1-1,1          
+Revisión de TSA3, Se sacaron elementos y se inició a desarmar el barraje.
+
+2018-12-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - YEIMER JOSE MONTES ARRIETA (PRACTICANTE),  PROGRAMO: RARBOLG OT: 3793037, PASO:2          
+En casa de maquinas se realizo la revisión y medidas electricas al transformador TSA3.
+
+2018-12-06 REALIZÓ: JUAN DAVID GARCIA - EDWAR ALEXANDER LONDOÑO,  PROGRAMO: RARBOLG OT: 3793037, PASO:2,1          
+Se realizó revisión del circuito en cámara de válvulas, este circuito presentó falla en el sentido de rotación, se tiene en cuenta que la alimentación está dada por el circuito de R50-04 (portal respaldo), en casa de maquinas se realizó el cambio de fase R y S para hacer coincidir con las fase del circuito R50-11 (Portal Principal), para lo anterior se coordinó con operación de S/e para abrir ambos interruptores, aterrizarlos y realizar el trabajo, se dejó energizado por medio de del circuito R50-11 Portal Principal. 
+
+2018-12-07 REALIZÓ: SEBASTIAN H -MATEO PEREZ,  PROGRAMO: RARBOLG OT: 3793037, PASO:3          
+se revisa y se realizan pruebas al TSA3 después de la falla
+
+2018-12-16 REALIZÓ: FERNANDO ANTONIO RUIZ - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3793037, PASO:4          
+se conectan barrajes en TSA3 dejando normalizado el transformador.

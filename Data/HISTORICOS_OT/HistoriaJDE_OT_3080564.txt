@@ -1,0 +1,28 @@
+2016/04/16 ANGEL ADONIS CADAVID OCHOA
+OT GENERADA PARA MONTAJE DEL SECCIONADOR DE UNIDAD 8, PARA ESTA ACTIVIDAD SE DA ORDEN DE PARO A LA UNIDAD 7 QUE SE ENCONTRABA EN GIROS MECANICOS Y ENERGIZADA ESTO PARA TOMAR MEDIDAS EN EL SECCIONADOR DE ESTA MAQUINA.
+
+2016/04/16 JUAN DAVID GARCIA - SEBASTIAN HINCAPIE, PROGRAMO: RARBOLG  
+Se realizó acompañamiento al grupo de mantenimiento mecánico para el montaje del seccionador, por motivos de desarme de la 
+unidad 1 en la OT: 3079611 fue necesario suspender ésta actividad, queda a la espera de continuar el armado. 
+
+2016/06/10 DIEGO BEDOYA
+Se realiza el montaje de las barras del seccionador de la U8, luego de ser traidas de tecnigal donde se fabricaron estas barras. fue necesario cambiar los retenedores de los cilidros neumáticos de este seccionador; ya que al momento de realizar las pruebas presentaron fuga de aire.
+los retenedores pequeños se compraron en rodarangos y son  20x32.5x7 H (anillo de apoyo).
+Los otros retenedores que se cambiaron fueron SUPERCOPA 7K CHESTERTON REF.PSFG200 DE 12,5mm X 75mm AWC800.
+los cuales estan en el almacen de la central como repuesto.
+queda el seccionador de la unidad 8 calibrado y en condiciones normales de operación.
+
+Trabajo realizado por : Juan David Florez,Fabio Herrera,Gabriel Bustamante, Juan David Garcia, Oscar Giraldo
+
+
+JUNIO 28/2016. SERGIO OLIVARES D.                                                                                                                                                                                                                                         El 10 de junio/2016, se procedio a montar definitivamente el seccionador fabricado en Tecnigal Ltda; se encontraba desde tiempo atrás puenteado con barras fijas, mientras se fabricaba uno nuevo de muestra del original.
+Para el montaje se envío tambien a fabricar los seis soportes en “ U”  en aluminio para los contactos fijos, ya que se encontraron dos fracturados. Se hizo mantenimiento general a los cilindros neumáticos, cambiando los retenedores; se hizo pruebas de apertura y cierre para realizar calibración tanto de los cilindros neumáticos y de los contactos fijos y móviles, obteniendose pruebas exitosas.
+
+                             Se hizo medidas de resistencia óhmica a los contactos obteniendose:
+
+                        Fase  -    Resistencia Ohmíca (µ)-       Voltaje (VAC)      -      Corriente (AMP)
+                           R                       8                                                     1,599                                      200 
+                           S                       7                                                     1.4                                          200
+                           T                        8                                                     1.8                                          200.
+                                               
+Desde el viernes 24 de junio se encuentra en servicio con banco energizado y la unidad  con carga completa, mostrando su funcionamiento normal.

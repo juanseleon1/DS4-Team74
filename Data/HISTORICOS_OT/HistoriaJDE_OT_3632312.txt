@@ -1,0 +1,14 @@
+30/10/2017 MANTENIMIENTO ANUAL PREVENTIVO RODETE FRANCIS 
+
+
+Ot: 3632312 - AM: rodete francisG42 - Programador: Camilo Montagut - 2017/11/07
+
+Se realiza ensayo de líquidos penetrantes en la zona de aspiración del rodete francis. Se hace mapeo de todos los álabes donde se registra las dimensiones de las erosiones encontradas. 
+
+No se registran fisuras ni desprendimiento de material por cavitación. Finalmente se cierra el compartimiento del rodete.
+
+Además se realiza la adecuación de láminas de alfajor (acero al carbono) en las 4 bases de la cruceta ya que presentaban alto desgaste por cavitación
+
+Nota: para un próximo mantenimiento se hace necesario marcar con números de golpe los álabes del rodete para así tener un mejor control de cada uno de ellos
+
+Ejecuta: equipo mantenimiento mecánico UOG

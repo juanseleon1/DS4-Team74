@@ -1,0 +1,2 @@
+Realizar cableado de gaveta de reserva para CW de CCM5, con arrancador por SIMOCODE, con sistema de monitoreo de variables. 
+

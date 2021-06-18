@@ -1,0 +1,4 @@
+
+MAYO 22 DE 2018 OT: 3727165  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO
+
+Se presenta falla por comunicación controlador superior, se cambia el módulo 105A2 y se deja en servicio.

@@ -1,0 +1,9 @@
+2014/05/25 FALLA PATINES - OSCAR GIRALDO - JUAN GARCÍA
+En el día de hoy se presentó una explosión en el puente grua en la zona de los patines, se realizó revisión y no se encontro causa aprente, se desmonto los patines y se verificó el apriete de los tornillos, se montó y s normalizó. 
+
+A causa del evento de la explosión se encontró breaker de 480VAC que alimenta el barrajedañado, estaba disparado y no reponia su posición. 
+
+Se cambio el breaker por uno equivalente, que estaba en la celda 2, de la DG1, se realizó medida de aislamiento y se encontró en condiciones normales. 
+
+Realizó: Oscar Giraldo - Juan David García. 
+OT:  2535756

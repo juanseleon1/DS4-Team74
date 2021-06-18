@@ -1,0 +1,3 @@
+MANTENIMIENTO GENERAL REGULADOR HIDRAULICO CENTRAL PORCE 2.
+
+Se realizó pruebas eléctricas a los motores de las bombas y presentaron comportamiento normal. Se cambia contactor de potencia de la bomba 2, pues en pruebas de arranque los contactos se quedaron pegados debido a que se forzó el contactor manualmente pues había problemas con el control manual. El contactor de repuesto fue ensamblado con partes pues no se tenía el requerido. La bomba queda disponible el sábado 16 de noviembre. Se procede a realizar compra de este contactor para tener repuesto.

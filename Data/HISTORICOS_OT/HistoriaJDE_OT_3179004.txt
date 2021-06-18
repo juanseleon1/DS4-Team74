@@ -1,0 +1,6 @@
+18 DE JULIO DE 2016
+
+Referente a la unidad # 3
+Se genera paro rápido en la unidad con 135 MW a las 00:06, se presentan fallas en la estación hidráulica. Se evidencia que las bombas se paran, se revisa la estación y se encuentra que el instrumento de nivel presenta fallas (FAFNIR) este instrumento manda parar las bombas continuamente, el cual queda pendiente para revisar. Se le ajusta aceite al tanque sumidero y se sincroniza nuevamente con 135 MW. 
+
+Este evento genera una desviacion de 175 MW aproximadamente. 

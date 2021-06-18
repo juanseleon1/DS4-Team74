@@ -1,0 +1,6 @@
+SEP 23/2014 OT: 2604924 PROGRAMÓ: Javier Giraldo EJECUTÓ: Saúl Correa.
+Se Instala medidor Schneider Electric Power Logic DM6000 donde estaba La ION fallada.
+.
+
+SOLICITANTE: Anderson García Fecha: Septiembre 22/2014.
+Instalar medidor Schneider Electric Power Logic DM6000 donde estaba La ION fallada.

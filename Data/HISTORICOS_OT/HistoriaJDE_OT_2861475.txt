@@ -1,0 +1,5 @@
+2015-09-01. JUAN CARLOS DUARTE MUÑOZ.
+Corregir las alarmas que se encuentran en limite H1, asi: 88.64°C 86.34°C 85.50°C 84.28°C en los analogos estan en 95°C ambos instrumentos.
+
+2015/09/04 DIEGO BEDOYA 
+Se realiza el lavado del intercambiador del cojinete superior.  

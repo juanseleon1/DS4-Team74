@@ -1,0 +1,9 @@
+SOLIOCITANTE: OPERACIÒN TURNO 3 LFYC.FECHA: 24/04/2
+
+Se presenta alarma en los SACC Troneras con aparente apertura de tèrmicos Q2...Q56. Favor revisar.
+
+Nota: Al cerrar el interruptor de SACC, estaba abierto el DJ1 que alimenta la fuente SAC del regulador de tensión de la unidad 2. La fuente, tiene dos alimentaciones AC y DC; que deben ser verificadas en oportunidad.
+
+SE ATIENDE SOLICITUD, SE REVISA EL TABLERO DE +SACC DE TRONERAS Y SE ENCUENTRA INTERRUPTOR Q20 DISPARADO EL CUAL ESTABA OCACIONANDO LA FALLA POR PERDIDA DE LA SEÑAL DE POSICION DE LOS INTERUPTORES Q2 HASTA EL Q56, SE NORMALIZA EL INTERRUPTOR Y DESAPARECE LA FALLA.
+
+REALIZO: GRUPO ELECTRICO Y ELECTRONICO 

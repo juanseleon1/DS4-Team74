@@ -1,0 +1,7 @@
+
+08/Octubre/2017 OT#3620549 Luis Eduardo Arcila / Cesar Tulio
+
+Se realiza mantenimiento al regulador de tension, lavando las tarjetas con alcohol industrial para retirar residuos de ácido sulfhídrico.
+
+En el momento de energizar el regulador falla la fuente VT100, se cambia por una de repuesto quedando en condiciones normales de operacion 
+

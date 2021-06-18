@@ -1,0 +1,17 @@
+SOLICITANTE:
+REVISAR PORQUE SE ENCUENTRAN EN LEVE AUMENTO LAS TEMPERATURAS DE LOS DEVANADOS DEL ESTATOR EN LA UNIDAD H1.
+SEGÚN REGISTROS Y VARIABLES SE OBSERVA UN AUMENTO DE TEMPERATURA EN CRECIMIENTO SENSORES DE LA UNIDAD.
+SE SOLICITA ANALIZAR LA POSIBILIDAD DE RETIRAR LA TOTALIDAD DE SUS PROTECCIONES PARA REVISAR/LIMPIAR LOS RECIDUOS QUE PUEDAN ESTAR INTERNAMENTE PRODUCIENDO AUMENTOS DE TEMPERATURA.
+NOTA: EL SENSOR S3 YA MUESTRA ALARMA Y SE ENCUENTRA EN 110°, LOS DEMAS ESTAN ASCENDIENDO GRADUALMENTE. 
+
+
+AGOSTO 30 DE 2016 PROGRAMO FARFREY OSPINA EJECUTO ALEXANDDER VILLA 
+SE REALIZA LIMPIEZA DEL INSTRUMENTO DE MEDIDA Y SE DEJA EN OBSERVACIN PARA EVALUAR SI EL INCREMENTO DE TEMPERATURA SIGUE.EN ACUERDO CON EL ING.  BERNARDO HULL    ESTA OT SE DEJA ABIERTA PARA SEGUIMIENTO. DURANTE ESTA SEMANA INF: FARFREYOSPINA 
+
+VIERNES 11 DE NOVIEMBRE DE 2016 
+ESTE ES EL COMENTARIO EMITIDO POR EL ING. GUILLERMO ORTIZ 
+Como es de su conocimiento las PT-100 no fallan o se ponen deficientes, o están buenas o están malas. Esto nos da a entender que es tan alto el grado de suciedad que se presenta tanto en el estator como en las áreas de ventilación. Esto al final de cuentas se manifiesta en un incremento paulatino de temperaturas. Debemos recordar que ese aislamiento clase F  teóricamente es diseñado para temperatura máxima de 150 °C. Pero……si en el punto donde está instalado el sensor está a 110°C podríamos suponer que el nivel de temperatura del cobre puede estar a niveles más alto, situación está muy delicada, de alto riesgo y con un deterioro alto del nivel de aislamiento.
+Conclusión….debemos ir pensando en un mantenimiento tipo overhaul no muy lejos.
+Cordial saludo.
+Guillermo
+QUEDAMOS EN ESPERA DE PODRER PROGRAMAR  EL MANTENIMIENTO TIPO OVERHAUL.INF: FARFREY OSPINA 

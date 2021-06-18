@@ -1,0 +1,12 @@
+2015/02/09 EDWAR LONDOÑO - JHONATAN USME
+Se realizò adecuacion de elementos y logistica para el montaje del tranformador de camara de valvulas, 
+Se reaizo medida de aislamiento así: 
+Baja: 500VDC = 4.8GOhm
+Alta: 2.500VDC = 5.2 GOhm
+Entra ambos devanados: 500 VDC = 18.2GOhm
+Se planea el transporte y la instalación para el dia martes 10 de febrero de 2015
+
+2015/03/10 EDWAR LONDOÑO - FERNANDO RUIZ - MARIO RESTREPO - JHONATAN USME - ATANASIO JARAMILLO - RODRIGO SALAZAR
+Por motivos de mantenimiento preventivo de la grúa no se había transportado, el día martes 10 de Marzo se realizó el trasnporte y la puesta en servicio, se instaló el transformador en el circuito de Casa de máquinas y el que estaba en servicio se dejó para el circuito de Guatapé - Alejadría. 
+
+Se energizó sin inconvenientes y en coorinación con el grupo de Operación de turno, antes de energizar se realizó medida de aislamiento de las tres fases a tierra, 53MOhm. 

@@ -1,0 +1,19 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XE: REVISION, MTTO Y LIMPIEZA
+
+Realizar inspección visual de tapas flojas, ventiladores, guardas, bornes de potencia, terminales y cableado. Chequear aislamiento entre bobinas y respecto a tierra y tomar registros.
+
+CON ESTA OT SE INTERVIENEN LAS MOTOBOMBAS QUE DEPENDAN DE ESTE SISTEMA
+
+------------------------------
+
+fecha: 2014-10-22 ot: 2565288 mtto: eléctrico
+ejecutó: olga viana - ronal arango
+Se realiza mantenimiento y limpieza al TABLERO de CONTROL (CCM 5 - p4) E INTERRUPTOR Y BORNES  DE POTENCIA, terminales, cableado Y MOTORES del CIRCUITO DE AGUA REFRIGERACIÓN C/M P2 (S2), PERTENECIENTES AL SISTEMA DE AIRE ACONDICIONADO C/M. Según IDM: GCP2E0017. No se encuentran averías ni fallas en los equipos. Se TOMAN VALORES DE Vol, Ies y Res; y SE diligencian LAS RESPECTIVAS PLANILLAS DE REGISTRO. Finalmente se normaliza el subsistema quedando en correcto funcionamiento Y en condiciones normales de operación. 
+bomba 1
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - SRRR0,765 490S - TSSS0,775 490T - RTTT0,789 490
+bomba 2
+VOLTAJE CTE. DE ARRANQUE CTE. DE TRABAJO AISLAMIENTO / TIERRAFASE VOLTIOS FASE AMPERIOS FASE AMPERIOS FASE G VDCR - S462RR16,4R0,479 490S - T467SS18,7S0,472 490T - R463TT16,7T0,482 490
+informa: cristian a gómez h
+------------------------------

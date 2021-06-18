@@ -1,0 +1,9 @@
+
+FECHA: MAYO 8 DE 2015 OT: 2761405
+
+EJECUTANTE: HENRY GIRALDO Y PEDRO SOLANO
+SOLICITANTE: HENRY GIRALDO
+
+Se presenta falla comunicación controlador superior, se revisa en el RFC y se observa falla DEV 4,2 0D6F se busca en el manual de fallas del Interbus y mencionan que tiene que ver con la alimentación de este módulo, se apaga todo el control, al energizar nuevamente el RFC ya está en RUN, se realiza un arranque del aerogenerador pero al abrir frenos la falla se presenta nuevamente, se revisa en la Top Box y se encuentra el conector de alimentación de la fuente 103A1 un poco suelto y el voltaje de salida estaba en 23,4 Vdc se calibra a 24,4 Vdc se realiza prueba nuevamente y no se presenta falla, se deja en servicio el aerogenerador.
+
+Se presenta nuevamente falla en el controlador superior, en RFC muestra DEV 4,2 0D6F después de unos minutos aparece una falla relacionada con la salida 2 del módulo 4,0; se inspecciona en la Top Box 1 y lo único que se encuentra es un poco deficiente la sujeción del conector en la salida 2 del módulo 4,0 se deja en servicio el aerogenerador. En la Bottom Box se cambió la fuente 32A1 para tenerla lista y colocarla en Top Box si continua el problema del módulo 4,2. Fuente colocada es una de las que hay en subestación para probar.

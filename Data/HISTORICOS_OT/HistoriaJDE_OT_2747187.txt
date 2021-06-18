@@ -1,0 +1,31 @@
+
+
+INFORME FALLA INTERRUPTOR DE MAQUINA UNIDAD 4 CENTRAL GUATAPE
+
+El jueves 23 de abril de 2015 a las 18:00 horas en la unidad 4 se abrió el interruptor de máquina, sin causa aparente.
+Al atender el evento se encuentra la alarma en la estación de operación “ Seccionador Generador”  Abierto.
+Se verifica y se encuentra que el relé Q10 del regulador de tensión oscila sin causa aparente, se cambia por uno de reserva y se abrió 
+el seccionador de máquina para arrancar en vacío la unidad y así sincronizarla. 
+A las 19:00 horas se abrió el interruptor de máquina, sin causa aparente y se presentó la alarma “ Seccionador Generador”  Abierto. 
+Se verifica que el relé de las puertas del interruptor de maquina este energizado, el cual realiza la apertura del interruptor de máquina.
+Se cambia la tarjeta “ Transducer”  del regulador de tensión, ya que se había intercambiado por la tarjeta de la unidad 3, para la realización 
+de las pruebas de cargabilidad - potencia reactiva.
+Se arranca la unidad y se sincroniza.
+El viernes 24 de abril se realiza una verificación del funcionamiento del interruptor de maquina a las 19:00 horas y se informa que este 
+interruptor de maquina se abrió nuevamente sin causa aparente, el grupo mecánico interviene para verificar el funcionamiento del sistema 
+neumático que lo acciona, se encuentra una fuga y se corrige cambiando los empaques de las válvulas de apertura y cierre de este sistema.
+Se arranca nuevamente la unidad y se sincroniza con el seccionador abierto, teniendo en cuenta que el despacho para la planta era de cero, 
+y se continúa verificando su funcionamiento.
+El sábado 25 de abril a las 3:00 horas se abre nuevamente el interruptor de máquina  sin causa aparente luego de sincronizarla.
+Se deja el interruptor de maquina cerrado y el seccionador abierto, para verificar que el sistema neumático no tenga fugas, para lo cual se 
+desconectan las bobinas de apertura y cierre del interruptor de máquina, esta prueba requiere que se realice el redespacho de esta unidad 
+para los periodos 6 al 11.
+La prueba realizada no muestra ninguna fuga de aire del sistema neumático y se procede a conectar nuevamente las bobinas de apertura y 
+cierre del interruptor. Se cierra el seccionador de máquina y se sincroniza la unidad a las 8:21 horas, con el controlador de unidad en “ stop” . 
+A las 10:26 horas se arranca el controlador de unidad y continúa la unidad en observación hasta las 11:30 horas, momento en el cual se entrega a Operación.
+
+OT 2747187
+
+Realizo Por:
+Ing. Andrés Felipe Ramírez Franco.
+Líder de mantenimiento: Luis Eduardo Arcila  Sepúlveda

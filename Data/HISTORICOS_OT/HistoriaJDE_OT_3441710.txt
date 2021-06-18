@@ -1,0 +1,56 @@
+- FECHA : SÁBADO ABRIL 22 DE 2017
+- PROGRAMÓ : MARIO G. B.
+- REALIZÓ : JEISON ORTEGA - WILFER HINCAPIÉ
+- ASOCIADO A LA OT : 3441710
+- ASUNTO : HACER MANTTO MP
+
+** DATOS DE PLACA
+    - Potencia : 2.4  HP
+    - Voltaje : 440 V
+    - Corriente : 3.9 A 
+
+** Mantto controles 
+    - Mantto interruptor : sí
+    - Mannto contactor : sí
+    - Revisión cableado : sí
+    - Revisión conexiones y tornillería : sí
+
+
+** Mantto motor 
+     - Aislamiento con respecto a tierra : 6.09  Goh
+
+** Valores de voltaje y corriente
+
+     * Valores de voltaje
+     - RS : 474.2 v
+     - ST : 473.9 v
+     - RT : 472.8 v
+
+      * Valores de corriente
+      - Corriente arranque fase R : 16.2 a
+      - Fase R : 3.2 a
+      - Fase S : 3.1 a
+      - Fase T : 3.1 a
+
+** Variables mecánicas 
+      - Temperatura excesiva carcaza : nó
+      - Temperatura excesiva cojinetes : nó
+      - Vibraciones anormales : nó
+      - Ruidos anormales : nó
+
+** Calibración térmicos 
+      - Calibración térmico control : 1 a
+      - Calibración térmico potencia : 4.0 a
+
+** Funcionamiento control normal : sí
+
+** Horómetro : 1024.9 H
+
+** Observaciones 
+      - Medida de aislamiento  tomada con la acometida , equipo utilizado : megger MI 3121H
+      - Arranque de bombeo con nivel en 55 % y paro de bombeo en 2 % 
+      - Tiempo de evacuación : 9:44 minutos
+      - Se realiza pruebas de control en manual y automático , operando normal.
+ 
+      
+   

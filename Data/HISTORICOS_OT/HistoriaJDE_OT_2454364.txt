@@ -1,0 +1,2 @@
+16/01/2014 PROGRAMO MAURICIO QUIJANO
+Se instala horometro nuevo que cambio el proveedor por garantía, el anterior presentaba problemas en el acumulado de horas totales, se ponía en ceros cuando se quitaba la excitación. Se programa con el acumulado de horas TOTALES iniciando en 71599.1 Quedando en observación.

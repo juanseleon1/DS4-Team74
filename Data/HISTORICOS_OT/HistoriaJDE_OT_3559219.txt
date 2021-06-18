@@ -1,0 +1,8 @@
+2017/08/06 RUBEN ARBOLEDA
+En la ejecución de la OT: 3550378 se evidenció una alta temperatura en la entrada del breaker del ventilador S2, se crea esta OT para realizar una revisión y corrección
+
+2017-08-06 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3559219, PASO:1          
+Se realizó mantenimiento correctivo al ventilador S2, se realizó limpieza a las borneras a la entrada del interruptor y se ajusto nuevamente, se dejó en observacion.
+
+2017-08-07 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3559219, PASO:2          
+Se realizó seguimiento e informe termográfico al ventilador S2, quedó en condiciones normales después del mantenimiento correctivo, se anexa el informe a la OT.

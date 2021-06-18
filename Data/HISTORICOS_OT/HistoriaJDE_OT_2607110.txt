@@ -1,0 +1,7 @@
+
+FECHA: SEPTIEMBRE 24 DE 2014
+
+RESPONSABLE: GERMAN ECHAVARRIA Y HENRY GIRALDO
+
+
+Se presenta falla en el contactor 17K2, se inspecciona y se encuentra este elemento pegado, se logra despegar y se realiza megueo de los cables que vienen del generador, se encuentran bajo aislamiento, se procede a desconectar los cables del generador y se meguea este ultimo y da buena medida, se deja detenida para corregir el aislamiento de algunos de los cables que ven entre el 17K2 y el generador.

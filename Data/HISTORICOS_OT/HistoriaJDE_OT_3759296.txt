@@ -1,0 +1,7 @@
+
+2018/09/29 _ CARLOS ENRIQUE MONCADA. OT N° 3759296.
+Se realiza  mantenimiento y limpieza al controlador de unidad de la Minicentral Porce 3, se verifica el cableado de control, se ajustan borneras, la IHM se encuentra en buen estado, se verifican los conectores de las tarjetas ubicadas en la parte trasera de los tableros.
+Realizo: Julio Cesar Parra Lopera.
+
+FECHA:SEPTIEMBRE 11 DEL 2018 PLANEO:LUIS FEDERICO ALVAREZ ALVAREZ, PROGRAMO: CARLOS ENRIQUE MONCADA
+SE REALIZA MANTENIMIENTO ANUAL ELECTRONICOS A LOS PLC TABLERO DE CONTROL UNIDAD CUG Y OTROS CORRESPONDIENTES AL CONTROL DE UNIDAD Y CAUDAL ECOLOGICO.

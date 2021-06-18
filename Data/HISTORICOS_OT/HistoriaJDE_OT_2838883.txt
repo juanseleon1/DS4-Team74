@@ -1,0 +1,16 @@
+2015/08/05
+
+REALIZAR METROLÓGIA A TRANSMISOR DE TEMPERATURA GUIA TURBINA SEGMENTO 1 UNIDAD 2 GUADALUPE 4
+
+2015/08/05
+Se realiza la Inyeccion con el Calibrador de Procesos en diferentes valores de temperatura 55°c, 65°c y 75°c, comprobando la salida correcta hacia el control de unidad, segun el registro de calidad. 
+Se observa un comportamiento normal, segun la curva de verificacion.
+El registro de esta verificacion se encuentra en la siguiente ruta en el servidor:
+
+\\Epm-dc05\2000\2680 A  Guadalupe\GESTIÓN DE CALIDAD\01. Metrologia\3. REGISTRO VERIFICACION\REGISTROS.VERIFICACION.GUADALUPE.4\UNIDAD.2.GUADALUPE.4\250362TEMPERATURA.COJ.GUIA.TURBINA.G4.U2
+
+Programador: Oscar Arango
+Ejecuto: Francisco Gonzalez
+
+
+

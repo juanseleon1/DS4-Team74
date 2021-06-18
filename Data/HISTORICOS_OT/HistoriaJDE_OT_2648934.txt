@@ -1,0 +1,15 @@
+2014-12-10 EDWAR LONDOÑO - SEBASTIAN HINCAPIE
+Se realizó revisión y medidas electricas, se tomó los siguientes registros: 
+
+UMA 10
+OT 2648934
+CORRIENTES:
+R 3,2
+S 3,2
+T 3,2
+VOLTAJES:
+RS 461
+ST 462
+TR 463
+
+La polea de el motor patina, puede ser por desajuste de bandas

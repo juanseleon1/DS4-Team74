@@ -1,0 +1,15 @@
+27/02/2018
+
+Referente al TRV Unidad Nº 3: Por presentar alta presiòn en el sistema hidraulico del regulador de velocidad; se verifica la instrumentaciòn del proceso, se desbloquea la IHM del TUH que se encontraba fuera de servicio para el acseso, se verifica el control y la funcionalidad del PLC y se ajustan los parametros de arranque y paro de la bomba. Quedando asì:                                                                                                   Arranque de la Bomba: 148 bar,   Paro de la Bomba: 155 bar                                                                                           
+  Este proceso queda en observaciòn ya que se podria estar presentando una fuga en el sistema - falla en el presostato que supervisa el lado de alta presiòn en la linea.     
+
+Ejecuta e Informa: Walter Tobòn - Operaciòn Turno 3: Maurcio Ruiz - Camilo Montoya.
+
+08/03/2018
+
+se informa a el personal mecanico sobre esta actividad para definir si queda con este ajuste devido a los problemas que presento en el arranque este sistema. la activiadad queda termanda por parte electronica 
+
+NOTA realizada por Walter Tobon
+
+
+

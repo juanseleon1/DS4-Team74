@@ -1,0 +1,9 @@
+Se crea ot para el registro de tiempos y actividades en la adecuación en las actividades de limpieza y ajuste de la central de Troneras para el mes de enero de 2019
+
+
+Ot: 3796334 - Ajuste y limpieza Tr - Programador: Camilo Montagut - 06/01/2019
+
+Se cierra la ot debido a que el mantenimiento respectivo se gestionara desde una nueva orden desde la plataforma MÁXIMO.
+
+Ejecuta: equipo mantenimiento mecánico UOG
+

@@ -1,0 +1,7 @@
+
+FECHA: SEPTIEMBRE 16 DE 2015  OT: 2879357
+
+EJECUTANTE: PSOLANO Y HGIRALRI
+SOLICITANTE: HENRY GIRALDO
+
+Debido a falla por corriente tiristor al momento de entrar el G2, se revisa el tablero de potencia en la Top Box y se encuentran dos fusibles malos, fase L1 y L2, en el contactor 18K2, se realiza el cambio y se da arranque al AG, al momento de entrar con G2 se falló la bonina de este contactor, por el momento está sin la parte eléctrica este contactor.

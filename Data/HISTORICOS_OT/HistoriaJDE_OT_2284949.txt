@@ -1,0 +1,14 @@
+AE:REALIZAR PRUEBAS ELECTRICAS.  
+
+CON ESTA OT SE REALIZARAN LAS SIGUIENTES PRUEBAS:
+
+COD EQUIPO DESCRIPCION PRUEBA INSTRUCTIVO116269 ESTATOR GENERADOR U3 P2 FACTOR DE POTENCIA GANTE0010116269 ESTATOR GENERADOR U3 P2 INDICE DE POLARIZACIÓN / RESISTENCIA-AISL  GANTE0023116269 ESTATOR GENERADOR U3 P2 RESISTENCIA OHMICA GANTE0019116297 ROTOR GENERADOR U3 P2 SURGE TESTGANTE0024116297 ROTOR GENERADOR U3 P2 RELACIÓN DE ABSORCIÓN DIELÉCTRICA GANTE0018116297 ROTOR GENERADOR U3 P2 RESISTENCIA OHMICA GANTE0019. Los niveles del factor de potencia definen un proceso de degradación del aislamiento medio, sin descartar que las pérdidas asociadas al aislamiento sean altas. La degradación tiene características  a las presentadas en años anteriores.2.  El aislamiento del devanado del estator se encuentra en estado aceptable, tanto en la parte recta que se encuentra en contacto con el núcleo como en las cabezas de bobina, no obstante, la unidad aunque  presenta una tendencia estable en el cambio de las variables monitoreadas, sus valores (factor de potencia), son elevados para el tipo y clase de aislamiento. 
+2.  El aislamiento del devanado del estator se encuentra en estado aceptable, tanto en la parte recta que se encuentra en contacto con el núcleo como en las cabezas de bobina, no obstante, la unidad aunque  presenta una tendencia estable en el cambio de las variables monitoreadas, sus valores (factor de potencia), son elevados para el tipo y clase de aislamiento. 3. Los aislamientos de la unidad han venido presentando un aumento gradual en el valor del factor de potencia desde la fecha que se tiene  registro de estas variables. Los aislamientos se ven influenciados por la temperatura y agentes contaminantes y quizás sean estos quienes inciden en el cambio de la variable evaluada. Se recomienda continuar con el seguimiento de las variables analizadas en el presente informe, con el fin de determinar en el mediano plazo, una intervención, especialmente de limpieza sobre los aislamientos de la unidad, con el fin de contrarrestar los efectos de aumento de la temperatura de operación de los devanados por efecto de la contaminación depositada sobre la superficie de los mismos.4. Se recomienda monitorear los incrementos en los valores referenciados siguiendo el programa de ejecución de este tipo de pruebas, el cual es anual y complementar la información en este informe consignada con las pruebas de descargas parciales.5.Se recomienda tomar como referencia los registros asociados a este informe, con el objeto de realizar análisis de tipo comparativo.
+
+
+ATT. HECTOR DIEGO GONZALEZ SÁNCHEZ - AREA ANÁLISIS E INGENIERÍA EQUIPO ANÁLISIS Y MEJORAMIENTO.
+
+SE CIERRA OT POR CIERRE DE FIN DE AÑO 2013.
+SE DEBE ABRIR NUEVA OT EN EL 2014.
+OSCAR DUQUE
+

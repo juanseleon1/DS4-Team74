@@ -1,0 +1,21 @@
+2018-01-23 REALIZÓ: OSCAR ALIRIO GIRALDO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3664722, PASO:1          
+Se realizo reparación de una lampara en tableros de control de la unidad 6, se cambio el balasto y se dejó en condiciones normales.
+
+2018-02-03 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3664722, PASO:2          
+Se realizó reparación general del alumbrado en casa de maquinas.
+2018-02-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3664722, PASO:3          
+Se realizó reparación general del alumbrado en casa de maquinas.
+2018-04-16 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: S OT: 3664722, PASO:4          
+Se inició con el cambio de iluminación de la caverna principal de casa de maquinas en el piso de supervisión, se realizó cambio de tubos T8 de 32W por tubos tipo LED, para esto fue necesario desmontar la lampara, retirar el balasto y cambiar los casquillos G13, el que tenia es de 1 contacto y los tubos led requieren casquillo G13 de 2 pines separados. 
+2018-04-17 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3664722, PASO:5          
+Se continuó con la reparación del alumbrado general de casa de maquinas, en pasillo de generadores de II etapa, se cambia tecnología T8 de 32W por tipo LED.
+2018-04-18 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3664722, PASO:6          
+Se continuó con la reparación del alumbrado general de casa de maquinas, en pasillo de generadores de II etapa, se cambia tecnología T8 de 32W por tipo LED.
+2018-04-19 REALIZÓ: OSCAR ALIRIO GIRALDO - DANIEL ARANGO (GUADALUPE),  PROGRAMO: RARBOLG OT: 3664722, PASO:7          
+Se continuó con la reparación del alumbrado general de casa de maquinas, en pasillo de generadores de II etapa, se cambia tecnología T8 de 32W por tipo LED.
+2018-04-26 REALIZÓ: SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: RARBOLG OT: 3664722, PASO:8          
+Se realizó adecuación de alumbrado en zona de portal para el vado de radiadores, se dejaron con extensión disponibles para su uso.
+2018-04-30 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME - FERNANDO CASTRILLON,  PROGRAMO: RARBOLG OT: 3664722, PASO:9-9.1       
+Se realizó revisión del contrato de alumbrado en el túnel de acceso a casa de maquinas, ejecutado por la empresa COINSI.
+
+

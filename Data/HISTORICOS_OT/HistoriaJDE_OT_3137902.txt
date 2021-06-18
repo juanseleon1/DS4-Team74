@@ -1,0 +1,32 @@
+MAYO 17 DE 2016:
+
+DESCRIPCIÓN: CORREGIR DESBALANCEO DEBIDO A CAMBIO DE EL POLO 22 Y LA INSTALACIÓN DE UNA PUNTA DE RODETE NUEVA.
+
+MAYO 19 DE 2016
+
+Referente a la unidad # 1
+Se declara disponible la unidad para su explotación, comercial una vez terminada las pruebas de balanceo. Para reducir el desbalanceo fue necesario instalar 2 pesos en el plano superior del rotor.
+10kg a 309° y 31 kg a 69° KPH. (Ejecutó: Ing. Pablo Gomez y equipo de mantenimiento de la UOPO).
+
+Las medidas de desplazamiento de a 135 Mw fueron las siguientes: (PK-PK) 
+
+CSl: 172,82 mm; 
+CSP: 127,17 mm;
+CIL: 157,52 mm; 
+CIP: 160,84 mm; 
+CTL: 90,62 mm; 
+CTP: 130,69 mm. 
+
+Resumen de actividades realizadas en la unidad:
+- Instalación de punta de rodete
+- Mantenimiento semestral 
+- Cambio de polo 22 por bajo aislamiento y reemplazo de los bujes de aislamientos de   las uniones interpolares 
+- Metrología a instrumentación matriculada en el sistema de calidad (equipo de operación y mantenimiento Porce)
+- Pruebas a los Cts., Pts. del generador (ejecuto equipo de protecciones)
+- Se cambian aisladores de las torres de transmisión del banco # 1 como acción preventiva se encontró deterioro del material. Se reemplaza por material cerámico (ejecuto: personal de mantenimiento de líneas de trasmisión)
+- 
+Se cierra consignación #: 122585
+OT #:3034490
+Horas de servicio: 76096
+Ejecuto: equipó de operación y mantenimiento
+Informa: ing. Santiago Ramírez 

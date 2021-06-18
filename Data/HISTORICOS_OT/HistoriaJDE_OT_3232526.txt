@@ -1,0 +1,13 @@
+03/09/2016. MAURICIO RUIZ
+
+LOS INSTRUMENTOS CP003 Y CP004 ESTAN FUERA DE RANGO
+
+03/09/2016
+
+Se realiza verificación de los instrumentos CP003 Y CP004 los cuales son de presión entrada y salida agua intercambiador en el TLCT, se ajustan y verifican estos instrumentos los cuales son de 0 a 5 bar la razón de la falla es la medida que tiene el sistema el cual se encuentra entre 5.4 y 5.2 bar alarmando estos instrumentos, se recomienda verificar por el grupo mecánico este sistema y realizar cambio de intercambiador en el TLCT.
+
+el personal mecanico revizara la presiones de todo el sistema, esta es la causa de la falla 
+
+Realizado por Wtobonl
+
+Terminada Cerrar 

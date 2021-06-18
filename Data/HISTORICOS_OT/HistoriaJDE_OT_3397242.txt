@@ -1,0 +1,13 @@
+
+
+14/02/2017
+Se activó la alarma y el disparo del relé Buchholtz a las 6:10 a.m. ocasionando el disparo del interruptor G250 de la subestación 230kV.
+Ya que la unidad 2 está indisponible y a la espera de un mantenimiento mayor, se inhabilita la señal de la alarma y el disparo de forma manual para volver a dejar disponible el diámetro. (Ejecuta Juan Carlos Yarce)
+Ya que el transformador está desenergizado, se atribuye el disparo a la presencia de aire en el relé.
+Se sabe que el relé está fisurado, por lo que se hará una OT hija para el cambio del relé por el del transformador de reserva. (Rafael)
+
+15/02/2017
+Se solicita elaborar muestreo de aceite para envío a pruebas fisicoquímicas a EATIC (Medellin)(Ejecuta Victor)
+
+11/05/2017 MARITZA BACCA
+SE INSTALÓ Y CONECTÓ EL RELÉ BUCHOLTZ, YA SE HIZO TODO EL AJUSTE.

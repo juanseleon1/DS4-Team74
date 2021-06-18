@@ -1,0 +1,24 @@
+Se crea ot para el registro de tiempos y actividades en el mantenimiento preventivo del malacate
+
+Ot: 3049493 - Mantenimiento preventivo malacate - Programador: Camilo Montagut - 15/03/2016
+
+Se realiza mantenimiento preventivo en los equipos del malacate. A continuación se registran las tareas ejecutadas:
+
+ - Verificación parámetros básicos de funcionamiento. A continuación se registra la información recolectada luego de 20 minutos de operar el funicular del malacate:
+
+Velocidad del funicular: 0.40 m/s
+Torque (subida) del funicular: 236 Nm
+Temperatura del aceite en la caja reductora: 20 °C
+
+ - Inspección sistema frenado. A continaución se registran la información recolectada.
+
+Espesor pasta freno de servicio: 5 mm
+Presión del tanque acumulador freno de servicio: 136 bar
+Espesor pasta freno de emergencia: 7 mm
+Presión del tanque acumulador freno de emergencia: 139 bar
+
+Nota: se realizan paros del malacate utilizando los dos frenos sin registrar novedades algunas en su funcionamiento
+
+ - Toma de medidas del cable en diferentes tramos de su longitud: El cable se encontró con un valor de 49 mm casí en su totalidad, sin embargo se registra que se evidenciaron algunos tramos con un diámetro de 48 mm
+
+ - Inspección de de la caja de engranajes. Se retira la tapa del reductor y se verifica el estado de los engranajes encontrándose en muy buen estado. Queda pendiente realizar muestreo del aceite y realizarle análisis de laboratorio 

@@ -1,0 +1,14 @@
+ENERO 2015
+REALIZARVERIFICACION  METROLÓGICA A TERMOMETRO METAL COJINETE GUIA TURBINA PAJARITO.
+
+ENERO 16/2016 OT: 2744481 PLANEADOR: WGARCIAC
+COJINETE GUIA RADIAL 1
+PATRON           METAL 
+60ºC                    59ºC                  
+70ºC                    69ºC                  
+80ºC                    78ºC                                           
+Valor programado alarma metal 65ºC                   
+Valor programado disparo metal 75C
+
+NOTA: NO SE REPORTA TIEMPO YA QUE ES PARA REGISTRO DEL SISTEMA DE CALIDAD
+

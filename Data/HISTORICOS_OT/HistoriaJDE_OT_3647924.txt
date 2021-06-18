@@ -1,0 +1,13 @@
+2017/11/21 RAFAEL SEGOVIA CARO
+Se realizan los trabajos de instalación del nuevo controlador EATON en la bomba Jockey del sistema contraincendio Biomax. De acuerdo con indicación del operador (Juan David), la bomba quedó arrancando en 70 psi y parando en 150 psi.
+Queda pendiente para la próxima semana el cambio de los fusibles del lado de alta (Fu-alta) del transformador de control 50VA.
+Igualmente se instaló DPS para protección del controlador por sobretensiones.
+
+2017/11/20 YESID MARTINEZ
+El día de mañana 21/11/2017 estaremos en las instalaciones de Biomax verificando las condiciones para la instalación del controlador:
+
+·Comprobar el estado de la puesta a tierra del tablero y referencia del neutro de control.
+·Cambiar los fusibles de control.
+·Configuración y pruebas del nuevo controlador.
+·Adicionalente vamos a instalar DPS para protección contra sobretensiones.
+

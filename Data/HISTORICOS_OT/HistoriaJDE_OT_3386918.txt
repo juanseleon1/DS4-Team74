@@ -1,0 +1,15 @@
+FELLA.04-02-2017
+SOLICITANTE:FERNANDO GOMEZ M
+POR FAVOR REVISAR EL FILTRO AUTO LIMPIANTE DEL SISTEMA DE REFRIGERACION U2 EL CUAL NO RESPONDE DEL COMANDO DE ARRANQUE,GRACIASFELLA.04-02-2017
+SOLICITANTE:FERNANDO GOMEZ M
+
+PLANEADOR:JOHNSON GOMEZ
+FECHA :FEBRERO 4 DE 2017
+EJECUTANTE:VICTOR ZULETA
+FECHA :FEBRERO 4 DE 2017
+SISTEMA DE FILTRO UNIDAD  2
+
+Según el requerimiento de las ordenes de trabajo 633909 y 380906 de las unidades 1, 2 respectivamente se denota:
+Se encuentra equipo bloqueado de cada unidad, por accionamiento del pulsador NO (72S7) referente a Filter System Stop mientras esta en operación, por lo cual, inhibe la orden del proceso de fluching para la autolimpieza del filtro.
+Se normaliza reseteando la entrada DI 07 asociada al PLC siemens ubicado en el tablero de control, retirando de manera momentánea el cable del pulsador NO (72S5) referente a Filter Start.
+El sistema queda de forma operativa en las dos unidades.

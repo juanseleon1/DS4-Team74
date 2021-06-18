@@ -1,0 +1,3 @@
+Reporte: Jeison Julian Suarez
+Fecha: 28 de Abril de 2017
+Síntoma: El sistema de potencia para el acelerografo esta quedamdo (Regulador corta picos y proteccion AC polyphaser), Ya se tiene el reemplazo de estos equipos en bodega, se deben instalar para adecuar la energia AC del acelerografo.

@@ -1,0 +1,4 @@
+
+NOVIEMBRE 24/2018 OT: 3788262  PROGRAMÓ: HGIRALRI EJECUTÓ: HENRY GIRALDO, GERMAN ECHAVARRIA
+
+Se revisa el estado del contactor 17K2, fue necesario destaparlo por partes y despegar con palanca la fase L2 que se encontraba pegada, se prueba que energice la bobina, pero no funciona, se coloca el bloque de bobina y contactos de un contactor nuevo

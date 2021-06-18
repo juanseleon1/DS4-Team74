@@ -1,0 +1,6 @@
+MP ANUAL:- 300797 CELDA +L01 INTERRUPTOR U1 TR - 300798 CELDA +L02 INTERRUPTOR U2 TR
+
+JORGE ALIRIO HERNANDEZ QUINTERO 18/09/2017
+
+Se realizó el mantenimiento según el instructivo anual. 
+Se realiza mantenimiento preventivo a los diferentes componentes eléctricos y mecánicos, se ajustan conexiones de potencia y de control, se realizan pruebas de resistencia de contactos.

@@ -1,0 +1,18 @@
+Planeador: Uriel Casas
+Aprobador: Juan Alejo Osorio
+Fecha de creación: 01/09/2017
+Tipo de mantenimiento: preventivo
+Acciones de mantenimiento preventivo a realizar: 
+ Recorrido por los componentes de la presa; 
+§Cresta 
+§Talud aguas arriba
+§Talud aguas abajo 
+§Estribos 
+§Vertedero 
+§Compuertas (descarga de fondo) 
+ Realizar lectura de la instrumentación; 
+§Piezómetros
+§Pozo de observación 
+§Vertedero de aforo 
+§Acelerógrafos
+ Descargar la información en la base de datos de seguridad de presas.

@@ -1,0 +1,18 @@
+PREVENTIVO ELECTRICO MOTOR BOMBA # 1 REGULADOR HIDRAULICO GENERADOR GUADALUPE III.
+FEBRERO 20 DE 2018
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo a la bomba #1. Se revisaron todos los puntos de conexion, de control y de potencia, se realizaron pruebas de aislamiento, toma de datos de corrientes y voltajes, se hizo inspeccion y limpieza al motor y a todo el gabinete de control. 
+
+Nota: estos fueron los datos obtenidos de las pruebas realizadas:
+
+VOLTAJEFASE VOLTIOSR - S449S - T453T - R449 
+CTE. DE ARRANQUEFASE AMPERIOSR164S168T151
+CTE. DE TRABAJOFASE AMPERIOSR7.6S6.3T7.3
+AISLAMIENTO / TIERRAFASE GR2.93S3.46T4.06
+Ejecuto: Luis Correa-Sergio Areiza
+Programo: Carlos Andres Forero
+Planeo: Oscar Restrepo 
+ 
+
+
+

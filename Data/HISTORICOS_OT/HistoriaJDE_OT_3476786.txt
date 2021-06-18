@@ -1,0 +1,10 @@
+XE: INSPECCION Y MEDIDAS GENERALES DE LAS MOTOBOMBAS DE REFRIGREACION PARA LOS GENERADORES DE GUATAPE.
+
+2017-05-20 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476786, PASO:1          
+Se realizó mantenimiento al motor de motobomba cw9 refrig u8 gt    CORRIENTE: R:54,8, S:51,9, T:53,5, VOLTAJES RS:450,2, ST:447,9, TR:452,3,TEMPERATURA MAXIMA DE MOTOR 64,4°C 
+
+2017-06-01 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3476786, PASO:2          
+Se realizó informe termográfico a la MOTOBOMBA CW9 REFRIG U8 GT, se evidenció punto caliente: 
+La temperatura de la peineta de Salida se encuentra en el nivel 4 de los parámetros establecidos en la tabla de clasificación de fallas eléctricas según LOS CRITERIOS NETA, donde Delta T° = 30.9°C, lo cual indica que presenta
+una deficiencia mayor en su funcionamiento, se debe realizar el correctivo, ademas revizar las conexiones y mejorar el contacto. Las corrientes y voltajes medidos están dentro de los parámetros normales de operación.
+Se hace OT correctiva: 3531719

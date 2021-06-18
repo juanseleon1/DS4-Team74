@@ -1,0 +1,2 @@
+2018/11/13 RUBEN ARBOLEDA
+Se crea OT para realizar la conexiones de las señales de temperatura y vibraciones de la motobomba CW4.

@@ -1,0 +1,15 @@
+2019/01/17 RUBEN ARBOLEDA
+Se crea OT para realizará el cableado del relé de protecciones, éste relé se instaló en la OT: 3795609.
+
+2019-01-20 REALIZÓ: JUAN DAVID GARCIA - FERNANDO ANTONIO RUIZ,  PROGRAMO: RARBOLG OT: 3802639, PASO:1          
+Se realizó el descableado del relé de protecciones de la motobomba 2 de la clara.
+
+2019-01-28 REALIZÓ: JUAN DAVID GARCIA - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3802639, PASO:2          
+Se realizó el cableado de la motobomba 2 de la clara.
+
+2019-01-31 REALIZÓ: JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3802639, PASO:3          
+Se realizó adecuación de tierra para el relé de protecciones nuevo.
+
+CONCLUSIONES DEL INFORME
+A partir de los resultados obtenidos en las pruebas de desempeño al sistema de protecciones eléctricas del sistema de bombeo La Clara perteneciente a la central hidroeléctrica Guatapé, es posible concluir que este cumple con los criterios de confiabilidad, seguridad y tiempo de respuesta esperados según los ajustes programados.
+Se anexa el informe a la OT.

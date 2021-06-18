@@ -1,0 +1,18 @@
+01/10/2018
+Prueba de protocolo de disparos interrutor de maquina unidad 3 de Guadalupe 4, Banco 2 de transformadores.
+
+PLANEADOR: CARLOS GIORDANELLI
+
+01/10/2018
+
+Se revisan señales del bloque de contactos 52-2 (interruptor de maquina), las cuales ocasionan disparo al generador y al banco 2 de transformadores de potencia, cuando se hacen maniobras en el interruptor con maquina parada, se identifica señal de indicacion de estado del interruptor conectada al rele de protecciones del generador, y se establece procedimiento para ejecutar maniobras en el interruptor cuando la unidad este en mantenimiento; sin que esto ocasione disparo al banco 2 de trasformadores de potencia.
+
+Este procedimiento describe las pruebas realizadas en la unidad 3 de GIV, para realizar dicho procedimiento en las unidades 1 y 2, se debe verificar las señales descritas según los planos de cada unidad.
+
+1.Abrir seccionador de máquina.
+2.Poner selector 43-52 ubicado en el recinto de interruptor de maquina (gabinete +HAC.2) en posición examen.
+3.En el recinto del interruptor de maquina (gabinete +HAX.2), desconectar línea en bornera -x4 borne 25 (PL: GIV-PU3-03, H3320A/2A). Esta línea corresponde a la señal que activa el relé -KCB52; el cual es el encargado de llevar la indicación de posición del interruptor de maquina al relé de protecciones del generador (SEL-300G). Referirse a PL: GIV-PU3-03, 
+H 3322/2A 
+4.Una vez ejecutados los 3 paso anteriores, se pueden realizar maniobras en el interruptor de máquina.
+
+PROGRAMO: Luis Adrian Cardona - Jose Montoya

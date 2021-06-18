@@ -1,0 +1,18 @@
+JULIO 30 DE 2018
+
+SE PROGRMA Y PLANEA EL RETIRO DEL TRANFOMADR CON NUMERO SERIAL 570521 INSTALADO EN LA FASE R DEL BANCO 6, E INSTALAR EN TRANSFORMADOR YA REPARADO POR EXPLORER CON SERIE 01.2.4003 Y QUEDAR CON LOS TRES TRANSFORMADORES YA REPARADOS Y DEFINITIVO.
+
+INFORMA: OSCAR RESTREPO.
+
+AL TRASNFOAMDRO REPARADO SE LE CAMBIA EL DEVANADO DE BAJA DE MANERA PREVENTIVA POR ANTECEDENTES DE FALLA EN ESTE ELEMENTO POR PERDIDA DE AISLAMEINTO.
+
+AGOSTO 6 DE 2018
+Se entrega el transformador reparado con serie 01.2.4003 por la empresa contratista EXPLORER en el patio de transformadores de Guadalupe 3 con sus respectivas pruebas eléctricas por parte del contratista, obteniendo buenos resultados.
+
+Se procedió con la inserción del transformador a la fase R despues de haber retirado el transformador ASEA del banco con la colaboración de equipo electromecánico adecuado para hacer el movimiento del trafo y con el apoyo del grupo mecánico de la U.O.G. 
+Ya estando el transformador en su sitio se le vuelven hacer las pruebas eléctricas para garantizar que en el desplazamiento no se haya generado algún movimiento brusco y daños al devanado.
+Se comienza a colocar los cables de tierra a la cuba, conexiones por alta, baja y su respectivo conexionado a la caja de control.
+Una vez conectado el transformador por alta, baja y su caja de control, se procedió hacer la verificación del control, instrumentación y los protocolos de alarmas y disparos de las protecciones del transformador.
+Se lleva la unidad hasta giro mecánico, se programa el regulador de tensión y se comienza con la energización en vacío paso a paso del banco de transformadores con el regulador de tensión en modo manual automático, subiendo la tensión desde el 10% hasta llegar al 110%, de acuerdo al procedimiento que se tiene para la prueba. Se des energizar de la misma manera y gradualmente hasta llegar a cero.
+Luego de este procedimiento se normaliza el regulador de tensión y se deja en remoto automático, se sincroniza la unidad y se comienza a subir potencia paso a paso desde el 25% hasta llegar al 100%, cada 15 minutos se evaluar durante el proceso de carga ruidos anormales, se monitorean temperaturas y comportamiento de las protecciones del banco de transformadores.
+Despues de estar trabajando en maxima potencia 24 horas se realiza pruebas de Rigidez diélectrica y se toman muestras de aceite para analisis cromatograficas y fisicoquimicas y se envía para el laboratorio EATIC.

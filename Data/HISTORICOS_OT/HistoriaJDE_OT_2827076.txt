@@ -1,0 +1,7 @@
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+XL: REVISION, MTTO Y LIMPIEZA
+
+Tablero control compuertas ritmeyer
+
+Realizar mantenimiento plc del tablero de control ritmeyer de las compuertas radiales, además de transductores de medida de las galerías y de la presa en torre de captación.

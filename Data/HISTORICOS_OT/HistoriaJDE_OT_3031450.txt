@@ -1,0 +1,5 @@
+LIMPIEZA Y REVISION REGULADOR HIDRAULICO UNIDAD GENERACION GUADALUPE 3
+
+Se realizó mantenimiento según orden de trabajo, se revisa el tablero de  los drivers de las agujas y las tarjetas que comandan los actuadores  se encontraron bien, se verifica todo el lazo de control de los inyectores haciendo movimientos  de apertura al  75%, al 50% y al 25% y respondieron correctamente, también se realiza un ajuste al deflector y a la válvula distribuidora. Y quedan funcionando bien.
+
+Realizo: grupo de electronica

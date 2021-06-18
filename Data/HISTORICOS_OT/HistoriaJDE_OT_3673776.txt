@@ -1,0 +1,12 @@
+ENE 31/2018 PROGRAMO: JGUINGUER EJECUTÒ: ALEXANDER VILLA
+SE REALIZO MANTENIMIENTO E INSPEPECCION A LA INSTRUMENTACION  DEL TRANSFORMADOR DE POTENCIA, SE REALIZA METROLOGIA  IMAGEN TERMICA DEVANADO DE ALTA  Y ACEITE
+PATRON            ACEITE        DEVANADO
+65ºC                    64ºC               66ºC             
+85ºC                    84ºC               85ºC             
+100ºC                  99ºC               100ºC    
+Valor programado alarma aceite: 80ºC
+Valor programado disparo aceite: 90ºC 
+Valor programado alarma devanado: 90ºC
+Valor programado disparo devanado: 95ºC  
+
+          

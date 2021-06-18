@@ -1,0 +1,25 @@
+MAYO 29 2014 
+
+Descripcion evento
+Desde las 4:43 am se cierra V. HB sin razon aparente y queda sin caudal ecologico hasta las 7:00 am cuando el personal de operacion se percata del cierre. Inmediatamente arrancan minicentral.
+
+Acciones y atencion
+En revision en sitio de la posible causa de la falla, se observa en IHM valvula fallada, al resetear esta intenta abrir al no conseguirlo, sale falla Tiempo excedido apertura y vuelve a fallar. Al intentar hacer la apertura manual de la valvula (poniendo perilla en manual, poniendo la perilla de la unidad oleohidraulica en abrir) accionando el mecanismo hiraulicao (palanca) se obseva que no llega presion y no abre la valvula HB. Se presume entonces falla u obstruccion en la valuvla biestable y se procede a resetear el spool, despues de hacerlo se pone la perilla de control en modo automatico y la valvula HB inicia el proceso de apertura normalmente y hace el ciclo de apertrura-cierre-apertura existosamente sin problema.
+
+Media hora mas tarde, vuelve  a fallar la V.HB, se arranca de nuevo la minicentral y se hace la revision. Al desconectar las señales de cierre y apertura que van del PLC a la valvula biestable se observa que el comando de cierre esta enganchado registrando 24Vdc, en pruebas manuales en la IHM de cierre y apertura, se logra quitar la señal enganchada, se conecta de nuevo, se pasa a modo autoamtico e inicia de nuevo la apertura sin problemas. La valuvla se deja abierta con 2.15 m3/s en modo manual para que no haya cierre involuntario por ninguna causa hasta que se de solucion al problema.
+
+Haciendo el analisis en los palnos de control se observa que el rele K19 esta asociado al cierre de la valvula, se presume que éste esté falllando y se quede enganchado aun cuando el PLC ya dejó de enviar la señal. Estas pruebas para verificar esta teoria esta pendiente y se pretende continuar despues del mtto de junio. 
+
+La idea es poner de nuevo el sistema en automatico y estar presente esperandoo a que falle, observar si el rele K19 se quedo enganchado y medir en salida de PLC si existe los 24Vdc o si solo esta presente en el rele para descartar falla en PLC y proceder al cambio o reposicion del rele.
+
+Informa: Sandra Carmona
+Ejecuta: Sandra Carmona, Santiago Ramirez, Carlos Sanches, Eladio Piedrahita
+
+16\07\2014
+
+Este envento fue atendido ya la cuasa de la falla fue que la valvula de cierre quedo pegada y el control no pudo accionar el cierre de la valvula, se realian pruebas con la mini central y la valvula, el control del caudal queda en automatico y operativo.
+NOTA:en lo posible se deben realizar acciones correctivas lo mas pronto posible para evitar colocar este control el modo manual.
+
+TERMINADA CERRAR
+
+Realizado Por Wtobonl

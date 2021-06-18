@@ -1,0 +1,6 @@
+FECHA: MARZO 2 DE 2014
+
+EJECUTO: PEDRO ROBAYO
+
+
+Se calibra la presión en los tip en el AG8 que estaba en 75 BAR y se deja en 79 BAR

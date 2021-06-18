@@ -1,0 +1,10 @@
+
+ 03/082016. SERGIO OLIVARES D.
+
+ Medidas: Corriente: R =1, S= 0.9, T= 0.9.
+                              Voltajes: RS=463, ST= 464, RT= 462
+                              Aislamiento: 854 M
+                              Horómetro: 128645.
+            Se encontro todo normal.
+
+  

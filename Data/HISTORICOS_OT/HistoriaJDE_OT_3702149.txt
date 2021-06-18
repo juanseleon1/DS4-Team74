@@ -1,0 +1,12 @@
+
+FAVOR REVISAR EL PUENTE GRUA YA QUE ESTE NO OBEDECE A LAS ORDENES DE LOS CONTROLES REMOTOS 
+
+
+20/03/2018
+
+se realiza verificacion de los PLC del puente grua 1 y 2, se encuentra con problemas en el programa se hace necesario descargar actualizacion del programa y quedan normalizados.
+se realiza nota a los electricistas para verificar las UPS de estos puente gruas ya que no estan trabajando 
+
+REALIZADO POR GRUPO ELECTRONICO 
+
+TERMNADA CERRAR 

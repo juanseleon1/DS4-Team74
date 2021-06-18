@@ -1,0 +1,4 @@
+2017/12/13 FARLEY GIOVANNY DIAZ
+Se realiza la inspección visual, medidas de voltajes, estado de los relés en modo aplicados y desaplicados y se revisa señalización con respecto a la planilla.
+2017-12-13 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - FERNANDO ANTONIO RUIZ,  PROGRAMO: FDIAZ OT: 3651682, PASO:1          
+Se realizó mantenimiento prevenitivo a la Unidad 2, se realizó revision de los sensores de los frenos, se encontró en condiciones normales

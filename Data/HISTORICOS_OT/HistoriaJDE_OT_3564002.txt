@@ -1,0 +1,5 @@
+
+17/08/2017. SERGIO OLIVARES D.  -- O.T. 3564002
+
+ Los bloqueos y desbloqueos los realizo el jefe de trabajo Ing. Juan Carlos Granados B. Al entrar la unidad se tubo  problemas con la aplicacion de frenos con máquina parada, que recibia del equipo controlador de velocidad JAQUE, mayor
+ velocidad al 0.5 %, se limpiaron los sensoresde velocidad y se corrigio el problema, se encontraban sucios. La maquina  arranco sin mas problemas. 

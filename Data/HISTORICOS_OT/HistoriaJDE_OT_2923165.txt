@@ -1,0 +1,53 @@
+
+- IMPORTANTE : SE HACE ESTA OT COPIA DE LA OT MECÁNICOS PORQUE HACE MUCHO TIEMPO QUE EL SISTEMA NO LAS ESTÁ 
+   SACANDO DE FORMA AUTOMÁTICA.  ENTRE LOS PUNTOS A TRATAR EN LA REUNIÓN DE ONEWOLRLD ESTÁ ESTE Y OTROS .
+- NOTA : DURANTE EL AÑO 2015 NO ESTÁ SALIENDO EL MP 
+
+
+--  Fecha :jueves noviembre 12 de 2015
+- Realizó : Francisco Quintero - Mario Restrepo 
+- Programó :Mario Gonzalez
+- asociado a la ot : 2923165
+- asunto: esta ot se deja en estado 35  , es espera de ejecución , hasta poder contar con personal de mantto y tiempo para
+                  poder ser ejecutada.
+
+
+- DATOS DE PLACA :   POTENCIA :  48 HP          V:   440               I:62 A
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor: sí          
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 1.22 Goh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  473 v
+       ST =  472 v                                                                 
+       RT =  473 v
+       Corriente de arranque:  
+Fase R = 152.2 a
+       Corriente de marcha:  
+Fase R = 44.3 a
+Fase S =  45.2 a 
+Fase T =   44.4 a                                                                              
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes: nó
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 2 a                       Calibración térmico potencia : 100 a
+
+4. Funcionamiento control normal: sí
+
+5. Horómetro = 21652
+
+6. Observaciones:Se hace ajuste de borneras control y potencia . También se realizó el instructivo para las nuevas 
+                                    planillas de consignación y después de la modernización.
+                                    IMPORTANTE : se retiraron todas las tapas de los tableros del MCPC4 correspondientes a las 
+                                    bombas de refrigeración para realizar una muy buena limpieza interna a el cubículo.
+                                    Igual se hizo limpieza al gabinete de control y potencia 
+                                    Adicional se hizo ajuste a las borneras y conexiones 
+                                    

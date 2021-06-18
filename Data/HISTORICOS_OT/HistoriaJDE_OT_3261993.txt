@@ -1,0 +1,13 @@
+29/09/2016
+Solicitante:Turno 1 
+El SEL 2505 que permite la comunicacion remota de camara de valvulas GIV a Casa de maquinas esta alarmado.esta recibiendo y transmitiendo , la indicacion de valvula mariposa abierta no la esta mostrando. 
+
+06/10/2016
+Se esta a la espera de salir en baja carga (programa de generacion en 0MW)para ejecutar el trabajo de verificacion y/o cambio de fibra optica que conecta los SEL 2505 desde casa de maquinas G4 hasta Camara de valvulas.
+
+Planeador: Oscar Arango
+
+16-10-2016
+Programador : jose montoya
+Por oportunidad de despacho cero se realiza verificacion de las fibras optica desde tablero en guadalupe IV hasta el tablero de camara valvuala Guadalupe IV, adicionalmente se realiza reset a los dos rele 2505 y queda trabajando bien.
+Ejecuto Fredy Duarte y Gonzalo Ardila

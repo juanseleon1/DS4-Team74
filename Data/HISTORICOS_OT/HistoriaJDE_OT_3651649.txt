@@ -1,0 +1,16 @@
+2017/12/12 FARLEY GIOVANNY DIAZ
+Se realiza la inspección visual, medidas de aislamiento al Rotor + Barraje, Barraje y Rotor antes y después de limpieza, se realiza Resistencia Ohmica, Inductancia y Capacitancia se registran en planilla e identificar fallas del rotor con estas variables.
+
+2017/12/05- REALIZO: JHONATAN USME - JEISON ORTEGA- OT: 3651649
+ANTES DE LIMPIAR: 
+ROTOR Y BARRAJE: 124 M
+ROTOR: 151 M
+BARRAJE323 M
+DESPUES DE LIMPIAR:
+ROTOR Y BARRAJE: 385 M
+ROTOR: 430 M
+BARRAJE: 1,83 G
+RESISTENCIA OHMICA: 261,3 m
+INDUCTANCIA: 393 mH
+CAPACITANCIA: 4,51 nF
+Se anexa la planilla a la OT.

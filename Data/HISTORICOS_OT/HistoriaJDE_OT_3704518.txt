@@ -1,0 +1,11 @@
+26 DE MARZO DE 2018.
+LA UNIDAD # 2 NO DA CONDICIONES DE ARRANQUE. SE REVISA Y PRESENTA PROBLEMAS EN PLC DEL CCM2. 
+
+
+26/03/2018
+
+UNIDAD 2 CCM2 (Centro control motores 2).                                                                                                                                                               Sistema de refrigeración, se encuentra el sistema y PLC detenido (stop), se verifica el programa y se encuentra fallas en tabla de la CPU. Se actualiza y borran las fallas de la CPU. Se inicia la CPU en RUN y queda normalizado el proceso.
+
+REALIZADO POR WTOBONL 
+
+TERMINADA CERRAR

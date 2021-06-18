@@ -1,0 +1,6 @@
+PLANEADOR:OSCAR RESTREPO
+MARZO 2 DE 2017
+PROGRAMADOR: JOSÉ MONTOYA
+MANTENIMIENTO INSTRUMENTACION VALVULA DE ADMISION GUADALUPE 4
+Se realizó limpieza general del tablero de control de la válvula.
+Se realizó inspección y limpieza a los sensores y conectores de la válvula de admisión.

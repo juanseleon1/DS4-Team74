@@ -1,0 +1,8 @@
+
+FECHA: OCTUBRE 22 DE 2015  OT: 2913449
+
+EJECUTANTE: HENRY GIRALDO
+SOLICITANTE: HENRY GIRALDO
+
+
+Se presenta falla en el circuito de trabajo del contactor 18K2, se inspecciona y se encuentran fallados los fusibles de 355A de la fase L1 y L2, se realiza el cambio y se deja en servicio el aerogenerador.

@@ -1,0 +1,15 @@
+PREVENTIVO CALEFACCION GENERADOR GUADALUPE 4
+-----------
+
+
+REALIZÓ:  DIEGO QUICENO - -SEBASTIAN PEREZ
+
+RESISTENCIA OHMICAFASE OHMIOSR-S 52,5S-T 50,7T-R 16,4
+
+Se realizó el mtto preventivo según el instructivo.
+
+Fueron realizadas las pruebas eléctricas a la calefacción, se toman las medidas de resistencia óhmica, de voltajes y corrientes, se hace limpieza.  
+
+NOTA: Se encuentran resistencias malas en 2 bancos (1 y 4). Los pilotos luminosos del tablero de calefacción no funcionan. 
+
+-----------------------------

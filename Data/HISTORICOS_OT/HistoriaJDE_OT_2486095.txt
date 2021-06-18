@@ -1,0 +1,9 @@
+PLANEADOR: ANDERSON GARCIA VASQUEZ: MARZO 08 /2014.
+DESMONTAR INSTRUMENTACION COJINETE SUPERIOR
+
+08/ABRIL/2014
+Se realiza la desconexion y el desmontaje de las RTD 1 y 2 de Aceite, previamente se identifico y se marco cada RTD.                                                   Se desconectan y se retiran la  RTD´s  de los Segmentos metal  Guia  1,6,10 y15 del Cojinete.                                    
+Se desconectan y retiran los sensores de vibracion Paralelo, perpendicular y axial, con sus respectivas extensiones.
+Se realiza la desconexion de los cables encauchetados que van desde la caja de emplame de las RTD del Coj. Superior hasta la Bandeja, ubicada a un costado de la Mensula.
+
+Ejecuto: Fredy Duarte - Francisco Gonzalez

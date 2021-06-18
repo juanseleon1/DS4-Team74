@@ -1,0 +1,11 @@
+PREVENTIVO INSTRUMENTACION COJINETE TURBINA UNIDADES DE GENERACION 1 Y 2 GUADALUPE 3
+
+PLANEADOR:OSCAR ARANGO
+
+PROGRAMADOR:LUIS CARDONA
+
+Se revisan sensores de vibración asociados al cojinete de turbina, quedan ajustados así: CTPL 9.18VDC, CTPR  899VDC   -
+KPH: 9.14VDC.
+Nivel cojinete de turbina se encontró en:194.5 mm el nivel patrón es: 180mm 
+-Se realizó inspección visual y limpieza a RTDs asociadas al equipo 
+NOTA: RTD de temperatura metal 4 está abierta en sus 2 compensaciones, por lo que se encuentra desconectada desde bornera, queda pendiente para realizar cambio en próximo mantenimiento anual.

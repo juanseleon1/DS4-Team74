@@ -1,0 +1,22 @@
+PLANEADOR. OSCAR RESTREPO ALVAREZ
+PROGRAMADOR: YOFRED BERNARDO RODRIGUEZ VAHOS
+
+
+ABRIL 02 DE 2014
+
+
+
+ESTA OT INCLUYE :
+
+
+EM: Inspeccionar Rodete
+Instalar compuerta en la descarga de la máquina a intervenir;
+Drenar Azud
+Abrir la compuerta de acceso al recinto del rodete;
+Instalar el andamio de inspección de rodete en el tubo de aspiración
+Controles dimensionales en el centrado de la maquina ,galguear laberinto de la rueda inferior
+Desmontar andamio de inspección
+Cerrar compuerta de inspección
+Llenar azud
+Extraer compuerta de descarga
+

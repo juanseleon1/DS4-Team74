@@ -1,0 +1,10 @@
+AGOSTO 31   DE 2018  PROGRAMO:  JAIRO GUINGUER EJECUTO: ANDRES YEPES OT: 3722838 REGULADOR ELECTRONICO RV
+Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control RV Power del Sistema Regulación de Velocidad.
+Ajuste y limpieza sensores de velocidad y posición en el sistema de regulación de Velocidad.  
+
+Tablero: Regulador de Velocidad Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 741183.1 0.2 2.1 5 281183.8 3.7 28 51 26.5121184.5 7.5 50 100 50161185.25 11.5 75 150 74201186 15 100 200 100
+Instrumento 1: Nivel tanque (msnm)
+Instrumento 2: Potencia Activa (MW)
+Instrumento 3: Apertura (%)
+Instrumento 4: Velocidad (%)
+Instrumento 5: presión aceite (bar)

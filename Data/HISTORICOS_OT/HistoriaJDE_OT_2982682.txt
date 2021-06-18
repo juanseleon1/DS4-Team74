@@ -1,0 +1,2 @@
+2016/01/08 GRUPO MANTENIMIENTO ELECTRICO - ADONIS CADAVID - RUBEN ARBOLEDA -  OT: 2982682
+Se realiza el cambio de relé de protección diferecnia de marca ABB, referencia 551 por unos de marca SEL referencia 311L, se instala uno en subestación y uno en casa de maquinas, adicionalemtne se realizó la adecuación de conectores de fibra optica y se ejecutaron pruebas de alarmas y disparos, tambien se realizó adecuación electrica para prueba de corto circuito e identificación de angulo de fase correcto en los tranfosrmadores de corriente, se dejó en servicio normal.

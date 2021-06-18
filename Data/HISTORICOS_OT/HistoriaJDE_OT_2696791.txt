@@ -1,0 +1,10 @@
+REFERENTE AL REGULADOR DE TENSION UNIDAD 6 GUADALUPE 3.
+
+AL PASAR EL REGULADOR DE TENSON A REMOTO/AUTOMATICO, ESTE NO RESPONDE A LAS CONSIGNAS DE MEGAVARES INGRESADAS DESDE EL CENTRO DE CONTROL GUADALUPE. SE REQUIERE VERIFICAR ESTO YA QUE PARA SUBIR O BAJAR MEGAVARES SE DEBE HACER DE FORMA LOCAL DESDE EL REGULADOR DE TENSION.
+
+INFORMÓ: TURNO #1 OPERACION GUADALUPE 3
+
+13-02-2015
+se coloca la maquina en control individual, se reapretan las borneras de la rio 010, se revisan los fusibles de los canales de subir y bajar consigna de potencia reactaiva, se coloca en remoto automatico y se verifica que reciba los mandos de potencia reactiva desde el centro de control , se coloca en control conjunto y se deja en observacion, queda trabajando bien.
+
+oscar arango , fredy duarte, jose montoya.

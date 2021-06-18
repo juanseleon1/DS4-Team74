@@ -1,0 +1,16 @@
+INSTALAR SENSOR PIEZO ELÉCTRICO DEL TANQUE DE CARGA, PARA LLEVAR LA SEÑAL AL REGULADOR DE VELOCIDAD.
+
+MAYO 22/2013 OT# 2298938 PROGRAMADOR: JRODRIGL EJECUTA: MARLON CARMONA
+
+Se verifica lazos de control del nivel de agua en el tanque de carga, se inyecta señal de corriente de 4 a 20 mA, se toman registran datos de señal en la IHM del regulador de velocidad e indicador análogo en el mismo tablero del regulador, se registran datos y se observa similitud de señal en ambos indicadores, ver datos registrados en tabla anexa.
+
+Informa: Jorge Rodríguez
+
+FECHA: NOVIEMBRE 20/2013 OT# 2298938 PROGRAMADOR: JRODRIGL EJECUTA: MARLON CARMONA
+
+Se instala bobina del freno electromagnetico, en el motor que comanda el cierre y la apertura de la compuerta en el tanque de carga, queda pendiente realizar pruebas funcionales, ya que hace falta tornillos pasadores en el acople mecánico.
+
+Se instala sonda piezoeléctrica para la medición de nivel en el tanque de carga, se hace escalización con el llenado del tanque, se acondiciona la instalación en el tablero de distribución de potencia a 480 VAC, se realizan pruebas funcionales con la unidad sincronizada, hasta 4.5 MW y se estuvo monitoreando el nivel de agua en el tanque de carga, se observa que la medida quedo bien escalizada.
+Por restriciones en el sistema la unidad se deja trabajando en control por potencia.
+
+Informa: Jorge Rodríguez

@@ -1,0 +1,7 @@
+FECHA: Agosto 14/2017 PROGRAMADOR: Daniel Palacios.EJECUTO: Ronal Arango.
+Serealiza mantenimiento al banco de baterias, se realizan mediciones de voltajes y densidades y se llenan planillas.
+
+
+FECHA 09 DE AGOSTO DEL 2017  PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION, PRUEBAS DE AUTONOMIA Y LIMPIEZA GENERAL DEL BANCO DE BATERIAS BB02 DE  LA CASA DE MAQUINAS PORCE III

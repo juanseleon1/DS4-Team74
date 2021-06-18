@@ -1,0 +1,25 @@
+Planeador: Santiago Ramírez
+Programadores: Francis Londoño, Oscar Ivan Parra.
+
+Objetivo:
+Inspeccionar y calibrar inicialmente el álabe 2 de P22 debido a fallas recurrentes del pernofusible, el cual falló el pasado 20 de diciembre y 31 de diciembre de 2016, ocasionando paros rápidos de la unidad.
+
+Planeación:
+
+Enero 1 de 2017: Se solicita consignación de emergencia al CCG para inspección y calibración del álabe 2 de la P22 entre las 7am y 5pm del 4 de enero.
+
+Ejecución:
+
+Enero 4 de 2017
+
+Al realizar la inspección al interior del caracol, se observa ralladuras en los anillos de descaste, en zona del álabe 2 y en otros. También se evidenció que el álabe 2 se encontraba asentado en el lainer inferior, al igual que otros 5 álabes. Por tal motivo, se solicitó ampliar la consignación hasta el 5 de enero a las 7pm.
+
+Se calibran los álabes 2,3,4,6,8. Se pulen ralladuras en el lainer en zona de álabes 2,3,4,5,6,7,8 . 
+Se cambian perno fusibles de los álabes 4 y 5, los cuales se encontraon reventados.                                              
+Se realizan pruebas en seco y en agua muerta de apertura del distribuidor evidenciando comportamiento normal .                                                                                   
+
+
+Se entrega la unidad a operación y se lleva hasta energizada el 5 de enero a las 6:30 pm.                                              
+Ejecuta : Equipo de mantenimiento y operación UOP                                                                 
+Lideres : Oscar Parra , Richard Jimenez , Daniel Palacios                                                      
+Jefe de trabajo : Santiago Ramirez  

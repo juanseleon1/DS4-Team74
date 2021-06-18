@@ -1,0 +1,2 @@
+FECHA: Mayo 22/2017PROGRAMO: Daniel PalaciosEJECUTO: Ronal Arango.
+Se cambian reles al cargador de baterias N°3 de la central Porce 3 (CB3).

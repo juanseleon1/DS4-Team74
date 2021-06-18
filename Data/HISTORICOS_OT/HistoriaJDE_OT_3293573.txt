@@ -1,0 +1,4 @@
+27/10/2016
+Se presenta falla ups #2, se le da reset y no responde.
+2017/01/04. CARLOS SANCHEZ
+SE CIERRA ESTA OT Y SE CONTINUA TRABAJANDO BAJO LA OT 3358420

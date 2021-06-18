@@ -1,0 +1,17 @@
+2018/12/04 RUBEN ARBOLEDA OT: 3792547
+Se crea OT para realizar el cambio de los aislamientos al rotor de la unidad 1
+
+2018-12-04 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3792547, PASO:1          
+Se inició con el cambio de aislamientos al rotor de la Unidad 1. 
+
+2018-12-05 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3792547, PASO:2          
+Se continuó con el cambio de aislamientos del rotor de la Unidad 1, se encintó las terminales y se realizó la pintura con glyptal.
+
+2018-12-18 REALIZÓ: OSCAR ALIRIO GIRALDO - SEBASTIAN HINCAPIE HURTADO,  PROGRAMO: FDIAZ OT: 3792547, PASO:3          
+se cambian aislamiento de las uniones del rotor de la unidad 1.
+
+2018-12-19 REALIZÓ: JUAN DAVID GARCIA - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3792547, PASO:4          
+se retira encintado que se coloco en las uniones de los polos del rotor de la unidad 1 por bajo aislamiento después de su instalación.
+
+2018-12-20 REALIZÓ: JUAN DAVID GARCIA - JOSE AGUDELO (PRACTICANTE),  PROGRAMO: FDIAZ OT: 3792547, PASO:5          
+se encintan nuevamente las uniones de los polos de la unidad 1, la resina aplicada en el anterior encintado presentó falla, la cual bajó el aislamiento.

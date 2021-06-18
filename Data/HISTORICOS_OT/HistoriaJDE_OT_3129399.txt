@@ -1,0 +1,3 @@
+XE: REVISION Y MEDIR MOTOBOMBAS REGULADOR HIDRAULICO
+
+Se hace mantenimiento eléctrico y limpieza a la bomba 2 de la estación hidráulica, se le aplica limpiador contactos, se revisa y reaprieta los bornes de alimentación, se hacen pruebas de arranque y funcionamiento y se toman los valores de corrientes  de arranque y corriente de régimen de trabajo, así como la caída de voltaje, también se mide aislamiento  el motor, los datos están en la planilla registro de mantenimiento revisión general de motores.

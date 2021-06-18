@@ -1,0 +1,11 @@
+2017/11/15 RUBEN ARBOLEDA
+Se realiza OT para retirar aceite de los PT's de la subestación, éstos PT's fueron cambiados por personal de la cuadrilla movil y se requiere extraer el aceite para transportarlos.
+
+2017-11-15 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3647926, PASO:1          
+Se extrajo aceite de los bujes de PT's de la subestación.
+
+2017-11-16 REALIZÓ: FERNANDO ANTONIO RUIZ - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3647926, PASO:2          
+Se continuó sacando aceite de los bujes de los PT's de S/E
+
+2017-11-19 REALIZÓ: SEBASTIAN HINCAPIE HURTADO - JHONATAN ANDRES USME,  PROGRAMO: RARBOLG OT: 3647926, PASO:3    
+Se finalizó con la extracción de aceite de los PT's de la subestación, estos PT's quedaron en el patio para enviar hacia aprovechamiento en medellín.

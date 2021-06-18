@@ -1,0 +1,23 @@
+2014/01/30 SERGIO OLIVARES
+Se envio transformador del circuito Guatapè Alejandrìa en càmara de vàlvulas, para cambio de bobina 
+a Rymel con fuga de corriente en la fase T. La bobina se suministro al proveedor para su cambio. Es un transformador seco en resina colada.
+
+ Datos transformador:
+ Potencia: 225 kva
+ Voltaje primario; 13200 vac.
+ Voltaje segundario: 440 -254 vac.
+ Frecuencia: 60 ciclos.
+ Marca: SIERRA
+ Serie: 3533103
+
+2014/09/18 RUBEN ARBOLEDA 
+Se recibió el tranformador reparado y se reprograma la fecha de ejecución, para el 23 de Septiembre de 2014
+
+2014/09/23 EDWAR LONDOÑO - JHONATAN USME - SERGIO OLIVARES
+Se realizó medición de aislamiento y adecuación logistica, para lo cual se identificó que la bobina cambiada no fue la solictada, se deja pendiente para cambio nuevamente por parte con el proveedor. se pone la ot en estado 35. 
+
+2014-12-07 RUBEN ARBOLEDA
+Por falta de mano de obra se aplaza hasta el mes de febrero de 2015. 
+
+
+

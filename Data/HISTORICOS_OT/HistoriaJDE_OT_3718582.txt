@@ -1,0 +1,9 @@
+30/04/2018.
+Informan : Marta Parra,Ivan Zapata,Carlos Torres.
+revisar sistema de control de las  agujas prioritarias 1 y 3 del regulador de velocidad ya que le provocaron un paro rapido.
+
+
+SE REVISAN LAZOS DE CONTROL EN EL REGULADOR DE VELOCIDAD DE LA UNIDAD, SE CAMBIA DE PRIORIDAD DE LOS INYECTORES Y SE LE DA UN RESET AL REGULADOR DE VELOCIDAD Y SE NORMALIZA SU CONTROL.
+
+
+REALIZO: GRUPO DE ELECTRONICA.  

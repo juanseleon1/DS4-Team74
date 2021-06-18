@@ -1,0 +1,10 @@
+11/03/19
+Abad De jesus Ramirez.
+El día de hoy se provocó paro a la motobomba CW8 mostrando alarma P2 (Protección de Sub carga), el parámetro estaba configurado en 0.8, se bajó a 0.7, Según calculo la corriente de disparo es de 92 amperios o menos, con el ajuste quedó en 80.5 o menos. 
+
+Corrientes de servicio: 90.4, 95.4, 90.6. 
+
+Se sospecha que esta motobomba está impulsando menos agua dado la corriente nominal 115 amperios.
+
+2019-03-11 REALIZÓ: EDWAR ALEXANDER LONDOÑO - RUBEN DARIO ARBOLEDA,  PROGRAMO: RARBOLG OT: 3817990, PASO:1          
+El día de hoy se provocó paro a la motobomba CW8 mostrando alarma P2 (Protección de Sub carga), el parámetro estaba configurado en 0.8, se bajó a 0.7, Según calculo la corriente de disparo es de 92 amperios o menos, con el ajuste quedó en 80.5 o menos. Corrientes de servicio: 90.4, 95.4, 90.6. Se sospecha que esta motobomba está impulsando menos agua dado la corriente nominal 115 amperios. 

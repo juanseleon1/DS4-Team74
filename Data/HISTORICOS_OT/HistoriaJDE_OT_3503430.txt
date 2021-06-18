@@ -1,0 +1,7 @@
+MANTENIMIENTO INSTRUMENTACION BANCO TRANSFORMADORES GUADALUPE 3
+14-06-2017
+PROGRAMADOR JOSE MONTOYA
+Se realizó inspección, limpieza y verificación a los sensores de temperatura Fase R-S-T y las caratulas de los termómetros.
+Se realizó limpieza a las RIO de los transformadores.
+Se revisaron los bornes del tablero de control de los transformadores y se verificaron las alarmas y disparos manualmente, accionando los micro swiches en los instrumentos de temperatura. 
+REALIZO: GRUPO DE ELECTRONICA

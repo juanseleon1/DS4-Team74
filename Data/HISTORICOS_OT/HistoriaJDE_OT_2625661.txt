@@ -1,0 +1,1 @@
+Presenta excesiva vibración cuando supera el 14% de apertura. Fue necesario dejar el sistema fuera de servicio porque también el asincrónico presenta problemas para el cierre del interruptor.

@@ -1,0 +1,7 @@
+MANTENIMIENTO ANUAL DEL NEUTRO
+AGOSTO 09 A 11 DEL 2018
+Se realizó el mantenimiento según el instructivo GCG3E0005. Se revisó el barraje del neutro, se revisan y se reaprietan conexiones, se revisan los CT´S (se petrolizan con dieléctrico como mejora implementada), resistencias de disipación y se realizó limpieza en toda la barra en general. No se evidencian anomalías.
+Nota: se desconectó el barraje para realización de pruebas electrica, después de finalizadas las pruebas se normaliza de nuevo el barraje
+
+Programo: Carlos Andres Forero
+Ejecuto: Jorge Echeverri-Daniel Arango

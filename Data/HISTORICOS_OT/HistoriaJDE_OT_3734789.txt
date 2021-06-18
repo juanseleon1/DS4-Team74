@@ -1,0 +1,28 @@
+FECHA: JUNIO 11 DE 2018
+
+SOLICITANTE: FRANCISCO CORDOBA - GEOVANNY ECHEVERRI
+
+DESCRIPCION: SE ESTA PRESENTANDO CONSTANTEMENTE DISPARO DE LA UNIDAD POR BAJO NIVEL  EN COJINETE DE TURBINA (G4U3GEBRGLTTRP_A), CON EL AGRAVANTE DE QUE ESTA SALIENDO ESTE DISPARO CON MAQUINA PARADA.
+SE HA VERIFICADO EL NIVEL FISICO DE ACEITE Y ESTE SE ENCUENTRA EN EL NIVEL NORMAL.
+
+POR FAVOR ATENDER ESTA SOLICITUD.
+
+GRACIAS.
+
+12-06-2018
+PROGRAMADOR JOSE MONTOYA
+Referente al paro rápido. Disparo nivel cojinete turbina bajo G4U3 OT: 3734789
+Se revisa el instrumento de medida y se observa que está presentando medida errónea, se deja desconectado el instrumento para evitar salida forzada por falsa señal, se debe estar monitoreando el nivel del cojinete.
+Informó: José Montoya
+
+18-06-2018
+PROGRAMADOR Luis Adrian Cardona
+Se realiza revision a sensor de nivel, se evidencia internamente en el sensor alto grado de humedad, y daño en su accionamiento, se encontro un repuesto, pero requiere de trabajo en taller mecanico para adaptacion (fabricar buje roscado).
+Informo Luis Adrian cardona
+
+18-06-2018
+PROGRAMADOR Luis Adrian Cardona
+Se acondiciono sensor en soporte, con la ayuda del personal del taller mecanico, se realizo montaje y calibracion en la unidad: quedo activando disparo por bajo nivel al perder 8 litros de aceite con respecto al nivel patrón.
+Se realizaron varias pruebas, encontrando un correcto funcionamiento.
+ejecuto: grupo mantenimiento electronico y mecanico
+Informo: Bernardo Bedoya 

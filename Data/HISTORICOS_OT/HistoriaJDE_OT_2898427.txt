@@ -1,0 +1,7 @@
+2015-10-07. JORGE ALBEIRO GARZON ESTRADA.
+
+CORREGIR FUGA DE ACEITE POR VÁLVULA DE APLICACIÓN DE SELLOS AGUAS ABAJO. QUE OCASIONA LA SALIDA DE LA UNIDAD EN DOS OCASIONES POR RELÉ FALLA MECÁNICA CON LA ALARMA NIVEL ACEITE TANQUE REGULADOR MUY BAJO.
+
+2015/10/14 DIEGO BEDOYA
+Se realiza el mantenimiento al bloque de sellos automáticos agua abajo, se cambia los oring que sellan la cámara de aceite porque los que tenia ya estaban malos  y se limpia con papel de lija 400: ya que se encontraba con corroción  
+trabajo realizado por Alejandro Castro y Anderson López

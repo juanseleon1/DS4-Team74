@@ -1,0 +1,21 @@
+Solicitante-Planeador: 4994
+Aprobador: 355694
+Fecha de solicitud: 20-02-2018
+Tipo de mantenimiento: Preventivo
+Acciones de mantenimiento: 
+Inspección general del estado de la estación
+Limpieza de estación
+Cambio de desecante de gabinetes
+Descarga y verificación de datos de la estación
+Análisis de datos de estado del datalogger y transmisor
+Verificación de sistema de potencia y puesta a tierra
+Verificación de sistema de transmisión
+Verificación del nivel de mira vs. sensor
+Realización de aforo
+Calibración de pluviómetro
+Cambio de Silica
+Verificación del BM
+Levantamiento topografico de la sección donde se encuentra ubicado el radar.
+Verificación del emplazamiento de la estación
+Se chequea BM, pendiente hidraulica.
+Levantamiento topografico

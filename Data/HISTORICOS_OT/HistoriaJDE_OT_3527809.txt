@@ -1,0 +1,10 @@
+JULIO 31 DE 2017    OT NÚMERO: 3527809     PROGRAMÓ: JGUINGUL     EJECUTARON:  ANDRÉS YEPES
+Se inyecto señal de 4 -20Ma a los indicadores de medida del tablero de control del Sistema Regulación de Velocidad.
+Ajuste y limpieza sensores de velocidad y posición en el sistema de regulación de velocidad 
+
+Tablero: Regulador de Velocidad U1 S2Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 0 0 0825 26 26 4 2001248 50 50 7.5 4201672 76 78 11.5 6502098 100 102 15 880Instrumento 1: Posición del Inyector (%) 
+Instrumento 2: Posición del Deflector (%)   
+Instrumento 3: Posición del Limitador (%)                                                                                          
+Instrumento 4: Potencia Activa (MW)
+Instrumento 5: Rotación (Rpm)                                                                                                
+

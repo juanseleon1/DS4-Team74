@@ -1,0 +1,31 @@
+OCTUBRE 15 DE 2017
+MANTENIMIENTO PREVENTIVO ELÉCTRICO EXCITACIÓN PRINCIPAL GENERADOR GUADALUPE III.
+MANTENIMIENTO PREVENTIVO CUATRIMESTRAL
+Se realiza mantenimiento preventivo según instructivo GCG3E009. Se retiran las escobillas de los portaescobillas, se realiza prueba de aislamiento antes de la limpieza, se lava toda la excitación con dieléctrico, se miden las escobillas, después de la limpieza se mide de nuevo aislamiento.
+
+Estos son los resultados del antes y el después de la limpieza.
+
+ANTES                                                             DESPUÉS
+Anillo superior: 79.5 M 500VDC              Anillo superior:  2.30 G
+Anillo inferior:   77.1 M 499VDC              Anillo inferior:     2.15 G
+
+Se cambian escobillas, ya que no tenían la medida para el criterio de aceptación. Son las siguientes:
+Excitacion principal
+Grupo 1: 1-2
+Grupo 4: 1
+Grupo 7: 1-2
+
+Nota: como mejora implementada en los cuatrimestrales, se reviso el sistema de sobrevelocidad mecanica, encontrando las siguientes novedades:
+
+ El fusible macanico del acople del PMG, se hallo desgastado (sin cuadrante).
+ El dispositivo de accionamiento de sobrevelocidad mecanica se hallo desgastado, por la friccion con los micro suiches.
+ El micro suiche SV1, se encontro en mal estado.
+
+Teniendo en cuenta estas novedades, se procedio a fabricar de nuevo los dispositivos con la ayuda del personal mecanico, se instalan de nuevo, se cambia el micro suiche y se realizan pruebas de sobreveliocidad mecanica. Obteniendo los siguintes resultados:
+
+MEDIDA SOBREVELOCIDADRPM Frecuencia Actua Sensor Observaciones450 30 No505 34 No538 35.3SiACTUOSe calibro al 115%542 36SiACTUO556 37Si569 39Si
+Se instala de nuevo la cupula del sistema de sobrevelocidad mecanica y se normaliza la excitacion.
+
+Ejecuto: Sergio Areiza-Tatiana Almario-Mateo Perez
+Programo: Carlos Andres Forero
+Planeo: Oscar Restrepo 

@@ -1,0 +1,13 @@
+PLANEADOR: RMONTOYG
+PROGRAMADOR: DANIEL PALACIOS
+FECHA: 25-04-2018
+OT PADRE: 3711314
+CONSIGNACIÓN: @147775
+OT: 3711338
+
+BAE: VERIFICAR Y LIMPIAR LUBRICACION FORZADA DE LA UNIDAD
+
+FECHA: ABRIL 25/2018PROGRAMO: DANIEL PALACIOSEJECUTO: JHON JADER ORREGO.
+
+Se realiza inspección, limpieza y mantenimiento a los tableros eléctricos TCBAM, acometidas y conexiones de los motores de AC y DC. Se toman medidas en los motores de aislamiento y se llenan registro.
+Trabajo realizado por: Jhon Orrego, Frank Cordoba y Angel Sanchez.

@@ -1,0 +1,46 @@
+FECHA: JUEVES30/06/2016
+PROGRAMO: MARIO G. B.
+EJECUTO: JEISON ORTEGA, MARIO RESTREPO 
+ASOCIADO A LA OT: 3112917
+ASUNTO: EJECUTAR MP PROGRAMADO
+
+
+
+Datos de placa:         P =   1HP       V = 115 vac        I =  14.4  A    
+
+1. Mantenimiento controles.
+1.1. Mantenimiento interruptor:  sí         
+1.2. Revisión cableado: sí
+1.3.  Mantenimiento contactor: sí 
+1.4. Revisión conexión: sí
+
+2. Mantenimiento motor.
+2.1. Aislamiento con respecto a tierra: 247 Moh
+2.2. Valores de voltaje y corriente:
+       Voltaje:          
+       RS =  110 vac
+       ST =                                                                   
+       RT =  
+       Corriente de arranque:  
+Fase R = 26.8 a
+       Corriente de marcha:  
+Fase R = 9.1 a
+Fase S =   
+Fase T =                                                                                 
+2.3. Temperatura excesiva carcaza: nó
+        Temperatura excesiva cojinetes:nó 
+        Vibración anormal: nó
+        Ruido anormal: nó
+
+3. Calibración térmico control: 12.5 a    Calibración térmico potencia : 12 a
+
+4. Funcionamiento control normal: sí 
+
+5. Horómetro = N/A
+
+6. Observaciones: para la medida de aislamiento se le aplicaron 113 Vdc durante 30 segundos . Equipo utilizado
+
+                                   Megguer MIT 420 Tiene condensador de 534 micrifaradios 
+
+                                  La bomba de combustible queda operando normal en lo eléctrico
+

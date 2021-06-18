@@ -1,0 +1,9 @@
+FECHA: MAYO 8/2018PROGRAMADOR: DANIEL PALACIOS EJECUTANTE:OSCAR MONTOYA.
+Se realiza revision al rotor de la unidad, se retiran tapas de inspección superiores e inferiores para inspección, se revisan cabezas de bobinas y uniones interpolares, se toman registros fotograficos, se realizan pruebas electricas (DAR, aislamiento, resistencia ohmica, etc)y se llenan registros, el Ing. Gabriel Santiago tambien realiza pruebas al rotor de la unidad.
+
+PLANEADOR: LUIS FEDERICO ALVAREZ ALVAREZ
+PROGRAMADOR: DANIEL EDUARDO PALACIOS OCHOA
+
+EN ESTA OT SE REGISTRAN LOS TRABAJOS DE INSPECCION Y LIMPIEZA Y PRUEBAS ELECTRICAS DEL ROTOR DE GENERADOR EN LA UNIDAD No 1 DE PORCE 3, SE REPORTARAN LOS HALLAZGOS Y EVIDENCIAS FOTOGRAFICAS Y RESULTADOS DE LAS PRUEBAS ELECTRICAS Y FIBROSCOPIA DEL ROTOR, FALLAS EN LOS EQUIPOS Y COMPONENTES DEL ROTOR DE GENERADOR.
+
+SE ENCONTRO EN CONDICIONES NORMALES

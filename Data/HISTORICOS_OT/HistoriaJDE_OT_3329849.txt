@@ -1,0 +1,15 @@
+MANTENIMIENTO PREVENTIVO A LA CELDAS DE 6.9 KV
+
+
+NOVIEMBRE 10 DE 2016
+Se realizan las siguientes actividades:
+
+-Se realizó inspección y limpieza en todas las celdas y el barraje como tal, incluyendo los PT´S, interruptores, fusibles, seccionador, seccionador de puesta a tierra y todos los demás elementos que componen el equipo.
+
+- Se realizó inspección, verificación y ajuste en todos los puntos de conexión de potencia y control.
+
+Nota: En la inspección realizada, se observa que el relé que se encuentra instalado en la celda de los mandos del seccionador, no tiene visualización y no presenta monitoreo de ninguna variable eléctrica. Se revisa para determinar la posible falla, se encuentra como novedad relevante, que el problema puede ser en la fuente ya que la tensión de alimentación llega al equipo sin problema alguno. Se debe revisar más a fondo para determinar la verdadera causa. 
+
+En la siguiente ruta del servidor, quedan los registros fotográficos del antes y el después del mantenimiento: <\\epm-dc05\2000\2680 A  Guadalupe\MANTENIMIENTO\1-Mantto General\1-General\02 CADENA GUADALUPE\ATENCION EVENTOS MAYORES GENERACION\Paro de Cadena (Noviembre 05 al 10  de 2016)\4. PLANEACION\4.1 ELECTRICISTAS\TRABAJOS TRO\IR. Mna>
+
+PROGRAMÓ: Carlos Forero

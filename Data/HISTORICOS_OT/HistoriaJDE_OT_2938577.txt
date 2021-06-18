@@ -1,0 +1,3 @@
+2016/11/23 EDWAR LONDOÑO - JAIDIBER MARIN (PRACTICANTE), PROGRAMO: RARBOLG
+Se realizó limpieza general y revision del funcionamiento, no se accancó, se tomaron los siguientes datos: 
+EQUIPO: EXTRACTOR E6 CORRIENTE: R:1,1, S:1, T:1, VOLTAJES RS:449, ST:448, TR:451, AISLAMIENTO DE MOTOR: 898 M, OT:2938577

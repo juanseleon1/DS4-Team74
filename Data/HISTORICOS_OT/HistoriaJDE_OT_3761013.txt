@@ -1,0 +1,19 @@
+SEP 9/2018 PROGRAMO: JGUINGUER EJECUTO: ALEXANDER VILLA
+Se realiza mantenimiento, ajuste de la instrumentación de la válvula de admisión todo los elementos se encuetran dentro de los valores permitidos
+Válvula Admisión Inyección Ma. Inst. 1 Inst. 2 Inst. 3 Inst. 4 Inst. 5 Inst. 6 Inst. 740 0 082.5 3.90 3.87125 7.94 7.89167.5 11.92 11.912010 15.96 15.95
+Instrumento 1: Tubo de Aspiración (bar)  
+Instrumento 2: Aguas Abajo (bar)
+Instrumento 3: Aguas Arriba (bar)
+Instrumento 4: 
+Instrumento 5: 
+
+MANÓMETRO TUBO DE ASPIRACIÓNPatrón Equipo0.5MPa 0.5MPa1Mpa 1Mpa1.5Mpa 1.5MpaPRESOSTATO AGUAS ABAJOContacto ActivaciónNO 6.1 barNC no usadoPRESOSTATO AGUAS ARRIBAContacto Activación NO 4.4 barNC no usado
+
+
+ENE 31/2018 PROGRAMO: JGUINGUER EJECUTO: ALEXANDER VILLA
+OT: 3673785 VALVULA ADMISION C. PAJARITO
+Se realiza mantenimiento, ajuste de la instrumentación de la válvula de admisión
+
+Transductor aguas arriba BD Sensors 16 bar DMP331mA 4,112 8 12 16 20bar 0 3,88 7,88 11,9 15,37Transductor aguas abajo BD Sensors 16 bar DMP331mA 4,089 8 12 16 20bar 0 3,90 7,90 11,89 15,45
+FEB 15/2016 PROGRAMO: JGUINGUER EJECUTO: ALEXANDER VILLA
+SE REALIZO MANTENIMIENTO  A LA CAJA DE PASO Y A TODA LA INSTRUMENTACION PERTENECIENTE A LA VALVULA DE ADMISION, MICRO SUICHES DE POSICION Y PRESOSTATOS AGUAS ARRIBA Y AGUAS ABAJO.   

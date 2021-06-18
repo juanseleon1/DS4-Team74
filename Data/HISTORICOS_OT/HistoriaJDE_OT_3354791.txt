@@ -1,0 +1,49 @@
+BM: MEDIR VIBRACIONES MOTOBOMBAS CW REFRIGERACION UNIDADES GENERADORAS,LA CLARA GUATAPE, AFFA, ACRA, ACA. ESTE EQUIPO DEBE ESTAR EN LÍNEA.
+
+
+2017/01/31 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba CW3 y se obtienen los siguientes resultados:  
+
+Sistema de medición (RMS)
+
+1 Horizontal X: 3.46 mm/seg
+1 Horizontal Y: 4.61 mm/seg
+2 Horizontal X: 1.68 mm/seg
+2 Horizontal Y: 2.26 mm/seg
+2 Axial V: 0.73 mm/seg
+
+Los datos fueron realizados por Fabio Herrera y Andres Alzate
+
+marzo 25 de 2017 
+
+ot cerrada 
+
+andres ramirez 
+
+
+
+   BM: MEDIR VIBRACIONES MOTOBOMBAS CW REFRIGERACION UNIDADES GENERADORAS,LA CLARA GUATAPE, AFFA, ACRA, ACA. ESTE EQUIPO DEBE ESTAR EN LÍNEA.
+
+
+2017/01/31 DIEGO BEDOYA
+Se realiza el procedimiento de medida de vibraciones de la motobomba CW3 y se obtienen los siguientes resultados:  
+
+Sistema de medición (RMS)
+
+1 Horizontal X: 3.46 mm/seg
+1 Horizontal Y: 4.61 mm/seg
+2 Horizontal X: 1.68 mm/seg
+2 Horizontal Y: 2.26 mm/seg
+2 Axial V: 0.73 mm/seg
+
+Los datos fueron realizados por Fabio Herrera y Andres Alzate
+
+marzo 25 de 2017 
+
+ot cerrada 
+
+andres ramirez 
+
+
+
+   

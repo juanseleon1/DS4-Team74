@@ -1,0 +1,13 @@
+Marzo 28/2014
+Operación Glll
+Está saliendo alarma nivel bajo, Revisar y corregir 
+
+31/MARZO/2014
+REFERENTE AL SENSOR DE NIVEL
+
+Se realiza la inspeccion visual en la cuba del Cojinete Inferior, comprobando fisicamente que el nivel de aceite de la cuba se encuentre en el setpoint patron, efectivamente se observa que al visor mecanico le falta un poco de aceite. Se procede a recuperar el nivel de aceite y se le agregan 6 Lts.
+Despues de este procedimiento se realiza el drenaje del instrumento y se comprueba la lectura en la pantalla de unidad.
+El instrumento queda normal y dentro del patron, el cual es 360.0mm 
+
+Informo: Oscar Arango                                                                                                                                          
+

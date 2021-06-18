@@ -1,0 +1,11 @@
+08/04/2014 SE PRODUCE FALLA EN LA FUENTE DE 24V QUE ALIMENTA EL MODULO DE SALIDAS DIGITALES DEL PLC. INFORMO: HRUIZP
+
+Paro rapido 86 R con 169 MW. Falla en la fuente de 24 v de la compuerta de descarga  Realizó: Walter Tobon - Turno 3
+
+09/04/2014
+
+Durante la falla se realiza verificacion de la fuente de 24 VDC que presente bloqueo por corriente subita a la salida, se verifican las cargas de salida de 24 VDC y esta normaliza, pendiente realizar verificacion de las cargas de este tablero. se normalizan los disparos y la unidad queda disponible.
+
+Realizado por Wtobonl
+
+no se volvio a presentar el problema, cerrada

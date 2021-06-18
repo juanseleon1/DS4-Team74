@@ -1,0 +1,10 @@
+26/07/2018 - 7:40.
+
+Desde hace varios meses la Valvula Automatica de marca Rotor K fallo, al parecer por deficiencia mecanica lo que ocasiona, tener bloqueda la apertura y cierre del By Pass en forma automatica, se requiere entonces hacerlo manualmente en el paso 3 de la Secuencia de Arranque y en el paso 5 de paro normal, pues por lo anterior se tiene desconectado el control automatico y de comunicaciòn con la Unidad.
+
+Se solicita reparar y adaptar la Valvula requerida para este trabajo en forma eficiente para tener el control automatico de la Unidad.
+
+Informa: Turno 3 - Tecnologo Operador - Wilson Arango Bedoya.
+
+
+Esta ot se atiende en el aplicativo de Maximo.

@@ -1,0 +1,6 @@
+
+FECHA: JULIO 01 DE 2014
+
+RESPONSABLE:  HENRY GIRALDO, ELIECER PUSHAINA Y ALVARITO PUSHAINA
+
+Se presenta falla por Brake Not Open Analog, se encuentra el freno inferior con falla, se procede a cambiarlo, después de terminar el cambio se procedió a drenarlo pero seguía saliendo la falla de brake not open analog, se observa que sin tener fuga los frenos la presión de estos no llegaba a los valores de trabajo y llega en máximo 60 bar, se encuentra la válvula 290 con problemas en el accionamiento de la bobina, queda muy suelta la bobina, se coloca una cuña en el espacio y se deja trabajando. Mañana se corregirá adecuadamente.

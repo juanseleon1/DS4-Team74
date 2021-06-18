@@ -1,0 +1,5 @@
+MANTENIMIENTO GENERAL REGUALDOR TENSION CENTRAL PORCE 2.
+
+Se realiza mantenimiento al regulador  de tensión, sin novedades.
+Se realiza verificación y limpieza a las borneras de control, en el interior del tablero y se realiza inspección visual de los transductores de medida e indicadores locales. Se revisan físicamente los conectores.
+

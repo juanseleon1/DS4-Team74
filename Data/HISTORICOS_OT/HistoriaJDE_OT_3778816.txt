@@ -1,0 +1,10 @@
+MP ANUAL:
+2364 ESTATOR GENERADOR U12365 ESTATOR GENERADOR U22366 ESTATOR GENERADOR U32367 ESTATOR GENERADOR U42368 ESTATOR GENERADOR U52369 ESTATOR GENERADOR U6
+
+PLANEADOR:CARLOS GIRODANELLI
+
+PROGRAMADOR:WILLIAM LOPERA
+
+NOVIEMBRE 22 DE 2018
+Se realiza mantenimiento anual electrico, se verifican las cabezas de bobina encontrándose en buenas condiciones, uniones de los polos del rotor y limpieza de los alrededores del estator.
+Programó: William Lopera.

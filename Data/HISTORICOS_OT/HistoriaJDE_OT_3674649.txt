@@ -1,0 +1,2 @@
+2018/01/18 VICTOR ZULETA
+Se realiza cambio del sensor de temperatura de agua cojinete de turbina de la unidad.

@@ -1,0 +1,8 @@
+FECHA: 30/06/2017 OT # 3379046 PROGRAMO R JIMENEZ,  DAVISON PEREZ.
+SE REALIZA PRUEBAS DE DISPAROS A L0S INTERRUPTORES MASTER PACK DE 480 VAC, PARA VERIFICAR EL CORRECTO FUNCIONAMIENTO DE LA UNIDAD DE DISPARO CON LA MALETA DE PRUEBA, SE  SIMULAN LOS DIAPAROS  DE CORTOCIRCUITO LARGO, CORTO, SOBRE CARGA, FALLA A TIERRA, E INSTANTANEA FUNCIONANDO CORRECTAMENTE LA UNIDAD.
+
+ESTA OT ES GENERADA POR EL PROGRAMA DE MP QUE REALIZARÁN LOS OPERADORES / MANTENEDORES DE PORCE2.
+
+AE: REVISION Y CALIBRACION
+
+Procedimiento aplicable a todos los interruptores del tablero principal a 480v de casa maquinas, los interuptores de las transferencias automaticas del tablero de servicios miscelaneos a 208v y las transferencias automaticas de las tres unidades, al igual que la transferencia automatica del tablero de servicios miscelaneos a 208v de la subestacion Porce.  Consiste en realizar calibracion y ajustes (si se requiere) a los modulos de protecciones de los interruptores MASTER PACK, con el proposito de mejorar  su confiabilidad.
