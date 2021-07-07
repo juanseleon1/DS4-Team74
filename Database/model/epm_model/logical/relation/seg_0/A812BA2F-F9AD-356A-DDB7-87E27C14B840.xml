@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="work_order_problem" directorySegmentName="seg_0" id="A812BA2F-F9AD-356A-DDB7-87E27C14B840">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:19:38 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<sourcePk>FBDDAB8F-7D7E-23B4-962D-3E6D00626F6C</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>274804C1-6538-5DA4-7790-A7B00A700D01</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2F43F129-A315-D4D0-015F-5B7D67AF3E3B</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

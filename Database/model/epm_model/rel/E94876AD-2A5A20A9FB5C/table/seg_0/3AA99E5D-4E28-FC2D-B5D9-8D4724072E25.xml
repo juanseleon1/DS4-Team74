@@ -1,0 +1,49 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3AA99E5D-4E28-FC2D-B5D9-8D4724072E25" name="worktype">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>BCE7F7D5-5E54-F891-E2FC-BF7F98459431</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="worktype_id" id="79C637A2-3B65-C7AD-DE1D-B089484BAD9F">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>0EE58A72-54BB-76FF-CC12-6AE7468FDAE6</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="worktype" id="9DC39E86-13CF-1103-8B7B-A280A71A9EFC">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>805E0371-3097-757C-CAEF-9F7BF1504DDC</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1673424E-EF96-1078-CBF5-0F2ABB2E5C1D" name="worktype_PK">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>C8126A67-0387-6F02-A845-EF907F8BE61B</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="79C637A2-3B65-C7AD-DE1D-B089484BAD9F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,63 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="54CF7095-6F07-6F03-67B2-B465EE4B50B9" name="remedy">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>4B7C3DBF-73DC-758B-6819-08792BAAB969</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="remedy_id" id="6169AA2E-7BFF-ADAC-2F56-329CD48192ED">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>2AA66E61-5BEF-47A8-DCB9-908BB531B8B4</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="failurecode" id="5A4BBCCA-F858-A08A-5DCE-7497D941D2B4">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>B6ECE362-A910-179B-0ED4-D5B12C6A75D3</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="description" id="A6D5EEAF-CF9F-291E-DF94-D85D76526237">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>B84B90E5-D72C-DF20-3CE9-42EB21B06499</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="82858A3B-8FB0-396E-B2A0-44D1759E653C" name="remedy_PK">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>CCE53C9B-30BA-85E4-B9B2-00F90BBC034C</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6169AA2E-7BFF-ADAC-2F56-329CD48192ED"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

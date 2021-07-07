@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="E0291C74-9714-9C7F-D96D-9E5926421F4B" containerWithKeyObject="16A1D6E0-767D-F22C-4E4F-9C201AC05235" localFKIndex="A2535D8B-C90B-6009-9F01-16B30551F232" name="Asset_clasificacion_FK">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:22:28 UTC</createdTime>
+<generatorID>820CD0D2-10AA-ED40-B114-473830176DE2</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<referredTableLongName>clasificacion</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>BA4E050C-EF76-D9B8-1F0B-5C3C499BF2CA</referredTableID>
+<keyObject>00302FEA-CDE5-84F5-CC48-FFA5973CEB33</keyObject>
+<referredKeyID>00302FEA-CDE5-84F5-CC48-FFA5973CEB33</referredKeyID>
+<mandatory>false</mandatory>
+<refColNames>classstructureid</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

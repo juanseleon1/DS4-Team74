@@ -1,0 +1,187 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="2F43F129-A315-D4D0-015F-5B7D67AF3E3B" name="work_order">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:50:57 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="wonum" id="149AAB01-CE04-E308-4517-2CC9760C3DF2">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:53:14 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="description" id="BD004FAC-5AF4-38B3-05EE-BF6C8A7FC4D6">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:53:25 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="reportdate" id="344D7AD9-F420-A07A-C8D3-45C3B3FD68B4">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:53:47 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="actstart" id="B2185EC7-08DB-2B9D-88F0-C5CD6045FF2E">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:55:54 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="actfinish" id="19130387-820A-E12C-EDFE-5DD1621B145B">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:56:07 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="worklog" id="F9C49326-9938-BFC7-5234-083042561E06">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:56:16 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>600</dataTypeSize>
+<ownDataTypeParameters>600,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="assetnum" id="A28C9A4B-FF5E-1BBB-E024-E23A93BDDCE4">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:13:21 UTC</createdTime>
+<generatorID>8C2BF464-4EDF-FB84-0719-07093802ED1A</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>72396459-D2AA-DD85-C597-50B5A5074B2A</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="worktype_id" id="0B09FDE2-4CD2-D61E-150E-C011AEFB7D35">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:14:54 UTC</createdTime>
+<generatorID>476F88D0-D30C-0E21-F0AB-96E1D84213B1</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>0EE58A72-54BB-76FF-CC12-6AE7468FDAE6</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cause_id" id="974CFAD5-33BF-7216-7660-F989A75FD742">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:18:36 UTC</createdTime>
+<generatorID>6A16BA75-686A-C840-D8A8-9F0CD646F2C9</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>1739FE55-5C44-DA9B-0779-28EE2C29380A</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="problem_id" id="3A2E8ED9-9324-4169-2299-AAC4AE39E9EC">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:19:38 UTC</createdTime>
+<generatorID>A812BA2F-F9AD-356A-DDB7-87E27C14B840</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>65FEA87A-1769-1BA3-9464-53EE0A433734</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="remedy_id" id="D7B1EF32-9FBF-4357-A0C9-6924D6345EF1">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 01:20:35 UTC</createdTime>
+<generatorID>0F2EE3E6-41BB-2B26-5AE4-07FBF64D2EBC</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>2AA66E61-5BEF-47A8-DCB9-908BB531B8B4</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="37D4EB0E-E867-8775-3F85-CF595B6461AE" name="orden_de_trabajo PK">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-07 00:53:21 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>149AAB01-CE04-E308-4517-2CC9760C3DF2</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>
