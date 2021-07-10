@@ -169,14 +169,29 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
+<Attribute name="old_wo" id="5FE4B767-2B3C-04D0-414C-E2F01AE870C1">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-09 20:49:40 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="37D4EB0E-E867-8775-3F85-CF595B6461AE" name="orden_de_trabajo PK">
 <createdBy>juans</createdBy>
 <createdTime>2021-07-07 00:53:21 UTC</createdTime>
 <ownerDesignName>epm_model</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
 <engineerTo>
-<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="false"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>

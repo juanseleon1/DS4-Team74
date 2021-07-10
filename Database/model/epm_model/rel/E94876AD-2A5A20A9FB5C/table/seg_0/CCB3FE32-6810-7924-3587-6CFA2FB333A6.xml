@@ -161,6 +161,19 @@
 <colAssociation fkAssociation="67116A9F-232A-F298-4D1B-A8FEA3080CF0" referredColumn="6169AA2E-7BFF-ADAC-2F56-329CD48192ED"/>
 </associations>
 </Column>
+<Column name="old_wo" id="13870E16-D863-E9AF-F063-38394D244AAA">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>5FE4B767-2B3C-04D0-414C-E2F01AE870C1</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
 <ind_PK_UK id="625D232C-276A-C727-D1E3-FBA8AF91E798" name="work_order_PK">

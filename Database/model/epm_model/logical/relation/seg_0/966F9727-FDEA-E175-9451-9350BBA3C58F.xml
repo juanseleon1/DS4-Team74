@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="steps_per_wo" directorySegmentName="seg_0" id="966F9727-FDEA-E175-9451-9350BBA3C58F">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:12 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<engineerTo>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+</engineerTo>
+<sourcePk>37D4EB0E-E867-8775-3F85-CF595B6461AE</sourcePk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2F43F129-A315-D4D0-015F-5B7D67AF3E3B</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>9D03153D-DD65-C553-7D95-6745B080D7C9</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

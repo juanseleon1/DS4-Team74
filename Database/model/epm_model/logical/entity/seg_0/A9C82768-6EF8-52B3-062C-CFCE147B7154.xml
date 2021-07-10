@@ -82,20 +82,6 @@
 <logicalDatatype>LOGDT007</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="siteid" id="A836E78E-7DD6-EB86-F21F-1154532A1F3E">
-<createdBy>juans</createdBy>
-<createdTime>2021-07-07 00:39:07 UTC</createdTime>
-<ownerDesignName>epm_model</ownerDesignName>
-<engineerTo>
-<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
-</engineerTo>
-<nullsAllowed>true</nullsAllowed>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT024</logicalDatatype>
-<dataTypeSize>20</dataTypeSize>
-<ownDataTypeParameters>20,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="priority" id="1BEE559E-6172-02F8-806D-33E8021DDFC1">
 <createdBy>juans</createdBy>
 <createdTime>2021-07-07 00:40:16 UTC</createdTime>
@@ -145,8 +131,9 @@
 <createdBy>juans</createdBy>
 <createdTime>2021-07-07 00:27:32 UTC</createdTime>
 <ownerDesignName>epm_model</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
 <engineerTo>
-<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="true"/>
+<item key="E94876AD-8E6F-8D00-8CEA-2A5A20A9FB5C" value="false"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>

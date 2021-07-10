@@ -1,0 +1,113 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="A13B0EF2-2696-C75C-8FD2-5B534E1018B6" name="solution_step">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>9D03153D-DD65-C553-7D95-6745B080D7C9</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id" id="0CD4AF4E-10D1-8DD3-C187-130544D4CA30">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>A019398C-F731-8AE7-C964-975028A0554C</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="description" id="FDD953D6-0181-A2B2-48B7-EE53FA2F0886">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>3979786E-2F5D-F3E0-CD36-241A40B8F959</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>400</dataTypeSize>
+<ownDataTypeParameters>400,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="responsable" id="8C67AC61-2191-6D02-8B57-8768C46568A0">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>18231797-CA78-D508-10C1-49CB53CE489A</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="order" id="854EFB8A-7C98-14F1-8C4A-3EFAA02891E1">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>952A2BFE-93FC-8988-C932-1C8A3615FC1C</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="work_order_wonum" id="82B6881B-2DD9-B79A-49A3-7891306F4266">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>200F9D42-69B1-4059-EF17-1A3B2477EE0C</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="1D43111E-8236-C038-9C03-A6821C87200E" referredColumn="DA1789EB-230F-2405-39FC-BF6E1F53C2FE"/>
+</associations>
+</Column>
+<Column name="date" id="C9FB5075-A27D-47F2-02EC-B8DCA150FAA4">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:41:36 UTC</createdTime>
+<ownerDesignName>epm_model</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7B1C2120-A393-0F7C-C079-F89F48D059F7" name="solution_step_PK">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>A7A5D7AC-5E89-BDC9-D808-8C32E1E54730</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0CD4AF4E-10D1-8DD3-C187-130544D4CA30"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="11B7AACB-4A5F-46F7-9713-22F34EF7391B" name="solution_step_work_order_FK">
+<createdBy>juans</createdBy>
+<createdTime>2021-07-10 19:34:55 UTC</createdTime>
+<generatorID>966F9727-FDEA-E175-9451-9350BBA3C58F</generatorID>
+<ownerDesignName>epm_model</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="82B6881B-2DD9-B79A-49A3-7891306F4266"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
